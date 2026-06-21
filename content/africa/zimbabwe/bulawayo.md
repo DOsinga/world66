@@ -5,7 +5,7 @@ done:
 latitude: -20.15606
 loc_type: city
 longitude: 28.588706
-score: 0.38
+score: 0.34
 title: Bulawayo
 type: location
 image: bulawayo.jpg

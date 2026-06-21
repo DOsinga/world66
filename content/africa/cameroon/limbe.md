@@ -5,7 +5,7 @@ done:
 latitude: 4.0103
 loc_type: city
 longitude: 9.2071
-score: 0.41
+score: 0.33
 sources:
 - https://en.wikipedia.org/wiki/Limbe,_Cameroon
 title: Limbe

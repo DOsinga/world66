@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Church_on_the_Blood,_Yekat
 latitude: 56.838207
 loc_type: city
 longitude: 60.600789
-score: 0.45
+score: 0.36
 title: Ekaterinburg
 type: location
 ---

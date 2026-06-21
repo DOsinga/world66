@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Balboa,_Panama_City,_Panam
 latitude: 8.9524
 loc_type: city
 longitude: -79.5617
-score: 0.47
+score: 0.4
 title: Balboa
 type: location
 ---

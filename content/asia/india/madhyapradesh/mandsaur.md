@@ -5,7 +5,7 @@ done:
 latitude: 24.262815
 loc_type: city
 longitude: 75.385692
-score: 0.33
+score: 0.25
 title: Mandsaur
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 55.743347
 loc_type: city
 longitude: -97.863464
-score: 0.32
+score: 0.24
 title: Thompson
 type: location
 ---

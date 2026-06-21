@@ -6,7 +6,7 @@ latitude: 61.08
 longitude: 14.8
 title: Siljan area
 type: location
-score: 0.56
+score: 0.47
 loc_type: city
 ---
 

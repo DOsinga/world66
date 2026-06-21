@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:IsladeCoche.jpg
 latitude: 10.776366
 loc_type: city
 longitude: -63.94505
-score: 0.44
+score: 0.36
 title: Coche Island
 type: location
 ---

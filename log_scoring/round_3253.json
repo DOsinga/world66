@@ -1,0 +1,200 @@
+{
+  "round": 3253,
+  "timestamp": "2026-06-13T22:40:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Red River Gorge",
+      "path": "northamerica/unitedstates/kentucky/redrivergorge",
+      "prior_score": 1.9518,
+      "prior_variance": 0.130419,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Coronado",
+      "path": "northamerica/unitedstates/california/coronado",
+      "prior_score": 2.5125,
+      "prior_variance": 0.176689,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Fenghuang",
+      "path": "asia/china/hunan/fenghuang",
+      "prior_score": 5.027,
+      "prior_variance": 0.150676,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Winterberg",
+      "path": "europe/germany/northrhinewestphalia/sauerland/winterberg",
+      "prior_score": -0.5824,
+      "prior_variance": 0.128335,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Sant Mateu",
+      "path": "europe/spain/castellon/san_mateu",
+      "prior_score": -2.6796,
+      "prior_variance": 0.174313,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Ferndale",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale",
+      "prior_score": -2.7003,
+      "prior_variance": 0.127782,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Palm Desert",
+      "path": "northamerica/unitedstates/california/deserts/palmdesert",
+      "prior_score": -1.3206,
+      "prior_variance": 0.117604,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/washington/burlington",
+      "prior_score": -3.3474,
+      "prior_variance": 0.143997,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/kansas/kansascity",
+      "prior_score": -3.2539,
+      "prior_variance": 0.159103,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Charlotte",
+      "path": "northamerica/unitedstates/northcarolina/charlotte",
+      "prior_score": -2.357,
+      "prior_variance": 0.122783,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Oakland",
+      "path": "northamerica/unitedstates/california/oakland",
+      "prior_score": -2.6183,
+      "prior_variance": 0.125949,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/north_island/waikato/hamilton",
+      "prior_score": -1.6955,
+      "prior_variance": 0.139845,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Mandeville",
+      "path": "northamerica/jamaica/mandeville",
+      "prior_score": -1.3997,
+      "prior_variance": 0.116907,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Qionghai",
+      "path": "asia/china/hainanisland/qionghai",
+      "prior_score": -2.413,
+      "prior_variance": 0.144478,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Dungarpur",
+      "path": "asia/india/rajasthan/dungarpur",
+      "prior_score": -1.9788,
+      "prior_variance": 0.130212,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_score": -1.5976,
+      "prior_variance": 0.119578,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Jayapura",
+      "path": "asia/indonesia/irianjaya/jaya_pura",
+      "prior_score": -2.8238,
+      "prior_variance": 0.128423,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Utique",
+      "path": "africa/tunisia/utique",
+      "prior_score": -1.953,
+      "prior_variance": 0.146459,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_score": -5.5655,
+      "prior_variance": 0.211741,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Tamale",
+      "path": "africa/ghana/tamale",
+      "prior_score": -4.0391,
+      "prior_variance": 0.136039,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "William Creek",
+      "path": "australiaandpacific/australia/southaustralia/william_creek",
+      "prior_score": -3.2798,
+      "prior_variance": 0.14841,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Minden",
+      "path": "northamerica/unitedstates/nebraska/minden",
+      "prior_score": -5.9556,
+      "prior_variance": 0.17142,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Lippstadt",
+      "path": "europe/germany/northrhinewestphalia/lippstadt",
+      "prior_score": -2.5212,
+      "prior_variance": 0.147753,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Maadi",
+      "path": "africa/egypt/maadi",
+      "prior_score": -3.6927,
+      "prior_variance": 0.143064,
+      "prior_n": 10
+    }
+  ]
+}

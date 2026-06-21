@@ -5,7 +5,7 @@ done:
 latitude: 0.785204
 loc_type: city
 longitude: 127.383234
-score: 0.49
+score: 0.45
 title: Ternate
 type: location
 ---

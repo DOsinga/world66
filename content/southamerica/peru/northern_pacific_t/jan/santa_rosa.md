@@ -5,7 +5,7 @@ done:
 latitude: -5.411
 loc_type: city
 longitude: -78.756
-score: 0.29
+score: 0.24
 title: Santa Rosa
 type: location
 ---

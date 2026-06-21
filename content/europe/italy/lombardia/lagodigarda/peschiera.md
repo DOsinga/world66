@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Berth_in_Peschiera_del_Gar
 latitude: 45.44
 loc_type: city
 longitude: 10.6896
-score: 0.67
+score: 0.54
 title: Peschiera del Garda
 type: location
 ---

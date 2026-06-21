@@ -1,0 +1,200 @@
+{
+  "round": 4336,
+  "timestamp": "2026-06-14T00:04:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Valle de la Luna",
+      "path": "southamerica/chile/atacamadesert/valledelaluna",
+      "prior_score": 6.8077,
+      "prior_variance": 0.14176,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Mount Ijen",
+      "path": "asia/indonesia/java/mountijen",
+      "prior_score": 4.3495,
+      "prior_variance": 0.104192,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Shiprock",
+      "path": "northamerica/unitedstates/newmexico/shiprock",
+      "prior_score": -1.5228,
+      "prior_variance": 0.085302,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Baler",
+      "path": "asia/philippines/baler",
+      "prior_score": 0.8659,
+      "prior_variance": 0.089321,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Fairplay",
+      "path": "northamerica/unitedstates/colorado/fairplay",
+      "prior_score": -2.0911,
+      "prior_variance": 0.114038,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Legazpi City",
+      "path": "asia/philippines/bicol",
+      "prior_score": -0.7514,
+      "prior_variance": 0.103109,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Anantnag",
+      "path": "asia/india/jammuandkashmir/anantnag",
+      "prior_score": -3.1955,
+      "prior_variance": 0.106651,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Karak",
+      "path": "asia/jordan/karak",
+      "prior_score": -0.1703,
+      "prior_variance": 0.089689,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Kermanshah",
+      "path": "asia/iran/kermanshah",
+      "prior_score": -3.0533,
+      "prior_variance": 0.10753,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Fredericia",
+      "path": "europe/denmark/fredericia",
+      "prior_score": -1.0007,
+      "prior_variance": 0.09498,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_score": -1.367,
+      "prior_variance": 0.11243,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Tanjung Pinang",
+      "path": "asia/indonesia/bintan/tanjung_pinang",
+      "prior_score": -1.6303,
+      "prior_variance": 0.099669,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Zottegem",
+      "path": "europe/belgium/zottegem",
+      "prior_score": -4.0143,
+      "prior_variance": 0.115912,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Southampton",
+      "path": "northamerica/canada/ontario/southampton",
+      "prior_score": -2.5965,
+      "prior_variance": 0.105382,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Vijayawada",
+      "path": "asia/india/andhrapradesh/vijayawada",
+      "prior_score": -3.3231,
+      "prior_variance": 0.097442,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Bukit Mertajam",
+      "path": "asia/malaysia/bukitmertajam",
+      "prior_score": -3.723,
+      "prior_variance": 0.10825,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Jiujiang",
+      "path": "asia/china/jiangxi/jiujiang",
+      "prior_score": -1.771,
+      "prior_variance": 0.110707,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Henderson",
+      "path": "northamerica/unitedstates/nevada/henderson",
+      "prior_score": -4.7985,
+      "prior_variance": 0.134865,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Guazhou",
+      "path": "asia/china/gansu/guazhou",
+      "prior_score": -4.3867,
+      "prior_variance": 0.116031,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Al Wakrah",
+      "path": "asia/qatar/alwakrah",
+      "prior_score": -4.7253,
+      "prior_variance": 0.102457,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Cangzhou",
+      "path": "asia/china/hebei/cangzhou",
+      "prior_score": -5.5854,
+      "prior_variance": 0.108977,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Ma'anshan",
+      "path": "asia/china/anhui/maanshan",
+      "prior_score": -5.1209,
+      "prior_variance": 0.098616,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Buckner",
+      "path": "northamerica/unitedstates/missouri/buckner",
+      "prior_score": -7.9502,
+      "prior_variance": 0.224781,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Lughaya",
+      "path": "africa/somaliland/lughaya",
+      "prior_score": -9.4734,
+      "prior_variance": 0.21814,
+      "prior_n": 13
+    }
+  ]
+}

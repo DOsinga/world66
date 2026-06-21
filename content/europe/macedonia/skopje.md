@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Skopje_view_from_Kale_3.jp
 latitude: 41.996182
 loc_type: city
 longitude: 21.431921
-score: 0.52
+score: 0.42
 title: Skopje
 type: location
 ---

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20250502_B%C3%A4ckerstra%C
 latitude: 48.208354
 loc_type: city
 longitude: 16.372504
-score: 0.88
+score: 0.74
 title: Vienna
 type: location
 ---

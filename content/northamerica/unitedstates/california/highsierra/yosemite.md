@@ -5,7 +5,7 @@ latitude: 37.749
 longitude: -119.5885
 title: Yosemite
 type: location
-score: 0.8
+score: 0.78
 image: yosemite.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Half_Dome_from_Glacier_Point,_Yosemite_NP_-_Diliff.jpg
 image_license: CC BY-SA 3.0

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Isla_Providencia_Colombia_
 latitude: 13.3531
 loc_type: city
 longitude: -81.375
-score: 0.61
+score: 0.56
 title: Providencia
 type: location
 ---

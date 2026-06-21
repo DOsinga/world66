@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hisor-Tajikistan1.jpg
 latitude: 38.527
 loc_type: city
 longitude: 68.549
-score: 0.28
+score: 0.21
 title: Hisar
 type: location
 ---

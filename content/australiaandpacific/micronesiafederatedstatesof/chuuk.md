@@ -5,7 +5,7 @@ latitude: 7.4167
 longitude: 151.7833
 title: Chuuk
 type: location
-score: 0.49
+score: 0.45
 loc_type: city
 ---
 

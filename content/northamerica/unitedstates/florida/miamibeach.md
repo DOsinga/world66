@@ -13,6 +13,7 @@ image: miamibeach.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Southbeachboardwalk07.JPG
 image_license: CC BY-SA 2.5
 image_attribution: Daniel di Palma
+score: 0.6
 ---
 
 Miami Beach is its own incorporated city, technically separate from Miami, though the distinction barely registers in practice — it sits on a barrier island across Biscayne Bay, connected by causeways, and functions as the beachfront district of the greater metropolitan area. It is famous beyond most cities ten times its size for the [Art Deco Historic District](/northamerica/unitedstates/florida/miami/art_deco_district) that lines Ocean Drive and Collins Avenue in South Beach — the most concentrated collection of Art Deco architecture in the world, painted in tropical pastels and largely preserved through the efforts of preservationists who fought for it in the 1970s and 80s.

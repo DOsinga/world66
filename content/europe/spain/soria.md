@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ermita_de_Santo_Cristo_de_
 latitude: 41.60125
 loc_type: city
 longitude: -2.721938
-score: 0.46
+score: 0.42
 title: Soria
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: -1.2422
 loc_type: city
 longitude: -78.6288
-score: 0.48
+score: 0.38
 title: Ambato
 type: location
 image: ambato.jpg

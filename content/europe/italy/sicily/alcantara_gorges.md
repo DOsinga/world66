@@ -5,7 +5,7 @@ latitude: 37.877
 longitude: 15.1764
 title: Alcantara Gorges
 type: location
-score: 0.58
+score: 0.5
 loc_type: feature
 ---
 

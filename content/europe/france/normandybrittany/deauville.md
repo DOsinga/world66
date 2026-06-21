@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Deauville_2008_PD_12.JPG
 latitude: 49.3595
 loc_type: city
 longitude: 0.0747
-score: 0.59
+score: 0.52
 title: Deauville
 type: location
 ---

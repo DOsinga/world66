@@ -1,0 +1,200 @@
+{
+  "round": 3884,
+  "timestamp": "2026-06-13T23:27:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Quito",
+      "path": "southamerica/ecuador/quito",
+      "prior_score": 6.3262,
+      "prior_variance": 0.129186,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Lindau",
+      "path": "europe/germany/bavaria/lindau",
+      "prior_score": 4.637,
+      "prior_variance": 0.100043,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Yandang Mountains",
+      "path": "asia/china/zhejiang/yandangshan",
+      "prior_score": 1.2761,
+      "prior_variance": 0.121748,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Luoyang",
+      "path": "asia/china/henan_province/luoyang",
+      "prior_score": 1.9701,
+      "prior_variance": 0.122735,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Olomouc",
+      "path": "europe/czechrepublic/olomouc",
+      "prior_score": 3.2136,
+      "prior_variance": 0.105571,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Aqaba",
+      "path": "asia/jordan/aqaba",
+      "prior_score": 3.8535,
+      "prior_variance": 0.105116,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Nicosia",
+      "path": "asia/cyprus/nicosia",
+      "prior_score": 1.5493,
+      "prior_variance": 0.166379,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Ayvalik",
+      "path": "asia/turkey/ayvalik",
+      "prior_score": 2.4603,
+      "prior_variance": 0.110269,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Almaty",
+      "path": "asia/kazakhstan/almaty",
+      "prior_score": 2.4512,
+      "prior_variance": 0.125379,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Teruel",
+      "path": "europe/spain/aragon/teruel",
+      "prior_score": 0.7001,
+      "prior_variance": 0.119829,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Zagora",
+      "path": "africa/morocco/zagora",
+      "prior_score": 1.5353,
+      "prior_variance": 0.131859,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Doolin",
+      "path": "europe/ireland/doolin",
+      "prior_score": 4.1097,
+      "prior_variance": 0.114791,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Chisinau",
+      "path": "europe/moldova/chisinau",
+      "prior_score": -2.8205,
+      "prior_variance": 0.118085,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "\u0141\u00f3d\u017a",
+      "path": "europe/poland/lodz",
+      "prior_score": -1.4553,
+      "prior_variance": 0.097797,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Tetovo",
+      "path": "europe/macedonia/tetovo",
+      "prior_score": -3.1086,
+      "prior_variance": 0.116643,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Nonthaburi",
+      "path": "asia/thailand/nonthaburi_2",
+      "prior_score": -3.4323,
+      "prior_variance": 0.115973,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Wakefield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/wakefield",
+      "prior_score": -2.4098,
+      "prior_variance": 0.117125,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "New London",
+      "path": "northamerica/unitedstates/connecticut/new_london",
+      "prior_score": -3.0267,
+      "prior_variance": 0.112766,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/arkansas/springdale",
+      "prior_score": -3.9872,
+      "prior_variance": 0.136494,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Cathlamet",
+      "path": "northamerica/unitedstates/washington/cathlamet",
+      "prior_score": -4.13,
+      "prior_variance": 0.112043,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/utah/wendover",
+      "prior_score": -6.12,
+      "prior_variance": 0.181818,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Kabli",
+      "path": "europe/estonia/kabli",
+      "prior_score": -5.2211,
+      "prior_variance": 0.126856,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Khongjom",
+      "path": "asia/india/manipur/khongjom",
+      "prior_score": -6.8566,
+      "prior_variance": 0.133928,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Bilma",
+      "path": "africa/niger/bilma",
+      "prior_score": -8.3664,
+      "prior_variance": 0.228223,
+      "prior_n": 12
+    }
+  ]
+}

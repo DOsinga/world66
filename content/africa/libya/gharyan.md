@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:GharyanCity.jpg
 latitude: 32.171587
 loc_type: city
 longitude: 13.021145
-score: 0.25
+score: 0.2
 sources:
 - https://en.wikipedia.org/wiki/Gharyan
 title: Gharyan

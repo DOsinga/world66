@@ -5,7 +5,7 @@ latitude: 14.3814
 longitude: -90.6014
 title: Pacaya Volcano
 type: location
-score: 0.65
+score: 0.53
 loc_type: feature
 ---
 

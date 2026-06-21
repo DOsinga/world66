@@ -9,7 +9,7 @@ image_attribution: Nemracc
 latitude: 60.4087
 loc_type: city
 longitude: 17.8794
-score: 0.4
+score: 0.36
 title: Lövstabruk
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Moore%27s_Fort_in_Round_To
 latitude: 30.065101
 loc_type: city
 longitude: -96.695545
-score: 0.39
+score: 0.34
 title: Round Top
 type: location
 ---

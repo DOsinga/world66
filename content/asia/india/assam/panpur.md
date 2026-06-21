@@ -5,7 +5,7 @@ done:
 latitude: 26.7167
 loc_type: city
 longitude: 90.9167
-score: 0.24
+score: 0.23
 title: Panpur
 type: location
 ---

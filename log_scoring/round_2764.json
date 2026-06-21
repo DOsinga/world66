@@ -1,0 +1,200 @@
+{
+  "round": 2764,
+  "timestamp": "2026-06-13T22:05:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Havana",
+      "path": "northamerica/thecaribbean/cuba/havana",
+      "prior_score": 8.7738,
+      "prior_variance": 0.228979,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Troms\u00f8",
+      "path": "europe/norway/tromso",
+      "prior_score": 8.6308,
+      "prior_variance": 0.2551,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Knossos",
+      "path": "europe/greece/crete/knossos",
+      "prior_score": 7.2152,
+      "prior_variance": 0.234387,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "San Pedro de Atacama",
+      "path": "southamerica/chile/sanpedrodeatacama",
+      "prior_score": 7.8588,
+      "prior_variance": 0.193075,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Mal\u00e9",
+      "path": "asia/maldives/male_atoll/male",
+      "prior_score": 2.234,
+      "prior_variance": 0.206002,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Mandalay",
+      "path": "asia/myanmar/mandalay",
+      "prior_score": 2.5529,
+      "prior_variance": 0.144611,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Mount Sanqingshan",
+      "path": "asia/china/jiangxi/mount_sanqingshan",
+      "prior_score": 2.9797,
+      "prior_variance": 0.146602,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Hemsedal",
+      "path": "europe/norway/hemsedal",
+      "prior_score": 3.4539,
+      "prior_variance": 0.149644,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Lampang",
+      "path": "asia/thailand/lampang",
+      "prior_score": 1.5916,
+      "prior_variance": 0.151519,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Pindaya",
+      "path": "asia/myanmar/pindaya",
+      "prior_score": 0.6134,
+      "prior_variance": 0.155349,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Kalimpong",
+      "path": "asia/india/westbengal/kalimpong",
+      "prior_score": 1.9725,
+      "prior_variance": 0.170765,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "San Juan del Sur",
+      "path": "northamerica/nicaragua/sanjuandelsur",
+      "prior_score": 1.0077,
+      "prior_variance": 0.155782,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Ceibal",
+      "path": "northamerica/guatemala/ceibal",
+      "prior_score": -0.2074,
+      "prior_variance": 0.1564,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Prachuap Khiri Khan",
+      "path": "asia/thailand/prachuap_khiri_khan",
+      "prior_score": 2.0162,
+      "prior_variance": 0.141465,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Boulogne",
+      "path": "europe/france/nord/boulogne",
+      "prior_score": -3.7474,
+      "prior_variance": 0.174344,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Soria",
+      "path": "europe/spain/soria",
+      "prior_score": 0.1514,
+      "prior_variance": 0.146332,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "St. Omer",
+      "path": "europe/france/nord/stomer",
+      "prior_score": -1.2821,
+      "prior_variance": 0.144245,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Upper Kern River",
+      "path": "northamerica/unitedstates/california/centralvalley/upper_kern_river",
+      "prior_score": -0.1226,
+      "prior_variance": 0.149907,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Umm el Jimal",
+      "path": "asia/jordan/ummeljimal",
+      "prior_score": -1.8202,
+      "prior_variance": 0.164557,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Bhadrachalam",
+      "path": "asia/india/andhrapradesh/bhadrachalam",
+      "prior_score": -4.7977,
+      "prior_variance": 0.157542,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_score": -9.7548,
+      "prior_variance": 0.296329,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_score": -4.0974,
+      "prior_variance": 0.18273,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Fairfax",
+      "path": "northamerica/unitedstates/oklahoma/fairfax",
+      "prior_score": -7.1966,
+      "prior_variance": 0.216491,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Kingsburg",
+      "path": "northamerica/unitedstates/california/kingsburg",
+      "prior_score": -4.9451,
+      "prior_variance": 0.17158,
+      "prior_n": 8
+    }
+  ]
+}

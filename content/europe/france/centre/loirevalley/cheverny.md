@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ChevernySchloss.jpg
 latitude: 47.4997
 loc_type: city
 longitude: 1.4611
-score: 0.64
+score: 0.54
 title: Cheverny
 type: location
 ---

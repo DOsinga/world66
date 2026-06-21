@@ -1,0 +1,200 @@
+{
+  "round": 4471,
+  "timestamp": "2026-06-14T00:15:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hongcun",
+      "path": "asia/china/anhui/hongcun",
+      "prior_score": 3.9704,
+      "prior_variance": 0.106434,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Karakul Lake",
+      "path": "asia/china/xinjiangprovince/karakullake",
+      "prior_score": 1.4845,
+      "prior_variance": 0.092946,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Coorg",
+      "path": "asia/india/karnataka/coorg",
+      "prior_score": 2.2119,
+      "prior_variance": 0.101063,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_score": 1.9156,
+      "prior_variance": 0.088853,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Umm Qais",
+      "path": "asia/jordan/umm_qais",
+      "prior_score": 0.5714,
+      "prior_variance": 0.088857,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Oradea",
+      "path": "europe/romania/oradea",
+      "prior_score": 1.0153,
+      "prior_variance": 0.091092,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Sant Mateu",
+      "path": "europe/spain/castellon/san_mateu",
+      "prior_score": -2.596,
+      "prior_variance": 0.117397,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Tela",
+      "path": "northamerica/honduras/tela",
+      "prior_score": -1.7899,
+      "prior_variance": 0.092737,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Barka",
+      "path": "asia/oman/barka",
+      "prior_score": -1.2753,
+      "prior_variance": 0.084543,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Bishkek",
+      "path": "asia/kyrgyzstan/bishkek",
+      "prior_score": -0.3014,
+      "prior_variance": 0.093497,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Ashtarak",
+      "path": "europe/armenia/aragatsotn_marz/ashtarak",
+      "prior_score": -1.7233,
+      "prior_variance": 0.08636,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/illinois/springfield",
+      "prior_score": -2.1581,
+      "prior_variance": 0.10468,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Chernihiv",
+      "path": "europe/ukraine/chernihiv",
+      "prior_score": -2.2005,
+      "prior_variance": 0.094663,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Puerto El Cuyo",
+      "path": "northamerica/mexico/puerto_el_cuyo",
+      "prior_score": -4.6735,
+      "prior_variance": 0.110339,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Weaverville",
+      "path": "northamerica/unitedstates/california/shastacascade/weaverville",
+      "prior_score": -4.1026,
+      "prior_variance": 0.093246,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Alturas",
+      "path": "northamerica/unitedstates/california/shastacascade/alturas",
+      "prior_score": -5.5307,
+      "prior_variance": 0.115249,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Bolton",
+      "path": "northamerica/unitedstates/massachusetts/bolton",
+      "prior_score": -3.93,
+      "prior_variance": 0.100093,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Delaware",
+      "path": "northamerica/unitedstates/ohio/delaware",
+      "prior_score": -5.4264,
+      "prior_variance": 0.119321,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Changde",
+      "path": "asia/china/hunan/changde",
+      "prior_score": -3.7544,
+      "prior_variance": 0.092397,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Midland",
+      "path": "northamerica/unitedstates/texas/midland",
+      "prior_score": -5.4887,
+      "prior_variance": 0.129005,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Sivakasi",
+      "path": "asia/india/tamilnadu/sivakasi",
+      "prior_score": -5.7785,
+      "prior_variance": 0.119636,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/naxcivan/shusha",
+      "prior_score": -4.8804,
+      "prior_variance": 0.111916,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "J\u00e9r\u00e9mie",
+      "path": "northamerica/thecaribbean/haiti/jeremie",
+      "prior_score": -5.7662,
+      "prior_variance": 0.129716,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Bilma",
+      "path": "africa/niger/bilma",
+      "prior_score": -8.0994,
+      "prior_variance": 0.202349,
+      "prior_n": 14
+    }
+  ]
+}

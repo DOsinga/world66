@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20160807-Pavia-002.jpg
 latitude: 45.1847
 loc_type: city
 longitude: 9.1582
-score: 0.58
+score: 0.5
 title: Pavia
 type: location
 ---

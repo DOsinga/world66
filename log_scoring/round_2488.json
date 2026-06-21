@@ -1,0 +1,200 @@
+{
+  "round": 2488,
+  "timestamp": "2026-06-13T21:46:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yalta",
+      "path": "europe/ukraine/crimea/yalta",
+      "prior_score": 0.8604,
+      "prior_variance": 0.17742,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Minsk",
+      "path": "europe/belarus/minsk",
+      "prior_score": -0.9353,
+      "prior_variance": 0.177827,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Indianapolis",
+      "path": "northamerica/unitedstates/indiana/indianapolis",
+      "prior_score": -1.1391,
+      "prior_variance": 0.159547,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Paran\u00e1",
+      "path": "southamerica/argentina/parana",
+      "prior_score": -1.1719,
+      "prior_variance": 0.181966,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Tsukuba",
+      "path": "asia/japan/honshu/tsukuba",
+      "prior_score": -0.7019,
+      "prior_variance": 0.181769,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Sm\u00e5land",
+      "path": "europe/sweden/smaaland",
+      "prior_score": 0.7562,
+      "prior_variance": 0.164626,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_score": -0.4667,
+      "prior_variance": 0.178728,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Pineto",
+      "path": "europe/italy/abruzzo/pineto",
+      "prior_score": -0.45,
+      "prior_variance": 0.168151,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Lidk\u00f6ping",
+      "path": "europe/sweden/lidkping",
+      "prior_score": -1.6948,
+      "prior_variance": 0.151702,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Winter Haven",
+      "path": "northamerica/unitedstates/florida/winterhaven",
+      "prior_score": -4.0829,
+      "prior_variance": 0.192175,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Queensbury",
+      "path": "northamerica/unitedstates/newyorkstate/queensbury",
+      "prior_score": -4.2137,
+      "prior_variance": 0.172611,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Corumb\u00e1",
+      "path": "southamerica/brazil/corumb",
+      "prior_score": -1.3697,
+      "prior_variance": 0.166267,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Nagapattinam",
+      "path": "asia/india/tamilnadu/nagapattinam",
+      "prior_score": -4.2584,
+      "prior_variance": 0.205003,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Tell City",
+      "path": "northamerica/unitedstates/indiana/tell_city",
+      "prior_score": -5.4959,
+      "prior_variance": 0.208019,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Skikda",
+      "path": "africa/algeria/skikda",
+      "prior_score": -6.1313,
+      "prior_variance": 0.258186,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Cangzhou",
+      "path": "asia/china/hebei/cangzhou",
+      "prior_score": -6.3319,
+      "prior_variance": 0.185167,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Siping",
+      "path": "asia/china/jilin/siping",
+      "prior_score": -6.3112,
+      "prior_variance": 0.222434,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Lushnj\u00eb",
+      "path": "europe/albania/lushnje",
+      "prior_score": -5.9459,
+      "prior_variance": 0.24959,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Williston",
+      "path": "northamerica/unitedstates/northdakota/williston",
+      "prior_score": -7.8594,
+      "prior_variance": 0.304089,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Wilburton",
+      "path": "northamerica/unitedstates/oklahoma/wilburton",
+      "prior_score": -6.5702,
+      "prior_variance": 0.28487,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Crawfordville, Georgia",
+      "path": "northamerica/unitedstates/georgia/crawfordville_georgia",
+      "prior_score": -6.7352,
+      "prior_variance": 0.24902,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Togoville",
+      "path": "africa/togo/togoville",
+      "prior_score": -2.613,
+      "prior_variance": 0.242561,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Fakobly",
+      "path": "africa/ivorycoast/fakobly",
+      "prior_score": -9.0532,
+      "prior_variance": 0.396185,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Ghazni",
+      "path": "asia/afghanistan/ghazni",
+      "prior_score": -11.8511,
+      "prior_variance": 0.496917,
+      "prior_n": 7
+    }
+  ]
+}

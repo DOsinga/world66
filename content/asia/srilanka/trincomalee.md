@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bay_of_Trincomalee.jpg
 latitude: 8.576425
 loc_type: city
 longitude: 81.234495
-score: 0.6
+score: 0.5
 title: Trincomalee
 type: location
 ---

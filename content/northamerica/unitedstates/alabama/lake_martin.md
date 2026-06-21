@@ -5,7 +5,7 @@ latitude: 32.803925
 longitude: -85.893942
 title: Lake Martin
 type: location
-score: 0.44
+score: 0.35
 loc_type: feature
 ---
 

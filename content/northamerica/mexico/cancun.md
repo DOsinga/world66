@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cancun_Strand_Luftbild_(22
 latitude: 21.1528
 loc_type: city
 longitude: -86.8426
-score: 0.71
+score: 0.59
 title: Cancun
 type: location
 ---

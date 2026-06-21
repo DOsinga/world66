@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Livermore_Carnegie_Library
 latitude: 37.682058
 loc_type: city
 longitude: -121.768053
-score: 0.38
+score: 0.33
 title: Livermore
 type: location
 ---

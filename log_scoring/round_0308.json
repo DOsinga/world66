@@ -1,200 +1,200 @@
 {
   "round": 308,
-  "timestamp": "2026-04-12T09:11:04",
+  "timestamp": "2026-06-13T19:29:08",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Monterosso al Mare",
-      "path": "europe/italy/liguria/italianriviera/thecinqueterre/monterosso",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Adelboden",
+      "path": "europe/switzerland/adelboden",
+      "prior_score": 11.5857,
+      "prior_variance": 2.569665,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Borobudur",
-      "path": "asia/indonesia/java/borobudur",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Vanua Levu",
+      "path": "australiaandpacific/fiji/vanualevu",
+      "prior_score": 6.6765,
+      "prior_variance": 2.169268,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Las Vegas",
-      "path": "northamerica/unitedstates/nevada/lasvegas",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Azay-le-Rideau",
+      "path": "europe/france/centre/loirevalley/azaylerideau",
+      "prior_score": 11.9643,
+      "prior_variance": 3.539011,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Adelboden",
-      "path": "europe/switzerland/adelboden",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Gubbio",
+      "path": "europe/italy/umbria/gubbio",
+      "prior_score": 5.9916,
+      "prior_variance": 1.991558,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Glendalough",
-      "path": "europe/ireland/glendalough",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Vannes",
+      "path": "europe/france/normandybrittany/vannes",
+      "prior_score": 8.2601,
+      "prior_variance": 2.036256,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Dordogne",
-      "path": "europe/france/midi/dordogne",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Utila",
+      "path": "northamerica/honduras/utila",
+      "prior_score": 2.1836,
+      "prior_variance": 1.72633,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Urbino",
-      "path": "europe/italy/marche/urbino",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ayvalik",
+      "path": "asia/turkey/ayvalik",
+      "prior_score": 1.3038,
+      "prior_variance": 1.698231,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Elgol",
-      "path": "europe/unitedkingdom/scotland/skye/elgol",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Loano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/loano",
+      "prior_score": -0.6851,
+      "prior_variance": 1.687972,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Vernet les Bains",
-      "path": "europe/france/midi/pyrenees/vernet_les_bains",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Vlore",
+      "path": "europe/albania/vlore",
+      "prior_score": 0.7522,
+      "prior_variance": 1.646304,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Dahab",
-      "path": "africa/egypt/dahab",
-      "prior_mu": 22.6756,
-      "prior_sigma": 5.9428,
+      "title": "Aguadilla",
+      "path": "northamerica/thecaribbean/puertorico/aguadilla",
+      "prior_score": 0.4292,
+      "prior_variance": 1.618453,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Vannes",
-      "path": "europe/france/normandybrittany/vannes",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bluff",
+      "path": "northamerica/unitedstates/utah/bluff",
+      "prior_score": -4.971,
+      "prior_variance": 1.772292,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Madurai",
-      "path": "asia/india/tamilnadu/madurai",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Vernal",
+      "path": "northamerica/unitedstates/utah/vernal",
+      "prior_score": -3.5029,
+      "prior_variance": 1.768494,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "San Antonio Abad",
-      "path": "europe/spain/balearicislands/ibiza/sanantonioabad",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Paga",
+      "path": "africa/ghana/paga",
+      "prior_score": -6.7592,
+      "prior_variance": 1.983918,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Tampa",
-      "path": "northamerica/unitedstates/florida/tampabayarea/tampa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Blumenau",
+      "path": "southamerica/brazil/blumenal",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Anaheim",
-      "path": "northamerica/unitedstates/california/orangecounty/anaheim",
-      "prior_mu": 22.7186,
-      "prior_sigma": 5.9494,
-      "prior_n": 1
-    },
-    {
-      "rank": 16,
-      "title": "Niue",
-      "path": "australiaandpacific/niue",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Winston-Salem",
+      "path": "northamerica/unitedstates/northcarolina/winstonsalem",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
+      "rank": 16,
+      "title": "Lakeland",
+      "path": "northamerica/unitedstates/florida/lakeland",
+      "prior_score": -7.084,
+      "prior_variance": 1.963755,
+      "prior_n": 1
+    },
+    {
       "rank": 17,
-      "title": "Kui Buri",
-      "path": "asia/thailand/kui_buri",
-      "prior_mu": 22.5169,
-      "prior_sigma": 5.9123,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_score": -0.4913,
+      "prior_variance": 2.37308,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Hershey",
-      "path": "northamerica/unitedstates/pennsylvania/hershey",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/indiana/lafayette",
+      "prior_score": -8.6824,
+      "prior_variance": 2.113154,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Machynlleth",
-      "path": "europe/unitedkingdom/wales/machynlleth",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Porter",
+      "path": "northamerica/unitedstates/indiana/porter",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Mandurah",
-      "path": "australiaandpacific/australia/westernaustralia/mandurah",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "San Juan del R\u00edo",
+      "path": "northamerica/mexico/sanjuandelro",
+      "prior_score": -7.617,
+      "prior_variance": 1.912439,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Iowa City",
-      "path": "northamerica/unitedstates/iowa/iowacity",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Las Pinas City",
+      "path": "asia/philippines/las_pinas_city",
+      "prior_score": -8.0746,
+      "prior_variance": 2.180826,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Abeokuta",
-      "path": "africa/nigeria/abeokuta",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Voronezh",
+      "path": "europe/russia/voronezh",
+      "prior_score": -8.37,
+      "prior_variance": 2.147077,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Zottegem",
-      "path": "europe/belgium/zottegem",
-      "prior_mu": 22.5282,
-      "prior_sigma": 5.9137,
-      "prior_n": 1
+      "title": "Adama",
+      "path": "africa/ethiopia/adama",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Bougainville",
-      "path": "asia/papuanewguinea/bougainville",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Mandsaur",
+      "path": "asia/india/madhyapradesh/mandsaur",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

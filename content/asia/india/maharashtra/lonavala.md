@@ -5,7 +5,7 @@ done:
 latitude: 18.750369
 loc_type: city
 longitude: 73.406944
-score: 0.53
+score: 0.44
 title: Lonavala
 type: location
 ---

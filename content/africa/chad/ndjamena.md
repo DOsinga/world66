@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:March%C3%A9_central_de_N%2
 latitude: 12.1348
 loc_type: city
 longitude: 15.0557
-score: 0.25
+score: 0.18
 title: N'Djamena
 type: location
 ---

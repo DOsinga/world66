@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/126110866@N08/16131462356
 latitude: 57.626388
 loc_type: city
 longitude: 39.893371
-score: 0.5
+score: 0.43
 title: Yaroslavl
 type: location
 ---

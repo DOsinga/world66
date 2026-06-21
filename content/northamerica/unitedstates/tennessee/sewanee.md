@@ -6,12 +6,12 @@ latitude: 35.2006
 longitude: -85.9195
 title: Sewanee
 type: location
-score: 0.43
+score: 0.33
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Sewanee,_Tennessee
-  - https://en.wikipedia.org/wiki/Sewanee:_The_University_of_the_South
-  - https://en.wikipedia.org/wiki/Sewanee_Perimeter_Trail
+- https://en.wikipedia.org/wiki/Sewanee,_Tennessee
+- https://en.wikipedia.org/wiki/Sewanee:_The_University_of_the_South
+- https://en.wikipedia.org/wiki/Sewanee_Perimeter_Trail
 ---
 
 Sewanee is a small unincorporated community perched on the Cumberland Plateau in southern Tennessee, defined almost entirely by the University of the South — a private Episcopal liberal arts college whose Gothic sandstone buildings rise improbably from the Tennessee woodland. The university owns the surrounding 13,000-acre "Domain," a vast forested plateau rimmed by bluffs, making Sewanee feel less like a town and more like an English university set down in the American South.

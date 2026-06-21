@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Annecy-palais2.jpg
 latitude: 45.899235
 loc_type: city
 longitude: 6.128885
-score: 0.79
+score: 0.68
 title: Annecy
 type: location
 ---

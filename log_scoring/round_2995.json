@@ -1,0 +1,200 @@
+{
+  "round": 2995,
+  "timestamp": "2026-06-13T22:21:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Menton",
+      "path": "europe/france/midi/provence/menton",
+      "prior_score": 5.0314,
+      "prior_variance": 0.185511,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Yalong Bay",
+      "path": "asia/china/hainanisland/yalongwang",
+      "prior_score": 1.6938,
+      "prior_variance": 0.143979,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Cuenca",
+      "path": "southamerica/ecuador/cuenca",
+      "prior_score": 5.8256,
+      "prior_variance": 0.162043,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Mechelen",
+      "path": "europe/belgium/mechelen",
+      "prior_score": 2.5245,
+      "prior_variance": 0.152362,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Cosenza",
+      "path": "europe/italy/calabria/cosenza",
+      "prior_score": 0.6853,
+      "prior_variance": 0.137848,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Moji",
+      "path": "asia/japan/kyushu/moji",
+      "prior_score": 0.8963,
+      "prior_variance": 0.141538,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Pogradec",
+      "path": "europe/albania/pogradec",
+      "prior_score": -0.1092,
+      "prior_variance": 0.157598,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Tsaghkadzor",
+      "path": "europe/armenia/tzakhadzor",
+      "prior_score": 0.7406,
+      "prior_variance": 0.136217,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Darwin",
+      "path": "australiaandpacific/australia/northernterritory/darwin",
+      "prior_score": 1.0454,
+      "prior_variance": 0.154095,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Lake George",
+      "path": "northamerica/unitedstates/newyorkstate/lakegeorge",
+      "prior_score": 2.3294,
+      "prior_variance": 0.148427,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Taipa",
+      "path": "asia/china/taipa",
+      "prior_score": -1.164,
+      "prior_variance": 0.15506,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Naples",
+      "path": "northamerica/unitedstates/florida/naples",
+      "prior_score": -0.4192,
+      "prior_variance": 0.178344,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Galveston",
+      "path": "northamerica/unitedstates/texas/galveston",
+      "prior_score": 0.9234,
+      "prior_variance": 0.123851,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "The Entrance",
+      "path": "australiaandpacific/australia/newsouthwales/the_entrance",
+      "prior_score": -0.7548,
+      "prior_variance": 0.134545,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Haliburton",
+      "path": "northamerica/canada/ontario/haliburton",
+      "prior_score": -0.6737,
+      "prior_variance": 0.135861,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Lancut",
+      "path": "europe/poland/lancut",
+      "prior_score": -0.4075,
+      "prior_variance": 0.127175,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Woods Hole",
+      "path": "northamerica/unitedstates/massachusetts/woods_hole",
+      "prior_score": -1.5732,
+      "prior_variance": 0.147071,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "La Crosse",
+      "path": "northamerica/unitedstates/wisconsin/lacrosse",
+      "prior_score": -2.7448,
+      "prior_variance": 0.143015,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Figline",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/figline",
+      "prior_score": -0.8596,
+      "prior_variance": 0.155052,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Bentonville",
+      "path": "northamerica/unitedstates/arkansas/bentonville",
+      "prior_score": -1.8377,
+      "prior_variance": 0.161155,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Vilalba",
+      "path": "europe/spain/galicia/vilalba",
+      "prior_score": -3.5281,
+      "prior_variance": 0.170588,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Hrazdan",
+      "path": "europe/armenia/kotayk_marz/hrazdan",
+      "prior_score": -4.7342,
+      "prior_variance": 0.16207,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Sost",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/sost",
+      "prior_score": -4.1564,
+      "prior_variance": 0.287504,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Gabiley",
+      "path": "africa/somaliland/gabiley",
+      "prior_score": -9.0466,
+      "prior_variance": 0.358173,
+      "prior_n": 9
+    }
+  ]
+}

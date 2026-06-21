@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dinant_reflected.jpg
 latitude: 50.2592
 loc_type: city
 longitude: 4.9131
-score: 0.57
+score: 0.49
 title: Dinant
 type: location
 ---

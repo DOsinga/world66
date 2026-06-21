@@ -1,0 +1,200 @@
+{
+  "round": 3261,
+  "timestamp": "2026-06-13T22:40:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Rushmore",
+      "path": "northamerica/unitedstates/southdakota/mountrushmore",
+      "prior_score": 3.3217,
+      "prior_variance": 0.203926,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Vestvagoy",
+      "path": "europe/norway/lofotenislands/vestvagoy",
+      "prior_score": 5.479,
+      "prior_variance": 0.152873,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Ulm",
+      "path": "europe/germany/badenwrttemberg/ulm",
+      "prior_score": 2.7295,
+      "prior_variance": 0.124631,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Bominaco",
+      "path": "europe/italy/abruzzo/bominaco",
+      "prior_score": -1.2251,
+      "prior_variance": 0.126125,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Oudenaarde",
+      "path": "europe/belgium/oudenaarde",
+      "prior_score": -0.2567,
+      "prior_variance": 0.14318,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Battura Valley",
+      "path": "asia/pakistan/hunzavalley/battura_valley",
+      "prior_score": -0.7503,
+      "prior_variance": 0.146724,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "'Eua",
+      "path": "australiaandpacific/tonga/eua",
+      "prior_score": -1.1838,
+      "prior_variance": 0.132692,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Sao Filipe",
+      "path": "africa/capeverde/so_filipe",
+      "prior_score": -0.5414,
+      "prior_variance": 0.164542,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Iloilo City",
+      "path": "asia/philippines/iloilo_city",
+      "prior_score": 0.1981,
+      "prior_variance": 0.120448,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Bahia de Caraquez",
+      "path": "southamerica/ecuador/bahiadecaraquez",
+      "prior_score": -0.9689,
+      "prior_variance": 0.119376,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Bugac",
+      "path": "europe/hungary/bugac",
+      "prior_score": -2.1629,
+      "prior_variance": 0.143175,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Valdeorras",
+      "path": "europe/spain/galicia/valdeorras",
+      "prior_score": -1.7248,
+      "prior_variance": 0.1362,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Ontinyent",
+      "path": "europe/spain/ontinyent",
+      "prior_score": -1.8483,
+      "prior_variance": 0.118306,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Zambales",
+      "path": "asia/philippines/zambales",
+      "prior_score": -0.7861,
+      "prior_variance": 0.124439,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/santa_rosa",
+      "prior_score": -1.4598,
+      "prior_variance": 0.144056,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Cirebon",
+      "path": "asia/indonesia/cirebon",
+      "prior_score": -1.8633,
+      "prior_variance": 0.115801,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/northampton",
+      "prior_score": -3.3511,
+      "prior_variance": 0.130355,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Lu\u010denec",
+      "path": "europe/slovakia/luenec",
+      "prior_score": -4.091,
+      "prior_variance": 0.147409,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Johnstown",
+      "path": "northamerica/unitedstates/pennsylvania/johnstown",
+      "prior_score": -4.7889,
+      "prior_variance": 0.155765,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Gab\u00e8s",
+      "path": "africa/tunisia/gabes",
+      "prior_score": -4.0066,
+      "prior_variance": 0.135075,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Benguela",
+      "path": "africa/angola/benguela",
+      "prior_score": -4.3741,
+      "prior_variance": 0.169312,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Kandla",
+      "path": "asia/india/gujarat/kutch/kandla",
+      "prior_score": -5.5801,
+      "prior_variance": 0.143682,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Asaba, Delta State",
+      "path": "africa/nigeria/asaba_delta_state",
+      "prior_score": -5.9993,
+      "prior_variance": 0.147577,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Kita",
+      "path": "africa/mali/kita",
+      "prior_score": -8.6738,
+      "prior_variance": 0.275414,
+      "prior_n": 10
+    }
+  ]
+}

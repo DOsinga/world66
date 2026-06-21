@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ocean_Isle_Beach_NC_Fishin
 latitude: 33.891944
 loc_type: city
 longitude: -78.428889
-score: 0.46
+score: 0.39
 title: Ocean Isle Beach
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:P%C3%A9zenas,_H%C3%A9rault
 latitude: 43.461178
 loc_type: city
 longitude: 3.422832
-score: 0.55
+score: 0.48
 title: Pézenas
 type: location
 ---

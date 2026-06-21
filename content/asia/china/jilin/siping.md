@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Siping
 title: Siping
 type: location
+score: 0.24
 ---
 
 Siping lies on the main rail corridor between Beijing and Harbin, a position that made it strategically valuable in the mid-twentieth century and accounts for the bloodiest chapter in its modern history. In 1946 the city was the site of one of the most brutal battles of the Chinese Civil War, when Nationalist and Communist forces fought for control of the railway junction in engagements that killed tens of thousands and left the city almost entirely destroyed. The [Siping Campaign Memorial Museum](/asia/china/jilin/siping/siping_campaign_memorial_museum) in the Tiexi District documents this battle with the seriousness it deserves — the exhibits are detailed and the scale of the fighting is made legible in a way that doesn't require prior knowledge of the Civil War to understand. Heroes Square, where the museum sits, has the weighty civic character of a place that knows what happened here.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Countryside_around_Delvina
 latitude: 39.949044
 loc_type: city
 longitude: 20.096067
-score: 0.38
+score: 0.31
 title: Delvina
 type: location
 ---

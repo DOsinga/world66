@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Vossevangen
 title: Voss
 type: location
+score: 0.53
 ---
 
 Voss is a small mountain town between Bergen and the Sognefjord that has reinvented itself as Norway's adventure sports capital. Paragliders launch off the ridges, white-water rafters tackle the rivers, skiers and snowboarders pour into Myrkdalen and Voss Resort in winter, and in summer the town fills with kayakers, climbers, and skydivers. Extreme Sports Week (Ekstremsportveko) every June turns the whole place into a festival of people throwing themselves off things.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ellis_county_courthouse.JP
 latitude: 32.394491
 loc_type: city
 longitude: -96.843936
-score: 0.41
+score: 0.31
 title: Waxahachie
 type: location
 ---

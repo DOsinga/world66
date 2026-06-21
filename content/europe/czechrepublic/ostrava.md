@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Colours_of_Ostrava.jpg
 latitude: 49.8209
 loc_type: city
 longitude: 18.2625
-score: 0.45
+score: 0.37
 title: Ostrava
 type: location
 ---

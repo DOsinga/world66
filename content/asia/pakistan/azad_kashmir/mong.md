@@ -5,7 +5,7 @@ done:
 latitude: 33.71
 loc_type: city
 longitude: 73.73
-score: 0.26
+score: 0.2
 title: Mong
 type: location
 ---

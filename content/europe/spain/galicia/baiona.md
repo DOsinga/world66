@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vista_do_porto_de_Baiona_d
 latitude: 42.119534
 loc_type: city
 longitude: -8.850165
-score: 0.58
+score: 0.51
 title: Baiona
 type: location
 ---

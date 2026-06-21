@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lifou_falaises_Xodre.JPG
 latitude: -20.9329
 loc_type: city
 longitude: 167.1658
-score: 0.64
+score: 0.51
 title: Lifou
 type: location
 ---

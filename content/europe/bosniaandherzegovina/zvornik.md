@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Zvornik_fortress_main_stru
 latitude: 44.3864
 loc_type: city
 longitude: 19.1025
-score: 0.31
+score: 0.27
 title: Zvornik
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 3637,
+  "timestamp": "2026-06-13T23:08:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Antwerp",
+      "path": "europe/belgium/antwerp",
+      "prior_score": 6.314,
+      "prior_variance": 0.144433,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Manila",
+      "path": "asia/philippines/manila",
+      "prior_score": -0.9111,
+      "prior_variance": 0.194567,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Taxco",
+      "path": "northamerica/mexico/taxco",
+      "prior_score": 4.2539,
+      "prior_variance": 0.119793,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "R\u00fcdesheim",
+      "path": "europe/germany/hessen/rudesheim",
+      "prior_score": 2.9977,
+      "prior_variance": 0.123394,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Hua Shan",
+      "path": "asia/china/shaanxi/hua_shan",
+      "prior_score": 5.5941,
+      "prior_variance": 0.193598,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Estepona",
+      "path": "europe/spain/andalucia/estepona",
+      "prior_score": 2.8976,
+      "prior_variance": 0.107668,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Pietra Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pietraligure",
+      "prior_score": 2.0813,
+      "prior_variance": 0.111793,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Mindo",
+      "path": "southamerica/ecuador/mindo",
+      "prior_score": 3.3274,
+      "prior_variance": 0.124092,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Falmouth",
+      "path": "northamerica/jamaica/falmouth",
+      "prior_score": 1.767,
+      "prior_variance": 0.109556,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Tarapoto",
+      "path": "southamerica/peru/tarapoto",
+      "prior_score": -0.4019,
+      "prior_variance": 0.107283,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Bahchisaray",
+      "path": "europe/ukraine/crimea/bahchisaray",
+      "prior_score": -0.9671,
+      "prior_variance": 0.18935,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Clairvaux",
+      "path": "europe/france/east/champagne/clairvaux",
+      "prior_score": -1.3129,
+      "prior_variance": 0.118921,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Mohe",
+      "path": "asia/china/heilongjiang/mohe",
+      "prior_score": -2.0539,
+      "prior_variance": 0.124949,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Tsumeb, Gateway to the North and Etosha",
+      "path": "africa/namibia/tsumeb_gateway_to_the_north_and_etosha",
+      "prior_score": -2.645,
+      "prior_variance": 0.148559,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Iqaluit",
+      "path": "northamerica/canada/nunavut/iqaluit",
+      "prior_score": -2.0345,
+      "prior_variance": 0.136314,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Cobourg",
+      "path": "northamerica/canada/ontario/cobourg",
+      "prior_score": -1.4048,
+      "prior_variance": 0.119323,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Eau Claire",
+      "path": "northamerica/unitedstates/wisconsin/eau_claire",
+      "prior_score": -3.1246,
+      "prior_variance": 0.111593,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_score": -2.9009,
+      "prior_variance": 0.114798,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Huntington",
+      "path": "northamerica/unitedstates/westvirginia/huntington",
+      "prior_score": -4.7368,
+      "prior_variance": 0.172982,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "North Platte",
+      "path": "northamerica/unitedstates/nebraska/northplatte",
+      "prior_score": -5.133,
+      "prior_variance": 0.119558,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Newhall",
+      "path": "northamerica/unitedstates/california/newhall",
+      "prior_score": -4.7385,
+      "prior_variance": 0.127527,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Kisii",
+      "path": "africa/kenya/westernkenya/kisii",
+      "prior_score": -5.0869,
+      "prior_variance": 0.127458,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Adama",
+      "path": "africa/ethiopia/adama",
+      "prior_score": -5.2031,
+      "prior_variance": 0.138605,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Anshan",
+      "path": "asia/china/liaoning/anshan",
+      "prior_score": -5.658,
+      "prior_variance": 0.148198,
+      "prior_n": 11
+    }
+  ]
+}

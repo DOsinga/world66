@@ -1,200 +1,200 @@
 {
   "round": 716,
-  "timestamp": "2026-04-12T10:44:08",
+  "timestamp": "2026-06-13T19:50:07",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "San Sebasti\u00e1n",
-      "path": "europe/spain/basque_country_eus/sansebastian",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lippstadt",
+      "path": "europe/germany/northrhinewestphalia/lippstadt",
+      "prior_score": -7.6677,
+      "prior_variance": 1.057346,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Canary Islands",
-      "path": "europe/spain/canaryislands",
-      "prior_mu": 26.2161,
-      "prior_sigma": 5.0437,
+      "title": "Appleton",
+      "path": "northamerica/unitedstates/wisconsin/appleton",
+      "prior_score": -6.4224,
+      "prior_variance": 1.150751,
       "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Catalonia",
-      "path": "europe/spain/catalonia",
-      "prior_mu": 22.8307,
-      "prior_sigma": 5.6749,
+      "title": "Brentwood",
+      "path": "northamerica/unitedstates/california/brentwood",
+      "prior_score": -8.0063,
+      "prior_variance": 1.358555,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "costa dorada",
-      "path": "europe/spain/catalonia/costa_dorada",
-      "prior_mu": 21.9057,
-      "prior_sigma": 5.1367,
-      "prior_n": 1
+      "title": "Voronezh",
+      "path": "europe/russia/voronezh",
+      "prior_score": -9.2789,
+      "prior_variance": 0.920802,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "R\u00edas Baixas",
-      "path": "europe/spain/galicia/ras_baixas",
-      "prior_mu": 22.7681,
-      "prior_sigma": 5.9669,
-      "prior_n": 1
+      "title": "Cheboksary",
+      "path": "europe/russia/chuvashia/cheboksary",
+      "prior_score": -8.2742,
+      "prior_variance": 1.095835,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Ons Islands",
-      "path": "europe/spain/galicia/ons_islands",
-      "prior_mu": 22.0649,
-      "prior_sigma": 5.7513,
+      "title": "Montgomery",
+      "path": "northamerica/unitedstates/alabama/montgomery",
+      "prior_score": -8.3574,
+      "prior_variance": 1.573164,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Ribeira Sacra",
-      "path": "europe/spain/galicia/ribeira_sacra",
-      "prior_mu": 22.3095,
-      "prior_sigma": 5.5235,
-      "prior_n": 1
+      "title": "Collinsville",
+      "path": "northamerica/unitedstates/illinois/collinsville",
+      "prior_score": -7.0821,
+      "prior_variance": 0.873089,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Ribeira Sacra",
-      "path": "europe/spain/galicia/ribeira_sacra_vall",
-      "prior_mu": 21.7471,
-      "prior_sigma": 4.815,
+      "title": "Woldingham",
+      "path": "europe/unitedkingdom/england/south_east/woldingham",
+      "prior_score": -8.615,
+      "prior_variance": 1.058827,
       "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Besal\u00fa",
-      "path": "europe/spain/catalonia/besal",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 10,
-      "title": "Laguardia",
-      "path": "europe/spain/basque_country_eus/laguardia",
-      "prior_mu": 22.0305,
-      "prior_sigma": 4.6894,
+      "title": "Zalantun",
+      "path": "asia/china/innermongolia/zalantun",
+      "prior_score": -9.0286,
+      "prior_variance": 0.832606,
       "prior_n": 2
     },
     {
+      "rank": 10,
+      "title": "Mudanjiang",
+      "path": "asia/china/heilongjiang/mudanjiang",
+      "prior_score": -7.583,
+      "prior_variance": 1.799259,
+      "prior_n": 1
+    },
+    {
       "rank": 11,
-      "title": "Guernika",
-      "path": "europe/spain/basque_country_eus/guernika",
-      "prior_mu": 21.3014,
-      "prior_sigma": 3.7949,
-      "prior_n": 3
+      "title": "Mandaue City",
+      "path": "asia/philippines/cebu/mandaue_city",
+      "prior_score": -8.563,
+      "prior_variance": 0.714667,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Sos del Rey Cat\u00f3lico",
-      "path": "europe/spain/aragon/sosdelreycatl",
-      "prior_mu": 21.2213,
-      "prior_sigma": 4.4019,
+      "title": "Mandaluyong",
+      "path": "asia/philippines/mandaluyong",
+      "prior_score": -9.4561,
+      "prior_variance": 1.070097,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Puigcerd\u00e0",
-      "path": "europe/spain/puigcerd",
-      "prior_mu": 22.6073,
-      "prior_sigma": 5.9271,
-      "prior_n": 1
+      "title": "Las Pinas City",
+      "path": "asia/philippines/las_pinas_city",
+      "prior_score": -9.0302,
+      "prior_variance": 0.877816,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "The Peninsula of O Morrazo",
-      "path": "europe/spain/galicia/the_peninsula_of_o",
-      "prior_mu": 21.4782,
-      "prior_sigma": 3.0768,
-      "prior_n": 4
-    },
-    {
-      "rank": 15,
-      "title": "Murcia",
-      "path": "europe/spain/spanishcostas/murcia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 16,
-      "title": "Noia",
-      "path": "europe/spain/northernspain/noia",
-      "prior_mu": 21.0874,
-      "prior_sigma": 3.6698,
+      "title": "Eluru",
+      "path": "asia/india/andhrapradesh/eluru",
+      "prior_score": -8.9787,
+      "prior_variance": 0.756728,
       "prior_n": 3
     },
     {
+      "rank": 15,
+      "title": "Villa Florida",
+      "path": "southamerica/paraguay/villaflorida",
+      "prior_score": -8.8039,
+      "prior_variance": 0.679812,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Piedras Negras",
+      "path": "northamerica/mexico/piedras_negras_co",
+      "prior_score": -9.4386,
+      "prior_variance": 1.096227,
+      "prior_n": 2
+    },
+    {
       "rank": 17,
-      "title": "Muros",
-      "path": "europe/spain/northernspain/muros",
-      "prior_mu": 23.0767,
-      "prior_sigma": 5.9211,
-      "prior_n": 1
+      "title": "Gjakova",
+      "path": "europe/serbia/kosovoprovince/gjakova",
+      "prior_score": -8.5163,
+      "prior_variance": 0.970827,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Vilafranca del Bierzo",
-      "path": "europe/spain/galicia/vilafranca_del_bie",
-      "prior_mu": 21.7399,
-      "prior_sigma": 5.549,
-      "prior_n": 1
+      "title": "Barquisimeto",
+      "path": "southamerica/venezuela/barquisimeto",
+      "prior_score": -8.4801,
+      "prior_variance": 0.592585,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Arbo",
-      "path": "europe/spain/galicia/arbo",
-      "prior_mu": 22.5195,
-      "prior_sigma": 5.7834,
-      "prior_n": 1
+      "title": "Rainbow",
+      "path": "australiaandpacific/australia/victoria/rainbow",
+      "prior_score": -9.4939,
+      "prior_variance": 0.754719,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Badajoz",
-      "path": "europe/spain/extremadura/badajoz",
-      "prior_mu": 22.3558,
-      "prior_sigma": 5.9016,
-      "prior_n": 1
+      "title": "Robertsport",
+      "path": "africa/liberia/robertsport",
+      "prior_score": -7.9244,
+      "prior_variance": 0.984894,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Matar\u00f3",
-      "path": "europe/spain/catalonia/mataro",
-      "prior_mu": 22.7187,
-      "prior_sigma": 5.9497,
-      "prior_n": 1
+      "title": "Huanggang",
+      "path": "asia/china/hubei/huanggang",
+      "prior_score": -7.7735,
+      "prior_variance": 0.481577,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Valdepe\u00f1as",
-      "path": "europe/spain/la_mancha/valdepeas",
-      "prior_mu": 22.7149,
-      "prior_sigma": 5.5714,
-      "prior_n": 1
+      "title": "Babylon",
+      "path": "asia/iraq/babylon",
+      "prior_score": -5.9637,
+      "prior_variance": 0.823677,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Guadalajara",
-      "path": "europe/spain/la_mancha/guadalajara",
-      "prior_mu": 22.7512,
-      "prior_sigma": 5.5348,
-      "prior_n": 1
+      "title": "Gonbad-e Kavus",
+      "path": "asia/iran/gonbad_kavous",
+      "prior_score": -7.7895,
+      "prior_variance": 0.64628,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Sant Mateu",
-      "path": "europe/spain/castellon/san_mateu",
-      "prior_mu": 22.1875,
-      "prior_sigma": 5.7729,
-      "prior_n": 1
+      "title": "Myoyangsan",
+      "path": "asia/northkorea/myoyangsan",
+      "prior_score": -8.3332,
+      "prior_variance": 1.217391,
+      "prior_n": 2
     }
   ]
 }

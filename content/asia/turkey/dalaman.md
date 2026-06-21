@@ -5,7 +5,7 @@ done:
 latitude: 36.767214
 loc_type: city
 longitude: 28.800274
-score: 0.5
+score: 0.38
 title: Dalaman
 type: location
 ---

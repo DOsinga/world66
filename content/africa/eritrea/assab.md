@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1939_Assab_Lancia_Aprilia_
 latitude: 13.009129
 loc_type: city
 longitude: 42.74446
-score: 0.23
+score: 0.18
 title: Assab
 type: location
 ---

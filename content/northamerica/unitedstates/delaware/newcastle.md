@@ -5,7 +5,7 @@ latitude: 39.6622
 longitude: -75.5663
 title: New Castle
 type: location
-score: 0.37
+score: 0.33
 loc_type: city
 ---
 

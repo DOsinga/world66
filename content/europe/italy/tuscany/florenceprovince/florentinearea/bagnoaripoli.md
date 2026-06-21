@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Antica_Via_Romana_(Bagno_a
 latitude: 43.7522
 loc_type: city
 longitude: 11.32
-score: 0.52
+score: 0.45
 title: Bagno a Ripoli
 type: location
 ---

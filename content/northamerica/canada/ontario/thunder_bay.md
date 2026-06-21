@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/38315261@N00/220914427
 latitude: 48.382
 loc_type: city
 longitude: -89.2502
-score: 0.44
+score: 0.39
 title: Thunder Bay
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: -20.160399
 loc_type: city
 longitude: -157.341222
-score: 0.5
+score: 0.39
 title: Mauke
 type: location
 image: mauke.jpg

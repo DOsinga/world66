@@ -5,7 +5,7 @@ latitude: 2.26472
 longitude: 31.896723
 title: Murchison Falls National Park
 type: location
-score: 0.58
+score: 0.54
 loc_type: feature
 ---
 

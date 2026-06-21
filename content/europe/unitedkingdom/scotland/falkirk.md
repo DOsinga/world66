@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Falkirk
 title: Falkirk
 type: location
+score: 0.4
 ---
 
 *Europe > United Kingdom > Scotland > Falkirk*

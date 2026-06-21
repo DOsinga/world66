@@ -5,7 +5,7 @@ done:
 latitude: 30.832702
 loc_type: city
 longitude: -83.278485
-score: 0.35
+score: 0.28
 sources:
 - https://en.wikipedia.org/wiki/Valdosta,_Georgia
 title: Valdosta

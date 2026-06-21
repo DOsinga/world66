@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_harbour,_Tenby_-_geogr
 latitude: 51.672613
 loc_type: city
 longitude: -4.705044
-score: 0.59
+score: 0.52
 title: Tenby
 type: location
 ---

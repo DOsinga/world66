@@ -1,0 +1,200 @@
+{
+  "round": 4057,
+  "timestamp": "2026-06-13T23:40:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oporto",
+      "path": "europe/portugal/oporto",
+      "prior_score": 8.3465,
+      "prior_variance": 0.161055,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Concarneau",
+      "path": "europe/france/normandybrittany/concarneau",
+      "prior_score": 3.4277,
+      "prior_variance": 0.109271,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Picton",
+      "path": "australiaandpacific/newzealand/south_island/marlborough/picton",
+      "prior_score": 2.3488,
+      "prior_variance": 0.120779,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Blue Mountains",
+      "path": "northamerica/jamaica/bluemountains",
+      "prior_score": 3.4226,
+      "prior_variance": 0.1028,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Savona",
+      "path": "europe/italy/liguria/savona",
+      "prior_score": 0.9222,
+      "prior_variance": 0.102449,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Gouda",
+      "path": "europe/netherlands/gouda",
+      "prior_score": 2.382,
+      "prior_variance": 0.103734,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "\u00d6rebro",
+      "path": "europe/sweden/rebro",
+      "prior_score": 0.059,
+      "prior_variance": 0.09402,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Mikolajki",
+      "path": "europe/poland/mikolajki",
+      "prior_score": 0.0423,
+      "prior_variance": 0.095086,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Hatteras Island",
+      "path": "northamerica/unitedstates/northcarolina/hatteras_island",
+      "prior_score": 2.5857,
+      "prior_variance": 0.097324,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Langeoog",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/langeoog",
+      "prior_score": -0.0571,
+      "prior_variance": 0.116642,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/massachusetts/lexington",
+      "prior_score": -0.0713,
+      "prior_variance": 0.110639,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Stockbridge",
+      "path": "northamerica/unitedstates/massachusetts/stockbridge",
+      "prior_score": 0.1366,
+      "prior_variance": 0.098767,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Bellingham",
+      "path": "northamerica/unitedstates/washington/bellingham",
+      "prior_score": -0.3963,
+      "prior_variance": 0.117891,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Nybyen",
+      "path": "europe/norway/spitsbergen/nybyen",
+      "prior_score": -1.8222,
+      "prior_variance": 0.176269,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/queensland/rockhampton_1",
+      "prior_score": -2.3989,
+      "prior_variance": 0.103278,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Leighlinbridge",
+      "path": "europe/ireland/carlow/leighlinbridge",
+      "prior_score": -2.5372,
+      "prior_variance": 0.099592,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "San Juan del Sur",
+      "path": "northamerica/nicaragua/sanjuandelsur",
+      "prior_score": 0.837,
+      "prior_variance": 0.096649,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Larache",
+      "path": "africa/morocco/larache",
+      "prior_score": -0.8306,
+      "prior_variance": 0.095153,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Butte",
+      "path": "northamerica/unitedstates/montana/butte",
+      "prior_score": -1.952,
+      "prior_variance": 0.101705,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Broken Bow",
+      "path": "northamerica/unitedstates/oklahoma/broken_bow",
+      "prior_score": -2.4235,
+      "prior_variance": 0.099785,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Pandeglang",
+      "path": "asia/indonesia/banten/pandeglang",
+      "prior_score": -3.3145,
+      "prior_variance": 0.101806,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Ilorin",
+      "path": "africa/nigeria/ilorin",
+      "prior_score": -5.5544,
+      "prior_variance": 0.122423,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Tikrit",
+      "path": "asia/iraq/tikrit",
+      "prior_score": -9.4807,
+      "prior_variance": 0.250197,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Damascus",
+      "path": "asia/syria/damascus",
+      "prior_score": -8.7773,
+      "prior_variance": 0.275228,
+      "prior_n": 13
+    }
+  ]
+}

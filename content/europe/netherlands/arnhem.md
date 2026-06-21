@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Musis_Sacrum,_late_aft
 latitude: 51.9851
 loc_type: city
 longitude: 5.8987
-score: 0.52
+score: 0.42
 title: Arnhem
 type: location
 ---

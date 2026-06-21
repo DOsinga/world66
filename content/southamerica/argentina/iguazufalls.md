@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_1838_Iguazu_Falls_from_
 latitude: -25.692532
 loc_type: city
 longitude: -54.441114
-score: 0.91
+score: 0.83
 title: Iguazu Falls
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Piazza_dei_Signori_e_Palaz
 latitude: 45.806691
 loc_type: city
 longitude: 12.206316
-score: 0.64
+score: 0.53
 title: Treviso
 type: location
 ---

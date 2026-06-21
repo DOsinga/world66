@@ -6,7 +6,7 @@ latitude: 27.99639
 longitude: 120.695345
 title: Wenzhou
 type: location
-score: 0.39
+score: 0.31
 loc_type: city
 image: wenzhou.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Wenzhou-city-in-Zhejiang-China.jpg

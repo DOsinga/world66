@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rouen_(37903223574).jpg
 latitude: 49.440459
 loc_type: city
 longitude: 1.093966
-score: 0.63
+score: 0.55
 title: Rouen
 type: location
 ---

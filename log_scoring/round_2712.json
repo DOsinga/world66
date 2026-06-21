@@ -1,0 +1,200 @@
+{
+  "round": 2712,
+  "timestamp": "2026-06-13T22:01:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Athens",
+      "path": "europe/greece/athens",
+      "prior_score": 10.7065,
+      "prior_variance": 0.375986,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Budapest",
+      "path": "europe/hungary/budapest",
+      "prior_score": 11.6952,
+      "prior_variance": 0.3326,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/wyoming/yellowstone",
+      "prior_score": 14.1958,
+      "prior_variance": 0.692237,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Serengeti National Park",
+      "path": "africa/tanzania/serengetinationalpark",
+      "prior_score": 13.5738,
+      "prior_variance": 0.638446,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Versailles",
+      "path": "europe/france/around_paris/versailles",
+      "prior_score": 13.2644,
+      "prior_variance": 1.009636,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Innsbruck",
+      "path": "europe/austria/innsbruck",
+      "prior_score": 7.5454,
+      "prior_variance": 0.203733,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Fernando de Noronha",
+      "path": "southamerica/brazil/fernando_de_noronha",
+      "prior_score": 10.847,
+      "prior_variance": 0.482438,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Tulum",
+      "path": "northamerica/mexico/tulum",
+      "prior_score": 9.024,
+      "prior_variance": 0.297577,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Kalambaka",
+      "path": "europe/greece/kalambaka",
+      "prior_score": 7.9375,
+      "prior_variance": 0.29473,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Rhodes City",
+      "path": "europe/greece/rhodes/rhodescity",
+      "prior_score": 8.6383,
+      "prior_variance": 0.31838,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Hydra",
+      "path": "europe/greece/hydra",
+      "prior_score": 7.6253,
+      "prior_variance": 0.335831,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Hanoi",
+      "path": "asia/vietnam/hanoi",
+      "prior_score": 8.4797,
+      "prior_variance": 0.235786,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "San Ignacio",
+      "path": "northamerica/belize/sanignacio",
+      "prior_score": 3.6802,
+      "prior_variance": 0.176226,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Lamu",
+      "path": "africa/kenya/thecoast/lamu",
+      "prior_score": 4.4607,
+      "prior_variance": 0.163145,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Pakse",
+      "path": "asia/laos/pakse",
+      "prior_score": 1.328,
+      "prior_variance": 0.185935,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Olympic National Park",
+      "path": "northamerica/unitedstates/washington/olympicnationalpark",
+      "prior_score": 8.4486,
+      "prior_variance": 0.231816,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Chantilly",
+      "path": "europe/france/nord/chantilly",
+      "prior_score": 2.331,
+      "prior_variance": 0.225831,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Plze\u0148",
+      "path": "europe/czechrepublic/plzen",
+      "prior_score": 2.462,
+      "prior_variance": 0.139957,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Amelia Island",
+      "path": "northamerica/unitedstates/florida/amelia_island",
+      "prior_score": 1.9842,
+      "prior_variance": 0.190461,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Argeles-sur-Mer",
+      "path": "europe/france/midi/cotedazur/argelessurmer",
+      "prior_score": 2.1397,
+      "prior_variance": 0.163308,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Perak",
+      "path": "asia/malaysia/perak",
+      "prior_score": -0.0536,
+      "prior_variance": 0.143043,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Poitiers",
+      "path": "europe/france/midi/aquitaine",
+      "prior_score": 0.4183,
+      "prior_variance": 0.195657,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach",
+      "prior_score": -2.5209,
+      "prior_variance": 0.16695,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Forres",
+      "path": "europe/unitedkingdom/scotland/forres",
+      "prior_score": -0.9247,
+      "prior_variance": 0.170829,
+      "prior_n": 8
+    }
+  ]
+}

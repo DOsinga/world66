@@ -1,0 +1,200 @@
+{
+  "round": 4461,
+  "timestamp": "2026-06-14T00:14:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kathmandu",
+      "path": "asia/nepal/kathmandu",
+      "prior_score": 7.5262,
+      "prior_variance": 0.147527,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Matsumoto",
+      "path": "asia/japan/honshu/matsumoto",
+      "prior_score": 6.7392,
+      "prior_variance": 0.143791,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Kufstein",
+      "path": "europe/austria/kufstein",
+      "prior_score": 3.2287,
+      "prior_variance": 0.094598,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Tournai",
+      "path": "europe/belgium/tournai",
+      "prior_score": 0.9921,
+      "prior_variance": 0.093081,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Alagna",
+      "path": "europe/italy/piemonte/alagna",
+      "prior_score": 1.6367,
+      "prior_variance": 0.090019,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Ulaanbaatar",
+      "path": "asia/mongolia/ulaanbaatar",
+      "prior_score": 0.8174,
+      "prior_variance": 0.103478,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Bukit Lawang",
+      "path": "asia/indonesia/sumatra/bukitlawang",
+      "prior_score": 3.4632,
+      "prior_variance": 0.094616,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Quepos",
+      "path": "northamerica/costarica/quepos",
+      "prior_score": 2.5896,
+      "prior_variance": 0.115327,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Kalimpong",
+      "path": "asia/india/westbengal/kalimpong",
+      "prior_score": 1.6774,
+      "prior_variance": 0.094169,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Cape Kaliakra",
+      "path": "europe/bulgaria/cape_kaliakra",
+      "prior_score": 0.7174,
+      "prior_variance": 0.084728,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Tsodilo Hills",
+      "path": "africa/botswana/tsodilohills",
+      "prior_score": 0.6567,
+      "prior_variance": 0.100285,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "S\u00e3o Vicente",
+      "path": "africa/capeverde/saovicente",
+      "prior_score": -0.073,
+      "prior_variance": 0.091359,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Turrialba",
+      "path": "northamerica/costarica/turrialba",
+      "prior_score": 0.6761,
+      "prior_variance": 0.090654,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Cavaillon",
+      "path": "europe/france/midi/provence/cavaillon",
+      "prior_score": 0.3248,
+      "prior_variance": 0.085658,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_score": -1.6675,
+      "prior_variance": 0.098973,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Santa Rosa de Cop\u00e1n",
+      "path": "northamerica/honduras/santarosadecop",
+      "prior_score": -1.6567,
+      "prior_variance": 0.084893,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Montesilvano",
+      "path": "europe/italy/abruzzo/montesilvano",
+      "prior_score": -1.5553,
+      "prior_variance": 0.104699,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Salisbury",
+      "path": "northamerica/unitedstates/northcarolina/salisbury",
+      "prior_score": -4.3149,
+      "prior_variance": 0.117162,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Kabala",
+      "path": "africa/sierraleone/kabala",
+      "prior_score": -5.7515,
+      "prior_variance": 0.116701,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Moron",
+      "path": "asia/mongolia/moron",
+      "prior_score": -5.2953,
+      "prior_variance": 0.118207,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Jinzhou",
+      "path": "asia/china/liaoning/jinzhou",
+      "prior_score": -4.1668,
+      "prior_variance": 0.093996,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Sanmenxia",
+      "path": "asia/china/henan_province/sanmenxia",
+      "prior_score": -4.9842,
+      "prior_variance": 0.111136,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Huaibei",
+      "path": "asia/china/anhui/huaibei",
+      "prior_score": -5.5708,
+      "prior_variance": 0.121106,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Streator",
+      "path": "northamerica/unitedstates/illinois/streator",
+      "prior_score": -7.1228,
+      "prior_variance": 0.209472,
+      "prior_n": 14
+    }
+  ]
+}

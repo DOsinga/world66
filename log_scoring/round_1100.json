@@ -1,200 +1,200 @@
 {
   "round": 1100,
-  "timestamp": "2026-04-12T22:09:21",
+  "timestamp": "2026-06-13T20:11:11",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Oceanside",
-      "path": "northamerica/unitedstates/california/oceanside",
-      "prior_rank": 4066,
-      "prior_wins": 23,
-      "prior_n": 2
+      "title": "F\u00fcssen",
+      "path": "europe/germany/bavaria/fussen",
+      "prior_score": 10.4844,
+      "prior_variance": 0.591301,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Raleigh",
-      "path": "northamerica/unitedstates/northcarolina/raleigh",
-      "prior_rank": 5152,
-      "prior_wins": 18,
-      "prior_n": 2
+      "title": "Portoferraio",
+      "path": "europe/italy/tuscany/elba/portoferraio",
+      "prior_score": 7.6132,
+      "prior_variance": 0.621691,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "B\u00e9nouville",
-      "path": "europe/france/normandybrittany/bnouville",
-      "prior_rank": 7246,
-      "prior_wins": 8,
-      "prior_n": 2
+      "title": "Shakhrisabz",
+      "path": "asia/uzbekistan/shakhrisabz",
+      "prior_score": -0.3843,
+      "prior_variance": 0.470367,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Mestre",
-      "path": "europe/italy/veneto/mestre",
-      "prior_rank": 7397,
-      "prior_wins": 11,
+      "title": "El Jem",
+      "path": "africa/tunisia/eljem",
+      "prior_score": 2.1193,
+      "prior_variance": 0.578658,
       "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Kosovo",
-      "path": "europe/serbiaandmontenegro/kosovoprovince",
-      "prior_rank": 6442,
-      "prior_wins": 11,
-      "prior_n": 2
+      "title": "Messina",
+      "path": "europe/italy/sicily/messina",
+      "prior_score": 2.6753,
+      "prior_variance": 0.502181,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Tashkorgan",
-      "path": "asia/china/tashkorgan",
-      "prior_rank": 5369,
-      "prior_wins": 17,
-      "prior_n": 2
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_score": 0.6099,
+      "prior_variance": 0.681722,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Ban Lung",
-      "path": "asia/cambodia/ratanakiriprovince/banlung",
-      "prior_rank": 6462,
-      "prior_wins": 15,
+      "title": "Bukittinggi",
+      "path": "asia/indonesia/sumatra/bukittinggi",
+      "prior_score": 1.8741,
+      "prior_variance": 0.394714,
       "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Galibi Nature Reserve",
-      "path": "southamerica/suriname/galibireserve",
-      "prior_rank": 5535,
-      "prior_wins": 16,
-      "prior_n": 2
+      "title": "Laguardia",
+      "path": "europe/spain/basque_country_euskadi/laguardia",
+      "prior_score": 3.1736,
+      "prior_variance": 0.495881,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Tai national park",
-      "path": "africa/ivorycoast/tainationalpark",
-      "prior_rank": 5513,
-      "prior_wins": 16,
-      "prior_n": 2
+      "title": "Tengchong",
+      "path": "asia/china/yunnanprovince/tengchong",
+      "prior_score": 3.2786,
+      "prior_variance": 0.401161,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Thanh Hoa",
-      "path": "asia/vietnam/thanh_hoa",
-      "prior_rank": 6935,
-      "prior_wins": 10,
-      "prior_n": 2
+      "title": "Annot",
+      "path": "europe/france/midi/southern_alps/annot",
+      "prior_score": 1.3921,
+      "prior_variance": 0.458247,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Tres Rios",
-      "path": "northamerica/costarica/tresrios",
-      "prior_rank": 5634,
-      "prior_wins": 16,
-      "prior_n": 2
+      "title": "Pertouli",
+      "path": "europe/greece/pertouli",
+      "prior_score": 0.6622,
+      "prior_variance": 0.715931,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Tetonia",
-      "path": "northamerica/unitedstates/idaho/teton_valley/tetonia",
-      "prior_rank": 5515,
-      "prior_wins": 16,
-      "prior_n": 2
+      "title": "Schleswig",
+      "path": "europe/germany/schleswigholstein/schleswig",
+      "prior_score": -0.9598,
+      "prior_variance": 0.577724,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Trinity",
-      "path": "northamerica/unitedstates/california/shastacascade/trinity",
-      "prior_rank": 2570,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Deventer",
+      "path": "europe/netherlands/deventer",
+      "prior_score": -0.0572,
+      "prior_variance": 0.450218,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Las Cruces",
-      "path": "northamerica/unitedstates/newmexico/lascruces",
-      "prior_rank": 5896,
-      "prior_wins": 22,
+      "title": "Aberdare N.P.",
+      "path": "africa/kenya/nationalparksandreserves/aberdarenp",
+      "prior_score": 1.0389,
+      "prior_variance": 0.46482,
       "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Lochgilphead",
-      "path": "europe/unitedkingdom/scotland/lochgilphead",
-      "prior_rank": 5286,
-      "prior_wins": 26,
+      "title": "Victor Harbor",
+      "path": "australiaandpacific/australia/southaustralia/victor_harbour",
+      "prior_score": 0.1443,
+      "prior_variance": 0.447034,
       "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Sundsvall",
-      "path": "europe/sweden/sundsvall",
-      "prior_rank": 6283,
-      "prior_wins": 13,
-      "prior_n": 2
+      "title": "Tandil",
+      "path": "southamerica/argentina/tandil",
+      "prior_score": 0.0652,
+      "prior_variance": 0.338168,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Rawalakot",
-      "path": "asia/pakistan/azad_kashmir/rawala_kot",
-      "prior_rank": 4512,
-      "prior_wins": 21,
-      "prior_n": 2
+      "title": "Golden Ears",
+      "path": "northamerica/canada/britishcolumbia/goldenears",
+      "prior_score": 1.2815,
+      "prior_variance": 0.419725,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Fortuna",
-      "path": "northamerica/unitedstates/california/northcoast/fortuna",
-      "prior_rank": 5129,
-      "prior_wins": 18,
-      "prior_n": 2
+      "title": "Bighorn Canyon",
+      "path": "northamerica/unitedstates/montana/bighorncanyon",
+      "prior_score": 0.8445,
+      "prior_variance": 0.637701,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Landau",
-      "path": "europe/germany/rhinelandpalatinate/landau",
-      "prior_rank": 6876,
-      "prior_wins": 10,
-      "prior_n": 2
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds",
+      "prior_score": 1.0883,
+      "prior_variance": 0.488081,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Songtan",
-      "path": "asia/southkorea/songtan",
-      "prior_rank": 4776,
-      "prior_wins": 20,
-      "prior_n": 2
+      "title": "Manchester",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/manchester",
+      "prior_score": 1.3075,
+      "prior_variance": 0.404262,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Askersund",
-      "path": "europe/sweden/askersund",
-      "prior_rank": 6313,
-      "prior_wins": 13,
-      "prior_n": 2
+      "title": "Ozark National Scenic Riverways",
+      "path": "northamerica/unitedstates/missouri/ozark",
+      "prior_score": 0.1545,
+      "prior_variance": 0.397382,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Monticello",
-      "path": "northamerica/unitedstates/utah/monticello",
-      "prior_rank": 6493,
-      "prior_wins": 12,
-      "prior_n": 2
+      "title": "Mazag\u00f3n",
+      "path": "europe/spain/andalucia/mazagon",
+      "prior_score": 0.373,
+      "prior_variance": 0.39253,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Kokkola",
-      "path": "europe/finland/kokkola",
-      "prior_rank": 7245,
-      "prior_wins": 8,
-      "prior_n": 2
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_score": -3.6383,
+      "prior_variance": 0.354707,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Penrhyn",
-      "path": "australiaandpacific/cookislands/penrhyn",
-      "prior_rank": 5975,
-      "prior_wins": 10,
-      "prior_n": 2
+      "title": "Weiser",
+      "path": "northamerica/unitedstates/idaho/weiser",
+      "prior_score": -7.1669,
+      "prior_variance": 0.463212,
+      "prior_n": 3
     }
   ]
 }

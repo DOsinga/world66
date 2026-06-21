@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Corti.JPG
 latitude: 42.30529
 loc_type: city
 longitude: 9.151193
-score: 0.61
+score: 0.52
 sources:
 - https://en.wikipedia.org/wiki/Corte,_Haute-Corse
 - https://en.wikipedia.org/wiki/Restonica

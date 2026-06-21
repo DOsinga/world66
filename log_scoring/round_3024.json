@@ -1,0 +1,200 @@
+{
+  "round": 3024,
+  "timestamp": "2026-06-13T22:23:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jiuzhaigou",
+      "path": "asia/china/sichuanprovince/jiuzhaigou",
+      "prior_score": 9.1404,
+      "prior_variance": 0.304428,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Salt Cay",
+      "path": "northamerica/turksandcaicosislands/saltcay",
+      "prior_score": 2.41,
+      "prior_variance": 0.186798,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Skardu",
+      "path": "asia/pakistan/skardu",
+      "prior_score": 2.0297,
+      "prior_variance": 0.146983,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Victor Harbor",
+      "path": "australiaandpacific/australia/southaustralia/victor_harbour",
+      "prior_score": 0.6071,
+      "prior_variance": 0.129203,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Speyer",
+      "path": "europe/germany/rhinelandpalatinate/speyer",
+      "prior_score": 2.6666,
+      "prior_variance": 0.156376,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Uwajima",
+      "path": "asia/japan/shikoku/uwajima",
+      "prior_score": 0.0118,
+      "prior_variance": 0.143475,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Kokura",
+      "path": "asia/japan/kyushu/kokura",
+      "prior_score": 0.4418,
+      "prior_variance": 0.151658,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Hattonch\u00e2tel",
+      "path": "europe/france/east/lorraine/hattonchatel",
+      "prior_score": -0.8901,
+      "prior_variance": 0.14043,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Ingleton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ingleton",
+      "prior_score": 0.371,
+      "prior_variance": 0.139302,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Kelso",
+      "path": "europe/unitedkingdom/scotland/kelso",
+      "prior_score": 0.062,
+      "prior_variance": 0.150161,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Guadalteba",
+      "path": "europe/spain/andalucia/guadalteba",
+      "prior_score": -0.8034,
+      "prior_variance": 0.137797,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Casanova Lerrone",
+      "path": "europe/italy/liguria/rivieradellepalme/casanovalerrone",
+      "prior_score": -0.8215,
+      "prior_variance": 0.137989,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_score": -3.3067,
+      "prior_variance": 0.173393,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Davao",
+      "path": "asia/philippines/mindanaoisland/davao",
+      "prior_score": -0.5851,
+      "prior_variance": 0.151094,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "San Fernando",
+      "path": "northamerica/trinidadandtobago/sanfernando",
+      "prior_score": -2.1278,
+      "prior_variance": 0.142175,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Springer Mountain",
+      "path": "northamerica/unitedstates/georgia/springermountain",
+      "prior_score": -2.9369,
+      "prior_variance": 0.137211,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/ohio/newark",
+      "prior_score": -5.5375,
+      "prior_variance": 0.191086,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Bluefield",
+      "path": "northamerica/unitedstates/westvirginia/bluefield_wv",
+      "prior_score": -5.8229,
+      "prior_variance": 0.15452,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Wuhai",
+      "path": "asia/china/innermongolia/wuhai",
+      "prior_score": -6.1234,
+      "prior_variance": 0.198642,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Mary",
+      "path": "asia/turkmenistan/mary",
+      "prior_score": -6.2221,
+      "prior_variance": 0.178098,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Hyderabad",
+      "path": "asia/pakistan/hyderabad",
+      "prior_score": -5.8171,
+      "prior_variance": 0.192801,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Kenema",
+      "path": "africa/sierraleone/kenema",
+      "prior_score": -7.1766,
+      "prior_variance": 0.187141,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Garowe",
+      "path": "africa/somalia/garowe",
+      "prior_score": -10.8562,
+      "prior_variance": 0.597088,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Lugansk",
+      "path": "europe/ukraine/lugansk",
+      "prior_score": -10.4198,
+      "prior_variance": 0.339208,
+      "prior_n": 9
+    }
+  ]
+}

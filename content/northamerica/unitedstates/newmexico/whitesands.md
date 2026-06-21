@@ -5,7 +5,7 @@ latitude: 32.3838
 longitude: -106.4966
 title: White Sands
 type: location
-score: 0.6
+score: 0.54
 loc_type: feature
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pankisi_Gorge,_Flag_of_Ich
 latitude: 42.1343
 loc_type: city
 longitude: 45.2894
-score: 0.36
+score: 0.32
 title: Pankisi Gorge
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 39.548337
 loc_type: city
 longitude: 44.079359
-score: 0.45
+score: 0.4
 title: Dogubeyazit
 type: location
 image: dogubeyazit.jpg

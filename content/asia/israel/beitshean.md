@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beit_Shean_11.jpg
 latitude: 32.4968
 loc_type: city
 longitude: 35.4973
-score: 0.52
+score: 0.44
 title: Beit Shean
 type: location
 ---

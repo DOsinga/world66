@@ -1,0 +1,200 @@
+{
+  "round": 3913,
+  "timestamp": "2026-06-13T23:29:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "West Caicos",
+      "path": "northamerica/turksandcaicosislands/westcaicos",
+      "prior_score": 4.4862,
+      "prior_variance": 0.151547,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Nassau",
+      "path": "northamerica/bahamas/nassau",
+      "prior_score": 4.1433,
+      "prior_variance": 0.099248,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Te Paki Stream",
+      "path": "australiaandpacific/newzealand/north_island/northland/te_paki_stream",
+      "prior_score": 2.4678,
+      "prior_variance": 0.125301,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Pensacola Beach",
+      "path": "northamerica/unitedstates/florida/pensacola_beach",
+      "prior_score": 1.2884,
+      "prior_variance": 0.129172,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Erice",
+      "path": "europe/italy/sicily/erice",
+      "prior_score": 5.8869,
+      "prior_variance": 0.127616,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Selinunte",
+      "path": "europe/italy/sicily/selinunte",
+      "prior_score": 4.5536,
+      "prior_variance": 0.096923,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Pienza",
+      "path": "europe/italy/tuscany/pienza",
+      "prior_score": 5.9819,
+      "prior_variance": 0.146809,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Volterra",
+      "path": "europe/italy/tuscany/volterra",
+      "prior_score": 5.632,
+      "prior_variance": 0.127642,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Wuyuan",
+      "path": "asia/china/jiangxi/wuyuan",
+      "prior_score": 2.264,
+      "prior_variance": 0.112748,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Chiang Dao",
+      "path": "asia/thailand/chiang_dao",
+      "prior_score": 3.701,
+      "prior_variance": 0.102496,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Shangri-La",
+      "path": "asia/china/yunnanprovince/shangrila",
+      "prior_score": 4.7306,
+      "prior_variance": 0.123012,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Modena",
+      "path": "europe/italy/emiliaromagna/modena",
+      "prior_score": 4.2344,
+      "prior_variance": 0.12515,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "M\u00e9rida",
+      "path": "europe/spain/extremadura/merida",
+      "prior_score": 4.3043,
+      "prior_variance": 0.12027,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Harz Mountains",
+      "path": "europe/germany/lowersaxony/harz_mountains",
+      "prior_score": 3.2112,
+      "prior_variance": 0.116719,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Martigny",
+      "path": "europe/switzerland/martigny",
+      "prior_score": 2.7716,
+      "prior_variance": 0.104269,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Riccione",
+      "path": "europe/italy/emiliaromagna/riccione",
+      "prior_score": 1.5865,
+      "prior_variance": 0.104703,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Burgas",
+      "path": "europe/bulgaria/burgas",
+      "prior_score": 1.0092,
+      "prior_variance": 0.111604,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Lugansk",
+      "path": "europe/ukraine/lugansk",
+      "prior_score": -10.6064,
+      "prior_variance": 0.305445,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Mykolaiv",
+      "path": "europe/ukraine/nikolaev",
+      "prior_score": -7.5438,
+      "prior_variance": 0.302603,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Dera Ismail Khan",
+      "path": "asia/pakistan/dera_ismail_khan",
+      "prior_score": -7.902,
+      "prior_variance": 0.200426,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Gujranwala",
+      "path": "asia/pakistan/gujranwala",
+      "prior_score": -6.6583,
+      "prior_variance": 0.164596,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Sokoto",
+      "path": "africa/nigeria/sokoto",
+      "prior_score": -7.1448,
+      "prior_variance": 0.165864,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_score": -9.8532,
+      "prior_variance": 0.231774,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Hadjer Hadid",
+      "path": "africa/chad/hadjer_hadid",
+      "prior_score": -9.9874,
+      "prior_variance": 0.324147,
+      "prior_n": 12
+    }
+  ]
+}

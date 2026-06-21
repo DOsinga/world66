@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_on_%C3%85lesund.jpg
 latitude: 62.480236
 loc_type: city
 longitude: 6.555074
-score: 0.71
+score: 0.61
 title: Ålesund
 type: location
 ---

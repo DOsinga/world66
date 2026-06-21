@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Reichsstrassedonauworth.JP
 latitude: 48.718036
 loc_type: city
 longitude: 10.78073
-score: 0.52
+score: 0.47
 title: Donauwörth
 type: location
 ---

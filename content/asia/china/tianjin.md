@@ -7,7 +7,7 @@ done:
 latitude: 39.303262
 loc_type: city
 longitude: 117.416364
-score: 0.46
+score: 0.4
 sources:
 - https://en.wikivoyage.org/wiki/Tianjin
 title: Tianjin

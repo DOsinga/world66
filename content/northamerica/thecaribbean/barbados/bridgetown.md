@@ -5,7 +5,7 @@ done:
 latitude: 13.0969
 loc_type: city
 longitude: -59.6145
-score: 0.68
+score: 0.6
 sources:
 - https://en.wikipedia.org/wiki/Bridgetown
 - https://en.wikipedia.org/wiki/Garrison_Historic_Area

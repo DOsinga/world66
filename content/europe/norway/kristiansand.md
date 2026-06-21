@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kvadraturen-01.jpg
 latitude: 58.1467
 loc_type: city
 longitude: 7.9956
-score: 0.53
+score: 0.47
 title: Kristiansand
 type: location
 ---

@@ -1,200 +1,200 @@
 {
   "round": 1998,
-  "timestamp": "2026-04-13T16:01:33",
+  "timestamp": "2026-06-13T21:11:30",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Petra",
-      "path": "asia/jordan/petra",
-      "prior_score": 10.459,
-      "prior_variance": 0.594576,
-      "prior_n": 5
+      "title": "Comino",
+      "path": "europe/malta/comino",
+      "prior_score": 5.1764,
+      "prior_variance": 0.308444,
+      "prior_n": 7
     },
     {
       "rank": 2,
-      "title": "French Polynesia",
-      "path": "australiaandpacific/frenchpolynesia",
-      "prior_score": 10.0506,
-      "prior_variance": 0.865864,
-      "prior_n": 5
+      "title": "St Ives",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_ives",
+      "prior_score": 5.4339,
+      "prior_variance": 0.251763,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Anguilla",
-      "path": "northamerica/anguilla",
-      "prior_score": 5.203,
-      "prior_variance": 0.315244,
-      "prior_n": 5
+      "title": "Salou",
+      "path": "europe/spain/catalonia/salou",
+      "prior_score": 2.7362,
+      "prior_variance": 0.22307,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Jeju Island",
-      "path": "asia/southkorea/chejuisland",
-      "prior_score": 7.5297,
-      "prior_variance": 0.331042,
-      "prior_n": 5
+      "title": "Contadora",
+      "path": "northamerica/panama/contadora",
+      "prior_score": 0.6936,
+      "prior_variance": 0.251805,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "\u00c7avu\u015fin",
-      "path": "asia/turkey/cappadocia/cavusin",
-      "prior_score": 5.6128,
-      "prior_variance": 0.27173,
-      "prior_n": 5
+      "title": "Anuradhapura",
+      "path": "asia/srilanka/anuradapura",
+      "prior_score": 4.976,
+      "prior_variance": 0.233403,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Ouro Preto",
-      "path": "southamerica/brazil/ouropreto",
-      "prior_score": 6.4108,
-      "prior_variance": 0.267844,
-      "prior_n": 5
+      "title": "Sleeping Bear Dunes National Lakeshore",
+      "path": "northamerica/unitedstates/michigan/sleepingbear",
+      "prior_score": 2.6688,
+      "prior_variance": 0.297632,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Moscow",
-      "path": "europe/russia/moscow",
-      "prior_score": 2.4517,
-      "prior_variance": 0.303205,
+      "title": "Dadonghai",
+      "path": "asia/china/hainanisland/dadonghai",
+      "prior_score": -0.5145,
+      "prior_variance": 0.27596,
       "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Santa Marta",
-      "path": "southamerica/colombia/santamarta",
-      "prior_score": 4.3129,
-      "prior_variance": 0.364444,
-      "prior_n": 5
+      "title": "Hollywood Beach",
+      "path": "northamerica/unitedstates/florida/hollywood_beach",
+      "prior_score": 1.9156,
+      "prior_variance": 0.218682,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Stykkisholmur",
-      "path": "europe/iceland/stykkisholmur",
-      "prior_score": 4.2621,
-      "prior_variance": 0.313151,
-      "prior_n": 5
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_score": -2.0238,
+      "prior_variance": 0.188731,
+      "prior_n": 7
     },
     {
       "rank": 10,
-      "title": "Bor\u00f0oy",
-      "path": "europe/faroeislands/bordoy",
-      "prior_score": 1.6747,
-      "prior_variance": 0.25709,
+      "title": "Chiclayo",
+      "path": "southamerica/peru/chiclayo",
+      "prior_score": 0.2514,
+      "prior_variance": 0.277451,
       "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Coronado",
-      "path": "northamerica/unitedstates/california/sandiego/coronado",
-      "prior_score": 5.1815,
-      "prior_variance": 0.342725,
-      "prior_n": 6
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_score": -1.2114,
+      "prior_variance": 0.202501,
+      "prior_n": 7
     },
     {
       "rank": 12,
-      "title": "Sligachan",
-      "path": "europe/unitedkingdom/scotland/skye/sligachan",
-      "prior_score": 2.5277,
-      "prior_variance": 0.333282,
-      "prior_n": 5
+      "title": "Vulture Area",
+      "path": "europe/italy/basilicata/vulture_area",
+      "prior_score": -1.6801,
+      "prior_variance": 0.21595,
+      "prior_n": 6
     },
     {
       "rank": 13,
-      "title": "Joshua Tree",
-      "path": "northamerica/unitedstates/california/deserts/joshuatree",
-      "prior_score": 4.7197,
-      "prior_variance": 0.355677,
-      "prior_n": 5
+      "title": "Burnaby",
+      "path": "northamerica/canada/britishcolumbia/burnaby",
+      "prior_score": -2.0517,
+      "prior_variance": 0.212176,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Bergeggi",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bergeggi",
-      "prior_score": 2.0908,
-      "prior_variance": 0.274366,
-      "prior_n": 5
+      "title": "Atar",
+      "path": "africa/mauritania/atar",
+      "prior_score": -5.1954,
+      "prior_variance": 0.263716,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Rila Monastery",
-      "path": "europe/bulgaria/rilamonastery",
-      "prior_score": 5.4068,
-      "prior_variance": 0.366377,
-      "prior_n": 5
+      "title": "In Salah",
+      "path": "africa/algeria/insalah",
+      "prior_score": -8.2269,
+      "prior_variance": 0.30609,
+      "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Sighet",
-      "path": "europe/romania/sighet",
-      "prior_score": -2.3061,
-      "prior_variance": 0.262351,
-      "prior_n": 5
+      "title": "Eugene",
+      "path": "northamerica/unitedstates/oregon/eugene",
+      "prior_score": -0.5847,
+      "prior_variance": 0.180662,
+      "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "Le Havre",
-      "path": "europe/france/nord/lehavre",
-      "prior_score": -0.4713,
-      "prior_variance": 0.257635,
-      "prior_n": 5
+      "title": "Alen\u00e7on",
+      "path": "europe/france/normandybrittany/alenon",
+      "prior_score": -0.088,
+      "prior_variance": 0.212261,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Clarkdale",
-      "path": "northamerica/unitedstates/arizona/clarkdale",
-      "prior_score": -1.7676,
-      "prior_variance": 0.234012,
-      "prior_n": 5
+      "title": "Eau Claire",
+      "path": "northamerica/unitedstates/wisconsin/eau_claire",
+      "prior_score": -3.9275,
+      "prior_variance": 0.23881,
+      "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Cavite",
-      "path": "asia/philippines/cavite",
-      "prior_score": -3.596,
-      "prior_variance": 0.300156,
-      "prior_n": 5
+      "title": "Hallowell",
+      "path": "northamerica/unitedstates/maine/hallowell",
+      "prior_score": -3.0702,
+      "prior_variance": 0.233575,
+      "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Prachinburi",
-      "path": "asia/thailand/prachinburi",
-      "prior_score": -1.1954,
-      "prior_variance": 0.243884,
-      "prior_n": 5
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+      "prior_score": -2.7456,
+      "prior_variance": 0.230246,
+      "prior_n": 7
     },
     {
       "rank": 21,
-      "title": "Mirano",
-      "path": "europe/italy/lombardia/mirano",
-      "prior_score": -1.6509,
-      "prior_variance": 0.249093,
-      "prior_n": 5
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/ohio/hudson",
+      "prior_score": -5.0631,
+      "prior_variance": 0.290448,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Wawa",
-      "path": "northamerica/canada/ontario/wawa",
-      "prior_score": -3.371,
-      "prior_variance": 0.28391,
-      "prior_n": 5
+      "title": "Prairie du Rocher",
+      "path": "northamerica/unitedstates/illinois/prairie_du_rocher",
+      "prior_score": -4.7497,
+      "prior_variance": 0.287368,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Barrackpore",
-      "path": "asia/india/westbengal/barrackpore",
-      "prior_score": -4.2977,
-      "prior_variance": 0.266514,
-      "prior_n": 5
+      "title": "Sz\u00e9phalom",
+      "path": "europe/hungary/szephalom",
+      "prior_score": -4.5139,
+      "prior_variance": 0.270662,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "KURADHI",
-      "path": "asia/pakistan/soon_valley/kuradhi",
-      "prior_score": -7.6112,
-      "prior_variance": 0.386756,
-      "prior_n": 5
+      "title": "Hamm",
+      "path": "europe/germany/northrhinewestphalia/hamm",
+      "prior_score": -5.669,
+      "prior_variance": 0.350025,
+      "prior_n": 6
     }
   ]
 }

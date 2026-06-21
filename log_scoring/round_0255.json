@@ -1,199 +1,199 @@
 {
   "round": 255,
-  "timestamp": "2026-04-12T09:08:49",
+  "timestamp": "2026-06-13T19:26:38",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Granada",
-      "path": "europe/spain/andalucia/granada",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Agios Nikolaos",
+      "path": "europe/greece/crete/agios_nikolaos",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Sentosa",
-      "path": "asia/singapore/islands/sentosa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Ioannina",
+      "path": "europe/greece/ioannina",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Ephesus",
-      "path": "asia/turkey/ephesus",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Stellenbosch",
+      "path": "africa/southafrica/stellenbosch",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Pelje\u0161ac",
-      "path": "europe/croatia/peljesac",
-      "prior_mu": 23.1041,
-      "prior_sigma": 5.6993,
-      "prior_n": 1
+      "title": "Camargue",
+      "path": "europe/france/midi/camargue",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Perast",
-      "path": "europe/serbiaandmontenegro/perast",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Candolim",
+      "path": "asia/india/goa/candolim",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Pontassieve",
-      "path": "europe/italy/tuscany/florenceprovince/sievevalley/pontassieve",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Mindelo",
+      "path": "africa/capeverde/mindelo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Prizren",
-      "path": "europe/serbiaandmontenegro/kosovoprovince/prizren",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Beiteddine",
+      "path": "asia/lebanon/beiteddine",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Feuchtwangen",
-      "path": "europe/germany/bavaria/romanticroad/feuchtwangen",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Bardejov",
+      "path": "europe/slovakia/bardejov",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Amarante",
-      "path": "europe/portugal/amarante",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Durness, Sutherland",
+      "path": "europe/unitedkingdom/scotland/durness_sutherland",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Zamora",
-      "path": "europe/spain/centralspain/zamora",
-      "prior_mu": 22.7239,
-      "prior_sigma": 5.95,
-      "prior_n": 1
+      "title": "Newcastle upon Tyne",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/newcastle_upon_tyne",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Hattonch\u00e2tel",
-      "path": "europe/france/east/lorraine/hattonchatel",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Missoula",
+      "path": "northamerica/unitedstates/montana/missoula",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Pszczyna",
-      "path": "europe/poland/pszczyna",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Fort Lauderdale",
+      "path": "northamerica/unitedstates/florida/fortlauderdale",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Arta",
-      "path": "europe/greece/arta",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Glenwood Springs",
+      "path": "northamerica/unitedstates/colorado/glenwood_springs",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Nora",
-      "path": "europe/sweden/nora",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Karula National Park",
+      "path": "europe/estonia/karula_national_park",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "New Brunswick",
-      "path": "northamerica/canada/newbrunswick",
-      "prior_mu": 21.9591,
-      "prior_sigma": 5.8242,
-      "prior_n": 1
+      "title": "Bolsward",
+      "path": "europe/netherlands/friesland/bolsward",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Mosonmagyar\u00f3v\u00e1r",
-      "path": "europe/hungary/mosonmagyarovar",
-      "prior_mu": 22.2749,
-      "prior_sigma": 5.7837,
-      "prior_n": 1
+      "title": "Titusville",
+      "path": "northamerica/unitedstates/florida/titusville",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Cob\u00e1n",
-      "path": "northamerica/guatemala/coban",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Ocean Shores",
+      "path": "northamerica/unitedstates/washington/ocean_shores",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Belem",
-      "path": "southamerica/brazil/belem",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Moclips",
+      "path": "northamerica/unitedstates/washington/moclips",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Antofagasta",
-      "path": "southamerica/chile/antofagasta",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Billings",
+      "path": "northamerica/unitedstates/montana/billings",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Dallas",
-      "path": "northamerica/unitedstates/texas/dallas",
-      "prior_mu": 22.7208,
-      "prior_sigma": 5.9497,
-      "prior_n": 1
+      "title": "Geel",
+      "path": "europe/belgium/geel",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Ararat Marz",
-      "path": "europe/armenia/ararat_marz",
-      "prior_mu": 22.9002,
-      "prior_sigma": 5.7255,
-      "prior_n": 1
+      "title": "Puerto Cort\u00e9s",
+      "path": "northamerica/honduras/puertocortes",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Zaria",
-      "path": "africa/nigeria/zaria",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Tyumen",
+      "path": "europe/russia/tyumen",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Sekondi",
-      "path": "africa/ghana/sekondi",
-      "prior_mu": 22.2749,
-      "prior_sigma": 5.7837,
-      "prior_n": 1
+      "title": "Kabankalan City",
+      "path": "asia/philippines/negrosisland/kabankalan_city",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Hargeisa",
-      "path": "africa/somaliland/hargeisa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Aska",
+      "path": "asia/india/orissa/aska",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     }
   ]

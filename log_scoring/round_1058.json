@@ -1,200 +1,200 @@
 {
   "round": 1058,
-  "timestamp": "2026-04-12T22:07:00",
+  "timestamp": "2026-06-13T20:08:53",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Persepolis",
-      "path": "asia/iran/persepolis",
-      "prior_rank": 673,
-      "prior_wins": 40,
-      "prior_n": 2
+      "title": "Cannes",
+      "path": "europe/france/cannes",
+      "prior_score": 8.2183,
+      "prior_variance": 0.411054,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Waitomo",
-      "path": "australiaandpacific/newzealand/waikato/waitomo",
-      "prior_rank": 1284,
-      "prior_wins": 36,
-      "prior_n": 2
+      "title": "Montepulciano",
+      "path": "europe/italy/tuscany/montepulciano",
+      "prior_score": 11.5949,
+      "prior_variance": 0.715381,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Zamami Island",
-      "path": "asia/japan/ryukyuislands/zamamiisland",
-      "prior_rank": 1880,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_qurico_d_orci",
+      "prior_score": 6.8954,
+      "prior_variance": 0.626351,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Espiritu Santo",
-      "path": "australiaandpacific/vanuatu/espiritusanto",
-      "prior_rank": 812,
-      "prior_wins": 39,
-      "prior_n": 2
+      "title": "Greve in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/greveinchianti",
+      "prior_score": 5.7401,
+      "prior_variance": 0.477189,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Alishan",
-      "path": "asia/taiwan/alishan",
-      "prior_rank": 435,
-      "prior_wins": 62,
+      "title": "Baden-Baden",
+      "path": "europe/germany/badenwrttemberg/badenbaden",
+      "prior_score": 6.5162,
+      "prior_variance": 0.471285,
       "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Kardamili",
-      "path": "europe/greece/mani/kardamili",
-      "prior_rank": 2076,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Black Forest",
+      "path": "europe/germany/badenwrttemberg/blackforest",
+      "prior_score": 6.734,
+      "prior_variance": 0.500313,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Doolin",
-      "path": "europe/ireland/doolin",
-      "prior_rank": 1288,
-      "prior_wins": 36,
-      "prior_n": 2
+      "title": "Namtso Lake",
+      "path": "asia/china/tibet/namtso_lake",
+      "prior_score": 8.0892,
+      "prior_variance": 0.396945,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Karlovy Vary",
-      "path": "europe/czechrepublic/karlovyvary",
-      "prior_rank": 1197,
-      "prior_wins": 28,
-      "prior_n": 2
+      "title": "Qingcheng Mountain",
+      "path": "asia/china/sichuanprovince/qingchengshan",
+      "prior_score": 6.3982,
+      "prior_variance": 0.446201,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "C\u00e1ceres",
-      "path": "europe/spain/centralspain/caceres",
-      "prior_rank": 847,
-      "prior_wins": 38,
-      "prior_n": 2
+      "title": "White Sands",
+      "path": "northamerica/unitedstates/newmexico/whitesands",
+      "prior_score": 6.1697,
+      "prior_variance": 0.484338,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Altaussee",
-      "path": "europe/austria/altaussee",
-      "prior_rank": 2756,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "Everglades",
+      "path": "northamerica/unitedstates/florida/everglades",
+      "prior_score": 6.1989,
+      "prior_variance": 0.577157,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Ars-en-R\u00e9",
-      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
-      "prior_rank": 2940,
-      "prior_wins": 14,
-      "prior_n": 1
+      "title": "Buckskin Gulch",
+      "path": "northamerica/unitedstates/utah/buckskin_gulch",
+      "prior_score": 6.4441,
+      "prior_variance": 0.532369,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Saint-Pierre",
-      "path": "northamerica/martinique/saintpierre",
-      "prior_rank": 1276,
-      "prior_wins": 22,
-      "prior_n": 2
+      "title": "Vava'u Island",
+      "path": "australiaandpacific/tonga/vavauisland",
+      "prior_score": 6.2386,
+      "prior_variance": 0.561703,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Khasab",
-      "path": "asia/oman/musandampeninsula/khasab",
-      "prior_rank": 1285,
-      "prior_wins": 36,
-      "prior_n": 2
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_score": 4.8958,
+      "prior_variance": 0.580029,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Pinnawela",
-      "path": "asia/srilanka/pinnawela",
-      "prior_rank": 1605,
-      "prior_wins": 52,
+      "title": "Husavik",
+      "path": "europe/iceland/husavik",
+      "prior_score": 5.5775,
+      "prior_variance": 0.587715,
       "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Shimonoseki",
-      "path": "asia/japan/honshu/shimonoseki",
-      "prior_rank": 1715,
-      "prior_wins": 34,
-      "prior_n": 2
+      "title": "Lillehammer",
+      "path": "europe/norway/lillehammer",
+      "prior_score": 6.0882,
+      "prior_variance": 0.413608,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Gythio",
-      "path": "europe/greece/mani/gythio",
-      "prior_rank": 1505,
-      "prior_wins": 35,
-      "prior_n": 2
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_score": 4.6814,
+      "prior_variance": 0.6295,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Haapsalu",
-      "path": "europe/estonia/haapsalu",
-      "prior_rank": 1038,
-      "prior_wins": 57,
+      "title": "Ars-en-R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
+      "prior_score": 5.6449,
+      "prior_variance": 0.481342,
       "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Songan",
-      "path": "asia/indonesia/bali/songan",
-      "prior_rank": 2120,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Opatija",
+      "path": "europe/croatia/opatija",
+      "prior_score": 4.6391,
+      "prior_variance": 0.672409,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Alcal\u00e1 de Henares",
-      "path": "europe/spain/centralspain/alcaladehenares",
-      "prior_rank": 2989,
-      "prior_wins": 14,
-      "prior_n": 1
+      "title": "Burgos",
+      "path": "europe/spain/northernspain/burgos",
+      "prior_score": 6.1095,
+      "prior_variance": 0.54914,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Frascati",
-      "path": "europe/italy/lazio/frascati",
-      "prior_rank": 1545,
-      "prior_wins": 35,
-      "prior_n": 2
+      "title": "Belgrade",
+      "path": "europe/serbia/belgrade",
+      "prior_score": 6.2331,
+      "prior_variance": 0.505777,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Pavia",
-      "path": "europe/italy/lombardia/pavia",
-      "prior_rank": 3632,
-      "prior_wins": 25,
-      "prior_n": 2
+      "title": "Cambridge",
+      "path": "northamerica/unitedstates/massachusetts/cambridge",
+      "prior_score": 5.4112,
+      "prior_variance": 0.522642,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Chianciano Terme",
-      "path": "europe/italy/tuscany/chianciano_terme",
-      "prior_rank": 2302,
-      "prior_wins": 31,
-      "prior_n": 2
+      "title": "Wind River Canyon",
+      "path": "northamerica/unitedstates/wyoming/windrivercanyon",
+      "prior_score": 0.4887,
+      "prior_variance": 0.503367,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Doha",
-      "path": "asia/qatar/doha",
-      "prior_rank": 5031,
-      "prior_wins": 18,
-      "prior_n": 2
+      "title": "Portimao",
+      "path": "europe/portugal/portimao",
+      "prior_score": 4.3772,
+      "prior_variance": 0.445355,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "San Antonio",
-      "path": "northamerica/unitedstates/texas/sanantonio",
-      "prior_rank": 1183,
-      "prior_wins": 37,
-      "prior_n": 2
+      "title": "Praia Verde",
+      "path": "europe/portugal/algarve/praia_verde",
+      "prior_score": 0.8061,
+      "prior_variance": 0.467722,
+      "prior_n": 3
     }
   ]
 }

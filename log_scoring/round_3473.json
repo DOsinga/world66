@@ -1,0 +1,200 @@
+{
+  "round": 3473,
+  "timestamp": "2026-06-13T22:56:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "North-East Tasmania",
+      "path": "australiaandpacific/australia/tasmania/northeast",
+      "prior_score": 1.4266,
+      "prior_variance": 0.121089,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Ullapool",
+      "path": "europe/unitedkingdom/scotland/ullapool",
+      "prior_score": 2.6953,
+      "prior_variance": 0.123115,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Majella",
+      "path": "europe/italy/abruzzo/majella",
+      "prior_score": 2.4971,
+      "prior_variance": 0.110118,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Volos",
+      "path": "europe/greece/volos",
+      "prior_score": 2.254,
+      "prior_variance": 0.117558,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/torquay",
+      "prior_score": 1.3666,
+      "prior_variance": 0.110917,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Chiavenna",
+      "path": "europe/italy/lombardia/chiavenna",
+      "prior_score": 1.8356,
+      "prior_variance": 0.125669,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Millau",
+      "path": "europe/france/centre/auvergne/millau",
+      "prior_score": 1.6384,
+      "prior_variance": 0.107631,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Ourense",
+      "path": "europe/spain/galicia/ourense",
+      "prior_score": 0.1944,
+      "prior_variance": 0.115337,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Naivasha",
+      "path": "africa/kenya/theriftvalley/naivasha",
+      "prior_score": 2.5775,
+      "prior_variance": 0.125083,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Kodaikanal",
+      "path": "asia/india/tamilnadu/kodaikanal",
+      "prior_score": 1.7292,
+      "prior_variance": 0.130738,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Saint-Louis",
+      "path": "africa/senegal/saintlouis",
+      "prior_score": 1.4416,
+      "prior_variance": 0.12835,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Dalhousie",
+      "path": "asia/india/himachalpradesh/dalhousie",
+      "prior_score": 1.2567,
+      "prior_variance": 0.115183,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Xanthos",
+      "path": "asia/turkey/xanthos",
+      "prior_score": 1.8736,
+      "prior_variance": 0.112568,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Fraser's Hill",
+      "path": "asia/malaysia/frasers_hill",
+      "prior_score": 0.9533,
+      "prior_variance": 0.099852,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Kristiansand",
+      "path": "europe/norway/kristiansand",
+      "prior_score": 1.8536,
+      "prior_variance": 0.111251,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Val-David",
+      "path": "northamerica/canada/quebec/valdavid",
+      "prior_score": -0.3742,
+      "prior_variance": 0.121413,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Link\u00f6ping",
+      "path": "europe/sweden/linkping",
+      "prior_score": -0.5667,
+      "prior_variance": 0.114261,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Oulu",
+      "path": "europe/finland/oulu",
+      "prior_score": -0.049,
+      "prior_variance": 0.109576,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Dordrecht",
+      "path": "europe/netherlands/dordrecht",
+      "prior_score": 1.0445,
+      "prior_variance": 0.116245,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Lake Tanganyika",
+      "path": "africa/tanzania/laketanganyika",
+      "prior_score": 1.4524,
+      "prior_variance": 0.127544,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Chumphon",
+      "path": "asia/thailand/chumphon",
+      "prior_score": 0.0424,
+      "prior_variance": 0.124962,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Cha-am",
+      "path": "asia/thailand/chaam",
+      "prior_score": 0.6598,
+      "prior_variance": 0.122927,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Wildwood",
+      "path": "northamerica/unitedstates/newjersey/wildwood",
+      "prior_score": -0.9439,
+      "prior_variance": 0.123561,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Isla Verde",
+      "path": "northamerica/thecaribbean/puertorico/islaverde",
+      "prior_score": 1.0622,
+      "prior_variance": 0.107734,
+      "prior_n": 12
+    }
+  ]
+}

@@ -1,200 +1,200 @@
 {
   "round": 1378,
-  "timestamp": "2026-04-12T22:24:29",
+  "timestamp": "2026-06-13T20:27:07",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Fiordland",
-      "path": "australiaandpacific/newzealand/south_island/southland/fiordland",
-      "prior_rank": 64,
-      "prior_wins": 65,
-      "prior_n": 3
+      "title": "Canyonlands",
+      "path": "northamerica/unitedstates/utah/canyonlands",
+      "prior_score": 10.2797,
+      "prior_variance": 0.493893,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Fiordland",
-      "path": "australiaandpacific/newzealand/otago/fiordland",
-      "prior_rank": 73,
-      "prior_wins": 108,
-      "prior_n": 5
+      "title": "Avatoru",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa/avatoru",
+      "prior_score": 5.2353,
+      "prior_variance": 0.331009,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Queenstown",
-      "path": "australiaandpacific/newzealand/otago/queenstown",
-      "prior_rank": 319,
-      "prior_wins": 80,
+      "title": "Calvi",
+      "path": "europe/france/corsica/calvi",
+      "prior_score": 7.3789,
+      "prior_variance": 0.320621,
       "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Aitutaki",
-      "path": "australiaandpacific/cookislands/aitutaki",
-      "prior_rank": 177,
-      "prior_wins": 50,
-      "prior_n": 3
+      "title": "Newport",
+      "path": "northamerica/unitedstates/rhodeisland/newport",
+      "prior_score": 4.7298,
+      "prior_variance": 0.378532,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Nepal",
-      "path": "asia/nepal",
-      "prior_rank": 42,
-      "prior_wins": 88,
+      "title": "Sidi bou said",
+      "path": "africa/tunisia/sidibousaid",
+      "prior_score": 5.3183,
+      "prior_variance": 0.402942,
       "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Everest Region",
-      "path": "asia/nepal/everest_region",
-      "prior_rank": 20,
-      "prior_wins": 88,
+      "title": "Monopoli",
+      "path": "europe/italy/puglia/monopoli",
+      "prior_score": 4.4938,
+      "prior_variance": 0.353411,
       "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Angel Falls",
-      "path": "southamerica/venezuela/angelfalls",
-      "prior_rank": 69,
-      "prior_wins": 65,
-      "prior_n": 3
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/rivieramaya/puerto_aventuras",
+      "prior_score": 3.7888,
+      "prior_variance": 0.471415,
+      "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "Uluru-Kata Tjuta National Park",
-      "path": "australiaandpacific/australia/northernterritory/ulurukata_tjuta_n",
-      "prior_rank": 77,
-      "prior_wins": 150,
-      "prior_n": 7
+      "title": "Sig\u00fcenza",
+      "path": "europe/spain/la_mancha/siguenza",
+      "prior_score": 0.0168,
+      "prior_variance": 0.330503,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Costa Smeralda",
-      "path": "europe/italy/sardinia/costasmeralda",
-      "prior_rank": 482,
-      "prior_wins": 58,
-      "prior_n": 3
+      "title": "Mont Aigoual",
+      "path": "europe/france/midi/cevennes/mont_aigoual",
+      "prior_score": -0.198,
+      "prior_variance": 0.313408,
+      "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "Naxos",
-      "path": "europe/greece/naxos",
-      "prior_rank": 136,
-      "prior_wins": 84,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/northcarolina/durham",
+      "prior_score": -2.9411,
+      "prior_variance": 0.323354,
       "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Puglia",
-      "path": "europe/italy/puglia",
-      "prior_rank": 149,
-      "prior_wins": 63,
-      "prior_n": 3
+      "title": "Naantali",
+      "path": "europe/finland/naantali",
+      "prior_score": -0.1435,
+      "prior_variance": 0.233779,
+      "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Peschiera del Garda",
-      "path": "europe/italy/lombardia/lagodigarda/peschiera",
-      "prior_rank": 2084,
-      "prior_wins": 46,
-      "prior_n": 3
+      "title": "Olsztyn",
+      "path": "europe/poland/olsztyn",
+      "prior_score": 1.5319,
+      "prior_variance": 0.360679,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "St. Moritz",
-      "path": "europe/switzerland/stmoritz",
-      "prior_rank": 1229,
-      "prior_wins": 51,
-      "prior_n": 3
+      "title": "Constanta",
+      "path": "europe/romania/constanta",
+      "prior_score": -0.2712,
+      "prior_variance": 0.331722,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Ring of Kerry",
-      "path": "europe/ireland/ringofkerry",
-      "prior_rank": 1072,
-      "prior_wins": 70,
+      "title": "Cochabamba",
+      "path": "southamerica/bolivia/cochabamba",
+      "prior_score": -0.379,
+      "prior_variance": 0.36307,
       "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Algarve",
-      "path": "europe/portugal/algarve",
-      "prior_rank": 264,
-      "prior_wins": 61,
-      "prior_n": 3
+      "title": "Sefrou",
+      "path": "africa/morocco/sefrou",
+      "prior_score": -1.1011,
+      "prior_variance": 0.322263,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Coimbra",
-      "path": "europe/portugal/coimbra",
-      "prior_rank": 339,
-      "prior_wins": 60,
-      "prior_n": 3
+      "title": "Fishguard",
+      "path": "europe/unitedkingdom/wales/fishguard",
+      "prior_score": -1.0605,
+      "prior_variance": 0.411655,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Cornwall",
-      "path": "europe/unitedkingdom/england/cornwall",
-      "prior_rank": 45,
-      "prior_wins": 87,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/north_island/northland/kaitaia",
+      "prior_score": -0.4518,
+      "prior_variance": 0.391267,
       "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Epidaurus",
-      "path": "europe/greece/epidaurus",
-      "prior_rank": 1479,
-      "prior_wins": 66,
+      "title": "'Eua",
+      "path": "australiaandpacific/tonga/eua",
+      "prior_score": -0.7611,
+      "prior_variance": 0.354245,
       "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Penang",
-      "path": "asia/malaysia/penang",
-      "prior_rank": 197,
-      "prior_wins": 83,
+      "title": "Korce",
+      "path": "europe/albania/korce",
+      "prior_score": -1.2091,
+      "prior_variance": 0.371685,
       "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Ibiza",
-      "path": "europe/spain/balearicislands/ibiza",
-      "prior_rank": 370,
-      "prior_wins": 79,
-      "prior_n": 4
+      "title": "Dogubeyazit",
+      "path": "asia/turkey/dogubeyazit",
+      "prior_score": -0.9653,
+      "prior_variance": 0.263566,
+      "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "Central Coast",
-      "path": "northamerica/unitedstates/california/centralcoast",
-      "prior_rank": 193,
-      "prior_wins": 83,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias_selatan/gunungsitoli",
+      "prior_score": -5.1881,
+      "prior_variance": 0.336188,
       "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Beijing",
-      "path": "asia/china/beijing",
-      "prior_rank": 90,
-      "prior_wins": 85,
+      "title": "Keylong",
+      "path": "asia/india/himachalpradesh/keylong",
+      "prior_score": -1.5551,
+      "prior_variance": 0.353854,
       "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Puerto Rico",
-      "path": "northamerica/puertorico",
-      "prior_rank": 412,
-      "prior_wins": 59,
-      "prior_n": 3
+      "title": "National City",
+      "path": "northamerica/unitedstates/california/national_city",
+      "prior_score": -5.6402,
+      "prior_variance": 0.430194,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Cancun",
-      "path": "northamerica/mexico/cancun",
-      "prior_rank": 26,
-      "prior_wins": 109,
-      "prior_n": 6
+      "title": "Skenderaj",
+      "path": "europe/serbia/kosovoprovince/skenderaj",
+      "prior_score": -8.4903,
+      "prior_variance": 0.573391,
+      "prior_n": 4
     }
   ]
 }

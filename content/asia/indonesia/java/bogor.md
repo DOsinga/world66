@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bogor_Botanical_Gardens_Ja
 latitude: -6.5964
 loc_type: city
 longitude: 106.7973
-score: 0.47
+score: 0.41
 title: Bogor
 type: location
 ---

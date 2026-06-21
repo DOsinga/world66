@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-28'
 loc_type: city
-score: 0.68
+score: 0.53
 title: St. Croix
 type: location
 image: stcroix.jpg

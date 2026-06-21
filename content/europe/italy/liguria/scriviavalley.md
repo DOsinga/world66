@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ferrovia_Genova-Casella.jp
 latitude: 44.55
 loc_type: city
 longitude: 8.97
-score: 0.44
+score: 0.39
 sources:
 - https://en.wikipedia.org/wiki/Scrivia
 - https://en.wikipedia.org/wiki/Casella,_Liguria

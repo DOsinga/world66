@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wairarapa.jpg
 latitude: -41.23618
 loc_type: city
 longitude: 175.21969
-score: 0.54
+score: 0.45
 title: Wairarapa
 type: location
 ---

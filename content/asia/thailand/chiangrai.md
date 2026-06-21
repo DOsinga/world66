@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20171107_White_Temple_Chia
 latitude: 19.758952
 loc_type: city
 longitude: 99.673459
-score: 0.69
+score: 0.6
 title: Chiang Rai
 type: location
 ---

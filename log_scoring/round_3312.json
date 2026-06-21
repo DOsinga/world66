@@ -1,0 +1,200 @@
+{
+  "round": 3312,
+  "timestamp": "2026-06-13T22:44:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cancun",
+      "path": "northamerica/mexico/cancun",
+      "prior_score": 6.2419,
+      "prior_variance": 0.166295,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Montecatini Terme",
+      "path": "europe/italy/tuscany/montecatiniterme",
+      "prior_score": 3.0581,
+      "prior_variance": 0.11766,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Mdina",
+      "path": "europe/malta/mdina",
+      "prior_score": 6.633,
+      "prior_variance": 0.147219,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Playa San Juan",
+      "path": "europe/spain/spanishcostas/playasanjuan",
+      "prior_score": -0.3186,
+      "prior_variance": 0.16196,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Chuuk",
+      "path": "australiaandpacific/micronesiafederatedstatesof/chuuk",
+      "prior_score": 1.297,
+      "prior_variance": 0.148571,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Murchison Falls",
+      "path": "africa/uganda/rakai_district/murchison_falls",
+      "prior_score": -0.0193,
+      "prior_variance": 0.171975,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Sravanabelagola",
+      "path": "asia/india/karnataka/sravanabelagola",
+      "prior_score": 0.3445,
+      "prior_variance": 0.115578,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Travnik",
+      "path": "europe/bosniaandherzegovina/travnik",
+      "prior_score": 0.075,
+      "prior_variance": 0.119796,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Larache",
+      "path": "africa/morocco/larache",
+      "prior_score": -0.847,
+      "prior_variance": 0.123679,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Alen\u00e7on",
+      "path": "europe/france/normandybrittany/alenon",
+      "prior_score": -0.7889,
+      "prior_variance": 0.136779,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Hilversum",
+      "path": "europe/netherlands/hilversum",
+      "prior_score": -2.2719,
+      "prior_variance": 0.122336,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Derby",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/derby",
+      "prior_score": -1.3127,
+      "prior_variance": 0.133982,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Columbus",
+      "path": "northamerica/unitedstates/ohio/columbus",
+      "prior_score": -2.9893,
+      "prior_variance": 0.132321,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Ancenis",
+      "path": "europe/france/centre/loirevalley/ancenis",
+      "prior_score": -1.111,
+      "prior_variance": 0.121923,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Murialdo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/murialdo",
+      "prior_score": -2.8398,
+      "prior_variance": 0.16666,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Mattighofen",
+      "path": "europe/austria/mattighofen",
+      "prior_score": -3.7144,
+      "prior_variance": 0.16042,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Wervik",
+      "path": "europe/belgium/wervik",
+      "prior_score": -3.5221,
+      "prior_variance": 0.139023,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Copiap\u00f3",
+      "path": "southamerica/chile/copiapo",
+      "prior_score": -3.3351,
+      "prior_variance": 0.151039,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Pagadian City",
+      "path": "asia/philippines/pagadiancity",
+      "prior_score": -3.6226,
+      "prior_variance": 0.129273,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Dhaka",
+      "path": "asia/bangladesh/dhaka",
+      "prior_score": -4.4721,
+      "prior_variance": 0.157773,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Brazzaville",
+      "path": "africa/congobrazzaville/brazzaville",
+      "prior_score": -4.4397,
+      "prior_variance": 0.145399,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Bo",
+      "path": "africa/sierraleone/bo",
+      "prior_score": -6.9161,
+      "prior_variance": 0.160933,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "San-P\u00e9dro",
+      "path": "africa/ivorycoast/sanpedro",
+      "prior_score": -4.4084,
+      "prior_variance": 0.159891,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "East Grand Forks",
+      "path": "northamerica/unitedstates/minnesota/east_grand_forks",
+      "prior_score": -6.1988,
+      "prior_variance": 0.17468,
+      "prior_n": 10
+    }
+  ]
+}

@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/36514345@N00/2716621152
 latitude: 63.0958
 loc_type: city
 longitude: 21.6158
-score: 0.44
+score: 0.39
 title: Vaasa
 type: location
 ---

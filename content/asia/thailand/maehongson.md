@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mae_Hong_Son_(2007-02-473)
 latitude: 19.392746
 loc_type: city
 longitude: 98.203111
-score: 0.59
+score: 0.53
 title: Mae Hong Son
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 58.010853
 loc_type: city
 longitude: 56.231853
-score: 0.34
+score: 0.3
 title: Perm
 type: location
 ---

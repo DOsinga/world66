@@ -4,7 +4,7 @@ done:
   location_enrich: '2026-05-22'
 latitude: -23.992777
 longitude: -46.255833
-score: 0.48
+score: 0.38
 title: Guarujá
 type: location
 loc_type: city

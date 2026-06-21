@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_picture_of_the_Universit
 latitude: 42.2814
 loc_type: city
 longitude: -83.7485
-score: 0.51
+score: 0.41
 title: Ann Arbor
 type: location
 ---

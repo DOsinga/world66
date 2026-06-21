@@ -5,7 +5,7 @@ done:
 latitude: 19.619217
 loc_type: city
 longitude: 37.211709
-score: 0.23
+score: 0.17
 title: Port Sudan
 type: location
 ---

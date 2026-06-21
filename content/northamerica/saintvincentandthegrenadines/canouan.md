@@ -5,7 +5,7 @@ done:
 latitude: 12.71
 loc_type: city
 longitude: -61.33
-score: 0.62
+score: 0.53
 title: Canouan
 type: location
 ---

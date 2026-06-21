@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baldy_Hill_from_Snowslide_
 latitude: -43.494176
 loc_type: city
 longitude: 171.809845
-score: 0.61
+score: 0.48
 title: Canterbury
 type: location
 ---

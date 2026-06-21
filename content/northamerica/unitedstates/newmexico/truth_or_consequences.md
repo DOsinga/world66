@@ -5,7 +5,7 @@ done:
 latitude: 33.1283
 loc_type: city
 longitude: -107.2529
-score: 0.38
+score: 0.33
 sources:
 - https://en.wikipedia.org/wiki/Truth_or_Consequences,_New_Mexico
 - https://sierracountynewmexico.info/things-to-do/truth-or-consequences-hot-springs/

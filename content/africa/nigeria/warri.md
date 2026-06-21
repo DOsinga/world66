@@ -7,7 +7,7 @@ done:
 latitude: 5.5186
 loc_type: city
 longitude: 5.748
-score: 0.26
+score: 0.19
 title: Warri
 type: location
 ---

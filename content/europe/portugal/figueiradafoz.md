@@ -5,7 +5,7 @@ done:
 latitude: 40.148581
 loc_type: city
 longitude: -8.855655
-score: 0.53
+score: 0.44
 title: Figueira da Foz
 type: location
 ---

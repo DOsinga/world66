@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coffee_seeds_green_Shimoga
 latitude: 14.0557
 loc_type: city
 longitude: 75.2381
-score: 0.4
+score: 0.34
 title: Shimoga
 type: location
 ---

@@ -1,200 +1,200 @@
 {
   "round": 885,
-  "timestamp": "2026-04-12T14:47:18",
+  "timestamp": "2026-06-13T19:58:57",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Aruba",
-      "path": "northamerica/aruba",
-      "prior_score": 9.6934,
-      "prior_variance": 2.153669,
-      "prior_n": 1
+      "title": "Kyoto",
+      "path": "asia/japan/honshu/kyoto",
+      "prior_score": 22.349,
+      "prior_variance": 4.063909,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Amalfi",
-      "path": "europe/italy/campania/amalfi",
-      "prior_score": 13.7728,
-      "prior_variance": 2.961847,
-      "prior_n": 1
+      "title": "Tokyo",
+      "path": "asia/japan/tokyo",
+      "prior_score": 20.0735,
+      "prior_variance": 5.582232,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "St Maarten",
-      "path": "northamerica/netherlandsantilles/stmaarten",
-      "prior_score": 6.615,
-      "prior_variance": 1.058453,
-      "prior_n": 2
+      "title": "Florence",
+      "path": "europe/italy/tuscany/florence",
+      "prior_score": 22.1541,
+      "prior_variance": 1.370721,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Disko Bay",
-      "path": "northamerica/greenland/diskobay",
-      "prior_score": 4.5121,
-      "prior_variance": 1.102828,
-      "prior_n": 2
+      "title": "Barcelona",
+      "path": "europe/spain/catalonia/barcelona",
+      "prior_score": 21.9377,
+      "prior_variance": 5.453981,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Hangzhou",
-      "path": "asia/china/hangzhou",
-      "prior_score": 8.4961,
-      "prior_variance": 1.517201,
-      "prior_n": 1
+      "title": "Istanbul",
+      "path": "asia/turkey/istanbul",
+      "prior_score": 18.0665,
+      "prior_variance": 5.768329,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "San Vito di Cadore",
-      "path": "europe/italy/veneto/san_vito_di_cadore",
-      "prior_score": 3.0259,
-      "prior_variance": 1.297834,
-      "prior_n": 1
+      "title": "Bangkok",
+      "path": "asia/thailand/bangkok",
+      "prior_score": 20.7343,
+      "prior_variance": 2.577767,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Roussillon",
-      "path": "europe/france/midi/provence/roussillon",
-      "prior_score": 4.7963,
-      "prior_variance": 1.292021,
-      "prior_n": 1
+      "title": "Sydney",
+      "path": "australiaandpacific/australia/newsouthwales/sydney",
+      "prior_score": 16.4546,
+      "prior_variance": 1.969041,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Hautvillers",
-      "path": "europe/france/east/champagne/hautvillers",
-      "prior_score": 4.04,
-      "prior_variance": 1.292582,
-      "prior_n": 1
+      "title": "Edinburgh",
+      "path": "europe/unitedkingdom/scotland/edinburgh",
+      "prior_score": 19.9374,
+      "prior_variance": 2.819441,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Piazza Armerina",
-      "path": "europe/italy/sicily/piazza_armerina",
-      "prior_score": 8.2703,
-      "prior_variance": 1.868824,
-      "prior_n": 1
+      "title": "London",
+      "path": "europe/unitedkingdom/england/london",
+      "prior_score": 21.668,
+      "prior_variance": 5.466757,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Park City",
-      "path": "northamerica/unitedstates/utah/parkcity",
-      "prior_score": 5.3973,
-      "prior_variance": 1.596207,
-      "prior_n": 1
+      "title": "New York",
+      "path": "northamerica/unitedstates/newyorkstate/newyork",
+      "prior_score": 21.6189,
+      "prior_variance": 5.470003,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Brooklyn",
-      "path": "northamerica/unitedstates/newyorkstate/newyork/brooklyn",
-      "prior_score": 6.0552,
-      "prior_variance": 1.967917,
-      "prior_n": 1
+      "title": "Lisbon",
+      "path": "europe/portugal/lisbon",
+      "prior_score": 20.2765,
+      "prior_variance": 2.877997,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Marburg",
-      "path": "europe/germany/hesse/marburg",
-      "prior_score": 2.0689,
-      "prior_variance": 0.684449,
+      "title": "Iguazu Falls",
+      "path": "southamerica/argentina/iguazufalls",
+      "prior_score": 22.2793,
+      "prior_variance": 5.46781,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Guangzhou",
-      "path": "asia/china/guangzhou",
-      "prior_score": -0.6898,
-      "prior_variance": 0.540341,
-      "prior_n": 3
-    },
-    {
-      "rank": 14,
-      "title": "Erfoud",
-      "path": "africa/morocco/erfoud",
-      "prior_score": 2.8226,
-      "prior_variance": 0.710253,
+      "title": "The Gal\u00e1pagos Islands",
+      "path": "southamerica/ecuador/galapagosislands/theislands",
+      "prior_score": 21.8012,
+      "prior_variance": 5.548741,
       "prior_n": 2
     },
     {
+      "rank": 14,
+      "title": "Grand Canyon",
+      "path": "northamerica/unitedstates/arizona/grandcanyon",
+      "prior_score": 20.9264,
+      "prior_variance": 2.888902,
+      "prior_n": 3
+    },
+    {
       "rank": 15,
-      "title": "Bejaia",
-      "path": "africa/algeria/bejaia",
-      "prior_score": -2.4428,
-      "prior_variance": 1.778116,
-      "prior_n": 1
+      "title": "Cape Town",
+      "path": "africa/southafrica/capetown",
+      "prior_score": 22.1948,
+      "prior_variance": 2.132114,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Trashigang",
-      "path": "asia/bhutan/tashigang",
-      "prior_score": 4.6666,
-      "prior_variance": 1.93629,
-      "prior_n": 1
+      "title": "Yosemite",
+      "path": "northamerica/unitedstates/california/highsierra/yosemite",
+      "prior_score": 22.3077,
+      "prior_variance": 5.434826,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Kosovo",
-      "path": "europe/kosovo",
-      "prior_score": -2.2472,
-      "prior_variance": 1.257599,
-      "prior_n": 1
+      "title": "Honolulu",
+      "path": "northamerica/unitedstates/hawaii/honolulu",
+      "prior_score": 17.0152,
+      "prior_variance": 1.529298,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Dire dawa",
-      "path": "africa/ethiopia/diredawa",
-      "prior_score": -5.3301,
-      "prior_variance": 2.013568,
-      "prior_n": 1
+      "title": "Lake Louise",
+      "path": "northamerica/canada/alberta/lake_louise",
+      "prior_score": 18.4013,
+      "prior_variance": 1.987669,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Seaside Heights",
-      "path": "northamerica/unitedstates/newjersey/seaside_heights",
-      "prior_score": -0.077,
-      "prior_variance": 1.559751,
-      "prior_n": 1
+      "title": "Jerusalem",
+      "path": "asia/israel/jerusalem",
+      "prior_score": 19.5078,
+      "prior_variance": 1.902445,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Annaba",
-      "path": "africa/algeria/annaba",
-      "prior_score": -3.4284,
-      "prior_variance": 1.806672,
-      "prior_n": 1
+      "title": "St Petersburg",
+      "path": "europe/russia/stpetersburg",
+      "prior_score": 20.1611,
+      "prior_variance": 1.434194,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Santa Clara",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santaclara",
-      "prior_score": -3.2527,
-      "prior_variance": 1.284355,
-      "prior_n": 1
+      "title": "Mont-Saint-Michel",
+      "path": "europe/france/normandybrittany/montsaintmichel",
+      "prior_score": 20.6251,
+      "prior_variance": 2.745079,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Boblingen",
-      "path": "europe/germany/badenwrttemberg/boblingen",
-      "prior_score": -6.9976,
-      "prior_variance": 4.532339,
-      "prior_n": 1
+      "title": "Mount Fuji",
+      "path": "asia/japan/honshu/mount_fuji",
+      "prior_score": 21.0007,
+      "prior_variance": 1.477285,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Hudson",
-      "path": "northamerica/unitedstates/ohio/hudson",
-      "prior_score": -5.3219,
-      "prior_variance": 1.290578,
-      "prior_n": 1
+      "title": "Neuschwanstein",
+      "path": "europe/germany/bavaria/neuschwanstein",
+      "prior_score": 17.7667,
+      "prior_variance": 1.886564,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "In Guezzam",
-      "path": "africa/algeria/inguezzam",
-      "prior_score": -10.7387,
-      "prior_variance": 1.330436,
-      "prior_n": 1
+      "title": "Frankfort",
+      "path": "northamerica/unitedstates/kentucky/frankfort",
+      "prior_score": -1.862,
+      "prior_variance": 0.709952,
+      "prior_n": 2
     }
   ]
 }

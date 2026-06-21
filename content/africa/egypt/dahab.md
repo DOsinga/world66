@@ -7,7 +7,7 @@ done:
 latitude: 28.5091
 loc_type: city
 longitude: 34.5131
-score: 0.6
+score: 0.54
 title: Dahab
 type: location
 ---

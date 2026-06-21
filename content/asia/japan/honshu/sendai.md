@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:SendaiCity_Skylines_from_M
 latitude: 38.267755
 loc_type: city
 longitude: 140.86915
-score: 0.62
+score: 0.52
 title: Sendai
 type: location
 ---

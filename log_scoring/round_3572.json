@@ -1,0 +1,200 @@
+{
+  "round": 3572,
+  "timestamp": "2026-06-13T23:04:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Fuji",
+      "path": "asia/japan/honshu/mount_fuji",
+      "prior_score": 11.4382,
+      "prior_variance": 0.367235,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Las Vegas",
+      "path": "northamerica/unitedstates/nevada/lasvegas",
+      "prior_score": 8.2467,
+      "prior_variance": 0.218195,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Bologna",
+      "path": "europe/italy/emiliaromagna/bologna",
+      "prior_score": 7.3934,
+      "prior_variance": 0.211957,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Annecy",
+      "path": "europe/france/alpes/annecy",
+      "prior_score": 9.2158,
+      "prior_variance": 0.283466,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Ajanta Caves",
+      "path": "asia/india/maharashtra/ajanta_caves",
+      "prior_score": 7.6805,
+      "prior_variance": 0.154951,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Ilulissat",
+      "path": "northamerica/greenland/ilulissat",
+      "prior_score": 6.1902,
+      "prior_variance": 0.1545,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Terceira",
+      "path": "europe/portugal/theazores/terceira",
+      "prior_score": 5.198,
+      "prior_variance": 0.131931,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Ajaccio",
+      "path": "europe/france/corsica/ajaccio",
+      "prior_score": 5.0128,
+      "prior_variance": 0.128039,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Kumamoto",
+      "path": "asia/japan/kyushu/kumamoto",
+      "prior_score": 4.7781,
+      "prior_variance": 0.1455,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "La Roque-Gageac",
+      "path": "europe/france/midi/dordogne/laroquegageac",
+      "prior_score": 4.6258,
+      "prior_variance": 0.128719,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Kenmare",
+      "path": "europe/ireland/kenmare",
+      "prior_score": 2.4485,
+      "prior_variance": 0.148859,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagnessurmer",
+      "prior_score": 2.8527,
+      "prior_variance": 0.118289,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Terracina",
+      "path": "europe/italy/lazio/terracina",
+      "prior_score": 1.9015,
+      "prior_variance": 0.119615,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Anaheim",
+      "path": "northamerica/unitedstates/california/orangecounty/anaheim",
+      "prior_score": 0.994,
+      "prior_variance": 0.148522,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Manado",
+      "path": "asia/indonesia/sulawesi/manado",
+      "prior_score": 1.8715,
+      "prior_variance": 0.110972,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Dalaman",
+      "path": "asia/turkey/dalaman",
+      "prior_score": -1.7329,
+      "prior_variance": 0.176399,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Manizales",
+      "path": "southamerica/colombia/manizales",
+      "prior_score": 0.9594,
+      "prior_variance": 0.118916,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince",
+      "prior_score": -1.68,
+      "prior_variance": 0.113528,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/birmingham",
+      "prior_score": -1.4113,
+      "prior_variance": 0.148624,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Logan",
+      "path": "northamerica/unitedstates/utah/logan",
+      "prior_score": -2.3378,
+      "prior_variance": 0.121339,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Hallowell",
+      "path": "northamerica/unitedstates/maine/hallowell",
+      "prior_score": -2.8458,
+      "prior_variance": 0.114581,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Rockingham",
+      "path": "northamerica/unitedstates/northcarolina/rockingham",
+      "prior_score": -5.6937,
+      "prior_variance": 0.177618,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Dera Ghazi Khan",
+      "path": "asia/pakistan/dera_ghazi_khan",
+      "prior_score": -8.4812,
+      "prior_variance": 0.204157,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Mykolaiv",
+      "path": "europe/ukraine/nikolaev",
+      "prior_score": -7.31,
+      "prior_variance": 0.298442,
+      "prior_n": 11
+    }
+  ]
+}

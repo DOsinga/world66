@@ -5,7 +5,7 @@ done:
 latitude: 29.648788
 loc_type: city
 longitude: -81.637211
-score: 0.3
+score: 0.28
 title: Palatka
 type: location
 ---

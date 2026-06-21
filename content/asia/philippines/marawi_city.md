@@ -5,7 +5,7 @@ done:
 latitude: 7.9986
 loc_type: city
 longitude: 124.2928
-score: 0.28
+score: 0.18
 title: Marawi City
 type: location
 image: marawi_city.jpg

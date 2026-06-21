@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:YeaMainStreet1.JPG
 latitude: -37.213
 loc_type: city
 longitude: 145.4225
-score: 0.37
+score: 0.32
 sources:
 - https://en.wikipedia.org/wiki/Yea,_Victoria
 title: Yea

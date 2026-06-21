@@ -5,7 +5,7 @@ done:
 latitude: 51.680008
 loc_type: city
 longitude: 39.183725
-score: 0.33
+score: 0.29
 title: Voronezh
 type: location
 ---

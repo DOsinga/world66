@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:18037_Pigna_IM,_Italy_-_pa
 latitude: 43.932714
 loc_type: city
 longitude: 7.663314
-score: 0.47
+score: 0.43
 title: Pigna
 type: location
 ---

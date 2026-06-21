@@ -9,7 +9,7 @@ image_attribution: Kokobush
 latitude: 18.465801
 loc_type: city
 longitude: -97.397835
-score: 0.42
+score: 0.33
 title: Tehuacan
 type: location
 ---

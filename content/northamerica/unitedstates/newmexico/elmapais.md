@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ElMalpaisLava.JPG
 latitude: 34.88
 loc_type: city
 longitude: -107.97
-score: 0.47
+score: 0.4
 title: El Malpais
 type: location
 ---

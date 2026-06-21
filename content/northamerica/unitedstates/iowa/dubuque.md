@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dubuque_IA_-_overview.jpg
 latitude: 42.5006
 loc_type: city
 longitude: -90.6648
-score: 0.36
+score: 0.33
 title: Dubuque
 type: location
 ---

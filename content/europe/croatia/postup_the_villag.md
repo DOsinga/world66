@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_Postup_110314.jpg
 latitude: 42.9723
 loc_type: city
 longitude: 17.2387
-score: 0.56
+score: 0.46
 title: Postup
 type: location
 ---

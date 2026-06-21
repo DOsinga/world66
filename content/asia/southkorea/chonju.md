@@ -5,7 +5,7 @@ done:
 latitude: 35.8238
 loc_type: city
 longitude: 127.1473
-score: 0.48
+score: 0.43
 title: Chonju
 type: location
 ---

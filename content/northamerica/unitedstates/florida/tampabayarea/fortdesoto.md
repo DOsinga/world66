@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2018_Fort_De_Soto_-_Gulf_P
 latitude: 27.615303
 loc_type: city
 longitude: -82.735014
-score: 0.47
+score: 0.44
 title: Fort de Soto
 type: location
 ---

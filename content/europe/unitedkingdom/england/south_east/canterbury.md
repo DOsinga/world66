@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Canterbury-cathedral-wyrdl
 latitude: 51.280028
 loc_type: city
 longitude: 1.080253
-score: 0.63
+score: 0.55
 title: Canterbury
 type: location
 ---

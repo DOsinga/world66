@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hariyadin_bangka_belitung.
 latitude: -2.308124
 loc_type: city
 longitude: 106.028152
-score: 0.47
+score: 0.4
 title: Bangka Island
 type: location
 ---

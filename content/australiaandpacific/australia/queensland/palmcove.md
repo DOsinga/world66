@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Palm_trees_at_Palm_Cove_Be
 latitude: -16.7472
 loc_type: city
 longitude: 145.6685
-score: 0.62
+score: 0.51
 title: Palm Cove
 type: location
 ---

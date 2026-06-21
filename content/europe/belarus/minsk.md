@@ -7,7 +7,7 @@ done:
 latitude: 53.902472
 loc_type: city
 longitude: 27.561823
-score: 0.45
+score: 0.4
 title: Minsk
 type: location
 ---

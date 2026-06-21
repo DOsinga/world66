@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Belmopan_Parliament.jpg
 latitude: 17.2514
 loc_type: city
 longitude: -88.7669
-score: 0.44
+score: 0.38
 title: Belmopan
 type: location
 ---

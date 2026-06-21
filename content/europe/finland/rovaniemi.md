@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rovaniemi_-The_%E2%80%9DLu
 latitude: 66.502554
 loc_type: city
 longitude: 25.730391
-score: 0.63
+score: 0.57
 title: Rovaniemi
 type: location
 ---

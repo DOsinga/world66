@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Windermere_Lake_District_f
 latitude: 54.379483
 loc_type: city
 longitude: -2.906199
-score: 0.64
+score: 0.55
 title: Windermere
 type: location
 ---

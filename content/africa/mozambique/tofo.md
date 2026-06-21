@@ -5,7 +5,7 @@ done:
 latitude: -23.853606
 loc_type: city
 longitude: 35.547171
-score: 0.45
+score: 0.44
 title: Tofo
 type: location
 ---

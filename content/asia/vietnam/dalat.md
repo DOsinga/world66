@@ -5,7 +5,7 @@ done:
   location_enrich: '2026-06-01'
 latitude: 11.940242
 longitude: 108.437576
-score: 0.63
+score: 0.55
 title: Dalat
 type: location
 loc_type: city

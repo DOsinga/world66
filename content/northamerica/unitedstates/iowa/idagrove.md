@@ -6,7 +6,7 @@ latitude: 42.344975
 longitude: -95.471358
 title: Ida Grove
 type: location
-score: 0.26
+score: 0.2
 loc_type: city
 ---
 

@@ -5,7 +5,7 @@ done:
 latitude: -19.0006
 loc_type: city
 longitude: -57.6508
-score: 0.43
+score: 0.36
 title: Corumbá
 type: location
 ---

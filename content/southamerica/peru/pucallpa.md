@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:APEC_PUCALLPA_2024_-_53984
 latitude: -8.382074
 loc_type: city
 longitude: -74.538751
-score: 0.43
+score: 0.31
 title: Pucallpa
 type: location
 ---

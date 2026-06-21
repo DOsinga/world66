@@ -1,0 +1,200 @@
+{
+  "round": 3745,
+  "timestamp": "2026-06-13T23:16:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marrakesh",
+      "path": "africa/morocco/marrakesh",
+      "prior_score": 10.3076,
+      "prior_variance": 0.265806,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Jomtien Beach",
+      "path": "asia/thailand/jomtien_beach",
+      "prior_score": 2.6184,
+      "prior_variance": 0.111461,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Bandung",
+      "path": "asia/indonesia/java/bandung",
+      "prior_score": 1.1138,
+      "prior_variance": 0.113162,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Jbeil (Byblos)",
+      "path": "asia/lebanon/jbeilbyblos",
+      "prior_score": 3.5958,
+      "prior_variance": 0.122719,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Scottsdale",
+      "path": "northamerica/unitedstates/arizona/scottsdale",
+      "prior_score": 2.6803,
+      "prior_variance": 0.114858,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Coronado",
+      "path": "northamerica/unitedstates/california/coronado",
+      "prior_score": 2.7417,
+      "prior_variance": 0.145151,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Half Moon Bay",
+      "path": "northamerica/unitedstates/california/halfmoonbay",
+      "prior_score": 1.5994,
+      "prior_variance": 0.120139,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Lampedusa",
+      "path": "europe/italy/sicily/pelagianislands/lampedusa",
+      "prior_score": 3.6922,
+      "prior_variance": 0.121557,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Springbrook",
+      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
+      "prior_score": 1.8547,
+      "prior_variance": 0.108689,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Reims",
+      "path": "europe/france/east/champagne/reims",
+      "prior_score": 5.193,
+      "prior_variance": 0.126349,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Leeuwarden",
+      "path": "europe/netherlands/friesland/leeuwarden",
+      "prior_score": 0.1181,
+      "prior_variance": 0.110825,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Mandi",
+      "path": "asia/india/himachalpradesh/mandi",
+      "prior_score": -0.898,
+      "prior_variance": 0.126292,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Osoyoos",
+      "path": "northamerica/canada/britishcolumbia/osoyoos",
+      "prior_score": 0.5037,
+      "prior_variance": 0.112143,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Visegrad",
+      "path": "europe/hungary/visegrad",
+      "prior_score": 1.68,
+      "prior_variance": 0.136276,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Gy\u0151r",
+      "path": "europe/hungary/gyor",
+      "prior_score": 0.555,
+      "prior_variance": 0.119802,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Perpignan",
+      "path": "europe/france/midi/languedoc/perpignan",
+      "prior_score": 1.8522,
+      "prior_variance": 0.105895,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Laval",
+      "path": "europe/france/centre/loirevalley/laval",
+      "prior_score": -0.6401,
+      "prior_variance": 0.110914,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Benoue Park",
+      "path": "africa/cameroon/benouepark",
+      "prior_score": -2.6896,
+      "prior_variance": 0.12364,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Galveston Island",
+      "path": "northamerica/unitedstates/texas/houston/galvestonisland",
+      "prior_score": -0.2029,
+      "prior_variance": 0.134404,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Devonport",
+      "path": "australiaandpacific/australia/tasmania/northwest/devonport_tasmania",
+      "prior_score": -1.0229,
+      "prior_variance": 0.102507,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Fort Erie",
+      "path": "northamerica/canada/ontario/fort_erie",
+      "prior_score": -2.8719,
+      "prior_variance": 0.114489,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Alpharetta",
+      "path": "northamerica/unitedstates/georgia/alpharetta",
+      "prior_score": -3.8708,
+      "prior_variance": 0.147371,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Silvassa",
+      "path": "asia/india/dadraandnagarhaveli/silvassa",
+      "prior_score": -5.0128,
+      "prior_variance": 0.145321,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Mahdishar",
+      "path": "asia/iran/mahdishar",
+      "prior_score": -9.1575,
+      "prior_variance": 0.281226,
+      "prior_n": 12
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ancient_staircase.jpg
 latitude: 8.3583
 loc_type: city
 longitude: 80.5122
-score: 0.52
+score: 0.48
 title: Mihintale
 type: location
 ---

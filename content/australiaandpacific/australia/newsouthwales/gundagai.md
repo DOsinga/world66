@@ -6,7 +6,7 @@ done:
 latitude: -35.0627
 loc_type: city
 longitude: 148.1007
-score: 0.42
+score: 0.31
 title: Gundagai
 type: location
 ---

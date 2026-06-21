@@ -5,7 +5,7 @@ latitude: 42.133299
 longitude: 23.340187
 title: Rila Monastery
 type: location
-score: 0.61
+score: 0.57
 loc_type: feature
 ---
 

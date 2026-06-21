@@ -1,0 +1,200 @@
+{
+  "round": 4184,
+  "timestamp": "2026-06-13T23:52:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Petra",
+      "path": "asia/jordan/petra",
+      "prior_score": 12.9268,
+      "prior_variance": 0.63217,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Giza",
+      "path": "africa/egypt/giza",
+      "prior_score": 10.6003,
+      "prior_variance": 0.197154,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "St Petersburg",
+      "path": "europe/russia/stpetersburg",
+      "prior_score": 10.984,
+      "prior_variance": 0.310537,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Zermatt",
+      "path": "europe/switzerland/zermatt",
+      "prior_score": 12.1379,
+      "prior_variance": 0.376812,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Jaipur",
+      "path": "asia/india/rajasthan/jaipur",
+      "prior_score": 8.8836,
+      "prior_variance": 0.20386,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Zhangjiajie",
+      "path": "asia/china/hunan/zhangjiajie",
+      "prior_score": 7.9759,
+      "prior_variance": 0.165119,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Bayeux",
+      "path": "europe/france/normandybrittany/bayeux",
+      "prior_score": 5.372,
+      "prior_variance": 0.113315,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Bautzen",
+      "path": "europe/germany/saxony/bautzen",
+      "prior_score": 0.1403,
+      "prior_variance": 0.091492,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Essen",
+      "path": "europe/germany/northrhinewestphalia/essen",
+      "prior_score": -1.5575,
+      "prior_variance": 0.100221,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Guildford",
+      "path": "europe/unitedkingdom/england/south_east/guildford",
+      "prior_score": -0.5978,
+      "prior_variance": 0.093976,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Grevenmacher",
+      "path": "europe/luxembourg/grevenmacher",
+      "prior_score": -0.691,
+      "prior_variance": 0.094857,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Leamington Spa",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/leamingtonspa",
+      "prior_score": -1.1519,
+      "prior_variance": 0.105245,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Riobamba",
+      "path": "southamerica/ecuador/riobamba",
+      "prior_score": 1.2339,
+      "prior_variance": 0.102163,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Bominaco",
+      "path": "europe/italy/abruzzo/bominaco",
+      "prior_score": -0.9674,
+      "prior_variance": 0.109375,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Coloane",
+      "path": "asia/china/coloane",
+      "prior_score": -0.9709,
+      "prior_variance": 0.120767,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Colima",
+      "path": "northamerica/mexico/colima",
+      "prior_score": -2.1614,
+      "prior_variance": 0.117745,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Xingyi",
+      "path": "asia/china/guizhou/xingyi",
+      "prior_score": -2.2485,
+      "prior_variance": 0.103787,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "La Paz Centro",
+      "path": "northamerica/nicaragua/la_paz_centro",
+      "prior_score": -5.0521,
+      "prior_variance": 0.107512,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Tempe",
+      "path": "northamerica/unitedstates/arizona/tempe",
+      "prior_score": -3.1016,
+      "prior_variance": 0.093616,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Great Egg Harbor",
+      "path": "northamerica/unitedstates/newjersey/greateggharbor",
+      "prior_score": -4.3268,
+      "prior_variance": 0.125961,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Freehold",
+      "path": "northamerica/unitedstates/newjersey/freehold",
+      "prior_score": -4.5408,
+      "prior_variance": 0.124038,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Darlington",
+      "path": "northamerica/unitedstates/southcarolina/darlington",
+      "prior_score": -5.4742,
+      "prior_variance": 0.132296,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/northcarolina/marion",
+      "prior_score": -4.1992,
+      "prior_variance": 0.100476,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Hugo",
+      "path": "northamerica/unitedstates/oklahoma/hugo",
+      "prior_score": -6.1538,
+      "prior_variance": 0.149098,
+      "prior_n": 13
+    }
+  ]
+}

@@ -5,7 +5,7 @@ done:
 latitude: 7.007464
 loc_type: city
 longitude: 100.468989
-score: 0.5
+score: 0.42
 title: Hat Yai
 type: location
 ---

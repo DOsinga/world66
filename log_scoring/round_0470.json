@@ -1,199 +1,199 @@
 {
   "round": 470,
-  "timestamp": "2026-04-12T09:32:02",
+  "timestamp": "2026-06-13T19:36:49",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Balicasag Island",
-      "path": "asia/philippines/bohol/balicasag",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kosrae",
+      "path": "australiaandpacific/micronesiafederatedstatesof/kosrae",
+      "prior_score": -3.085,
+      "prior_variance": 1.650727,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Cebu City",
-      "path": "asia/philippines/cebu/cebucity",
-      "prior_mu": 25.7506,
-      "prior_sigma": 6.3396,
+      "title": "Gerzensee",
+      "path": "europe/switzerland/gerzensee",
+      "prior_score": -4.3034,
+      "prior_variance": 1.403606,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Banaue",
-      "path": "asia/philippines/banaue",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/nevada/virginiacity",
+      "prior_score": -1.1434,
+      "prior_variance": 1.529207,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Davao",
-      "path": "asia/philippines/mindanaoisland/davao",
-      "prior_mu": 21.6855,
-      "prior_sigma": 4.5946,
-      "prior_n": 2
+      "title": "Cangas",
+      "path": "europe/spain/galicia/cangas",
+      "prior_score": -0.6056,
+      "prior_variance": 1.44364,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Bacolod",
-      "path": "asia/philippines/negrosisland/bacolod",
-      "prior_mu": 22.0995,
-      "prior_sigma": 5.7551,
+      "title": "Magaliesburg",
+      "path": "africa/southafrica/gauteng/magaliesburg",
+      "prior_score": -2.6317,
+      "prior_variance": 1.914448,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Cagayan de Oro City",
-      "path": "asia/philippines/cagayan_de_oro_cit",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Lake Urmia",
+      "path": "asia/iran/lake_urmia",
+      "prior_score": -5.0263,
+      "prior_variance": 2.413169,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Cagayan de Oro",
-      "path": "asia/philippines/mindanaoisland/cagayandeoro",
-      "prior_mu": 22.0985,
-      "prior_sigma": 4.7101,
-      "prior_n": 2
+      "title": "Ghulkin Gojal",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/ghulkin_gojal",
+      "prior_score": -2.2997,
+      "prior_variance": 1.617376,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Zamboanga",
-      "path": "asia/philippines/zamboanga",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Heber City",
+      "path": "northamerica/unitedstates/utah/heber_city",
+      "prior_score": -2.8401,
+      "prior_variance": 1.48711,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Tacloban City",
-      "path": "asia/philippines/taclobancity",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "L\u00f6vstabruk",
+      "path": "europe/sweden/lvstabruk",
+      "prior_score": -3.9114,
+      "prior_variance": 1.688664,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Subic",
-      "path": "asia/philippines/subic",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ardenica",
+      "path": "europe/albania/ardenica",
+      "prior_score": -0.8683,
+      "prior_variance": 1.513162,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Alaminos",
-      "path": "asia/philippines/alaminos",
-      "prior_mu": 22.7005,
-      "prior_sigma": 5.6869,
+      "title": "Placerville",
+      "path": "northamerica/unitedstates/california/placerville",
+      "prior_score": -6.1084,
+      "prior_variance": 1.674608,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Daraga",
-      "path": "asia/philippines/daraga",
-      "prior_mu": 22.7176,
-      "prior_sigma": 5.9493,
+      "title": "Ladispoli",
+      "path": "europe/italy/lazio/ladispoli",
+      "prior_score": -6.1274,
+      "prior_variance": 2.001228,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Masbate",
-      "path": "asia/philippines/masbate",
-      "prior_mu": 21.684,
-      "prior_sigma": 4.4554,
-      "prior_n": 2
+      "title": "Iringa",
+      "path": "africa/tanzania/iringa",
+      "prior_score": -5.3381,
+      "prior_variance": 1.368322,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Tuguegarao City",
-      "path": "asia/philippines/tuguegaraocity",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Prairie du Rocher",
+      "path": "northamerica/unitedstates/illinois/prairie_du_rocher",
+      "prior_score": -3.7106,
+      "prior_variance": 1.334307,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Koronadal City",
-      "path": "asia/philippines/koronadalcity",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_score": -3.7154,
+      "prior_variance": 1.445843,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Sogod",
-      "path": "asia/philippines/southern_leyte/sogod",
-      "prior_mu": 21.787,
-      "prior_sigma": 5.613,
+      "title": "Jiuquan",
+      "path": "asia/china/gansu/jiuquan",
+      "prior_score": -4.3253,
+      "prior_variance": 2.188866,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Marikina",
-      "path": "asia/philippines/marikina",
-      "prior_mu": 22.0148,
-      "prior_sigma": 5.7432,
+      "title": "St. Catharines",
+      "path": "northamerica/canada/ontario/stcatharines",
+      "prior_score": -3.8734,
+      "prior_variance": 1.964583,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "San Gabriel",
-      "path": "asia/philippines/sangabriel",
-      "prior_mu": 21.6501,
-      "prior_sigma": 5.3119,
+      "title": "Ruijin",
+      "path": "asia/china/jiangxi/ruijin",
+      "prior_score": -5.3385,
+      "prior_variance": 1.770896,
       "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Lipa",
-      "path": "asia/philippines/lipa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "\u201cTacoma\u201d",
+      "path": "northamerica/unitedstates/washington/tacoma",
+      "prior_score": -4.1386,
+      "prior_variance": 1.312182,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Binan, Laguna",
-      "path": "asia/philippines/binanlaguna",
-      "prior_mu": 18.3077,
-      "prior_sigma": 6.7536,
+      "title": "Geel",
+      "path": "europe/belgium/geel",
+      "prior_score": -6.3096,
+      "prior_variance": 1.938476,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Paranuaque",
-      "path": "asia/philippines/manila/paranuaque",
-      "prior_mu": 22.0321,
-      "prior_sigma": 5.6819,
+      "title": "Valgeranna",
+      "path": "europe/estonia/valgeranna",
+      "prior_score": -5.9206,
+      "prior_variance": 1.380469,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Caloocan",
-      "path": "asia/philippines/caloocan",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Nuevo Casas Grandes",
+      "path": "northamerica/mexico/nuevocasasgrandes",
+      "prior_score": -7.0763,
+      "prior_variance": 2.257824,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Paniqui",
-      "path": "asia/philippines/paniqui",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Weatherford",
+      "path": "northamerica/unitedstates/oklahoma/weatherford",
+      "prior_score": -10.4124,
+      "prior_variance": 8.79249,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Marawi City",
-      "path": "asia/philippines/marawi_city",
-      "prior_mu": 18.0715,
-      "prior_sigma": 6.5309,
+      "title": "Amsterdam",
+      "path": "northamerica/unitedstates/newyorkstate/amsterdam",
+      "prior_score": -6.079,
+      "prior_variance": 1.285159,
       "prior_n": 1
     }
   ]

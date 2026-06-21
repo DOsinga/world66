@@ -1,0 +1,200 @@
+{
+  "round": 2603,
+  "timestamp": "2026-06-13T21:54:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pamukkale",
+      "path": "asia/turkey/gallipoli_troy/pamukkale",
+      "prior_score": 8.3495,
+      "prior_variance": 0.25589,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Pattaya",
+      "path": "asia/thailand/pattaya",
+      "prior_score": 2.9791,
+      "prior_variance": 0.18892,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Chios",
+      "path": "europe/greece/chios",
+      "prior_score": 3.7166,
+      "prior_variance": 0.174991,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Hongcun",
+      "path": "asia/china/anhui/hongcun",
+      "prior_score": 4.929,
+      "prior_variance": 0.174857,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Pamplemousse",
+      "path": "africa/mauritius/pamplemousse",
+      "prior_score": 1.7173,
+      "prior_variance": 0.20616,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Colombo",
+      "path": "asia/srilanka/colombo",
+      "prior_score": 2.1727,
+      "prior_variance": 0.204828,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Schleissheim",
+      "path": "europe/germany/bavaria/schleissheim",
+      "prior_score": -0.1564,
+      "prior_variance": 0.184981,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Julian",
+      "path": "northamerica/unitedstates/california/julian",
+      "prior_score": 0.0324,
+      "prior_variance": 0.165613,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Sibu",
+      "path": "asia/malaysia/sibu",
+      "prior_score": -3.1777,
+      "prior_variance": 0.169368,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Bozeman",
+      "path": "northamerica/unitedstates/montana/bozeman",
+      "prior_score": 1.8853,
+      "prior_variance": 0.180473,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Jublains",
+      "path": "europe/france/normandybrittany/jublains",
+      "prior_score": -1.6249,
+      "prior_variance": 0.174655,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Qusar",
+      "path": "europe/azerbaijan/qusar",
+      "prior_score": -2.3777,
+      "prior_variance": 0.163945,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Cavan",
+      "path": "europe/ireland/cavan",
+      "prior_score": -3.3732,
+      "prior_variance": 0.206375,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Raigad",
+      "path": "asia/india/maharashtra/raigad",
+      "prior_score": -1.6822,
+      "prior_variance": 0.182355,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Sambalpur",
+      "path": "asia/india/orissa/sambalpur",
+      "prior_score": -4.3588,
+      "prior_variance": 0.172097,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Siguatepeque",
+      "path": "northamerica/honduras/siguatepeque",
+      "prior_score": -4.1701,
+      "prior_variance": 0.181125,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Campbellford",
+      "path": "northamerica/canada/ontario/campbellford",
+      "prior_score": -3.6181,
+      "prior_variance": 0.201667,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Laramie",
+      "path": "northamerica/unitedstates/wyoming/laramie",
+      "prior_score": -2.7435,
+      "prior_variance": 0.168879,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Wenzhou",
+      "path": "asia/china/zhejiang/wenzhou",
+      "prior_score": -4.2238,
+      "prior_variance": 0.1723,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Yancheng",
+      "path": "asia/china/jiangsu_province/yancheng",
+      "prior_score": -4.8697,
+      "prior_variance": 0.15925,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/pennsylvania/reading",
+      "prior_score": -5.1841,
+      "prior_variance": 0.157318,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Oberhausen",
+      "path": "europe/germany/northrhinewestphalia/oberhausen",
+      "prior_score": -3.6931,
+      "prior_variance": 0.206155,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Duisburg",
+      "path": "europe/germany/northrhinewestphalia/duisburg",
+      "prior_score": -4.8828,
+      "prior_variance": 0.227823,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Kandahar",
+      "path": "asia/afghanistan/kandahar",
+      "prior_score": -13.1847,
+      "prior_variance": 0.910347,
+      "prior_n": 8
+    }
+  ]
+}

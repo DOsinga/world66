@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chandler,_Oklahoma.jpg
 latitude: 35.702
 loc_type: city
 longitude: -96.881
-score: 0.26
+score: 0.23
 title: Chandler
 type: location
 ---

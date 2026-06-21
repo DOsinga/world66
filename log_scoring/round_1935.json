@@ -1,200 +1,200 @@
 {
   "round": 1935,
-  "timestamp": "2026-04-13T15:55:44",
+  "timestamp": "2026-06-13T21:01:58",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Streymoy",
-      "path": "europe/faroeislands/streymoy",
-      "prior_score": 3.3453,
-      "prior_variance": 0.352577,
-      "prior_n": 5
+      "title": "Melbourne",
+      "path": "australiaandpacific/australia/victoria/melbourne",
+      "prior_score": 8.3062,
+      "prior_variance": 0.281307,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "South Dakota",
-      "path": "northamerica/unitedstates/southdakota",
-      "prior_score": 2.0724,
-      "prior_variance": 0.28188,
-      "prior_n": 5
+      "title": "Ixtapa-Zihuatanejo",
+      "path": "northamerica/mexico/ixtapazihuatanejo",
+      "prior_score": 4.3409,
+      "prior_variance": 0.237328,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Black Sea Coast",
-      "path": "europe/romania/blackseacoast",
-      "prior_score": -0.5565,
-      "prior_variance": 0.319789,
-      "prior_n": 5
+      "title": "St Maarten",
+      "path": "northamerica/netherlandsantilles/stmaarten",
+      "prior_score": 2.5646,
+      "prior_variance": 0.38555,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Lough Derg",
-      "path": "europe/ireland/clare/lough_derg",
-      "prior_score": 1.0431,
-      "prior_variance": 0.313627,
-      "prior_n": 5
+      "title": "Broome",
+      "path": "australiaandpacific/australia/westernaustralia/broome",
+      "prior_score": 2.6736,
+      "prior_variance": 0.339497,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Czestochowa",
-      "path": "europe/poland/czestochowa",
-      "prior_score": 0.2307,
-      "prior_variance": 0.316194,
-      "prior_n": 4
+      "title": "Bagno Vignoni",
+      "path": "europe/italy/tuscany/bagno_vignoni",
+      "prior_score": 4.1818,
+      "prior_variance": 0.215288,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Sheffield",
-      "path": "europe/unitedkingdom/england/sheffield",
-      "prior_score": -0.9813,
-      "prior_variance": 0.306026,
-      "prior_n": 4
+      "title": "Alhama de Granada",
+      "path": "europe/spain/andalucia/alhama_de_granada",
+      "prior_score": 0.1752,
+      "prior_variance": 0.213603,
+      "prior_n": 7
     },
     {
       "rank": 7,
-      "title": "Raleighvallen",
-      "path": "southamerica/suriname/raleighvallen",
-      "prior_score": -2.1928,
-      "prior_variance": 0.321416,
-      "prior_n": 5
+      "title": "Jajce",
+      "path": "europe/bosniaandherzegovina/jajce",
+      "prior_score": 2.6755,
+      "prior_variance": 0.21494,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Grand erg",
-      "path": "africa/algeria/granderg",
-      "prior_score": -2.7018,
-      "prior_variance": 0.301409,
-      "prior_n": 5
+      "title": "Solo",
+      "path": "asia/indonesia/java/solo",
+      "prior_score": 1.3398,
+      "prior_variance": 0.300918,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Idaho Springs",
-      "path": "northamerica/unitedstates/colorado/idaho_springs",
-      "prior_score": -0.1764,
-      "prior_variance": 0.293433,
-      "prior_n": 5
+      "title": "Esquel",
+      "path": "southamerica/argentina/esquel",
+      "prior_score": 1.2127,
+      "prior_variance": 0.24065,
+      "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "Cannonville",
-      "path": "northamerica/unitedstates/utah/cannonville",
-      "prior_score": -1.2998,
-      "prior_variance": 0.391774,
-      "prior_n": 5
+      "title": "Spiekeroog",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/spiekeroog",
+      "prior_score": -0.4243,
+      "prior_variance": 0.252328,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "campbell river",
-      "path": "northamerica/canada/britishcolumbia/campbell_river",
-      "prior_score": -1.1925,
-      "prior_variance": 0.245524,
+      "title": "Kratie",
+      "path": "asia/cambodia/kratie",
+      "prior_score": 0.8003,
+      "prior_variance": 0.203865,
       "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Arcata",
-      "path": "northamerica/unitedstates/california/arcata",
-      "prior_score": -1.0879,
-      "prior_variance": 0.269538,
-      "prior_n": 5
+      "title": "Khujand",
+      "path": "asia/tajikistan/khojend",
+      "prior_score": -2.727,
+      "prior_variance": 0.253184,
+      "prior_n": 6
     },
     {
       "rank": 13,
-      "title": "Osorno",
-      "path": "southamerica/chile/osorno",
-      "prior_score": -0.7073,
-      "prior_variance": 0.256273,
-      "prior_n": 5
+      "title": "Haliburton",
+      "path": "northamerica/canada/ontario/haliburton",
+      "prior_score": -0.6284,
+      "prior_variance": 0.231986,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Castelo Branco",
-      "path": "europe/portugal/castelo_branco",
-      "prior_score": -0.3516,
-      "prior_variance": 0.246323,
-      "prior_n": 5
+      "title": "Isernia",
+      "path": "europe/italy/molise/isernia",
+      "prior_score": -1.4744,
+      "prior_variance": 0.227661,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Lobamba",
-      "path": "africa/swaziland/lobamba",
-      "prior_score": -1.9054,
-      "prior_variance": 0.25988,
-      "prior_n": 5
+      "title": "Sainte-Livrade-sur-Lot",
+      "path": "europe/france/midi/dordogne/stlivrade",
+      "prior_score": -4.109,
+      "prior_variance": 0.253608,
+      "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Franeker",
-      "path": "europe/netherlands/friesland/franeker",
-      "prior_score": -0.4741,
-      "prior_variance": 0.232084,
+      "title": "Oujda",
+      "path": "africa/morocco/oujda",
+      "prior_score": -2.5302,
+      "prior_variance": 0.254859,
       "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "Bahia De Kino",
-      "path": "northamerica/mexico/bahiadekino",
-      "prior_score": -1.2998,
-      "prior_variance": 0.275147,
-      "prior_n": 5
+      "title": "Basse Casamance",
+      "path": "africa/senegal/bassecasamance",
+      "prior_score": -1.5995,
+      "prior_variance": 0.225249,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Soutomaior",
-      "path": "europe/spain/galicia/soutomaior",
-      "prior_score": -1.2132,
-      "prior_variance": 0.308263,
-      "prior_n": 5
+      "title": "Magdalena",
+      "path": "northamerica/unitedstates/newmexico/magdalena",
+      "prior_score": -5.0578,
+      "prior_variance": 0.248674,
+      "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Wasserbillig",
-      "path": "europe/luxembourg/wasserbillig",
-      "prior_score": -2.5341,
-      "prior_variance": 0.307174,
-      "prior_n": 5
+      "title": "Carlton",
+      "path": "australiaandpacific/australia/victoria/carlton",
+      "prior_score": -2.423,
+      "prior_variance": 0.284237,
+      "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Blacksburg",
-      "path": "northamerica/unitedstates/virginia/blacksburg",
-      "prior_score": -2.2363,
-      "prior_variance": 0.367647,
-      "prior_n": 4
+      "title": "Adama",
+      "path": "africa/ethiopia/adama",
+      "prior_score": -5.9201,
+      "prior_variance": 0.313898,
+      "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "Zugdidi",
-      "path": "europe/georgia/zugdidi",
-      "prior_score": -2.7509,
-      "prior_variance": 0.304419,
-      "prior_n": 4
+      "title": "Cuddapah",
+      "path": "asia/india/andhrapradesh/cuddapah",
+      "prior_score": -7.2377,
+      "prior_variance": 0.402923,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Downham",
-      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/downham",
-      "prior_score": -3.9399,
-      "prior_variance": 0.401401,
-      "prior_n": 5
+      "title": "Asansol",
+      "path": "asia/india/westbengal/asansol",
+      "prior_score": -7.0943,
+      "prior_variance": 0.326585,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Hannahurfri",
-      "path": "asia/china/hainanisland/hannahurfri",
-      "prior_score": -4.8306,
-      "prior_variance": 0.337694,
-      "prior_n": 4
+      "title": "Hanumangarh",
+      "path": "asia/india/rajasthan/hanumangarh",
+      "prior_score": -5.4058,
+      "prior_variance": 0.263908,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "San Fidel",
-      "path": "northamerica/unitedstates/newmexico/san_fidel",
-      "prior_score": -6.7669,
-      "prior_variance": 0.343412,
-      "prior_n": 4
+      "title": "Petite Rivi\u00e8re de Nippes",
+      "path": "northamerica/thecaribbean/haiti/petite_riviere_de_nippes",
+      "prior_score": -8.588,
+      "prior_variance": 0.359209,
+      "prior_n": 6
     }
   ]
 }

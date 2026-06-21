@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nagore_Dargah1.JPG
 latitude: 10.60262
 loc_type: city
 longitude: 79.761935
-score: 0.34
+score: 0.3
 title: Nagapattinam
 type: location
 ---

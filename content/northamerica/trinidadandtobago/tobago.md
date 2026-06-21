@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pigeon_Point_beach.jpg
 latitude: 11.25
 loc_type: city
 longitude: -60.6667
-score: 0.66
+score: 0.58
 sources:
 - https://en.wikipedia.org/wiki/Tobago
 - https://en.wikipedia.org/wiki/Main_Ridge_Forest_Reserve

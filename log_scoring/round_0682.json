@@ -1,103 +1,199 @@
 {
   "round": 682,
-  "timestamp": "2026-04-12T10:42:43",
+  "timestamp": "2026-06-13T19:48:22",
   "model": "claude-sonnet-4-6",
-  "batch_size": 12,
+  "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Tobago",
-      "path": "northamerica/trinidadandtobago/tobago",
-      "prior_mu": 23.7948,
-      "prior_sigma": 5.847,
-      "prior_n": 1
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_score": 6.732,
+      "prior_variance": 0.919662,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Port of Spain",
-      "path": "northamerica/trinidadandtobago/port_of_spain",
-      "prior_mu": 22.8865,
-      "prior_sigma": 5.9669,
-      "prior_n": 1
+      "title": "Phu Quoc",
+      "path": "asia/vietnam/phu_quoc",
+      "prior_score": 9.176,
+      "prior_variance": 1.054256,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Chaguaramas",
-      "path": "northamerica/trinidadandtobago/chaguaramas",
-      "prior_mu": 21.5993,
-      "prior_sigma": 4.5144,
+      "title": "Cat Ba Island",
+      "path": "asia/vietnam/cat_ba_island",
+      "prior_score": 10.1942,
+      "prior_variance": 0.969283,
       "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "San Fernando",
-      "path": "northamerica/trinidadandtobago/sanfernando",
-      "prior_mu": 22.4012,
-      "prior_sigma": 5.9067,
-      "prior_n": 1
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_score": 8.1517,
+      "prior_variance": 0.853857,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Princes Town",
-      "path": "northamerica/trinidadandtobago/princestown",
-      "prior_mu": 22.5749,
-      "prior_sigma": 5.9436,
+      "title": "Paro",
+      "path": "asia/bhutan/paro",
+      "prior_score": 9.6541,
+      "prior_variance": 1.590247,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "St.Augustine",
-      "path": "northamerica/trinidadandtobago/staugustine",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Akureyri",
+      "path": "europe/iceland/akureyri",
+      "prior_score": 8.9356,
+      "prior_variance": 1.567595,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Curepe",
-      "path": "northamerica/trinidadandtobago/curepe",
-      "prior_mu": 21.999,
-      "prior_sigma": 4.4771,
+      "title": "Taupo",
+      "path": "australiaandpacific/newzealand/central_plateau/taupo",
+      "prior_score": 8.5106,
+      "prior_variance": 0.841913,
       "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Marabella",
-      "path": "northamerica/trinidadandtobago/marabella",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tavira",
+      "path": "europe/portugal/algarve/tavira",
+      "prior_score": 9.9888,
+      "prior_variance": 1.721445,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "La Romaine",
-      "path": "northamerica/trinidadandtobago/laromaine",
-      "prior_mu": 22.4579,
-      "prior_sigma": 5.6813,
-      "prior_n": 1
+      "title": "Sestri Levante",
+      "path": "europe/italy/liguria/sestri_levante",
+      "prior_score": 9.6637,
+      "prior_variance": 0.970009,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Chagauramas",
-      "path": "northamerica/trinidadandtobago/chagauramas",
-      "prior_mu": 22.3469,
-      "prior_sigma": 5.7165,
-      "prior_n": 1
+      "title": "Black Forest",
+      "path": "europe/germany/badenwrttemberg/blackforest",
+      "prior_score": 7.6906,
+      "prior_variance": 0.916285,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "mourin",
-      "path": "northamerica/trinidadandtobago/mourin",
-      "prior_mu": 22.4387,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Martha's Vineyard",
+      "path": "northamerica/unitedstates/massachusetts/marthasvineyard",
+      "prior_score": 8.5534,
+      "prior_variance": 0.929149,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Debe",
-      "path": "northamerica/trinidadandtobago/debe",
-      "prior_mu": 22.2774,
-      "prior_sigma": 5.9134,
+      "title": "Mayreau",
+      "path": "northamerica/saintvincentandthegrenadines/mayreau",
+      "prior_score": 9.7849,
+      "prior_variance": 2.886316,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Nevis",
+      "path": "northamerica/saintkittsandnevis/nevis",
+      "prior_score": 11.1732,
+      "prior_variance": 1.606938,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_score": 7.0936,
+      "prior_variance": 0.822246,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Belitung",
+      "path": "asia/indonesia/belitung",
+      "prior_score": 5.4718,
+      "prior_variance": 0.82909,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Lamu",
+      "path": "africa/kenya/thecoast/lamu",
+      "prior_score": 9.5016,
+      "prior_variance": 0.848917,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Baku",
+      "path": "europe/azerbaijan/baku",
+      "prior_score": 8.5608,
+      "prior_variance": 1.009249,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Nancy",
+      "path": "europe/france/east/lorraine/nancy",
+      "prior_score": 8.3692,
+      "prior_variance": 0.844312,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Lillehammer",
+      "path": "europe/norway/lillehammer",
+      "prior_score": 9.1512,
+      "prior_variance": 0.768817,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Ostia Antica",
+      "path": "europe/italy/lazio/ostiaantica",
+      "prior_score": 9.3353,
+      "prior_variance": 0.98652,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Colossi of Memnon",
+      "path": "africa/egypt/colossiofmemnon",
+      "prior_score": 9.4666,
+      "prior_variance": 2.3736,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Martigny",
+      "path": "europe/switzerland/martigny",
+      "prior_score": 6.0078,
+      "prior_variance": 0.774237,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Kashgar",
+      "path": "asia/china/xinjiangprovince/kashgar",
+      "prior_score": 10.0813,
+      "prior_variance": 1.168268,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ani",
+      "path": "europe/armenia/ani",
+      "prior_score": 8.098,
+      "prior_variance": 1.962089,
       "prior_n": 1
     }
   ]

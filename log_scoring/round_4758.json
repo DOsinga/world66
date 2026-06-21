@@ -1,0 +1,200 @@
+{
+  "round": 4758,
+  "timestamp": "2026-06-14T00:39:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chiang Rai",
+      "path": "asia/thailand/chiangrai",
+      "prior_score": 6.0222,
+      "prior_variance": 0.120697,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Ohrid",
+      "path": "europe/macedonia/ohrid",
+      "prior_score": 5.1375,
+      "prior_variance": 0.110516,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_score": 5.4928,
+      "prior_variance": 0.100453,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Portovenere",
+      "path": "europe/italy/liguria/portovenere",
+      "prior_score": 6.2683,
+      "prior_variance": 0.109454,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Byron Bay",
+      "path": "australiaandpacific/australia/newsouthwales/byronbay",
+      "prior_score": 5.3524,
+      "prior_variance": 0.094929,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Saint-R\u00e9my-de-Provence",
+      "path": "europe/france/midi/provence/saint_remy_de_provence",
+      "prior_score": 5.7792,
+      "prior_variance": 0.109518,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Mijas",
+      "path": "europe/spain/andalucia/mijas",
+      "prior_score": 3.8956,
+      "prior_variance": 0.085415,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Pamplona",
+      "path": "europe/spain/navarre/pamplona",
+      "prior_score": 3.8961,
+      "prior_variance": 0.111339,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Puerto de Alcudia",
+      "path": "europe/spain/balearicislands/mallorca/puertodealcudia",
+      "prior_score": 3.6867,
+      "prior_variance": 0.1218,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Bansk\u00e1 Stiavnica",
+      "path": "europe/slovakia/b_a_n_s_k",
+      "prior_score": 1.8355,
+      "prior_variance": 0.091566,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Morella",
+      "path": "europe/spain/castellon/morella",
+      "prior_score": 2.3987,
+      "prior_variance": 0.114398,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Grand Gaube",
+      "path": "africa/mauritius/grand_gaube",
+      "prior_score": 3.8067,
+      "prior_variance": 0.096471,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Corbett National Park",
+      "path": "asia/india/uttaranchal/corbett_national_park",
+      "prior_score": 2.648,
+      "prior_variance": 0.101556,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Nairobi National Park",
+      "path": "africa/kenya/nationalparksandreserves/nairobinp",
+      "prior_score": 3.7427,
+      "prior_variance": 0.106513,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/puertoaventuras",
+      "prior_score": 0.8635,
+      "prior_variance": 0.1026,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "White Sands",
+      "path": "northamerica/unitedstates/newmexico/whitesands",
+      "prior_score": 4.326,
+      "prior_variance": 0.095739,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Vila do Conde",
+      "path": "europe/portugal/viladoconde",
+      "prior_score": 1.4432,
+      "prior_variance": 0.081523,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Death Valley",
+      "path": "northamerica/unitedstates/california/deserts/deathvalley",
+      "prior_score": 1.0357,
+      "prior_variance": 0.116661,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Niigata",
+      "path": "asia/japan/honshu/niigata",
+      "prior_score": 0.5066,
+      "prior_variance": 0.086376,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Jakobstad",
+      "path": "europe/finland/jakobstad",
+      "prior_score": -1.1438,
+      "prior_variance": 0.086197,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Sainte-Livrade-sur-Lot",
+      "path": "europe/france/midi/dordogne/stlivrade",
+      "prior_score": -2.9984,
+      "prior_variance": 0.095598,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_score": -2.0866,
+      "prior_variance": 0.088174,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Langley",
+      "path": "northamerica/canada/britishcolumbia/langley",
+      "prior_score": -3.117,
+      "prior_variance": 0.093448,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Gallup",
+      "path": "northamerica/unitedstates/newmexico/gallup",
+      "prior_score": -2.1557,
+      "prior_variance": 0.08121,
+      "prior_n": 16
+    }
+  ]
+}

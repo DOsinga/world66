@@ -1,200 +1,200 @@
 {
   "round": 1249,
-  "timestamp": "2026-04-12T22:17:33",
+  "timestamp": "2026-06-13T20:19:31",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "The Rift Valley",
-      "path": "africa/kenya/theriftvalley",
-      "prior_rank": 1660,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "Eze-bord-de-mer",
+      "path": "europe/france/midi/cotedazur/ezeborddemer",
+      "prior_score": 6.8575,
+      "prior_variance": 0.49185,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Dendara",
-      "path": "africa/egypt/dendara",
-      "prior_rank": 5409,
-      "prior_wins": 17,
-      "prior_n": 2
+      "title": "Courchevel",
+      "path": "europe/france/alpes/courchevel",
+      "prior_score": 7.32,
+      "prior_variance": 0.426786,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Provins",
-      "path": "europe/france/east/champagne/provins",
-      "prior_rank": 2298,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Locarno",
+      "path": "europe/switzerland/locarno",
+      "prior_score": 5.9465,
+      "prior_variance": 0.320924,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Madhya Pradesh",
-      "path": "asia/india/madhyapradesh",
-      "prior_rank": 3029,
-      "prior_wins": 41,
+      "title": "Tarangire National Park",
+      "path": "africa/tanzania/tarangire_np",
+      "prior_score": 7.0057,
+      "prior_variance": 0.552824,
       "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Asmara",
-      "path": "africa/eritrea/asmara",
-      "prior_rank": 1359,
-      "prior_wins": 38,
-      "prior_n": 3
+      "title": "Northern Drakensberg",
+      "path": "africa/southafrica/drakensberg/northern_drakensberg",
+      "prior_score": 5.1108,
+      "prior_variance": 0.428181,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Harvard Glacier",
-      "path": "northamerica/unitedstates/alaska/harvard_glacier",
-      "prior_rank": 5248,
-      "prior_wins": 27,
-      "prior_n": 3
+      "title": "Puerto Vallarta",
+      "path": "northamerica/mexico/puertovallarta",
+      "prior_score": 8.1362,
+      "prior_variance": 0.48827,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Achiltibuie",
-      "path": "europe/unitedkingdom/scotland/achiltibuie",
-      "prior_rank": 3346,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Caye Caulker",
+      "path": "northamerica/belize/cayecaulker",
+      "prior_score": 5.2636,
+      "prior_variance": 0.461049,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Chichester",
-      "path": "europe/unitedkingdom/england/chichester",
-      "prior_rank": 3297,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Gobi Desert",
+      "path": "asia/mongolia/gobidesert",
+      "prior_score": 2.4915,
+      "prior_variance": 0.544625,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Lydford",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor/lydford",
-      "prior_rank": 3378,
-      "prior_wins": 39,
+      "title": "Hailuogou Glacier Park",
+      "path": "asia/china/sichuanprovince/hailuogou",
+      "prior_score": 3.954,
+      "prior_variance": 0.405686,
       "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "R\u00f6ttingen",
-      "path": "europe/germany/bavaria/romanticroad/rttingen",
-      "prior_rank": 4432,
-      "prior_wins": 32,
-      "prior_n": 3
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/queensland/nationalparks",
+      "prior_score": 5.0228,
+      "prior_variance": 0.335973,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Abomey",
-      "path": "africa/benin/abomey",
-      "prior_rank": 3060,
-      "prior_wins": 59,
-      "prior_n": 5
+      "title": "Fort-de-France",
+      "path": "northamerica/thecaribbean/martinique/fortdefrance",
+      "prior_score": 3.7884,
+      "prior_variance": 0.37538,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Muros",
-      "path": "europe/spain/galicia/muros",
-      "prior_rank": 4570,
-      "prior_wins": 31,
-      "prior_n": 3
+      "title": "Piazza Armerina",
+      "path": "europe/italy/sicily/piazza_armerina",
+      "prior_score": 6.531,
+      "prior_variance": 0.350679,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Fiuggi",
-      "path": "europe/italy/lazio/fiuggi",
-      "prior_rank": 4243,
-      "prior_wins": 22,
-      "prior_n": 2
+      "title": "Hout Bay",
+      "path": "africa/southafrica/houtbay",
+      "prior_score": 2.1914,
+      "prior_variance": 0.323126,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Midsland",
-      "path": "europe/netherlands/waddenislands/terschelling/midsland",
-      "prior_rank": 2597,
-      "prior_wins": 101,
-      "prior_n": 7
+      "title": "Castelfranco Veneto",
+      "path": "europe/italy/veneto/castelfrancoveneto",
+      "prior_score": 1.3429,
+      "prior_variance": 0.404289,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Eastland",
-      "path": "australiaandpacific/newzealand/north_island/eastland",
-      "prior_rank": 6102,
-      "prior_wins": 22,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_score": 3.9644,
+      "prior_variance": 0.427964,
       "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Warrnambool",
-      "path": "australiaandpacific/australia/victoria/warrnambool",
-      "prior_rank": 4329,
-      "prior_wins": 22,
-      "prior_n": 2
+      "title": "Santo Domingo",
+      "path": "northamerica/dominicanrepublic/santodomingo",
+      "prior_score": 3.0348,
+      "prior_variance": 0.447244,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Mount Gambier",
-      "path": "australiaandpacific/australia/southaustralia/mount_gambier",
-      "prior_rank": 5537,
-      "prior_wins": 17,
-      "prior_n": 2
+      "title": "Portobelo",
+      "path": "northamerica/panama/portobelo",
+      "prior_score": 1.7452,
+      "prior_variance": 0.31422,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Zambales",
-      "path": "asia/philippines/zambales",
-      "prior_rank": 3036,
-      "prior_wins": 41,
-      "prior_n": 3
+      "title": "Cangas",
+      "path": "europe/spain/galicia/cangas",
+      "prior_score": -0.4631,
+      "prior_variance": 0.303477,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Honiara",
-      "path": "australiaandpacific/solomonislands/honiara",
-      "prior_rank": 4726,
-      "prior_wins": 22,
-      "prior_n": 3
+      "title": "Ashtarak",
+      "path": "europe/armenia/aragatsotn_marz/ashtarak",
+      "prior_score": -3.455,
+      "prior_variance": 0.312544,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Courtenay",
-      "path": "northamerica/canada/britishcolumbia/courtenay",
-      "prior_rank": 3293,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Kuwait City",
+      "path": "asia/kuwait/kuwaitcity",
+      "prior_score": -3.538,
+      "prior_variance": 0.420177,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Chester",
-      "path": "northamerica/unitedstates/vermont/chester",
-      "prior_rank": 4791,
-      "prior_wins": 20,
-      "prior_n": 2
-    },
-    {
-      "rank": 22,
-      "title": "Aiea",
-      "path": "northamerica/unitedstates/hawaii/aiea",
-      "prior_rank": 5053,
-      "prior_wins": 19,
-      "prior_n": 2
-    },
-    {
-      "rank": 23,
-      "title": "Lake Martin",
-      "path": "northamerica/unitedstates/alabama/lake_martin",
-      "prior_rank": 1461,
-      "prior_wins": 51,
+      "title": "Naraj",
+      "path": "asia/india/orissa/naraj",
+      "prior_score": -7.0204,
+      "prior_variance": 0.48012,
       "prior_n": 3
     },
     {
+      "rank": 22,
+      "title": "Youngstown",
+      "path": "northamerica/unitedstates/ohio/youngstown",
+      "prior_score": -7.9956,
+      "prior_variance": 0.439194,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Enid",
+      "path": "northamerica/unitedstates/oklahoma/enid",
+      "prior_score": -6.0185,
+      "prior_variance": 0.409145,
+      "prior_n": 4
+    },
+    {
       "rank": 24,
-      "title": "Kansas",
-      "path": "northamerica/unitedstates/kansas",
-      "prior_rank": 4074,
-      "prior_wins": 23,
-      "prior_n": 2
+      "title": "Newark",
+      "path": "northamerica/unitedstates/delaware/newark",
+      "prior_score": -8.5785,
+      "prior_variance": 0.628559,
+      "prior_n": 3
     }
   ]
 }

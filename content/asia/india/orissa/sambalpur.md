@@ -6,7 +6,7 @@ latitude: 21.5571
 longitude: 84.1529
 title: Sambalpur
 type: location
-score: 0.38
+score: 0.3
 loc_type: city
 ---
 

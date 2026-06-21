@@ -6,7 +6,7 @@ latitude: 18.735841
 longitude: 105.69061
 title: Vinh
 type: location
-score: 0.4
+score: 0.3
 loc_type: city
 ---
 

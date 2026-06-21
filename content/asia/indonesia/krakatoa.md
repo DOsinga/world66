@@ -5,7 +5,7 @@ latitude: -6.1021
 longitude: 105.423
 title: Krakatoa
 type: location
-score: 0.52
+score: 0.43
 loc_type: feature
 ---
 

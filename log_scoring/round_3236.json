@@ -1,0 +1,200 @@
+{
+  "round": 3236,
+  "timestamp": "2026-06-13T22:38:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vichy",
+      "path": "europe/france/centre/auvergne/vichy",
+      "prior_score": 1.4504,
+      "prior_variance": 0.117503,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Apeldoorn",
+      "path": "europe/netherlands/apeldoorn",
+      "prior_score": -0.0948,
+      "prior_variance": 0.120586,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Gauja National Park",
+      "path": "europe/latvia/gauja_national_park",
+      "prior_score": 0.8799,
+      "prior_variance": 0.13282,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Eastbourne",
+      "path": "europe/unitedkingdom/england/south_east/eastbourne",
+      "prior_score": 0.8258,
+      "prior_variance": 0.118879,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Roenne",
+      "path": "europe/denmark/roenne",
+      "prior_score": -0.0786,
+      "prior_variance": 0.128779,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Tulcea",
+      "path": "europe/romania/tulcea",
+      "prior_score": -0.2192,
+      "prior_variance": 0.120382,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Pella",
+      "path": "europe/greece/pella",
+      "prior_score": 0.4604,
+      "prior_variance": 0.118358,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Zhuhai",
+      "path": "asia/china/guangdong/zhuhai",
+      "prior_score": -1.0499,
+      "prior_variance": 0.154096,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Kish island",
+      "path": "asia/iran/kishisland",
+      "prior_score": -0.2267,
+      "prior_variance": 0.139009,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Lake Yojoa",
+      "path": "northamerica/honduras/lakeyojoa",
+      "prior_score": 0.2169,
+      "prior_variance": 0.125894,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Longreach",
+      "path": "australiaandpacific/australia/queensland/longreach",
+      "prior_score": -1.1609,
+      "prior_variance": 0.125132,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Yell",
+      "path": "europe/unitedkingdom/scotland/shetland/yell",
+      "prior_score": -1.561,
+      "prior_variance": 0.14634,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Penrhyn",
+      "path": "australiaandpacific/cookislands/penrhyn",
+      "prior_score": -1.3424,
+      "prior_variance": 0.153403,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Los Alamos",
+      "path": "northamerica/unitedstates/newmexico/losalamos",
+      "prior_score": -1.482,
+      "prior_variance": 0.14068,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/palo_alto",
+      "prior_score": -1.5304,
+      "prior_variance": 0.14607,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Torsero Park",
+      "path": "europe/italy/liguria/torseropark",
+      "prior_score": -0.2345,
+      "prior_variance": 0.137257,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Askersund",
+      "path": "europe/sweden/askersund",
+      "prior_score": -1.7513,
+      "prior_variance": 0.125765,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Lillooet",
+      "path": "northamerica/canada/britishcolumbia/lillooet",
+      "prior_score": -1.3552,
+      "prior_variance": 0.129327,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Terrace",
+      "path": "northamerica/canada/britishcolumbia/terrace",
+      "prior_score": -2.1734,
+      "prior_variance": 0.133353,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Ciudad Quesada",
+      "path": "northamerica/costarica/ciudadquesada",
+      "prior_score": -0.878,
+      "prior_variance": 0.128019,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Cape Lookout",
+      "path": "northamerica/unitedstates/northcarolina/capelookout",
+      "prior_score": -0.4191,
+      "prior_variance": 0.14382,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Juffure",
+      "path": "africa/gambia/juffure",
+      "prior_score": -1.7857,
+      "prior_variance": 0.121826,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Aylmer",
+      "path": "northamerica/canada/quebec/aylmer",
+      "prior_score": -3.6007,
+      "prior_variance": 0.141942,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Kaedi",
+      "path": "africa/mauritania/kaedi",
+      "prior_score": -8.2831,
+      "prior_variance": 0.212677,
+      "prior_n": 10
+    }
+  ]
+}

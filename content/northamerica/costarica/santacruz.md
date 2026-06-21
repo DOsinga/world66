@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_photo_of_the_town_o
 latitude: 10.2636
 loc_type: city
 longitude: -85.585
-score: 0.5
+score: 0.41
 title: Santa Cruz
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 2561,
+  "timestamp": "2026-06-13T21:51:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Schoelcher",
+      "path": "northamerica/thecaribbean/martinique/schoelcher",
+      "prior_score": -0.0589,
+      "prior_variance": 0.162671,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Guaruj\u00e1",
+      "path": "southamerica/brazil/guaruja",
+      "prior_score": -1.6488,
+      "prior_variance": 0.185579,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Wrangell",
+      "path": "northamerica/unitedstates/alaska/wrangell",
+      "prior_score": -1.2121,
+      "prior_variance": 0.162799,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Jun\u00edn de los Andes",
+      "path": "southamerica/argentina/junindelosandes",
+      "prior_score": -0.4876,
+      "prior_variance": 0.175894,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Osiglia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/osiglia",
+      "prior_score": -2.3389,
+      "prior_variance": 0.216701,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Wernigerode",
+      "path": "europe/germany/saxonyanhalt/wernigerode",
+      "prior_score": 2.2994,
+      "prior_variance": 0.151376,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Mannheim",
+      "path": "europe/germany/badenwrttemberg/mannheim",
+      "prior_score": -0.2812,
+      "prior_variance": 0.149027,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Kiel",
+      "path": "europe/germany/schleswigholstein/kiel",
+      "prior_score": -0.5781,
+      "prior_variance": 0.166904,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Guildford",
+      "path": "europe/unitedkingdom/england/south_east/guildford",
+      "prior_score": -0.66,
+      "prior_variance": 0.170429,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Newry",
+      "path": "europe/unitedkingdom/northernireland/newry",
+      "prior_score": -1.9232,
+      "prior_variance": 0.152471,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Smolyan",
+      "path": "europe/bulgaria/rhodopemountains/smolyan",
+      "prior_score": -0.1997,
+      "prior_variance": 0.169725,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_score": -0.6045,
+      "prior_variance": 0.13135,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Massawa",
+      "path": "africa/eritrea/massawa",
+      "prior_score": -2.7162,
+      "prior_variance": 0.165043,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/ohio/cleveland",
+      "prior_score": -2.4867,
+      "prior_variance": 0.172338,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Askersund",
+      "path": "europe/sweden/askersund",
+      "prior_score": -1.6856,
+      "prior_variance": 0.1643,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Wonthaggi",
+      "path": "australiaandpacific/australia/victoria/wonthaggi",
+      "prior_score": -2.9953,
+      "prior_variance": 0.194688,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Appleton",
+      "path": "northamerica/unitedstates/wisconsin/appleton",
+      "prior_score": -2.8132,
+      "prior_variance": 0.178447,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Offenbach am Main",
+      "path": "europe/germany/hessen/offenbachammain",
+      "prior_score": -3.4479,
+      "prior_variance": 0.180727,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Kalocsa",
+      "path": "europe/hungary/kalocsa",
+      "prior_score": -0.8218,
+      "prior_variance": 0.158911,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Takoradi",
+      "path": "africa/ghana/takoradi",
+      "prior_score": -4.1692,
+      "prior_variance": 0.166876,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Puerto Cort\u00e9s",
+      "path": "northamerica/honduras/puertocortes",
+      "prior_score": -4.6032,
+      "prior_variance": 0.204769,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Coimbatore",
+      "path": "asia/india/tamilnadu/coimbatore",
+      "prior_score": -2.5188,
+      "prior_variance": 0.158852,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/newyorkstate/auburn",
+      "prior_score": -4.328,
+      "prior_variance": 0.185224,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Bartlesville",
+      "path": "northamerica/unitedstates/oklahoma/bartlesville",
+      "prior_score": -4.1128,
+      "prior_variance": 0.170952,
+      "prior_n": 8
+    }
+  ]
+}

@@ -5,7 +5,7 @@ latitude: 13.698194
 longitude: 120.82911
 title: Sombrero Island
 type: location
-score: 0.52
+score: 0.41
 loc_type: feature
 ---
 

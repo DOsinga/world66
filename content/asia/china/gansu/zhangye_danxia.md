@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Zhangye
 title: Zhangye Danxia Geological Park
 type: location
+score: 0.62
 ---
 
 The Zhangye Danxia National Geological Park contains the most visually disorienting landscape in China, which is saying something in a country not short of geological theatre. Forty kilometres west of Zhangye, erosion has cut through millennia of layered sedimentary deposits to expose horizontal bands of red, orange, yellow, grey, green, and white — colours that look applied rather than natural, as if someone has cross-sectioned a stack of coloured paper. The Chinese name translates roughly as "seven-colour danxia," and while the count is approximate, the description is not.

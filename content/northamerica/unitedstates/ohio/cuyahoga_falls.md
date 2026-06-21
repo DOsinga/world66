@@ -5,7 +5,7 @@ done:
 latitude: 41.136273
 loc_type: city
 longitude: -81.482812
-score: 0.35
+score: 0.28
 title: Cuyahoga Falls
 type: location
 ---

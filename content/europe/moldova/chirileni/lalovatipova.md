@@ -5,7 +5,7 @@ done:
 latitude: 46.7364
 loc_type: city
 longitude: 29.0606
-score: 0.39
+score: 0.35
 title: Tipova Monastery
 type: location
 ---

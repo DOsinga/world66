@@ -5,7 +5,7 @@ done:
 latitude: 20.8306
 loc_type: city
 longitude: -156.9029
-score: 0.63
+score: 0.57
 sources:
 - https://en.wikipedia.org/wiki/L%C4%81na%27i
 title: Lanai

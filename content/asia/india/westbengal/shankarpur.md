@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sankarpur_Beach_-_East_Mid
 latitude: 21.634065
 loc_type: city
 longitude: 87.582665
-score: 0.35
+score: 0.27
 title: Shankarpur
 type: location
 ---

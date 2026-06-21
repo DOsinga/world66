@@ -7,7 +7,7 @@ done:
 latitude: -24.7859
 loc_type: city
 longitude: -65.4116
-score: 0.65
+score: 0.54
 title: Salta
 type: location
 ---

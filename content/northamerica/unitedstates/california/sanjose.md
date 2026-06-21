@@ -4,7 +4,7 @@ done:
   location_cleanup: '2026-04-16'
 latitude: 37.336166
 longitude: -121.890591
-score: 0.43
+score: 0.33
 title: San Jose
 type: location
 image: sanjose.jpg

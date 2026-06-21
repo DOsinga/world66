@@ -1,0 +1,200 @@
+{
+  "round": 3273,
+  "timestamp": "2026-06-13T22:41:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Giverny",
+      "path": "europe/france/normandybrittany/giverny",
+      "prior_score": 6.0173,
+      "prior_variance": 0.169227,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Lege Cap Ferret",
+      "path": "europe/france/aquitaine/lege_cap_ferret",
+      "prior_score": 2.2011,
+      "prior_variance": 0.142548,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Mi\u00f0v\u00e1gur",
+      "path": "europe/faroeislands/vagar/mivgur",
+      "prior_score": 0.8469,
+      "prior_variance": 0.151428,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "S\u00e3o Paulo",
+      "path": "southamerica/brazil/saopaulo",
+      "prior_score": 1.2412,
+      "prior_variance": 0.150917,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Denizli",
+      "path": "asia/turkey/denizli",
+      "prior_score": 0.0578,
+      "prior_variance": 0.132539,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Belmopan",
+      "path": "northamerica/belize/belmopan",
+      "prior_score": -1.6917,
+      "prior_variance": 0.119512,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/northcoast/arcata",
+      "prior_score": -2.3115,
+      "prior_variance": 0.134446,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Mragowo",
+      "path": "europe/poland/mragowo",
+      "prior_score": -2.0162,
+      "prior_variance": 0.129828,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Kerimaki",
+      "path": "europe/finland/kerimaki",
+      "prior_score": -2.8552,
+      "prior_variance": 0.135805,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Bemidji",
+      "path": "northamerica/unitedstates/minnesota/bemidji",
+      "prior_score": -2.421,
+      "prior_variance": 0.123209,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Sandusky",
+      "path": "northamerica/unitedstates/ohio/sandusky",
+      "prior_score": -1.8384,
+      "prior_variance": 0.130124,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/arkansas/mountain_view",
+      "prior_score": -2.9524,
+      "prior_variance": 0.131555,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Sorell",
+      "path": "australiaandpacific/australia/tasmania/sorell",
+      "prior_score": -3.4165,
+      "prior_variance": 0.133129,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/canterbury/temuka",
+      "prior_score": -3.5495,
+      "prior_variance": 0.175319,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Nospelt",
+      "path": "europe/luxembourg/nospelt",
+      "prior_score": -3.2331,
+      "prior_variance": 0.14845,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Jigongshan",
+      "path": "asia/china/henan_province/jigongshan",
+      "prior_score": -1.8747,
+      "prior_variance": 0.124992,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Ruijin",
+      "path": "asia/china/jiangxi/ruijin",
+      "prior_score": -4.46,
+      "prior_variance": 0.127671,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Rancagua",
+      "path": "southamerica/chile/rancagua",
+      "prior_score": -2.6464,
+      "prior_variance": 0.126521,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Esmeraldas",
+      "path": "southamerica/ecuador/esmeraldas",
+      "prior_score": -3.5051,
+      "prior_variance": 0.144804,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Adama",
+      "path": "africa/ethiopia/adama",
+      "prior_score": -5.4205,
+      "prior_variance": 0.173296,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Abuja",
+      "path": "africa/nigeria/abuja",
+      "prior_score": -3.3801,
+      "prior_variance": 0.141593,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Winfield",
+      "path": "northamerica/unitedstates/kansas/winfield",
+      "prior_score": -5.7094,
+      "prior_variance": 0.175941,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Peshawar",
+      "path": "asia/pakistan/peshawar",
+      "prior_score": -5.8176,
+      "prior_variance": 0.187126,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "An najaf",
+      "path": "asia/iraq/annajaf",
+      "prior_score": -5.051,
+      "prior_variance": 0.199175,
+      "prior_n": 11
+    }
+  ]
+}

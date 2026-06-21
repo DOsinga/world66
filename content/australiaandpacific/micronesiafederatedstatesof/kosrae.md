@@ -5,7 +5,7 @@ done:
 latitude: 5.325
 loc_type: city
 longitude: 162.9817
-score: 0.53
+score: 0.43
 title: Kosrae
 type: location
 ---

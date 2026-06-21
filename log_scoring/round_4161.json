@@ -1,0 +1,200 @@
+{
+  "round": 4161,
+  "timestamp": "2026-06-13T23:50:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Neuschwanstein",
+      "path": "europe/germany/bavaria/neuschwanstein",
+      "prior_score": 8.8612,
+      "prior_variance": 0.175556,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Hoi An",
+      "path": "asia/vietnam/hoian",
+      "prior_score": 9.73,
+      "prior_variance": 0.269451,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Glacier National Park",
+      "path": "northamerica/unitedstates/montana/glaciernp",
+      "prior_score": 8.9098,
+      "prior_variance": 0.218965,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Sanur",
+      "path": "asia/indonesia/bali/sanur",
+      "prior_score": 5.5345,
+      "prior_variance": 0.127219,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Caceres",
+      "path": "europe/spain/extremadura/caceres",
+      "prior_score": 4.006,
+      "prior_variance": 0.108687,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Savonlinna",
+      "path": "europe/finland/savonlinna",
+      "prior_score": 2.6936,
+      "prior_variance": 0.095658,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Lucignano",
+      "path": "europe/italy/tuscany/lucignano",
+      "prior_score": -0.9327,
+      "prior_variance": 0.357175,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Girne (Kyrenia)",
+      "path": "asia/cyprus/northerncyprus/girnekyrene",
+      "prior_score": 3.5758,
+      "prior_variance": 0.093609,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Acitrezza",
+      "path": "europe/italy/sicily/acitrezza",
+      "prior_score": 2.4301,
+      "prior_variance": 0.096828,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "\u00d6sterlen",
+      "path": "europe/sweden/sterlen",
+      "prior_score": 0.7376,
+      "prior_variance": 0.0868,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Boa Vista",
+      "path": "africa/capeverde/boavista",
+      "prior_score": 1.8668,
+      "prior_variance": 0.122163,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Koh Talu",
+      "path": "asia/thailand/koh_talu_island",
+      "prior_score": 2.6759,
+      "prior_variance": 0.113016,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Contadora",
+      "path": "northamerica/panama/contadora",
+      "prior_score": 1.2639,
+      "prior_variance": 0.114415,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Oudtshoorn",
+      "path": "africa/southafrica/oudtshoorn",
+      "prior_score": 0.9939,
+      "prior_variance": 0.102023,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Ceibal",
+      "path": "northamerica/guatemala/ceibal",
+      "prior_score": -0.1957,
+      "prior_variance": 0.10583,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Red River Gorge",
+      "path": "northamerica/unitedstates/kentucky/redrivergorge",
+      "prior_score": 1.9049,
+      "prior_variance": 0.102918,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Philippi",
+      "path": "europe/greece/philippi",
+      "prior_score": 1.6831,
+      "prior_variance": 0.105825,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Crovie",
+      "path": "europe/unitedkingdom/scotland/crovie",
+      "prior_score": 0.9067,
+      "prior_variance": 0.125271,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Oropesa",
+      "path": "europe/spain/la_mancha/oropesa",
+      "prior_score": -1.2693,
+      "prior_variance": 0.092236,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Freetown Peninsula",
+      "path": "africa/sierraleone/freetown_peninsula",
+      "prior_score": -1.8626,
+      "prior_variance": 0.106293,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Majuli",
+      "path": "asia/india/assam/majuli",
+      "prior_score": 0.1478,
+      "prior_variance": 0.095648,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Surabaya",
+      "path": "asia/indonesia/java/surabaya",
+      "prior_score": -0.6532,
+      "prior_variance": 0.095394,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Lania",
+      "path": "asia/cyprus/troodosmountains/lania_traditiona",
+      "prior_score": -0.0678,
+      "prior_variance": 0.093394,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Yan'an",
+      "path": "asia/china/shaanxi/yan_an",
+      "prior_score": -2.6998,
+      "prior_variance": 0.098951,
+      "prior_n": 13
+    }
+  ]
+}

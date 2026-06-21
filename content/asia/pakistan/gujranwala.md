@@ -5,7 +5,7 @@ done:
 latitude: 32.152531
 loc_type: city
 longitude: 74.193375
-score: 0.26
+score: 0.21
 title: Gujranwala
 type: location
 ---

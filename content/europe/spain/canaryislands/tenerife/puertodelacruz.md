@@ -9,7 +9,7 @@ image_attribution: Diego Delso
 latitude: 28.4159
 loc_type: city
 longitude: -16.5533
-score: 0.64
+score: 0.56
 title: Puerto de la Cruz
 type: location
 ---

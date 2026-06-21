@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Paradeep_sea_beach.jpg
 latitude: 20.279738
 loc_type: city
 longitude: 86.612273
-score: 0.36
+score: 0.26
 title: Paradeep
 type: location
 ---

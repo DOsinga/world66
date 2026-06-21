@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mentor,_Ohio_(9063311666).
 latitude: 41.666478
 loc_type: city
 longitude: -81.339977
-score: 0.33
+score: 0.26
 title: Mentor
 type: location
 ---

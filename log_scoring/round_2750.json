@@ -1,0 +1,200 @@
+{
+  "round": 2750,
+  "timestamp": "2026-06-13T22:04:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grindelwald",
+      "path": "europe/switzerland/grindelwald",
+      "prior_score": 11.6516,
+      "prior_variance": 0.432162,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Geneva",
+      "path": "europe/switzerland/geneva",
+      "prior_score": 8.0793,
+      "prior_variance": 0.203244,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Seattle",
+      "path": "northamerica/unitedstates/washington/seattle",
+      "prior_score": 6.507,
+      "prior_variance": 0.205517,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Thessaloniki",
+      "path": "europe/greece/thessaloniki",
+      "prior_score": 6.4316,
+      "prior_variance": 0.19928,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Funchal",
+      "path": "europe/portugal/funchal",
+      "prior_score": 6.0217,
+      "prior_variance": 0.174835,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_score": 4.3241,
+      "prior_variance": 0.154513,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Sun Moon Lake",
+      "path": "asia/taiwan/sunmoonlake",
+      "prior_score": 5.8612,
+      "prior_variance": 0.176927,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Gettysburg",
+      "path": "northamerica/unitedstates/pennsylvania/gettysburg",
+      "prior_score": 3.2866,
+      "prior_variance": 0.157006,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Pinnawela",
+      "path": "asia/srilanka/pinnawela",
+      "prior_score": 2.8165,
+      "prior_variance": 0.144791,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Sopot",
+      "path": "europe/poland/sopot",
+      "prior_score": 2.6388,
+      "prior_variance": 0.154531,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Patras",
+      "path": "europe/greece/patras",
+      "prior_score": 1.6879,
+      "prior_variance": 0.146363,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Narok Town",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr/naroktown",
+      "prior_score": 1.9571,
+      "prior_variance": 0.16657,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Leiria",
+      "path": "europe/portugal/leiria",
+      "prior_score": 1.0064,
+      "prior_variance": 0.146968,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Gotska Sand\u00f6n",
+      "path": "europe/sweden/gotska_sandn",
+      "prior_score": -1.1177,
+      "prior_variance": 0.167295,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Alhama de Granada",
+      "path": "europe/spain/andalucia/alhama_de_granada",
+      "prior_score": 0.4083,
+      "prior_variance": 0.143455,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Canillas de Aceituno",
+      "path": "europe/spain/canillas_de_aceituno",
+      "prior_score": -1.5277,
+      "prior_variance": 0.172594,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/newhampshire/concord",
+      "prior_score": -2.8676,
+      "prior_variance": 0.194904,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Ashtarak",
+      "path": "europe/armenia/aragatsotn_marz/ashtarak",
+      "prior_score": -2.2046,
+      "prior_variance": 0.147343,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Southampton",
+      "path": "northamerica/canada/ontario/southampton",
+      "prior_score": -2.3169,
+      "prior_variance": 0.153084,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Jayapura",
+      "path": "asia/indonesia/irianjaya/jaya_pura",
+      "prior_score": -2.7969,
+      "prior_variance": 0.158006,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Warangal",
+      "path": "asia/india/andhrapradesh/warangal",
+      "prior_score": -2.6452,
+      "prior_variance": 0.146446,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/arkansas/mountain_view",
+      "prior_score": -3.0121,
+      "prior_variance": 0.147876,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Guthrie",
+      "path": "northamerica/unitedstates/oklahoma/guthrie",
+      "prior_score": -3.4191,
+      "prior_variance": 0.18363,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Kaberneeme",
+      "path": "europe/estonia/kaberneeme",
+      "prior_score": -3.7557,
+      "prior_variance": 0.190707,
+      "prior_n": 8
+    }
+  ]
+}

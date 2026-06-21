@@ -5,7 +5,7 @@ done:
 latitude: 34.225727
 loc_type: city
 longitude: -77.94471
-score: 0.49
+score: 0.41
 title: Wilmington
 type: location
 image: wilmington.jpg

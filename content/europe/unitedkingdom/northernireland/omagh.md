@@ -5,7 +5,7 @@ done:
 latitude: 54.599249
 loc_type: city
 longitude: -7.302991
-score: 0.4
+score: 0.34
 title: Omagh
 type: location
 ---

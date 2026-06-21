@@ -6,7 +6,7 @@ latitude: 32.840695
 longitude: -83.632402
 title: Macon
 type: location
-score: 0.38
+score: 0.34
 loc_type: city
 ---
 

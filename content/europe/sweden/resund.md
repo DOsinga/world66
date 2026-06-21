@@ -5,7 +5,7 @@ done:
 latitude: 55.95
 loc_type: city
 longitude: 12.8
-score: 0.45
+score: 0.39
 title: Öresund
 type: location
 ---

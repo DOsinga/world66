@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/60179488@N07/31782773158
 latitude: 35.213312
 loc_type: city
 longitude: 4.18097
-score: 0.4
+score: 0.33
 title: Bou Saâda
 type: location
 ---

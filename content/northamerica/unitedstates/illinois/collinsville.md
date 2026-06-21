@@ -5,7 +5,7 @@ done:
 latitude: 38.6703
 loc_type: city
 longitude: -89.9845
-score: 0.33
+score: 0.28
 title: Collinsville
 type: location
 ---

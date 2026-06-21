@@ -6,7 +6,7 @@ done:
 latitude: 32.3338
 loc_type: city
 longitude: 35.747
-score: 0.49
+score: 0.42
 title: Ajlun
 type: location
 ---

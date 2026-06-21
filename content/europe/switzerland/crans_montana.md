@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Crans_Montana_Helico_HtPla
 latitude: 46.3069
 loc_type: city
 longitude: 7.469
-score: 0.65
+score: 0.58
 title: Crans-Montana
 type: location
 ---

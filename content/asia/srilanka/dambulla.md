@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dambulla-outside.jpg
 latitude: 7.874203
 loc_type: city
 longitude: 80.651092
-score: 0.6
+score: 0.53
 title: Dambulla
 type: location
 ---

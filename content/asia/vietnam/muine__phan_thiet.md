@@ -5,7 +5,7 @@ done:
 latitude: 10.953376
 loc_type: city
 longitude: 108.247176
-score: 0.6
+score: 0.53
 title: Mui Ne - Phan Thiet
 type: location
 ---

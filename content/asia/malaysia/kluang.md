@@ -7,7 +7,7 @@ done:
 latitude: 2.0323
 loc_type: city
 longitude: 103.3191
-score: 0.41
+score: 0.33
 title: Kluang
 type: location
 image: kluang.jpg

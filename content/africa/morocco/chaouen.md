@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2018_01_(Blue)_-_Chaouen.j
 latitude: 35.1686
 loc_type: city
 longitude: -5.2636
-score: 0.75
+score: 0.66
 title: Chefchaouen
 type: location
 ---

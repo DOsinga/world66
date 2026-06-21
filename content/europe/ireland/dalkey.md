@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dalkey.jpg
 latitude: 53.275496
 loc_type: city
 longitude: -6.102561
-score: 0.52
+score: 0.45
 title: Dalkey
 type: location
 ---

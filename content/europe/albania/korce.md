@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Korca_Old_Bazaar.jpg
 latitude: 40.615897
 loc_type: city
 longitude: 20.777219
-score: 0.46
+score: 0.4
 title: Korce
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 4565,
+  "timestamp": "2026-06-14T00:23:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Noosa Heads",
+      "path": "australiaandpacific/australia/queensland/noosaheads",
+      "prior_score": 4.9139,
+      "prior_variance": 0.102269,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Noli",
+      "path": "europe/italy/liguria/italianriviera/noli",
+      "prior_score": 3.1787,
+      "prior_variance": 0.092941,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Salou",
+      "path": "europe/spain/catalonia/salou",
+      "prior_score": 2.2978,
+      "prior_variance": 0.090921,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Amelia Island",
+      "path": "northamerica/unitedstates/florida/amelia_island",
+      "prior_score": 2.0683,
+      "prior_variance": 0.100114,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Sibiu",
+      "path": "europe/romania/sibiu",
+      "prior_score": 4.4565,
+      "prior_variance": 0.100333,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Olomouc",
+      "path": "europe/czechrepublic/olomouc",
+      "prior_score": 3.2836,
+      "prior_variance": 0.091987,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Villa de Leyva",
+      "path": "southamerica/colombia/villadeleyva",
+      "prior_score": 3.8027,
+      "prior_variance": 0.10722,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "St. George",
+      "path": "northamerica/unitedstates/utah/st_george",
+      "prior_score": 1.7482,
+      "prior_variance": 0.099871,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Breda",
+      "path": "europe/netherlands/breda",
+      "prior_score": 1.2038,
+      "prior_variance": 0.090093,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Piacenza",
+      "path": "europe/italy/emiliaromagna/piacenza",
+      "prior_score": 1.3728,
+      "prior_variance": 0.096475,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Diamante",
+      "path": "europe/italy/calabria/diamante_1",
+      "prior_score": 0.2068,
+      "prior_variance": 0.090775,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Tapolca",
+      "path": "europe/hungary/tapolca",
+      "prior_score": 0.1292,
+      "prior_variance": 0.109905,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Petersburg",
+      "path": "northamerica/unitedstates/alaska/petersburg",
+      "prior_score": -0.0324,
+      "prior_variance": 0.08752,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Kassel",
+      "path": "europe/germany/hessen/kassel",
+      "prior_score": -0.2661,
+      "prior_variance": 0.099276,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Kalinga",
+      "path": "asia/philippines/kalinga",
+      "prior_score": -1.6988,
+      "prior_variance": 0.098893,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Broken Bow",
+      "path": "northamerica/unitedstates/oklahoma/broken_bow",
+      "prior_score": -2.4373,
+      "prior_variance": 0.094794,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_score": -1.9066,
+      "prior_variance": 0.093614,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Tanga",
+      "path": "africa/tanzania/tanga",
+      "prior_score": -1.8838,
+      "prior_variance": 0.106012,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Mbabane",
+      "path": "africa/swaziland/mbabane",
+      "prior_score": -2.0359,
+      "prior_variance": 0.094107,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Kitale",
+      "path": "africa/kenya/westernkenya/kitale",
+      "prior_score": -4.1448,
+      "prior_variance": 0.112497,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Putian",
+      "path": "asia/china/fujianprovince/putian",
+      "prior_score": -4.0174,
+      "prior_variance": 0.100727,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Manokwari",
+      "path": "asia/indonesia/irianjaya/manokwari",
+      "prior_score": -3.7568,
+      "prior_variance": 0.100558,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Malabo",
+      "path": "africa/equatorialguinea/malabo",
+      "prior_score": -5.9366,
+      "prior_variance": 0.138276,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Zenica",
+      "path": "europe/bosniaandherzegovina/zenica",
+      "prior_score": -3.438,
+      "prior_variance": 0.105375,
+      "prior_n": 15
+    }
+  ]
+}

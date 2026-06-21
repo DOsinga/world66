@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Keswick,_Cumbria_Panorama_
 latitude: 54.6013
 loc_type: city
 longitude: -3.1377
-score: 0.65
+score: 0.56
 title: Keswick
 type: location
 ---

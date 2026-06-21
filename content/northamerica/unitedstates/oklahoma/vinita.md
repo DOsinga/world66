@@ -5,7 +5,7 @@ done:
 latitude: 36.640837
 loc_type: city
 longitude: -95.156363
-score: 0.29
+score: 0.23
 title: Vinita
 type: location
 ---

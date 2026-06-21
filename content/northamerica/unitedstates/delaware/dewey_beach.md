@@ -5,7 +5,7 @@ done:
 latitude: 38.691184
 loc_type: city
 longitude: -75.075272
-score: 0.47
+score: 0.34
 title: Dewey Beach
 type: location
 ---

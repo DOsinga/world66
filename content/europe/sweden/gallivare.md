@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:G%C3%A4llivare,_Sweden.JPG
 latitude: 67.1333
 loc_type: city
 longitude: 20.6667
-score: 0.44
+score: 0.41
 title: Gallivare
 type: location
 ---

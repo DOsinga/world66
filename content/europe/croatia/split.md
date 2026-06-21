@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Luftbild_vom_Diokletianpal
 latitude: 43.511638
 loc_type: city
 longitude: 16.439966
-score: 0.76
+score: 0.71
 title: Split
 type: location
 ---

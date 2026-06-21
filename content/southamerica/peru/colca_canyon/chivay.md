@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chivay,_2023_(cropped).jpg
 latitude: -15.636688
 loc_type: city
 longitude: -71.602217
-score: 0.6
+score: 0.53
 title: Chivay
 type: location
 ---

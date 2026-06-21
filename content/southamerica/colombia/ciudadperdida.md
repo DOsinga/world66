@@ -5,7 +5,7 @@ latitude: 11.037855
 longitude: -73.925775
 title: Ciudad Perdida
 type: location
-score: 0.65
+score: 0.59
 loc_type: feature
 ---
 

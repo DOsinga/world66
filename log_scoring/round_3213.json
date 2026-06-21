@@ -1,0 +1,200 @@
+{
+  "round": 3213,
+  "timestamp": "2026-06-13T22:37:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_score": -1.815,
+      "prior_variance": 0.146369,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Lahti",
+      "path": "europe/finland/lahti",
+      "prior_score": -0.3539,
+      "prior_variance": 0.133521,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Manassas",
+      "path": "northamerica/unitedstates/virginia/manassas",
+      "prior_score": -2.6695,
+      "prior_variance": 0.139945,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Dungannon",
+      "path": "europe/unitedkingdom/northernireland/dungannon",
+      "prior_score": -4.8143,
+      "prior_variance": 0.15015,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/pennsylvania/reading",
+      "prior_score": -4.9291,
+      "prior_variance": 0.138053,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_score": -4.1948,
+      "prior_variance": 0.170477,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Portoviejo",
+      "path": "southamerica/ecuador/portoviejo",
+      "prior_score": -4.5731,
+      "prior_variance": 0.186162,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Barrow",
+      "path": "northamerica/unitedstates/alaska/barrow",
+      "prior_score": -4.0253,
+      "prior_variance": 0.142449,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Palmyra",
+      "path": "asia/syria/palmyra",
+      "prior_score": -4.9814,
+      "prior_variance": 0.292928,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Muzaffarabad",
+      "path": "asia/pakistan/azad_kashmir/muzaffar_abad",
+      "prior_score": -4.4199,
+      "prior_variance": 0.166728,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Abbottabad",
+      "path": "asia/pakistan/abbottabad",
+      "prior_score": -4.4471,
+      "prior_variance": 0.169639,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Orel",
+      "path": "europe/russia/orel",
+      "prior_score": -4.6277,
+      "prior_variance": 0.152137,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Sanmenxia",
+      "path": "asia/china/henan_province/sanmenxia",
+      "prior_score": -5.4233,
+      "prior_variance": 0.143336,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Lucena",
+      "path": "asia/philippines/quezon_province/lucena",
+      "prior_score": -4.1899,
+      "prior_variance": 0.161022,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Delvina",
+      "path": "europe/albania/delvina",
+      "prior_score": -3.6135,
+      "prior_variance": 0.164358,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "New Amsterdam",
+      "path": "southamerica/guyana/newamsterdam",
+      "prior_score": -4.2747,
+      "prior_variance": 0.1267,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "La Paz Centro",
+      "path": "northamerica/nicaragua/la_paz_centro",
+      "prior_score": -5.2804,
+      "prior_variance": 0.147732,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_score": -4.8486,
+      "prior_variance": 0.158872,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Hopkinsville",
+      "path": "northamerica/unitedstates/kentucky/hopkinsville",
+      "prior_score": -4.6326,
+      "prior_variance": 0.140502,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Sapulpa",
+      "path": "northamerica/unitedstates/oklahoma/sapulpa",
+      "prior_score": -5.7594,
+      "prior_variance": 0.189676,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Vandalia",
+      "path": "northamerica/unitedstates/illinois/vandalia",
+      "prior_score": -6.0192,
+      "prior_variance": 0.198263,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Midland-Odessa",
+      "path": "northamerica/unitedstates/texas/midlandodessa",
+      "prior_score": -6.1852,
+      "prior_variance": 0.160015,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Nurek",
+      "path": "asia/tajikistan/nurek",
+      "prior_score": -5.4186,
+      "prior_variance": 0.182798,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Assab",
+      "path": "africa/eritrea/assab",
+      "prior_score": -8.0629,
+      "prior_variance": 0.226829,
+      "prior_n": 10
+    }
+  ]
+}

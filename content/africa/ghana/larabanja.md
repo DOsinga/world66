@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Larabanga_Mosque_Ghana.jpg
 latitude: 9.2194
 loc_type: city
 longitude: -1.8585
-score: 0.38
+score: 0.32
 title: Larabanga
 type: location
 ---

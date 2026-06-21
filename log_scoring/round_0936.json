@@ -1,199 +1,199 @@
 {
   "round": 936,
-  "timestamp": "2026-04-12T16:08:19",
+  "timestamp": "2026-06-13T20:01:53",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Paris",
-      "path": "europe/france/paris",
-      "prior_rank": 51,
-      "prior_wins": 115,
-      "prior_n": 5
+      "title": "Anaheim",
+      "path": "northamerica/unitedstates/california/orangecounty/anaheim",
+      "prior_score": 1.4476,
+      "prior_variance": 0.551674,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Rome",
-      "path": "europe/italy/lazio/rome",
-      "prior_rank": 62,
-      "prior_wins": 46,
-      "prior_n": 2
+      "title": "Glenwood Springs",
+      "path": "northamerica/unitedstates/colorado/glenwood_springs",
+      "prior_score": 1.3499,
+      "prior_variance": 0.536908,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Iguazu Falls",
-      "path": "southamerica/argentina/iguazufalls",
-      "prior_rank": 113,
-      "prior_wins": 45,
-      "prior_n": 2
+      "title": "Winter Park",
+      "path": "northamerica/unitedstates/colorado/winter_park",
+      "prior_score": 2.6236,
+      "prior_variance": 0.551956,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Scuba Diving",
-      "path": "australiaandpacific/australia/queensland/greatbarrierreef/scuba_diving",
-      "prior_rank": 33,
-      "prior_wins": 46,
+      "title": "Saratoga Springs",
+      "path": "northamerica/unitedstates/newyorkstate/saratoga",
+      "prior_score": 3.06,
+      "prior_variance": 0.59038,
       "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Grand Canyon",
-      "path": "northamerica/unitedstates/arizona/grandcanyon",
-      "prior_rank": 98,
-      "prior_wins": 91,
-      "prior_n": 4
+      "title": "Dartmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmouth",
+      "prior_score": 3.9448,
+      "prior_variance": 0.617353,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Meteora",
-      "path": "europe/greece/meteora",
-      "prior_rank": 54,
-      "prior_wins": 22,
-      "prior_n": 1
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/torquay",
+      "prior_score": -0.9091,
+      "prior_variance": 0.60514,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Cairo",
-      "path": "africa/egypt/cairo",
-      "prior_rank": 259,
-      "prior_wins": 45,
+      "title": "Punat",
+      "path": "europe/croatia/krkisland/punat",
+      "prior_score": 3.6065,
+      "prior_variance": 0.815997,
       "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Urgup",
-      "path": "asia/turkey/cappadocia/urgup",
-      "prior_rank": 146,
-      "prior_wins": 44,
+      "title": "Pittsburgh",
+      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
+      "prior_score": 0.0022,
+      "prior_variance": 0.99322,
       "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Maldives",
-      "path": "africa/maldives",
-      "prior_rank": 2,
-      "prior_wins": 46,
-      "prior_n": 2
+      "title": "Canberra",
+      "path": "australiaandpacific/australia/australiancapitalterritory/canberra",
+      "prior_score": 1.725,
+      "prior_variance": 0.431834,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Zermatt",
-      "path": "europe/switzerland/zermatt",
-      "prior_rank": 172,
-      "prior_wins": 228,
-      "prior_n": 10
+      "title": "Auxerre",
+      "path": "europe/france/centre/auxerre",
+      "prior_score": 0.1277,
+      "prior_variance": 0.479172,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Ubud",
-      "path": "asia/indonesia/bali/ubud",
-      "prior_rank": 12,
-      "prior_wins": 69,
+      "title": "Eindhoven",
+      "path": "europe/netherlands/eindhoven",
+      "prior_score": 0.7517,
+      "prior_variance": 1.251679,
       "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Versailles",
-      "path": "europe/france/paris/versailles",
-      "prior_rank": 52,
-      "prior_wins": 45,
-      "prior_n": 2
+      "title": "Piraeus",
+      "path": "europe/greece/piraeus",
+      "prior_score": -0.0172,
+      "prior_variance": 0.418145,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Singapore",
-      "path": "asia/singapore",
-      "prior_rank": 28,
-      "prior_wins": 54,
-      "prior_n": 3
+      "title": "Carlton",
+      "path": "australiaandpacific/australia/victoria/carlton",
+      "prior_score": -3.4754,
+      "prior_variance": 0.640586,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Morocco",
-      "path": "africa/morocco",
-      "prior_rank": 4,
-      "prior_wins": 46,
-      "prior_n": 2
+      "title": "S\u0103p\u00e2n\u021ba",
+      "path": "europe/romania/sapinta",
+      "prior_score": 0.2104,
+      "prior_variance": 0.525402,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Kihei",
-      "path": "northamerica/unitedstates/hawaii/kihei",
-      "prior_rank": 103,
-      "prior_wins": 46,
-      "prior_n": 2
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_score": -0.6116,
+      "prior_variance": 0.582515,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Bath",
-      "path": "europe/unitedkingdom/england/bath",
-      "prior_rank": 86,
-      "prior_wins": 46,
+      "title": "Hohhot",
+      "path": "asia/china/innermongolia/hohhot",
+      "prior_score": 0.2377,
+      "prior_variance": 0.721527,
       "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Moskenes",
-      "path": "europe/norway/lofotenislands/moskenes",
-      "prior_rank": 244,
-      "prior_wins": 67,
-      "prior_n": 3
+      "title": "Puri",
+      "path": "asia/india/orissa/puri",
+      "prior_score": 3.0527,
+      "prior_variance": 0.820515,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Siracusa",
-      "path": "europe/italy/sicily/siracusa",
-      "prior_rank": 66,
-      "prior_wins": 23,
-      "prior_n": 1
+      "title": "Soppong",
+      "path": "asia/thailand/soppong",
+      "prior_score": 1.5785,
+      "prior_variance": 0.705108,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "St. Moritz",
-      "path": "europe/switzerland/stmoritz",
-      "prior_rank": 85,
-      "prior_wins": 46,
-      "prior_n": 2
-    },
-    {
-      "rank": 20,
-      "title": "Kyushu",
-      "path": "asia/japan/kyushu",
-      "prior_rank": 17,
-      "prior_wins": 46,
-      "prior_n": 2
-    },
-    {
-      "rank": 21,
-      "title": "Lake Tahoe",
-      "path": "northamerica/unitedstates/california/highsierra/laketahoe",
-      "prior_rank": 133,
-      "prior_wins": 45,
-      "prior_n": 2
-    },
-    {
-      "rank": 22,
-      "title": "Colorado",
-      "path": "northamerica/unitedstates/colorado",
-      "prior_rank": 162,
-      "prior_wins": 68,
+      "title": "Cape Maclear",
+      "path": "africa/malawi/capemaclear",
+      "prior_score": 1.6496,
+      "prior_variance": 0.39964,
       "prior_n": 3
     },
     {
-      "rank": 23,
-      "title": "San Diego",
-      "path": "northamerica/unitedstates/california/sandiego",
-      "prior_rank": 100,
-      "prior_wins": 46,
+      "rank": 20,
+      "title": "Sravanabelagola",
+      "path": "asia/india/karnataka/sravanabelagola",
+      "prior_score": 0.5947,
+      "prior_variance": 0.494592,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Huangyaguan",
+      "path": "asia/china/tianjin/huangyaguan",
+      "prior_score": -0.0143,
+      "prior_variance": 0.437648,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Beiwudang Mountain",
+      "path": "asia/china/shanxiprovince/beiwudang",
+      "prior_score": -0.5398,
+      "prior_variance": 0.633999,
       "prior_n": 2
     },
     {
+      "rank": 23,
+      "title": "Taoyuan",
+      "path": "asia/taiwan/taoyuan",
+      "prior_score": -2.1489,
+      "prior_variance": 0.417437,
+      "prior_n": 3
+    },
+    {
       "rank": 24,
-      "title": "Hamburg",
-      "path": "europe/germany/hamburg",
-      "prior_rank": 53,
-      "prior_wins": 45,
+      "title": "Cockpit Country",
+      "path": "northamerica/jamaica/cockpitcountry",
+      "prior_score": 0.7581,
+      "prior_variance": 0.653726,
       "prior_n": 2
     }
   ]

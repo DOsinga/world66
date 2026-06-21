@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:County_Hall,_Ny%C3%ADregyh
 latitude: 47.95578
 loc_type: city
 longitude: 21.716798
-score: 0.44
+score: 0.34
 title: Nyíregyháza
 type: location
 ---

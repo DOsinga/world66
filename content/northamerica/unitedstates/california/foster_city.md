@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Foster_City_Aerial.jpg
 latitude: 37.560034
 loc_type: city
 longitude: -122.268852
-score: 0.32
+score: 0.26
 title: Foster City
 type: location
 ---

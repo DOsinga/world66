@@ -5,7 +5,7 @@ done:
 latitude: 19.355923
 loc_type: city
 longitude: -16.512927
-score: 0.25
+score: 0.22
 title: Nouamghar
 type: location
 ---

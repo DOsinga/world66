@@ -5,7 +5,7 @@ done:
 latitude: 25.652134
 loc_type: city
 longitude: 51.487806
-score: 0.38
+score: 0.27
 title: Khor
 type: location
 ---

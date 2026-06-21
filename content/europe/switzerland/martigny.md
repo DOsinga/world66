@@ -5,7 +5,7 @@ done:
 latitude: 46.1031
 loc_type: city
 longitude: 7.0727
-score: 0.59
+score: 0.5
 sources:
 - https://en.wikipedia.org/wiki/Martigny
 title: Martigny

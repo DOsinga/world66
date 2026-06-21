@@ -5,7 +5,7 @@ done:
 latitude: 31.326749
 loc_type: city
 longitude: -109.546346
-score: 0.3
+score: 0.22
 title: Agua Prieta
 type: location
 ---

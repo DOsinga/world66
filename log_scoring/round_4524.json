@@ -1,0 +1,200 @@
+{
+  "round": 4524,
+  "timestamp": "2026-06-14T00:19:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chianciano Terme",
+      "path": "europe/italy/tuscany/chianciano_terme",
+      "prior_score": 0.793,
+      "prior_variance": 0.093844,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Mailly-le-Ch\u00e2teau",
+      "path": "europe/france/east/burgundy/maillylechateau",
+      "prior_score": -0.4287,
+      "prior_variance": 0.090926,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Gardenstown",
+      "path": "europe/unitedkingdom/scotland/gardenstown",
+      "prior_score": -1.1432,
+      "prior_variance": 0.097721,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/northcoast/sebastopol",
+      "prior_score": -1.0036,
+      "prior_variance": 0.088756,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Lambertville",
+      "path": "northamerica/unitedstates/newjersey/lambertville",
+      "prior_score": -0.6358,
+      "prior_variance": 0.092581,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Dilijan",
+      "path": "europe/armenia/tavush_marz/dilijan",
+      "prior_score": 0.7236,
+      "prior_variance": 0.095625,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Victor",
+      "path": "northamerica/unitedstates/idaho/teton_valley/victor",
+      "prior_score": -1.0625,
+      "prior_variance": 0.104113,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Lake Victoria",
+      "path": "africa/kenya/lakes/lakevictoria",
+      "prior_score": 1.2455,
+      "prior_variance": 0.088635,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Miches",
+      "path": "northamerica/dominicanrepublic/miches",
+      "prior_score": -0.1217,
+      "prior_variance": 0.10104,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Nabeul",
+      "path": "africa/tunisia/nabeul",
+      "prior_score": -0.2013,
+      "prior_variance": 0.087832,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Ybor City",
+      "path": "northamerica/unitedstates/florida/tampabayarea/yborcity",
+      "prior_score": -0.5025,
+      "prior_variance": 0.103509,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Biloxi",
+      "path": "northamerica/unitedstates/mississippi/biloxi",
+      "prior_score": -1.8682,
+      "prior_variance": 0.085686,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Vicksburg",
+      "path": "northamerica/unitedstates/mississippi/vicksburg",
+      "prior_score": -0.9423,
+      "prior_variance": 0.093106,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Dallas",
+      "path": "northamerica/unitedstates/texas/dallas",
+      "prior_score": -0.9332,
+      "prior_variance": 0.118493,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Porto Alegre",
+      "path": "southamerica/brazil/portoalegre",
+      "prior_score": -1.0699,
+      "prior_variance": 0.090016,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Lucknow",
+      "path": "asia/india/uttarpradesh/lucknow",
+      "prior_score": 1.2309,
+      "prior_variance": 0.10157,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Kampala",
+      "path": "africa/uganda/kampala",
+      "prior_score": -1.7594,
+      "prior_variance": 0.118229,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Elbasan",
+      "path": "europe/albania/elbasan",
+      "prior_score": -2.5702,
+      "prior_variance": 0.089119,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Copiap\u00f3",
+      "path": "southamerica/chile/copiapo",
+      "prior_score": -3.3253,
+      "prior_variance": 0.101473,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Rasht",
+      "path": "asia/iran/rasht",
+      "prior_score": -3.0038,
+      "prior_variance": 0.092237,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Yanbu",
+      "path": "asia/saudiarabia/yanbu",
+      "prior_score": -6.5733,
+      "prior_variance": 0.157291,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Hong",
+      "path": "africa/nigeria/hong",
+      "prior_score": -8.6754,
+      "prior_variance": 0.226045,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Garowe",
+      "path": "africa/somalia/garowe",
+      "prior_score": -9.9117,
+      "prior_variance": 0.340877,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Niono",
+      "path": "africa/mali/niono",
+      "prior_score": -9.5171,
+      "prior_variance": 0.28436,
+      "prior_n": 14
+    }
+  ]
+}

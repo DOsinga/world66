@@ -6,7 +6,7 @@ latitude: 45.516329
 longitude: 25.371567
 title: Bran
 type: location
-score: 0.56
+score: 0.51
 loc_type: city
 ---
 

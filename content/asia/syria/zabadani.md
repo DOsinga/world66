@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:06242009585_Zabadani_Valle
 latitude: 33.724446
 loc_type: city
 longitude: 36.100194
-score: 0.19
+score: 0.15
 title: Zabadani
 type: location
 ---

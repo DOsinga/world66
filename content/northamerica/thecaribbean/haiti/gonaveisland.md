@@ -5,7 +5,7 @@ done:
 latitude: 18.8329
 loc_type: city
 longitude: -73.0625
-score: 0.3
+score: 0.26
 title: Gonâve Island
 type: location
 ---

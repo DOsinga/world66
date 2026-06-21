@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-
 latitude: 41.9028
 loc_type: city
 longitude: 12.4964
-score: 0.92
+score: 0.99
 title: Rome
 type: location
 ---

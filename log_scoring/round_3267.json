@@ -1,0 +1,200 @@
+{
+  "round": 3267,
+  "timestamp": "2026-06-13T22:41:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seville",
+      "path": "europe/spain/andalucia/seville",
+      "prior_score": 10.9268,
+      "prior_variance": 0.330296,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/wellington",
+      "prior_score": 4.9444,
+      "prior_variance": 0.130211,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "South Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/southlaketahoe",
+      "prior_score": 4.5569,
+      "prior_variance": 0.14428,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Flagstaff",
+      "path": "northamerica/unitedstates/arizona/flagstaff",
+      "prior_score": 3.4427,
+      "prior_variance": 0.128216,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Menton",
+      "path": "europe/france/midi/provence/menton",
+      "prior_score": 5.101,
+      "prior_variance": 0.165385,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Mainz",
+      "path": "europe/germany/rhinelandpalatinate/mainz",
+      "prior_score": 2.9773,
+      "prior_variance": 0.143388,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Sarasota",
+      "path": "northamerica/unitedstates/florida/sarasota",
+      "prior_score": 2.3202,
+      "prior_variance": 0.114798,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Colossi of Memnon",
+      "path": "africa/egypt/colossiofmemnon",
+      "prior_score": 4.3528,
+      "prior_variance": 0.137065,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Albi",
+      "path": "europe/france/midi/languedoc/albi",
+      "prior_score": 4.4896,
+      "prior_variance": 0.136904,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Bad Gastein",
+      "path": "europe/austria/bad_gastein",
+      "prior_score": 3.9653,
+      "prior_variance": 0.129138,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Mito",
+      "path": "asia/japan/honshu/mito",
+      "prior_score": 1.9797,
+      "prior_variance": 0.143519,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Trojmiasto",
+      "path": "europe/poland/trojmiasto",
+      "prior_score": 1.8363,
+      "prior_variance": 0.118099,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Pinnawela",
+      "path": "asia/srilanka/pinnawela",
+      "prior_score": 2.8199,
+      "prior_variance": 0.130013,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Pakse",
+      "path": "asia/laos/pakse",
+      "prior_score": 1.637,
+      "prior_variance": 0.153875,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Detian Waterfall",
+      "path": "asia/china/guangxi/detian",
+      "prior_score": 3.6666,
+      "prior_variance": 0.137576,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_score": 3.0094,
+      "prior_variance": 0.130046,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Jaca",
+      "path": "europe/spain/aragon/jaca",
+      "prior_score": 2.1789,
+      "prior_variance": 0.119595,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Trebinje",
+      "path": "europe/bosniaandherzegovina/trebinje",
+      "prior_score": 0.9268,
+      "prior_variance": 0.138319,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Brescia",
+      "path": "europe/italy/lombardia/brescia",
+      "prior_score": 3.1598,
+      "prior_variance": 0.15151,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Reggio Emilia",
+      "path": "europe/italy/emiliaromagna/reggioemilia",
+      "prior_score": 1.7191,
+      "prior_variance": 0.129128,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Khyber Pass",
+      "path": "asia/pakistan/khyberpass",
+      "prior_score": -2.1041,
+      "prior_variance": 0.180853,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Marina di Campo",
+      "path": "europe/italy/tuscany/elba/marinadicampo",
+      "prior_score": 2.8834,
+      "prior_variance": 0.127113,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Ceillac",
+      "path": "europe/france/alpes/ceillac",
+      "prior_score": 2.8084,
+      "prior_variance": 0.138056,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "San Antonio Abad",
+      "path": "europe/spain/balearicislands/ibiza/sanantonioabad",
+      "prior_score": 3.4779,
+      "prior_variance": 0.22161,
+      "prior_n": 10
+    }
+  ]
+}

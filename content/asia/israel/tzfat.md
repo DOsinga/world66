@@ -5,7 +5,7 @@ done:
 latitude: 32.96463
 loc_type: city
 longitude: 35.502451
-score: 0.57
+score: 0.5
 title: Tzfat
 type: location
 ---

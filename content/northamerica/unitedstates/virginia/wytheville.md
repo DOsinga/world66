@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St._John%27s_Episcopal_Chu
 latitude: 36.947997
 loc_type: city
 longitude: -81.086975
-score: 0.34
+score: 0.26
 title: Wytheville
 type: location
 ---

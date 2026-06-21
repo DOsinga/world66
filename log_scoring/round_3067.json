@@ -1,0 +1,200 @@
+{
+  "round": 3067,
+  "timestamp": "2026-06-13T22:26:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "R\u00edas Baixas",
+      "path": "europe/spain/galicia/ras_baixas",
+      "prior_score": 3.2553,
+      "prior_variance": 0.167723,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Tiantai Mountain",
+      "path": "asia/china/zhejiang/tiantaishan",
+      "prior_score": 0.4824,
+      "prior_variance": 0.131111,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Pontassieve",
+      "path": "europe/italy/tuscany/florenceprovince/sievevalley/pontassieve",
+      "prior_score": 0.5364,
+      "prior_variance": 0.150323,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Montesilvano",
+      "path": "europe/italy/abruzzo/montesilvano",
+      "prior_score": -1.6503,
+      "prior_variance": 0.149776,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Chagford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/chagford",
+      "prior_score": 0.8307,
+      "prior_variance": 0.139525,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Hahndorf",
+      "path": "australiaandpacific/australia/southaustralia/handorf",
+      "prior_score": 0.8888,
+      "prior_variance": 0.133509,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Dachau",
+      "path": "europe/germany/bavaria/dachau",
+      "prior_score": -2.0421,
+      "prior_variance": 0.225252,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Kraljevica",
+      "path": "europe/croatia/kraljevica",
+      "prior_score": -0.8507,
+      "prior_variance": 0.134368,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Lee County",
+      "path": "northamerica/unitedstates/florida/lee_county_florida",
+      "prior_score": -1.1677,
+      "prior_variance": 0.163228,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Ganpatipule",
+      "path": "asia/india/maharashtra/ganpati_phule",
+      "prior_score": -0.7695,
+      "prior_variance": 0.127976,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Miches",
+      "path": "northamerica/dominicanrepublic/miches",
+      "prior_score": -0.0001,
+      "prior_variance": 0.171033,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Dar es Salaam",
+      "path": "africa/tanzania/daressalaam",
+      "prior_score": -0.4173,
+      "prior_variance": 0.121443,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Wuhan",
+      "path": "asia/china/hubei/wuhan",
+      "prior_score": -1.5513,
+      "prior_variance": 0.147538,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Kielce",
+      "path": "europe/poland/kielce",
+      "prior_score": -2.5379,
+      "prior_variance": 0.142333,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Chaoyang",
+      "path": "asia/china/liaoning/chaoyang",
+      "prior_score": -5.4202,
+      "prior_variance": 0.152412,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Weining",
+      "path": "asia/china/guizhou/weining",
+      "prior_score": -4.2872,
+      "prior_variance": 0.179909,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Gerlach",
+      "path": "northamerica/unitedstates/nevada/gerlach",
+      "prior_score": -4.8643,
+      "prior_variance": 0.199033,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/delaware/middletown",
+      "prior_score": -6.074,
+      "prior_variance": 0.264513,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Tonawanda",
+      "path": "northamerica/unitedstates/newyorkstate/tonawanda",
+      "prior_score": -5.8147,
+      "prior_variance": 0.145128,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_score": -4.7761,
+      "prior_variance": 0.149383,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Khongjom",
+      "path": "asia/india/manipur/khongjom",
+      "prior_score": -7.143,
+      "prior_variance": 0.192129,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Keren",
+      "path": "africa/eritrea/keren",
+      "prior_score": -5.6295,
+      "prior_variance": 0.16333,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Zinga",
+      "path": "africa/centralafricanrepublic/zinga",
+      "prior_score": -9.4043,
+      "prior_variance": 0.386091,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Ghazni",
+      "path": "asia/afghanistan/ghazni",
+      "prior_score": -11.5718,
+      "prior_variance": 0.481344,
+      "prior_n": 9
+    }
+  ]
+}

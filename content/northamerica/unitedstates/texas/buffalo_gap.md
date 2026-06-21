@@ -5,7 +5,7 @@ done:
 latitude: 32.2834
 loc_type: city
 longitude: -99.8326
-score: 0.3
+score: 0.2
 title: Buffalo Gap
 type: location
 ---

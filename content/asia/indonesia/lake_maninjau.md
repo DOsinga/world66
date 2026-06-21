@@ -1,9 +1,10 @@
 ---
-title: "Lake Maninjau"
+title: Lake Maninjau
 type: location
 loc_type: feature
 latitude: -0.3167
 longitude: 100.1667
+score: 0.46
 ---
 
 Lake Maninjau is a caldera lake in West Sumatra, formed thousands of years ago by a volcanic eruption that left a roughly oval depression 16 kilometres long and 8 kilometres wide. The road into the lake basin descends through 44 tight hairpin bends off the crater rim, with dramatic views over the water below.

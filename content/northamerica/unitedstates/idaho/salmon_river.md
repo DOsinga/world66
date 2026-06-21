@@ -5,7 +5,7 @@ latitude: 45.418993
 longitude: -114.874872
 title: Salmon River
 type: location
-score: 0.48
+score: 0.4
 loc_type: feature
 ---
 

@@ -5,7 +5,7 @@ latitude: 53.350679
 longitude: -4.259507
 title: Din Lligwy
 type: location
-score: 0.44
+score: 0.37
 loc_type: feature
 ---
 

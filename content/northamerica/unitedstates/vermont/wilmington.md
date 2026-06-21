@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/21208051@N00/31713402884
 latitude: 42.8676
 loc_type: city
 longitude: -72.8648
-score: 0.44
+score: 0.37
 title: Wilmington
 type: location
 ---

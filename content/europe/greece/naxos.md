@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20210713_%CE%A0%CE%BF%CF%8
 latitude: 37.1036
 loc_type: city
 longitude: 25.3762
-score: 0.78
+score: 0.63
 title: Naxos
 type: location
 ---

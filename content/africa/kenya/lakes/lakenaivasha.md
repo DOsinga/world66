@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Naivasha,_Kenya_(3248
 latitude: -0.758635
 loc_type: city
 longitude: 36.355377
-score: 0.58
+score: 0.51
 title: Lake Naivasha
 type: location
 ---

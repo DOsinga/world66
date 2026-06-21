@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saba_Runway_march_2012.jpg
 latitude: 17.635
 loc_type: city
 longitude: -63.2327
-score: 0.54
+score: 0.48
 title: Saba
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 41.5699
 loc_type: city
 longitude: 64.2097
-score: 0.29
+score: 0.21
 title: Zarafshan
 type: location
 ---

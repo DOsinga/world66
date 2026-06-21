@@ -1,200 +1,200 @@
 {
   "round": 1130,
-  "timestamp": "2026-04-12T22:11:07",
+  "timestamp": "2026-06-13T20:12:53",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Lebanon",
-      "path": "asia/lebanon",
-      "prior_rank": 4062,
-      "prior_wins": 23,
-      "prior_n": 2
+      "title": "North Caicos",
+      "path": "northamerica/turksandcaicosislands/northcaicos",
+      "prior_score": 2.8971,
+      "prior_variance": 0.51451,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Vilanculos",
-      "path": "africa/mozambique/vilanculos",
-      "prior_rank": 2515,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Hatteras Island",
+      "path": "northamerica/unitedstates/northcarolina/hatteras_island",
+      "prior_score": 3.2039,
+      "prior_variance": 0.411797,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Small Isles",
-      "path": "europe/unitedkingdom/scotland/small_isles",
-      "prior_rank": 4986,
-      "prior_wins": 19,
-      "prior_n": 2
+      "title": "Zandvoort",
+      "path": "europe/netherlands/zandvoort",
+      "prior_score": -0.7275,
+      "prior_variance": 0.435732,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Battura Valley",
-      "path": "asia/pakistan/hunzavalley/battura_valley",
-      "prior_rank": 4546,
-      "prior_wins": 21,
-      "prior_n": 2
+      "title": "Carthage",
+      "path": "africa/tunisia/carthage",
+      "prior_score": 4.632,
+      "prior_variance": 0.416883,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Kanatal",
-      "path": "asia/india/uttaranchal/kanatal",
-      "prior_rank": 5235,
-      "prior_wins": 18,
-      "prior_n": 2
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica",
+      "prior_score": -1.6122,
+      "prior_variance": 0.476276,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Baja California",
-      "path": "northamerica/mexico/yucatan/bajacalifornia",
-      "prior_rank": 4752,
-      "prior_wins": 20,
-      "prior_n": 2
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_score": -0.3589,
+      "prior_variance": 0.308582,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Popoyo Beach",
-      "path": "northamerica/nicaragua/popoyo_beach",
-      "prior_rank": 4608,
-      "prior_wins": 20,
-      "prior_n": 2
+      "title": "Bijapur",
+      "path": "asia/india/karnataka/bijapur",
+      "prior_score": -2.0456,
+      "prior_variance": 0.597547,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "The Palouse",
-      "path": "northamerica/unitedstates/washington/the_palouse",
-      "prior_rank": 3205,
-      "prior_wins": 27,
-      "prior_n": 2
+      "title": "Bragan\u00e7a",
+      "path": "europe/portugal/bragana",
+      "prior_score": -0.1292,
+      "prior_variance": 0.424606,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Borrego Springs",
-      "path": "northamerica/unitedstates/california/deserts/borregosprings",
-      "prior_rank": 3644,
-      "prior_wins": 25,
-      "prior_n": 2
+      "title": "Schiers",
+      "path": "europe/switzerland/schiers",
+      "prior_score": -1.8276,
+      "prior_variance": 0.603171,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Bluff",
-      "path": "northamerica/unitedstates/utah/bluff",
-      "prior_rank": 3053,
-      "prior_wins": 27,
-      "prior_n": 2
+      "title": "Broke",
+      "path": "australiaandpacific/australia/newsouthwales/broke",
+      "prior_score": -2.9442,
+      "prior_variance": 0.416182,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Naro Moru",
-      "path": "africa/kenya/centralhighlands/naromoru",
-      "prior_rank": 3836,
-      "prior_wins": 24,
-      "prior_n": 2
+      "title": "Lucban",
+      "path": "asia/philippines/quezon_province/lucban",
+      "prior_score": -1.3101,
+      "prior_variance": 0.459891,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Malahide",
-      "path": "europe/ireland/malahide",
-      "prior_rank": 3487,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Urgench",
+      "path": "asia/uzbekistan/urgench",
+      "prior_score": -0.5121,
+      "prior_variance": 0.443259,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Roswell",
-      "path": "northamerica/unitedstates/newmexico/roswell",
-      "prior_rank": 5344,
-      "prior_wins": 17,
-      "prior_n": 2
+      "title": "Yinchuan",
+      "path": "asia/china/ningxia/yinchuan",
+      "prior_score": -1.8955,
+      "prior_variance": 0.477022,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Milwaukee",
-      "path": "northamerica/unitedstates/wisconsin/milwaukee",
-      "prior_rank": 3648,
-      "prior_wins": 25,
-      "prior_n": 2
+      "title": "Tuzla",
+      "path": "europe/bosniaandherzegovina/tuzla",
+      "prior_score": -2.7275,
+      "prior_variance": 0.32326,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Redondo Beach",
-      "path": "northamerica/unitedstates/california/losangeles/redondobeach",
-      "prior_rank": 1665,
-      "prior_wins": 34,
-      "prior_n": 2
+      "title": "\u00dcr\u00fcmqi",
+      "path": "asia/china/xinjiangprovince/urumqi",
+      "prior_score": -2.346,
+      "prior_variance": 0.485464,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Neretva",
-      "path": "europe/croatia/neretva",
-      "prior_rank": 6377,
-      "prior_wins": 13,
-      "prior_n": 2
+      "title": "Sheboygan",
+      "path": "northamerica/unitedstates/wisconsin/sheboygan",
+      "prior_score": -4.0452,
+      "prior_variance": 0.416027,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Turda",
-      "path": "europe/romania/turda",
-      "prior_rank": 4521,
-      "prior_wins": 21,
-      "prior_n": 2
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/alabama/huntsville",
+      "prior_score": -3.6145,
+      "prior_variance": 0.408334,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Dir\u2019iyah",
-      "path": "asia/saudiarabia/diriyah",
-      "prior_rank": 1021,
-      "prior_wins": 48,
+      "title": "Foumban",
+      "path": "africa/cameroon/foumban",
+      "prior_score": -2.7857,
+      "prior_variance": 0.42717,
       "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Douz",
-      "path": "africa/tunisia/douz",
-      "prior_rank": 4528,
-      "prior_wins": 21,
-      "prior_n": 2
+      "title": "Pucallpa",
+      "path": "southamerica/peru/pucallpa",
+      "prior_score": -2.1323,
+      "prior_variance": 0.599588,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Almansa",
-      "path": "europe/spain/la_mancha/almansa",
-      "prior_rank": 4987,
-      "prior_wins": 19,
-      "prior_n": 2
+      "title": "Akron",
+      "path": "northamerica/unitedstates/ohio/akron",
+      "prior_score": -4.0846,
+      "prior_variance": 0.409964,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Castelbianco",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/castelbianco",
-      "prior_rank": 2901,
-      "prior_wins": 35,
+      "title": "Zamboanga",
+      "path": "asia/philippines/zamboanga",
+      "prior_score": -0.6957,
+      "prior_variance": 0.403106,
       "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Paraguan\u00e1 Peninsula",
-      "path": "southamerica/venezuela/paraguan_peninsu",
-      "prior_rank": 3881,
-      "prior_wins": 24,
-      "prior_n": 2
+      "title": "Dushanbe",
+      "path": "asia/tajikistan/dushanbe",
+      "prior_score": -6.2717,
+      "prior_variance": 0.884834,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Mohammedia",
-      "path": "africa/morocco/mohammedia",
-      "prior_rank": 4756,
-      "prior_wins": 20,
-      "prior_n": 2
+      "title": "Ramallah",
+      "path": "asia/palestinianauthority/ramallah",
+      "prior_score": -7.7537,
+      "prior_variance": 0.614841,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Palanga",
-      "path": "europe/lithuania/palanga",
-      "prior_rank": 5428,
-      "prior_wins": 13,
-      "prior_n": 2
+      "title": "Abeche",
+      "path": "africa/chad/abeche",
+      "prior_score": -11.7456,
+      "prior_variance": 0.708768,
+      "prior_n": 3
     }
   ]
 }

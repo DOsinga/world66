@@ -1,0 +1,200 @@
+{
+  "round": 2431,
+  "timestamp": "2026-06-13T21:42:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cape Town",
+      "path": "africa/southafrica/capetown",
+      "prior_score": 13.9615,
+      "prior_variance": 0.545278,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Sarlat",
+      "path": "europe/france/midi/dordogne/sarlat",
+      "prior_score": 5.6137,
+      "prior_variance": 0.198117,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Nancy",
+      "path": "europe/france/east/lorraine/nancy",
+      "prior_score": 3.8917,
+      "prior_variance": 0.19937,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Nuwara Eliya",
+      "path": "asia/srilanka/nuwaraeliya",
+      "prior_score": 4.9875,
+      "prior_variance": 0.194801,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Pag Island",
+      "path": "europe/croatia/pag_island",
+      "prior_score": 2.9377,
+      "prior_variance": 0.197623,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Ayvalik",
+      "path": "asia/turkey/ayvalik",
+      "prior_score": 2.3497,
+      "prior_variance": 0.178511,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Malmo",
+      "path": "europe/sweden/malmo",
+      "prior_score": 1.4884,
+      "prior_variance": 0.145456,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Colorado National Monument",
+      "path": "northamerica/unitedstates/colorado/colorado_national_monument",
+      "prior_score": 4.2156,
+      "prior_variance": 0.192156,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Simatai",
+      "path": "asia/china/simatai",
+      "prior_score": 2.786,
+      "prior_variance": 0.176731,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Red Lodge",
+      "path": "northamerica/unitedstates/montana/redlodge",
+      "prior_score": -0.1613,
+      "prior_variance": 0.154832,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Montespertoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli",
+      "prior_score": -0.2028,
+      "prior_variance": 0.186344,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Soppong",
+      "path": "asia/thailand/soppong",
+      "prior_score": 0.8032,
+      "prior_variance": 0.160102,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Bjelasica",
+      "path": "europe/montenegro/bjelasica",
+      "prior_score": 0.635,
+      "prior_variance": 0.160724,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Rio Lagartos",
+      "path": "northamerica/mexico/yucatan/rio_lagartos",
+      "prior_score": 1.2526,
+      "prior_variance": 0.179491,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Kosrae",
+      "path": "australiaandpacific/micronesiafederatedstatesof/kosrae",
+      "prior_score": 0.2728,
+      "prior_variance": 0.21407,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Ma'in",
+      "path": "asia/jordan/main",
+      "prior_score": 0.9959,
+      "prior_variance": 0.171926,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Dangriga",
+      "path": "northamerica/belize/dangriga",
+      "prior_score": -1.0573,
+      "prior_variance": 0.165823,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Vila Real",
+      "path": "europe/portugal/algarve/vilareal",
+      "prior_score": -0.5851,
+      "prior_variance": 0.160804,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Virginia Beach",
+      "path": "northamerica/unitedstates/virginia/virginiabeach",
+      "prior_score": 1.7185,
+      "prior_variance": 0.163017,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Kotka",
+      "path": "europe/finland/kotka",
+      "prior_score": -1.7484,
+      "prior_variance": 0.187644,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Bhubaneswar",
+      "path": "asia/india/orissa/bhubaneswar",
+      "prior_score": 0.8421,
+      "prior_variance": 0.165031,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Coloma",
+      "path": "northamerica/unitedstates/california/goldcountry/coloma",
+      "prior_score": -1.3785,
+      "prior_variance": 0.186747,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Johnstown",
+      "path": "northamerica/unitedstates/pennsylvania/johnstown",
+      "prior_score": -4.7778,
+      "prior_variance": 0.211836,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/ohio/portsmouth",
+      "prior_score": -7.2583,
+      "prior_variance": 0.232851,
+      "prior_n": 7
+    }
+  ]
+}

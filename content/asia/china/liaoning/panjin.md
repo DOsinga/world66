@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Panjin
 title: Panjin
 type: location
+score: 0.35
 ---
 
 Panjin is an oil city built on a wetland delta, and its defining attraction is a geographic accident: every autumn, the vast reed marshes at the mouth of the Liaohe River turn a saturated crimson red, the colour coming from Suaeda salsa seaweed that stains the mudflats as the season turns. The [Red Beach Scenic Area](/asia/china/liaoning/panjin/red_beach_scenic_area) covers twenty square kilometres of this and is unlike anything else in China — a landscape that looks more like a colour-saturated photograph than a real place, set against the grey of the Bohai Sea.

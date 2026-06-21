@@ -1,0 +1,200 @@
+{
+  "round": 3512,
+  "timestamp": "2026-06-13T22:59:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Porec",
+      "path": "europe/croatia/porec",
+      "prior_score": 5.0204,
+      "prior_variance": 0.14264,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Gradac",
+      "path": "europe/croatia/makarskariviera/gradac",
+      "prior_score": 3.319,
+      "prior_variance": 0.121831,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Torremolinos",
+      "path": "europe/spain/andalucia/torremolinos",
+      "prior_score": 2.0929,
+      "prior_variance": 0.133874,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Truro",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/truro",
+      "prior_score": 0.9777,
+      "prior_variance": 0.123548,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Bude",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/bude",
+      "prior_score": 1.3776,
+      "prior_variance": 0.118897,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/rhodeisland/newport",
+      "prior_score": 3.6236,
+      "prior_variance": 0.127227,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Salt Cay",
+      "path": "northamerica/turksandcaicosislands/saltcay",
+      "prior_score": 2.5633,
+      "prior_variance": 0.158762,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Fort-de-France",
+      "path": "northamerica/thecaribbean/martinique/fortdefrance",
+      "prior_score": 2.792,
+      "prior_variance": 0.129166,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Praia do Forte",
+      "path": "southamerica/brazil/praia_do_forte",
+      "prior_score": 2.0785,
+      "prior_variance": 0.12374,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "South Padre Island",
+      "path": "northamerica/unitedstates/texas/southpadreisland",
+      "prior_score": 0.0678,
+      "prior_variance": 0.121997,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Russell",
+      "path": "australiaandpacific/newzealand/northland_1/russell",
+      "prior_score": 1.535,
+      "prior_variance": 0.113455,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Bod\u00f8",
+      "path": "europe/norway/bodo",
+      "prior_score": 2.2599,
+      "prior_variance": 0.149646,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Saariselk\u00e4",
+      "path": "europe/finland/saariselk",
+      "prior_score": 2.8885,
+      "prior_variance": 0.105998,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Veszpr\u00e9m",
+      "path": "europe/hungary/veszprem",
+      "prior_score": 1.1805,
+      "prior_variance": 0.109405,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Iloilo",
+      "path": "asia/philippines/iloilo",
+      "prior_score": 0.0867,
+      "prior_variance": 0.1303,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Qingcheng Mountain",
+      "path": "asia/china/sichuanprovince/qingchengshan",
+      "prior_score": 4.341,
+      "prior_variance": 0.134817,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Lushan",
+      "path": "asia/china/jiangxi/lushan",
+      "prior_score": 1.1477,
+      "prior_variance": 0.121643,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Papallacta",
+      "path": "southamerica/ecuador/papallacta",
+      "prior_score": 1.2794,
+      "prior_variance": 0.11632,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Sevanavank",
+      "path": "europe/armenia/sevanavank",
+      "prior_score": 1.629,
+      "prior_variance": 0.10523,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Turpan",
+      "path": "asia/china/xinjiangprovince/turpan",
+      "prior_score": -0.4168,
+      "prior_variance": 0.158844,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Karakul Lake",
+      "path": "asia/china/xinjiangprovince/karakullake",
+      "prior_score": 1.5882,
+      "prior_variance": 0.130755,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Karakorum",
+      "path": "asia/mongolia/karakorum",
+      "prior_score": 1.9794,
+      "prior_variance": 0.127791,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Narok Town",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr/naroktown",
+      "prior_score": 1.9865,
+      "prior_variance": 0.134647,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Kiffa",
+      "path": "africa/mauritania/kiffa",
+      "prior_score": -8.0335,
+      "prior_variance": 0.195329,
+      "prior_n": 11
+    }
+  ]
+}

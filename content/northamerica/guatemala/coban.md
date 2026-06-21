@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:GAG_1841.jpg
 latitude: 15.4667
 loc_type: city
 longitude: -90.3667
-score: 0.5
+score: 0.43
 title: Cobán
 type: location
 ---

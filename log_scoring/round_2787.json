@@ -1,0 +1,200 @@
+{
+  "round": 2787,
+  "timestamp": "2026-06-13T22:07:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bruges",
+      "path": "europe/belgium/bruges",
+      "prior_score": 10.5381,
+      "prior_variance": 0.294662,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Canmore",
+      "path": "northamerica/canada/alberta/canmore",
+      "prior_score": 5.5042,
+      "prior_variance": 0.166465,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Revelstoke",
+      "path": "northamerica/canada/britishcolumbia/revelstoke",
+      "prior_score": 4.1193,
+      "prior_variance": 0.1633,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Nevis",
+      "path": "northamerica/saintkittsandnevis/nevis",
+      "prior_score": 4.0092,
+      "prior_variance": 0.197741,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Brodick",
+      "path": "europe/unitedkingdom/scotland/arran/brodick",
+      "prior_score": 1.5851,
+      "prior_variance": 0.155268,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Ammoudia",
+      "path": "europe/greece/ammoudia",
+      "prior_score": 1.4328,
+      "prior_variance": 0.162826,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Los Gigantes",
+      "path": "europe/spain/spanishcostas/losgigantes",
+      "prior_score": 2.5513,
+      "prior_variance": 0.158072,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Rivers of the Doubs",
+      "path": "europe/france/east/franchecomte/fabulous_rivers",
+      "prior_score": 1.4329,
+      "prior_variance": 0.178488,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Sevanavank",
+      "path": "europe/armenia/sevanavank",
+      "prior_score": 1.6393,
+      "prior_variance": 0.142842,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Groveland",
+      "path": "northamerica/unitedstates/california/highsierra/groveland",
+      "prior_score": -0.8782,
+      "prior_variance": 0.199979,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Salou",
+      "path": "europe/spain/catalonia/salou",
+      "prior_score": 2.3336,
+      "prior_variance": 0.146745,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Le\u00f3n",
+      "path": "northamerica/nicaragua/len",
+      "prior_score": -0.249,
+      "prior_variance": 0.160193,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Majuli",
+      "path": "asia/india/assam/majuli",
+      "prior_score": 0.2807,
+      "prior_variance": 0.14243,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Nkhata Bay",
+      "path": "africa/malawi/nkhata_bay",
+      "prior_score": -0.2764,
+      "prior_variance": 0.133213,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Lemmer",
+      "path": "europe/netherlands/friesland/lemmer",
+      "prior_score": -1.697,
+      "prior_variance": 0.157805,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_score": -0.4341,
+      "prior_variance": 0.150454,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Banjamarsin",
+      "path": "asia/indonesia/kalimantan/banjamarsin",
+      "prior_score": -3.3032,
+      "prior_variance": 0.154278,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Mompiche",
+      "path": "southamerica/ecuador/mompiche",
+      "prior_score": -0.4276,
+      "prior_variance": 0.160954,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Tizi Ouzou",
+      "path": "africa/algeria/tiziouzou",
+      "prior_score": -3.5969,
+      "prior_variance": 0.15536,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Sint-Niklaas",
+      "path": "europe/belgium/sintniklaas",
+      "prior_score": -2.6344,
+      "prior_variance": 0.15566,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Banc d'Arguin National Park",
+      "path": "africa/mauritania/arguinbanknationalpark",
+      "prior_score": -2.1643,
+      "prior_variance": 0.229352,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Zubarah",
+      "path": "asia/qatar/zubara",
+      "prior_score": -2.3262,
+      "prior_variance": 0.155254,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Apollonia",
+      "path": "africa/libya/apollonia",
+      "prior_score": -1.8479,
+      "prior_variance": 0.185083,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Dongying",
+      "path": "asia/china/shandong_province/dongying",
+      "prior_score": -5.6793,
+      "prior_variance": 0.180583,
+      "prior_n": 8
+    }
+  ]
+}

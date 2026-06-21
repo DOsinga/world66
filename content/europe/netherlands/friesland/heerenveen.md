@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:21169_Heerenveen_Crackstat
 latitude: 52.998474
 loc_type: city
 longitude: 5.923149
-score: 0.41
+score: 0.35
 title: Heerenveen
 type: location
 ---

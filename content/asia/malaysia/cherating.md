@@ -6,7 +6,7 @@ latitude: 4.1265
 longitude: 103.3925
 title: Cherating
 type: location
-score: 0.5
+score: 0.43
 loc_type: city
 ---
 

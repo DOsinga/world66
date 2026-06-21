@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ARALAGUPPE_temple.jpg
 latitude: 13.340077
 loc_type: city
 longitude: 77.100621
-score: 0.3
+score: 0.26
 title: Tumkur
 type: location
 ---

@@ -1,199 +1,199 @@
 {
   "round": 368,
-  "timestamp": "2026-04-12T09:13:45",
+  "timestamp": "2026-06-13T19:31:55",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Hydra",
-      "path": "europe/greece/hydra",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Rock Islands",
+      "path": "australiaandpacific/palau/rockislands",
+      "prior_score": 15.7741,
+      "prior_variance": 6.994797,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Ryukyu islands",
-      "path": "asia/japan/ryukyuislands",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ishigaki Island",
+      "path": "asia/japan/ryukyuislands/ishigakiisland",
+      "prior_score": 14.4369,
+      "prior_variance": 7.48768,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Isla Mujeres",
-      "path": "northamerica/mexico/islamujeres",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Cabo San Lucas",
+      "path": "northamerica/mexico/cabosanlucas",
+      "prior_score": 9.0429,
+      "prior_variance": 2.079742,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "W\u00fcrzburg",
-      "path": "europe/germany/bavaria/wurzburg",
-      "prior_mu": 22.7774,
-      "prior_sigma": 5.9565,
+      "title": "Seward",
+      "path": "northamerica/unitedstates/alaska/seward",
+      "prior_score": 7.8332,
+      "prior_variance": 1.724116,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Solvang",
-      "path": "northamerica/unitedstates/california/centralcoast/solvang",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavalo",
+      "prior_score": 1.208,
+      "prior_variance": 1.457145,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Panama City",
-      "path": "northamerica/panama/panamacity",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "V\u00e6r\u00f8y",
+      "path": "europe/norway/lofotenislands/vaeroy",
+      "prior_score": 11.9827,
+      "prior_variance": 3.535704,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Aberystwyth",
-      "path": "europe/unitedkingdom/wales/aberystwyth",
-      "prior_mu": 22.7312,
-      "prior_sigma": 5.9509,
+      "title": "Canazei",
+      "path": "europe/italy/trentinoaltoadige/val_di_fassa/canazei",
+      "prior_score": 8.7451,
+      "prior_variance": 1.894622,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Uwajima",
-      "path": "asia/japan/shikoku/uwajima",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/north_island/northland/titikakapoor_knig",
+      "prior_score": 6.0783,
+      "prior_variance": 1.577267,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Anzio",
-      "path": "europe/italy/lazio/anzio",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Little Cayman",
+      "path": "northamerica/thecaribbean/caymanislands/littlecayman",
+      "prior_score": 8.4678,
+      "prior_variance": 1.820501,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Valle de Elqui",
-      "path": "southamerica/chile/valle_de_elqui",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Santiago",
+      "path": "southamerica/chile/santiago",
+      "prior_score": 5.4106,
+      "prior_variance": 2.034052,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Porto Seguro",
-      "path": "southamerica/brazil/portoseguro",
-      "prior_mu": 22.0782,
-      "prior_sigma": 4.704,
-      "prior_n": 2
+      "title": "Safranbolu",
+      "path": "asia/turkey/safranbolu",
+      "prior_score": 6.9317,
+      "prior_variance": 3.155886,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Manado",
-      "path": "asia/indonesia/sulawesi/manado",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Genoa",
+      "path": "europe/italy/liguria/genoa",
+      "prior_score": 11.0782,
+      "prior_variance": 3.826452,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Mae Sariang",
-      "path": "asia/thailand/maehongson/mae_sariang",
-      "prior_mu": 22.7229,
-      "prior_sigma": 5.9499,
+      "title": "Ptuj",
+      "path": "europe/slovenia/ptuj",
+      "prior_score": 9.0739,
+      "prior_variance": 2.296343,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Shigatse",
-      "path": "asia/china/tibet/shigatse",
-      "prior_mu": 23.0729,
-      "prior_sigma": 5.994,
+      "title": "Ars-en-R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
+      "prior_score": 8.8319,
+      "prior_variance": 2.559396,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Punta Gorda",
-      "path": "northamerica/belize/puntagorda",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Sozopol",
+      "path": "europe/bulgaria/sozopol",
+      "prior_score": 4.5783,
+      "prior_variance": 1.548534,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Sihanoukville",
-      "path": "asia/cambodia/sihanoukville",
-      "prior_mu": 22.7223,
-      "prior_sigma": 5.9498,
+      "title": "Kaifeng",
+      "path": "asia/china/henan_province/kaifeng",
+      "prior_score": 2.2473,
+      "prior_variance": 1.560992,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Dunkerque",
-      "path": "europe/france/nord/dunkerque",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Simatai",
+      "path": "asia/china/simatai",
+      "prior_score": 8.8477,
+      "prior_variance": 2.019448,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Ban Lung",
-      "path": "asia/cambodia/ratanakiriprovince/banlung",
-      "prior_mu": 22.2742,
-      "prior_sigma": 5.7836,
+      "title": "Great Zimbabwe",
+      "path": "africa/zimbabwe/greatzimbabwe",
+      "prior_score": 7.7578,
+      "prior_variance": 2.282264,
       "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Kampala",
-      "path": "africa/uganda/kampala",
-      "prior_mu": 21.9742,
-      "prior_sigma": 5.5545,
+      "title": "Qui Nhon",
+      "path": "asia/vietnam/qui_nhon",
+      "prior_score": 4.4486,
+      "prior_variance": 2.124346,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Debe",
-      "path": "northamerica/trinidadandtobago/debe",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Alice Springs",
+      "path": "australiaandpacific/australia/northernterritory/alicesprings",
+      "prior_score": 7.3394,
+      "prior_variance": 2.539202,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Raipur",
-      "path": "asia/india/madhyapradesh/raipur",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Frascati",
+      "path": "europe/italy/lazio/frascati",
+      "prior_score": 6.9303,
+      "prior_variance": 1.845244,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Lobito",
-      "path": "africa/angola/lobito",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bitola",
+      "path": "europe/macedonia/bitola",
+      "prior_score": 1.039,
+      "prior_variance": 1.641224,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Jenin",
-      "path": "asia/palestinianauthority/jenin",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Dehang",
+      "path": "asia/china/hunan/dehang",
+      "prior_score": 4.0974,
+      "prior_variance": 1.757321,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Hadjer Hadid",
-      "path": "africa/chad/hadjer_hadid",
-      "prior_mu": 22.6205,
-      "prior_sigma": 5.9361,
+      "title": "Baden bei Wien",
+      "path": "europe/austria/baden",
+      "prior_score": 3.2574,
+      "prior_variance": 1.754929,
       "prior_n": 1
     }
   ]

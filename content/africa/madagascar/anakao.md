@@ -5,7 +5,7 @@ done:
 latitude: -23.658058
 loc_type: city
 longitude: 43.646858
-score: 0.48
+score: 0.41
 title: Anakao
 type: location
 ---

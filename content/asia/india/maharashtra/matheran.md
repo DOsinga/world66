@@ -5,7 +5,7 @@ done:
 latitude: 18.9902
 loc_type: city
 longitude: 73.27
-score: 0.52
+score: 0.44
 title: Matheran
 type: location
 ---

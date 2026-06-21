@@ -5,7 +5,7 @@ done:
   location_enrich: '2026-06-03'
 latitude: 38.913
 longitude: 121.6098
-score: 0.5
+score: 0.41
 title: Dalian
 type: location
 loc_type: city

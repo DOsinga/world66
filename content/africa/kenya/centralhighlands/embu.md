@@ -5,7 +5,7 @@ done:
 latitude: -0.5359
 loc_type: city
 longitude: 37.6653
-score: 0.37
+score: 0.32
 title: Embu
 type: location
 image: embu.jpg

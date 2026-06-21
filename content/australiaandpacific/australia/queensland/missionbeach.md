@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_at_Mission_Beach,_Qu
 latitude: -17.867234
 loc_type: city
 longitude: 146.107178
-score: 0.56
+score: 0.46
 title: Mission Beach
 type: location
 ---

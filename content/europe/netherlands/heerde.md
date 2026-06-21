@@ -10,7 +10,7 @@ latitude: 52.4056
 longitude: 6.0414
 title: Heerde
 type: location
-score: 0.39
+score: 0.31
 loc_type: city
 ---
 

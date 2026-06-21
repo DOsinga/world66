@@ -7,7 +7,7 @@ done:
 latitude: 48.3069
 loc_type: city
 longitude: 14.2858
-score: 0.6
+score: 0.52
 title: Linz
 type: location
 ---

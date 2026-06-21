@@ -1,0 +1,200 @@
+{
+  "round": 3132,
+  "timestamp": "2026-06-13T22:31:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/milfordsound",
+      "prior_score": 12.8879,
+      "prior_variance": 0.412213,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Tengger Massif",
+      "path": "asia/indonesia/tengger_massif",
+      "prior_score": 4.2638,
+      "prior_variance": 0.20791,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Tinos",
+      "path": "europe/greece/tinos",
+      "prior_score": 4.6776,
+      "prior_variance": 0.14309,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Montepulciano",
+      "path": "europe/italy/tuscany/montepulciano",
+      "prior_score": 6.3875,
+      "prior_variance": 0.200789,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Sirmione",
+      "path": "europe/italy/lombardia/lagodigarda/sirmione",
+      "prior_score": 7.0324,
+      "prior_variance": 0.203869,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_score": 3.3749,
+      "prior_variance": 0.137119,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Saint-Jean-de-Luz",
+      "path": "europe/france/midi/basqueregion/stjeandeluz",
+      "prior_score": 5.0778,
+      "prior_variance": 0.128701,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Sidi bou said",
+      "path": "africa/tunisia/sidibousaid",
+      "prior_score": 4.4763,
+      "prior_variance": 0.145828,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Lake Naivasha",
+      "path": "africa/kenya/lakes/lakenaivasha",
+      "prior_score": 3.0103,
+      "prior_variance": 0.153609,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Shakhrisabz",
+      "path": "asia/uzbekistan/shakhrisabz",
+      "prior_score": 1.4435,
+      "prior_variance": 0.151677,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Grande-Terre",
+      "path": "northamerica/thecaribbean/guadeloupe/grandeterre",
+      "prior_score": 4.2991,
+      "prior_variance": 0.138899,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Chantilly",
+      "path": "europe/france/nord/chantilly",
+      "prior_score": 2.5045,
+      "prior_variance": 0.190102,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Goslar",
+      "path": "europe/germany/lowersaxony/goslar",
+      "prior_score": 3.7461,
+      "prior_variance": 0.144405,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Dijon",
+      "path": "europe/france/east/burgundy/dijon",
+      "prior_score": 4.3853,
+      "prior_variance": 0.163454,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Trento",
+      "path": "europe/italy/trentinoaltoadige/trento",
+      "prior_score": 4.7045,
+      "prior_variance": 0.1319,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/theazores/so_miguel/ponta_delgada",
+      "prior_score": 5.1743,
+      "prior_variance": 0.150451,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Modena",
+      "path": "europe/italy/emiliaromagna/modena",
+      "prior_score": 4.333,
+      "prior_variance": 0.17822,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Formentera",
+      "path": "europe/spain/balearicislands/formentera",
+      "prior_score": 7.0254,
+      "prior_variance": 0.200188,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Sant Feliu de Gu\u00edxols",
+      "path": "europe/spain/catalonia/sant_feliu_de_guixols",
+      "prior_score": 2.928,
+      "prior_variance": 0.139489,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Montpellier",
+      "path": "europe/france/midi/languedoc/montpellier",
+      "prior_score": 3.9383,
+      "prior_variance": 0.128924,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Falmouth",
+      "path": "northamerica/jamaica/falmouth",
+      "prior_score": 1.7284,
+      "prior_variance": 0.134271,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Dien Bien Phu",
+      "path": "asia/vietnam/dienbienphu",
+      "prior_score": -1.0189,
+      "prior_variance": 0.162893,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Rimini",
+      "path": "europe/italy/emiliaromagna/rimini",
+      "prior_score": 4.7219,
+      "prior_variance": 0.148708,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Zottegem",
+      "path": "europe/belgium/zottegem",
+      "prior_score": -3.9675,
+      "prior_variance": 0.123898,
+      "prior_n": 11
+    }
+  ]
+}

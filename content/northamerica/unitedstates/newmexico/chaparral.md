@@ -5,7 +5,7 @@ done:
 latitude: 32.0239
 loc_type: city
 longitude: -106.409
-score: 0.27
+score: 0.19
 title: Chaparral
 type: location
 ---

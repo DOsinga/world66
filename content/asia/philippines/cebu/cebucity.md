@@ -6,7 +6,7 @@ done:
 latitude: 10.3157
 loc_type: city
 longitude: 123.8854
-score: 0.63
+score: 0.5
 title: Cebu City
 type: location
 ---

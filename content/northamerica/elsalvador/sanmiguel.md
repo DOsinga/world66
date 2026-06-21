@@ -6,10 +6,10 @@ latitude: 13.4833
 longitude: -88.1833
 title: San Miguel
 type: location
-score: 0.34
+score: 0.27
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/San_Miguel,_El_Salvador
+- https://en.wikipedia.org/wiki/San_Miguel,_El_Salvador
 ---
 
 San Miguel is El Salvador's third-largest city, set in the hot eastern lowlands about 140 km from [San Salvador](/northamerica/elsalvador/sansalvador). It is the commercial capital of eastern El Salvador — a working city of around 250,000 people that functions as the main transit hub for the region. Most travelers pass through, but there is more here than the transit stop reputation suggests.

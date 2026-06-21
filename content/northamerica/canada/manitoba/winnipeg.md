@@ -6,14 +6,14 @@ done:
   location_enrich: '2026-06-01'
 latitude: 49.895537
 longitude: -97.138458
-score: 0.4
+score: 0.36
 title: Winnipeg
 type: location
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Winnipeg
-  - https://en.wikipedia.org/wiki/Exchange_District
-  - https://en.wikipedia.org/wiki/Canadian_Museum_for_Human_Rights
+- https://en.wikipedia.org/wiki/Winnipeg
+- https://en.wikipedia.org/wiki/Exchange_District
+- https://en.wikipedia.org/wiki/Canadian_Museum_for_Human_Rights
 ---
 
 Winnipeg sits almost exactly at the longitudinal centre of North America, at the confluence of the Red and Assiniboine Rivers — a meeting place used by Indigenous peoples for at least six thousand years before the Hudson's Bay Company built Fort Gibraltar nearby in 1738. Today it is the capital of Manitoba, a prairie city of 750,000, and the point where the Canadian Shield meets the Great Plains.

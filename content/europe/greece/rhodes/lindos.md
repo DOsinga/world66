@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lindos,_Rhodes,_Greece.jpg
 latitude: 36.0916
 loc_type: city
 longitude: 28.0855
-score: 0.75
+score: 0.66
 title: Lindos
 type: location
 ---

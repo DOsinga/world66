@@ -9,7 +9,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Plaza_of_the_Seven_Temples,_Tikal_10.jpg
 latitude: 17.222
 longitude: -89.6237
-score: 0.73
+score: 0.65
 title: Tikal
 type: location
 loc_type: feature

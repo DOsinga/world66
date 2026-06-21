@@ -5,7 +5,7 @@ latitude: 25.729427
 longitude: 32.65945
 title: Karnak
 type: location
-score: 0.7
+score: 0.65
 loc_type: feature
 ---
 

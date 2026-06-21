@@ -4,7 +4,7 @@ done:
 latitude: 34.3845
 loc_type: city
 longitude: -118.531
-score: 0.34
+score: 0.28
 title: Newhall
 type: location
 ---

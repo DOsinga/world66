@@ -7,7 +7,7 @@ done:
 latitude: 58.521
 loc_type: city
 longitude: 31.2756
-score: 0.46
+score: 0.42
 title: Novgorod
 type: location
 image: novgorod.jpg

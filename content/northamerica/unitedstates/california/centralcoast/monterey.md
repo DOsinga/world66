@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Santa_Catalina_School,_Mon
 latitude: 36.6002
 loc_type: city
 longitude: -121.8947
-score: 0.65
+score: 0.59
 title: Monterey
 type: location
 ---

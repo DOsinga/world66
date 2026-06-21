@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arkansas_State_Capitol_1.j
 latitude: 34.746507
 loc_type: city
 longitude: -92.289627
-score: 0.39
+score: 0.32
 title: Little Rock
 type: location
 ---

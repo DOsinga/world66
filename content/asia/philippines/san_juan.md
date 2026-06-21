@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:01793jfMuseo_Katipunan_Pin
 latitude: 14.6044
 loc_type: city
 longitude: 121.0299
-score: 0.36
+score: 0.29
 title: San Juan
 type: location
 ---

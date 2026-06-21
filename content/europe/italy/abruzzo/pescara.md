@@ -4,7 +4,7 @@ done:
 latitude: 42.461
 loc_type: city
 longitude: 14.2158
-score: 0.51
+score: 0.45
 title: Pescara
 todo_location_cleanup: done
 type: location

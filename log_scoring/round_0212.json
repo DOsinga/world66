@@ -1,199 +1,199 @@
 {
   "round": 212,
-  "timestamp": "2026-04-12T09:07:06",
+  "timestamp": "2026-06-13T19:24:40",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Capri",
-      "path": "europe/italy/campania/capri",
-      "prior_mu": 23.615,
-      "prior_sigma": 6.0689,
-      "prior_n": 1
+      "title": "Cancun",
+      "path": "northamerica/mexico/cancun",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Manarola",
-      "path": "europe/italy/liguria/manarola",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2992,
-      "prior_n": 1
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/south_east/oxford",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Copenhagen",
-      "path": "europe/denmark/copenhagen",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Windsor",
+      "path": "europe/unitedkingdom/england/south_east/windsor",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Trogir",
-      "path": "europe/croatia/trogir",
-      "prior_mu": 26.215,
-      "prior_sigma": 5.5262,
-      "prior_n": 2
+      "title": "Puerto de la Cruz",
+      "path": "europe/spain/canaryislands/tenerife/puertodelacruz",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Lago di Garda",
-      "path": "europe/italy/lombardia/lagodigarda",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Dublin",
-      "path": "europe/ireland/dublin",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Wuyuan",
+      "path": "asia/china/jiangxi/wuyuan",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Bratislava",
-      "path": "europe/slovakia/bratislava",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Houston",
+      "path": "northamerica/unitedstates/texas/houston",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Colorado Springs",
-      "path": "northamerica/unitedstates/colorado/coloradosprings",
-      "prior_mu": 22.7774,
-      "prior_sigma": 5.9565,
-      "prior_n": 1
+      "title": "Calistoga",
+      "path": "northamerica/unitedstates/california/calistoga",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Lourdes",
-      "path": "europe/france/midi/pyrenees/lourdes",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Tulsa",
+      "path": "northamerica/unitedstates/oklahoma/tulsa",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Estepona",
-      "path": "europe/spain/andalucia/estepona",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "York",
+      "path": "northamerica/unitedstates/pennsylvania/york",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Esperance",
-      "path": "australiaandpacific/australia/westernaustralia/esperance",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Hasti\u00e8re",
+      "path": "europe/belgium/hastiere",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Mihintale",
-      "path": "asia/srilanka/mihintale",
-      "prior_mu": 22.7228,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Whiting Bay",
+      "path": "europe/unitedkingdom/scotland/arran/whiting_bay",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Kedarnath",
-      "path": "asia/india/uttaranchal/kedarnath",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Chisinau",
+      "path": "europe/moldova/chisinau",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Marche",
-      "path": "europe/italy/marche",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Ashtarak",
+      "path": "europe/armenia/aragatsotn_marz/ashtarak",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Cerveteri",
-      "path": "europe/italy/lazio/cerveteri",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Velika Gorica",
+      "path": "europe/croatia/velikagorica",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Manchester",
-      "path": "europe/unitedkingdom/england/manchester_liverp/manchester",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Skerries",
-      "path": "europe/ireland/dublin/skerries",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Rizhao",
+      "path": "asia/china/shandong_province/rizhao",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Legazpi",
-      "path": "europe/spain/northernspain/legazpi",
-      "prior_mu": 22.1558,
-      "prior_sigma": 5.7616,
-      "prior_n": 1
+      "title": "Rajkot",
+      "path": "asia/india/gujarat/rajkot",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Mangalore",
-      "path": "asia/india/karnataka/konkan_coast/mangalore",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Taunggyi",
+      "path": "asia/myanmar/taunggyi",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Pereira",
-      "path": "southamerica/colombia/pereira",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Choluteca",
+      "path": "northamerica/honduras/choluteca",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Landau",
-      "path": "europe/germany/rhinelandpalatinate/landau",
-      "prior_mu": 22.7184,
-      "prior_sigma": 5.9494,
-      "prior_n": 1
+      "title": "Bartica",
+      "path": "southamerica/guyana/bartica",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Yea",
-      "path": "australiaandpacific/australia/victoria/yea",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Bhagalpur",
+      "path": "asia/india/bihar/bhagalpur",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Zacapu",
-      "path": "northamerica/mexico/yucatan/zacapu",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Tanjay",
+      "path": "asia/philippines/negrosisland/tanjay",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Guinea",
-      "path": "africa/guineeconakry",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "In Salah",
+      "path": "africa/algeria/insalah",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     }
   ]

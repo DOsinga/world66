@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brahma_Sarovar_Kurukshetra
 latitude: 29.969375
 loc_type: city
 longitude: 76.848279
-score: 0.47
+score: 0.39
 title: Kurukshetra
 type: location
 ---

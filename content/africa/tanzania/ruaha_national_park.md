@@ -5,7 +5,7 @@ latitude: -7.801654
 longitude: 34.373008
 title: Ruaha National Park
 type: location
-score: 0.63
+score: 0.56
 loc_type: feature
 ---
 

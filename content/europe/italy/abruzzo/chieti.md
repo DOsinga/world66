@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chieti_2008_by-RaBoe_001.j
 latitude: 42.35
 loc_type: city
 longitude: 14.1667
-score: 0.46
+score: 0.38
 title: Chieti
 type: location
 ---

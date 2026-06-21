@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Waterfalls_in_Ricketts_Gle
 latitude: 41.190833
 loc_type: city
 longitude: -76.383333
-score: 0.31
+score: 0.21
 title: Benton
 type: location
 ---

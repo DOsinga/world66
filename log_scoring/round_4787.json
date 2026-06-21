@@ -1,0 +1,200 @@
+{
+  "round": 4787,
+  "timestamp": "2026-06-14T00:41:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_score": 6.2011,
+      "prior_variance": 0.099075,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Monta\u00f1ita",
+      "path": "southamerica/ecuador/montanita",
+      "prior_score": 1.3486,
+      "prior_variance": 0.092524,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Acitrezza",
+      "path": "europe/italy/sicily/acitrezza",
+      "prior_score": 2.5411,
+      "prior_variance": 0.084602,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Scalea",
+      "path": "europe/italy/calabria/scalea",
+      "prior_score": 0.7872,
+      "prior_variance": 0.08101,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Simmental",
+      "path": "europe/switzerland/simmental",
+      "prior_score": 1.5813,
+      "prior_variance": 0.088006,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Bishop",
+      "path": "northamerica/unitedstates/california/highsierra/bishop",
+      "prior_score": 1.0737,
+      "prior_variance": 0.090949,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Buena Vista",
+      "path": "northamerica/unitedstates/colorado/buenavista",
+      "prior_score": 0.345,
+      "prior_variance": 0.092863,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Red Lodge",
+      "path": "northamerica/unitedstates/montana/redlodge",
+      "prior_score": -0.1405,
+      "prior_variance": 0.082959,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Handa Island",
+      "path": "europe/unitedkingdom/scotland/handa_island",
+      "prior_score": -1.3051,
+      "prior_variance": 0.145118,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Chonju",
+      "path": "asia/southkorea/chonju",
+      "prior_score": 0.5151,
+      "prior_variance": 0.093485,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "George",
+      "path": "africa/southafrica/gardenroute/george",
+      "prior_score": 0.2635,
+      "prior_variance": 0.087564,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Bellingham",
+      "path": "northamerica/unitedstates/washington/bellingham",
+      "prior_score": -0.3694,
+      "prior_variance": 0.091458,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Greymouth",
+      "path": "australiaandpacific/newzealand/greymouth",
+      "prior_score": -1.0273,
+      "prior_variance": 0.08383,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Curepipe",
+      "path": "africa/mauritius/curepipe",
+      "prior_score": -1.1118,
+      "prior_variance": 0.087883,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Beverly",
+      "path": "northamerica/unitedstates/massachusetts/beverly",
+      "prior_score": -2.3687,
+      "prior_variance": 0.098461,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Bardineto",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bardineto",
+      "prior_score": -1.5237,
+      "prior_variance": 0.108595,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Montescaglioso",
+      "path": "europe/italy/basilicata/montescaglioso",
+      "prior_score": -1.4015,
+      "prior_variance": 0.099894,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Dededo",
+      "path": "australiaandpacific/guam/dededo",
+      "prior_score": -3.6795,
+      "prior_variance": 0.110534,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Marktl am Inn",
+      "path": "europe/germany/bavaria/marktl_am_inn",
+      "prior_score": -1.9207,
+      "prior_variance": 0.09784,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Meaux",
+      "path": "europe/france/around_paris/meaux",
+      "prior_score": -2.5843,
+      "prior_variance": 0.107898,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Chemnitz",
+      "path": "europe/germany/saxony/chemnitz",
+      "prior_score": -1.9624,
+      "prior_variance": 0.098741,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Shenyang",
+      "path": "asia/china/liaoning/shenyang",
+      "prior_score": -2.4575,
+      "prior_variance": 0.081218,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanjose",
+      "prior_score": -2.6596,
+      "prior_variance": 0.104204,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Harper",
+      "path": "africa/liberia/harper",
+      "prior_score": -6.1296,
+      "prior_variance": 0.112076,
+      "prior_n": 15
+    }
+  ]
+}

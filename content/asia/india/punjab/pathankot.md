@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dhar_Kalan,_Pathankot_view
 latitude: 32.3022
 loc_type: city
 longitude: 75.6589
-score: 0.35
+score: 0.29
 sources:
 - https://en.wikipedia.org/wiki/Pathankot
 - https://en.wikipedia.org/wiki/Kangra_Valley_Railway

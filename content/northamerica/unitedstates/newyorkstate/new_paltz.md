@@ -4,7 +4,7 @@ done:
 latitude: 41.746497
 loc_type: city
 longitude: -74.084489
-score: 0.52
+score: 0.45
 sources:
 - https://en.wikipedia.org/wiki/New_Paltz_(village),_New_York
 - https://en.wikipedia.org/wiki/Huguenot_Street_Historic_District

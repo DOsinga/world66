@@ -1,0 +1,200 @@
+{
+  "round": 2983,
+  "timestamp": "2026-06-13T22:20:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Athens",
+      "path": "europe/greece/athens",
+      "prior_score": 10.8307,
+      "prior_variance": 0.318564,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/santiago_de_compostela",
+      "prior_score": 8.1504,
+      "prior_variance": 0.19925,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Bordeaux",
+      "path": "europe/france/aquitaine/bordeaux",
+      "prior_score": 7.2596,
+      "prior_variance": 0.170024,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Zurich",
+      "path": "europe/switzerland/zurich",
+      "prior_score": 8.4153,
+      "prior_variance": 0.215188,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Ushuaia",
+      "path": "southamerica/argentina/patagonia/ushuaia",
+      "prior_score": 7.7729,
+      "prior_variance": 0.220044,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Salta",
+      "path": "southamerica/argentina/salta",
+      "prior_score": 4.7204,
+      "prior_variance": 0.134805,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Whitby",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/whitby",
+      "prior_score": 3.8485,
+      "prior_variance": 0.15089,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Winchester",
+      "path": "europe/unitedkingdom/england/south_east/winchester",
+      "prior_score": 2.4605,
+      "prior_variance": 0.147059,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Caceres",
+      "path": "europe/spain/extremadura/caceres",
+      "prior_score": 4.0215,
+      "prior_variance": 0.164835,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Novi Sad",
+      "path": "europe/serbia/novisad",
+      "prior_score": 3.0829,
+      "prior_variance": 0.153996,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_score": 3.48,
+      "prior_variance": 0.141312,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Gjogv",
+      "path": "europe/faroeislands/eysturoy/gjogv",
+      "prior_score": 3.8882,
+      "prior_variance": 0.194023,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Nurburgring",
+      "path": "europe/germany/rhinelandpalatinate/nurburgring",
+      "prior_score": 1.2134,
+      "prior_variance": 0.134124,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Fribourg",
+      "path": "europe/switzerland/fribourg",
+      "prior_score": 3.2602,
+      "prior_variance": 0.17454,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Bimini",
+      "path": "northamerica/bahamas/bimini",
+      "prior_score": 3.2917,
+      "prior_variance": 0.1349,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Organ Pipe Cactus National Monument",
+      "path": "northamerica/unitedstates/arizona/organ_pipe_cactus_national_monument",
+      "prior_score": 0.7709,
+      "prior_variance": 0.128958,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/ajijic",
+      "prior_score": 2.1085,
+      "prior_variance": 0.14135,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Coober Pedy",
+      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
+      "prior_score": 0.137,
+      "prior_variance": 0.169061,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Vwaza Marsh Game Reserve",
+      "path": "africa/malawi/vwaza",
+      "prior_score": -1.002,
+      "prior_variance": 0.19754,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "\u00dcr\u00fcmqi",
+      "path": "asia/china/xinjiangprovince/urumqi",
+      "prior_score": -1.4036,
+      "prior_variance": 0.144515,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Bridgton",
+      "path": "northamerica/unitedstates/maine/bridgton",
+      "prior_score": -1.3027,
+      "prior_variance": 0.135003,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Amstelveen",
+      "path": "europe/netherlands/amstelveen",
+      "prior_score": -3.681,
+      "prior_variance": 0.20915,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Keningau",
+      "path": "asia/malaysia/keningau",
+      "prior_score": -3.6973,
+      "prior_variance": 0.131986,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_score": -7.9568,
+      "prior_variance": 0.280909,
+      "prior_n": 9
+    }
+  ]
+}

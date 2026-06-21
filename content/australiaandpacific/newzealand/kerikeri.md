@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Stone_Store_and_Kemp_House
 latitude: -35.227261
 loc_type: city
 longitude: 173.949106
-score: 0.54
+score: 0.47
 title: Kerikeri
 type: location
 ---

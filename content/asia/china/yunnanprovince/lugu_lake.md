@@ -5,7 +5,7 @@ latitude: 27.706341
 longitude: 100.789629
 title: Lugu Lake
 type: location
-score: 0.57
+score: 0.52
 loc_type: feature
 ---
 

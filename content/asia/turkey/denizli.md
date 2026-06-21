@@ -11,6 +11,7 @@ loc_type: city
 longitude: 29.0864
 title: Denizli
 type: location
+score: 0.42
 ---
 
 Denizli is a mid-sized Turkish city in the Aegean interior, known primarily as the base for visiting two extraordinary ancient sites. [Pamukkale](/asia/turkey/denizli/pamukkale), with its white travertine terraces and the ruins of [Hierapolis](/asia/turkey/denizli/hierapolis) above them, is about 20 km north of town and draws the crowds. But the real prize for anyone interested in Roman antiquity is [Aphrodisias](/asia/turkey/denizli/aphrodisias), about 100 km to the west — one of Turkey's best-preserved and least-visited ancient cities. Closer to home, the active excavation at [Laodicea on the Lycus](/asia/turkey/denizli/laodicea) is well worth an afternoon.

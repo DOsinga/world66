@@ -5,7 +5,7 @@ latitude: 48.635954
 longitude: -1.51146
 title: Mont-Saint-Michel
 type: location
-score: 0.82
+score: 0.73
 image: montsaintmichel.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bridge_to_Mont_St_Michel_(2).jpg
 image_license: CC BY-SA 4.0

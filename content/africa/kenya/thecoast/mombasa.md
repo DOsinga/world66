@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fort_Jesus,_Mombasa,_Kenya
 latitude: -4.05052
 loc_type: city
 longitude: 39.667169
-score: 0.62
+score: 0.51
 title: Mombasa
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bayeux_centre.jpg
 latitude: 49.2765
 loc_type: city
 longitude: -0.7025
-score: 0.62
+score: 0.58
 sources:
 - https://en.wikipedia.org/wiki/Bayeux
 - https://en.wikipedia.org/wiki/Bayeux_Tapestry

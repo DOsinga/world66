@@ -5,7 +5,7 @@ done:
 latitude: 33.980008
 loc_type: city
 longitude: 73.773788
-score: 0.31
+score: 0.24
 sources:
 - https://en.wikipedia.org/wiki/Bagh_District
 title: Bagh

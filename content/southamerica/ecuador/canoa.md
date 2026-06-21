@@ -5,7 +5,7 @@ done:
 latitude: -0.46255
 loc_type: city
 longitude: -80.455838
-score: 0.49
+score: 0.39
 title: Canoa
 type: location
 ---

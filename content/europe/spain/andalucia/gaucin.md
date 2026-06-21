@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gauc%C3%ADn,_Spain.jpg
 latitude: 36.519238
 loc_type: city
 longitude: -5.317754
-score: 0.57
+score: 0.46
 title: Gaucin
 type: location
 ---

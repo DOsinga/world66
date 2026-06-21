@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Anaheim-streetbanners-duck
 latitude: 33.8348
 loc_type: city
 longitude: -117.9117
-score: 0.47
+score: 0.43
 title: Anaheim
 type: location
 ---

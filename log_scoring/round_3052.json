@@ -1,0 +1,200 @@
+{
+  "round": 3052,
+  "timestamp": "2026-06-13T22:25:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bellingham",
+      "path": "northamerica/unitedstates/washington/bellingham",
+      "prior_score": -0.4794,
+      "prior_variance": 0.152831,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "New Brunswick",
+      "path": "northamerica/unitedstates/newjersey/newbrunswick",
+      "prior_score": -4.2542,
+      "prior_variance": 0.190936,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Port Clinton",
+      "path": "northamerica/unitedstates/ohio/port_clinton",
+      "prior_score": -3.7089,
+      "prior_variance": 0.146501,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Redlands",
+      "path": "northamerica/unitedstates/california/inlandempire/redlands",
+      "prior_score": -3.8854,
+      "prior_variance": 0.145166,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/loughborough",
+      "prior_score": -3.3299,
+      "prior_variance": 0.173026,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Reading",
+      "path": "europe/unitedkingdom/england/south_east/reading",
+      "prior_score": -5.1965,
+      "prior_variance": 0.204369,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Fort Smith",
+      "path": "northamerica/canada/northwestterritories/fort_smith",
+      "prior_score": -3.6125,
+      "prior_variance": 0.136606,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Salmiya",
+      "path": "asia/kuwait/salmiya",
+      "prior_score": -4.3787,
+      "prior_variance": 0.153207,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Borongan",
+      "path": "asia/philippines/samarisland/borongan",
+      "prior_score": -3.726,
+      "prior_variance": 0.131807,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Ibadan",
+      "path": "africa/nigeria/ibadan",
+      "prior_score": -4.2149,
+      "prior_variance": 0.141653,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Kakamega",
+      "path": "africa/kenya/westernkenya/kakamega",
+      "prior_score": -4.1323,
+      "prior_variance": 0.151374,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Vengurla",
+      "path": "asia/india/maharashtra/vengurla",
+      "prior_score": -4.3196,
+      "prior_variance": 0.174551,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Moirang",
+      "path": "asia/india/manipur/moirang",
+      "prior_score": -4.6543,
+      "prior_variance": 0.155008,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Ukhrul",
+      "path": "asia/india/manipur/ukhrul",
+      "prior_score": -4.8491,
+      "prior_variance": 0.151599,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Yancheng",
+      "path": "asia/china/jiangsu_province/yancheng",
+      "prior_score": -4.6539,
+      "prior_variance": 0.140655,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Zibo",
+      "path": "asia/china/shandong_province/zibo",
+      "prior_score": -4.3201,
+      "prior_variance": 0.131108,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Depok",
+      "path": "asia/indonesia/java/depok",
+      "prior_score": -5.1357,
+      "prior_variance": 0.159306,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Ghanzi",
+      "path": "africa/botswana/ghanzi",
+      "prior_score": -5.3818,
+      "prior_variance": 0.219546,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Metlaoui",
+      "path": "africa/tunisia/metlaoui",
+      "prior_score": -4.5762,
+      "prior_variance": 0.148762,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Aska",
+      "path": "asia/india/orissa/aska",
+      "prior_score": -6.3139,
+      "prior_variance": 0.166419,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Van Buren",
+      "path": "northamerica/unitedstates/arkansas/van_buren",
+      "prior_score": -5.3934,
+      "prior_variance": 0.164095,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Nguigmi",
+      "path": "africa/niger/nguigmi",
+      "prior_score": -8.6942,
+      "prior_variance": 0.255523,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Mykolaiv",
+      "path": "europe/ukraine/nikolaev",
+      "prior_score": -7.1453,
+      "prior_variance": 0.349621,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_score": -11.5566,
+      "prior_variance": 0.391672,
+      "prior_n": 9
+    }
+  ]
+}

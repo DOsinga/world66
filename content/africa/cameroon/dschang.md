@@ -6,7 +6,7 @@ latitude: 5.446992
 longitude: 10.053309
 title: Dschang
 type: location
-score: 0.38
+score: 0.31
 loc_type: city
 image: dschang.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Dschang_Le_Centre_climatique.jpg

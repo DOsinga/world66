@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Monument_of_martyr.jpg
 latitude: 33.30617
 loc_type: city
 longitude: 44.387221
-score: 0.2
+score: 0.13
 title: Baghdad
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Allan_Jay_Quesada_-_Vigan_
 latitude: 17.5755
 loc_type: city
 longitude: 120.3873
-score: 0.6
+score: 0.53
 title: Vigan
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 36.880132
 loc_type: city
 longitude: 6.907736
-score: 0.31
+score: 0.26
 title: Skikda
 type: location
 ---

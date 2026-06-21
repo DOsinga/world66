@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alun-alun_Kota_Tanjung_Pin
 latitude: 0.9237
 loc_type: city
 longitude: 104.4461
-score: 0.43
+score: 0.37
 title: Tanjung Pinang
 type: location
 ---

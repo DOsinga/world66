@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:El_ruiz_volcano.jpg
 latitude: 5.0742
 loc_type: city
 longitude: -75.5081
-score: 0.54
+score: 0.44
 title: Manizales
 type: location
 ---

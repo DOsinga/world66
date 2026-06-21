@@ -5,7 +5,7 @@ done:
 latitude: 6.500404
 loc_type: city
 longitude: 124.843544
-score: 0.36
+score: 0.29
 title: Koronadal City
 type: location
 ---

@@ -6,7 +6,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 28.542122
 longitude: -81.379045
-score: 0.62
+score: 0.61
 title: Orlando
 type: location
 loc_type: city

@@ -4,7 +4,7 @@ done:
 latitude: 9.640261
 loc_type: city
 longitude: 123.855981
-score: 0.62
+score: 0.51
 title: Tagbilaran
 type: location
 ---

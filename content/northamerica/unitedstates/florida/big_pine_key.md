@@ -4,11 +4,11 @@ type: location
 loc_type: city
 latitude: 24.6986
 longitude: -81.3792
-score: 0.51
+score: 0.42
 sources:
-  - https://en.wikipedia.org/wiki/Big_Pine_Key,_Florida
-  - https://en.wikipedia.org/wiki/National_Key_Deer_Refuge
-  - https://en.wikipedia.org/wiki/Looe_Key_National_Marine_Sanctuary
+- https://en.wikipedia.org/wiki/Big_Pine_Key,_Florida
+- https://en.wikipedia.org/wiki/National_Key_Deer_Refuge
+- https://en.wikipedia.org/wiki/Looe_Key_National_Marine_Sanctuary
 done:
   location_enrich: '2026-06-01'
 ---

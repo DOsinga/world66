@@ -5,7 +5,7 @@ done:
 latitude: 38.0831
 loc_type: city
 longitude: -90.0959
-score: 0.35
+score: 0.29
 title: Prairie du Rocher
 type: location
 image: prairie_du_rocher.jpg

@@ -5,7 +5,7 @@ done:
 latitude: 5.01111
 loc_type: city
 longitude: -9.03889
-score: 0.2
+score: 0.19
 title: Greenville
 type: location
 ---

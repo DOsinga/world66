@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chatarra_en_Tok,_Alaska,_E
 latitude: 63.336667
 loc_type: city
 longitude: -142.985555
-score: 0.37
+score: 0.29
 title: Tok
 type: location
 ---

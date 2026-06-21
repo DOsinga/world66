@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Zamami_Island_gsi-20081122
 latitude: 26.235
 loc_type: city
 longitude: 127.3019
-score: 0.65
+score: 0.57
 title: Zamami Island
 type: location
 ---

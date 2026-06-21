@@ -5,7 +5,7 @@ latitude: 44.443038
 longitude: 8.305947
 title: Dego
 type: location
-score: 0.4
+score: 0.32
 loc_type: city
 ---
 

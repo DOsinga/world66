@@ -6,7 +6,7 @@ done:
 latitude: -1.497769
 loc_type: city
 longitude: 29.63226
-score: 0.53
+score: 0.48
 title: Musanze (Ruhengeri)
 type: location
 ---

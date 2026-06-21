@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Honda_(Colombia).jpg
 latitude: 5.210419
 loc_type: city
 longitude: -74.736192
-score: 0.4
+score: 0.32
 title: Honda
 type: location
 ---

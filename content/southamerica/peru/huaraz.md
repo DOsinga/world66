@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Huascaran_Huandoy_Chopical
 latitude: -9.5279
 loc_type: city
 longitude: -77.5278
-score: 0.66
+score: 0.55
 title: Huaraz
 type: location
 ---

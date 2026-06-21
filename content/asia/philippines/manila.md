@@ -6,7 +6,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 14.590449
 longitude: 120.980362
-score: 0.45
+score: 0.41
 title: Manila
 type: location
 loc_type: city

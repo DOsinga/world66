@@ -1,200 +1,200 @@
 {
   "round": 2025,
-  "timestamp": "2026-04-13T16:03:57",
+  "timestamp": "2026-06-13T21:13:20",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Ambergris Caye",
-      "path": "northamerica/belize/ambergriscaye",
-      "prior_score": 6.7962,
-      "prior_variance": 0.352198,
-      "prior_n": 5
-    },
-    {
-      "rank": 2,
-      "title": "Sri Lanka",
-      "path": "asia/srilanka",
-      "prior_score": 6.9579,
-      "prior_variance": 0.473796,
-      "prior_n": 5
-    },
-    {
-      "rank": 3,
-      "title": "Medellin",
-      "path": "southamerica/colombia/medellin",
-      "prior_score": 4.9772,
-      "prior_variance": 0.343148,
-      "prior_n": 5
-    },
-    {
-      "rank": 4,
-      "title": "Guatemala",
-      "path": "northamerica/guatemala",
-      "prior_score": 3.8786,
-      "prior_variance": 0.282336,
-      "prior_n": 5
-    },
-    {
-      "rank": 5,
-      "title": "Sliema",
-      "path": "europe/malta/sliema",
-      "prior_score": 3.1974,
-      "prior_variance": 0.258694,
-      "prior_n": 5
-    },
-    {
-      "rank": 6,
-      "title": "Salou",
-      "path": "europe/spain/catalonia/salou",
-      "prior_score": 1.3201,
-      "prior_variance": 0.436898,
-      "prior_n": 5
-    },
-    {
-      "rank": 7,
-      "title": "Murcia",
-      "path": "europe/spain/murcia",
-      "prior_score": 0.6256,
-      "prior_variance": 0.211929,
+      "title": "Echternach",
+      "path": "europe/luxembourg/echternach",
+      "prior_score": 1.1693,
+      "prior_variance": 0.176764,
       "prior_n": 7
     },
     {
+      "rank": 2,
+      "title": "Deir el Qamar",
+      "path": "asia/lebanon/deirelqamar",
+      "prior_score": 0.9085,
+      "prior_variance": 0.217462,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Cambados",
+      "path": "europe/spain/galicia/cambados",
+      "prior_score": 1.6893,
+      "prior_variance": 0.166594,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Harstad",
+      "path": "europe/norway/harstad",
+      "prior_score": 0.9539,
+      "prior_variance": 0.1872,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Derbent",
+      "path": "europe/russia/dagestan/derbent",
+      "prior_score": -0.6456,
+      "prior_variance": 0.189429,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Berwick-upon-Tweed",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/berwickontweed",
+      "prior_score": 0.1498,
+      "prior_variance": 0.223981,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Pomerode",
+      "path": "southamerica/brazil/pomerode",
+      "prior_score": -0.3559,
+      "prior_variance": 0.23711,
+      "prior_n": 6
+    },
+    {
       "rank": 8,
-      "title": "Colorado National Monument",
-      "path": "northamerica/unitedstates/colorado/colorado_national",
-      "prior_score": 3.8832,
-      "prior_variance": 0.299564,
-      "prior_n": 5
+      "title": "Sabang Island",
+      "path": "asia/indonesia/aceh/sabang_island",
+      "prior_score": 1.1963,
+      "prior_variance": 0.291729,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Moray",
-      "path": "europe/unitedkingdom/scotland/moray",
-      "prior_score": 0.8576,
-      "prior_variance": 0.319066,
-      "prior_n": 5
+      "title": "Bejaia",
+      "path": "africa/algeria/bejaia",
+      "prior_score": -1.9285,
+      "prior_variance": 0.207428,
+      "prior_n": 7
     },
     {
       "rank": 10,
-      "title": "Saint Bartholomy",
-      "path": "northamerica/thecaribbean/saintbartholomy",
-      "prior_score": 1.608,
-      "prior_variance": 0.284717,
-      "prior_n": 5
+      "title": "Chemnitz",
+      "path": "europe/germany/saxony/chemnitz",
+      "prior_score": -2.8419,
+      "prior_variance": 0.331194,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Monastir",
-      "path": "africa/tunisia/monastir",
-      "prior_score": 1.7638,
-      "prior_variance": 0.247913,
-      "prior_n": 5
+      "title": "Gosport",
+      "path": "europe/unitedkingdom/england/south_east/gosport",
+      "prior_score": -4.4366,
+      "prior_variance": 0.201621,
+      "prior_n": 7
     },
     {
       "rank": 12,
-      "title": "Osoyoos",
-      "path": "northamerica/canada/britishcolumbia/osoyoos",
-      "prior_score": 1.0344,
-      "prior_variance": 0.258372,
-      "prior_n": 5
+      "title": "Bacolod",
+      "path": "asia/philippines/negrosisland/bacolod",
+      "prior_score": -1.3184,
+      "prior_variance": 0.176835,
+      "prior_n": 7
     },
     {
       "rank": 13,
-      "title": "Chemainus",
-      "path": "northamerica/canada/britishcolumbia/victoria/chemainus",
-      "prior_score": -0.7312,
-      "prior_variance": 0.24793,
-      "prior_n": 5
+      "title": "Zamboanga",
+      "path": "asia/philippines/zamboanga",
+      "prior_score": -2.9351,
+      "prior_variance": 0.260912,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "karpenisi",
-      "path": "europe/greece/karpenisi",
-      "prior_score": -0.2541,
-      "prior_variance": 0.260095,
-      "prior_n": 5
+      "title": "Malakula",
+      "path": "australiaandpacific/vanuatu/malakula",
+      "prior_score": -0.8334,
+      "prior_variance": 0.289535,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Chiclayo",
-      "path": "southamerica/peru/chiclayo",
-      "prior_score": 1.6354,
-      "prior_variance": 0.267,
-      "prior_n": 5
+      "title": "Dauphin Island",
+      "path": "northamerica/unitedstates/alabama/dauphin_island",
+      "prior_score": -2.3325,
+      "prior_variance": 0.285743,
+      "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Sidon",
-      "path": "asia/lebanon/sidon",
-      "prior_score": 0.2692,
-      "prior_variance": 0.290786,
-      "prior_n": 5
+      "title": "New London",
+      "path": "northamerica/unitedstates/connecticut/new_london",
+      "prior_score": -3.412,
+      "prior_variance": 0.225448,
+      "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "Kedarnath",
-      "path": "asia/india/uttaranchal/kedarnath",
-      "prior_score": 3.1477,
-      "prior_variance": 0.299895,
-      "prior_n": 5
+      "title": "Cuautla",
+      "path": "northamerica/mexico/cuatla",
+      "prior_score": -4.73,
+      "prior_variance": 0.243311,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Bacolod",
-      "path": "asia/philippines/negrosisland/bacolod",
-      "prior_score": 0.1996,
-      "prior_variance": 0.300374,
-      "prior_n": 5
+      "title": "El Reno",
+      "path": "northamerica/unitedstates/oklahoma/el_reno",
+      "prior_score": -5.9544,
+      "prior_variance": 0.204744,
+      "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Cherating",
-      "path": "asia/malaysia/kuantan/cherating",
-      "prior_score": 0.4833,
-      "prior_variance": 0.226215,
+      "title": "Semipalatinsk",
+      "path": "asia/kazakhstan/semipalatinsk",
+      "prior_score": -7.3914,
+      "prior_variance": 0.403742,
       "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Cirebon",
-      "path": "asia/indonesia/cirebon",
-      "prior_score": -1.4563,
-      "prior_variance": 0.26792,
+      "title": "Medina",
+      "path": "asia/saudiarabia/medina",
+      "prior_score": -8.1453,
+      "prior_variance": 0.374488,
       "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "Melilla",
-      "path": "europe/spain/melilla",
-      "prior_score": -0.5007,
-      "prior_variance": 0.28348,
-      "prior_n": 5
+      "title": "Assab",
+      "path": "africa/eritrea/assab",
+      "prior_score": -9.472,
+      "prior_variance": 0.540944,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Oruro",
-      "path": "southamerica/bolivia/oruro",
-      "prior_score": -0.0582,
-      "prior_variance": 0.270826,
-      "prior_n": 5
+      "title": "Saurimo",
+      "path": "africa/angola/saurimo",
+      "prior_score": -8.758,
+      "prior_variance": 0.475679,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Miglionico",
-      "path": "europe/italy/basilicata/miglionico",
-      "prior_score": -2.2063,
-      "prior_variance": 0.264901,
-      "prior_n": 5
+      "title": "Norus",
+      "path": "asia/kyrgyzstan/norus",
+      "prior_score": -7.9278,
+      "prior_variance": 0.389767,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "Pyay",
-      "path": "asia/myanmar/pyay",
-      "prior_score": -4.9762,
-      "prior_variance": 0.2589,
-      "prior_n": 5
+      "title": "Paloncha",
+      "path": "asia/india/andhrapradesh/paloncha",
+      "prior_score": -6.7644,
+      "prior_variance": 0.251861,
+      "prior_n": 6
     }
   ]
 }

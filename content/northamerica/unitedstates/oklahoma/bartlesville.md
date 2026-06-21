@@ -5,7 +5,7 @@ done:
 latitude: 36.750927
 loc_type: city
 longitude: -95.977178
-score: 0.37
+score: 0.3
 title: Bartlesville
 type: location
 image: bartlesville.jpg

@@ -5,7 +5,7 @@ latitude: 49.68346
 longitude: 5.816771
 done:
   location_cleanup: 2026-04-08
-score: 0.43
+score: 0.36
 loc_type: city
 ---
 

@@ -1,0 +1,200 @@
+{
+  "round": 4725,
+  "timestamp": "2026-06-14T00:36:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_score": 4.707,
+      "prior_variance": 0.116022,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Padova",
+      "path": "europe/italy/veneto/padova",
+      "prior_score": 4.8949,
+      "prior_variance": 0.096525,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Omis",
+      "path": "europe/croatia/omis",
+      "prior_score": 4.456,
+      "prior_variance": 0.110425,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Praia da Luz",
+      "path": "europe/portugal/algarve/praiadaluz",
+      "prior_score": 3.2565,
+      "prior_variance": 0.10571,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_score": 3.2099,
+      "prior_variance": 0.085612,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Visegrad",
+      "path": "europe/hungary/visegrad",
+      "prior_score": 1.482,
+      "prior_variance": 0.097753,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Donauw\u00f6rth",
+      "path": "europe/germany/bavaria/romanticroad/donauwrth",
+      "prior_score": 1.5442,
+      "prior_variance": 0.088805,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/queensland/nationalparks",
+      "prior_score": 3.3333,
+      "prior_variance": 0.105165,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Chuuk",
+      "path": "australiaandpacific/micronesiafederatedstatesof/chuuk",
+      "prior_score": 0.9598,
+      "prior_variance": 0.095688,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/inlandempire/bigbearlake",
+      "prior_score": 0.4386,
+      "prior_variance": 0.084407,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Pescara",
+      "path": "europe/italy/abruzzo/pescara",
+      "prior_score": 1.1408,
+      "prior_variance": 0.079786,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "\u00d6sterlen",
+      "path": "europe/sweden/sterlen",
+      "prior_score": 0.8199,
+      "prior_variance": 0.081847,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Sig\u00fcenza",
+      "path": "europe/spain/la_mancha/siguenza",
+      "prior_score": 0.7025,
+      "prior_variance": 0.08149,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Langeoog",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/langeoog",
+      "prior_score": -0.0528,
+      "prior_variance": 0.092842,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Ocean Isle Beach",
+      "path": "northamerica/unitedstates/northcarolina/ocean_isle",
+      "prior_score": -0.9953,
+      "prior_variance": 0.09091,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Paramaribo",
+      "path": "southamerica/suriname/paramaribo",
+      "prior_score": 0.4124,
+      "prior_variance": 0.092646,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Ilh\u00e9us",
+      "path": "southamerica/brazil/lheus",
+      "prior_score": -0.1483,
+      "prior_variance": 0.097047,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Henry Mountains",
+      "path": "northamerica/unitedstates/utah/henry_mountains",
+      "prior_score": -1.2088,
+      "prior_variance": 0.10444,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_score": -0.622,
+      "prior_variance": 0.083256,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Ghardaia",
+      "path": "africa/algeria/ghardaia",
+      "prior_score": -1.3544,
+      "prior_variance": 0.105729,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Bintulu",
+      "path": "asia/malaysia/bintulu",
+      "prior_score": -3.7536,
+      "prior_variance": 0.088706,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Massoulo",
+      "path": "africa/angola/massoulo",
+      "prior_score": -10.3452,
+      "prior_variance": 0.400937,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Ndola",
+      "path": "africa/zambia/ndola",
+      "prior_score": -5.378,
+      "prior_variance": 0.098865,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Watford",
+      "path": "europe/unitedkingdom/england/south_east/watford",
+      "prior_score": -5.1824,
+      "prior_variance": 0.130415,
+      "prior_n": 15
+    }
+  ]
+}

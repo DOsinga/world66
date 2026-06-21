@@ -5,7 +5,7 @@ done:
 latitude: 13.0895
 loc_type: city
 longitude: -85.9994
-score: 0.4
+score: 0.31
 title: Jinotega
 type: location
 ---

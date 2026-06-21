@@ -6,11 +6,11 @@ latitude: 1.2833
 longitude: 97.6167
 title: Gunungsitoli
 type: location
-score: 0.35
+score: 0.32
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Gunungsitoli
-  - https://en.wikipedia.org/wiki/Nias_Island
+- https://en.wikipedia.org/wiki/Gunungsitoli
+- https://en.wikipedia.org/wiki/Nias_Island
 ---
 
 Gunungsitoli (also written Gununsitoli) is the capital and largest city of [Nias Island](/asia/indonesia/nias), spread along the northeastern coast where the hills meet the sea. Founded as a Dutch fortification in the 1600s, it remained the only part of the island effectively under Dutch control until 1914. That history — colonial fort, missionary outpost, trading hub — still shows in the old missionary cemetery and century-old churches in the southern part of town.

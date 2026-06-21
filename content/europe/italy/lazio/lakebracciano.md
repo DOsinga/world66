@@ -5,7 +5,7 @@ latitude: 42.121058
 longitude: 12.230275
 title: Lake Bracciano
 type: location
-score: 0.56
+score: 0.49
 loc_type: feature
 ---
 

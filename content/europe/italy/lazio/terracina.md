@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Terracina-vista01.jpg
 latitude: 41.28712
 loc_type: city
 longitude: 13.249201
-score: 0.57
+score: 0.47
 title: Terracina
 type: location
 ---

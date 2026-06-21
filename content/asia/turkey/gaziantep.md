@@ -13,6 +13,7 @@ image: gaziantep.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gaziantep.jpg
 image_license: Public domain
 image_attribution: Wikimedia Commons
+score: 0.51
 ---
 
 *Asia > Turkey > Gaziantep*

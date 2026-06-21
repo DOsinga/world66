@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Tayrona_National_Natural_Park
 title: Tayrona National Park
 type: location
+score: 0.64
 ---
 
 Tayrona National Natural Park is one of the most visited and most spectacular protected areas in Colombia, covering 150 square kilometres of Caribbean coastline and the lower slopes of the Sierra Nevada de Santa Marta. Here the mountains come down to the sea in a dramatic collision: dense tropical forest tumbles down steep hillsides and ends abruptly at a coastline of enormous boulders, white sand beaches, and clear turquoise water. There is nowhere in Colombia quite like it.

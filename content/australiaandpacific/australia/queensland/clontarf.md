@@ -4,7 +4,7 @@ done:
   location_enrich: '2026-06-03'
 latitude: -27.25
 longitude: 153.07
-score: 0.37
+score: 0.3
 title: Clontarf
 type: location
 loc_type: city

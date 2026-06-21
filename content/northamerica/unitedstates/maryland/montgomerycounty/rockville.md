@@ -5,7 +5,7 @@ done:
 latitude: 39.081798
 loc_type: city
 longitude: -77.151684
-score: 0.33
+score: 0.26
 title: Rockville
 type: location
 ---

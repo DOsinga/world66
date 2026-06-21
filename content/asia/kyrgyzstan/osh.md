@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Osh_03-2016_img24_view_fro
 latitude: 40.5283
 loc_type: city
 longitude: 72.7985
-score: 0.42
+score: 0.39
 title: Osh
 type: location
 ---

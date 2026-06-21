@@ -5,7 +5,7 @@ latitude: 38.29
 longitude: -111.26
 title: Capitol Reef
 type: location
-score: 0.62
+score: 0.58
 loc_type: feature
 ---
 

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/16860329@N06/2641933023
 latitude: -30.373991
 loc_type: city
 longitude: 152.71921
-score: 0.49
+score: 0.42
 title: Bellingen
 type: location
 ---

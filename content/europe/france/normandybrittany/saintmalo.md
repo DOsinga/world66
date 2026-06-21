@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saintmalo.jpg
 latitude: 48.649518
 loc_type: city
 longitude: -2.026041
-score: 0.67
+score: 0.6
 title: Saint Malo
 type: location
 ---

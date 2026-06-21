@@ -5,7 +5,7 @@ latitude: 44.3386
 longitude: -68.2733
 title: Acadia
 type: location
-score: 0.65
+score: 0.59
 loc_type: feature
 ---
 

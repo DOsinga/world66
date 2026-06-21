@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bakurianiiiii.jpg
 latitude: 41.751086
 loc_type: city
 longitude: 43.528006
-score: 0.52
+score: 0.42
 title: Bakuriani
 type: location
 ---

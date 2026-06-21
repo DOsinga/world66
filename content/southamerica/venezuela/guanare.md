@@ -5,7 +5,7 @@ done:
 latitude: 9.040786
 loc_type: city
 longitude: -69.741259
-score: 0.32
+score: 0.24
 title: Guanare
 type: location
 ---

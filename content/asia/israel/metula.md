@@ -5,7 +5,7 @@ done:
 latitude: 33.269214
 loc_type: city
 longitude: 35.572338
-score: 0.37
+score: 0.3
 title: Metula
 type: location
 ---

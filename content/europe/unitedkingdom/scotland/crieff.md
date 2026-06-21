@@ -4,7 +4,7 @@ done:
   location_enrich: '2026-06-04'
 latitude: 56.372717
 longitude: -3.839745
-score: 0.48
+score: 0.42
 title: Crieff
 type: location
 loc_type: city

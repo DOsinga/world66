@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-08'
 latitude: 32.008175
 longitude: -112.875184
-score: 0.51
+score: 0.43
 tags:
 - things_to_do
 - sight

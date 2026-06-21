@@ -5,7 +5,7 @@ done:
 latitude: -8.277542
 loc_type: city
 longitude: 115.592834
-score: 0.61
+score: 0.53
 sources:
 - https://en.wikipedia.org/wiki/Tulamben
 title: Tulamben

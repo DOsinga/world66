@@ -6,7 +6,7 @@ latitude: 50.778224
 longitude: 3.04397
 title: Wervik
 type: location
-score: 0.36
+score: 0.32
 loc_type: city
 ---
 

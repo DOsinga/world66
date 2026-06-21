@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/7138083@N04/54566511351
 latitude: -18.244086
 loc_type: city
 longitude: -43.600649
-score: 0.56
+score: 0.48
 title: Diamantina
 type: location
 ---

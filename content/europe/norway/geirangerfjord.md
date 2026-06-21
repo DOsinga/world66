@@ -5,7 +5,7 @@ latitude: 62.1017
 longitude: 7.0967
 title: Geirangerfjord
 type: location
-score: 0.8
+score: 0.76
 image: geirangerfjord.jpg
 image_source: https://commons.wikimedia.org/wiki/File:00_2269_Geiranger_-_Norway.jpg
 image_license: CC BY-SA 4.0

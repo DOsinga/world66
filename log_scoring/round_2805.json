@@ -1,0 +1,200 @@
+{
+  "round": 2805,
+  "timestamp": "2026-06-13T22:08:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Annecy",
+      "path": "europe/france/alpes/annecy",
+      "prior_score": 9.3962,
+      "prior_variance": 0.374967,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Myrtle Beach",
+      "path": "northamerica/unitedstates/southcarolina/myrtlebeach",
+      "prior_score": 0.167,
+      "prior_variance": 0.217118,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Mount Shasta",
+      "path": "northamerica/unitedstates/california/shastacascade/mountshasta",
+      "prior_score": 1.9604,
+      "prior_variance": 0.154587,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Jaca",
+      "path": "europe/spain/aragon/jaca",
+      "prior_score": 2.3952,
+      "prior_variance": 0.141082,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/italianriviera/celleligure",
+      "prior_score": 2.3417,
+      "prior_variance": 0.148517,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Caloundra",
+      "path": "australiaandpacific/australia/queensland/caloundra",
+      "prior_score": 0.0626,
+      "prior_variance": 0.143171,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Bishop",
+      "path": "northamerica/unitedstates/california/highsierra/bishop",
+      "prior_score": 1.1212,
+      "prior_variance": 0.134812,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Gdynia",
+      "path": "europe/poland/gdynia",
+      "prior_score": 0.3538,
+      "prior_variance": 0.148463,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Timisoara",
+      "path": "europe/romania/timisoara",
+      "prior_score": 0.6422,
+      "prior_variance": 0.147614,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Kecskem\u00e9t",
+      "path": "europe/hungary/kecskemet",
+      "prior_score": 0.0272,
+      "prior_variance": 0.159479,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Tsodilo Hills",
+      "path": "africa/botswana/tsodilohills",
+      "prior_score": 0.1395,
+      "prior_variance": 0.154674,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Caltabellotta",
+      "path": "europe/italy/sicily/caltabellotta",
+      "prior_score": 0.345,
+      "prior_variance": 0.160585,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Western Qing Tombs",
+      "path": "asia/china/hebei/western_qing_tombs",
+      "prior_score": -0.0952,
+      "prior_variance": 0.167373,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Chilika Lake",
+      "path": "asia/india/orissa/chilika",
+      "prior_score": 0.7431,
+      "prior_variance": 0.1465,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Saint-Louis",
+      "path": "africa/senegal/saintlouis",
+      "prior_score": 1.8864,
+      "prior_variance": 0.157534,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Modhera",
+      "path": "asia/india/gujarat/modhera",
+      "prior_score": -0.6081,
+      "prior_variance": 0.176144,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Guiyang",
+      "path": "asia/china/guizhou/guiyang",
+      "prior_score": -1.5251,
+      "prior_variance": 0.140303,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "San Carlos (Sonora)",
+      "path": "northamerica/mexico/san_carlos_sonora",
+      "prior_score": -0.5661,
+      "prior_variance": 0.151255,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Hoa Binh",
+      "path": "asia/vietnam/hoabinh",
+      "prior_score": -0.7207,
+      "prior_variance": 0.147279,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Amnye Machen",
+      "path": "asia/china/qinghai/amnye-machen",
+      "prior_score": -1.4415,
+      "prior_variance": 0.160285,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Santar\u00e9m",
+      "path": "southamerica/brazil/santarem",
+      "prior_score": -2.4046,
+      "prior_variance": 0.175548,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Jos",
+      "path": "africa/nigeria/jos",
+      "prior_score": -4.5634,
+      "prior_variance": 0.183328,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Budville",
+      "path": "northamerica/unitedstates/newmexico/budville",
+      "prior_score": -7.4016,
+      "prior_variance": 0.337559,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Museum",
+      "path": "northamerica/canada/britishcolumbia/vancouver/museum",
+      "prior_score": -0.739,
+      "prior_variance": 0.163261,
+      "prior_n": 9
+    }
+  ]
+}

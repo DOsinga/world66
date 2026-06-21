@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-16'
 latitude: 25.937251
 longitude: -81.71573
-score: 0.58
+score: 0.47
 title: Marco Island
 type: location
 loc_type: feature

@@ -1,0 +1,200 @@
+{
+  "round": 2396,
+  "timestamp": "2026-06-13T21:39:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Barcelona",
+      "path": "europe/spain/catalonia/barcelona",
+      "prior_score": 17.0439,
+      "prior_variance": 1.447382,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Georgetown",
+      "path": "asia/malaysia/georgetown",
+      "prior_score": 6.8934,
+      "prior_variance": 0.210084,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Blue Mountains",
+      "path": "northamerica/jamaica/bluemountains",
+      "prior_score": 3.735,
+      "prior_variance": 0.175862,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Sariska National Park",
+      "path": "asia/india/rajasthan/sariskanationalpark",
+      "prior_score": 1.5048,
+      "prior_variance": 0.214377,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Tianjin",
+      "path": "asia/china/tianjin",
+      "prior_score": -1.1154,
+      "prior_variance": 0.17506,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Wuhan",
+      "path": "asia/china/hubei/wuhan",
+      "prior_score": -1.8032,
+      "prior_variance": 0.183015,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Crotone",
+      "path": "europe/italy/calabria/crotone",
+      "prior_score": 0.2366,
+      "prior_variance": 0.160067,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Kajaani",
+      "path": "europe/finland/kajaani",
+      "prior_score": -1.9367,
+      "prior_variance": 0.163129,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Le\u00f3n",
+      "path": "northamerica/mexico/len",
+      "prior_score": -3.6058,
+      "prior_variance": 0.213012,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Daugavpils",
+      "path": "europe/latvia/daugavpils",
+      "prior_score": -1.3469,
+      "prior_variance": 0.176359,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Alibag",
+      "path": "asia/india/alibaug",
+      "prior_score": -2.3634,
+      "prior_variance": 0.194749,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Ur",
+      "path": "asia/iraq/ur",
+      "prior_score": -1.9196,
+      "prior_variance": 0.283079,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Channel-Port aux Basques",
+      "path": "northamerica/canada/newfoundland/channelport_aux_b",
+      "prior_score": -3.8944,
+      "prior_variance": 0.20531,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Borongan",
+      "path": "asia/philippines/samarisland/borongan",
+      "prior_score": -4.0362,
+      "prior_variance": 0.189681,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Upper Falls",
+      "path": "northamerica/unitedstates/westvirginia/upper_falls",
+      "prior_score": -5.5908,
+      "prior_variance": 0.218922,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Heihe",
+      "path": "asia/china/heilongjiang/heihe",
+      "prior_score": -4.9245,
+      "prior_variance": 0.228989,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Hugo",
+      "path": "northamerica/unitedstates/oklahoma/hugo",
+      "prior_score": -6.3179,
+      "prior_variance": 0.249889,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Qingyang",
+      "path": "asia/china/gansu/qingyang",
+      "prior_score": -3.9496,
+      "prior_variance": 0.179997,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Vanderhoof",
+      "path": "northamerica/canada/britishcolumbia/vanderhoof",
+      "prior_score": -4.7177,
+      "prior_variance": 0.229294,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Bahawalpur",
+      "path": "asia/pakistan/bahawalpur",
+      "prior_score": -5.2393,
+      "prior_variance": 0.247334,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Sialkot",
+      "path": "asia/pakistan/sialkot",
+      "prior_score": -6.417,
+      "prior_variance": 0.239416,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Seria",
+      "path": "asia/brunei/seria",
+      "prior_score": -6.0662,
+      "prior_variance": 0.30474,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Ferizaj",
+      "path": "europe/serbia/kosovoprovince/ferizaj",
+      "prior_score": -6.0927,
+      "prior_variance": 0.258411,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Basra",
+      "path": "asia/iraq/basra",
+      "prior_score": -7.9303,
+      "prior_variance": 0.308795,
+      "prior_n": 8
+    }
+  ]
+}

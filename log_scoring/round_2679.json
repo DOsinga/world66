@@ -1,0 +1,200 @@
+{
+  "round": 2679,
+  "timestamp": "2026-06-13T21:59:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lagos",
+      "path": "europe/portugal/lagos",
+      "prior_score": 8.1661,
+      "prior_variance": 0.240126,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Santa Fe",
+      "path": "northamerica/unitedstates/newmexico/santafe",
+      "prior_score": 6.4244,
+      "prior_variance": 0.19929,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/northeastflorida/staugustine",
+      "prior_score": 2.7364,
+      "prior_variance": 0.306298,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Lugano",
+      "path": "europe/switzerland/lugano",
+      "prior_score": 6.659,
+      "prior_variance": 0.18445,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Kuala Lumpur",
+      "path": "asia/malaysia/kualalumpur",
+      "prior_score": 7.5138,
+      "prior_variance": 0.207586,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Da Nang",
+      "path": "asia/vietnam/danang",
+      "prior_score": 5.2085,
+      "prior_variance": 0.176564,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Dunhuang",
+      "path": "asia/china/gansu/dunhuang",
+      "prior_score": 6.3552,
+      "prior_variance": 0.195403,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "\u00d3bidos",
+      "path": "europe/portugal/obidos",
+      "prior_score": 4.8694,
+      "prior_variance": 0.19154,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Rila Monastery",
+      "path": "europe/bulgaria/rilamonastery",
+      "prior_score": 5.7438,
+      "prior_variance": 0.200558,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Yangon",
+      "path": "asia/myanmar/yangon",
+      "prior_score": 1.856,
+      "prior_variance": 0.152586,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "\u00c6r\u00f8",
+      "path": "europe/denmark/r_southern_fyn",
+      "prior_score": 3.0201,
+      "prior_variance": 0.16193,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Amarante",
+      "path": "europe/portugal/amarante",
+      "prior_score": 1.459,
+      "prior_variance": 0.146276,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Calcutta",
+      "path": "asia/india/westbengal/calcutta",
+      "prior_score": 1.4745,
+      "prior_variance": 0.183502,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Nagoya",
+      "path": "asia/japan/honshu/nagoya",
+      "prior_score": 4.3378,
+      "prior_variance": 0.180048,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Shillong",
+      "path": "asia/india/meghalaya/shillong",
+      "prior_score": 2.0522,
+      "prior_variance": 0.148441,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Umag",
+      "path": "europe/croatia/umag",
+      "prior_score": 2.7813,
+      "prior_variance": 0.160356,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Batanes",
+      "path": "asia/philippines/batanes",
+      "prior_score": 5.1459,
+      "prior_variance": 0.183342,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Piacenza",
+      "path": "europe/italy/emiliaromagna/piacenza",
+      "prior_score": 1.1733,
+      "prior_variance": 0.188752,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Kuala Terengganu",
+      "path": "asia/malaysia/kuala_terengganu",
+      "prior_score": 0.9015,
+      "prior_variance": 0.163203,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Burgas",
+      "path": "europe/bulgaria/burgas",
+      "prior_score": 1.1137,
+      "prior_variance": 0.162018,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Pohnpei",
+      "path": "australiaandpacific/micronesiafederatedstatesof/pohnpei",
+      "prior_score": -0.1713,
+      "prior_variance": 0.150398,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Jingdezhen",
+      "path": "asia/china/jiangxi/jingdezhen",
+      "prior_score": 0.0479,
+      "prior_variance": 0.154279,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Meung-sur-Loire",
+      "path": "europe/france/centre/loirevalley/meungsurloire",
+      "prior_score": 0.9617,
+      "prior_variance": 0.154174,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Vladivostok",
+      "path": "europe/russia/vladivostok",
+      "prior_score": 0.0719,
+      "prior_variance": 0.171323,
+      "prior_n": 8
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caxias_do_Sul_-_RS,_Brazil
 latitude: -29.1685
 loc_type: city
 longitude: -51.1796
-score: 0.39
+score: 0.33
 title: Caxias do Sul
 type: location
 ---

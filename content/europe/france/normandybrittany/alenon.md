@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alen%C3%A7on_2024_juill_-0
 latitude: 48.431206
 loc_type: city
 longitude: 0.091137
-score: 0.46
+score: 0.4
 title: Alençon
 type: location
 ---

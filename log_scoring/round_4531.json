@@ -1,0 +1,200 @@
+{
+  "round": 4531,
+  "timestamp": "2026-06-14T00:20:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Odense",
+      "path": "europe/denmark/odense",
+      "prior_score": 2.0552,
+      "prior_variance": 0.085937,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Fort Lauderdale",
+      "path": "northamerica/unitedstates/florida/fortlauderdale",
+      "prior_score": 1.1815,
+      "prior_variance": 0.093741,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Sarawak",
+      "path": "asia/malaysia/sarawak",
+      "prior_score": 2.1214,
+      "prior_variance": 0.175877,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Huesca",
+      "path": "europe/spain/aragon/huesca",
+      "prior_score": 0.4831,
+      "prior_variance": 0.086645,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_score": 0.4262,
+      "prior_variance": 0.098566,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_score": -0.5539,
+      "prior_variance": 0.097764,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Moulay Idriss",
+      "path": "africa/morocco/moulayidriss",
+      "prior_score": 2.2629,
+      "prior_variance": 0.093103,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Sariska National Park",
+      "path": "asia/india/rajasthan/sariskanationalpark",
+      "prior_score": 1.622,
+      "prior_variance": 0.104698,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Church Stretton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/churchstretton",
+      "prior_score": -0.8748,
+      "prior_variance": 0.091172,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Ehden",
+      "path": "asia/lebanon/ehden",
+      "prior_score": 0.1743,
+      "prior_variance": 0.096753,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Mataram",
+      "path": "asia/indonesia/lombok/mataram",
+      "prior_score": 0.2198,
+      "prior_variance": 0.088573,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Santa Cruz",
+      "path": "northamerica/costarica/santacruz",
+      "prior_score": -0.3535,
+      "prior_variance": 0.086425,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Pithoragarh",
+      "path": "asia/india/uttaranchal/pithoragarh",
+      "prior_score": 0.09,
+      "prior_variance": 0.083825,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Calitri",
+      "path": "europe/italy/campania/calitri",
+      "prior_score": -0.8935,
+      "prior_variance": 0.088665,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Karanjia & Similipal",
+      "path": "asia/india/orissa/bhubaneswar/karanjia__similip",
+      "prior_score": -3.0324,
+      "prior_variance": 0.097448,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Banfora",
+      "path": "africa/burkinafaso/banfora",
+      "prior_score": -4.6031,
+      "prior_variance": 0.10572,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Tadjoura",
+      "path": "africa/djibouti/tadjoura",
+      "prior_score": -3.189,
+      "prior_variance": 0.093563,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Henderson",
+      "path": "northamerica/unitedstates/nevada/henderson",
+      "prior_score": -4.7301,
+      "prior_variance": 0.122648,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Tonawanda",
+      "path": "northamerica/unitedstates/newyorkstate/tonawanda",
+      "prior_score": -5.4477,
+      "prior_variance": 0.100071,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Jiamusi",
+      "path": "asia/china/heilongjiang/jiamusi",
+      "prior_score": -6.0047,
+      "prior_variance": 0.140417,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Semnan",
+      "path": "asia/iran/semnan",
+      "prior_score": -5.8289,
+      "prior_variance": 0.114732,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Goytepe",
+      "path": "europe/azerbaijan/goytepe",
+      "prior_score": -6.8668,
+      "prior_variance": 0.137528,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Moore",
+      "path": "northamerica/unitedstates/oklahoma/moore",
+      "prior_score": -6.9259,
+      "prior_variance": 0.143263,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Misurata",
+      "path": "africa/libya/misurata",
+      "prior_score": -8.2483,
+      "prior_variance": 0.201684,
+      "prior_n": 14
+    }
+  ]
+}

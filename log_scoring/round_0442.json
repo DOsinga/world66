@@ -1,200 +1,200 @@
 {
   "round": 442,
-  "timestamp": "2026-04-12T09:30:57",
+  "timestamp": "2026-06-13T19:35:29",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Palolem",
-      "path": "asia/india/goa/palolim",
-      "prior_mu": 21.7567,
-      "prior_sigma": 3.093,
-      "prior_n": 4
+      "title": "Olympic Valley",
+      "path": "northamerica/unitedstates/california/olympic_valley",
+      "prior_score": 2.4406,
+      "prior_variance": 1.505318,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Jaipur",
-      "path": "asia/india/rajasthan/jaipur",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "West Hollywood",
+      "path": "northamerica/unitedstates/california/westhollywood",
+      "prior_score": 0.5734,
+      "prior_variance": 2.115516,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Munnar",
-      "path": "asia/india/kerala/munnar",
-      "prior_mu": 29.1218,
-      "prior_sigma": 6.954,
+      "title": "Nakuru",
+      "path": "africa/kenya/theriftvalley/nakuru",
+      "prior_score": 4.306,
+      "prior_variance": 5.994898,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Dharamsala",
-      "path": "asia/india/himachalpradesh/dharamsala",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2992,
+      "title": "Lake Tanganyika",
+      "path": "africa/tanzania/laketanganyika",
+      "prior_score": -0.8388,
+      "prior_variance": 1.49772,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Shimla",
-      "path": "asia/india/himachalpradesh/shimla",
-      "prior_mu": 22.6037,
-      "prior_sigma": 5.934,
+      "title": "Puntarenas",
+      "path": "northamerica/costarica/puntarenas",
+      "prior_score": 1.2273,
+      "prior_variance": 1.483648,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Somnath",
-      "path": "asia/india/gujarat/somnath",
-      "prior_mu": 22.1211,
-      "prior_sigma": 5.7569,
+      "title": "Playa San Juan",
+      "path": "europe/spain/spanishcostas/playasanjuan",
+      "prior_score": 0.7996,
+      "prior_variance": 1.529646,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Ahmedabad",
-      "path": "asia/india/gujarat/ahmedabad",
-      "prior_mu": 23.0729,
-      "prior_sigma": 5.994,
+      "title": "South Padre Island",
+      "path": "northamerica/unitedstates/texas/southpadreisland",
+      "prior_score": 0.7965,
+      "prior_variance": 1.676706,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Thrissur",
-      "path": "asia/india/kerala/thrissur",
-      "prior_mu": 22.6489,
-      "prior_sigma": 5.9394,
+      "title": "Butrint",
+      "path": "europe/albania/butrint",
+      "prior_score": -0.4714,
+      "prior_variance": 1.358032,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Siolim",
-      "path": "asia/india/goa/siolim",
-      "prior_mu": 22.5356,
-      "prior_sigma": 5.9144,
+      "title": "Mecca",
+      "path": "asia/saudiarabia/mecca",
+      "prior_score": -2.81,
+      "prior_variance": 2.056497,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Sawantwadi",
-      "path": "asia/india/maharashtra/sawantwadi",
-      "prior_mu": 22.6558,
-      "prior_sigma": 5.9415,
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_score": 2.2767,
+      "prior_variance": 2.965449,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Diveagar",
-      "path": "asia/india/maharashtra/konkan/diveagar",
-      "prior_mu": 21.4878,
-      "prior_sigma": 5.9128,
+      "title": "Livingston",
+      "path": "northamerica/guatemala/livingstone",
+      "prior_score": -2.2429,
+      "prior_variance": 1.610394,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Tehri Garhwal",
-      "path": "asia/india/uttaranchal/tehri_garhwal",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Irkutsk",
+      "path": "europe/russia/irkutsk",
+      "prior_score": 1.1852,
+      "prior_variance": 2.042055,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Dungarpur",
-      "path": "asia/india/rajasthan/dungarpur",
-      "prior_mu": 22.6415,
-      "prior_sigma": 5.9386,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/rivieradellepalme/zuccarello",
+      "prior_score": 1.6825,
+      "prior_variance": 1.517821,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Karaikudi",
-      "path": "asia/india/tamilnadu/karaikudi",
-      "prior_mu": 22.7215,
-      "prior_sigma": 5.9497,
+      "title": "Feuchtwangen",
+      "path": "europe/germany/bavaria/romanticroad/feuchtwangen",
+      "prior_score": 1.2107,
+      "prior_variance": 2.123826,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Mandarmani",
-      "path": "asia/india/westbengal/mandarmani",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Banja Luka",
+      "path": "europe/bosniaandherzegovina/banjaluka",
+      "prior_score": -1.3346,
+      "prior_variance": 1.804792,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Bhadarwah",
-      "path": "asia/india/jammuandkashmir/bhadarwah",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kihnu Island",
+      "path": "europe/estonia/kihnu_island",
+      "prior_score": 0.9181,
+      "prior_variance": 1.831804,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "chhindwara",
-      "path": "asia/india/madhyapradesh/chhindwara",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/richmond_yorks",
+      "prior_score": -1.269,
+      "prior_variance": 1.504444,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Kakching",
-      "path": "asia/india/manipur/kakching",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Abomey",
+      "path": "africa/benin/abomey",
+      "prior_score": 2.6378,
+      "prior_variance": 1.249051,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Balaghat",
-      "path": "asia/india/madhyapradesh/balaghat",
-      "prior_mu": 22.6671,
-      "prior_sigma": 5.6966,
+      "title": "Penguin",
+      "path": "australiaandpacific/australia/tasmania/northwest/penguin",
+      "prior_score": -0.663,
+      "prior_variance": 1.535578,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Bharuch",
-      "path": "asia/india/gujarat/bharuch",
-      "prior_mu": 21.6711,
-      "prior_sigma": 4.5858,
-      "prior_n": 2
+      "title": "Eureka, CA",
+      "path": "northamerica/unitedstates/california/eureka_ca",
+      "prior_score": 1.7817,
+      "prior_variance": 1.771787,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Nellore",
-      "path": "asia/india/andhrapradesh/nellore",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Guysborough",
+      "path": "northamerica/canada/novascotia/guysborough",
+      "prior_score": -2.3968,
+      "prior_variance": 3.197987,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Anantapur",
-      "path": "asia/india/andhrapradesh/ananthapur",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Magdeburg",
+      "path": "europe/germany/saxonyanhalt/magdeburg",
+      "prior_score": -0.8573,
+      "prior_variance": 2.639704,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Nawanshahr",
-      "path": "asia/india/punjab/nawanshahr",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Zubarah",
+      "path": "asia/qatar/zubara",
+      "prior_score": -1.2057,
+      "prior_variance": 2.025671,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Jharsuguda",
-      "path": "asia/india/orissa/jharsuguda",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bamiyan",
+      "path": "asia/afghanistan/bamian",
+      "prior_score": -2.4485,
+      "prior_variance": 1.426001,
+      "prior_n": 1
     }
   ]
 }

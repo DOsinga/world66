@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kuta_Beach_(6924448550).jp
 latitude: -8.727835
 loc_type: city
 longitude: 115.173005
-score: 0.67
+score: 0.57
 title: Kuta
 type: location
 ---

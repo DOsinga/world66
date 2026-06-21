@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Antonio_Botanical_Gard
 latitude: 29.4246
 loc_type: city
 longitude: -98.4951
-score: 0.52
+score: 0.48
 title: San Antonio
 type: location
 ---

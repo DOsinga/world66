@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:0_Clervaux_101021_V1.JPG
 latitude: 50.054791
 loc_type: city
 longitude: 6.027551
-score: 0.52
+score: 0.46
 title: Clervaux
 type: location
 ---

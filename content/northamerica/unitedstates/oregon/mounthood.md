@@ -5,7 +5,7 @@ latitude: 45.373513
 longitude: -121.695878
 title: Mount Hood
 type: location
-score: 0.57
+score: 0.48
 loc_type: feature
 ---
 

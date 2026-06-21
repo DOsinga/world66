@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Roanoke_City_(Virginia)_fr
 latitude: 37.270973
 loc_type: city
 longitude: -79.941431
-score: 0.42
+score: 0.36
 title: Roanoke
 type: location
 ---

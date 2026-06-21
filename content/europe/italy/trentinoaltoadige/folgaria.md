@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Folgaria_Cornetto_Inverno.
 latitude: 45.914973
 loc_type: city
 longitude: 11.173015
-score: 0.51
+score: 0.44
 title: Folgaria
 type: location
 ---

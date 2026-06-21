@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:PlazadeArmasQuillota3.jpg
 latitude: -32.879997
 loc_type: city
 longitude: -71.247355
-score: 0.39
+score: 0.33
 title: Quillota
 type: location
 ---

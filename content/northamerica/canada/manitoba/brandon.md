@@ -5,7 +5,7 @@ done:
 latitude: 49.851114
 loc_type: city
 longitude: -99.960892
-score: 0.34
+score: 0.27
 title: Brandon
 type: location
 ---

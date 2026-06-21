@@ -5,7 +5,7 @@ done:
 latitude: 53.192732
 loc_type: city
 longitude: -6.170357
-score: 0.54
+score: 0.49
 title: Enniskerry
 type: location
 image: enniskerry.jpg

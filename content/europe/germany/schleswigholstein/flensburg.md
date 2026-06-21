@@ -5,7 +5,7 @@ done:
 latitude: 54.783302
 loc_type: city
 longitude: 9.433326
-score: 0.48
+score: 0.41
 title: Flensburg
 type: location
 image: flensburg.jpg

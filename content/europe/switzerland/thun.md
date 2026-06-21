@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_thun_castle_view_2012.jp
 latitude: 46.758283
 loc_type: city
 longitude: 7.628086
-score: 0.67
+score: 0.55
 title: Thun
 type: location
 ---

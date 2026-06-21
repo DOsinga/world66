@@ -5,7 +5,7 @@ done:
 latitude: 50.544391
 loc_type: city
 longitude: -3.991498
-score: 0.5
+score: 0.4
 title: Princetown
 type: location
 ---

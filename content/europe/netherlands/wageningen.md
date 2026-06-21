@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dijkgraaf_in_Wageningen.jp
 latitude: 51.968582
 loc_type: city
 longitude: 5.668298
-score: 0.41
+score: 0.35
 title: Wageningen
 type: location
 ---

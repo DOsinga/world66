@@ -5,7 +5,7 @@ done:
   location_enrich: '2026-06-04'
 latitude: 32.71742
 longitude: -117.162772
-score: 0.71
+score: 0.61
 title: San Diego
 type: location
 loc_type: city

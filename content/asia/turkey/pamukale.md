@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pamukkale_30.jpg
 latitude: 37.924169
 loc_type: feature
 longitude: 29.123707
-score: 0.76
+score: 0.67
 sources:
 - https://en.wikipedia.org/wiki/Pamukkale
 - https://en.wikipedia.org/wiki/Hierapolis

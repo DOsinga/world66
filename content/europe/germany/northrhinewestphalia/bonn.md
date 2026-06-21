@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/128621707@N08/22911449780
 latitude: 50.7374
 loc_type: city
 longitude: 7.0982
-score: 0.54
+score: 0.46
 title: Bonn
 type: location
 ---

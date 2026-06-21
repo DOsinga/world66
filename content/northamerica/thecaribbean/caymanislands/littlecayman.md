@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Bloody_Bay_Marine_Park
 title: Little Cayman
 type: location
+score: 0.58
 ---
 
 Little Cayman is the smallest and quietest of the three Cayman Islands — 16 kilometres long, two kilometres wide at the widest, and home to roughly 170 permanent residents. There is one paved road that runs around the island, an unfenced airstrip that the road crosses (priority is given to landing aircraft), and a handful of small dive lodges. Iguanas — endemic Little Cayman rock iguanas, the most endangered iguana species on earth — outnumber humans many times over and have the right of way on most of the island.

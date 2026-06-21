@@ -1,0 +1,200 @@
+{
+  "round": 2358,
+  "timestamp": "2026-06-13T21:37:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zurich",
+      "path": "europe/switzerland/zurich",
+      "prior_score": 8.4432,
+      "prior_variance": 0.270936,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Antwerp",
+      "path": "europe/belgium/antwerp",
+      "prior_score": 6.639,
+      "prior_variance": 0.239279,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Forio",
+      "path": "europe/italy/campania/ischia/forio",
+      "prior_score": 5.4849,
+      "prior_variance": 0.186656,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Paxi",
+      "path": "europe/greece/paxi",
+      "prior_score": 4.6227,
+      "prior_variance": 0.189187,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Javea",
+      "path": "europe/spain/spanishcostas/javea",
+      "prior_score": 2.6679,
+      "prior_variance": 0.221133,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/islamujeres",
+      "prior_score": 6.4604,
+      "prior_variance": 0.262941,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Bequia",
+      "path": "northamerica/saintvincentandthegrenadines/bequia",
+      "prior_score": 5.129,
+      "prior_variance": 0.230489,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/theazores/so_miguel/ponta_delgada",
+      "prior_score": 5.8771,
+      "prior_variance": 0.226662,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Vava'u Island",
+      "path": "australiaandpacific/tonga/vavauisland",
+      "prior_score": 4.3217,
+      "prior_variance": 0.259805,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Santa Marta",
+      "path": "southamerica/colombia/santamarta",
+      "prior_score": 2.8984,
+      "prior_variance": 0.267754,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Mindelo",
+      "path": "africa/capeverde/mindelo",
+      "prior_score": 3.413,
+      "prior_variance": 0.181834,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_national_park",
+      "prior_score": 2.3671,
+      "prior_variance": 0.179932,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Yazd",
+      "path": "asia/iran/yazd",
+      "prior_score": 4.3199,
+      "prior_variance": 0.198899,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Ojo Caliente",
+      "path": "northamerica/unitedstates/newmexico/ojo_caliente",
+      "prior_score": 0.064,
+      "prior_variance": 0.188138,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Tilghman Island",
+      "path": "northamerica/unitedstates/maryland/tilghman_island",
+      "prior_score": -2.0017,
+      "prior_variance": 0.197624,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Melilla",
+      "path": "europe/spain/melilla",
+      "prior_score": -0.6517,
+      "prior_variance": 0.213392,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "North Shore City",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/northshorecity",
+      "prior_score": -0.5424,
+      "prior_variance": 0.20173,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Butre",
+      "path": "africa/ghana/butre",
+      "prior_score": -2.5402,
+      "prior_variance": 0.198567,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Debre Zeit",
+      "path": "africa/ethiopia/debre_zeit",
+      "prior_score": -2.5651,
+      "prior_variance": 0.205137,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Munshausen",
+      "path": "europe/luxembourg/munshausen",
+      "prior_score": -2.4066,
+      "prior_variance": 0.203579,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanjose",
+      "prior_score": -2.5114,
+      "prior_variance": 0.210315,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Fort Smith",
+      "path": "northamerica/unitedstates/arkansas/fortsmith",
+      "prior_score": -3.6684,
+      "prior_variance": 0.184279,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Hermosillo",
+      "path": "northamerica/mexico/hermosillo",
+      "prior_score": -3.4997,
+      "prior_variance": 0.198573,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Abemama",
+      "path": "australiaandpacific/kiribati/abemama",
+      "prior_score": -4.0073,
+      "prior_variance": 0.196715,
+      "prior_n": 7
+    }
+  ]
+}

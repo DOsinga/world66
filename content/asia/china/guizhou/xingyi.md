@@ -8,6 +8,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Xingyi
 title: Xingyi
 type: location
+score: 0.35
 ---
 
 Xingyi sits in the far southwest of Guizhou, where the province meets Yunnan and Guangxi — a borderland geography that has given it a distinct character and an exceptional natural setting. The city itself is a functional place without much to detain you, but its surroundings include two of the most dramatic landscapes in southwestern China, and most travellers who make it here feel the detour was worth the distance.

@@ -5,7 +5,7 @@ done:
 latitude: 6.8541
 loc_type: city
 longitude: 158.2624
-score: 0.49
+score: 0.43
 title: Pohnpei
 type: location
 ---

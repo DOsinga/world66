@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:3600_Genk,_Belgium_-_panor
 latitude: 50.965486
 loc_type: city
 longitude: 5.500146
-score: 0.4
+score: 0.33
 title: Genk
 type: location
 ---

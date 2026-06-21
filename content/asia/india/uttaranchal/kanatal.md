@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/149233252@N02/40060598905
 latitude: 30.415334
 loc_type: city
 longitude: 78.32119
-score: 0.47
+score: 0.43
 title: Kanatal
 type: location
 ---

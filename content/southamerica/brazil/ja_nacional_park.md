@@ -5,7 +5,7 @@ latitude: -2.0
 longitude: -62.0
 title: Jaú National Park
 type: location
-score: 0.42
+score: 0.38
 loc_type: feature
 ---
 

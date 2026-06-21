@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Roseau.JPG
 latitude: 15.301
 loc_type: city
 longitude: -61.3883
-score: 0.53
+score: 0.44
 title: Roseau
 type: location
 ---

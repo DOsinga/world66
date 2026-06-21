@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:31012014_Top_05.jpg
 latitude: -23.933599
 loc_type: city
 longitude: -46.32864
-score: 0.48
+score: 0.4
 title: Santos
 type: location
 ---

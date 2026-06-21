@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Colourful_part_of_Jephson_
 latitude: 52.2913
 loc_type: city
 longitude: -1.5364
-score: 0.44
+score: 0.38
 title: Leamington Spa
 type: location
 ---

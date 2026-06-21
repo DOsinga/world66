@@ -1,200 +1,200 @@
 {
   "round": 1732,
-  "timestamp": "2026-04-13T10:46:18",
+  "timestamp": "2026-06-13T20:48:55",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Costa Smeralda",
-      "path": "europe/italy/sardinia/costasmeralda",
-      "prior_score": 9.9884,
-      "prior_variance": 0.432231,
-      "prior_n": 4
+      "title": "Iguazu Falls",
+      "path": "southamerica/argentina/iguazufalls",
+      "prior_score": 15.4496,
+      "prior_variance": 0.898603,
+      "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Pa\u0161man Island",
-      "path": "europe/croatia/pasman_island",
-      "prior_score": 2.7608,
-      "prior_variance": 0.296044,
-      "prior_n": 4
+      "title": "Avatoru",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa/avatoru",
+      "prior_score": 5.2916,
+      "prior_variance": 0.270923,
+      "prior_n": 5
     },
     {
       "rank": 3,
-      "title": "Vara Valley",
-      "path": "europe/italy/liguria/varavalley",
-      "prior_score": 1.5346,
-      "prior_variance": 0.348863,
-      "prior_n": 4
+      "title": "Olympia",
+      "path": "europe/greece/olympia",
+      "prior_score": 6.7084,
+      "prior_variance": 0.332874,
+      "prior_n": 5
     },
     {
       "rank": 4,
-      "title": "Arroyo de la Miel",
-      "path": "europe/spain/andalucia/arroyodelamiel",
-      "prior_score": -2.2532,
-      "prior_variance": 0.611921,
-      "prior_n": 4
+      "title": "Valdes Peninsula",
+      "path": "southamerica/argentina/patagonia/valdespeninsula",
+      "prior_score": 6.2839,
+      "prior_variance": 0.333657,
+      "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Sant Andreu de Llavaneres",
-      "path": "europe/spain/catalonia/sant_andreu_de_lla",
-      "prior_score": -1.0425,
-      "prior_variance": 0.266679,
-      "prior_n": 6
+      "title": "Revelstoke",
+      "path": "northamerica/canada/britishcolumbia/revelstoke",
+      "prior_score": 4.3704,
+      "prior_variance": 0.31106,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Valcea",
-      "path": "europe/romania/valcea",
-      "prior_score": -3.4325,
-      "prior_variance": 0.443477,
-      "prior_n": 4
+      "title": "Jac\u00f3",
+      "path": "northamerica/costarica/jaco",
+      "prior_score": 2.8645,
+      "prior_variance": 0.290169,
+      "prior_n": 5
     },
     {
       "rank": 7,
-      "title": "Bistrita",
-      "path": "europe/romania/bistrita",
-      "prior_score": -0.9631,
-      "prior_variance": 0.266523,
+      "title": "Tai'an",
+      "path": "asia/china/shandong_province/taian",
+      "prior_score": 3.7424,
+      "prior_variance": 0.340129,
       "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "G\u00e4vle",
-      "path": "europe/sweden/gvle",
-      "prior_score": -0.7782,
-      "prior_variance": 0.261948,
-      "prior_n": 5
+      "title": "Mahabaleshwar",
+      "path": "asia/india/maharashtra/mahabaleshwar",
+      "prior_score": 1.3695,
+      "prior_variance": 0.218979,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Cengio",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cengio",
-      "prior_score": -2.4243,
-      "prior_variance": 0.255296,
+      "title": "Jinan",
+      "path": "asia/china/shandong_province/jinan",
+      "prior_score": -1.2542,
+      "prior_variance": 0.263882,
       "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Digha",
-      "path": "asia/india/westbengal/digha",
-      "prior_score": -3.1963,
-      "prior_variance": 0.406425,
-      "prior_n": 4
+      "title": "S\u00e3o Lu\u00eds",
+      "path": "southamerica/brazil/sao_luis",
+      "prior_score": 1.1227,
+      "prior_variance": 0.27135,
+      "prior_n": 5
     },
     {
       "rank": 11,
-      "title": "Sandusky",
-      "path": "northamerica/unitedstates/ohio/sandusky",
-      "prior_score": -2.2971,
-      "prior_variance": 0.374378,
-      "prior_n": 4
+      "title": "Recco",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/recco",
+      "prior_score": -0.2033,
+      "prior_variance": 0.308289,
+      "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "Burlingame",
-      "path": "northamerica/unitedstates/california/burlingame",
-      "prior_score": -2.9144,
-      "prior_variance": 0.315292,
+      "title": "Lieser",
+      "path": "europe/germany/rhinelandpalatinate/mosel/lieser",
+      "prior_score": -0.0978,
+      "prior_variance": 0.235317,
       "prior_n": 5
     },
     {
       "rank": 13,
-      "title": "Manitoba",
-      "path": "northamerica/canada/manitoba",
-      "prior_score": -1.5466,
-      "prior_variance": 0.328505,
+      "title": "Sidney",
+      "path": "northamerica/canada/britishcolumbia/sidney",
+      "prior_score": -2.0599,
+      "prior_variance": 0.268779,
       "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "Wichita",
-      "path": "northamerica/unitedstates/kansas/wichita",
-      "prior_score": -2.976,
-      "prior_variance": 0.405618,
+      "title": "Sighet",
+      "path": "europe/romania/sighet",
+      "prior_score": -2.6428,
+      "prior_variance": 0.356251,
       "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Ikast",
-      "path": "europe/denmark/ikast",
-      "prior_score": -2.5484,
-      "prior_variance": 0.357318,
-      "prior_n": 4
+      "title": "Trollh\u00e4ttan",
+      "path": "europe/sweden/trollhttan",
+      "prior_score": -1.9214,
+      "prior_variance": 0.231911,
+      "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Honda",
-      "path": "southamerica/colombia/honda",
-      "prior_score": -2.9057,
-      "prior_variance": 0.326384,
-      "prior_n": 4
+      "title": "Tilburg",
+      "path": "europe/netherlands/tilburg",
+      "prior_score": -1.9587,
+      "prior_variance": 0.260328,
+      "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "Jharkhand",
-      "path": "asia/india/jharkhand",
-      "prior_score": -3.1888,
-      "prior_variance": 0.27964,
+      "title": "Dapoli",
+      "path": "asia/india/maharashtra/konkan/dapoli",
+      "prior_score": -3.2975,
+      "prior_variance": 0.262068,
       "prior_n": 5
     },
     {
       "rank": 18,
-      "title": "Ballincollig",
-      "path": "europe/ireland/cork/ballincollig",
-      "prior_score": -3.0494,
-      "prior_variance": 0.325886,
-      "prior_n": 4
+      "title": "Agumbe",
+      "path": "asia/india/karnataka/agumbe",
+      "prior_score": -2.3901,
+      "prior_variance": 0.322052,
+      "prior_n": 5
     },
     {
       "rank": 19,
-      "title": "Machilipatnam",
-      "path": "asia/india/andhrapradesh/machilipatnam",
-      "prior_score": -5.3287,
-      "prior_variance": 0.27781,
-      "prior_n": 6
+      "title": "Chetumal",
+      "path": "northamerica/mexico/chetumal",
+      "prior_score": -1.6684,
+      "prior_variance": 0.237881,
+      "prior_n": 5
     },
     {
       "rank": 20,
-      "title": "Roma",
-      "path": "australiaandpacific/australia/queensland/roma",
-      "prior_score": -3.7505,
-      "prior_variance": 0.390303,
-      "prior_n": 4
+      "title": "Soveria Mannelli",
+      "path": "europe/italy/calabria/soveria_mannelli",
+      "prior_score": -3.711,
+      "prior_variance": 0.25598,
+      "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "Khovd",
-      "path": "asia/mongolia/khovd",
-      "prior_score": -4.8376,
-      "prior_variance": 0.306149,
+      "title": "Dagupan City",
+      "path": "asia/philippines/dagupancity",
+      "prior_score": -3.7583,
+      "prior_variance": 0.319143,
       "prior_n": 5
     },
     {
       "rank": 22,
-      "title": "Burnley",
-      "path": "europe/unitedkingdom/england/lancashire/burnley",
-      "prior_score": -5.6002,
-      "prior_variance": 0.372003,
-      "prior_n": 5
+      "title": "Manzini",
+      "path": "africa/swaziland/manzini",
+      "prior_score": -3.9195,
+      "prior_variance": 0.214514,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Orel",
-      "path": "europe/russia/orel",
-      "prior_score": -5.3923,
-      "prior_variance": 0.307391,
-      "prior_n": 4
+      "title": "Tongchuan",
+      "path": "asia/china/shaanxi/tongchuan",
+      "prior_score": -5.572,
+      "prior_variance": 0.264691,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Mykolaiv",
-      "path": "europe/ukraine/nikolaev",
-      "prior_score": -7.6671,
-      "prior_variance": 0.406806,
-      "prior_n": 4
+      "title": "Flint",
+      "path": "northamerica/unitedstates/michigan/flint",
+      "prior_score": -8.1284,
+      "prior_variance": 0.39679,
+      "prior_n": 6
     }
   ]
 }

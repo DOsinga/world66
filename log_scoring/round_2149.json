@@ -1,199 +1,199 @@
 {
   "round": 2149,
-  "timestamp": "2026-04-13T16:15:10",
+  "timestamp": "2026-06-13T21:22:03",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Vulcano",
-      "path": "europe/italy/sicily/aeolianislands/vulcano",
-      "prior_score": 5.1714,
-      "prior_variance": 0.319995,
-      "prior_n": 5
+      "title": "Derinkuyu",
+      "path": "asia/turkey/cappadocia/derinkuyu",
+      "prior_score": 5.8047,
+      "prior_variance": 0.206109,
+      "prior_n": 7
     },
     {
       "rank": 2,
-      "title": "Samar Island",
-      "path": "asia/philippines/samarisland",
-      "prior_score": -0.3379,
-      "prior_variance": 0.236283,
-      "prior_n": 5
+      "title": "Gramado",
+      "path": "southamerica/brazil/gramado",
+      "prior_score": 3.4011,
+      "prior_variance": 0.231568,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Vilsandi National Park",
-      "path": "europe/estonia/vilsandi_national",
-      "prior_score": 0.8722,
-      "prior_variance": 0.216939,
-      "prior_n": 6
+      "title": "Nha Trang",
+      "path": "asia/vietnam/nhatrang",
+      "prior_score": 5.8763,
+      "prior_variance": 0.198978,
+      "prior_n": 7
     },
     {
       "rank": 4,
-      "title": "Kapiti Coast",
-      "path": "australiaandpacific/newzealand/greater_wellington/kapiti_coast",
-      "prior_score": -1.0513,
-      "prior_variance": 0.278056,
-      "prior_n": 5
+      "title": "Alnwick",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/alnwick",
+      "prior_score": 2.0412,
+      "prior_variance": 0.209817,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Ambohimanga",
-      "path": "africa/madagascar/ambohimanga",
-      "prior_score": 0.4363,
-      "prior_variance": 0.284023,
-      "prior_n": 5
+      "title": "Borgo Maggiore",
+      "path": "europe/sanmarino/borgomaggiore",
+      "prior_score": 1.5129,
+      "prior_variance": 0.215018,
+      "prior_n": 7
     },
     {
       "rank": 6,
-      "title": "Albany",
-      "path": "australiaandpacific/australia/westernaustralia/albany",
-      "prior_score": -0.0044,
-      "prior_variance": 0.212425,
-      "prior_n": 6
+      "title": "Bikaner",
+      "path": "asia/india/rajasthan/bikaner",
+      "prior_score": 2.9438,
+      "prior_variance": 0.190121,
+      "prior_n": 7
     },
     {
       "rank": 7,
-      "title": "Windhoek",
-      "path": "africa/namibia/windhoek",
-      "prior_score": -0.3379,
-      "prior_variance": 0.21611,
-      "prior_n": 6
+      "title": "Sanxenxo",
+      "path": "europe/spain/galicia/sanxenxo",
+      "prior_score": 0.91,
+      "prior_variance": 0.187419,
+      "prior_n": 8
     },
     {
       "rank": 8,
-      "title": "Konya",
-      "path": "asia/turkey/konya",
-      "prior_score": 1.0949,
-      "prior_variance": 0.27318,
-      "prior_n": 5
+      "title": "Ravensburg",
+      "path": "europe/germany/badenwrttemberg/ravensburg",
+      "prior_score": 0.7601,
+      "prior_variance": 0.17798,
+      "prior_n": 7
     },
     {
       "rank": 9,
-      "title": "Jakarta",
-      "path": "asia/indonesia/java/jakarta",
-      "prior_score": -3.1036,
-      "prior_variance": 0.646854,
-      "prior_n": 5
+      "title": "Bukittinggi",
+      "path": "asia/indonesia/sumatra/bukittinggi",
+      "prior_score": 0.9067,
+      "prior_variance": 0.205645,
+      "prior_n": 7
     },
     {
       "rank": 10,
-      "title": "Maribor",
-      "path": "europe/slovenia/maribor",
-      "prior_score": -1.1199,
-      "prior_variance": 0.439432,
-      "prior_n": 6
+      "title": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+      "path": "europe/hungary/szekesfehervar",
+      "prior_score": -0.9542,
+      "prior_variance": 0.207669,
+      "prior_n": 7
     },
     {
       "rank": 11,
-      "title": "Trnava",
-      "path": "europe/slovakia/trnava",
-      "prior_score": 0.5098,
-      "prior_variance": 0.219925,
-      "prior_n": 6
+      "title": "Stella",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stella",
+      "prior_score": -1.6755,
+      "prior_variance": 0.21522,
+      "prior_n": 7
     },
     {
       "rank": 12,
-      "title": "Link\u00f6ping",
-      "path": "europe/sweden/linkping",
-      "prior_score": -0.6208,
-      "prior_variance": 0.259431,
-      "prior_n": 6
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/north_island/waikato/hamilton",
+      "prior_score": -1.8273,
+      "prior_variance": 0.20482,
+      "prior_n": 7
     },
     {
       "rank": 13,
-      "title": "Richmond",
-      "path": "northamerica/canada/britishcolumbia/vancouver/richmond",
-      "prior_score": -1.1826,
-      "prior_variance": 0.258755,
-      "prior_n": 5
+      "title": "Samara",
+      "path": "northamerica/costarica/samara",
+      "prior_score": 2.5757,
+      "prior_variance": 0.259096,
+      "prior_n": 7
     },
     {
       "rank": 14,
-      "title": "Tuy [Tui]",
-      "path": "europe/spain/northernspain/tuy_tui",
-      "prior_score": 0.1674,
-      "prior_variance": 0.243144,
-      "prior_n": 5
+      "title": "Playa Herradura",
+      "path": "northamerica/costarica/playa_herradura",
+      "prior_score": 0.6571,
+      "prior_variance": 0.226014,
+      "prior_n": 7
     },
     {
       "rank": 15,
-      "title": "Suffolk",
-      "path": "europe/unitedkingdom/suffolk",
-      "prior_score": 0.0117,
-      "prior_variance": 0.23998,
-      "prior_n": 5
+      "title": "Castelvittorio",
+      "path": "europe/italy/liguria/nerviavalley/castelvittorio",
+      "prior_score": -0.3884,
+      "prior_variance": 0.163835,
+      "prior_n": 8
     },
     {
       "rank": 16,
-      "title": "Twickenham",
-      "path": "europe/unitedkingdom/england/twickenham",
-      "prior_score": -1.959,
-      "prior_variance": 0.244781,
-      "prior_n": 6
+      "title": "Scarborough",
+      "path": "australiaandpacific/australia/westernaustralia/scarborough",
+      "prior_score": -0.8324,
+      "prior_variance": 0.179308,
+      "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "Ansbach",
-      "path": "europe/germany/bavaria/ansbach",
-      "prior_score": 0.479,
-      "prior_variance": 0.254916,
-      "prior_n": 5
+      "title": "Gaiman",
+      "path": "southamerica/argentina/gaiman",
+      "prior_score": -0.3804,
+      "prior_variance": 0.183747,
+      "prior_n": 7
     },
     {
       "rank": 18,
-      "title": "Lamia",
-      "path": "europe/greece/lamia",
-      "prior_score": -1.7832,
-      "prior_variance": 0.265747,
-      "prior_n": 6
+      "title": "Woods Hole",
+      "path": "northamerica/unitedstates/massachusetts/woods_hole",
+      "prior_score": -1.7075,
+      "prior_variance": 0.218392,
+      "prior_n": 7
     },
     {
       "rank": 19,
-      "title": "Pigna",
-      "path": "europe/italy/liguria/nerviavalley/pigna",
-      "prior_score": 0.5963,
-      "prior_variance": 0.294335,
-      "prior_n": 6
+      "title": "Gulfport",
+      "path": "northamerica/unitedstates/mississippi/gulfport",
+      "prior_score": -3.2958,
+      "prior_variance": 0.231535,
+      "prior_n": 7
     },
     {
       "rank": 20,
-      "title": "Daytoa Beach",
-      "path": "northamerica/unitedstates/florida/daytoabeach",
-      "prior_score": -1.5252,
-      "prior_variance": 0.356927,
-      "prior_n": 6
+      "title": "Mikindani-Mtwara",
+      "path": "africa/tanzania/mikindanimtwara",
+      "prior_score": -3.5514,
+      "prior_variance": 0.186654,
+      "prior_n": 7
     },
     {
       "rank": 21,
-      "title": "Coventry",
-      "path": "europe/unitedkingdom/england/coventry",
-      "prior_score": -2.3564,
-      "prior_variance": 0.271269,
+      "title": "Ossetia",
+      "path": "europe/russia/ossetia",
+      "prior_score": -6.0819,
+      "prior_variance": 0.254684,
       "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Nocka Nocka Land",
-      "path": "europe/ireland/cork/nockanockaland",
-      "prior_score": -5.8879,
-      "prior_variance": 0.250991,
-      "prior_n": 5
+      "title": "Nablus",
+      "path": "asia/palestinianauthority/nablus",
+      "prior_score": -5.2264,
+      "prior_variance": 0.210653,
+      "prior_n": 7
     },
     {
       "rank": 23,
-      "title": "Taunsa Sharif",
-      "path": "asia/pakistan/taunsa_sharif",
-      "prior_score": -9.3635,
-      "prior_variance": 0.372878,
-      "prior_n": 5
+      "title": "Berb\u00e9rati",
+      "path": "africa/centralafricanrepublic/berberati",
+      "prior_score": -10.8331,
+      "prior_variance": 0.451459,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "Shendi",
-      "path": "africa/sudan/shendi",
-      "prior_score": -6.5503,
-      "prior_variance": 0.326985,
+      "title": "Garowe",
+      "path": "africa/somalia/garowe",
+      "prior_score": -11.0991,
+      "prior_variance": 0.644296,
       "prior_n": 6
     }
   ]

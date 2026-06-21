@@ -6,7 +6,7 @@ latitude: 51.47809
 longitude: 0.323313
 title: Grays
 type: location
-score: 0.3
+score: 0.23
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Grays,_Essex

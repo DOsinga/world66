@@ -1,0 +1,200 @@
+{
+  "round": 4798,
+  "timestamp": "2026-06-14T00:42:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Koh Phi Phi",
+      "path": "asia/thailand/kohphiphi",
+      "prior_score": 7.2709,
+      "prior_variance": 0.126119,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Delhi",
+      "path": "asia/india/delhi",
+      "prior_score": 2.4054,
+      "prior_variance": 0.117766,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_score": 5.4091,
+      "prior_variance": 0.106269,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Angra dos Reis",
+      "path": "southamerica/brazil/angradosreis",
+      "prior_score": 2.4497,
+      "prior_variance": 0.103626,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Natal",
+      "path": "southamerica/brazil/natal",
+      "prior_score": 0.5085,
+      "prior_variance": 0.119726,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Esztergom",
+      "path": "europe/hungary/esztergom",
+      "prior_score": 2.4987,
+      "prior_variance": 0.093361,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Ulcinj",
+      "path": "europe/montenegro/ulcinj_1",
+      "prior_score": 2.0581,
+      "prior_variance": 0.085426,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Tsurphu Monastery",
+      "path": "asia/china/tibet/tsurphu_monastery",
+      "prior_score": 2.0335,
+      "prior_variance": 0.089488,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Vilsandi National Park",
+      "path": "europe/estonia/vilsandi_national_park",
+      "prior_score": 0.4264,
+      "prior_variance": 0.084957,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Huangzhong",
+      "path": "asia/china/qinghai/huangzhong",
+      "prior_score": -1.3752,
+      "prior_variance": 0.090595,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Shirdi",
+      "path": "asia/india/maharashtra/shirdi",
+      "prior_score": -1.5334,
+      "prior_variance": 0.084344,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_score": -1.2438,
+      "prior_variance": 0.093662,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Quba",
+      "path": "europe/azerbaijan/quba",
+      "prior_score": -0.187,
+      "prior_variance": 0.087059,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Cavaillon",
+      "path": "europe/france/midi/provence/cavaillon",
+      "prior_score": 0.2684,
+      "prior_variance": 0.0813,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Belmopan",
+      "path": "northamerica/belize/belmopan",
+      "prior_score": -1.2975,
+      "prior_variance": 0.082538,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Cavan",
+      "path": "europe/ireland/cavan",
+      "prior_score": -2.5964,
+      "prior_variance": 0.094571,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Severn Bore",
+      "path": "europe/unitedkingdom/england/gloucestershire/severn_bore",
+      "prior_score": -1.5226,
+      "prior_variance": 0.090459,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/rockhampton",
+      "prior_score": -2.0405,
+      "prior_variance": 0.085524,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/chile/concepcion",
+      "prior_score": -2.3774,
+      "prior_variance": 0.098924,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Orange Walk Town",
+      "path": "northamerica/belize/orangewalktown",
+      "prior_score": -2.5392,
+      "prior_variance": 0.080352,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Gab\u00e8s",
+      "path": "africa/tunisia/gabes",
+      "prior_score": -3.6833,
+      "prior_variance": 0.093691,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Cosseria",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cosseria",
+      "prior_score": -2.8066,
+      "prior_variance": 0.100532,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Chickasaw",
+      "path": "northamerica/unitedstates/oklahoma/chickasaw",
+      "prior_score": -6.9853,
+      "prior_variance": 0.155733,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Germa",
+      "path": "africa/libya/germa",
+      "prior_score": -7.4335,
+      "prior_variance": 0.15404,
+      "prior_n": 15
+    }
+  ]
+}

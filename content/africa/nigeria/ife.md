@@ -5,7 +5,7 @@ done:
 latitude: 7.4828
 loc_type: city
 longitude: 4.5604
-score: 0.35
+score: 0.31
 title: Ile-Ife
 type: location
 ---

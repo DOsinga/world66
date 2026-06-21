@@ -7,7 +7,7 @@ done:
 latitude: 44.2312
 loc_type: city
 longitude: -76.486
-score: 0.49
+score: 0.42
 title: Kingston
 type: location
 ---

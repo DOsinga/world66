@@ -1,200 +1,200 @@
 {
   "round": 2044,
-  "timestamp": "2026-04-13T16:05:38",
+  "timestamp": "2026-06-13T21:14:41",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Havana",
-      "path": "northamerica/cuba/havana",
-      "prior_score": 8.4128,
-      "prior_variance": 0.68102,
-      "prior_n": 5
+      "title": "Batanes",
+      "path": "asia/philippines/batanes",
+      "prior_score": 5.215,
+      "prior_variance": 0.253892,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Canmore",
-      "path": "northamerica/canada/alberta/canmore",
-      "prior_score": 6.432,
-      "prior_variance": 0.414001,
-      "prior_n": 5
+      "title": "Huaraz",
+      "path": "southamerica/peru/huaraz",
+      "prior_score": 5.4107,
+      "prior_variance": 0.286901,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Srinagar",
-      "path": "asia/india/jammuandkashmir/srinagar",
-      "prior_score": 4.3516,
-      "prior_variance": 0.284853,
-      "prior_n": 5
+      "title": "Nemrut Dagi",
+      "path": "asia/turkey/nemrutdagi",
+      "prior_score": 5.0259,
+      "prior_variance": 0.220326,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Maine",
-      "path": "northamerica/unitedstates/maine",
-      "prior_score": 4.5039,
-      "prior_variance": 0.318796,
-      "prior_n": 5
+      "title": "Trpanj",
+      "path": "europe/croatia/trpanj",
+      "prior_score": 1.3228,
+      "prior_variance": 0.217365,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Newquay",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/newquay",
-      "prior_score": 2.1578,
-      "prior_variance": 0.290944,
-      "prior_n": 5
+      "title": "Chaves",
+      "path": "europe/portugal/chaves",
+      "prior_score": 0.2605,
+      "prior_variance": 0.193075,
+      "prior_n": 7
     },
     {
       "rank": 6,
-      "title": "Le Mans",
-      "path": "europe/france/centre/lemans",
-      "prior_score": 1.319,
-      "prior_variance": 0.227641,
+      "title": "Lake Naivasha",
+      "path": "africa/kenya/lakes/lakenaivasha",
+      "prior_score": 3.8791,
+      "prior_variance": 0.22604,
       "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Tissamaharama",
-      "path": "asia/srilanka/tissamaharama",
-      "prior_score": -0.4404,
-      "prior_variance": 0.318908,
-      "prior_n": 5
+      "title": "Lobamba",
+      "path": "africa/swaziland/lobamba",
+      "prior_score": -1.3069,
+      "prior_variance": 0.220805,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Tanum",
-      "path": "europe/sweden/tanum",
-      "prior_score": 2.0088,
-      "prior_variance": 0.26572,
-      "prior_n": 5
+      "title": "Lohals",
+      "path": "europe/denmark/lohals",
+      "prior_score": -2.3788,
+      "prior_variance": 0.217675,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Agadez",
-      "path": "africa/niger/agadez",
-      "prior_score": -4.7398,
-      "prior_variance": 0.35308,
-      "prior_n": 7
+      "title": "Vidin",
+      "path": "europe/bulgaria/vidin",
+      "prior_score": -1.6652,
+      "prior_variance": 0.232761,
+      "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "Bad Bentheim",
-      "path": "europe/germany/lowersaxony/bad_bentheim",
-      "prior_score": -1.5715,
-      "prior_variance": 0.242164,
-      "prior_n": 5
+      "title": "Ciudad Real",
+      "path": "europe/spain/centralspain/ciudadreal",
+      "prior_score": -2.7047,
+      "prior_variance": 0.193626,
+      "prior_n": 7
     },
     {
       "rank": 11,
-      "title": "Whiting Bay",
-      "path": "europe/unitedkingdom/scotland/arran/whiting_bay",
-      "prior_score": -1.1793,
-      "prior_variance": 0.244107,
-      "prior_n": 5
+      "title": "Wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbttel",
+      "prior_score": -0.8512,
+      "prior_variance": 0.186339,
+      "prior_n": 7
     },
     {
       "rank": 12,
-      "title": "Morlaix",
-      "path": "europe/france/normandybrittany/morlaix",
-      "prior_score": 0.5537,
-      "prior_variance": 0.241894,
-      "prior_n": 5
+      "title": "Ede",
+      "path": "europe/netherlands/ede",
+      "prior_score": -3.5936,
+      "prior_variance": 0.238433,
+      "prior_n": 7
     },
     {
       "rank": 13,
-      "title": "Timaru",
-      "path": "australiaandpacific/newzealand/timaru",
-      "prior_score": -2.3653,
-      "prior_variance": 0.267457,
-      "prior_n": 5
+      "title": "Moers",
+      "path": "europe/germany/northrhinewestphalia/moers",
+      "prior_score": -4.3224,
+      "prior_variance": 0.230895,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Clairvaux",
-      "path": "europe/france/east/champagne/clairvaux",
-      "prior_score": -1.4512,
-      "prior_variance": 0.244965,
+      "title": "Bamenda",
+      "path": "africa/cameroon/bamenda",
+      "prior_score": -4.2883,
+      "prior_variance": 0.239205,
       "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Idaho Cities of Stanley and Emmett",
-      "path": "northamerica/unitedstates/idaho/idaho_cities_of_st",
-      "prior_score": -1.1715,
-      "prior_variance": 0.25785,
-      "prior_n": 5
+      "title": "Bobo-dioulasso",
+      "path": "africa/burkinafaso/bobodioulasso",
+      "prior_score": -4.3131,
+      "prior_variance": 0.323345,
+      "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "Bellows Falls",
-      "path": "northamerica/unitedstates/vermont/bellowsfalls",
-      "prior_score": -3.1535,
-      "prior_variance": 0.239296,
-      "prior_n": 5
+      "title": "Yakutsk",
+      "path": "europe/russia/yakutsk",
+      "prior_score": -3.1154,
+      "prior_variance": 0.203559,
+      "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "Samara",
-      "path": "europe/russia/samara",
-      "prior_score": -2.8467,
-      "prior_variance": 0.252332,
-      "prior_n": 5
+      "title": "Angeles City",
+      "path": "asia/philippines/angelescity",
+      "prior_score": -2.9844,
+      "prior_variance": 0.288631,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Gerzensee",
-      "path": "europe/switzerland/gerzensee",
-      "prior_score": -1.113,
-      "prior_variance": 0.273334,
-      "prior_n": 5
+      "title": "Dagupan City",
+      "path": "asia/philippines/dagupancity",
+      "prior_score": -3.7216,
+      "prior_variance": 0.27388,
+      "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Okanogan",
-      "path": "northamerica/unitedstates/washington/okanogan",
-      "prior_score": -4.7214,
-      "prior_variance": 0.223322,
+      "title": "Tuscaloosa",
+      "path": "northamerica/unitedstates/alabama/tuscaloosa",
+      "prior_score": -4.4796,
+      "prior_variance": 0.277788,
       "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Winnemucca",
-      "path": "northamerica/unitedstates/nevada/winnemucca",
-      "prior_score": -5.6774,
-      "prior_variance": 0.239826,
+      "title": "\u201cMorgan City\u201d",
+      "path": "northamerica/unitedstates/louisiana/morgan_city",
+      "prior_score": -5.1645,
+      "prior_variance": 0.26017,
       "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "Brong Ahafo Region",
-      "path": "africa/ghana/brong_ahafo_region",
-      "prior_score": -4.5755,
-      "prior_variance": 0.255104,
-      "prior_n": 5
+      "title": "Warsaw",
+      "path": "northamerica/unitedstates/indiana/warsaw",
+      "prior_score": -5.7842,
+      "prior_variance": 0.317539,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Ruskin",
-      "path": "northamerica/unitedstates/florida/ruskin",
-      "prior_score": -5.0021,
-      "prior_variance": 0.302668,
-      "prior_n": 7
+      "title": "Guyuan",
+      "path": "asia/china/ningxia/guyuan",
+      "prior_score": -5.5404,
+      "prior_variance": 0.284522,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Bowling Green",
-      "path": "northamerica/unitedstates/missouri/bowling_green",
-      "prior_score": -7.3565,
-      "prior_variance": 0.56124,
-      "prior_n": 5
+      "title": "Jincheng",
+      "path": "asia/china/shanxiprovince/jincheng",
+      "prior_score": -5.1717,
+      "prior_variance": 0.269226,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "Stockton",
-      "path": "northamerica/unitedstates/california/centralvalley/stockton",
-      "prior_score": -6.3852,
-      "prior_variance": 0.418767,
-      "prior_n": 5
+      "title": "Kasungu",
+      "path": "africa/malawi/zombaplateau/kasungu",
+      "prior_score": -5.575,
+      "prior_variance": 0.24142,
+      "prior_n": 6
     }
   ]
 }

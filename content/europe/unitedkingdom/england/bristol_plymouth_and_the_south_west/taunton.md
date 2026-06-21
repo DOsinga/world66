@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Geograph_3117086_The_Unite
 latitude: 51.014789
 loc_type: city
 longitude: -3.102909
-score: 0.5
+score: 0.35
 title: Taunton
 type: location
 ---

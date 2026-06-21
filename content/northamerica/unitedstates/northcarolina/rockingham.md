@@ -5,7 +5,7 @@ done:
 latitude: 34.938611
 loc_type: city
 longitude: -79.774444
-score: 0.31
+score: 0.24
 title: Rockingham
 type: location
 ---

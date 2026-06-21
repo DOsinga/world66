@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Dongying
 title: Dongying
 type: location
+score: 0.25
 ---
 
 Dongying is one of China's youngest cities, established in 1974 after the discovery of the Shengli oil field — the second-largest in the country — and it has the personality of a place built around a single industry in a hurry. The urban fabric is modern and utilitarian, but the natural setting is extraordinary: the city sits at the mouth of the Yellow River, where China's second-longest waterway deposits its sediment load into the Bohai Sea. The Yellow River Delta grows measurably every year as new land is created, and the resulting wetlands have become a major stopover for migratory birds on the East Asian flyway.

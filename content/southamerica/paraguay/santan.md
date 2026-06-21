@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_San_Estanislao_st
 latitude: -24.665743
 loc_type: city
 longitude: -56.44168
-score: 0.29
+score: 0.23
 title: Santaní
 type: location
 ---

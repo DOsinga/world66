@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catania_vista_dall%27alto_
 latitude: 37.5024
 loc_type: city
 longitude: 15.0874
-score: 0.68
+score: 0.59
 title: Catania
 type: location
 ---

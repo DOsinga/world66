@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Flor%C3%B8_city_view_(HDR,
 latitude: 61.600258
 loc_type: city
 longitude: 5.03496
-score: 0.47
+score: 0.4
 title: Florø
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Knysna_waterfront.jpg
 latitude: -34.0357
 loc_type: city
 longitude: 23.0485
-score: 0.64
+score: 0.54
 sources:
 - https://en.wikipedia.org/wiki/Knysna
 title: Knysna

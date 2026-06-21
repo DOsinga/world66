@@ -4,7 +4,7 @@ done:
 latitude: 40.416284
 loc_type: city
 longitude: -120.653006
-score: 0.32
+score: 0.26
 sources:
 - https://en.wikipedia.org/wiki/Susanville,_California
 title: Susanville

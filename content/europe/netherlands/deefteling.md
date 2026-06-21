@@ -9,7 +9,7 @@ latitude: 51.648431
 longitude: 5.043606
 title: De Efteling
 type: location
-score: 0.6
+score: 0.51
 loc_type: feature
 ---
 

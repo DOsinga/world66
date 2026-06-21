@@ -5,7 +5,7 @@ done:
 latitude: 37.8318
 loc_type: city
 longitude: 20.7563
-score: 0.59
+score: 0.51
 title: Alykes
 type: location
 image: alykes.jpg

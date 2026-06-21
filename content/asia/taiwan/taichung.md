@@ -7,7 +7,7 @@ done:
 latitude: 24.163162
 loc_type: city
 longitude: 120.647828
-score: 0.59
+score: 0.5
 title: Taichung
 type: location
 ---

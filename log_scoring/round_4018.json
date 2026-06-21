@@ -1,0 +1,200 @@
+{
+  "round": 4018,
+  "timestamp": "2026-06-13T23:37:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Clearwater",
+      "path": "northamerica/unitedstates/florida/clearwater",
+      "prior_score": 1.019,
+      "prior_variance": 0.11008,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Marsa Matruh",
+      "path": "africa/egypt/marsa_matroh",
+      "prior_score": -1.094,
+      "prior_variance": 0.11002,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Marugame",
+      "path": "asia/japan/shikoku/marugame",
+      "prior_score": 0.1908,
+      "prior_variance": 0.115977,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Sabaudia",
+      "path": "europe/italy/lazio/sabaudia",
+      "prior_score": 0.4579,
+      "prior_variance": 0.101013,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Kuala Terengganu",
+      "path": "asia/malaysia/kuala_terengganu",
+      "prior_score": 0.8246,
+      "prior_variance": 0.097643,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Celje",
+      "path": "europe/slovenia/celje",
+      "prior_score": 0.5004,
+      "prior_variance": 0.101736,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Mount Heng",
+      "path": "asia/china/hunan/mount_heng",
+      "prior_score": 1.6446,
+      "prior_variance": 0.118379,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Mosj\u00f8en",
+      "path": "europe/norway/mosjen",
+      "prior_score": -0.2234,
+      "prior_variance": 0.11013,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Vordingborg",
+      "path": "europe/denmark/vordingborg",
+      "prior_score": -1.1474,
+      "prior_variance": 0.099201,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Empoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/empoli",
+      "prior_score": -1.7129,
+      "prior_variance": 0.112806,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Contursi Terme",
+      "path": "europe/italy/campania/contursi_terme",
+      "prior_score": -2.6991,
+      "prior_variance": 0.127658,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Tekirda\u011f",
+      "path": "asia/turkey/tekirdag",
+      "prior_score": -1.4786,
+      "prior_variance": 0.094537,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Poitiers",
+      "path": "europe/france/midi/aquitaine",
+      "prior_score": 0.4201,
+      "prior_variance": 0.1265,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Jinggangshan",
+      "path": "asia/china/jiangxi/jinggangshan",
+      "prior_score": -0.2736,
+      "prior_variance": 0.106959,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Lake Havasu City",
+      "path": "northamerica/unitedstates/arizona/lakehavasucity",
+      "prior_score": -1.443,
+      "prior_variance": 0.103785,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Jacmel",
+      "path": "northamerica/thecaribbean/haiti/jacmel",
+      "prior_score": -1.3368,
+      "prior_variance": 0.118226,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Santa Rosa de Cop\u00e1n",
+      "path": "northamerica/honduras/santarosadecop",
+      "prior_score": -1.7252,
+      "prior_variance": 0.098903,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Trinidad",
+      "path": "northamerica/unitedstates/california/northcoast/trinidad",
+      "prior_score": -2.0661,
+      "prior_variance": 0.101106,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Hiawassee",
+      "path": "northamerica/unitedstates/georgia/hiawassee_ga",
+      "prior_score": -1.8933,
+      "prior_variance": 0.112846,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Bakau",
+      "path": "africa/gambia/bakau",
+      "prior_score": -2.0449,
+      "prior_variance": 0.109797,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Juffure",
+      "path": "africa/gambia/juffure",
+      "prior_score": -1.8235,
+      "prior_variance": 0.104518,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_score": -1.4894,
+      "prior_variance": 0.104773,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Ganish",
+      "path": "asia/pakistan/hunzavalley/ganish",
+      "prior_score": -0.3366,
+      "prior_variance": 0.116377,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Mogadishu",
+      "path": "africa/somalia/mogadishu",
+      "prior_score": -12.2307,
+      "prior_variance": 1.290266,
+      "prior_n": 12
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Areia_Branca_Dili_Timor_Le
 latitude: -8.553681
 loc_type: city
 longitude: 125.578409
-score: 0.41
+score: 0.31
 title: Dili
 type: location
 ---

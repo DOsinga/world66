@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:UvA-BC_300.295_-_Siboga_-_
 latitude: -5.7715
 loc_type: city
 longitude: 132.7378
-score: 0.61
+score: 0.49
 title: Kei Islands
 type: location
 ---

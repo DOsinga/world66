@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/56351377@N06/33765232584
 latitude: 24.249
 loc_type: city
 longitude: 55.793
-score: 0.35
+score: 0.29
 title: Buraimi
 type: location
 ---

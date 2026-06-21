@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ibri,_Oman_(2013).jpg
 latitude: 23.216164
 loc_type: city
 longitude: 56.515355
-score: 0.35
+score: 0.27
 title: Ibri
 type: location
 ---

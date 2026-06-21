@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2013-09-23_12_30_27_Far_vi
 latitude: 38.3738
 loc_type: city
 longitude: -110.7064
-score: 0.36
+score: 0.32
 sources:
 - https://en.wikipedia.org/wiki/Hanksville,_Utah
 - https://en.wikipedia.org/wiki/Mars_Desert_Research_Station

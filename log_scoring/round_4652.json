@@ -1,0 +1,200 @@
+{
+  "round": 4652,
+  "timestamp": "2026-06-14T00:30:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gili Trawangan",
+      "path": "asia/indonesia/lombok/giliislands/gili_trawangan",
+      "prior_score": 5.1308,
+      "prior_variance": 0.102866,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Lijiang",
+      "path": "asia/china/yunnanprovince/lijiang",
+      "prior_score": 7.1712,
+      "prior_variance": 0.139128,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Swahili Coast",
+      "path": "africa/tanzania/swahilicoast",
+      "prior_score": 4.0447,
+      "prior_variance": 0.099495,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_score": 0.8179,
+      "prior_variance": 0.101251,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Nazareth",
+      "path": "asia/israel/nazareth",
+      "prior_score": 1.9917,
+      "prior_variance": 0.09936,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Tunbridge Wells",
+      "path": "europe/unitedkingdom/england/south_east/tunbridge_wells",
+      "prior_score": -0.6593,
+      "prior_variance": 0.109859,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Imst",
+      "path": "europe/austria/imst",
+      "prior_score": 0.7939,
+      "prior_variance": 0.09207,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Skerries",
+      "path": "europe/ireland/skerries",
+      "prior_score": -0.4211,
+      "prior_variance": 0.085539,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Bloemendaal",
+      "path": "europe/netherlands/bloemendaal",
+      "prior_score": -0.9363,
+      "prior_variance": 0.086966,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Kalocsa",
+      "path": "europe/hungary/kalocsa",
+      "prior_score": -1.3745,
+      "prior_variance": 0.089609,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Gonio",
+      "path": "europe/georgia/gonio",
+      "prior_score": -0.0826,
+      "prior_variance": 0.09241,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Duncan",
+      "path": "northamerica/canada/britishcolumbia/duncan",
+      "prior_score": -2.2143,
+      "prior_variance": 0.08335,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Lidice",
+      "path": "europe/czechrepublic/lidice",
+      "prior_score": -2.7827,
+      "prior_variance": 0.110037,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Fochabers",
+      "path": "europe/unitedkingdom/scotland/fochabers",
+      "prior_score": -1.9578,
+      "prior_variance": 0.084026,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Bandiagara",
+      "path": "africa/mali/dogoncountry/bandiagara",
+      "prior_score": -0.9612,
+      "prior_variance": 0.115544,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_score": -1.7305,
+      "prior_variance": 0.096968,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Neretva",
+      "path": "europe/croatia/neretva",
+      "prior_score": -2.4245,
+      "prior_variance": 0.121144,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Abbottabad",
+      "path": "asia/pakistan/abbottabad",
+      "prior_score": -4.46,
+      "prior_variance": 0.10786,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Bingerville",
+      "path": "africa/ivorycoast/bingerville",
+      "prior_score": -4.9541,
+      "prior_variance": 0.10423,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Latakia",
+      "path": "asia/syria/latakia",
+      "prior_score": -5.6157,
+      "prior_variance": 0.137554,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Sogod",
+      "path": "asia/philippines/southern_leyte/sogod",
+      "prior_score": -4.339,
+      "prior_variance": 0.095777,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Weatherford",
+      "path": "northamerica/unitedstates/oklahoma/weatherford",
+      "prior_score": -5.2517,
+      "prior_variance": 0.109129,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Bossaso",
+      "path": "africa/somalia/bossaso",
+      "prior_score": -10.2322,
+      "prior_variance": 0.361157,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Jacobabad",
+      "path": "asia/pakistan/jacobabad",
+      "prior_score": -9.4843,
+      "prior_variance": 0.258975,
+      "prior_n": 14
+    }
+  ]
+}

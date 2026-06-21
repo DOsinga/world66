@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/9297241@N02/52781884863
 latitude: 33.9286
 loc_type: city
 longitude: -80.8062
-score: 0.26
+score: 0.22
 title: Hopkins
 type: location
 ---

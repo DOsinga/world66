@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Churches_in_Mariana,_Minas
 latitude: -20.378147
 loc_type: city
 longitude: -43.417486
-score: 0.35
+score: 0.4
 title: Mariana
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 3510,
+  "timestamp": "2026-06-13T22:59:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tulum",
+      "path": "northamerica/mexico/tulum",
+      "prior_score": 8.4408,
+      "prior_variance": 0.173417,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Pontine Islands",
+      "path": "europe/italy/lazio/pontineislands",
+      "prior_score": 4.0194,
+      "prior_variance": 0.127711,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Dir\u2019iyah",
+      "path": "asia/saudiarabia/diriyah",
+      "prior_score": 0.3521,
+      "prior_variance": 0.134703,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Taxila",
+      "path": "asia/pakistan/taxila",
+      "prior_score": -0.6897,
+      "prior_variance": 0.148721,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Hiwasa",
+      "path": "asia/japan/shikoku/hiwasa_tokushima",
+      "prior_score": 0.087,
+      "prior_variance": 0.113077,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Mae Sariang",
+      "path": "asia/thailand/mae_sariang",
+      "prior_score": 0.643,
+      "prior_variance": 0.128425,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Pangani",
+      "path": "africa/tanzania/pangani",
+      "prior_score": 0.6137,
+      "prior_variance": 0.119864,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Hat Yai",
+      "path": "asia/thailand/hatyai",
+      "prior_score": 0.1887,
+      "prior_variance": 0.10973,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Cetti Bay",
+      "path": "australiaandpacific/guam/cettibay",
+      "prior_score": -0.9896,
+      "prior_variance": 0.14598,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Branson",
+      "path": "northamerica/unitedstates/missouri/branson",
+      "prior_score": -1.7148,
+      "prior_variance": 0.119542,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Hannibal",
+      "path": "northamerica/unitedstates/missouri/hanibal_missouri",
+      "prior_score": -1.085,
+      "prior_variance": 0.124778,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_score": -1.5532,
+      "prior_variance": 0.113643,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Pszczyna",
+      "path": "europe/poland/pszczyna",
+      "prior_score": -0.435,
+      "prior_variance": 0.119344,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Jyv\u00e4skyl\u00e4",
+      "path": "europe/finland/jyvaskyla",
+      "prior_score": -0.7554,
+      "prior_variance": 0.124212,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Vordingborg",
+      "path": "europe/denmark/vordingborg",
+      "prior_score": -1.1529,
+      "prior_variance": 0.110407,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Ny\u00edregyh\u00e1za",
+      "path": "europe/hungary/nyiregyhaza",
+      "prior_score": -2.9857,
+      "prior_variance": 0.130271,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Roanoke",
+      "path": "northamerica/unitedstates/virginia/roanoke",
+      "prior_score": -1.8418,
+      "prior_variance": 0.124639,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Wuzhishan",
+      "path": "asia/china/hainanisland/wuzhishan",
+      "prior_score": -1.901,
+      "prior_variance": 0.131019,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Qusar",
+      "path": "europe/azerbaijan/qusar",
+      "prior_score": -2.4389,
+      "prior_variance": 0.119124,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica",
+      "prior_score": -1.3867,
+      "prior_variance": 0.155179,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/north_island/waikato/hamilton",
+      "prior_score": -1.6798,
+      "prior_variance": 0.124399,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Sabadell",
+      "path": "europe/spain/catalonia/sabadell",
+      "prior_score": -2.8546,
+      "prior_variance": 0.121081,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Warsaw",
+      "path": "northamerica/unitedstates/indiana/warsaw",
+      "prior_score": -5.6652,
+      "prior_variance": 0.138407,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Maradi",
+      "path": "africa/niger/maradi",
+      "prior_score": -7.9363,
+      "prior_variance": 0.269009,
+      "prior_n": 11
+    }
+  ]
+}

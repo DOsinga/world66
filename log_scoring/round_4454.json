@@ -1,0 +1,200 @@
+{
+  "round": 4454,
+  "timestamp": "2026-06-14T00:13:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ollantaytambo",
+      "path": "southamerica/peru/ollantaytambo",
+      "prior_score": 6.6441,
+      "prior_variance": 0.118479,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Etosha National Park",
+      "path": "africa/namibia/etosha",
+      "prior_score": 6.4688,
+      "prior_variance": 0.122421,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Gangtok",
+      "path": "asia/india/sikkim/gangtok",
+      "prior_score": 4.4765,
+      "prior_variance": 0.090266,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Salta",
+      "path": "southamerica/argentina/salta",
+      "prior_score": 4.6629,
+      "prior_variance": 0.101479,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/whitevillages/setenil_de_las_bodegas",
+      "prior_score": 4.0778,
+      "prior_variance": 0.103783,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Davos",
+      "path": "europe/switzerland/davos",
+      "prior_score": 5.0647,
+      "prior_variance": 0.102663,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Val Ferret",
+      "path": "europe/switzerland/val_ferret",
+      "prior_score": 3.9618,
+      "prior_variance": 0.098618,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Pondicherry",
+      "path": "asia/india/tamilnadu/pondicherry",
+      "prior_score": 3.4958,
+      "prior_variance": 0.106333,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Gokarna",
+      "path": "asia/india/karnataka/gokarna",
+      "prior_score": 2.6893,
+      "prior_variance": 0.089621,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Nong Khai",
+      "path": "asia/thailand/nongkhai",
+      "prior_score": 0.9471,
+      "prior_variance": 0.094432,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Brno",
+      "path": "europe/czechrepublic/brno",
+      "prior_score": 2.0115,
+      "prior_variance": 0.095111,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "North Berwick",
+      "path": "europe/unitedkingdom/scotland/northberwick",
+      "prior_score": 1.7816,
+      "prior_variance": 0.092898,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Betws-y-Coed",
+      "path": "europe/unitedkingdom/wales/snowdonia/betwsycoed",
+      "prior_score": 2.5087,
+      "prior_variance": 0.092395,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Hammamet",
+      "path": "africa/tunisia/hammamet",
+      "prior_score": 2.8533,
+      "prior_variance": 0.082872,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Beit Shean",
+      "path": "asia/israel/beitshean",
+      "prior_score": 0.8689,
+      "prior_variance": 0.102002,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Davao",
+      "path": "asia/philippines/mindanaoisland/davao",
+      "prior_score": -0.589,
+      "prior_variance": 0.109107,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Olympos",
+      "path": "asia/turkey/olympos",
+      "prior_score": 3.3852,
+      "prior_variance": 0.09314,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Ourense",
+      "path": "europe/spain/galicia/ourense",
+      "prior_score": 0.4152,
+      "prior_variance": 0.090952,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Mazara del Vallo",
+      "path": "europe/italy/sicily/mazara_del_vallo",
+      "prior_score": 1.0382,
+      "prior_variance": 0.091157,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Valen\u00e7a do Minho",
+      "path": "europe/portugal/valena_do_minho",
+      "prior_score": 1.1075,
+      "prior_variance": 0.084583,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Laval",
+      "path": "europe/france/centre/loirevalley/laval",
+      "prior_score": -0.7912,
+      "prior_variance": 0.101032,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Yorktown",
+      "path": "northamerica/unitedstates/virginia/yorktown",
+      "prior_score": 1.4291,
+      "prior_variance": 0.093112,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Sidney",
+      "path": "northamerica/canada/britishcolumbia/sidney",
+      "prior_score": -1.0421,
+      "prior_variance": 0.097401,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Chickasaw",
+      "path": "northamerica/unitedstates/oklahoma/chickasaw",
+      "prior_score": -7.0094,
+      "prior_variance": 0.155767,
+      "prior_n": 14
+    }
+  ]
+}

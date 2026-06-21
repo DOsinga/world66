@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/49714642@N08/5721639231
 latitude: 38.246242
 loc_type: city
 longitude: 21.735085
-score: 0.53
+score: 0.47
 title: Patras
 type: location
 ---

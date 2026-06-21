@@ -1,0 +1,200 @@
+{
+  "round": 4752,
+  "timestamp": "2026-06-14T00:38:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Colossi of Memnon",
+      "path": "africa/egypt/colossiofmemnon",
+      "prior_score": 4.3122,
+      "prior_variance": 0.097214,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "J\u00f6kuls\u00e1rl\u00f3n",
+      "path": "europe/iceland/jokulsarlon",
+      "prior_score": 9.1915,
+      "prior_variance": 0.174704,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Lhasa",
+      "path": "asia/china/tibet/lhasa",
+      "prior_score": 6.4021,
+      "prior_variance": 0.16157,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Chamarel",
+      "path": "africa/mauritius/chamarel",
+      "prior_score": 4.0114,
+      "prior_variance": 0.093715,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Bari",
+      "path": "europe/italy/puglia/bari",
+      "prior_score": 3.882,
+      "prior_variance": 0.087454,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Mah\u00e9bourg",
+      "path": "africa/mauritius/mahebourg",
+      "prior_score": 3.5275,
+      "prior_variance": 0.08317,
+      "prior_n": 17
+    },
+    {
+      "rank": 7,
+      "title": "Bundoran",
+      "path": "europe/ireland/bundoran",
+      "prior_score": 0.6725,
+      "prior_variance": 0.084988,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/south_east/richmond",
+      "prior_score": 1.2779,
+      "prior_variance": 0.106125,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "St. Aignan",
+      "path": "europe/france/centre/loirevalley/staignan",
+      "prior_score": 1.2139,
+      "prior_variance": 0.08955,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Mission Beach",
+      "path": "australiaandpacific/australia/queensland/missionbeach",
+      "prior_score": 1.6837,
+      "prior_variance": 0.088248,
+      "prior_n": 17
+    },
+    {
+      "rank": 11,
+      "title": "North Shore City",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/northshorecity",
+      "prior_score": -0.3357,
+      "prior_variance": 0.090873,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Addis Ababa",
+      "path": "africa/ethiopia/addisababa",
+      "prior_score": 0.419,
+      "prior_variance": 0.080602,
+      "prior_n": 17
+    },
+    {
+      "rank": 13,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/worcester",
+      "prior_score": -2.7869,
+      "prior_variance": 0.10146,
+      "prior_n": 17
+    },
+    {
+      "rank": 14,
+      "title": "Pite\u0219ti",
+      "path": "europe/romania/pitesti",
+      "prior_score": -4.027,
+      "prior_variance": 0.101367,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Namibe",
+      "path": "africa/angola/namibe",
+      "prior_score": -4.7035,
+      "prior_variance": 0.102551,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Bartlesville",
+      "path": "northamerica/unitedstates/oklahoma/bartlesville",
+      "prior_score": -3.8329,
+      "prior_variance": 0.088405,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Vijayanagaram",
+      "path": "asia/india/andhrapradesh/vijayanagaram",
+      "prior_score": -5.1237,
+      "prior_variance": 0.110327,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Kadiri",
+      "path": "asia/india/andhrapradesh/kadiri",
+      "prior_score": -5.7317,
+      "prior_variance": 0.095495,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Moclips",
+      "path": "northamerica/unitedstates/washington/moclips",
+      "prior_score": -2.9667,
+      "prior_variance": 0.086662,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Garberville",
+      "path": "northamerica/unitedstates/california/northcoast/garberville",
+      "prior_score": -3.2886,
+      "prior_variance": 0.090599,
+      "prior_n": 17
+    },
+    {
+      "rank": 21,
+      "title": "Placentia",
+      "path": "northamerica/unitedstates/california/placentia",
+      "prior_score": -5.5698,
+      "prior_variance": 0.118485,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Reedley",
+      "path": "northamerica/unitedstates/california/centralvalley/reedley",
+      "prior_score": -5.6517,
+      "prior_variance": 0.096459,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Weiser",
+      "path": "northamerica/unitedstates/idaho/weiser",
+      "prior_score": -4.5065,
+      "prior_variance": 0.100364,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Kewaskum",
+      "path": "northamerica/unitedstates/wisconsin/kewaskum",
+      "prior_score": -5.713,
+      "prior_variance": 0.120746,
+      "prior_n": 16
+    }
+  ]
+}

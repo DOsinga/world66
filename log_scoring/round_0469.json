@@ -1,200 +1,200 @@
 {
   "round": 469,
-  "timestamp": "2026-04-12T09:31:59",
+  "timestamp": "2026-06-13T19:36:47",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "London",
-      "path": "europe/unitedkingdom/england/london",
-      "prior_mu": 29.4372,
-      "prior_sigma": 6.8088,
+      "title": "Hong Kong",
+      "path": "asia/china/hongkong",
+      "prior_score": 13.0583,
+      "prior_variance": 8.09231,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Iona",
-      "path": "europe/unitedkingdom/scotland/iona",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Shanghai",
+      "path": "asia/china/shanghai",
+      "prior_score": 11.3724,
+      "prior_variance": 4.226853,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Glendale",
-      "path": "europe/unitedkingdom/scotland/skye/glendale",
-      "prior_mu": 21.608,
-      "prior_sigma": 4.7241,
-      "prior_n": 2
+      "title": "The Bosphorus",
+      "path": "asia/turkey/istanbul/thebosphorus",
+      "prior_score": 14.7398,
+      "prior_variance": 7.36635,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Glenridding",
-      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/glenridding",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Salzburg",
+      "path": "europe/austria/salzburg",
+      "prior_score": 13.8755,
+      "prior_variance": 7.721756,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Malhamdale",
-      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/malhamdale",
-      "prior_mu": 21.7091,
-      "prior_sigma": 4.5886,
-      "prior_n": 2
+      "title": "Taormina",
+      "path": "europe/italy/sicily/taormina",
+      "prior_score": 9.1818,
+      "prior_variance": 5.206467,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Salisbury",
-      "path": "europe/unitedkingdom/england/salisbury",
-      "prior_mu": 21.4096,
-      "prior_sigma": 4.6707,
-      "prior_n": 2
+      "title": "Grand Teton",
+      "path": "northamerica/unitedstates/wyoming/grandteton",
+      "prior_score": 14.2845,
+      "prior_variance": 2.887601,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Bushmills",
-      "path": "europe/unitedkingdom/northernireland/bushmills",
-      "prior_mu": 22.2889,
-      "prior_sigma": 5.5342,
+      "title": "El Calafate",
+      "path": "southamerica/argentina/patagonia/calafate",
+      "prior_score": 11.5851,
+      "prior_variance": 8.638039,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Portrush",
-      "path": "europe/unitedkingdom/northernireland/portrush",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Coron",
+      "path": "asia/philippines/coron",
+      "prior_score": 13.1867,
+      "prior_variance": 3.366563,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Derry",
-      "path": "europe/unitedkingdom/northernireland/derry",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Puerto Baquerizo Moreno",
+      "path": "southamerica/ecuador/galapagosislands/puerto_baquerizo_moreno",
+      "prior_score": 12.3511,
+      "prior_variance": 8.453533,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Chepstow",
-      "path": "europe/unitedkingdom/wales/chepstow",
-      "prior_mu": 22.7075,
-      "prior_sigma": 5.9479,
+      "title": "Verbier",
+      "path": "europe/switzerland/verbier",
+      "prior_score": 11.51,
+      "prior_variance": 8.931963,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Weymouth",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/weymouth",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bodnath",
+      "path": "asia/nepal/bodnath",
+      "prior_score": 11.075,
+      "prior_variance": 2.165389,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Exeter",
-      "path": "europe/unitedkingdom/england/exeter",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/santiago_de_compostela",
+      "prior_score": 12.6197,
+      "prior_variance": 3.441404,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Norwich",
-      "path": "europe/unitedkingdom/england/norwich",
-      "prior_mu": 22.7096,
-      "prior_sigma": 5.9483,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_score": 12.7324,
+      "prior_variance": 3.574475,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Din Lligwy",
-      "path": "europe/unitedkingdom/wales/anglesey/din_lligwy",
-      "prior_mu": 21.9371,
-      "prior_sigma": 5.3766,
+      "title": "Innsbruck",
+      "path": "europe/austria/innsbruck",
+      "prior_score": 10.9515,
+      "prior_variance": 9.296847,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Forest of Dean",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/forestofdean",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Quito",
+      "path": "southamerica/ecuador/quito",
+      "prior_score": 11.0886,
+      "prior_variance": 9.21251,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Scotland",
-      "path": "europe/unitedkingdom/scotland",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Vieques",
+      "path": "northamerica/thecaribbean/puertorico/vieques",
+      "prior_score": 10.3707,
+      "prior_variance": 2.478641,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Hartlepool",
-      "path": "europe/unitedkingdom/england/newcastle_and_nort/hartlepool",
-      "prior_mu": 22.3777,
-      "prior_sigma": 5.5621,
+      "title": "Hamilton",
+      "path": "northamerica/bermuda/hamilton_capital",
+      "prior_score": 13.2789,
+      "prior_variance": 3.746032,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Wolferton",
-      "path": "europe/unitedkingdom/norfolk/wolferton",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Forio",
+      "path": "europe/italy/campania/ischia/forio",
+      "prior_score": 9.4871,
+      "prior_variance": 2.557985,
       "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Blandford Forum",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/blandford/blandford_forum",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Comino",
+      "path": "europe/malta/comino",
+      "prior_score": 9.3135,
+      "prior_variance": 6.472338,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Thetford",
-      "path": "europe/unitedkingdom/england/eastern_england/thetfordnorfolk",
-      "prior_mu": 21.5586,
-      "prior_sigma": 5.9241,
+      "title": "Cascades d'Ouzoud",
+      "path": "africa/morocco/cascades_ouzoud",
+      "prior_score": 8.9444,
+      "prior_variance": 2.178813,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Bolton",
-      "path": "europe/unitedkingdom/england/bolton",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lang Co Beach",
+      "path": "asia/vietnam/hue/aroundhue/langcobeach",
+      "prior_score": 8.131,
+      "prior_variance": 1.978521,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Renfrew",
-      "path": "europe/unitedkingdom/scotland/glasgow/renfrew",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mayotte",
+      "path": "africa/comoros/mayotte",
+      "prior_score": 7.3329,
+      "prior_variance": 2.36586,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Consett",
-      "path": "europe/unitedkingdom/england/consett",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Comacchio",
+      "path": "europe/italy/emiliaromagna/comacchio",
+      "prior_score": 5.5922,
+      "prior_variance": 2.009814,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Harlow",
-      "path": "europe/unitedkingdom/england/harlow",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/vitilevu/suva",
+      "prior_score": 6.8541,
+      "prior_variance": 3.016383,
+      "prior_n": 1
     }
   ]
 }

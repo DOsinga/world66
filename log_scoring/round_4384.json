@@ -1,0 +1,200 @@
+{
+  "round": 4384,
+  "timestamp": "2026-06-14T00:08:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chapada Diamantina",
+      "path": "southamerica/brazil/chapadadiamantina",
+      "prior_score": 4.6519,
+      "prior_variance": 0.104692,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Seward",
+      "path": "northamerica/unitedstates/alaska/seward",
+      "prior_score": 2.9349,
+      "prior_variance": 0.125535,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Nagarkot",
+      "path": "asia/nepal/nagarkot",
+      "prior_score": 3.6508,
+      "prior_variance": 0.106313,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Toraja Highland",
+      "path": "asia/indonesia/sulawesi/toraja_highland",
+      "prior_score": 3.8345,
+      "prior_variance": 0.122697,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Yerevan",
+      "path": "europe/armenia/yerevan",
+      "prior_score": 3.556,
+      "prior_variance": 0.112069,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Sevanavank",
+      "path": "europe/armenia/sevanavank",
+      "prior_score": 1.6372,
+      "prior_variance": 0.088625,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Cuenca",
+      "path": "southamerica/ecuador/cuenca",
+      "prior_score": 5.1535,
+      "prior_variance": 0.115751,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Victoria",
+      "path": "northamerica/canada/britishcolumbia/victoria",
+      "prior_score": 5.3654,
+      "prior_variance": 0.109405,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Qiyun Mountain",
+      "path": "asia/china/anhui/qiyun_mountain",
+      "prior_score": 1.8925,
+      "prior_variance": 0.096438,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Hunter Valley",
+      "path": "australiaandpacific/australia/newsouthwales/hunter_valley",
+      "prior_score": 3.3871,
+      "prior_variance": 0.101597,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Antananarivo",
+      "path": "africa/madagascar/antananarivo",
+      "prior_score": -1.4802,
+      "prior_variance": 0.097022,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "W National Park",
+      "path": "africa/niger/parkw",
+      "prior_score": -2.3577,
+      "prior_variance": 0.131334,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Wairoa",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/wairoa",
+      "prior_score": -3.1063,
+      "prior_variance": 0.093036,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Provo",
+      "path": "northamerica/unitedstates/utah/provo",
+      "prior_score": -2.2355,
+      "prior_variance": 0.09992,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/montana/virginiacity",
+      "prior_score": -0.4854,
+      "prior_variance": 0.09449,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Zuni",
+      "path": "northamerica/unitedstates/newmexico/zuni",
+      "prior_score": -2.3186,
+      "prior_variance": 0.106322,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Ely",
+      "path": "northamerica/unitedstates/nevada/ely",
+      "prior_score": -3.7625,
+      "prior_variance": 0.11525,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "New Castle",
+      "path": "northamerica/unitedstates/delaware/newcastle",
+      "prior_score": -2.9733,
+      "prior_variance": 0.105974,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Winter Haven",
+      "path": "northamerica/unitedstates/florida/winterhaven",
+      "prior_score": -3.5441,
+      "prior_variance": 0.102599,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Sarnia",
+      "path": "northamerica/canada/ontario/sarnia",
+      "prior_score": -3.5538,
+      "prior_variance": 0.097752,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Ait Ourir",
+      "path": "africa/morocco/aitourir",
+      "prior_score": -4.4876,
+      "prior_variance": 0.117682,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Khor",
+      "path": "asia/qatar/khor",
+      "prior_score": -4.6621,
+      "prior_variance": 0.103121,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Al Khums",
+      "path": "africa/libya/al_khums",
+      "prior_score": -6.5353,
+      "prior_variance": 0.142493,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Qatif",
+      "path": "asia/saudiarabia/qatif",
+      "prior_score": -6.1872,
+      "prior_variance": 0.119051,
+      "prior_n": 14
+    }
+  ]
+}

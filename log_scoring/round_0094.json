@@ -1,200 +1,200 @@
 {
   "round": 94,
-  "timestamp": "2026-04-12T08:03:34",
+  "timestamp": "2026-06-13T19:19:15",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Juneau",
-      "path": "northamerica/unitedstates/alaska/juneau",
-      "prior_mu": 21.54,
-      "prior_sigma": 3.64,
-      "prior_n": 3
+      "title": "Havana",
+      "path": "northamerica/thecaribbean/cuba/havana",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Kotohira",
-      "path": "asia/japan/shikoku/kotohira",
-      "prior_mu": 22.49,
-      "prior_sigma": 3.58,
-      "prior_n": 3
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/whitevillages/setenil_de_las_bodegas",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "N\u00eemes",
-      "path": "europe/france/midi/provence/nimes",
-      "prior_mu": 24.03,
-      "prior_sigma": 3.36,
-      "prior_n": 4
+      "title": "Wudang Mountains",
+      "path": "asia/china/hubei/wudang_mountains",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Imst",
-      "path": "europe/austria/imst",
-      "prior_mu": 22.34,
-      "prior_sigma": 2.75,
-      "prior_n": 5
+      "title": "Andasibe",
+      "path": "africa/madagascar/andasibe",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Neuchatel",
-      "path": "europe/switzerland/neuchatel",
-      "prior_mu": 21.65,
-      "prior_sigma": 3.45,
-      "prior_n": 4
+      "title": "Clervaux",
+      "path": "europe/luxembourg/clervaux",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Haridwar",
-      "path": "asia/india/uttaranchal/haridwar",
-      "prior_mu": 22.25,
-      "prior_sigma": 3.65,
-      "prior_n": 3
+      "title": "Amarante",
+      "path": "europe/portugal/amarante",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "San Luis Potos\u00ed",
-      "path": "northamerica/mexico/sanluispotosi",
-      "prior_mu": 21.51,
-      "prior_sigma": 4.16,
-      "prior_n": 3
+      "title": "Cayos Cochinos",
+      "path": "northamerica/honduras/bayislands/cayos_cochinos",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Qatar",
-      "path": "asia/qatar",
-      "prior_mu": 21.36,
-      "prior_sigma": 3.08,
-      "prior_n": 5
+      "title": "Catalina",
+      "path": "northamerica/unitedstates/california/catalina",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Aguadilla",
-      "path": "northamerica/puertorico/aguadilla",
-      "prior_mu": 21.6,
-      "prior_sigma": 3.61,
-      "prior_n": 3
+      "title": "L\u00fcderitz",
+      "path": "africa/namibia/luderitz",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "P\u00f3voa de Varzim",
-      "path": "europe/portugal/pvoa_de_varzim",
-      "prior_mu": 21.0,
-      "prior_sigma": 2.97,
-      "prior_n": 4
+      "title": "Osh",
+      "path": "asia/kyrgyzstan/osh",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Lo Pagan",
-      "path": "europe/spain/spanishcostas/lopagan",
-      "prior_mu": 21.0,
-      "prior_sigma": 2.79,
-      "prior_n": 5
+      "title": "Ziguinchor",
+      "path": "africa/senegal/ziguinchor",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Thuan An Beach",
-      "path": "asia/vietnam/hue/aroundhue/thuananbeach",
-      "prior_mu": 20.82,
-      "prior_sigma": 3.14,
-      "prior_n": 4
+      "title": "Mutare",
+      "path": "africa/zimbabwe/easternhighlands/mutare",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Strumica",
-      "path": "europe/macedonia/strumica",
-      "prior_mu": 20.55,
-      "prior_sigma": 3.0,
-      "prior_n": 4
+      "title": "Ruidoso",
+      "path": "northamerica/unitedstates/newmexico/ruidoso",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Vaitupu island",
-      "path": "australiaandpacific/tuvalu/vaitupuisland",
-      "prior_mu": 20.71,
-      "prior_sigma": 3.09,
-      "prior_n": 4
+      "title": "Idaho Springs",
+      "path": "northamerica/unitedstates/colorado/idaho_springs",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "La isabela",
-      "path": "northamerica/dominicanrepublic/laisabela",
-      "prior_mu": 20.94,
-      "prior_sigma": 3.71,
-      "prior_n": 3
+      "title": "Cape May",
+      "path": "northamerica/unitedstates/newjersey/cape_may",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Virginia City",
-      "path": "northamerica/unitedstates/nevada/virginiacity",
-      "prior_mu": 21.01,
-      "prior_sigma": 3.81,
-      "prior_n": 3
+      "title": "Catarman",
+      "path": "asia/philippines/samarisland/catarman__samar_is",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Campobasso",
-      "path": "europe/italy/molise/campobasso",
-      "prior_mu": 20.9,
-      "prior_sigma": 3.66,
-      "prior_n": 3
+      "title": "Logan",
+      "path": "northamerica/unitedstates/utah/logan",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Mungivacca",
-      "path": "europe/italy/puglia/bari/mungivacca",
-      "prior_mu": 21.43,
-      "prior_sigma": 4.55,
-      "prior_n": 2
+      "title": "Vadodara",
+      "path": "asia/india/gujarat/vadodara",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Ciudad del Este",
-      "path": "southamerica/paraguay/ciudaddeleste",
-      "prior_mu": 18.9,
-      "prior_sigma": 2.99,
-      "prior_n": 5
+      "title": "Baramulla",
+      "path": "asia/india/jammuandkashmir/baramulla",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Milagro",
-      "path": "southamerica/ecuador/milagro",
-      "prior_mu": 20.24,
-      "prior_sigma": 3.1,
-      "prior_n": 4
+      "title": "Phoenix",
+      "path": "northamerica/unitedstates/arizona/phoenix",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Aden",
-      "path": "asia/yemen/aden",
-      "prior_mu": 11.66,
-      "prior_sigma": 3.14,
-      "prior_n": 7
+      "title": "Yuma",
+      "path": "northamerica/unitedstates/arizona/yuma",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "valley falls",
-      "path": "northamerica/unitedstates/kansas/valley_falls",
-      "prior_mu": 17.68,
-      "prior_sigma": 3.78,
-      "prior_n": 3
+      "title": "Burlingame",
+      "path": "northamerica/unitedstates/california/burlingame",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Newark",
-      "path": "northamerica/unitedstates/ohio/newark",
-      "prior_mu": 17.25,
-      "prior_sigma": 3.57,
-      "prior_n": 4
+      "title": "Topeka",
+      "path": "northamerica/unitedstates/kansas/topeka",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "chakwal",
-      "path": "asia/pakistan/soon_valley/chakwal",
-      "prior_mu": 19.37,
-      "prior_sigma": 3.6,
-      "prior_n": 4
+      "title": "Tieni-Siabli",
+      "path": "africa/ivorycoast/tienisiabli",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

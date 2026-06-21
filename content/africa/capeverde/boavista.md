@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Praia_de_Santa_M%C3%B3nica
 latitude: 16.099509
 loc_type: city
 longitude: -22.800941
-score: 0.56
+score: 0.48
 sources:
 - https://en.wikipedia.org/wiki/Boa_Vista,_Cape_Verde
 title: Boa Vista

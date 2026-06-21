@@ -5,7 +5,7 @@ latitude: 41.198065
 longitude: 45.528095
 title: Agstafa
 type: location
-score: 0.3
+score: 0.23
 loc_type: city
 ---
 

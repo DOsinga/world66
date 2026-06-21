@@ -7,7 +7,7 @@ done:
 latitude: 62.892463
 loc_type: city
 longitude: 27.67836
-score: 0.51
+score: 0.42
 title: Kuopio
 type: location
 image: kuopio.jpg

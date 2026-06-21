@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panja_Sahib.jpg
 latitude: 33.816874
 loc_type: city
 longitude: 72.68572
-score: 0.34
+score: 0.28
 title: Hassan Abdal
 type: location
 ---

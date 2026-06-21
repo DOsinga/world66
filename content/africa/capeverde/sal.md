@@ -6,7 +6,7 @@ done:
 latitude: 16.720456
 loc_type: city
 longitude: -22.938676
-score: 0.61
+score: 0.52
 title: Sal
 type: location
 ---

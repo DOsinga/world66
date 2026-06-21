@@ -1,0 +1,200 @@
+{
+  "round": 3621,
+  "timestamp": "2026-06-13T23:07:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "George Town",
+      "path": "northamerica/thecaribbean/caymanislands/grandcayman/george_town",
+      "prior_score": 4.6585,
+      "prior_variance": 0.140643,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Bonito",
+      "path": "southamerica/brazil/bonito",
+      "prior_score": 4.1445,
+      "prior_variance": 0.116944,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Pipa",
+      "path": "southamerica/brazil/pipa",
+      "prior_score": 2.0131,
+      "prior_variance": 0.126605,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_score": 3.8607,
+      "prior_variance": 0.143856,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Circeo National Park",
+      "path": "europe/italy/lazio/ciceo_national_par",
+      "prior_score": 2.0261,
+      "prior_variance": 0.125447,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Ternate",
+      "path": "asia/indonesia/maluku/ternate",
+      "prior_score": 1.6065,
+      "prior_variance": 0.120724,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Western Qing Tombs",
+      "path": "asia/china/hebei/western_qing_tombs",
+      "prior_score": -0.2588,
+      "prior_variance": 0.145352,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Chantaburi",
+      "path": "asia/thailand/chantaburi/chanta_buri",
+      "prior_score": -0.6896,
+      "prior_variance": 0.10965,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Ulcinj",
+      "path": "europe/montenegro/ulcinj_1",
+      "prior_score": 2.1738,
+      "prior_variance": 0.111874,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Tena",
+      "path": "southamerica/ecuador/tena",
+      "prior_score": 0.0008,
+      "prior_variance": 0.117493,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Tin Mal",
+      "path": "africa/morocco/tinmal",
+      "prior_score": -0.5388,
+      "prior_variance": 0.110386,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Princetown",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/princetown",
+      "prior_score": -0.5593,
+      "prior_variance": 0.131085,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Salmon River",
+      "path": "northamerica/unitedstates/idaho/salmon_river",
+      "prior_score": -0.7138,
+      "prior_variance": 0.14612,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Joensuu",
+      "path": "europe/finland/joensuu",
+      "prior_score": -0.6418,
+      "prior_variance": 0.109082,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/louisiana/lafayette",
+      "prior_score": 0.4241,
+      "prior_variance": 0.112438,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Meru",
+      "path": "africa/kenya/centralhighlands/meru",
+      "prior_score": -1.5653,
+      "prior_variance": 0.123081,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/newyorkstate/albany",
+      "prior_score": -2.2085,
+      "prior_variance": 0.126401,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Cairo Montenotte",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cairomontenotte",
+      "prior_score": -1.7673,
+      "prior_variance": 0.121866,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Detroit",
+      "path": "northamerica/unitedstates/michigan/detroit",
+      "prior_score": -4.1198,
+      "prior_variance": 0.111503,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Sheboygan",
+      "path": "northamerica/unitedstates/wisconsin/sheboygan",
+      "prior_score": -3.0864,
+      "prior_variance": 0.12646,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Opelousas",
+      "path": "northamerica/unitedstates/louisiana/opelousas",
+      "prior_score": -4.1698,
+      "prior_variance": 0.130104,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Broken Arrow",
+      "path": "northamerica/unitedstates/oklahoma/broken_arrow",
+      "prior_score": -5.4523,
+      "prior_variance": 0.130791,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Dalaba",
+      "path": "africa/guineeconakry/dalaba",
+      "prior_score": -4.7496,
+      "prior_variance": 0.15879,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Mirebalais",
+      "path": "northamerica/thecaribbean/haiti/mirebalais",
+      "prior_score": -7.4968,
+      "prior_variance": 0.157063,
+      "prior_n": 11
+    }
+  ]
+}

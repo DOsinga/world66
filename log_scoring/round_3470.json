@@ -1,0 +1,200 @@
+{
+  "round": 3470,
+  "timestamp": "2026-06-13T22:56:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chinguetti",
+      "path": "africa/mauritania/chinguetti",
+      "prior_score": -1.1796,
+      "prior_variance": 0.129639,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Bighorn Canyon",
+      "path": "northamerica/unitedstates/montana/bighorncanyon",
+      "prior_score": 0.6792,
+      "prior_variance": 0.127018,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/california/goldcountry/jamestown",
+      "prior_score": -1.3781,
+      "prior_variance": 0.113506,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Iquique",
+      "path": "southamerica/chile/iquique",
+      "prior_score": 1.1302,
+      "prior_variance": 0.13634,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Constanta",
+      "path": "europe/romania/constanta",
+      "prior_score": 0.098,
+      "prior_variance": 0.111586,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/missouri/kansascity",
+      "prior_score": -0.7741,
+      "prior_variance": 0.140269,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Norfolk",
+      "path": "northamerica/unitedstates/virginia/norfolk",
+      "prior_score": -1.1378,
+      "prior_variance": 0.108271,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_score": -0.6853,
+      "prior_variance": 0.102442,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "V\u00e4nersborg",
+      "path": "europe/sweden/vnersborg",
+      "prior_score": -1.1271,
+      "prior_variance": 0.118611,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Barka",
+      "path": "asia/oman/barka",
+      "prior_score": -1.2396,
+      "prior_variance": 0.110424,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Nitra",
+      "path": "europe/slovakia/nitra",
+      "prior_score": -1.4904,
+      "prior_variance": 0.119235,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Ostrava",
+      "path": "europe/czechrepublic/ostrava",
+      "prior_score": -1.7216,
+      "prior_variance": 0.109873,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Rock Hall",
+      "path": "northamerica/unitedstates/maryland/rock_hall",
+      "prior_score": -2.979,
+      "prior_variance": 0.122224,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Gulfport",
+      "path": "northamerica/unitedstates/mississippi/gulfport",
+      "prior_score": -3.2189,
+      "prior_variance": 0.130109,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Shenyang",
+      "path": "asia/china/liaoning/shenyang",
+      "prior_score": -2.2702,
+      "prior_variance": 0.117117,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Stara Zagora",
+      "path": "europe/bulgaria/starazagora",
+      "prior_score": -2.5223,
+      "prior_variance": 0.123122,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Lansing",
+      "path": "northamerica/unitedstates/michigan/lansing",
+      "prior_score": -3.6081,
+      "prior_variance": 0.140436,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Ploie\u0219ti",
+      "path": "europe/romania/ploiesti",
+      "prior_score": -4.0472,
+      "prior_variance": 0.131672,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Hamm",
+      "path": "europe/germany/northrhinewestphalia/hamm",
+      "prior_score": -4.9365,
+      "prior_variance": 0.206327,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Hassan Abdal",
+      "path": "asia/pakistan/hassan_abdal",
+      "prior_score": -4.4434,
+      "prior_variance": 0.141134,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Balangir",
+      "path": "asia/india/orissa/balangir",
+      "prior_score": -5.9402,
+      "prior_variance": 0.151319,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Parakou",
+      "path": "africa/benin/parakou",
+      "prior_score": -4.9173,
+      "prior_variance": 0.161855,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Cape Tagarit",
+      "path": "africa/mauritania/capetagarit",
+      "prior_score": -9.268,
+      "prior_variance": 0.223577,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Hadjer Hadid",
+      "path": "africa/chad/hadjer_hadid",
+      "prior_score": -9.9683,
+      "prior_variance": 0.327726,
+      "prior_n": 11
+    }
+  ]
+}

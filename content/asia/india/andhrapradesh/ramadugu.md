@@ -5,7 +5,7 @@ done:
 latitude: 18.586176
 loc_type: city
 longitude: 79.06002
-score: 0.25
+score: 0.17
 title: Ramadugu
 type: location
 image: ramadugu.jpg

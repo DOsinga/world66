@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Storbron_Sundsvall_13.jpg
 latitude: 62.390755
 loc_type: city
 longitude: 17.307102
-score: 0.42
+score: 0.39
 title: Sundsvall
 type: location
 ---

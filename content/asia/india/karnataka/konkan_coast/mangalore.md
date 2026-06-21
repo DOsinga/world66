@@ -5,7 +5,7 @@ latitude: 12.86981
 longitude: 74.843008
 title: Mangalore
 type: location
-score: 0.43
+score: 0.41
 loc_type: city
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Exterior_Winter_2016_17_Fo
 latitude: 46.4979
 loc_type: city
 longitude: 9.8392
-score: 0.73
+score: 0.67
 title: St. Moritz
 type: location
 ---

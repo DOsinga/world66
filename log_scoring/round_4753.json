@@ -1,0 +1,200 @@
+{
+  "round": 4753,
+  "timestamp": "2026-06-14T00:38:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tianzhu Mountain",
+      "path": "asia/china/anhui/tianzhu_mountain",
+      "prior_score": 1.2285,
+      "prior_variance": 0.103974,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Ararat Marz",
+      "path": "europe/armenia/ararat_marz",
+      "prior_score": -1.8217,
+      "prior_variance": 0.084145,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Ehden",
+      "path": "asia/lebanon/ehden",
+      "prior_score": 0.1763,
+      "prior_variance": 0.089468,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Kerkennah Islands",
+      "path": "africa/tunisia/kerkennahislands",
+      "prior_score": -0.6814,
+      "prior_variance": 0.087525,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "S\u00e3o Vicente",
+      "path": "africa/capeverde/saovicente",
+      "prior_score": -0.0387,
+      "prior_variance": 0.085317,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Kraljevica",
+      "path": "europe/croatia/kraljevica",
+      "prior_score": -0.5712,
+      "prior_variance": 0.096667,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Heber City",
+      "path": "northamerica/unitedstates/utah/heber_city",
+      "prior_score": -0.7513,
+      "prior_variance": 0.077005,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Duluth",
+      "path": "northamerica/unitedstates/minnesota/duluth",
+      "prior_score": -0.0634,
+      "prior_variance": 0.080555,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Qionghai",
+      "path": "asia/china/hainanisland/qionghai",
+      "prior_score": -2.0793,
+      "prior_variance": 0.092102,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Kitsap County",
+      "path": "northamerica/unitedstates/washington/kitsap_county",
+      "prior_score": -2.9645,
+      "prior_variance": 0.089424,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Oceanside",
+      "path": "northamerica/unitedstates/california/oceanside",
+      "prior_score": -0.0502,
+      "prior_variance": 0.084164,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Tunja",
+      "path": "southamerica/colombia/tunja",
+      "prior_score": -0.8551,
+      "prior_variance": 0.085045,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Armenia",
+      "path": "southamerica/colombia/armenia",
+      "prior_score": -1.3945,
+      "prior_variance": 0.086848,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Rizhao",
+      "path": "asia/china/shandong_province/rizhao",
+      "prior_score": -3.029,
+      "prior_variance": 0.082029,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Campina Grande",
+      "path": "southamerica/brazil/campinagrande",
+      "prior_score": -2.7914,
+      "prior_variance": 0.105366,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_score": -1.9113,
+      "prior_variance": 0.087128,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Enschede",
+      "path": "europe/netherlands/enschede",
+      "prior_score": -2.7191,
+      "prior_variance": 0.090557,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Wrexham",
+      "path": "europe/unitedkingdom/wales/wrexham",
+      "prior_score": -2.3156,
+      "prior_variance": 0.086868,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "New Brunswick",
+      "path": "northamerica/unitedstates/newjersey/newbrunswick",
+      "prior_score": -3.748,
+      "prior_variance": 0.102547,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Quelimane",
+      "path": "africa/mozambique/quelimane",
+      "prior_score": -4.1512,
+      "prior_variance": 0.094979,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Bluefields",
+      "path": "northamerica/nicaragua/bluefields",
+      "prior_score": -3.3004,
+      "prior_variance": 0.099416,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "New Iberia",
+      "path": "northamerica/unitedstates/louisiana/newiberia",
+      "prior_score": -3.081,
+      "prior_variance": 0.092341,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Cookstown",
+      "path": "europe/unitedkingdom/northernireland/cookstown",
+      "prior_score": -3.6206,
+      "prior_variance": 0.096815,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Hadramawt",
+      "path": "asia/yemen/hadramawt",
+      "prior_score": -9.2227,
+      "prior_variance": 0.196348,
+      "prior_n": 15
+    }
+  ]
+}

@@ -4,7 +4,7 @@ done:
 latitude: 12.5382
 loc_type: feature
 longitude: 99.9574
-score: 0.56
+score: 0.48
 snippet: Quieter beach south of Hua Hin, anchored by a temple-topped headland.
 title: Khao Takiab Beach
 type: location

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Red_Lion_Inn,_Stockbridge_
 latitude: 42.2824
 loc_type: city
 longitude: -73.3124
-score: 0.5
+score: 0.41
 title: Stockbridge
 type: location
 ---

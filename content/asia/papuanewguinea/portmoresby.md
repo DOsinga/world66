@@ -7,7 +7,7 @@ done:
 latitude: -9.47433
 loc_type: city
 longitude: 147.15995
-score: 0.3
+score: 0.22
 title: Port Moresby
 type: location
 ---

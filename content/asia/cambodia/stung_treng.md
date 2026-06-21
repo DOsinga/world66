@@ -5,7 +5,7 @@ done:
 latitude: 13.5253
 loc_type: city
 longitude: 105.9686
-score: 0.35
+score: 0.32
 title: Stung Treng
 type: location
 ---

@@ -6,7 +6,7 @@ done:
 latitude: 43.236392
 loc_type: city
 longitude: 76.945728
-score: 0.55
+score: 0.48
 title: Almaty
 type: location
 image: almaty.jpg

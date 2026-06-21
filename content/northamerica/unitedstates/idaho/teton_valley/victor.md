@@ -5,7 +5,7 @@ done:
 latitude: 43.603
 loc_type: city
 longitude: -111.128
-score: 0.44
+score: 0.39
 title: Victor
 type: location
 ---

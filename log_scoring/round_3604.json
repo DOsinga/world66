@@ -1,0 +1,200 @@
+{
+  "round": 3604,
+  "timestamp": "2026-06-13T23:06:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Madrid",
+      "path": "europe/spain/madrid",
+      "prior_score": 7.7362,
+      "prior_variance": 0.202513,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Milan",
+      "path": "europe/italy/lombardia/milan",
+      "prior_score": 5.7056,
+      "prior_variance": 0.226016,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Wuzhen",
+      "path": "asia/china/zhejiang/wuzhen",
+      "prior_score": 3.6371,
+      "prior_variance": 0.117923,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Lugu Lake",
+      "path": "asia/china/yunnanprovince/lugu_lake",
+      "prior_score": 3.3376,
+      "prior_variance": 0.127584,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Ushuaia",
+      "path": "southamerica/argentina/patagonia/ushuaia",
+      "prior_score": 7.4845,
+      "prior_variance": 0.177036,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/italianriviera/finaleligure",
+      "prior_score": 3.7758,
+      "prior_variance": 0.118844,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Ventimiglia",
+      "path": "europe/italy/liguria/italianriviera/ventimiglia",
+      "prior_score": 1.2795,
+      "prior_variance": 0.116448,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Dun Laoghaire",
+      "path": "europe/ireland/dun_laoghaire",
+      "prior_score": 0.7325,
+      "prior_variance": 0.111207,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Trnava",
+      "path": "europe/slovakia/trnava",
+      "prior_score": 1.1551,
+      "prior_variance": 0.10523,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Flensburg",
+      "path": "europe/germany/schleswigholstein/flensburg",
+      "prior_score": -0.5235,
+      "prior_variance": 0.12407,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Kalbarri",
+      "path": "australiaandpacific/australia/westernaustralia/kalbarri",
+      "prior_score": 1.9176,
+      "prior_variance": 0.111456,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is/schiermonnikoog",
+      "prior_score": 0.4268,
+      "prior_variance": 0.123461,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Petersburg",
+      "path": "northamerica/unitedstates/alaska/petersburg",
+      "prior_score": -0.1562,
+      "prior_variance": 0.108985,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Geelong",
+      "path": "australiaandpacific/australia/victoria/geelong",
+      "prior_score": -0.7576,
+      "prior_variance": 0.116866,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Tulcea",
+      "path": "europe/romania/tulcea",
+      "prior_score": -0.1401,
+      "prior_variance": 0.110399,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Masaya",
+      "path": "northamerica/nicaragua/masaya",
+      "prior_score": -1.0764,
+      "prior_variance": 0.112102,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "M\u00e9rida",
+      "path": "southamerica/venezuela/merida",
+      "prior_score": -0.7518,
+      "prior_variance": 0.110948,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Manta",
+      "path": "southamerica/ecuador/manta",
+      "prior_score": -0.5082,
+      "prior_variance": 0.10298,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Guaymas",
+      "path": "northamerica/mexico/guaymas",
+      "prior_score": -1.1346,
+      "prior_variance": 0.118103,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Ganpatipule",
+      "path": "asia/india/maharashtra/ganpati_phule",
+      "prior_score": -0.7621,
+      "prior_variance": 0.10608,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Bhopal",
+      "path": "asia/india/madhyapradesh/bhopal",
+      "prior_score": -1.3445,
+      "prior_variance": 0.115526,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Algiers",
+      "path": "africa/algeria/algiers",
+      "prior_score": -0.9788,
+      "prior_variance": 0.119374,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Tequesta",
+      "path": "northamerica/unitedstates/florida/tequesta",
+      "prior_score": -3.6653,
+      "prior_variance": 0.145548,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Hartford",
+      "path": "northamerica/unitedstates/connecticut/hartford",
+      "prior_score": -3.076,
+      "prior_variance": 0.125878,
+      "prior_n": 12
+    }
+  ]
+}

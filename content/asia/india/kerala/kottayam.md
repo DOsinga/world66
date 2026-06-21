@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kottayam,_Kerala,_India_-_
 latitude: 9.628738
 loc_type: city
 longitude: 76.645533
-score: 0.46
+score: 0.38
 title: Kottayam
 type: location
 ---

@@ -8,7 +8,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Fuerth_Stadttheater_2.jpg
 latitude: 49.488571
 longitude: 10.95872
-score: 0.43
+score: 0.38
 title: Fürth
 type: location
 loc_type: city

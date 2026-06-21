@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/92889888@N08/37977641142
 latitude: 23.612363
 loc_type: city
 longitude: 58.593813
-score: 0.68
+score: 0.58
 title: Muscat
 type: location
 ---

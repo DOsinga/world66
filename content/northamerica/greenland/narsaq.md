@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Narsaq-from-Qaaqarsuaq.jpg
 latitude: 60.912745
 loc_type: city
 longitude: -46.04527
-score: 0.29
+score: 0.38
 title: Narsaq
 type: location
 ---

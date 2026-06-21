@@ -1,0 +1,200 @@
+{
+  "round": 3613,
+  "timestamp": "2026-06-13T23:06:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bryce Canyon",
+      "path": "northamerica/unitedstates/utah/bryce_canyon",
+      "prior_score": 10.4135,
+      "prior_variance": 0.257696,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Okavango Delta",
+      "path": "africa/botswana/okavangodelta",
+      "prior_score": 8.0631,
+      "prior_variance": 0.236725,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Khao Yai National Park",
+      "path": "asia/thailand/khaoyainationalpark",
+      "prior_score": 6.286,
+      "prior_variance": 0.156992,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "San Miguel de Allende",
+      "path": "northamerica/mexico/sanmigueldeallende",
+      "prior_score": 7.5032,
+      "prior_variance": 0.192998,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Mount Ijen",
+      "path": "asia/indonesia/java/mountijen",
+      "prior_score": 4.2396,
+      "prior_variance": 0.126739,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Izumo",
+      "path": "asia/japan/honshu/izumo",
+      "prior_score": 3.2713,
+      "prior_variance": 0.129636,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Tissamaharama",
+      "path": "asia/srilanka/tissamaharama",
+      "prior_score": 1.8824,
+      "prior_variance": 0.110547,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Ibo Island",
+      "path": "africa/mozambique/iboisland",
+      "prior_score": -2.1221,
+      "prior_variance": 0.154319,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Phitsanulok",
+      "path": "asia/thailand/phitsanulok",
+      "prior_score": 0.4504,
+      "prior_variance": 0.110409,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Caxias do Sul",
+      "path": "southamerica/brazil/caxias_do_sul",
+      "prior_score": -3.1195,
+      "prior_variance": 0.127606,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Khorramabad",
+      "path": "asia/iran/khoram_abad",
+      "prior_score": -4.4664,
+      "prior_variance": 0.116411,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Novi Beograd",
+      "path": "europe/serbia/novi_beograd",
+      "prior_score": -4.0271,
+      "prior_variance": 0.139075,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Uzgen",
+      "path": "asia/kyrgyzstan/uzgen",
+      "prior_score": -4.5346,
+      "prior_variance": 0.160633,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_score": -0.1071,
+      "prior_variance": 0.106239,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Calbayog",
+      "path": "asia/philippines/samarisland/calbayog",
+      "prior_score": -3.0237,
+      "prior_variance": 0.102676,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Wa",
+      "path": "africa/ghana/wa",
+      "prior_score": -5.3832,
+      "prior_variance": 0.122411,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Oregon City",
+      "path": "northamerica/unitedstates/oregon/oregoncity",
+      "prior_score": -2.044,
+      "prior_variance": 0.112029,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/bradford",
+      "prior_score": -2.6182,
+      "prior_variance": 0.127464,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Yongning",
+      "path": "asia/china/ningxia/yongning",
+      "prior_score": -5.8683,
+      "prior_variance": 0.153876,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "New Brunswick",
+      "path": "northamerica/unitedstates/newjersey/newbrunswick",
+      "prior_score": -3.9656,
+      "prior_variance": 0.168693,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/orangecounty/buenapark",
+      "prior_score": -2.4521,
+      "prior_variance": 0.147378,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Rockville",
+      "path": "northamerica/unitedstates/maryland/montgomerycounty/rockville",
+      "prior_score": -5.1722,
+      "prior_variance": 0.152498,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Rexburg",
+      "path": "northamerica/unitedstates/idaho/rexburg",
+      "prior_score": -4.6681,
+      "prior_variance": 0.115582,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Flint",
+      "path": "northamerica/unitedstates/michigan/flint",
+      "prior_score": -7.9272,
+      "prior_variance": 0.306699,
+      "prior_n": 11
+    }
+  ]
+}

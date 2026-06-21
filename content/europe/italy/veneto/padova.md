@@ -5,7 +5,7 @@ done:
 latitude: 45.391408
 loc_type: city
 longitude: 11.805849
-score: 0.63
+score: 0.56
 title: Padova
 type: location
 image: padova.jpg

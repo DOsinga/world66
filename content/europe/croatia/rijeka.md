@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rijeka_Riva_promenade_aeri
 latitude: 45.3268
 loc_type: city
 longitude: 14.4422
-score: 0.57
+score: 0.47
 title: Rijeka
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2021-08-31_01_Pendlebury_-
 latitude: 45.0737
 loc_type: city
 longitude: -67.0528
-score: 0.45
+score: 0.41
 title: St. Andrews
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 3899,
+  "timestamp": "2026-06-13T23:28:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kotohira",
+      "path": "asia/japan/shikoku/kotohira",
+      "prior_score": 3.4054,
+      "prior_variance": 0.107992,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Ahmedabad",
+      "path": "asia/india/gujarat/ahmedabad",
+      "prior_score": -0.1369,
+      "prior_variance": 0.100667,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Ko\u0161ice",
+      "path": "europe/slovakia/kosice",
+      "prior_score": 2.142,
+      "prior_variance": 0.114086,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Gdynia",
+      "path": "europe/poland/gdynia",
+      "prior_score": 0.4767,
+      "prior_variance": 0.101047,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Devonport",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/devonport",
+      "prior_score": 1.395,
+      "prior_variance": 0.129197,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/highsierra/truckee",
+      "prior_score": 0.8917,
+      "prior_variance": 0.104452,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Christians\u00f8",
+      "path": "europe/denmark/christianso",
+      "prior_score": 1.0541,
+      "prior_variance": 0.098688,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Hove",
+      "path": "europe/unitedkingdom/england/south_east/hove",
+      "prior_score": -0.8332,
+      "prior_variance": 0.106953,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Ica",
+      "path": "southamerica/peru/ica",
+      "prior_score": 1.9046,
+      "prior_variance": 0.106373,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Bahchisaray",
+      "path": "europe/ukraine/crimea/bahchisaray",
+      "prior_score": -0.8788,
+      "prior_variance": 0.169358,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Otep\u00e4\u00e4",
+      "path": "europe/estonia/otep",
+      "prior_score": -1.0826,
+      "prior_variance": 0.08968,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Combe Martin",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/combe_martin",
+      "prior_score": -0.4022,
+      "prior_variance": 0.118111,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Haliburton",
+      "path": "northamerica/canada/ontario/haliburton",
+      "prior_score": -0.5718,
+      "prior_variance": 0.103263,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Whangarei",
+      "path": "australiaandpacific/newzealand/whangarei",
+      "prior_score": 0.7545,
+      "prior_variance": 0.106564,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "F\u00fcrth",
+      "path": "europe/germany/bavaria/fuerth",
+      "prior_score": -1.1139,
+      "prior_variance": 0.110198,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Thuan An Beach",
+      "path": "asia/vietnam/hue/aroundhue/thuananbeach",
+      "prior_score": -0.0763,
+      "prior_variance": 0.104329,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Mount Santa Tecla",
+      "path": "europe/spain/galicia/mount_santa_tecla",
+      "prior_score": -1.1259,
+      "prior_variance": 0.121518,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Huancabamba",
+      "path": "southamerica/peru/huancabamba",
+      "prior_score": -1.3019,
+      "prior_variance": 0.104654,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Laosicheng",
+      "path": "asia/china/hunan/laosicheng",
+      "prior_score": -0.8752,
+      "prior_variance": 0.114031,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Forres",
+      "path": "europe/unitedkingdom/scotland/forres",
+      "prior_score": -0.6401,
+      "prior_variance": 0.119484,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Kota Batu",
+      "path": "asia/brunei/kotabatu",
+      "prior_score": -2.5366,
+      "prior_variance": 0.124591,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Salgotarjan",
+      "path": "europe/hungary/salgotarjan",
+      "prior_score": -4.2938,
+      "prior_variance": 0.115824,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Oualata",
+      "path": "africa/mauritania/oulata",
+      "prior_score": -2.8164,
+      "prior_variance": 0.12055,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Dego",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/dego",
+      "prior_score": -3.1354,
+      "prior_variance": 0.122037,
+      "prior_n": 12
+    }
+  ]
+}

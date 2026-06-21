@@ -5,7 +5,7 @@ latitude: 43.57
 longitude: -108.2
 title: Wind River Canyon
 type: location
-score: 0.5
+score: 0.46
 loc_type: feature
 ---
 

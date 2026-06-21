@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coconut_trees_Kota_Kinabal
 latitude: 5.978007
 loc_type: city
 longitude: 116.072899
-score: 0.66
+score: 0.57
 title: Kota Kinabalu
 type: location
 ---

@@ -4,7 +4,7 @@ done:
 latitude: 40.9476
 loc_type: city
 longitude: -90.3712
-score: 0.3
+score: 0.26
 title: Galesburg
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: -0.4
 longitude: 36.75
 title: Aberdare N.P.
 type: location
-score: 0.57
+score: 0.48
 loc_type: feature
 ---
 

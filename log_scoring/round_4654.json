@@ -1,0 +1,200 @@
+{
+  "round": 4654,
+  "timestamp": "2026-06-14T00:30:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lyon",
+      "path": "europe/france/alpes/lyon",
+      "prior_score": 5.7898,
+      "prior_variance": 0.11215,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Beaune",
+      "path": "europe/france/east/burgundy/beaune",
+      "prior_score": 6.0267,
+      "prior_variance": 0.098413,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Qingcheng Mountain",
+      "path": "asia/china/sichuanprovince/qingchengshan",
+      "prior_score": 3.7004,
+      "prior_variance": 0.097511,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/italianriviera/tellaro",
+      "prior_score": 4.3547,
+      "prior_variance": 0.09641,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Guernika",
+      "path": "europe/spain/basque_country_euskadi/guernika",
+      "prior_score": 1.8839,
+      "prior_variance": 0.084243,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Portugalete",
+      "path": "europe/spain/basque_country_euskadi/portugalete",
+      "prior_score": 0.444,
+      "prior_variance": 0.083002,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Fulda",
+      "path": "europe/germany/hessen/fulda",
+      "prior_score": 0.3754,
+      "prior_variance": 0.092798,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Ica",
+      "path": "southamerica/peru/ica",
+      "prior_score": 1.7196,
+      "prior_variance": 0.090157,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Oristano",
+      "path": "europe/italy/sardinia/oristano",
+      "prior_score": 2.2788,
+      "prior_variance": 0.082637,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Cz\u0119stochowa",
+      "path": "europe/poland/czestochowa",
+      "prior_score": 0.157,
+      "prior_variance": 0.087883,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Mannheim",
+      "path": "europe/germany/badenwrttemberg/mannheim",
+      "prior_score": -0.9182,
+      "prior_variance": 0.086554,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/scotland/crieff",
+      "prior_score": 0.0009,
+      "prior_variance": 0.089784,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Bagamoyo",
+      "path": "africa/tanzania/bagamoyo",
+      "prior_score": -0.2095,
+      "prior_variance": 0.112743,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Mandi",
+      "path": "asia/india/himachalpradesh/mandi",
+      "prior_score": -0.6451,
+      "prior_variance": 0.102487,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Point Pelee and Pelee Island",
+      "path": "northamerica/canada/ontario/point_pelee_and_pelee_island",
+      "prior_score": -0.6436,
+      "prior_variance": 0.094233,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Aley",
+      "path": "asia/lebanon/aley",
+      "prior_score": -0.9669,
+      "prior_variance": 0.08902,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/south_island/otago/invercargill",
+      "prior_score": -1.0072,
+      "prior_variance": 0.092816,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Long Beach Peninsula",
+      "path": "northamerica/unitedstates/washington/long_beach_peninsula",
+      "prior_score": -0.3442,
+      "prior_variance": 0.084556,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Cetti Bay",
+      "path": "australiaandpacific/guam/cettibay",
+      "prior_score": -0.6334,
+      "prior_variance": 0.103434,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Spring Green",
+      "path": "northamerica/unitedstates/wisconsin/spring_green",
+      "prior_score": -1.6884,
+      "prior_variance": 0.107244,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Malay",
+      "path": "asia/philippines/aklan/malay",
+      "prior_score": -3.8295,
+      "prior_variance": 0.102404,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Ryazan",
+      "path": "europe/russia/ryazan",
+      "prior_score": -3.5737,
+      "prior_variance": 0.098843,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Wa",
+      "path": "africa/ghana/wa",
+      "prior_score": -4.9969,
+      "prior_variance": 0.096737,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Balkh",
+      "path": "asia/afghanistan/balkh",
+      "prior_score": -6.2362,
+      "prior_variance": 0.192966,
+      "prior_n": 15
+    }
+  ]
+}

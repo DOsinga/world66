@@ -5,6 +5,7 @@ loc_type: city
 latitude: 41.5756
 longitude: 24.7008
 country: Bulgaria
+score: 0.41
 ---
 
 Smolyan is the largest town in the Rhodope Mountains — a long, narrow settlement stretched along the Arda River valley at around 1,000 metres altitude, with a centre that feels surprisingly substantial given its remote position. It was created in the 1960s by merging several older villages into a single administrative unit, which gives it an oddly elongated urban plan, but the town has a good museum, a cathedral, and serves as the practical base for exploring the central Rhodopes.

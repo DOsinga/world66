@@ -1,0 +1,200 @@
+{
+  "round": 4488,
+  "timestamp": "2026-06-14T00:16:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aitutaki",
+      "path": "australiaandpacific/cookislands/aitutaki",
+      "prior_score": 7.7074,
+      "prior_variance": 0.135253,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Ushuaia",
+      "path": "southamerica/argentina/patagonia/ushuaia",
+      "prior_score": 6.9799,
+      "prior_variance": 0.149065,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Garden of the Gods",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
+      "prior_score": 6.501,
+      "prior_variance": 0.115836,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Fukuoka",
+      "path": "asia/japan/kyushu/fukuoka_city",
+      "prior_score": 6.8469,
+      "prior_variance": 0.117885,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Hangzhou",
+      "path": "asia/china/zhejiang/hangzhou",
+      "prior_score": 6.4904,
+      "prior_variance": 0.148274,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "St Ives",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_ives",
+      "prior_score": 5.1012,
+      "prior_variance": 0.098405,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Churchill",
+      "path": "northamerica/canada/manitoba/churchill",
+      "prior_score": 3.1856,
+      "prior_variance": 0.111722,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Hawkshead",
+      "path": "europe/unitedkingdom/england/lakedistrict/hawkshead",
+      "prior_score": 2.4705,
+      "prior_variance": 0.096463,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Alba Iulia",
+      "path": "europe/romania/albaiulia",
+      "prior_score": 0.9681,
+      "prior_variance": 0.099474,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Roses",
+      "path": "europe/spain/catalonia/roses",
+      "prior_score": 2.605,
+      "prior_variance": 0.100568,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Visegrad",
+      "path": "europe/hungary/visegrad",
+      "prior_score": 1.433,
+      "prior_variance": 0.106142,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Forde",
+      "path": "europe/norway/forde",
+      "prior_score": 2.182,
+      "prior_variance": 0.098337,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Grimstad",
+      "path": "europe/norway/grimstad",
+      "prior_score": -0.0608,
+      "prior_variance": 0.084517,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Mrauk-U",
+      "path": "asia/myanmar/mrauku",
+      "prior_score": 0.1373,
+      "prior_variance": 0.105472,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Pigna",
+      "path": "europe/italy/liguria/nerviavalley/pigna",
+      "prior_score": 0.5309,
+      "prior_variance": 0.090219,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Monnickendam",
+      "path": "europe/netherlands/monickendam",
+      "prior_score": 0.7107,
+      "prior_variance": 0.085859,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Pittsburgh",
+      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
+      "prior_score": 0.5715,
+      "prior_variance": 0.112241,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Tekirda\u011f",
+      "path": "asia/turkey/tekirdag",
+      "prior_score": -1.3511,
+      "prior_variance": 0.083128,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Kurukshetra",
+      "path": "asia/india/haryana/kurukshetra",
+      "prior_score": -1.0699,
+      "prior_variance": 0.103867,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Sioux Falls",
+      "path": "northamerica/unitedstates/southdakota/siouxfalls",
+      "prior_score": -1.5162,
+      "prior_variance": 0.107942,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Palm Desert",
+      "path": "northamerica/unitedstates/california/deserts/palmdesert",
+      "prior_score": -1.3302,
+      "prior_variance": 0.093725,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Derby",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/derby",
+      "prior_score": -1.3274,
+      "prior_variance": 0.094805,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "San Fernando",
+      "path": "northamerica/trinidadandtobago/sanfernando",
+      "prior_score": -2.0269,
+      "prior_variance": 0.092258,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Claremore",
+      "path": "northamerica/unitedstates/oklahoma/claremore",
+      "prior_score": -3.4115,
+      "prior_variance": 0.093045,
+      "prior_n": 15
+    }
+  ]
+}

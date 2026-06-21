@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Verbier,_Switzerland,_in_2
 latitude: 46.096101
 loc_type: city
 longitude: 7.228676
-score: 0.69
+score: 0.62
 title: Verbier
 type: location
 ---

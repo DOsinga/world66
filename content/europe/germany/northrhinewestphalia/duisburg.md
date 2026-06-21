@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Duisburg,_Landschaftspark_
 latitude: 51.434999
 loc_type: city
 longitude: 6.759562
-score: 0.38
+score: 0.29
 sources:
 - https://en.wikipedia.org/wiki/Duisburg
 - https://en.wikipedia.org/wiki/Landschaftspark_Duisburg-Nord

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mosque,_Sidon,_Lebanon.jpg
 latitude: 33.564733
 loc_type: city
 longitude: 35.374978
-score: 0.49
+score: 0.43
 sources:
 - https://en.wikipedia.org/wiki/Sidon
 - https://en.wikipedia.org/wiki/Sidon_Sea_Castle

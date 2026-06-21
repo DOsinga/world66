@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Durango,_Colorado.jpg
 latitude: 37.276948
 loc_type: city
 longitude: -107.8766
-score: 0.59
+score: 0.5
 title: Durango
 type: location
 ---

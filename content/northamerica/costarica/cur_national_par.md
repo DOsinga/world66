@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-08'
 latitude: 9.7833
 longitude: -84.9167
-score: 0.61
+score: 0.48
 tags:
 - nationalparks
 title: Curú National Wildlife Refuge

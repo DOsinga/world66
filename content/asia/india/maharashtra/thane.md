@@ -6,7 +6,7 @@ done:
 latitude: 19.2183
 loc_type: city
 longitude: 72.9781
-score: 0.33
+score: 0.26
 title: Thane
 type: location
 image: thane.jpg

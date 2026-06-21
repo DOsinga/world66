@@ -5,7 +5,7 @@ latitude: 46.8839
 longitude: 17.8477
 title: Lake Balaton
 type: location
-score: 0.6
+score: 0.51
 loc_type: feature
 ---
 

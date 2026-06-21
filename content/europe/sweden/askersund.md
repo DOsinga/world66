@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:R%C3%A5dhuset_Askersund.jp
 latitude: 58.866667
 loc_type: city
 longitude: 14.916667
-score: 0.43
+score: 0.37
 title: Askersund
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Parque_Estadual_de_Ilhabel
 latitude: -23.816628
 loc_type: city
 longitude: -45.368685
-score: 0.56
+score: 0.52
 title: Ilhabela
 type: location
 ---

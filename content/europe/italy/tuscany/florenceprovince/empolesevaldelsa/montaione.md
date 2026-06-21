@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:MontaionePanorama8.jpg
 latitude: 43.552937
 loc_type: city
 longitude: 10.912773
-score: 0.51
+score: 0.46
 title: Montaione
 type: location
 ---

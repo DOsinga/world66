@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rungsted,_casa-museo_di_ka
 latitude: 55.883327
 loc_type: city
 longitude: 12.543427
-score: 0.47
+score: 0.39
 title: Rungstedlund
 type: location
 ---

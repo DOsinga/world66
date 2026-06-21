@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alcald%C3%ADa_de_Santa_Cru
 latitude: -17.7834
 loc_type: city
 longitude: -63.1821
-score: 0.45
+score: 0.36
 title: Santa Cruz
 type: location
 ---

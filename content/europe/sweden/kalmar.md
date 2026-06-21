@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:KalmarCastle.JPG
 latitude: 56.6629
 loc_type: city
 longitude: 16.3662
-score: 0.56
+score: 0.51
 title: Kalmar
 type: location
 ---

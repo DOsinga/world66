@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/146738176@N02/46992326331
 latitude: 59.581084
 loc_type: city
 longitude: 9.173583
-score: 0.49
+score: 0.43
 title: Heddal
 type: location
 ---

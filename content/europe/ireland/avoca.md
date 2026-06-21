@@ -5,7 +5,7 @@ done:
 latitude: 52.823021
 loc_type: city
 longitude: -6.209618
-score: 0.47
+score: 0.41
 title: Avoca
 type: location
 ---

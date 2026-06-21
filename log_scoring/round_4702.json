@@ -1,0 +1,200 @@
+{
+  "round": 4702,
+  "timestamp": "2026-06-14T00:34:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Siena",
+      "path": "europe/italy/tuscany/siena",
+      "prior_score": 9.2499,
+      "prior_variance": 0.16674,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Maijishan Grottoes",
+      "path": "asia/china/gansu/maijishan",
+      "prior_score": 2.9736,
+      "prior_variance": 0.111104,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "De Koog",
+      "path": "europe/netherlands/waddenislands/texel_island/de_koog",
+      "prior_score": 0.7964,
+      "prior_variance": 0.085719,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Leadville",
+      "path": "northamerica/unitedstates/colorado/leadville",
+      "prior_score": 0.1983,
+      "prior_variance": 0.084677,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Santa Ynez",
+      "path": "northamerica/unitedstates/california/centralcoast/santaynez",
+      "prior_score": 0.4651,
+      "prior_variance": 0.09585,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Magdeburg",
+      "path": "europe/germany/saxonyanhalt/magdeburg",
+      "prior_score": -0.4828,
+      "prior_variance": 0.089631,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Mattighofen",
+      "path": "europe/austria/mattighofen",
+      "prior_score": -3.4498,
+      "prior_variance": 0.117827,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "S\u00f6dert\u00e4lje",
+      "path": "europe/sweden/sdertlje",
+      "prior_score": -4.2633,
+      "prior_variance": 0.1183,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Smolensk",
+      "path": "europe/russia/smolensk",
+      "prior_score": -3.8328,
+      "prior_variance": 0.112714,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Lynchburg",
+      "path": "northamerica/unitedstates/virginia/lynchburg",
+      "prior_score": -2.9346,
+      "prior_variance": 0.085501,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/wyoming/saratoga",
+      "prior_score": -2.8239,
+      "prior_variance": 0.088087,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Neiva",
+      "path": "southamerica/colombia/neiva",
+      "prior_score": -2.7559,
+      "prior_variance": 0.089476,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_score": -3.7188,
+      "prior_variance": 0.093962,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Baoji",
+      "path": "asia/china/shaanxi/baoji",
+      "prior_score": -3.7229,
+      "prior_variance": 0.09461,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Temara",
+      "path": "africa/morocco/temara",
+      "prior_score": -3.0711,
+      "prior_variance": 0.089932,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Nantong",
+      "path": "asia/china/jiangsu_province/nantong",
+      "prior_score": -4.2768,
+      "prior_variance": 0.104496,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Shahhat",
+      "path": "africa/libya/shahhat",
+      "prior_score": -4.6594,
+      "prior_variance": 0.118264,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Kherson",
+      "path": "europe/ukraine/kherson",
+      "prior_score": -7.8489,
+      "prior_variance": 0.231457,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Ponca City",
+      "path": "northamerica/unitedstates/oklahoma/ponca_city",
+      "prior_score": -5.3666,
+      "prior_variance": 0.107897,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "San Bernardino",
+      "path": "northamerica/unitedstates/california/inlandempire/sanbernardino",
+      "prior_score": -5.184,
+      "prior_variance": 0.118273,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/southdakota/madison",
+      "prior_score": -4.4566,
+      "prior_variance": 0.108614,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Madisonville",
+      "path": "northamerica/unitedstates/kentucky/madisonville",
+      "prior_score": -5.5569,
+      "prior_variance": 0.117228,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Kingsburg",
+      "path": "northamerica/unitedstates/california/kingsburg",
+      "prior_score": -4.7117,
+      "prior_variance": 0.098321,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Williston",
+      "path": "northamerica/unitedstates/northdakota/williston",
+      "prior_score": -7.2048,
+      "prior_variance": 0.147855,
+      "prior_n": 15
+    }
+  ]
+}

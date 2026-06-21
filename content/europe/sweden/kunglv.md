@@ -6,7 +6,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 57.870795
 longitude: 11.979962
-score: 0.47
+score: 0.4
 title: Kungälv
 type: location
 loc_type: city

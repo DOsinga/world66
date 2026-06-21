@@ -1,200 +1,200 @@
 {
   "round": 795,
-  "timestamp": "2026-04-12T10:48:28",
+  "timestamp": "2026-06-13T19:54:05",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Phuket",
-      "path": "asia/thailand/phuket",
-      "prior_mu": 24.9854,
-      "prior_sigma": 6.3396,
-      "prior_n": 1
-    },
-    {
-      "rank": 2,
-      "title": "Scotland",
-      "path": "europe/unitedkingdom/scotland",
-      "prior_mu": 23.7837,
-      "prior_sigma": 3.9518,
-      "prior_n": 3
-    },
-    {
-      "rank": 3,
-      "title": "Koh Talu",
-      "path": "asia/thailand/koh_talu_island/koh_talu",
-      "prior_mu": 23.4372,
-      "prior_sigma": 5.7335,
-      "prior_n": 1
-    },
-    {
-      "rank": 4,
-      "title": "Hainan island",
-      "path": "asia/china/hainanisland",
-      "prior_mu": 21.3482,
-      "prior_sigma": 3.6581,
-      "prior_n": 3
-    },
-    {
-      "rank": 5,
-      "title": "T\u00f3rshavn",
-      "path": "europe/faroeislands/torshavn",
-      "prior_mu": 24.8677,
-      "prior_sigma": 4.922,
+      "title": "San Antonio Abad",
+      "path": "europe/spain/balearicislands/ibiza/sanantonioabad",
+      "prior_score": 2.5579,
+      "prior_variance": 1.157978,
       "prior_n": 2
     },
     {
-      "rank": 6,
-      "title": "Organ Pipe Cactus National Monument",
-      "path": "northamerica/unitedstates/arizona/organ_pipe_cactus",
-      "prior_mu": 21.4791,
-      "prior_sigma": 3.7907,
+      "rank": 2,
+      "title": "Altea",
+      "path": "europe/spain/spanishcostas/altea",
+      "prior_score": 2.7572,
+      "prior_variance": 1.836204,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Armacao de Pera",
+      "path": "europe/portugal/armacaodepera",
+      "prior_score": 3.142,
+      "prior_variance": 0.6977,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Casela",
+      "path": "africa/mauritius/casela",
+      "prior_score": 3.5033,
+      "prior_variance": 0.674596,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_score": 3.0598,
+      "prior_variance": 0.6594,
       "prior_n": 3
     },
     {
+      "rank": 6,
+      "title": "Port of Spain",
+      "path": "northamerica/trinidadandtobago/port_of_spain",
+      "prior_score": 4.8203,
+      "prior_variance": 0.752331,
+      "prior_n": 2
+    },
+    {
       "rank": 7,
-      "title": "Aiea",
-      "path": "northamerica/unitedstates/hawaii/aiea",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Golden",
+      "path": "northamerica/canada/britishcolumbia/golden",
+      "prior_score": 0.0113,
+      "prior_variance": 0.591945,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Kelaa M'Gouna",
-      "path": "africa/morocco/kelaa_mgouna",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Busselton",
+      "path": "australiaandpacific/australia/westernaustralia/bussleton",
+      "prior_score": 1.3508,
+      "prior_variance": 0.766281,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Baden bei Wien",
-      "path": "europe/austria/baden",
-      "prior_mu": 22.4898,
-      "prior_sigma": 5.7554,
-      "prior_n": 1
+      "title": "Mi\u00f0v\u00e1gur",
+      "path": "europe/faroeislands/vagar/mivgur",
+      "prior_score": 2.2112,
+      "prior_variance": 0.621426,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Manilva",
-      "path": "europe/spain/andalucia/manilva",
-      "prior_mu": 22.5022,
-      "prior_sigma": 5.7672,
-      "prior_n": 1
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/scotland/crieff",
+      "prior_score": 0.5367,
+      "prior_variance": 1.347648,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Montesilvano",
-      "path": "europe/italy/abruzzo/montesilvano",
-      "prior_mu": 21.7483,
-      "prior_sigma": 4.3895,
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_score": 2.6853,
+      "prior_variance": 0.833865,
       "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Bandiagara",
-      "path": "africa/mali/dogoncountry/bandiagara",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lampang",
+      "path": "asia/thailand/lampang",
+      "prior_score": 2.869,
+      "prior_variance": 0.618954,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Szombathely",
-      "path": "europe/hungary/szombathely",
-      "prior_mu": 20.9528,
-      "prior_sigma": 3.1157,
-      "prior_n": 5
+      "title": "Tsukuba",
+      "path": "asia/japan/honshu/tsukuba",
+      "prior_score": 1.0963,
+      "prior_variance": 1.17491,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Bor\u00e5s",
-      "path": "europe/sweden/bors",
-      "prior_mu": 22.2708,
-      "prior_sigma": 5.5405,
-      "prior_n": 1
+      "title": "Paarl",
+      "path": "africa/southafrica/paarl",
+      "prior_score": 1.7061,
+      "prior_variance": 0.67221,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Brattleboro",
-      "path": "northamerica/unitedstates/vermont/brattleboro",
-      "prior_mu": 21.1356,
-      "prior_sigma": 3.5826,
+      "title": "Le Havre",
+      "path": "europe/france/normandybrittany/lehavre",
+      "prior_score": 2.235,
+      "prior_variance": 0.496864,
       "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Kolhapur",
-      "path": "asia/india/maharashtra/kolhapur",
-      "prior_mu": 21.1428,
-      "prior_sigma": 4.6524,
+      "title": "Yverdon",
+      "path": "europe/switzerland/yverdon",
+      "prior_score": -0.5494,
+      "prior_variance": 1.36876,
       "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Banja Luka",
-      "path": "europe/bosniaandherzegovina/banjaluka",
-      "prior_mu": 22.3729,
-      "prior_sigma": 5.6428,
-      "prior_n": 1
+      "title": "Travnik",
+      "path": "europe/bosniaandherzegovina/travnik",
+      "prior_score": -0.7099,
+      "prior_variance": 0.726362,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Kilrush",
-      "path": "europe/ireland/kilrush",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_score": 2.021,
+      "prior_variance": 0.461941,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Shenyang",
-      "path": "asia/china/shenyang",
-      "prior_mu": 21.3305,
-      "prior_sigma": 3.9516,
-      "prior_n": 3
+      "title": "Karak",
+      "path": "asia/jordan/karak",
+      "prior_score": 1.1457,
+      "prior_variance": 0.693075,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Alcains",
-      "path": "europe/portugal/castelo_branco/alcains",
-      "prior_mu": 18.2409,
-      "prior_sigma": 6.7586,
-      "prior_n": 1
+      "title": "Ajlun",
+      "path": "asia/jordan/ajlun",
+      "prior_score": -3.5125,
+      "prior_variance": 0.741676,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Cleveland",
-      "path": "northamerica/unitedstates/tennessee/cleveland",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Upper Kern River",
+      "path": "northamerica/unitedstates/california/centralvalley/upper_kern_river",
+      "prior_score": 1.0248,
+      "prior_variance": 0.92595,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Prior Lake",
-      "path": "northamerica/unitedstates/minnesota/priorlake",
-      "prior_mu": 19.3829,
-      "prior_sigma": 4.3515,
-      "prior_n": 3
+      "title": "Trashigang",
+      "path": "asia/bhutan/tashigang",
+      "prior_score": 2.9996,
+      "prior_variance": 0.712717,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Barrow",
-      "path": "northamerica/unitedstates/alaska/barrow",
-      "prior_mu": 22.4303,
-      "prior_sigma": 5.7215,
-      "prior_n": 1
+      "title": "Anjara",
+      "path": "asia/jordan/anjara",
+      "prior_score": -1.5813,
+      "prior_variance": 0.771724,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Ash Flat",
-      "path": "northamerica/unitedstates/arkansas/ashflat",
-      "prior_mu": 16.2016,
-      "prior_sigma": 4.5295,
-      "prior_n": 3
+      "title": "Hasti\u00e8re",
+      "path": "europe/belgium/hastiere",
+      "prior_score": -4.0579,
+      "prior_variance": 0.750171,
+      "prior_n": 2
     }
   ]
 }

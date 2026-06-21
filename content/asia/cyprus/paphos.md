@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Paphos_Marine,_Cyprus_-_pa
 latitude: 34.774399
 loc_type: city
 longitude: 32.423159
-score: 0.66
+score: 0.58
 title: Paphos
 type: location
 ---

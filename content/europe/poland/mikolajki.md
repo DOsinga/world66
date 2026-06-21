@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/22786194@N04/2682444969
 latitude: 53.798182
 loc_type: city
 longitude: 21.577246
-score: 0.49
+score: 0.42
 title: Mikolajki
 type: location
 ---

@@ -12,6 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Hailongtun
 title: Hailongtun Tusi Fortress
 type: location
+score: 0.4
 ---
 
 Hailongtun is the best-preserved feudal castle ruin in China — a statement that sounds like tourist-board copy until you consider that the country's history of continuous habitation and destruction has left almost nothing of this kind standing. The fortress sits on the summit of [Longyan Mountain](/asia/china/guizhou/hailongtun/longyan_mountain_trail), covering 1.59 square kilometres with nearly 6 kilometres of [defensive walls and gate passes](/asia/china/guizhou/hailongtun/fortress_walls_and_gates), archer towers, and a moat. It was built in 1257 by the Yang family, hereditary chieftains of the Bozhou region under the tusi system — the Ming and Qing empire's method of governing frontier territories through local strongmen granted nominal authority in exchange for tribute and military service.

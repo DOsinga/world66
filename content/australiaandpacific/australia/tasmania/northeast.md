@@ -5,7 +5,7 @@ done:
 latitude: -41.2
 loc_type: city
 longitude: 147.5
-score: 0.54
+score: 0.46
 title: North-East Tasmania
 type: location
 ---

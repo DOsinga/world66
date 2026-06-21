@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kokura_20190430_175349.jpg
 latitude: 33.8833
 loc_type: city
 longitude: 130.8752
-score: 0.5
+score: 0.43
 title: Kokura
 type: location
 ---

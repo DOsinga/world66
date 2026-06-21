@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/83226148@N02/7624739792
 latitude: 57.436714
 loc_type: city
 longitude: -6.5814
-score: 0.61
+score: 0.5
 title: Dunvegan
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 4414,
+  "timestamp": "2026-06-14T00:10:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Virgin Gorda",
+      "path": "northamerica/britishvirginislands/virgingorda",
+      "prior_score": 6.7496,
+      "prior_variance": 0.138837,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Portovenere",
+      "path": "europe/italy/liguria/portovenere",
+      "prior_score": 6.227,
+      "prior_variance": 0.116048,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Ljubljana",
+      "path": "europe/slovenia/ljubljana",
+      "prior_score": 6.7098,
+      "prior_variance": 0.128249,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Lake Nakuru National Park",
+      "path": "africa/kenya/nationalparksandreserves/lakenakurunp",
+      "prior_score": 5.1529,
+      "prior_variance": 0.132789,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Fethiye",
+      "path": "asia/turkey/fethiye",
+      "prior_score": 6.1029,
+      "prior_variance": 0.127072,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baka",
+      "prior_score": 3.9762,
+      "prior_variance": 0.100092,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Sant Feliu de Gu\u00edxols",
+      "path": "europe/spain/catalonia/sant_feliu_de_guixols",
+      "prior_score": 2.9886,
+      "prior_variance": 0.098235,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/chester",
+      "prior_score": 2.6009,
+      "prior_variance": 0.186427,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Pe\u00f1\u00edscola",
+      "path": "europe/spain/castellon/peniscola",
+      "prior_score": 2.2805,
+      "prior_variance": 0.119722,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "M\u00f8n",
+      "path": "europe/denmark/mon",
+      "prior_score": 2.198,
+      "prior_variance": 0.100833,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Toru\u0144",
+      "path": "europe/poland/torun",
+      "prior_score": 2.7829,
+      "prior_variance": 0.116961,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Chonju",
+      "path": "asia/southkorea/chonju",
+      "prior_score": 0.4626,
+      "prior_variance": 0.100008,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Toulon",
+      "path": "europe/france/midi/cotedazur/toulon",
+      "prior_score": 2.0224,
+      "prior_variance": 0.096245,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Silkeborg",
+      "path": "europe/denmark/silkeborg",
+      "prior_score": 1.148,
+      "prior_variance": 0.106423,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Skaneateles",
+      "path": "northamerica/unitedstates/newyorkstate/skaneateles",
+      "prior_score": -0.3144,
+      "prior_variance": 0.08775,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Lido di Metaponto",
+      "path": "europe/italy/basilicata/lido_di_metaponto",
+      "prior_score": -0.2564,
+      "prior_variance": 0.101504,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Guaratuba",
+      "path": "southamerica/brazil/guratuba",
+      "prior_score": -1.9339,
+      "prior_variance": 0.088666,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Aracataca",
+      "path": "southamerica/colombia/aracataca",
+      "prior_score": -2.1708,
+      "prior_variance": 0.119328,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Scrivia Valley",
+      "path": "europe/italy/liguria/scriviavalley",
+      "prior_score": -0.8532,
+      "prior_variance": 0.113324,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/minnesota/bloomington",
+      "prior_score": -2.5446,
+      "prior_variance": 0.093361,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "P\u00f5lva",
+      "path": "europe/estonia/plva",
+      "prior_score": -2.7636,
+      "prior_variance": 0.090011,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Kish island",
+      "path": "asia/iran/kishisland",
+      "prior_score": -0.2518,
+      "prior_variance": 0.105761,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Libreville",
+      "path": "africa/gabon/libreville",
+      "prior_score": -4.2402,
+      "prior_variance": 0.118297,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_score": -4.3052,
+      "prior_variance": 0.124898,
+      "prior_n": 14
+    }
+  ]
+}

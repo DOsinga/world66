@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Kivu_from_Gisenyi.jpg
 latitude: -2.485
 loc_type: city
 longitude: 28.908
-score: 0.46
+score: 0.37
 sources:
 - https://en.wikipedia.org/wiki/Cyangugu
 - https://en.wikipedia.org/wiki/Rusizi_District

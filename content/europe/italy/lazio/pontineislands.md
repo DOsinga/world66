@@ -5,7 +5,7 @@ latitude: 40.9692
 longitude: 13.0547
 title: Pontine Islands
 type: location
-score: 0.59
+score: 0.53
 loc_type: feature
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Newsvetlov1.JPG
 latitude: 49.038913
 loc_type: city
 longitude: 17.814835
-score: 0.4
+score: 0.34
 title: Bojkovice
 type: location
 ---

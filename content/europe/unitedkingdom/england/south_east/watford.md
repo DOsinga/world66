@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Clarendon_Road,_Watford_(g
 latitude: 51.655388
 loc_type: city
 longitude: -0.395742
-score: 0.36
+score: 0.25
 title: Watford
 type: location
 ---

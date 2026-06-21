@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fungocrixia1.JPG
 latitude: 44.486179
 loc_type: city
 longitude: 8.306101
-score: 0.42
+score: 0.37
 sources:
 - https://en.wikipedia.org/wiki/Piana_Crixia
 title: Piana Crixia

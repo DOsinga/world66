@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:IT-civityvecchia-hafen-for
 latitude: 42.093752
 loc_type: city
 longitude: 11.792246
-score: 0.45
+score: 0.38
 title: Civitavecchia
 type: location
 ---

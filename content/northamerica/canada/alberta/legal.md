@@ -5,7 +5,7 @@ done:
 latitude: 53.948741
 loc_type: city
 longitude: -113.595427
-score: 0.26
+score: 0.18
 title: Legal
 type: location
 image: legal.jpg

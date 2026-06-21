@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amanecer_en_Puerto_la_Cruz
 latitude: 10.202862
 loc_type: city
 longitude: -64.630763
-score: 0.37
+score: 0.31
 title: Puerto la Cruz
 type: location
 ---

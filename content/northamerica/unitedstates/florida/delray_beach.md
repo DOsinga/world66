@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_Volleyball_2,_Delray
 latitude: 26.461462
 loc_type: city
 longitude: -80.07282
-score: 0.47
+score: 0.44
 title: Delray Beach
 type: location
 ---

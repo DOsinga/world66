@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_Kritsa.jpg
 latitude: 35.155763
 loc_type: city
 longitude: 25.646143
-score: 0.6
+score: 0.51
 title: Kritsa
 type: location
 ---

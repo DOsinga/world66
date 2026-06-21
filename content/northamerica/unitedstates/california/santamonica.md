@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_U
 latitude: 34.01947
 loc_type: city
 longitude: -118.491227
-score: 0.65
+score: 0.56
 title: Santa Monica
 type: location
 ---

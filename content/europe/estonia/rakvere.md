@@ -5,7 +5,7 @@ done:
 latitude: 59.3482
 loc_type: city
 longitude: 26.3617
-score: 0.46
+score: 0.4
 title: Rakvere
 type: location
 image: rakvere.jpg

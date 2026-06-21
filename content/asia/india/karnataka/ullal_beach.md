@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ullal_beach.jpg
 latitude: 12.811446
 loc_type: city
 longitude: 74.840728
-score: 0.4
+score: 0.35
 title: Ullal Beach
 type: location
 ---

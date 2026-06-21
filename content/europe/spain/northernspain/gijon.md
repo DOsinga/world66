@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/67525885@N00/22728532660
 latitude: 43.544942
 loc_type: city
 longitude: -5.66275
-score: 0.54
+score: 0.47
 title: Gijón
 type: location
 ---

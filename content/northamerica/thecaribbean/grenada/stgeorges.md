@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Grenada_Saint_George%27s_I
 latitude: 12.053
 loc_type: city
 longitude: -61.7488
-score: 0.64
+score: 0.56
 title: St. George's
 type: location
 ---

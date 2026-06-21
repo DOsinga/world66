@@ -5,7 +5,7 @@ latitude: 43.5283
 longitude: 142.994
 title: Daisetsuzan
 type: location
-score: 0.64
+score: 0.51
 loc_type: feature
 ---
 

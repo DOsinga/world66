@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Market_Square,_Newburyport
 latitude: 42.811659
 loc_type: city
 longitude: -70.871927
-score: 0.53
+score: 0.44
 title: Newburyport
 type: location
 ---

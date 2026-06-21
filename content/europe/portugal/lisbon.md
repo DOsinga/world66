@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:December_10,_2006,_Lisbon_
 latitude: 38.707751
 loc_type: city
 longitude: -9.136592
-score: 0.76
+score: 0.7
 title: Lisbon
 type: location
 ---

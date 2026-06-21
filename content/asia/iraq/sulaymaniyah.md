@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/79721788@N00/6556996125
 latitude: 35.557727
 loc_type: city
 longitude: 45.432802
-score: 0.37
+score: 0.32
 title: Sulaymaniyah
 type: location
 ---

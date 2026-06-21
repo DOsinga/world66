@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sumgait_-_my_home.jpg
 latitude: 40.5961
 loc_type: city
 longitude: 49.6697
-score: 0.28
+score: 0.25
 title: Sumgait
 type: location
 ---

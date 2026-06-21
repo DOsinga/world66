@@ -5,7 +5,7 @@ done:
 latitude: 14.114401
 loc_type: city
 longitude: 121.55486
-score: 0.47
+score: 0.39
 title: Lucban
 type: location
 image: lucban.jpg

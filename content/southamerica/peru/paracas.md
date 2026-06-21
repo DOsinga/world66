@@ -7,7 +7,7 @@ done:
 latitude: -13.835043
 loc_type: city
 longitude: -76.249622
-score: 0.6
+score: 0.55
 sources:
 - https://en.wikipedia.org/wiki/Paracas_National_Reserve
 - https://en.wikipedia.org/wiki/Paracas_Candelabra

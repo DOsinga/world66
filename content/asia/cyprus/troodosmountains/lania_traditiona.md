@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Laneia,_Cyprus_-_panoramio
 latitude: 34.85
 loc_type: city
 longitude: 32.8167
-score: 0.47
+score: 0.41
 title: Lania
 type: location
 ---

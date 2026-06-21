@@ -6,7 +6,7 @@ longitude: 2.695956
 done:
   location_cleanup: 2026-04-10
   location_enrich: '2026-06-03'
-score: 0.6
+score: 0.54
 loc_type: city
 image: besal.jpg
 image_license: CC BY-SA 3.0 es

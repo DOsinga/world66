@@ -5,7 +5,7 @@ done:
 latitude: 49.9191
 loc_type: city
 longitude: 7.0208
-score: 0.51
+score: 0.43
 title: Lieser
 type: location
 ---

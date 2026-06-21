@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Udon_Thani_-_Chinese_Shrin
 latitude: 17.4138
 loc_type: city
 longitude: 102.7878
-score: 0.47
+score: 0.4
 title: Udon Thani
 type: location
 ---

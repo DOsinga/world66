@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ford_Mansion,_Morristown,_
 latitude: 40.797038
 loc_type: city
 longitude: -74.480987
-score: 0.39
+score: 0.32
 sources:
 - https://en.wikipedia.org/wiki/Morristown,_New_Jersey
 - https://www.nps.gov/morr/index.htm

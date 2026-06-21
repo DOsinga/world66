@@ -1,0 +1,200 @@
+{
+  "round": 3632,
+  "timestamp": "2026-06-13T23:08:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oranjestad",
+      "path": "northamerica/thecaribbean/aruba/oranjestad",
+      "prior_score": 5.5312,
+      "prior_variance": 0.167334,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Eleuthera",
+      "path": "northamerica/bahamas/eleuthera",
+      "prior_score": 5.1036,
+      "prior_variance": 0.133049,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "English Harbour",
+      "path": "northamerica/antiguaandbarbuda/englishharbour",
+      "prior_score": 5.37,
+      "prior_variance": 0.124821,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Airlie Beach",
+      "path": "australiaandpacific/australia/queensland/airliebeach",
+      "prior_score": 4.0405,
+      "prior_variance": 0.137426,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Cascais",
+      "path": "europe/portugal/cascais",
+      "prior_score": 6.0756,
+      "prior_variance": 0.147173,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Glastonbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/glastonbury",
+      "prior_score": 3.8107,
+      "prior_variance": 0.135892,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Tarifa",
+      "path": "europe/spain/andalucia/tarifa",
+      "prior_score": 3.9726,
+      "prior_variance": 0.125513,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Quedlinburg",
+      "path": "europe/germany/saxonyanhalt/quedlinburg",
+      "prior_score": 3.0657,
+      "prior_variance": 0.120691,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Volubilis",
+      "path": "africa/morocco/volubilis",
+      "prior_score": 4.5791,
+      "prior_variance": 0.133974,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Baracoa",
+      "path": "northamerica/thecaribbean/cuba/baracoa",
+      "prior_score": 3.1968,
+      "prior_variance": 0.124153,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Harar",
+      "path": "africa/ethiopia/harar",
+      "prior_score": 2.5779,
+      "prior_variance": 0.118498,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Pozzuoli",
+      "path": "europe/italy/campania/pozzuoli",
+      "prior_score": 2.4963,
+      "prior_variance": 0.109456,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Wairarapa",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/wairarapa",
+      "prior_score": 1.242,
+      "prior_variance": 0.100744,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Nzulezu",
+      "path": "africa/ghana/mzulezu",
+      "prior_score": -1.1615,
+      "prior_variance": 0.142052,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Redondela",
+      "path": "europe/spain/galicia/redondela",
+      "prior_score": -0.4977,
+      "prior_variance": 0.113043,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Vladivostok",
+      "path": "europe/russia/vladivostok",
+      "prior_score": -0.1787,
+      "prior_variance": 0.12729,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Jakobstad",
+      "path": "europe/finland/jakobstad",
+      "prior_score": -1.2363,
+      "prior_variance": 0.123803,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Haderslev",
+      "path": "europe/denmark/haderslev",
+      "prior_score": -1.509,
+      "prior_variance": 0.146816,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Kendal",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/kendal",
+      "prior_score": -1.1416,
+      "prior_variance": 0.114323,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Saint-Marc",
+      "path": "northamerica/thecaribbean/haiti/saintmarc",
+      "prior_score": -6.955,
+      "prior_variance": 0.149065,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Tongxin",
+      "path": "asia/china/ningxia/tongxin",
+      "prior_score": -5.9429,
+      "prior_variance": 0.138545,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Chickasaw",
+      "path": "northamerica/unitedstates/oklahoma/chickasaw",
+      "prior_score": -7.2197,
+      "prior_variance": 0.201982,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Alva",
+      "path": "northamerica/unitedstates/oklahoma/alva",
+      "prior_score": -7.3289,
+      "prior_variance": 0.180993,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Dade City",
+      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
+      "prior_score": -5.2618,
+      "prior_variance": 0.131877,
+      "prior_n": 12
+    }
+  ]
+}

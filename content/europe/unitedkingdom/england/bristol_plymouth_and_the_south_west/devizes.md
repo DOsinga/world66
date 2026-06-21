@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caen.hill.locks.in.devizes
 latitude: 51.352503
 loc_type: city
 longitude: -1.99583
-score: 0.48
+score: 0.37
 title: Devizes
 type: location
 ---

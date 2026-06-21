@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Whistler
 title: Whistler
 type: location
+score: 0.6
 ---
 
 *North America > Canada > British Columbia > Whistler*

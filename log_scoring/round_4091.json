@@ -1,0 +1,200 @@
+{
+  "round": 4091,
+  "timestamp": "2026-06-13T23:43:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Viganj",
+      "path": "europe/croatia/peljesac/viganj",
+      "prior_score": 2.9765,
+      "prior_variance": 0.10591,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Vara Valley",
+      "path": "europe/italy/liguria/varavalley",
+      "prior_score": -0.0027,
+      "prior_variance": 0.092447,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Senglea",
+      "path": "europe/malta/cottonera_or_three/senglea_or_llsla",
+      "prior_score": 2.7582,
+      "prior_variance": 0.106264,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "K\u00f6ssen",
+      "path": "europe/austria/koessen",
+      "prior_score": 1.2266,
+      "prior_variance": 0.100137,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "North Frisian Islands",
+      "path": "europe/germany/schleswigholstein/north_frisian_islands",
+      "prior_score": 1.6305,
+      "prior_variance": 0.105042,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Papallacta",
+      "path": "southamerica/ecuador/papallacta",
+      "prior_score": 1.2969,
+      "prior_variance": 0.105743,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_score": 2.8758,
+      "prior_variance": 0.138453,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Anton Valley",
+      "path": "northamerica/panama/antonvalley",
+      "prior_score": 1.2031,
+      "prior_variance": 0.094269,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Luhuitou",
+      "path": "asia/china/hainanisland/luhuitou",
+      "prior_score": -0.468,
+      "prior_variance": 0.113859,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Selfoss",
+      "path": "europe/iceland/selfoss",
+      "prior_score": 1.8322,
+      "prior_variance": 0.113403,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_score": 2.7641,
+      "prior_variance": 0.101753,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Joensuu",
+      "path": "europe/finland/joensuu",
+      "prior_score": -0.5585,
+      "prior_variance": 0.092886,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Parksville",
+      "path": "northamerica/canada/britishcolumbia/parksville",
+      "prior_score": -0.4034,
+      "prior_variance": 0.102113,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "San Piero a Sieve",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea/sanpieroasieve",
+      "prior_score": -0.3302,
+      "prior_variance": 0.107723,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Vama Veche",
+      "path": "europe/romania/vama_veche",
+      "prior_score": -0.8255,
+      "prior_variance": 0.092693,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Surabaya",
+      "path": "asia/indonesia/java/surabaya",
+      "prior_score": -0.6431,
+      "prior_variance": 0.103787,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Kumbakonam",
+      "path": "asia/india/tamilnadu/kumbakonam",
+      "prior_score": -0.1979,
+      "prior_variance": 0.09762,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Daugavpils",
+      "path": "europe/latvia/daugavpils",
+      "prior_score": -1.4622,
+      "prior_variance": 0.096297,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Karelian Isthmus",
+      "path": "europe/russia/karelian_isthmus",
+      "prior_score": -2.4426,
+      "prior_variance": 0.10596,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Portland",
+      "path": "australiaandpacific/australia/victoria/portland",
+      "prior_score": -2.2432,
+      "prior_variance": 0.104855,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Petaling Jaya",
+      "path": "asia/malaysia/petalingjaya",
+      "prior_score": -2.4032,
+      "prior_variance": 0.105535,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Debre Damo",
+      "path": "africa/ethiopia/debre_damo",
+      "prior_score": -4.3467,
+      "prior_variance": 0.13953,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Iona National Park",
+      "path": "africa/angola/ionanationalpark",
+      "prior_score": -4.2818,
+      "prior_variance": 0.17553,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_score": -4.6854,
+      "prior_variance": 0.115008,
+      "prior_n": 13
+    }
+  ]
+}

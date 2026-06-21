@@ -1,200 +1,200 @@
 {
   "round": 395,
-  "timestamp": "2026-04-12T09:29:08",
+  "timestamp": "2026-06-13T19:33:21",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "St Petersburg",
-      "path": "europe/russia/stpetersburg",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Taipei",
+      "path": "asia/taiwan/taipei",
+      "prior_score": 11.6949,
+      "prior_variance": 8.822424,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Moscow",
-      "path": "europe/russia/moscow",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Oaxaca",
+      "path": "northamerica/mexico/oaxaca",
+      "prior_score": 10.7425,
+      "prior_variance": 3.744564,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Suzdal",
-      "path": "europe/russia/suzdal",
-      "prior_mu": 22.1819,
-      "prior_sigma": 4.8527,
-      "prior_n": 2
+      "title": "Thessaloniki",
+      "path": "europe/greece/thessaloniki",
+      "prior_score": 8.8392,
+      "prior_variance": 1.934752,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Vladimir",
-      "path": "europe/russia/vladimir",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Heidelberg",
+      "path": "europe/germany/badenwrttemberg/heidelberg",
+      "prior_score": 8.0349,
+      "prior_variance": 3.595679,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Kazan",
-      "path": "europe/russia/kazan",
-      "prior_mu": 21.6756,
-      "prior_sigma": 4.7364,
-      "prior_n": 2
+      "title": "Victoria",
+      "path": "northamerica/canada/britishcolumbia/victoria",
+      "prior_score": 10.6351,
+      "prior_variance": 2.188768,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Yaroslavl",
-      "path": "europe/russia/yaroslavl",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Perth",
+      "path": "australiaandpacific/australia/westernaustralia/perth",
+      "prior_score": 4.4407,
+      "prior_variance": 2.022796,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Kizhi",
-      "path": "europe/russia/kizhi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "White Sands",
+      "path": "northamerica/unitedstates/newmexico/whitesands",
+      "prior_score": 9.0757,
+      "prior_variance": 2.825594,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Novgorod",
-      "path": "europe/russia/novgorod",
-      "prior_mu": 22.726,
-      "prior_sigma": 5.9503,
+      "title": "Husavik",
+      "path": "europe/iceland/husavik",
+      "prior_score": 5.4935,
+      "prior_variance": 2.56981,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Yekaterinburg",
-      "path": "europe/russia/ekaterinoburg",
-      "prior_mu": 22.7774,
-      "prior_sigma": 5.9565,
+      "title": "Camogli",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/camogli",
+      "prior_score": 8.249,
+      "prior_variance": 2.162263,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Petrozavodsk",
-      "path": "europe/russia/karelia/petrozavodsk",
-      "prior_mu": 22.4771,
-      "prior_sigma": 5.9067,
+      "title": "Asti",
+      "path": "europe/italy/piemonte/asti",
+      "prior_score": 6.525,
+      "prior_variance": 1.494166,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Karelian Isthmus",
-      "path": "europe/russia/karelian_isthmus",
-      "prior_mu": 22.332,
-      "prior_sigma": 5.5483,
+      "title": "Rethimno",
+      "path": "europe/greece/crete/rethimno",
+      "prior_score": 12.3577,
+      "prior_variance": 8.453543,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Pyatigorsk",
-      "path": "europe/russia/pyatigorsk",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Tinos",
+      "path": "europe/greece/tinos",
+      "prior_score": 8.2781,
+      "prior_variance": 2.106495,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Vologda",
-      "path": "europe/russia/vologda_region/vologda",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Asilah",
+      "path": "africa/morocco/asilah",
+      "prior_score": 5.1413,
+      "prior_variance": 1.615793,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Viipuri",
-      "path": "europe/russia/viipuri",
-      "prior_mu": 22.1547,
-      "prior_sigma": 5.7676,
+      "title": "El Yunque",
+      "path": "northamerica/thecaribbean/puertorico/elyunque",
+      "prior_score": 10.5056,
+      "prior_variance": 2.337083,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Samara",
-      "path": "europe/russia/samara",
-      "prior_mu": 21.8341,
-      "prior_sigma": 4.6334,
-      "prior_n": 2
+      "title": "Wuyishan",
+      "path": "asia/china/fujianprovince/wuyishan",
+      "prior_score": 4.0027,
+      "prior_variance": 2.380814,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Ulan Ude",
-      "path": "europe/russia/ulan_ude",
-      "prior_mu": 22.5256,
-      "prior_sigma": 5.9134,
+      "title": "Wudang Mountains",
+      "path": "asia/china/hubei/wudang_mountains",
+      "prior_score": 4.6953,
+      "prior_variance": 5.473682,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Vyatka",
-      "path": "europe/russia/vyatka",
-      "prior_mu": 19.9698,
-      "prior_sigma": 5.9455,
+      "title": "Hongcun",
+      "path": "asia/china/anhui/hongcun",
+      "prior_score": 12.0598,
+      "prior_variance": 6.906044,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Ulyanovsk",
-      "path": "europe/russia/ulyanovsk",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Bad Ischl",
+      "path": "europe/austria/badischl",
+      "prior_score": 8.691,
+      "prior_variance": 2.029768,
       "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Ural",
-      "path": "europe/russia/ural",
-      "prior_mu": 22.6911,
-      "prior_sigma": 5.9459,
+      "title": "Soline",
+      "path": "europe/croatia/miljet_island/soline",
+      "prior_score": 8.1997,
+      "prior_variance": 1.724583,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Orel",
-      "path": "europe/russia/orel",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ventimiglia",
+      "path": "europe/italy/liguria/italianriviera/ventimiglia",
+      "prior_score": 4.5642,
+      "prior_variance": 1.578216,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Kursk",
-      "path": "europe/russia/kursk",
-      "prior_mu": 18.488,
-      "prior_sigma": 3.1978,
-      "prior_n": 4
+      "title": "Lynton and Lynmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/lynton_and_lynmouth",
+      "prior_score": 7.6895,
+      "prior_variance": 2.303864,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Belgorod",
-      "path": "europe/russia/belgorod_1",
-      "prior_mu": 22.6437,
-      "prior_sigma": 5.9389,
+      "title": "Ingolstadt",
+      "path": "europe/germany/bavaria/ingolstadt",
+      "prior_score": 3.6017,
+      "prior_variance": 1.971292,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Tyumen",
-      "path": "europe/russia/tyumen",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kollam",
+      "path": "asia/india/kerala/kollam",
+      "prior_score": 1.4109,
+      "prior_variance": 1.525561,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Khabarovsk",
-      "path": "europe/russia/khabarovsk",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Myrtle Beach",
+      "path": "northamerica/unitedstates/southcarolina/myrtlebeach",
+      "prior_score": 8.4569,
+      "prior_variance": 1.625813,
+      "prior_n": 1
     }
   ]
 }

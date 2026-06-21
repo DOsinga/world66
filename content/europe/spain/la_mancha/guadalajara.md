@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1004_03_Guadalajara-Palaci
 latitude: 40.633
 loc_type: city
 longitude: -3.167
-score: 0.44
+score: 0.4
 title: Guadalajara
 type: location
 ---

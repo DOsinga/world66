@@ -1,0 +1,200 @@
+{
+  "round": 2798,
+  "timestamp": "2026-06-13T22:07:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_score": 4.9038,
+      "prior_variance": 0.205325,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Porkeri",
+      "path": "europe/faroeislands/suuroy/porkeri",
+      "prior_score": -1.6151,
+      "prior_variance": 0.132204,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Chemainus",
+      "path": "northamerica/canada/britishcolumbia/chemainus",
+      "prior_score": 0.0541,
+      "prior_variance": 0.134179,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Montescaglioso",
+      "path": "europe/italy/basilicata/montescaglioso",
+      "prior_score": -1.4475,
+      "prior_variance": 0.149947,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Lichtenfels",
+      "path": "europe/germany/bavaria/lichtenfels",
+      "prior_score": -3.502,
+      "prior_variance": 0.238331,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "B\u00fck",
+      "path": "europe/hungary/buk",
+      "prior_score": -2.045,
+      "prior_variance": 0.143941,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Palmerston North",
+      "path": "australiaandpacific/newzealand/palmerstonnorth",
+      "prior_score": -2.1705,
+      "prior_variance": 0.137288,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Cochabamba",
+      "path": "southamerica/bolivia/cochabamba",
+      "prior_score": -0.4995,
+      "prior_variance": 0.142612,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Pontianak",
+      "path": "asia/indonesia/pontianak",
+      "prior_score": -1.9815,
+      "prior_variance": 0.151378,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Altay Prefecture",
+      "path": "asia/china/xinjiangprovince/altayprefecture",
+      "prior_score": -1.2625,
+      "prior_variance": 0.166503,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Southampton",
+      "path": "northamerica/canada/ontario/southampton",
+      "prior_score": -2.301,
+      "prior_variance": 0.136458,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Portland",
+      "path": "australiaandpacific/australia/victoria/portland",
+      "prior_score": -2.5152,
+      "prior_variance": 0.181573,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Oakleigh",
+      "path": "australiaandpacific/australia/victoria/oakleigh",
+      "prior_score": -3.9934,
+      "prior_variance": 0.168137,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Tingo",
+      "path": "southamerica/peru/tingo",
+      "prior_score": -3.7867,
+      "prior_variance": 0.176113,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Butre",
+      "path": "africa/ghana/butre",
+      "prior_score": -2.468,
+      "prior_variance": 0.161183,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Zhengding",
+      "path": "asia/china/hebei/zhengding",
+      "prior_score": -1.4942,
+      "prior_variance": 0.128062,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Longnan",
+      "path": "asia/china/gansu/longnan",
+      "prior_score": -4.7727,
+      "prior_variance": 0.158596,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Saint-Marc",
+      "path": "northamerica/thecaribbean/haiti/saintmarc",
+      "prior_score": -7.4725,
+      "prior_variance": 0.204111,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Dahlak Islands",
+      "path": "africa/eritrea/dahlakislands",
+      "prior_score": -2.0765,
+      "prior_variance": 0.199501,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/indiana/lafayette",
+      "prior_score": -5.0618,
+      "prior_variance": 0.156683,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Galesburg",
+      "path": "northamerica/unitedstates/illinois/galesburg",
+      "prior_score": -6.1958,
+      "prior_variance": 0.218343,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_score": -8.2035,
+      "prior_variance": 0.348495,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Nushki",
+      "path": "asia/pakistan/nushki",
+      "prior_score": -8.4695,
+      "prior_variance": 0.264681,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Trans Sahara",
+      "path": "africa/niger/transsahara",
+      "prior_score": -8.515,
+      "prior_variance": 0.269844,
+      "prior_n": 8
+    }
+  ]
+}

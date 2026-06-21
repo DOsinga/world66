@@ -5,7 +5,7 @@ latitude: 35.454833
 longitude: 43.259778
 title: Assur
 type: location
-score: 0.37
+score: 0.28
 loc_type: city
 ---
 

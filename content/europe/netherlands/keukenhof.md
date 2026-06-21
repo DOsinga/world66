@@ -12,7 +12,7 @@ latitude: 52.269873
 longitude: 4.547257
 title: Keukenhof
 type: location
-score: 0.72
+score: 0.67
 loc_type: feature
 ---
 

@@ -1,200 +1,200 @@
 {
   "round": 253,
-  "timestamp": "2026-04-12T09:08:43",
+  "timestamp": "2026-06-13T19:26:32",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Mykonos",
-      "path": "europe/greece/mykonos",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
-      "prior_n": 1
+      "title": "Koyasan",
+      "path": "asia/japan/honshu/koyasan",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Fl\u00e5m",
-      "path": "europe/norway/flm",
-      "prior_mu": 24.885,
-      "prior_sigma": 5.8506,
-      "prior_n": 1
+      "title": "Formentera",
+      "path": "europe/spain/balearicislands/formentera",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Kornati National Park",
-      "path": "europe/croatia/kornati_national",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Urbino",
+      "path": "europe/italy/marche/urbino",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Crans-Montana",
-      "path": "europe/switzerland/crans_montana",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/southcarolina/charleston",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Puerto Rico",
-      "path": "northamerica/puertorico",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Manu National Park",
+      "path": "southamerica/peru/manunationalpark",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Cat Ba Island",
-      "path": "asia/vietnam/cat_ba_island",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2992,
-      "prior_n": 1
+      "title": "Kalbarri",
+      "path": "australiaandpacific/australia/westernaustralia/kalbarri",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Around Hue",
-      "path": "asia/vietnam/hue/aroundhue",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Hatteras Island",
+      "path": "northamerica/unitedstates/northcarolina/hatteras_island",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Porto Cristo",
-      "path": "europe/spain/balearicislands/mallorca/portocristo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Pr\u00edncipe",
+      "path": "africa/saotomeandprincipe/principe",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Senglea (or L-lsla)",
-      "path": "europe/malta/cottonera_or_three/senglea_or_llsla",
-      "prior_mu": 21.9918,
-      "prior_sigma": 4.843,
-      "prior_n": 2
+      "title": "Sousse",
+      "path": "africa/tunisia/sousse",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Barra De Navidad",
-      "path": "northamerica/mexico/barradenavidad",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Bantry",
+      "path": "europe/ireland/bantry",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "bacolod",
-      "path": "asia/philippines/bacolod",
-      "prior_mu": 22.6484,
-      "prior_sigma": 5.6906,
-      "prior_n": 1
+      "title": "Esquel",
+      "path": "southamerica/argentina/esquel",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Luhuitou",
-      "path": "asia/china/hainanisland/luhuitou",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Nkob",
+      "path": "africa/morocco/nkob",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Derry / Londonderry",
-      "path": "europe/unitedkingdom/northernireland/londonderry",
-      "prior_mu": 22.2695,
-      "prior_sigma": 5.6077,
-      "prior_n": 1
+      "title": "Magdeburg",
+      "path": "europe/germany/saxonyanhalt/magdeburg",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Billund",
-      "path": "europe/denmark/billund",
-      "prior_mu": 22.7312,
-      "prior_sigma": 5.9509,
-      "prior_n": 1
+      "title": "Arica",
+      "path": "southamerica/chile/arica",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Nabeul",
-      "path": "africa/tunisia/nabeul",
-      "prior_mu": 22.7228,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Hanko",
-      "path": "europe/finland/hanko",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Oulu",
-      "path": "europe/finland/oulu",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Lake Urmia",
+      "path": "asia/iran/lake_urmia",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Panama City",
-      "path": "northamerica/unitedstates/florida/panama_city",
-      "prior_mu": 22.7412,
-      "prior_sigma": 5.9508,
-      "prior_n": 1
+      "title": "Fianarantsoa",
+      "path": "africa/madagascar/fianarantsoa",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Sint-Truiden",
-      "path": "europe/belgium/sinttruiden",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/northcarolina/marion",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Los Alamos",
-      "path": "northamerica/unitedstates/newmexico/losalamos",
-      "prior_mu": 22.7228,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Conakry",
+      "path": "africa/guineeconakry/conakry",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Abbottabad",
-      "path": "asia/pakistan/abbottabad",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Orapa",
+      "path": "africa/botswana/kalaharidesert/orapa",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Franklin",
-      "path": "northamerica/unitedstates/kentucky/franklin",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Durgapur",
-      "path": "asia/india/westbengal/durgapur",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Mong",
+      "path": "asia/pakistan/azad_kashmir/mong",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "ghazi chok",
-      "path": "asia/pakistan/dera_ghazi_khan/ghazi_chok",
-      "prior_mu": 18.3441,
-      "prior_sigma": 6.7588,
-      "prior_n": 1
+      "title": "Gaza Strip",
+      "path": "asia/palestinianauthority/gazastrip",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

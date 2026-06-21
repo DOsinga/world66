@@ -5,7 +5,7 @@ done:
 latitude: 15.5456
 loc_type: city
 longitude: 73.7646
-score: 0.55
+score: 0.47
 title: Calangute
 type: location
 image: calangute.jpg

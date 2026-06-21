@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ES_Santa_Ana_06_2011_2543.
 latitude: 13.9942
 loc_type: city
 longitude: -89.5597
-score: 0.39
+score: 0.33
 title: Santa Ana
 type: location
 ---

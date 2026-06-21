@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%EC%A4%91%ED%99%94%EC%A0%8
 latitude: 37.566679
 loc_type: city
 longitude: 126.978291
-score: 0.77
+score: 0.74
 title: Seoul
 type: location
 ---

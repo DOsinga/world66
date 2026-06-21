@@ -1,200 +1,200 @@
 {
   "round": 1072,
-  "timestamp": "2026-04-12T22:07:54",
+  "timestamp": "2026-06-13T20:09:35",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Samarra",
-      "path": "asia/iraq/samarra",
-      "prior_rank": 7852,
-      "prior_wins": 4,
-      "prior_n": 2
+      "title": "Atiu",
+      "path": "australiaandpacific/cookislands/atiu",
+      "prior_score": 0.595,
+      "prior_variance": 0.416002,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Santa Isabel",
-      "path": "australiaandpacific/solomonislands/santaisabel",
-      "prior_rank": 6870,
-      "prior_wins": 6,
-      "prior_n": 2
+      "title": "Lhuntsi",
+      "path": "asia/bhutan/lhuntsi",
+      "prior_score": -1.5826,
+      "prior_variance": 0.487173,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Touba",
-      "path": "africa/senegal/touba",
-      "prior_rank": 6449,
-      "prior_wins": 18,
+      "title": "Djiguibombo",
+      "path": "africa/mali/dogoncountry/djiguibombo",
+      "prior_score": -4.8559,
+      "prior_variance": 0.444028,
       "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Mildura",
-      "path": "australiaandpacific/australia/victoria/midura",
-      "prior_rank": 6796,
-      "prior_wins": 10,
-      "prior_n": 2
+      "title": "Malealea",
+      "path": "africa/lesotho/malealea",
+      "prior_score": -2.3165,
+      "prior_variance": 0.587518,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Deogad",
-      "path": "asia/india/maharashtra/konkan/deogad",
-      "prior_rank": 6558,
-      "prior_wins": 11,
-      "prior_n": 2
+      "title": "Pointe-\u00e0-Pitre",
+      "path": "northamerica/thecaribbean/guadeloupe/pointeapitre",
+      "prior_score": 0.0033,
+      "prior_variance": 0.496126,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Tiruvarur",
-      "path": "asia/india/tamilnadu/tiruvarur",
-      "prior_rank": 6467,
-      "prior_wins": 12,
-      "prior_n": 2
+      "title": "Nakhon Pathom",
+      "path": "asia/thailand/nakhon_pathom",
+      "prior_score": -2.3629,
+      "prior_variance": 0.447821,
+      "prior_n": 5
     },
     {
       "rank": 7,
-      "title": "Abbottabad",
-      "path": "asia/pakistan/abbottabad",
-      "prior_rank": 7146,
-      "prior_wins": 8,
-      "prior_n": 2
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_score": -0.8706,
+      "prior_variance": 0.582078,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Khushab (Valley Soon Sakesar)",
-      "path": "asia/pakistan/soon_valley/ugalisharif/bazral_ugalisharif_1/khushab_valley_so",
-      "prior_rank": 7670,
-      "prior_wins": 5,
-      "prior_n": 2
+      "title": "Spanish Town",
+      "path": "northamerica/jamaica/spanishtown",
+      "prior_score": -2.7401,
+      "prior_variance": 0.663443,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Las Pinas City",
-      "path": "asia/philippines/las_pinas_city",
-      "prior_rank": 7058,
-      "prior_wins": 13,
+      "title": "Cirebon",
+      "path": "asia/indonesia/cirebon",
+      "prior_score": -3.184,
+      "prior_variance": 0.417898,
       "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Dover",
-      "path": "northamerica/unitedstates/delaware/dover",
-      "prior_rank": 7857,
-      "prior_wins": 4,
-      "prior_n": 2
+      "title": "Jiangyong",
+      "path": "asia/china/hunan/jiangyong",
+      "prior_score": -3.0883,
+      "prior_variance": 0.43982,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Plattsburgh",
-      "path": "northamerica/unitedstates/newyorkstate/plattsburgh",
-      "prior_rank": 7003,
-      "prior_wins": 9,
-      "prior_n": 2
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_score": -2.3903,
+      "prior_variance": 0.580672,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Akron",
-      "path": "northamerica/unitedstates/ohio/akron",
-      "prior_rank": 6237,
-      "prior_wins": 13,
-      "prior_n": 2
+      "title": "Alc\u00e1zar de San Juan",
+      "path": "europe/spain/la_mancha/alcazar_de_san_juan",
+      "prior_score": -2.6451,
+      "prior_variance": 0.409492,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Jackson",
-      "path": "northamerica/unitedstates/michigan/jackson",
-      "prior_rank": 7516,
-      "prior_wins": 6,
-      "prior_n": 2
+      "title": "Canillas de Aceituno",
+      "path": "europe/spain/canillas_de_aceituno",
+      "prior_score": -1.0869,
+      "prior_variance": 0.455005,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Vedb\u00e6k",
-      "path": "europe/denmark/vedbaek",
-      "prior_rank": 5501,
-      "prior_wins": 8,
-      "prior_n": 1
+      "title": "Chetumal",
+      "path": "northamerica/mexico/chetumal",
+      "prior_score": -2.4095,
+      "prior_variance": 0.403396,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Marion",
-      "path": "australiaandpacific/australia/southaustralia/marion",
-      "prior_rank": 7182,
-      "prior_wins": 8,
-      "prior_n": 2
+      "title": "Juist",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/juist",
+      "prior_score": -2.9844,
+      "prior_variance": 0.460131,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Ventnor",
-      "path": "northamerica/unitedstates/newjersey/ventnor",
-      "prior_rank": 7338,
-      "prior_wins": 7,
-      "prior_n": 2
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/northcoast/arcata",
+      "prior_score": -2.2254,
+      "prior_variance": 0.434907,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Upper Montclair",
-      "path": "northamerica/unitedstates/newjersey/uppermontclair",
-      "prior_rank": 7718,
-      "prior_wins": 5,
-      "prior_n": 2
+      "title": "Palm Desert",
+      "path": "northamerica/unitedstates/california/deserts/palmdesert",
+      "prior_score": -2.7812,
+      "prior_variance": 0.415412,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Chigwell",
-      "path": "europe/unitedkingdom/england/eastern_england/chigwell",
-      "prior_rank": 7875,
-      "prior_wins": 4,
-      "prior_n": 2
+      "title": "Bentonville",
+      "path": "northamerica/unitedstates/arkansas/bentonville",
+      "prior_score": -3.1126,
+      "prior_variance": 0.542111,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Lushnj\u00eb",
-      "path": "europe/albania/lushnje",
-      "prior_rank": 7152,
-      "prior_wins": 8,
-      "prior_n": 2
+      "title": "Round Top",
+      "path": "northamerica/unitedstates/texas/round_top",
+      "prior_score": -2.1788,
+      "prior_variance": 0.492604,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Qasr Libya",
-      "path": "africa/libya/jebelakhdar/qasr_libya",
-      "prior_rank": 7104,
-      "prior_wins": 8,
-      "prior_n": 2
+      "title": "Des Moines",
+      "path": "northamerica/unitedstates/iowa/desmoines",
+      "prior_score": -3.1185,
+      "prior_variance": 0.464658,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Datil",
-      "path": "northamerica/unitedstates/newmexico/datil",
-      "prior_rank": 7859,
-      "prior_wins": 4,
-      "prior_n": 2
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_score": -2.6617,
+      "prior_variance": 0.398501,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Trans Sahara",
-      "path": "africa/niger/transsahara",
-      "prior_rank": 8027,
-      "prior_wins": 3,
-      "prior_n": 2
+      "title": "Biloxi",
+      "path": "northamerica/unitedstates/mississippi/biloxi",
+      "prior_score": -2.4939,
+      "prior_variance": 0.409155,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Lenwade",
-      "path": "europe/unitedkingdom/norfolk/lenwade_great_wit",
-      "prior_rank": 7404,
-      "prior_wins": 10,
+      "title": "Taiyuan",
+      "path": "asia/china/shanxiprovince/taiyuan",
+      "prior_score": -1.5662,
+      "prior_variance": 0.447283,
       "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Pemberton",
-      "path": "europe/unitedkingdom/england/pemberton",
-      "prior_rank": 8113,
-      "prior_wins": 2,
-      "prior_n": 2
+      "title": "Arad",
+      "path": "europe/romania/arad",
+      "prior_score": -3.2884,
+      "prior_variance": 0.442831,
+      "prior_n": 3
     }
   ]
 }

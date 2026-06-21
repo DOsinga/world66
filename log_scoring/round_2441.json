@@ -1,0 +1,200 @@
+{
+  "round": 2441,
+  "timestamp": "2026-06-13T21:42:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Noum\u00e9a",
+      "path": "australiaandpacific/newcaledonia/noumea",
+      "prior_score": 3.2526,
+      "prior_variance": 0.167683,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Blarney",
+      "path": "europe/ireland/blarney",
+      "prior_score": 3.8372,
+      "prior_variance": 0.191346,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Fatima",
+      "path": "europe/portugal/fatima",
+      "prior_score": 2.277,
+      "prior_variance": 0.2066,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Ballarat",
+      "path": "australiaandpacific/australia/victoria/ballarat",
+      "prior_score": 1.3914,
+      "prior_variance": 0.162185,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Melrose",
+      "path": "europe/unitedkingdom/scotland/melrose",
+      "prior_score": 1.1465,
+      "prior_variance": 0.157176,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Roenne",
+      "path": "europe/denmark/roenne",
+      "prior_score": -0.4638,
+      "prior_variance": 0.169389,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Eindhoven",
+      "path": "europe/netherlands/eindhoven",
+      "prior_score": 0.1934,
+      "prior_variance": 0.236891,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "M'Hamid el Ghislane",
+      "path": "africa/morocco/mhamid_el_ghislane",
+      "prior_score": 0.0344,
+      "prior_variance": 0.189316,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Link\u00f6ping",
+      "path": "europe/sweden/linkping",
+      "prior_score": -0.7596,
+      "prior_variance": 0.175271,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Netanya",
+      "path": "asia/israel/nethanya",
+      "prior_score": -1.3744,
+      "prior_variance": 0.16407,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Winnipeg",
+      "path": "northamerica/canada/manitoba/winnipeg",
+      "prior_score": -2.1727,
+      "prior_variance": 0.153472,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Ganpatipule",
+      "path": "asia/india/maharashtra/ganpati_phule",
+      "prior_score": -0.557,
+      "prior_variance": 0.164818,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Pinar del R\u00edo",
+      "path": "northamerica/thecaribbean/cuba/pinardelrio",
+      "prior_score": 0.3088,
+      "prior_variance": 0.159907,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Vicksburg",
+      "path": "northamerica/unitedstates/mississippi/vicksburg",
+      "prior_score": -0.3209,
+      "prior_variance": 0.16467,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Winston-Salem",
+      "path": "northamerica/unitedstates/northcarolina/winstonsalem",
+      "prior_score": -2.8033,
+      "prior_variance": 0.178089,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Yuma",
+      "path": "northamerica/unitedstates/arizona/yuma",
+      "prior_score": -3.6261,
+      "prior_variance": 0.259069,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Kitsap County",
+      "path": "northamerica/unitedstates/washington/kitsap_county",
+      "prior_score": -2.5164,
+      "prior_variance": 0.163796,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Bettendorf",
+      "path": "northamerica/unitedstates/iowa/bettendorf",
+      "prior_score": -4.9152,
+      "prior_variance": 0.210318,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Ramah",
+      "path": "northamerica/unitedstates/newmexico/ramah",
+      "prior_score": -7.584,
+      "prior_variance": 0.248103,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "R\u00edo Branco",
+      "path": "southamerica/uruguay/rio_branco_urugua",
+      "prior_score": -6.0841,
+      "prior_variance": 0.221265,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Tighina",
+      "path": "europe/moldova/tighina",
+      "prior_score": -5.0451,
+      "prior_variance": 0.220153,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Tsunda",
+      "path": "europe/georgia/tsunda",
+      "prior_score": -8.6152,
+      "prior_variance": 0.255209,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Aden",
+      "path": "asia/yemen/aden",
+      "prior_score": -7.3891,
+      "prior_variance": 0.393592,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Kita",
+      "path": "africa/mali/kita",
+      "prior_score": -8.8317,
+      "prior_variance": 0.401843,
+      "prior_n": 7
+    }
+  ]
+}

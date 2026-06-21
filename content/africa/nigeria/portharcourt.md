@@ -6,7 +6,7 @@ done:
 latitude: 4.767658
 loc_type: city
 longitude: 7.018853
-score: 0.29
+score: 0.24
 sources:
 - https://en.wikipedia.org/wiki/Port_Harcourt
 - https://en.wikipedia.org/wiki/Old_GRA,_Port_Harcourt

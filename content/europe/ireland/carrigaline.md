@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:In_Carrigaline_-_geograph.
 latitude: 51.814956
 loc_type: city
 longitude: -8.392268
-score: 0.38
+score: 0.31
 title: Carrigaline
 type: location
 ---

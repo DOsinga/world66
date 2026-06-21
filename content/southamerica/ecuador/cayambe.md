@@ -5,7 +5,7 @@ done:
 latitude: 0.025159
 loc_type: city
 longitude: -77.988956
-score: 0.46
+score: 0.4
 title: Cayambe
 type: location
 ---

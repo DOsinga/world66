@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lag_BaOmer.jpg
 latitude: 33.8076
 loc_type: city
 longitude: 10.8451
-score: 0.56
+score: 0.5
 title: Jerba
 type: location
 ---

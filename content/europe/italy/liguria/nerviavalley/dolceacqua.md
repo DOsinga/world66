@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dolceacqua38_-_Panorama_de
 latitude: 43.850926
 loc_type: city
 longitude: 7.623636
-score: 0.6
+score: 0.51
 title: Dolceacqua
 type: location
 ---

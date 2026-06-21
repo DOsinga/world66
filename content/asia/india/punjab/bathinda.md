@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Guru_Nanak_Dev,Thermal_pow
 latitude: 30.179481
 loc_type: city
 longitude: 75.04711
-score: 0.36
+score: 0.27
 title: Bathinda
 type: location
 ---

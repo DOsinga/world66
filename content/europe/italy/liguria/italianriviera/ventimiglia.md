@@ -7,7 +7,7 @@ done:
 latitude: 43.791762
 loc_type: city
 longitude: 7.603313
-score: 0.53
+score: 0.46
 title: Ventimiglia
 type: location
 image: ventimiglia.jpg

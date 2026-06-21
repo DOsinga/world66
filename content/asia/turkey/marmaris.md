@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1MarmarisHafen_(13).JPG
 latitude: 36.852255
 loc_type: city
 longitude: 28.274266
-score: 0.64
+score: 0.54
 title: Marmaris
 type: location
 ---

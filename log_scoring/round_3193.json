@@ -1,0 +1,200 @@
+{
+  "round": 3193,
+  "timestamp": "2026-06-13T22:35:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Forte dei Marmi",
+      "path": "europe/italy/tuscany/forte_dei_marmi",
+      "prior_score": 1.4122,
+      "prior_variance": 0.361187,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Devil's Tower",
+      "path": "northamerica/unitedstates/wyoming/devilstower",
+      "prior_score": 2.6907,
+      "prior_variance": 0.118983,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Fribourg",
+      "path": "europe/switzerland/fribourg",
+      "prior_score": 3.1261,
+      "prior_variance": 0.152087,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Chios",
+      "path": "europe/greece/chios",
+      "prior_score": 3.8269,
+      "prior_variance": 0.14156,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Lunenburg",
+      "path": "northamerica/canada/novascotia/lunenburg",
+      "prior_score": 4.0477,
+      "prior_variance": 0.14691,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Pescasseroli",
+      "path": "europe/italy/abruzzo/pescasseroli",
+      "prior_score": 1.6572,
+      "prior_variance": 0.132851,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Pano Platres",
+      "path": "asia/cyprus/troodosmountains/pano_platres",
+      "prior_score": 1.5737,
+      "prior_variance": 0.124116,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Linosa",
+      "path": "europe/italy/sicily/pelagianislands/linosa",
+      "prior_score": 0.3639,
+      "prior_variance": 0.154959,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Mafia Island",
+      "path": "africa/tanzania/mafiaisland",
+      "prior_score": 2.6067,
+      "prior_variance": 0.132125,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/hokitika",
+      "prior_score": -0.0972,
+      "prior_variance": 0.146581,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Canterbury",
+      "path": "australiaandpacific/newzealand/south_island/canterbury",
+      "prior_score": 2.688,
+      "prior_variance": 0.133178,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Tam Giang Lagoon",
+      "path": "asia/vietnam/hue/aroundhue/tamgianglagoon",
+      "prior_score": 1.6019,
+      "prior_variance": 0.134018,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_score": 0.3796,
+      "prior_variance": 0.10876,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Lazarus Island",
+      "path": "asia/singapore/islands/lazarusisland",
+      "prior_score": 0.6661,
+      "prior_variance": 0.129963,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Chaozhou",
+      "path": "asia/china/guangdong/chaozhou",
+      "prior_score": -0.2228,
+      "prior_variance": 0.148838,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Lohals",
+      "path": "europe/denmark/lohals",
+      "prior_score": -2.032,
+      "prior_variance": 0.123898,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Sibari",
+      "path": "europe/italy/calabria/sybaris_marine",
+      "prior_score": -3.6382,
+      "prior_variance": 0.191238,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Cosenza",
+      "path": "europe/italy/calabria/cosenza",
+      "prior_score": 0.7981,
+      "prior_variance": 0.125335,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Wickenburg",
+      "path": "northamerica/unitedstates/arizona/wickenburg",
+      "prior_score": -2.7062,
+      "prior_variance": 0.157839,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Fort Scott",
+      "path": "northamerica/unitedstates/kansas/fortscott",
+      "prior_score": -5.3274,
+      "prior_variance": 0.142775,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_score": -3.4751,
+      "prior_variance": 0.175635,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Brandon",
+      "path": "northamerica/canada/manitoba/brandon",
+      "prior_score": -4.996,
+      "prior_variance": 0.183874,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_score": -7.4424,
+      "prior_variance": 0.19893,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Linfen",
+      "path": "asia/china/shanxiprovince/linfen",
+      "prior_score": -6.6913,
+      "prior_variance": 0.218988,
+      "prior_n": 10
+    }
+  ]
+}

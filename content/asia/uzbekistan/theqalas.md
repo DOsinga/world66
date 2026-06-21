@@ -5,7 +5,7 @@ latitude: 41.9283
 longitude: 60.8122
 title: The Qalas
 type: location
-score: 0.29
+score: 0.24
 loc_type: feature
 ---
 

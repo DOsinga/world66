@@ -2,8 +2,9 @@
 title: Ngorongoro Crater
 type: location
 loc_type: feature
-latitude: -3.1760
+latitude: -3.176
 longitude: 35.5897
+score: 0.74
 ---
 
 The Ngorongoro Crater is the world's largest intact volcanic caldera, a collapsed volcano roughly 20 km across whose floor contains a permanent ecosystem of remarkable density. Over 25,000 large animals live within the crater walls, and because the geography keeps most wildlife from wandering too far, this is one of the few places on earth where you can reliably see lions, elephants, rhinos, zebras, wildebeest, cheetahs, flamingos, and buffalo all in a single day's drive.

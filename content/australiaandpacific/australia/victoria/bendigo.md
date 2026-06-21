@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bendigo_CBD.jpg
 latitude: -36.757
 loc_type: city
 longitude: 144.2794
-score: 0.52
+score: 0.42
 title: Bendigo
 type: location
 ---

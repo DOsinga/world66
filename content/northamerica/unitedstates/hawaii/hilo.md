@@ -4,7 +4,7 @@ done:
 latitude: 19.7197
 loc_type: city
 longitude: -155.0885
-score: 0.62
+score: 0.53
 title: Hilo
 type: location
 ---

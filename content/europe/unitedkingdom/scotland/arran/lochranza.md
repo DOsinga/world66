@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lochranza._-_panoramio_(1)
 latitude: 55.704586
 loc_type: city
 longitude: -5.295153
-score: 0.52
+score: 0.46
 title: Lochranza
 type: location
 ---

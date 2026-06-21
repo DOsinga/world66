@@ -6,7 +6,7 @@ latitude: 47.877551
 longitude: 7.306572
 title: Ungersheim
 type: location
-score: 0.44
+score: 0.36
 loc_type: city
 ---
 

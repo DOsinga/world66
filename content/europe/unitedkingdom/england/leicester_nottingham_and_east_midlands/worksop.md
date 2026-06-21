@@ -5,7 +5,7 @@ done:
 latitude: 53.304236
 loc_type: city
 longitude: -1.124617
-score: 0.35
+score: 0.28
 title: Worksop
 type: location
 ---

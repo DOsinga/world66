@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blick_vom_ehemaligen_Aussi
 latitude: 46.623943
 loc_type: city
 longitude: 14.307598
-score: 0.59
+score: 0.47
 title: Klagenfurt
 type: location
 ---

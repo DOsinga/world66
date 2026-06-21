@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Birds_eye_view_of_Mtonya_W
 latitude: -10.286914
 loc_type: city
 longitude: 40.115346
-score: 0.45
+score: 0.33
 title: Mikindani-Mtwara
 type: location
 ---

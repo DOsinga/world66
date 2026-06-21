@@ -5,7 +5,7 @@ done:
 latitude: 13.7841
 loc_type: city
 longitude: 2.9515
-score: 0.21
+score: 0.12
 title: Baleyara
 type: location
 ---

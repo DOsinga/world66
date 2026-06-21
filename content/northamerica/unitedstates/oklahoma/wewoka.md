@@ -5,7 +5,7 @@ done:
 latitude: 35.151164
 loc_type: city
 longitude: -96.493551
-score: 0.27
+score: 0.2
 title: Wewoka
 type: location
 image: wewoka.jpg

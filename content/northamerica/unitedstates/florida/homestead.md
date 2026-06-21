@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coral_Castle,_Homestead,_F
 latitude: 25.471895
 loc_type: city
 longitude: -80.47599
-score: 0.41
+score: 0.34
 title: Homestead
 type: location
 ---

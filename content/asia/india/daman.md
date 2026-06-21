@@ -4,6 +4,7 @@ type: location
 loc_type: city
 latitude: 20.3974
 longitude: 72.8328
+score: 0.33
 ---
 
 Daman is a small coastal union territory on India's west coast, wedged between the states of Gujarat and Maharashtra about 175 kilometres north of Mumbai. Like nearby Diu, it spent four centuries under Portuguese rule before being absorbed into India in 1961, and the influence shows in the old fort churches, whitewashed colonial buildings, and a general pace of life slower than the surrounding states.

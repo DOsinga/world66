@@ -12,6 +12,7 @@ loc_type: city
 longitude: 12.3064
 title: Hillerød
 type: location
+score: 0.46
 ---
 
 Hillerød is a compact market town 35 kilometres north of [Copenhagen](/europe/denmark/copenhagen), best known as the home of [Frederiksborg Castle](/europe/denmark/hillerod/frederiksborg_castle) — a magnificent red-brick Renaissance palace reflected in its moat that ranks among the grandest royal residences in Scandinavia. The town itself wraps comfortably around the [castle lake](/europe/denmark/hillerod/castle_lake), and most visitors find that a morning at the castle and an afternoon wandering the old streets makes for one of the most satisfying day trips from the capital.

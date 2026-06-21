@@ -1,7 +1,7 @@
 ---
 latitude: 41.3948
 longitude: -73.454
-score: 0.34
+score: 0.28
 title: Danbury
 type: location
 loc_type: city

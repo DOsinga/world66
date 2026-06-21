@@ -1,0 +1,200 @@
+{
+  "round": 4610,
+  "timestamp": "2026-06-14T00:26:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rock Islands",
+      "path": "australiaandpacific/palau/rockislands",
+      "prior_score": 10.2076,
+      "prior_variance": 0.238024,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Murchison Falls National Park",
+      "path": "africa/uganda/murchison_falls_national_park",
+      "prior_score": 4.0202,
+      "prior_variance": 0.100296,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Riccione",
+      "path": "europe/italy/emiliaromagna/riccione",
+      "prior_score": 1.5926,
+      "prior_variance": 0.096584,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Acapulco",
+      "path": "northamerica/mexico/acapulco",
+      "prior_score": -2.1575,
+      "prior_variance": 0.143778,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Salt",
+      "path": "asia/jordan/salt",
+      "prior_score": -1.3467,
+      "prior_variance": 0.097961,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Cullen",
+      "path": "europe/unitedkingdom/scotland/cullen",
+      "prior_score": -0.3801,
+      "prior_variance": 0.082618,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Tilghman Island",
+      "path": "northamerica/unitedstates/maryland/tilghman_island",
+      "prior_score": -1.7524,
+      "prior_variance": 0.08622,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Badajoz",
+      "path": "europe/spain/extremadura/badajoz",
+      "prior_score": -1.4604,
+      "prior_variance": 0.10755,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Laval",
+      "path": "europe/france/centre/loirevalley/laval",
+      "prior_score": -0.724,
+      "prior_variance": 0.094156,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Dandong",
+      "path": "asia/china/liaoning/dandong",
+      "prior_score": -1.0984,
+      "prior_variance": 0.094076,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Ventspils",
+      "path": "europe/latvia/ventspils",
+      "prior_score": -1.1142,
+      "prior_variance": 0.091373,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Porthcawl",
+      "path": "europe/unitedkingdom/wales/porthcawl",
+      "prior_score": -0.9595,
+      "prior_variance": 0.089436,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Tucuman",
+      "path": "southamerica/argentina/tucuman",
+      "prior_score": -1.1811,
+      "prior_variance": 0.08755,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Montgomery",
+      "path": "northamerica/unitedstates/alabama/montgomery",
+      "prior_score": -2.3177,
+      "prior_variance": 0.094992,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Greiz",
+      "path": "europe/germany/thuringia/greiz",
+      "prior_score": -2.7989,
+      "prior_variance": 0.103743,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Gentofte",
+      "path": "europe/denmark/gentofte",
+      "prior_score": -2.6967,
+      "prior_variance": 0.129281,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Nonthaburi",
+      "path": "asia/thailand/nonthaburi_2",
+      "prior_score": -3.268,
+      "prior_variance": 0.101748,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Nospelt",
+      "path": "europe/luxembourg/nospelt",
+      "prior_score": -2.9105,
+      "prior_variance": 0.103255,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Yabuli",
+      "path": "asia/china/heilongjiang/yabuli",
+      "prior_score": -2.6832,
+      "prior_variance": 0.087806,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Culfa (Julfa)",
+      "path": "europe/azerbaijan/naxcivan/culfa",
+      "prior_score": -3.4977,
+      "prior_variance": 0.098082,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/staffordshire/wolverhampton",
+      "prior_score": -3.7452,
+      "prior_variance": 0.108375,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Toledo",
+      "path": "northamerica/unitedstates/ohio/toledo",
+      "prior_score": -4.5945,
+      "prior_variance": 0.144588,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Belgorod",
+      "path": "europe/russia/belgorod_1",
+      "prior_score": -7.2236,
+      "prior_variance": 0.185394,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Erigavo",
+      "path": "africa/somaliland/erigavo",
+      "prior_score": -7.2549,
+      "prior_variance": 0.176726,
+      "prior_n": 14
+    }
+  ]
+}

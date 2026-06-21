@@ -5,7 +5,7 @@ done:
 latitude: 51.4513
 loc_type: city
 longitude: 6.6284
-score: 0.39
+score: 0.3
 sources:
 - https://en.wikipedia.org/wiki/Moers
 - https://en.wikipedia.org/wiki/Moers_Festival

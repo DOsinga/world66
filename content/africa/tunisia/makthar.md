@@ -5,7 +5,7 @@ done:
 latitude: 35.8559
 loc_type: city
 longitude: 9.2057
-score: 0.43
+score: 0.4
 title: Makthar
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:West_Bank,_Hebron_(Unsplas
 latitude: 31.532569
 loc_type: city
 longitude: 35.099825
-score: 0.37
+score: 0.27
 title: Hebron
 type: location
 ---

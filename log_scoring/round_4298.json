@@ -1,0 +1,200 @@
+{
+  "round": 4298,
+  "timestamp": "2026-06-14T00:01:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Durham",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/durham",
+      "prior_score": 2.0424,
+      "prior_variance": 0.094723,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Le Mans",
+      "path": "europe/france/centre/lemans",
+      "prior_score": 1.4352,
+      "prior_variance": 0.103877,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Andong",
+      "path": "asia/southkorea/andong",
+      "prior_score": 2.8027,
+      "prior_variance": 0.115857,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/rivieradellepalme/zuccarello",
+      "prior_score": 0.2849,
+      "prior_variance": 0.094102,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Mota del Cuervo",
+      "path": "europe/spain/la_mancha/mota_del_cuervo",
+      "prior_score": -1.7116,
+      "prior_variance": 0.09518,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Medora",
+      "path": "northamerica/unitedstates/northdakota/medora",
+      "prior_score": -1.1357,
+      "prior_variance": 0.09106,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Alamogordo",
+      "path": "northamerica/unitedstates/newmexico/alamogordo",
+      "prior_score": -1.8453,
+      "prior_variance": 0.095423,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Greenville Junction",
+      "path": "northamerica/unitedstates/maine/greenville_junction",
+      "prior_score": -3.083,
+      "prior_variance": 0.095867,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Thurnau",
+      "path": "europe/germany/bavaria/thurnau",
+      "prior_score": -3.3339,
+      "prior_variance": 0.11438,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Almere",
+      "path": "europe/netherlands/almere",
+      "prior_score": -4.3214,
+      "prior_variance": 0.112968,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Dayton",
+      "path": "northamerica/unitedstates/ohio/dayton",
+      "prior_score": -4.0352,
+      "prior_variance": 0.117131,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Chillicothe",
+      "path": "northamerica/unitedstates/ohio/chillicothe",
+      "prior_score": -4.1248,
+      "prior_variance": 0.113637,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Lebanon",
+      "path": "northamerica/unitedstates/indiana/lebanon",
+      "prior_score": -5.6332,
+      "prior_variance": 0.123738,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Tela",
+      "path": "northamerica/honduras/tela",
+      "prior_score": -1.6061,
+      "prior_variance": 0.102155,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Gab\u00e8s",
+      "path": "africa/tunisia/gabes",
+      "prior_score": -3.8241,
+      "prior_variance": 0.106475,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Kericho",
+      "path": "africa/kenya/theriftvalley/kericho",
+      "prior_score": -1.7777,
+      "prior_variance": 0.100622,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Rajshahi",
+      "path": "asia/bangladesh/rajshahi",
+      "prior_score": -4.1777,
+      "prior_variance": 0.103566,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince",
+      "prior_score": -1.5204,
+      "prior_variance": 0.091033,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Valencia",
+      "path": "southamerica/venezuela/valencia",
+      "prior_score": -5.5452,
+      "prior_variance": 0.1202,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Mirpur",
+      "path": "asia/pakistan/azad_kashmir/mirpur",
+      "prior_score": -6.2032,
+      "prior_variance": 0.135704,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "R\u00edo Branco",
+      "path": "southamerica/uruguay/rio_branco_urugua",
+      "prior_score": -5.8068,
+      "prior_variance": 0.128579,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Pallandri",
+      "path": "asia/pakistan/azad_kashmir/pallandri",
+      "prior_score": -5.4943,
+      "prior_variance": 0.120019,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Ouagadougou",
+      "path": "africa/burkinafaso/ouagadougou",
+      "prior_score": -5.4912,
+      "prior_variance": 0.108672,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Bangui",
+      "path": "africa/centralafricanrepublic/bangui",
+      "prior_score": -8.0259,
+      "prior_variance": 0.20779,
+      "prior_n": 14
+    }
+  ]
+}

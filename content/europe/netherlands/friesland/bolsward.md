@@ -5,7 +5,7 @@ done:
 latitude: 53.062018
 loc_type: city
 longitude: 5.522896
-score: 0.45
+score: 0.38
 title: Bolsward
 type: location
 ---

@@ -6,7 +6,7 @@ done:
 latitude: 44.5384
 loc_type: city
 longitude: 18.6735
-score: 0.43
+score: 0.38
 title: Tuzla
 type: location
 ---

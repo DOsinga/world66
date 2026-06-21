@@ -1,0 +1,200 @@
+{
+  "round": 3538,
+  "timestamp": "2026-06-13T23:01:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amsterdam",
+      "path": "europe/netherlands/amsterdam",
+      "prior_score": 12.9622,
+      "prior_variance": 0.457278,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "De Efteling",
+      "path": "europe/netherlands/deefteling",
+      "prior_score": 3.8034,
+      "prior_variance": 0.121406,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Mtskheta",
+      "path": "europe/georgia/mtskheta",
+      "prior_score": 3.9661,
+      "prior_variance": 0.128008,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Corinth",
+      "path": "europe/greece/corinth",
+      "prior_score": 2.4571,
+      "prior_variance": 0.109278,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Chachapoyas",
+      "path": "southamerica/peru/chachapoyas",
+      "prior_score": 3.0848,
+      "prior_variance": 0.140989,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Bahir Dar",
+      "path": "africa/ethiopia/bahardar",
+      "prior_score": 1.7151,
+      "prior_variance": 0.111207,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Rio Lagartos",
+      "path": "northamerica/mexico/yucatan/rio_lagartos",
+      "prior_score": 1.4055,
+      "prior_variance": 0.114708,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Bandar Seri Begawan",
+      "path": "asia/brunei/bandarseribegawan",
+      "prior_score": 1.1769,
+      "prior_variance": 0.138562,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Harz Mountains",
+      "path": "europe/germany/lowersaxony/harz_mountains",
+      "prior_score": 3.4862,
+      "prior_variance": 0.129136,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Yalta",
+      "path": "europe/ukraine/crimea/yalta",
+      "prior_score": 0.6893,
+      "prior_variance": 0.123458,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Hac\u0131bekta\u015f",
+      "path": "asia/turkey/cappadocia/hacibektas",
+      "prior_score": 0.2596,
+      "prior_variance": 0.118689,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_score": 0.9463,
+      "prior_variance": 0.132857,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/nottingham",
+      "prior_score": -0.2206,
+      "prior_variance": 0.143086,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/richmond_yorks",
+      "prior_score": -0.9066,
+      "prior_variance": 0.131629,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Darwin",
+      "path": "australiaandpacific/australia/northernterritory/darwin",
+      "prior_score": 1.068,
+      "prior_variance": 0.136622,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Maratea",
+      "path": "europe/italy/basilicata/maratea",
+      "prior_score": 3.1443,
+      "prior_variance": 0.131702,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Bocca di Magra",
+      "path": "europe/italy/liguria/bocca_di_magra",
+      "prior_score": 0.0834,
+      "prior_variance": 0.110896,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Zhongwei",
+      "path": "asia/china/ningxia/zhongwei",
+      "prior_score": -1.1171,
+      "prior_variance": 0.124331,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Sumbawa",
+      "path": "asia/indonesia/sumbawa",
+      "prior_score": -0.9011,
+      "prior_variance": 0.111468,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Warangal",
+      "path": "asia/india/andhrapradesh/warangal",
+      "prior_score": -3.025,
+      "prior_variance": 0.114316,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Beauvais",
+      "path": "europe/france/around_paris/beauvais",
+      "prior_score": -1.7477,
+      "prior_variance": 0.140593,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/rockhampton",
+      "prior_score": -2.1626,
+      "prior_variance": 0.111934,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/pennsylvania/reading",
+      "prior_score": -4.7298,
+      "prior_variance": 0.124739,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Cahokia",
+      "path": "northamerica/unitedstates/illinois/cahokia",
+      "prior_score": -3.5765,
+      "prior_variance": 0.145329,
+      "prior_n": 11
+    }
+  ]
+}

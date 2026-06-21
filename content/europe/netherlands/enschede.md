@@ -5,7 +5,7 @@ done:
 latitude: 52.220985
 loc_type: city
 longitude: 6.894054
-score: 0.42
+score: 0.33
 title: Enschede
 type: location
 ---

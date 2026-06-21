@@ -1,0 +1,200 @@
+{
+  "round": 3154,
+  "timestamp": "2026-06-13T22:32:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pompeii",
+      "path": "europe/italy/campania/pompeii",
+      "prior_score": 9.8676,
+      "prior_variance": 0.213292,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Teotihuacan",
+      "path": "northamerica/mexico/teotihuacan",
+      "prior_score": 8.3996,
+      "prior_variance": 0.244524,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/eastern_england/cambridge",
+      "prior_score": 7.088,
+      "prior_variance": 0.201754,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "St. Moritz",
+      "path": "europe/switzerland/stmoritz",
+      "prior_score": 8.4784,
+      "prior_variance": 0.294707,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Jerash",
+      "path": "asia/jordan/jerash",
+      "prior_score": 6.2443,
+      "prior_variance": 0.172074,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Sarajevo",
+      "path": "europe/bosniaandherzegovina/sarajevo",
+      "prior_score": 6.0209,
+      "prior_variance": 0.16189,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Geneva",
+      "path": "europe/switzerland/geneva",
+      "prior_score": 7.7165,
+      "prior_variance": 0.165669,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Aswan",
+      "path": "africa/egypt/aswan",
+      "prior_score": 6.7538,
+      "prior_variance": 0.171629,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Trinidad",
+      "path": "northamerica/thecaribbean/cuba/trinidad",
+      "prior_score": 6.2846,
+      "prior_variance": 0.173291,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Mount Emei",
+      "path": "asia/china/sichuanprovince/mount_emei",
+      "prior_score": 6.5213,
+      "prior_variance": 0.162124,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Mount Tai",
+      "path": "asia/china/shandong_province/mount_tai",
+      "prior_score": 5.1231,
+      "prior_variance": 0.149945,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Moskenes",
+      "path": "europe/norway/lofotenislands/moskenes",
+      "prior_score": 7.6351,
+      "prior_variance": 0.23763,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Koh Phi Phi",
+      "path": "asia/thailand/kohphiphi",
+      "prior_score": 7.8026,
+      "prior_variance": 0.210667,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Marquesas",
+      "path": "australiaandpacific/frenchpolynesia/marquesas",
+      "prior_score": 6.8827,
+      "prior_variance": 0.184438,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Cagliari",
+      "path": "europe/italy/sardinia/cagliari",
+      "prior_score": 6.1295,
+      "prior_variance": 0.152716,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Fuerteventura",
+      "path": "europe/spain/canaryislands/fuerteventura",
+      "prior_score": 5.3998,
+      "prior_variance": 0.149739,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Black Forest",
+      "path": "europe/germany/badenwrttemberg/blackforest",
+      "prior_score": 5.4012,
+      "prior_variance": 0.161909,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Iriomote Island",
+      "path": "asia/japan/ryukyuislands/iriomoteisland",
+      "prior_score": 5.4274,
+      "prior_variance": 0.158683,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Koh Phayam",
+      "path": "asia/thailand/koh_phayam",
+      "prior_score": 4.7481,
+      "prior_variance": 0.134491,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Vieques",
+      "path": "northamerica/thecaribbean/puertorico/vieques",
+      "prior_score": 4.1881,
+      "prior_variance": 0.181372,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Cabo Rojo",
+      "path": "northamerica/thecaribbean/puertorico/caborojo",
+      "prior_score": 3.1522,
+      "prior_variance": 0.144283,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Trouville",
+      "path": "europe/france/normandybrittany/trouville",
+      "prior_score": 2.586,
+      "prior_variance": 0.141399,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Rouen",
+      "path": "europe/france/normandybrittany/rouen",
+      "prior_score": 5.0353,
+      "prior_variance": 0.151915,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Revelstoke",
+      "path": "northamerica/canada/britishcolumbia/revelstoke",
+      "prior_score": 4.1993,
+      "prior_variance": 0.133097,
+      "prior_n": 11
+    }
+  ]
+}

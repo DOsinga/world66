@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bernau_Amtsgericht.jpg
 latitude: 52.678725
 loc_type: city
 longitude: 13.588111
-score: 0.37
+score: 0.32
 title: Bernau bei Berlin
 type: location
 ---

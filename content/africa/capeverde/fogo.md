@@ -5,7 +5,7 @@ done:
 latitude: 14.9322
 loc_type: city
 longitude: -24.3936
-score: 0.54
+score: 0.46
 sources:
 - https://en.wikipedia.org/wiki/Fogo,_Cape_Verde
 - https://en.wikipedia.org/wiki/Pico_do_Fogo

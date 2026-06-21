@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saxonburg_PA_South_Butler_
 latitude: 40.750601
 loc_type: city
 longitude: -79.814118
-score: 0.3
+score: 0.28
 title: Saxonburg
 type: location
 ---

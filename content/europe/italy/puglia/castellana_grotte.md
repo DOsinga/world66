@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Palazzo_Municipale_e_Torre
 latitude: 40.8864
 loc_type: city
 longitude: 17.1655
-score: 0.55
+score: 0.49
 title: Castellana Grotte
 type: location
 ---

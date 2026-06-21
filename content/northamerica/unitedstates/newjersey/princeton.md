@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nassau_Hall,_Princeton_Uni
 latitude: 40.349695
 loc_type: city
 longitude: -74.659738
-score: 0.5
+score: 0.45
 title: Princeton
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Thessaloniki_Heptapyrgion_
 latitude: 40.6401
 loc_type: city
 longitude: 22.9444
-score: 0.74
+score: 0.59
 title: Thessaloniki
 type: location
 ---

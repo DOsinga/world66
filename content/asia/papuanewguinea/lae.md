@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pacific_Partnership_2025_L
 latitude: -6.730198
 loc_type: city
 longitude: 147.000811
-score: 0.31
+score: 0.21
 title: Lae
 type: location
 ---

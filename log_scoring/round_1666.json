@@ -1,200 +1,200 @@
 {
   "round": 1666,
-  "timestamp": "2026-04-13T10:40:28",
+  "timestamp": "2026-06-13T20:44:54",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Vancouver",
-      "path": "northamerica/canada/britishcolumbia/vancouver",
-      "prior_score": 10.4069,
-      "prior_variance": 0.632347,
-      "prior_n": 3
+      "title": "Sydney",
+      "path": "australiaandpacific/australia/newsouthwales/sydney",
+      "prior_score": 15.0558,
+      "prior_variance": 1.160373,
+      "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Val di Fassa",
-      "path": "europe/italy/trentinoaltoadige/val_di_fassa",
-      "prior_score": 7.1083,
-      "prior_variance": 0.401448,
-      "prior_n": 4
+      "title": "Melbourne",
+      "path": "australiaandpacific/australia/victoria/melbourne",
+      "prior_score": 8.4755,
+      "prior_variance": 0.301782,
+      "prior_n": 5
     },
     {
       "rank": 3,
-      "title": "Pattaya",
-      "path": "asia/thailand/pattaya",
-      "prior_score": 4.2772,
-      "prior_variance": 0.394799,
-      "prior_n": 4
+      "title": "Phu Quoc",
+      "path": "asia/vietnam/phuquoc",
+      "prior_score": 6.3146,
+      "prior_variance": 0.489795,
+      "prior_n": 5
     },
     {
       "rank": 4,
-      "title": "Viana do Castelo",
-      "path": "europe/portugal/vianadocastelo",
-      "prior_score": 3.286,
-      "prior_variance": 0.312926,
-      "prior_n": 4
+      "title": "Anegada",
+      "path": "northamerica/britishvirginislands/anegada",
+      "prior_score": 4.6429,
+      "prior_variance": 0.280646,
+      "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Avoca",
-      "path": "europe/ireland/avoca",
-      "prior_score": -1.3853,
-      "prior_variance": 0.502268,
-      "prior_n": 4
+      "title": "Bimini",
+      "path": "northamerica/bahamas/bimini",
+      "prior_score": 4.1,
+      "prior_variance": 0.279217,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Beaches",
-      "path": "europe/ireland/dublin/beaches_1",
-      "prior_score": -1.6419,
-      "prior_variance": 0.434411,
-      "prior_n": 4
+      "title": "St Vincent Island",
+      "path": "northamerica/saintvincentandthegrenadines/stvincentisland",
+      "prior_score": 4.7801,
+      "prior_variance": 0.276281,
+      "prior_n": 5
     },
     {
       "rank": 7,
-      "title": "Mangareva",
-      "path": "australiaandpacific/frenchpolynesia/mangareva",
-      "prior_score": -2.1259,
-      "prior_variance": 0.400359,
+      "title": "Marsala",
+      "path": "europe/italy/sicily/marsala",
+      "prior_score": 4.5715,
+      "prior_variance": 0.258557,
       "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "Chichester",
-      "path": "europe/unitedkingdom/chichester",
-      "prior_score": 2.063,
-      "prior_variance": 0.348895,
-      "prior_n": 4
+      "title": "Poindimi\u00e9",
+      "path": "australiaandpacific/newcaledonia/poindimie",
+      "prior_score": -1.0184,
+      "prior_variance": 0.256471,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Monterrei",
-      "path": "europe/spain/galicia/monterrei",
-      "prior_score": 0.0297,
-      "prior_variance": 0.324072,
-      "prior_n": 4
+      "title": "Paraguan\u00e1 Peninsula",
+      "path": "southamerica/venezuela/paraguan_peninsu",
+      "prior_score": -2.07,
+      "prior_variance": 0.318283,
+      "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Wollongong",
-      "path": "australiaandpacific/australia/newsouthwales/wollongong",
-      "prior_score": -0.8384,
-      "prior_variance": 0.307062,
-      "prior_n": 4
+      "title": "San Juan Capistrano",
+      "path": "northamerica/unitedstates/california/orangecounty/san_juan_capistrano",
+      "prior_score": 0.4559,
+      "prior_variance": 0.321082,
+      "prior_n": 5
     },
     {
       "rank": 11,
-      "title": "Jakarta",
-      "path": "asia/indonesia/jakarta",
-      "prior_score": -1.2246,
-      "prior_variance": 0.396798,
-      "prior_n": 4
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/vermont/manchester",
+      "prior_score": 0.5868,
+      "prior_variance": 0.250289,
+      "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "High Peak",
-      "path": "europe/unitedkingdom/england/leicester_notting/highpeak",
-      "prior_score": -1.2973,
-      "prior_variance": 0.313806,
-      "prior_n": 4
+      "title": "Lanciano",
+      "path": "europe/italy/abruzzo/lanciano",
+      "prior_score": -0.1124,
+      "prior_variance": 0.31941,
+      "prior_n": 5
     },
     {
       "rank": 13,
-      "title": "Lafayette",
-      "path": "northamerica/unitedstates/louisiana/lafayette",
-      "prior_score": -0.0472,
-      "prior_variance": 0.254011,
+      "title": "Osnabr\u00fcck",
+      "path": "europe/germany/lowersaxony/osnabrck",
+      "prior_score": -2.4363,
+      "prior_variance": 0.256549,
       "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "Springfield",
-      "path": "northamerica/unitedstates/illinois/springfield",
-      "prior_score": -1.1659,
-      "prior_variance": 0.307155,
-      "prior_n": 4
+      "title": "Palmerston North",
+      "path": "australiaandpacific/newzealand/palmerstonnorth",
+      "prior_score": -2.116,
+      "prior_variance": 0.241676,
+      "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Mexico",
-      "path": "northamerica/mexico",
-      "prior_score": -5.6201,
-      "prior_variance": 0.731893,
-      "prior_n": 3
+      "title": "Bukittinggi",
+      "path": "asia/indonesia/sumatra/bukittinggi",
+      "prior_score": 1.7066,
+      "prior_variance": 0.238083,
+      "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "Central Valley",
-      "path": "northamerica/unitedstates/california/centralvalley",
-      "prior_score": -5.9477,
-      "prior_variance": 0.460049,
-      "prior_n": 4
+      "title": "Remedios",
+      "path": "northamerica/thecaribbean/cuba/remedios",
+      "prior_score": 0.9491,
+      "prior_variance": 0.237605,
+      "prior_n": 5
     },
     {
       "rank": 17,
-      "title": "El oued",
-      "path": "africa/algeria/eloued",
-      "prior_score": -6.9372,
-      "prior_variance": 0.375943,
-      "prior_n": 4
+      "title": "Brenham",
+      "path": "northamerica/unitedstates/texas/brenham",
+      "prior_score": -3.6408,
+      "prior_variance": 0.305288,
+      "prior_n": 5
     },
     {
       "rank": 18,
-      "title": "Freehold",
-      "path": "northamerica/unitedstates/newjersey/freehold",
-      "prior_score": -8.3491,
-      "prior_variance": 0.920315,
-      "prior_n": 3
+      "title": "Monticello",
+      "path": "northamerica/unitedstates/utah/monticello",
+      "prior_score": -3.9647,
+      "prior_variance": 0.305233,
+      "prior_n": 5
     },
     {
       "rank": 19,
-      "title": "Chagauramas",
-      "path": "northamerica/trinidadandtobago/chagauramas",
-      "prior_score": -3.0484,
-      "prior_variance": 0.398244,
-      "prior_n": 4
+      "title": "Jayapura",
+      "path": "asia/indonesia/irianjaya/jaya_pura",
+      "prior_score": -3.1236,
+      "prior_variance": 0.295908,
+      "prior_n": 5
     },
     {
       "rank": 20,
-      "title": "Myoyangsan",
-      "path": "asia/northkorea/myoyangsan",
-      "prior_score": -11.2665,
-      "prior_variance": 0.677158,
-      "prior_n": 4
+      "title": "Caxias do Sul",
+      "path": "southamerica/brazil/caxias_do_sul",
+      "prior_score": -2.9869,
+      "prior_variance": 0.270633,
+      "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "Hindunetion",
-      "path": "northamerica/guatemala/language/hindunetion",
-      "prior_score": -10.6457,
-      "prior_variance": 0.472005,
+      "title": "Onstwedde",
+      "path": "europe/netherlands/onstwedde",
+      "prior_score": -6.4165,
+      "prior_variance": 0.300206,
       "prior_n": 5
     },
     {
       "rank": 22,
-      "title": "anis yaroo khosa",
-      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/anis_yaroo_khosa",
-      "prior_score": -10.444,
-      "prior_variance": 0.725115,
-      "prior_n": 7
+      "title": "Lushnj\u00eb",
+      "path": "europe/albania/lushnje",
+      "prior_score": -6.5892,
+      "prior_variance": 0.363763,
+      "prior_n": 5
     },
     {
       "rank": 23,
-      "title": "Ghazni",
-      "path": "asia/afghanistan/ghazni",
-      "prior_score": -10.2309,
-      "prior_variance": 0.437311,
-      "prior_n": 4
+      "title": "Tangerang",
+      "path": "asia/indonesia/java/tangerang",
+      "prior_score": -5.0955,
+      "prior_variance": 0.312512,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Thola",
-      "path": "asia/yemen/thola",
-      "prior_score": -10.3131,
-      "prior_variance": 0.60232,
-      "prior_n": 4
+      "title": "Derna",
+      "path": "africa/libya/derna",
+      "prior_score": -11.6067,
+      "prior_variance": 0.43439,
+      "prior_n": 5
     }
   ]
 }

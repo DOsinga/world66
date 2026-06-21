@@ -1,0 +1,200 @@
+{
+  "round": 4619,
+  "timestamp": "2026-06-14T00:27:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Igua\u00e7u Falls",
+      "path": "southamerica/brazil/iguacufalls",
+      "prior_score": 11.5829,
+      "prior_variance": 0.245587,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Chamonix",
+      "path": "europe/france/alpes/chamonix",
+      "prior_score": 10.0875,
+      "prior_variance": 0.196239,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Lake Titicaca",
+      "path": "southamerica/bolivia/laketiticaca",
+      "prior_score": 6.0961,
+      "prior_variance": 0.116558,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Naxos",
+      "path": "europe/greece/naxos",
+      "prior_score": 7.0834,
+      "prior_variance": 0.122996,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Strasbourg",
+      "path": "europe/france/east/alsace/strasbourg",
+      "prior_score": 8.3511,
+      "prior_variance": 0.16942,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "San Crist\u00f3bal de las Casas",
+      "path": "northamerica/mexico/sancristobaldelascasas",
+      "prior_score": 4.2731,
+      "prior_variance": 0.0974,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/mysore",
+      "prior_score": 5.376,
+      "prior_variance": 0.104046,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Franschhoek",
+      "path": "africa/southafrica/franschhoek",
+      "prior_score": 4.5848,
+      "prior_variance": 0.098996,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Helsing\u00f8r",
+      "path": "europe/denmark/helsingor",
+      "prior_score": 4.5741,
+      "prior_variance": 0.118498,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Albufeira",
+      "path": "europe/portugal/algarve/albufeira",
+      "prior_score": 5.0691,
+      "prior_variance": 0.11212,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Lake Placid",
+      "path": "northamerica/unitedstates/newyorkstate/lakeplacid",
+      "prior_score": 3.1983,
+      "prior_variance": 0.10072,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/torquay",
+      "prior_score": 1.5637,
+      "prior_variance": 0.092408,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Lublin",
+      "path": "europe/poland/lublin",
+      "prior_score": 0.7689,
+      "prior_variance": 0.094623,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_score": -0.675,
+      "prior_variance": 0.121823,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Cox's Bazar",
+      "path": "asia/bangladesh/coxsbazar",
+      "prior_score": 0.5521,
+      "prior_variance": 0.10144,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Mandurah",
+      "path": "australiaandpacific/australia/westernaustralia/mandurah",
+      "prior_score": -1.0256,
+      "prior_variance": 0.083669,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Arbo",
+      "path": "europe/spain/galicia/arbo",
+      "prior_score": -1.3133,
+      "prior_variance": 0.086867,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Soria",
+      "path": "europe/spain/soria",
+      "prior_score": 0.0669,
+      "prior_variance": 0.088439,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Ullal",
+      "path": "asia/india/karnataka/konkan_coast/ullal",
+      "prior_score": -3.4723,
+      "prior_variance": 0.086912,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Ocean Shores",
+      "path": "northamerica/unitedstates/washington/ocean_shores",
+      "prior_score": -1.8992,
+      "prior_variance": 0.098575,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Coloane",
+      "path": "asia/china/coloane",
+      "prior_score": -0.995,
+      "prior_variance": 0.111686,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Djibouti City",
+      "path": "africa/djibouti/djibouticity",
+      "prior_score": -2.6438,
+      "prior_variance": 0.098461,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Mexicali",
+      "path": "northamerica/mexico/mexicali",
+      "prior_score": -4.7158,
+      "prior_variance": 0.107345,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Zvornik",
+      "path": "europe/bosniaandherzegovina/zvornik",
+      "prior_score": -4.9372,
+      "prior_variance": 0.097446,
+      "prior_n": 15
+    }
+  ]
+}

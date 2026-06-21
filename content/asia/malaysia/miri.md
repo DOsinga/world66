@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chinese_shop_in_Miri,_Mala
 latitude: 4.39401
 loc_type: city
 longitude: 113.98802
-score: 0.46
+score: 0.39
 title: Miri
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Embouchure_Adido_(Aneho,_T
 latitude: 6.228877
 loc_type: city
 longitude: 1.593807
-score: 0.34
+score: 0.28
 title: Aneho
 type: location
 ---

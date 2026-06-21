@@ -6,10 +6,10 @@ latitude: 41.573952
 longitude: 2.482816
 title: Sant Andreu de Llavaneres
 type: location
-score: 0.44
+score: 0.36
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Sant_Andreu_de_Llavaneres
+- https://en.wikipedia.org/wiki/Sant_Andreu_de_Llavaneres
 image: sant_andreu_de_llavaneres.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Llavaneras.jpg
 image_license: CC BY-SA 3.0

@@ -5,7 +5,7 @@ latitude: 41.449868
 longitude: 48.288893
 title: Qusar
 type: location
-score: 0.38
+score: 0.34
 loc_type: city
 image: qusar.jpg
 image_source: https://www.flickr.com/photos/57988553@N00/294583544

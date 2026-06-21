@@ -5,7 +5,7 @@ latitude: -29.144348
 longitude: -59.643773
 title: Reconquista
 type: location
-score: 0.34
+score: 0.25
 loc_type: city
 ---
 

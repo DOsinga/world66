@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bukavu,_DR_congo,_2021.jpg
 latitude: -2.505584
 loc_type: city
 longitude: 28.859489
-score: 0.24
+score: 0.2
 title: Bukavu
 type: location
 ---

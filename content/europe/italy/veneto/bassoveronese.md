@@ -6,7 +6,7 @@ latitude: 45.251701
 longitude: 11.13572
 title: Basso Veronese
 type: location
-score: 0.42
+score: 0.35
 loc_type: city
 ---
 

@@ -5,7 +5,7 @@ done:
 latitude: 30.6289
 loc_type: city
 longitude: 72.8639
-score: 0.39
+score: 0.37
 sources:
 - https://en.wikipedia.org/wiki/Harappa
 title: Harappa

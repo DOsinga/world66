@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cognac_stjac.JPG
 latitude: 45.6932
 loc_type: city
 longitude: -0.325
-score: 0.6
+score: 0.52
 title: Cognac
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 7.885972
 loc_type: city
 longitude: -11.186383
-score: 0.26
+score: 0.2
 title: Kenema
 type: location
 ---

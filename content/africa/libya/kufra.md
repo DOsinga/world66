@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kufra_(aeroview).jpg
 latitude: 23.332378
 loc_type: city
 longitude: 22.084033
-score: 0.17
+score: 0.13
 title: Kufra
 type: location
 ---

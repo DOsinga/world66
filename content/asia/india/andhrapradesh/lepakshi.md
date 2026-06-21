@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Front_side_of_Veerabhadra_
 latitude: 13.8032
 loc_type: city
 longitude: 77.6097
-score: 0.47
+score: 0.41
 title: Lepakshi
 type: location
 ---

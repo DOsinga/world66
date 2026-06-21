@@ -1,0 +1,200 @@
+{
+  "round": 3274,
+  "timestamp": "2026-06-13T22:41:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pahalgam",
+      "path": "asia/india/jammuandkashmir/pahalgam",
+      "prior_score": 3.2401,
+      "prior_variance": 0.139265,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Pantelleria",
+      "path": "europe/italy/sicily/pantelleria",
+      "prior_score": 3.1666,
+      "prior_variance": 0.122725,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Fr\u00e9jus",
+      "path": "europe/france/frejus",
+      "prior_score": 2.0026,
+      "prior_variance": 0.126356,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Jomtien Beach",
+      "path": "asia/thailand/jomtien_beach",
+      "prior_score": 2.6339,
+      "prior_variance": 0.121923,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Pipa",
+      "path": "southamerica/brazil/pipa",
+      "prior_score": 2.0003,
+      "prior_variance": 0.140306,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Natal",
+      "path": "southamerica/brazil/natal",
+      "prior_score": 1.6195,
+      "prior_variance": 0.133879,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is/schiermonnikoog",
+      "prior_score": 0.3036,
+      "prior_variance": 0.136258,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Samobor",
+      "path": "europe/croatia/samobor",
+      "prior_score": 2.0788,
+      "prior_variance": 0.12514,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Pertouli",
+      "path": "europe/greece/pertouli",
+      "prior_score": -0.0367,
+      "prior_variance": 0.134249,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Brasilia",
+      "path": "southamerica/brazil/brasilia",
+      "prior_score": 1.0599,
+      "prior_variance": 0.160007,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Lido di Metaponto",
+      "path": "europe/italy/basilicata/lido_di_metaponto",
+      "prior_score": 0.0341,
+      "prior_variance": 0.147668,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Montelupo Fiorentino",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montelupofiorentino",
+      "prior_score": 0.1868,
+      "prior_variance": 0.120618,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Laosicheng",
+      "path": "asia/china/hunan/laosicheng",
+      "prior_score": -1.0695,
+      "prior_variance": 0.133975,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Banc d'Arguin National Park",
+      "path": "africa/mauritania/arguinbanknationalpark",
+      "prior_score": -1.9748,
+      "prior_variance": 0.173575,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Hoh Xil",
+      "path": "asia/china/qinghai/hoh-xil",
+      "prior_score": -1.4928,
+      "prior_variance": 0.153656,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "B\u00fck",
+      "path": "europe/hungary/buk",
+      "prior_score": -1.7918,
+      "prior_variance": 0.119785,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Foumban",
+      "path": "africa/cameroon/foumban",
+      "prior_score": -1.4208,
+      "prior_variance": 0.120089,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Makassar",
+      "path": "asia/indonesia/sulawesi/makassar",
+      "prior_score": -0.3066,
+      "prior_variance": 0.130708,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/california/sanrafael",
+      "prior_score": -2.7193,
+      "prior_variance": 0.133323,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Ledbury",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/ledbury",
+      "prior_score": -0.4851,
+      "prior_variance": 0.130708,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Rajkot",
+      "path": "asia/india/gujarat/rajkot",
+      "prior_score": -3.4524,
+      "prior_variance": 0.126187,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Murfreesboro",
+      "path": "northamerica/unitedstates/tennessee/murfreesboro",
+      "prior_score": -3.1554,
+      "prior_variance": 0.126235,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Turkmenbashi",
+      "path": "asia/turkmenistan/turkmenbashi",
+      "prior_score": -5.3935,
+      "prior_variance": 0.174565,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Ada",
+      "path": "northamerica/unitedstates/oklahoma/ada",
+      "prior_score": -5.5224,
+      "prior_variance": 0.140993,
+      "prior_n": 10
+    }
+  ]
+}

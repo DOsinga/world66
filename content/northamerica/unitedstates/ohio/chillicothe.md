@@ -5,7 +5,7 @@ done:
 latitude: 39.33312
 loc_type: city
 longitude: -82.982402
-score: 0.37
+score: 0.29
 title: Chillicothe
 type: location
 ---

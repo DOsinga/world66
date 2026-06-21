@@ -1,0 +1,200 @@
+{
+  "round": 3642,
+  "timestamp": "2026-06-13T23:09:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stonehenge",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/stonehenge",
+      "prior_score": 6.2688,
+      "prior_variance": 0.140544,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Columbus",
+      "path": "northamerica/unitedstates/ohio/columbus",
+      "prior_score": -2.8594,
+      "prior_variance": 0.120636,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Spring Green",
+      "path": "northamerica/unitedstates/wisconsin/spring_green",
+      "prior_score": -1.7458,
+      "prior_variance": 0.137551,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Burlingame",
+      "path": "northamerica/unitedstates/california/burlingame",
+      "prior_score": -3.3378,
+      "prior_variance": 0.128604,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_score": -2.1551,
+      "prior_variance": 0.127559,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Ta\u2019if",
+      "path": "asia/saudiarabia/taif",
+      "prior_score": -2.288,
+      "prior_variance": 0.14208,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Buga",
+      "path": "southamerica/colombia/buga",
+      "prior_score": -2.1049,
+      "prior_variance": 0.127476,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Quezon City",
+      "path": "asia/philippines/quezoncity",
+      "prior_score": -2.7152,
+      "prior_variance": 0.109055,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Weifang",
+      "path": "asia/china/shandong_province/weifang",
+      "prior_score": -2.9692,
+      "prior_variance": 0.119761,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Karelian Isthmus",
+      "path": "europe/russia/karelian_isthmus",
+      "prior_score": -2.6358,
+      "prior_variance": 0.138318,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Harwich",
+      "path": "europe/unitedkingdom/england/eastern_england/harwich",
+      "prior_score": -2.2481,
+      "prior_variance": 0.11805,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Fryeburg",
+      "path": "northamerica/unitedstates/maine/fryeburg",
+      "prior_score": -1.6733,
+      "prior_variance": 0.110955,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Penrhyn",
+      "path": "australiaandpacific/cookislands/penrhyn",
+      "prior_score": -1.3086,
+      "prior_variance": 0.130872,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Tuguegarao City",
+      "path": "asia/philippines/tuguegaraocity",
+      "prior_score": -3.9741,
+      "prior_variance": 0.134258,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Dangriga",
+      "path": "northamerica/belize/dangriga",
+      "prior_score": -1.4882,
+      "prior_variance": 0.115827,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Jalandhar",
+      "path": "asia/india/punjab/jalandhar",
+      "prior_score": -4.4913,
+      "prior_variance": 0.139249,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Nizamabad",
+      "path": "asia/india/andhrapradesh/nizamabad",
+      "prior_score": -5.3238,
+      "prior_variance": 0.136409,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Shoal Lake",
+      "path": "northamerica/canada/manitoba/shoal_lake",
+      "prior_score": -4.9936,
+      "prior_variance": 0.155248,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Jind",
+      "path": "asia/india/haryana/jind",
+      "prior_score": -5.9768,
+      "prior_variance": 0.138889,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Chatrapur",
+      "path": "asia/india/orissa/chatrapurganjam",
+      "prior_score": -5.9992,
+      "prior_variance": 0.140477,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Hugo",
+      "path": "northamerica/unitedstates/oklahoma/hugo",
+      "prior_score": -6.2393,
+      "prior_variance": 0.167887,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/delaware/middletown",
+      "prior_score": -5.662,
+      "prior_variance": 0.193089,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Hyderabad",
+      "path": "asia/pakistan/hyderabad",
+      "prior_score": -6.0978,
+      "prior_variance": 0.150451,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Impfondo",
+      "path": "africa/congobrazzaville/impfondo",
+      "prior_score": -8.1338,
+      "prior_variance": 0.248866,
+      "prior_n": 11
+    }
+  ]
+}

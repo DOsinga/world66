@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:From_Swaneng_Hill,_Botswan
 latitude: -22.39776
 loc_type: city
 longitude: 26.703289
-score: 0.38
+score: 0.32
 title: Serowe
 type: location
 ---

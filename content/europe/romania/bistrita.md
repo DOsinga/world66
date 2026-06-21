@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bistri%C8%9Ba_Evangelische
 latitude: 47.132701
 loc_type: city
 longitude: 24.496395
-score: 0.45
+score: 0.38
 title: Bistrita
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Flickr_-_ronsaunders47_-_C
 latitude: 40.684448
 loc_type: city
 longitude: 24.651206
-score: 0.7
+score: 0.59
 title: Thassos
 type: location
 ---

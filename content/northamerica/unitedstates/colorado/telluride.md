@@ -5,7 +5,7 @@ done:
 latitude: 37.937494
 loc_type: city
 longitude: -107.812285
-score: 0.66
+score: 0.63
 title: Telluride
 type: location
 image: telluride.jpg

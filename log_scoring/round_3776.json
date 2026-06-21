@@ -1,0 +1,200 @@
+{
+  "round": 3776,
+  "timestamp": "2026-06-13T23:19:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kokura",
+      "path": "asia/japan/kyushu/kokura",
+      "prior_score": 0.5068,
+      "prior_variance": 0.123228,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Marken",
+      "path": "europe/netherlands/marken",
+      "prior_score": 0.9392,
+      "prior_variance": 0.111774,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Samara",
+      "path": "northamerica/costarica/samara",
+      "prior_score": 2.0519,
+      "prior_variance": 0.154416,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Cat Island",
+      "path": "northamerica/bahamas/catisland",
+      "prior_score": 1.5063,
+      "prior_variance": 0.127101,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Bang Saphan",
+      "path": "asia/thailand/bang_saphan",
+      "prior_score": 0.6401,
+      "prior_variance": 0.113457,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Bantry",
+      "path": "europe/ireland/bantry",
+      "prior_score": 0.9839,
+      "prior_variance": 0.103535,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Limburg an der Lahn",
+      "path": "europe/germany/hessen/limburg",
+      "prior_score": 0.7398,
+      "prior_variance": 0.115489,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Xanthi",
+      "path": "europe/greece/xanthi",
+      "prior_score": 0.9343,
+      "prior_variance": 0.11096,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Osijek",
+      "path": "europe/croatia/osijek",
+      "prior_score": 0.5256,
+      "prior_variance": 0.10424,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Hot Springs",
+      "path": "northamerica/unitedstates/arkansas/hotsprings",
+      "prior_score": 0.8798,
+      "prior_variance": 0.103127,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/virginia/richmond",
+      "prior_score": 0.1854,
+      "prior_variance": 0.105665,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Lania",
+      "path": "asia/cyprus/troodosmountains/lania_traditiona",
+      "prior_score": -0.1031,
+      "prior_variance": 0.101924,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Faj\u00e3 d\u2019Agua",
+      "path": "africa/capeverde/brava/faj_dagua",
+      "prior_score": -0.1808,
+      "prior_variance": 0.101995,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_score": -0.3936,
+      "prior_variance": 0.110644,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Orte",
+      "path": "europe/italy/lazio/orte",
+      "prior_score": -0.7329,
+      "prior_variance": 0.106663,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Ivano-Frankivsk",
+      "path": "europe/ukraine/ivanofrankivsk",
+      "prior_score": -2.08,
+      "prior_variance": 0.11601,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_score": -0.5509,
+      "prior_variance": 0.129902,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Star Valley (Afton)",
+      "path": "northamerica/unitedstates/wyoming/star_valley_afton",
+      "prior_score": -1.3793,
+      "prior_variance": 0.114187,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Mompiche",
+      "path": "southamerica/ecuador/mompiche",
+      "prior_score": -0.6411,
+      "prior_variance": 0.118149,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Muzaffarabad",
+      "path": "asia/pakistan/azad_kashmir/muzaffar_abad",
+      "prior_score": -4.3847,
+      "prior_variance": 0.146302,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Wynnewood",
+      "path": "northamerica/unitedstates/oklahoma/wynnewood",
+      "prior_score": -7.1325,
+      "prior_variance": 0.158024,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Zouerate",
+      "path": "africa/mauritania/zouerate",
+      "prior_score": -8.6056,
+      "prior_variance": 0.241121,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_score": -9.2041,
+      "prior_variance": 0.289893,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Bossaso",
+      "path": "africa/somalia/bossaso",
+      "prior_score": -10.2866,
+      "prior_variance": 0.398872,
+      "prior_n": 12
+    }
+  ]
+}

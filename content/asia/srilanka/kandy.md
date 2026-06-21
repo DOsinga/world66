@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Botanical_Garden_of_Perade
 latitude: 7.293121
 loc_type: city
 longitude: 80.635036
-score: 0.67
+score: 0.61
 title: Kandy
 type: location
 ---

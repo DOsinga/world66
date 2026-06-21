@@ -5,7 +5,7 @@ done:
 latitude: 8.4964
 loc_type: city
 longitude: 4.548
-score: 0.3
+score: 0.24
 title: Ilorin
 type: location
 ---

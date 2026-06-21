@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pamukkale,_Denizli_2026_68
 latitude: 37.92
 loc_type: city
 longitude: 29.1218
-score: 0.7
+score: 0.64
 title: Pamukkale
 type: location
 ---

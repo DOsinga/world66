@@ -1,0 +1,200 @@
+{
+  "round": 4740,
+  "timestamp": "2026-06-14T00:37:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Courchevel",
+      "path": "europe/france/alpes/courchevel",
+      "prior_score": 5.7735,
+      "prior_variance": 0.107956,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "De Zaanse Schans",
+      "path": "europe/netherlands/dezaanseschans",
+      "prior_score": 5.2105,
+      "prior_variance": 0.099865,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Poros",
+      "path": "europe/greece/poros",
+      "prior_score": 3.8873,
+      "prior_variance": 0.089398,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Joshua Tree",
+      "path": "northamerica/unitedstates/california/deserts/joshuatree",
+      "prior_score": 3.8327,
+      "prior_variance": 0.093436,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Half Moon Bay",
+      "path": "northamerica/unitedstates/california/halfmoonbay",
+      "prior_score": 1.7992,
+      "prior_variance": 0.095568,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "North Frisian Islands",
+      "path": "europe/germany/schleswigholstein/north_frisian_islands",
+      "prior_score": 1.641,
+      "prior_variance": 0.090089,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Ptuj",
+      "path": "europe/slovenia/ptuj",
+      "prior_score": 3.5238,
+      "prior_variance": 0.091931,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Viterbo",
+      "path": "europe/italy/lazio/viterbo",
+      "prior_score": 2.5528,
+      "prior_variance": 0.092132,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "La Spezia",
+      "path": "europe/italy/tuscany/lunigiana/la_spezia",
+      "prior_score": 2.6815,
+      "prior_variance": 0.085239,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/warwick",
+      "prior_score": 0.9522,
+      "prior_variance": 0.113874,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Ile de Gor\u00e9e",
+      "path": "africa/senegal/iledegoree",
+      "prior_score": 2.7581,
+      "prior_variance": 0.096237,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Bridgeport",
+      "path": "northamerica/unitedstates/california/highsierra/bridgeport",
+      "prior_score": 0.1186,
+      "prior_variance": 0.091088,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_score": -1.0586,
+      "prior_variance": 0.092233,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Ballarat",
+      "path": "australiaandpacific/australia/victoria/ballarat",
+      "prior_score": 1.6883,
+      "prior_variance": 0.080964,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Guadalajara",
+      "path": "europe/spain/la_mancha/guadalajara",
+      "prior_score": -0.5287,
+      "prior_variance": 0.082035,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Tsaghkadzor",
+      "path": "europe/armenia/tzakhadzor",
+      "prior_score": 0.7102,
+      "prior_variance": 0.080548,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Harar",
+      "path": "africa/ethiopia/harar",
+      "prior_score": 2.4577,
+      "prior_variance": 0.088536,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Mohe",
+      "path": "asia/china/heilongjiang/mohe",
+      "prior_score": -1.9206,
+      "prior_variance": 0.090312,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Mulanje Mountains",
+      "path": "africa/malawi/mulanje_mountains",
+      "prior_score": 1.1674,
+      "prior_variance": 0.089463,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Weihai",
+      "path": "asia/china/shandong_province/weihai",
+      "prior_score": -1.7325,
+      "prior_variance": 0.08046,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Passu",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/passu",
+      "prior_score": 1.335,
+      "prior_variance": 0.102885,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Abidjan",
+      "path": "africa/ivorycoast/abidjan",
+      "prior_score": -2.5471,
+      "prior_variance": 0.098567,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Mexico City",
+      "path": "northamerica/mexico/mexicocity",
+      "prior_score": 7.3287,
+      "prior_variance": 0.226569,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Kandahar",
+      "path": "asia/afghanistan/kandahar",
+      "prior_score": -12.4436,
+      "prior_variance": 0.753345,
+      "prior_n": 15
+    }
+  ]
+}

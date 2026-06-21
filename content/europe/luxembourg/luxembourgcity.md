@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Abad%C3%ADa_Neum%C3%BCnste
 latitude: 49.599833
 loc_type: city
 longitude: 6.13572
-score: 0.64
+score: 0.58
 title: Luxembourg City
 type: location
 ---

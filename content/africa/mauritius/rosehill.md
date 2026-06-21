@@ -5,7 +5,7 @@ done:
 latitude: -20.241354
 loc_type: city
 longitude: 57.474408
-score: 0.45
+score: 0.39
 title: Rose-Hill
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hartlepool_-_The_Douglas_H
 latitude: 54.685728
 loc_type: city
 longitude: -1.20937
-score: 0.36
+score: 0.28
 title: Hartlepool
 type: location
 ---

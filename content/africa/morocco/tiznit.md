@@ -6,7 +6,7 @@ latitude: 29.698624
 longitude: -9.731281
 title: Tiznit
 type: location
-score: 0.47
+score: 0.41
 loc_type: city
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dadiani_Palace_Gruzia_2019
 latitude: 42.5072
 loc_type: city
 longitude: 41.8717
-score: 0.38
+score: 0.34
 title: Zugdidi
 type: location
 ---

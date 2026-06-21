@@ -5,7 +5,7 @@ latitude: 36.0829
 longitude: -92.766
 title: Buffalo River
 type: location
-score: 0.47
+score: 0.4
 loc_type: feature
 ---
 

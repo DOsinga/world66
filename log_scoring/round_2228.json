@@ -1,200 +1,200 @@
 {
   "round": 2228,
-  "timestamp": "2026-04-13T16:22:14",
+  "timestamp": "2026-06-13T21:27:36",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Palawan Island",
-      "path": "asia/philippines/palawanisland",
-      "prior_score": 11.0483,
-      "prior_variance": 0.721314,
-      "prior_n": 5
+      "title": "Vagan",
+      "path": "europe/norway/lofotenislands/vagan",
+      "prior_score": 5.8578,
+      "prior_variance": 0.264549,
+      "prior_n": 7
     },
     {
       "rank": 2,
-      "title": "Babeldaob",
-      "path": "australiaandpacific/palau/babeldoab",
-      "prior_score": 1.7989,
-      "prior_variance": 0.212632,
-      "prior_n": 8
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey/bigsur",
+      "prior_score": 9.8405,
+      "prior_variance": 0.329559,
+      "prior_n": 7
     },
     {
       "rank": 3,
-      "title": "Orvieto",
-      "path": "europe/italy/umbria/orvieto",
-      "prior_score": 7.0093,
-      "prior_variance": 0.275974,
-      "prior_n": 5
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/amboseli",
+      "prior_score": 9.8924,
+      "prior_variance": 0.36155,
+      "prior_n": 7
     },
     {
       "rank": 4,
-      "title": "Colossi of Memnon",
-      "path": "africa/egypt/colossiofmemnon",
-      "prior_score": 3.5795,
-      "prior_variance": 0.259124,
-      "prior_n": 6
+      "title": "Crater Lake",
+      "path": "northamerica/unitedstates/oregon/craterlake",
+      "prior_score": 4.7964,
+      "prior_variance": 0.39601,
+      "prior_n": 7
     },
     {
       "rank": 5,
-      "title": "Nyungwe National Park",
-      "path": "africa/rwanda/nyungwe_national_p",
-      "prior_score": 4.081,
-      "prior_variance": 0.22419,
-      "prior_n": 6
+      "title": "Sveti Stefan",
+      "path": "europe/montenegro/sveti_stefan",
+      "prior_score": 5.4853,
+      "prior_variance": 0.191609,
+      "prior_n": 7
     },
     {
       "rank": 6,
-      "title": "Moray",
-      "path": "southamerica/peru/moray",
-      "prior_score": 3.2723,
-      "prior_variance": 0.269643,
-      "prior_n": 6
+      "title": "Rovaniemi",
+      "path": "europe/finland/rovaniemi",
+      "prior_score": 6.3459,
+      "prior_variance": 0.330797,
+      "prior_n": 7
     },
     {
       "rank": 7,
-      "title": "Tortuga Island",
-      "path": "northamerica/costarica/tortugaisland",
-      "prior_score": 3.1361,
-      "prior_variance": 0.226093,
-      "prior_n": 6
+      "title": "Cirque des Navacelles",
+      "path": "europe/france/midi/cevennes/cirque_des_navacelles",
+      "prior_score": 3.7516,
+      "prior_variance": 0.215646,
+      "prior_n": 7
     },
     {
       "rank": 8,
-      "title": "Ribeira Sacra",
-      "path": "europe/spain/galicia/ribeira_sacra_vall",
-      "prior_score": 3.0975,
-      "prior_variance": 0.240569,
-      "prior_n": 6
+      "title": "Lugo",
+      "path": "europe/spain/galicia/lugo",
+      "prior_score": 2.574,
+      "prior_variance": 0.193317,
+      "prior_n": 7
     },
     {
       "rank": 9,
-      "title": "Viganj",
-      "path": "europe/croatia/peljesac/viganj",
-      "prior_score": 2.354,
-      "prior_variance": 0.252445,
-      "prior_n": 5
+      "title": "Lleyn Peninsula",
+      "path": "europe/unitedkingdom/wales/lleyn_peninsula",
+      "prior_score": 0.4314,
+      "prior_variance": 0.194979,
+      "prior_n": 7
     },
     {
       "rank": 10,
-      "title": "Calpe",
-      "path": "europe/spain/spanishcostas/calpe",
-      "prior_score": 3.2558,
-      "prior_variance": 0.228491,
-      "prior_n": 6
+      "title": "L\u00fcneburg",
+      "path": "europe/germany/lowersaxony/luneburg",
+      "prior_score": 2.6576,
+      "prior_variance": 0.195688,
+      "prior_n": 7
     },
     {
       "rank": 11,
-      "title": "Prespa",
-      "path": "europe/greece/prespa",
-      "prior_score": 1.243,
-      "prior_variance": 0.225283,
-      "prior_n": 6
+      "title": "Lido di Metaponto",
+      "path": "europe/italy/basilicata/lido_di_metaponto",
+      "prior_score": -0.3188,
+      "prior_variance": 0.203532,
+      "prior_n": 7
     },
     {
       "rank": 12,
-      "title": "Estes Park",
-      "path": "northamerica/unitedstates/colorado/estespark",
-      "prior_score": 4.0003,
-      "prior_variance": 0.247288,
+      "title": "Sint-Niklaas",
+      "path": "europe/belgium/sintniklaas",
+      "prior_score": -3.0624,
+      "prior_variance": 0.199079,
       "prior_n": 7
     },
     {
       "rank": 13,
-      "title": "Baltrum",
-      "path": "europe/germany/lowersaxony/east_frisian_islan/baltrum",
-      "prior_score": 0.1967,
-      "prior_variance": 0.221868,
-      "prior_n": 6
+      "title": "Ponta do Sol",
+      "path": "africa/capeverde/santo_antao/ponto_do_sol",
+      "prior_score": -0.617,
+      "prior_variance": 0.235107,
+      "prior_n": 7
     },
     {
       "rank": 14,
-      "title": "Great Barrington",
-      "path": "northamerica/unitedstates/massachusetts/great_barrington",
-      "prior_score": -0.8758,
-      "prior_variance": 0.228295,
-      "prior_n": 6
+      "title": "Visegrad",
+      "path": "europe/hungary/visegrad",
+      "prior_score": 2.5282,
+      "prior_variance": 0.165702,
+      "prior_n": 8
     },
     {
       "rank": 15,
-      "title": "Buga",
-      "path": "southamerica/colombia/buga",
-      "prior_score": -1.2458,
-      "prior_variance": 0.239106,
-      "prior_n": 6
+      "title": "L\u00f6vstabruk",
+      "path": "europe/sweden/lvstabruk",
+      "prior_score": -1.6923,
+      "prior_variance": 0.184655,
+      "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "Vernal",
-      "path": "northamerica/unitedstates/utah/vernal",
-      "prior_score": -1.1597,
-      "prior_variance": 0.207528,
-      "prior_n": 6
+      "title": "Ibo Island",
+      "path": "africa/mozambique/iboisland",
+      "prior_score": -1.0435,
+      "prior_variance": 0.20985,
+      "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "Fairplay",
-      "path": "northamerica/unitedstates/colorado/fairplay",
-      "prior_score": -1.6195,
-      "prior_variance": 0.267251,
-      "prior_n": 6
+      "title": "Zalantun",
+      "path": "asia/china/innermongolia/zalantun",
+      "prior_score": -3.6525,
+      "prior_variance": 0.193926,
+      "prior_n": 7
     },
     {
       "rank": 18,
-      "title": "Idaho Cities of Stanley and Emmett",
-      "path": "northamerica/unitedstates/idaho/idaho_cities_of_st",
-      "prior_score": -1.3449,
-      "prior_variance": 0.211954,
-      "prior_n": 6
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/kansas/kansascity",
+      "prior_score": -2.8783,
+      "prior_variance": 0.232624,
+      "prior_n": 7
     },
     {
       "rank": 19,
-      "title": "Orange County",
-      "path": "northamerica/unitedstates/california/orangecounty",
-      "prior_score": 1.5365,
-      "prior_variance": 0.289291,
-      "prior_n": 6
+      "title": "Maykop",
+      "path": "europe/russia/maykop",
+      "prior_score": -4.3542,
+      "prior_variance": 0.215787,
+      "prior_n": 7
     },
     {
       "rank": 20,
-      "title": "Wichita",
-      "path": "northamerica/unitedstates/kansas/wichita",
-      "prior_score": -2.6935,
-      "prior_variance": 0.293806,
-      "prior_n": 6
+      "title": "Biskra",
+      "path": "africa/algeria/biskra",
+      "prior_score": -2.9833,
+      "prior_variance": 0.181791,
+      "prior_n": 7
     },
     {
       "rank": 21,
-      "title": "Durham",
-      "path": "northamerica/unitedstates/newhampshire/durham",
-      "prior_score": -3.7672,
-      "prior_variance": 0.239296,
-      "prior_n": 6
+      "title": "Radovis",
+      "path": "europe/macedonia/radovis",
+      "prior_score": -5.1951,
+      "prior_variance": 0.224168,
+      "prior_n": 7
     },
     {
       "rank": 22,
-      "title": "Livermore",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/livermore",
-      "prior_score": -3.1853,
-      "prior_variance": 0.227664,
-      "prior_n": 6
+      "title": "Medina",
+      "path": "asia/saudiarabia/medina",
+      "prior_score": -7.7196,
+      "prior_variance": 0.301326,
+      "prior_n": 7
     },
     {
       "rank": 23,
-      "title": "Bjuv",
-      "path": "europe/sweden/bjuv",
-      "prior_score": -5.368,
-      "prior_variance": 0.289773,
-      "prior_n": 5
+      "title": "Zinder",
+      "path": "africa/niger/zinder",
+      "prior_score": -6.1476,
+      "prior_variance": 0.259951,
+      "prior_n": 7
     },
     {
       "rank": 24,
-      "title": "Mirpur",
-      "path": "asia/pakistan/azad_kashmir/mirpur",
-      "prior_score": -5.9745,
-      "prior_variance": 0.273983,
-      "prior_n": 5
+      "title": "Palmyra",
+      "path": "asia/syria/palmyra",
+      "prior_score": -4.5138,
+      "prior_variance": 0.37003,
+      "prior_n": 8
     }
   ]
 }

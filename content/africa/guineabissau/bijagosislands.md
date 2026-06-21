@@ -5,7 +5,7 @@ done:
 latitude: 11.25
 loc_type: city
 longitude: -16.0
-score: 0.46
+score: 0.42
 title: Bijagos Islands
 type: location
 image: bijagosislands.jpg

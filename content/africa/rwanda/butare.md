@@ -14,6 +14,7 @@ sources:
 - https://www.discoverrwanda.net/cities/huye/
 title: Butare
 type: location
+score: 0.33
 ---
 
 Butare, officially Huye, is Rwanda's old intellectual capital: quieter than Kigali, greener than it first appears, and still shaped by the university and the national museum. It is the kind of place where you slow down for a day, read labels properly, drink coffee under trees, and remember that Rwanda is more than gorilla permits and genocide memorials.

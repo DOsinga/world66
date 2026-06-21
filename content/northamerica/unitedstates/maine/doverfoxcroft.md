@@ -6,7 +6,7 @@ latitude: 45.1835
 longitude: -69.2276
 title: Dover-Foxcroft
 type: location
-score: 0.35
+score: 0.3
 loc_type: city
 ---
 

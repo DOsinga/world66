@@ -5,7 +5,7 @@ latitude: 9.5833
 longitude: -84.9167
 title: Tortuga Island
 type: location
-score: 0.58
+score: 0.49
 loc_type: feature
 ---
 

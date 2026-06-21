@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cazinou-Vatra-Dornei.jpg
 latitude: 47.346926
 loc_type: city
 longitude: 25.355764
-score: 0.46
+score: 0.42
 title: Vatra Dornei
 type: location
 ---

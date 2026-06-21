@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dunedin-Nueva_Zelanda01.JP
 latitude: -45.874098
 loc_type: city
 longitude: 170.503576
-score: 0.64
+score: 0.53
 title: Dunedin
 type: location
 ---

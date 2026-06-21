@@ -5,7 +5,7 @@ latitude: -12.0
 longitude: 34.5
 title: Lake Malawi
 type: location
-score: 0.54
+score: 0.45
 loc_type: feature
 ---
 

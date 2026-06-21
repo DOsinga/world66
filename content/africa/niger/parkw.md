@@ -5,7 +5,7 @@ done:
 latitude: 12.35
 loc_type: feature
 longitude: 2.55
-score: 0.38
+score: 0.34
 title: W National Park
 type: location
 image: parkw.jpg

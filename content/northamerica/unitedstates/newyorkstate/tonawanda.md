@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_North_Tonawanda_side_o
 latitude: 43.020679
 loc_type: city
 longitude: -78.878383
-score: 0.32
+score: 0.25
 title: Tonawanda
 type: location
 ---

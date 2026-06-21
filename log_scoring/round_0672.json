@@ -1,200 +1,200 @@
 {
   "round": 672,
-  "timestamp": "2026-04-12T10:42:17",
+  "timestamp": "2026-06-13T19:47:54",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Ha Long Bay",
-      "path": "asia/vietnam/halongbay",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
-      "prior_n": 1
+      "title": "Wulingyuan",
+      "path": "asia/china/hunan/wulingyuan",
+      "prior_score": 10.4147,
+      "prior_variance": 1.073479,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Hanoi",
-      "path": "asia/vietnam/hanoi",
-      "prior_mu": 23.0439,
-      "prior_sigma": 4.9598,
+      "title": "Aswan",
+      "path": "africa/egypt/aswan",
+      "prior_score": 12.3686,
+      "prior_variance": 0.959022,
       "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Hoi An",
-      "path": "asia/vietnam/hoian",
-      "prior_mu": 30.0657,
-      "prior_sigma": 6.6178,
-      "prior_n": 1
+      "title": "Bergen",
+      "path": "europe/norway/bergen",
+      "prior_score": 13.3635,
+      "prior_variance": 0.914982,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Ho Chi Minh City",
-      "path": "asia/vietnam/hochiminhcity",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Takamatsu",
+      "path": "asia/japan/shikoku/takamatsu",
+      "prior_score": 11.682,
+      "prior_variance": 1.438837,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Hue",
-      "path": "asia/vietnam/hue",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Perth",
+      "path": "australiaandpacific/australia/westernaustralia/perth",
+      "prior_score": 8.3818,
+      "prior_variance": 1.289643,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Phong Nha - Ke Bang",
-      "path": "asia/vietnam/phong_nha__ke_ban",
-      "prior_mu": 28.1814,
-      "prior_sigma": 5.7393,
+      "title": "Alappuzha",
+      "path": "asia/india/kerala/alappuzha",
+      "prior_score": 9.1922,
+      "prior_variance": 1.170079,
       "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Cat Ba Island",
-      "path": "asia/vietnam/cat_ba_island",
-      "prior_mu": 23.1522,
-      "prior_sigma": 4.7507,
+      "title": "Huaraz",
+      "path": "southamerica/peru/huaraz",
+      "prior_score": 10.172,
+      "prior_variance": 0.782091,
       "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Da Nang",
-      "path": "asia/vietnam/danang",
-      "prior_mu": 22.8597,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Guadalajara",
+      "path": "northamerica/mexico/guadalajara",
+      "prior_score": 9.2322,
+      "prior_variance": 0.830573,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Nha Trang",
-      "path": "asia/vietnam/nhatrang",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kyiv",
+      "path": "europe/ukraine/kyiv",
+      "prior_score": 7.1131,
+      "prior_variance": 0.812719,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Mekong delta",
-      "path": "asia/vietnam/mekongdelta",
-      "prior_mu": 22.654,
-      "prior_sigma": 5.7828,
+      "title": "La Palma",
+      "path": "europe/spain/canaryislands/lapalma",
+      "prior_score": 9.4775,
+      "prior_variance": 1.637857,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Cu Chi",
-      "path": "asia/vietnam/cuchi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Island Vis",
+      "path": "europe/croatia/island_vis",
+      "prior_score": 10.2466,
+      "prior_variance": 0.837082,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "My Son",
-      "path": "asia/vietnam/myson",
-      "prior_mu": 22.9943,
-      "prior_sigma": 5.7618,
-      "prior_n": 1
+      "title": "Tunis",
+      "path": "africa/tunisia/tunis",
+      "prior_score": 7.5249,
+      "prior_variance": 0.565544,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Halong City",
-      "path": "asia/vietnam/cat_ba_island/halong_city",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Piazza Armerina",
+      "path": "europe/italy/sicily/piazza_armerina",
+      "prior_score": 9.3816,
+      "prior_variance": 0.756446,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Halong City",
-      "path": "asia/vietnam/halong_city",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Azay-le-Rideau",
+      "path": "europe/france/centre/loirevalley/azaylerideau",
+      "prior_score": 10.3141,
+      "prior_variance": 1.235127,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Ba Be National Park",
-      "path": "asia/vietnam/ba_be",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Inis Oirr",
+      "path": "europe/ireland/aranislands/inisoirr",
+      "prior_score": 7.3778,
+      "prior_variance": 0.536989,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Vung Tau",
-      "path": "asia/vietnam/vungtau",
-      "prior_mu": 22.1862,
-      "prior_sigma": 5.3339,
-      "prior_n": 1
+      "title": "Pashupatinath",
+      "path": "asia/nepal/pashupatinath",
+      "prior_score": 11.0847,
+      "prior_variance": 0.810485,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Lang Co Beach",
-      "path": "asia/vietnam/hue/aroundhue/langcobeach",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Haleiwa",
+      "path": "northamerica/unitedstates/hawaii/haleiwa",
+      "prior_score": 10.7957,
+      "prior_variance": 1.644393,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Cuc Phuong",
-      "path": "asia/vietnam/cucphuong",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Cascades d'Ouzoud",
+      "path": "africa/morocco/cascades_ouzoud",
+      "prior_score": 8.141,
+      "prior_variance": 0.492103,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Thuan An Beach",
-      "path": "asia/vietnam/hue/aroundhue/thuananbeach",
-      "prior_mu": 20.6549,
-      "prior_sigma": 2.6116,
-      "prior_n": 6
+      "title": "Husavik",
+      "path": "europe/iceland/husavik",
+      "prior_score": 8.3139,
+      "prior_variance": 1.469081,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Tam Giang Lagoon",
-      "path": "asia/vietnam/hue/aroundhue/tamgianglagoon",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "White Sands",
+      "path": "northamerica/unitedstates/newmexico/whitesands",
+      "prior_score": 10.4566,
+      "prior_variance": 1.167873,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Haiphong",
-      "path": "asia/vietnam/haiphong",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Geghard",
+      "path": "europe/armenia/geghard",
+      "prior_score": 9.062,
+      "prior_variance": 0.976744,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Hoa Binh",
-      "path": "asia/vietnam/hoabinh",
-      "prior_mu": 22.4841,
-      "prior_sigma": 5.9495,
-      "prior_n": 1
+      "title": "Dodona",
+      "path": "europe/greece/dodona",
+      "prior_score": 7.1343,
+      "prior_variance": 0.723757,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Dien Bien Phu",
-      "path": "asia/vietnam/dienbienphu",
-      "prior_mu": 22.419,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Panama City Beach",
+      "path": "northamerica/unitedstates/florida/panama_city_beach",
+      "prior_score": 7.5113,
+      "prior_variance": 0.618387,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Thanh Hoa",
-      "path": "asia/vietnam/thanh_hoa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hautvillers",
+      "path": "europe/france/east/champagne/hautvillers",
+      "prior_score": 7.5838,
+      "prior_variance": 1.268596,
+      "prior_n": 2
     }
   ]
 }

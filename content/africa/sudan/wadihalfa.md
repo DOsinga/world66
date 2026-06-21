@@ -4,7 +4,7 @@ done:
 latitude: 21.7833
 loc_type: city
 longitude: 31.3667
-score: 0.26
+score: 0.19
 title: Wadi Halfa
 type: location
 image: wadihalfa.jpg

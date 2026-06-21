@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Paseo_de_los_Turistas._Pun
 latitude: 9.9762
 loc_type: city
 longitude: -84.8383
-score: 0.53
+score: 0.44
 sources:
 - https://en.wikipedia.org/wiki/Puntarenas
 title: Puntarenas

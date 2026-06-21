@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Carcross,_Yuk%C3%B3n,_Cana
 latitude: 60.166789
 loc_type: city
 longitude: -134.708665
-score: 0.5
+score: 0.44
 title: Carcross
 type: location
 ---

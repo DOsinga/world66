@@ -9,7 +9,7 @@ image_attribution: Pkraemer
 latitude: 15.8569
 loc_type: city
 longitude: -61.5833
-score: 0.65
+score: 0.58
 title: Les Saintes
 type: location
 ---

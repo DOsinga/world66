@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Golmud,_Haixi,_Qinghai,_Ch
 latitude: 36.4011
 loc_type: city
 longitude: 94.9026
-score: 0.31
+score: 0.25
 title: Golmud
 type: location
 ---

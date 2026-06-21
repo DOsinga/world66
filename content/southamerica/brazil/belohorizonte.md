@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Belo_Horizonte,_Brasil.jpg
 latitude: -19.9227
 loc_type: city
 longitude: -43.9451
-score: 0.5
+score: 0.41
 title: Belo Horizonte
 type: location
 ---

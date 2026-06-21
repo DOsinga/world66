@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panchghani_Hill.jpg
 latitude: 17.923954
 loc_type: city
 longitude: 73.799268
-score: 0.49
+score: 0.43
 title: Panchgani
 type: location
 ---

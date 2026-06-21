@@ -5,7 +5,7 @@ latitude: 43.351
 longitude: 79.073
 title: Sharyn Canyon
 type: location
-score: 0.55
+score: 0.49
 loc_type: feature
 ---
 

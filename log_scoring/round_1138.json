@@ -1,200 +1,200 @@
 {
   "round": 1138,
-  "timestamp": "2026-04-12T22:11:31",
+  "timestamp": "2026-06-13T20:13:18",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Mar del Plata",
-      "path": "southamerica/argentina/mardelplata",
-      "prior_rank": 4040,
-      "prior_wins": 23,
-      "prior_n": 2
-    },
-    {
-      "rank": 2,
-      "title": "Rameshwaram",
-      "path": "asia/india/tamilnadu/rameshwaram",
-      "prior_rank": 1822,
-      "prior_wins": 33,
-      "prior_n": 2
-    },
-    {
-      "rank": 3,
-      "title": "\u010cesk\u00e9 Bud\u011bjovice",
-      "path": "europe/czechrepublic/ceskebudejovice",
-      "prior_rank": 4501,
-      "prior_wins": 16,
-      "prior_n": 2
-    },
-    {
-      "rank": 4,
-      "title": "Nottingham",
-      "path": "europe/unitedkingdom/england/leicester_notting/nottingham",
-      "prior_rank": 3094,
-      "prior_wins": 41,
+      "title": "Manuel Antonio",
+      "path": "northamerica/costarica/manuelantonio",
+      "prior_score": 10.0258,
+      "prior_variance": 0.53766,
       "prior_n": 3
     },
     {
+      "rank": 2,
+      "title": "Cabo San Lucas",
+      "path": "northamerica/mexico/cabosanlucas",
+      "prior_score": 7.1225,
+      "prior_variance": 0.503297,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Koh Phangan",
+      "path": "asia/thailand/kohphangan",
+      "prior_score": 7.9604,
+      "prior_variance": 0.452175,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mdina",
+      "path": "europe/malta/mdina",
+      "prior_score": 8.4513,
+      "prior_variance": 0.412522,
+      "prior_n": 4
+    },
+    {
       "rank": 5,
-      "title": "Arecibo",
-      "path": "northamerica/puertorico/arecibo",
-      "prior_rank": 2992,
-      "prior_wins": 28,
-      "prior_n": 2
+      "title": "Giverny",
+      "path": "europe/france/normandybrittany/giverny",
+      "prior_score": 9.0793,
+      "prior_variance": 0.627489,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Lefko\u015fa",
-      "path": "asia/cyprus/northerncyprus/levkosa",
-      "prior_rank": 4786,
-      "prior_wins": 20,
-      "prior_n": 2
+      "title": "Inverness",
+      "path": "europe/unitedkingdom/scotland/inverness",
+      "prior_score": 6.1544,
+      "prior_variance": 0.517233,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Figueira da Foz",
-      "path": "europe/portugal/figueiradafoz",
-      "prior_rank": 4993,
-      "prior_wins": 19,
-      "prior_n": 2
+      "title": "Pine Cay",
+      "path": "northamerica/turksandcaicosislands/pinecay",
+      "prior_score": 6.492,
+      "prior_variance": 0.47934,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Ulcinj",
-      "path": "europe/montenegro/ulcinj_1",
-      "prior_rank": 3171,
-      "prior_wins": 27,
-      "prior_n": 2
+      "title": "Petit St. Vincent",
+      "path": "northamerica/saintvincentandthegrenadines/petitst",
+      "prior_score": 8.3114,
+      "prior_variance": 0.702586,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Taboga",
-      "path": "northamerica/panama/taboga",
-      "prior_rank": 4877,
-      "prior_wins": 17,
-      "prior_n": 2
+      "title": "Favignana",
+      "path": "europe/italy/sicily/favignana",
+      "prior_score": 8.3215,
+      "prior_variance": 0.466154,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Konkan",
-      "path": "asia/india/maharashtra/konkan",
-      "prior_rank": 4891,
-      "prior_wins": 19,
-      "prior_n": 2
+      "title": "Mui Ne - Phan Thiet",
+      "path": "asia/vietnam/muine__phan_thiet",
+      "prior_score": 5.3129,
+      "prior_variance": 0.470153,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Norrk\u00f6ping",
-      "path": "europe/sweden/norrkping",
-      "prior_rank": 4915,
-      "prior_wins": 29,
+      "title": "Alanya",
+      "path": "asia/turkey/alanya",
+      "prior_score": 7.1331,
+      "prior_variance": 0.458452,
       "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "\u00d6stersund",
-      "path": "europe/sweden/stersund",
-      "prior_rank": 2925,
-      "prior_wins": 42,
+      "title": "Playa del Ingles",
+      "path": "europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles",
+      "prior_score": 5.5883,
+      "prior_variance": 0.63344,
       "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Osnabr\u00fcck",
-      "path": "europe/germany/osnabrck",
-      "prior_rank": 3930,
-      "prior_wins": 23,
-      "prior_n": 2
+      "title": "Yalong Bay",
+      "path": "asia/china/hainanisland/yalongwang",
+      "prior_score": 2.3063,
+      "prior_variance": 0.485678,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Poprad",
-      "path": "europe/slovakia/poprad",
-      "prior_rank": 5590,
-      "prior_wins": 13,
-      "prior_n": 2
+      "title": "Mindelo",
+      "path": "africa/capeverde/mindelo",
+      "prior_score": 4.4475,
+      "prior_variance": 0.404463,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Lieser",
-      "path": "europe/germany/rhinelandpalatinate/mosel/lieser",
-      "prior_rank": 4991,
-      "prior_wins": 19,
-      "prior_n": 2
+      "title": "Hemsedal",
+      "path": "europe/norway/hemsedal",
+      "prior_score": 3.6624,
+      "prior_variance": 0.526623,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Vadehavet",
-      "path": "europe/denmark/vadehavet",
-      "prior_rank": 6376,
-      "prior_wins": 13,
-      "prior_n": 2
+      "title": "Neuchatel",
+      "path": "europe/switzerland/neuchatel",
+      "prior_score": 5.65,
+      "prior_variance": 0.582416,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Porretta Terme",
-      "path": "europe/italy/emiliaromagna/porretta_terme",
-      "prior_rank": 6112,
-      "prior_wins": 14,
-      "prior_n": 2
+      "title": "Nancy",
+      "path": "europe/france/east/lorraine/nancy",
+      "prior_score": 6.0355,
+      "prior_variance": 0.419339,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Golsfjellet",
-      "path": "europe/norway/golsfjellet",
-      "prior_rank": 3928,
-      "prior_wins": 23,
-      "prior_n": 2
+      "title": "Udine",
+      "path": "europe/italy/friuliveneziagiulia/udine",
+      "prior_score": 2.706,
+      "prior_variance": 0.530836,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Les Crosets",
-      "path": "europe/switzerland/lescrosets",
-      "prior_rank": 5219,
-      "prior_wins": 18,
-      "prior_n": 2
+      "title": "Saksun",
+      "path": "europe/faroeislands/streymoy/saksun",
+      "prior_score": 6.4396,
+      "prior_variance": 0.702658,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Eastland",
-      "path": "australiaandpacific/newzealand/eastland",
-      "prior_rank": 5518,
-      "prior_wins": 25,
+      "title": "Ovalau",
+      "path": "australiaandpacific/fiji/ovalau",
+      "prior_score": 4.1612,
+      "prior_variance": 0.403276,
       "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Salmon River",
-      "path": "northamerica/unitedstates/idaho/salmon_river",
-      "prior_rank": 2329,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Sopron",
+      "path": "europe/hungary/sopron",
+      "prior_score": 2.8459,
+      "prior_variance": 0.412265,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Kaghan Valley",
-      "path": "asia/pakistan/kaghanvalley",
-      "prior_rank": 969,
-      "prior_wins": 57,
+      "title": "Srirangam",
+      "path": "asia/india/tamilnadu/srirangam",
+      "prior_score": 2.5821,
+      "prior_variance": 0.603998,
       "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Arkhangai",
-      "path": "asia/mongolia/arkhangai",
-      "prior_rank": 4961,
-      "prior_wins": 21,
+      "title": "Tanjay",
+      "path": "asia/philippines/negrosisland/tanjay",
+      "prior_score": -8.1632,
+      "prior_variance": 0.585574,
       "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Dzanga-Sangha",
-      "path": "africa/centralafricanrepublic/dzanga_sangha",
-      "prior_rank": 3149,
-      "prior_wins": 27,
-      "prior_n": 2
+      "title": "Nouadhibou",
+      "path": "africa/mauritania/nouadhibou",
+      "prior_score": -7.9085,
+      "prior_variance": 0.485347,
+      "prior_n": 3
     }
   ]
 }

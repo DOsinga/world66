@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caticlan,_Malay,_Aklan,_Ph
 latitude: 11.9001
 loc_type: city
 longitude: 121.9099
-score: 0.4
+score: 0.3
 title: Malay
 type: location
 ---

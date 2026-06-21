@@ -5,7 +5,7 @@ done:
 latitude: 40.57
 loc_type: city
 longitude: 48.42
-score: 0.24
+score: 0.19
 title: Aqsu
 type: location
 ---

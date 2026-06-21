@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hussaini_Village,_Gojal,_U
 latitude: 36.448
 loc_type: city
 longitude: 74.9006
-score: 0.45
+score: 0.37
 title: Hussaini
 type: location
 ---

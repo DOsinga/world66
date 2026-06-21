@@ -8,11 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Squaw_Valley_entrance_sign
 latitude: 39.1984
 loc_type: city
 longitude: -120.2299
-score: 0.56
+score: 0.49
 sources:
-  - https://en.wikipedia.org/wiki/Olympic_Valley,_California
-  - https://en.wikipedia.org/wiki/Palisades_Tahoe
-  - https://en.wikipedia.org/wiki/1960_Winter_Olympics
+- https://en.wikipedia.org/wiki/Olympic_Valley,_California
+- https://en.wikipedia.org/wiki/Palisades_Tahoe
+- https://en.wikipedia.org/wiki/1960_Winter_Olympics
 title: Olympic Valley
 type: location
 ---

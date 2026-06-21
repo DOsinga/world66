@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridges_of_Morgan_City,_Lo
 latitude: 29.699375
 loc_type: city
 longitude: -91.20677
-score: 0.36
+score: 0.26
 title: “Morgan City”
 type: location
 ---

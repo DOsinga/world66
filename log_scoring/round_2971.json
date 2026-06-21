@@ -1,0 +1,200 @@
+{
+  "round": 2971,
+  "timestamp": "2026-06-13T22:19:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yading Nature Reserve",
+      "path": "asia/china/sichuanprovince/yading",
+      "prior_score": 6.197,
+      "prior_variance": 0.214711,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Ilha Grande",
+      "path": "southamerica/brazil/ilhagrande",
+      "prior_score": 6.4321,
+      "prior_variance": 0.214367,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Epidaurus",
+      "path": "europe/greece/epidaurus",
+      "prior_score": 5.0368,
+      "prior_variance": 0.201623,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Sapporo",
+      "path": "asia/japan/hokkaido/sapporo",
+      "prior_score": 8.6896,
+      "prior_variance": 0.231013,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Chicago",
+      "path": "northamerica/unitedstates/illinois/chicago",
+      "prior_score": 6.9299,
+      "prior_variance": 0.299959,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Geneva",
+      "path": "europe/switzerland/geneva",
+      "prior_score": 8.1062,
+      "prior_variance": 0.18786,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Furnas",
+      "path": "europe/portugal/theazores/so_miguel/furnas",
+      "prior_score": 4.661,
+      "prior_variance": 0.166471,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Playa Flamingo",
+      "path": "northamerica/costarica/playa_flamingo",
+      "prior_score": 4.0358,
+      "prior_variance": 0.15774,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Santa Marta",
+      "path": "southamerica/colombia/santamarta",
+      "prior_score": 3.0423,
+      "prior_variance": 0.200313,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Mount Putuo",
+      "path": "asia/china/zhejiang/mount-putuo",
+      "prior_score": 3.1544,
+      "prior_variance": 0.138624,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Tai'an",
+      "path": "asia/china/shandong_province/taian",
+      "prior_score": 2.062,
+      "prior_variance": 0.148474,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Hverager\u00f0i",
+      "path": "europe/iceland/hveragerdi",
+      "prior_score": 2.9001,
+      "prior_variance": 0.137107,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Sighisoara",
+      "path": "europe/romania/sighisoara",
+      "prior_score": 5.6997,
+      "prior_variance": 0.193621,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Vannes",
+      "path": "europe/france/normandybrittany/vannes",
+      "prior_score": 4.3513,
+      "prior_variance": 0.150884,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Chinon",
+      "path": "europe/france/centre/loirevalley/chinon",
+      "prior_score": 4.3475,
+      "prior_variance": 0.139032,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Silves",
+      "path": "europe/portugal/silves",
+      "prior_score": 2.4299,
+      "prior_variance": 0.144782,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Panaji",
+      "path": "asia/india/goa/panaji",
+      "prior_score": 2.1822,
+      "prior_variance": 0.163073,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Konstanz",
+      "path": "europe/germany/badenwrttemberg/konstanz",
+      "prior_score": 3.3293,
+      "prior_variance": 0.145211,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Grasmere",
+      "path": "europe/unitedkingdom/england/lakedistrict/grasmere",
+      "prior_score": 4.464,
+      "prior_variance": 0.186504,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "St. Johann in Tirol",
+      "path": "europe/austria/st_johann_in_tirol",
+      "prior_score": 3.3549,
+      "prior_variance": 0.1605,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Gatlinburg",
+      "path": "northamerica/unitedstates/tennessee/gatlinburg",
+      "prior_score": 2.9987,
+      "prior_variance": 0.16191,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Marsaxlokk",
+      "path": "europe/malta/marsaxlokk",
+      "prior_score": 2.9171,
+      "prior_variance": 0.149842,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Besan\u00e7on",
+      "path": "europe/france/east/franchecomte/besancon",
+      "prior_score": 2.2872,
+      "prior_variance": 0.139032,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Cape May",
+      "path": "northamerica/unitedstates/newjersey/cape_may",
+      "prior_score": 1.9789,
+      "prior_variance": 0.163449,
+      "prior_n": 11
+    }
+  ]
+}

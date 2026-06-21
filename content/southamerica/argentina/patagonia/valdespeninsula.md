@@ -5,7 +5,7 @@ latitude: -42.4752
 longitude: -64.1149
 title: Valdes Peninsula
 type: location
-score: 0.68
+score: 0.56
 loc_type: feature
 ---
 

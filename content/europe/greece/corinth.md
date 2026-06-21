@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 37.938541
 longitude: 22.927377
-score: 0.54
+score: 0.49
 title: Corinth
 type: location
 loc_type: city

@@ -5,7 +5,7 @@ done:
 latitude: 22.893888
 loc_type: city
 longitude: -109.92006
-score: 0.69
+score: 0.58
 title: Cabo San Lucas
 type: location
 ---

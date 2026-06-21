@@ -5,7 +5,7 @@ done:
 latitude: 10.5672
 loc_type: city
 longitude: 72.6395
-score: 0.51
+score: 0.42
 title: Kavaratti
 type: location
 ---

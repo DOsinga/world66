@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Khamis_Mushayt.jpg
 latitude: 18.3
 loc_type: city
 longitude: 42.733333
-score: 0.24
+score: 0.19
 title: Khamis
 type: location
 ---

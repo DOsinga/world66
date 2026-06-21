@@ -1,0 +1,200 @@
+{
+  "round": 3425,
+  "timestamp": "2026-06-13T22:53:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zell am See",
+      "path": "europe/austria/zellamsee",
+      "prior_score": 5.4622,
+      "prior_variance": 0.146835,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Gruy\u00e8res",
+      "path": "europe/switzerland/gruyeres",
+      "prior_score": 4.1774,
+      "prior_variance": 0.257911,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Kekova",
+      "path": "asia/turkey/kekova",
+      "prior_score": 5.0568,
+      "prior_variance": 0.153581,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Napier",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/napier",
+      "prior_score": 3.2053,
+      "prior_variance": 0.129584,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Limassol",
+      "path": "asia/cyprus/limassol",
+      "prior_score": 4.2467,
+      "prior_variance": 0.133877,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Yazd",
+      "path": "asia/iran/yazd",
+      "prior_score": 3.3227,
+      "prior_variance": 0.148716,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "St Vincent Island",
+      "path": "northamerica/saintvincentandthegrenadines/stvincentisland",
+      "prior_score": 4.0752,
+      "prior_variance": 0.129315,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Kirkjubour",
+      "path": "europe/faroeislands/streymoy/kirkjubour",
+      "prior_score": 2.0046,
+      "prior_variance": 0.117705,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "The New Forest",
+      "path": "europe/unitedkingdom/england/south_east/the_new_forest",
+      "prior_score": 2.9068,
+      "prior_variance": 0.130061,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Inis Me\u00e1in",
+      "path": "europe/ireland/aranislands/inismeain",
+      "prior_score": 1.6121,
+      "prior_variance": 0.136292,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Cajamarca",
+      "path": "southamerica/peru/cajamarca",
+      "prior_score": 2.2559,
+      "prior_variance": 0.134398,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Ninety Mile Beach",
+      "path": "australiaandpacific/newzealand/north_island/northland/ninety_mile_beach",
+      "prior_score": 2.2286,
+      "prior_variance": 0.132422,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Bethlehem",
+      "path": "asia/palestinianauthority/bethlehem",
+      "prior_score": 1.1296,
+      "prior_variance": 0.183684,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Portogruaro",
+      "path": "europe/italy/veneto/portogruaro",
+      "prior_score": -0.4336,
+      "prior_variance": 0.123057,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Ilmenau",
+      "path": "europe/germany/thuringia/ilmenau",
+      "prior_score": -1.7112,
+      "prior_variance": 0.120888,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Port Elizabeth",
+      "path": "africa/southafrica/portelizabeth",
+      "prior_score": -1.1495,
+      "prior_variance": 0.13173,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Belmar",
+      "path": "northamerica/unitedstates/newjersey/belmar",
+      "prior_score": -2.7369,
+      "prior_variance": 0.12593,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Sunderland",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/sunderland",
+      "prior_score": -3.8155,
+      "prior_variance": 0.126249,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Balikpapan",
+      "path": "asia/indonesia/kalimantan/balikpapan",
+      "prior_score": -3.3499,
+      "prior_variance": 0.117573,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Limbe",
+      "path": "africa/cameroon/limbe",
+      "prior_score": -3.1784,
+      "prior_variance": 0.130809,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Recklinghausen",
+      "path": "europe/germany/northrhinewestphalia/recklinghausen",
+      "prior_score": -3.807,
+      "prior_variance": 0.12338,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Claremore",
+      "path": "northamerica/unitedstates/oklahoma/claremore",
+      "prior_score": -3.3681,
+      "prior_variance": 0.127842,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Gastonia",
+      "path": "northamerica/unitedstates/northcarolina/gastonia",
+      "prior_score": -4.5601,
+      "prior_variance": 0.141919,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Ikom",
+      "path": "africa/nigeria/ikom",
+      "prior_score": -6.2993,
+      "prior_variance": 0.157968,
+      "prior_n": 10
+    }
+  ]
+}

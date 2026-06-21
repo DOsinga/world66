@@ -1,0 +1,200 @@
+{
+  "round": 4688,
+  "timestamp": "2026-06-14T00:33:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Easter Island",
+      "path": "southamerica/chile/easterisland",
+      "prior_score": 10.4144,
+      "prior_variance": 0.291279,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Glacier National Park",
+      "path": "northamerica/unitedstates/montana/glaciernp",
+      "prior_score": 8.8173,
+      "prior_variance": 0.192495,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Avatoru",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa/avatoru",
+      "prior_score": 5.0717,
+      "prior_variance": 0.099875,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Stamsund",
+      "path": "europe/norway/lofotenislands/stamsund",
+      "prior_score": 3.4212,
+      "prior_variance": 0.121264,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Bor\u00f0oy",
+      "path": "europe/faroeislands/bordoy",
+      "prior_score": 2.2083,
+      "prior_variance": 0.086881,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/south_east/oxford",
+      "prior_score": 6.1181,
+      "prior_variance": 0.128737,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Okayama",
+      "path": "asia/japan/honshu/okayama",
+      "prior_score": 4.0737,
+      "prior_variance": 0.097622,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Fontainebleau",
+      "path": "europe/france/around_paris/fontainebleau",
+      "prior_score": 3.7577,
+      "prior_variance": 0.083865,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Brisbane",
+      "path": "australiaandpacific/australia/queensland/brisbane",
+      "prior_score": 2.9342,
+      "prior_variance": 0.106219,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Urubamba",
+      "path": "southamerica/peru/urubamba",
+      "prior_score": 4.9493,
+      "prior_variance": 0.111538,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Puc\u00f3n",
+      "path": "southamerica/chile/pucan",
+      "prior_score": 4.5331,
+      "prior_variance": 0.10336,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "\u00d3bidos",
+      "path": "europe/portugal/obidos",
+      "prior_score": 4.7098,
+      "prior_variance": 0.094847,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Consuegra",
+      "path": "europe/spain/la_mancha/consuegra",
+      "prior_score": 2.5473,
+      "prior_variance": 0.084272,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Scilla",
+      "path": "europe/italy/calabria/scilla",
+      "prior_score": 3.4346,
+      "prior_variance": 0.084274,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Pr\u00edncipe",
+      "path": "africa/saotomeandprincipe/principe",
+      "prior_score": 2.2363,
+      "prior_variance": 0.092385,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Snowmass Village",
+      "path": "northamerica/unitedstates/colorado/snowmass_village",
+      "prior_score": 3.2713,
+      "prior_variance": 0.109811,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Friday Harbor",
+      "path": "northamerica/unitedstates/washington/friday_harbor",
+      "prior_score": 1.3205,
+      "prior_variance": 0.086815,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "South Padre Island",
+      "path": "northamerica/unitedstates/texas/southpadreisland",
+      "prior_score": 0.3037,
+      "prior_variance": 0.090081,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Bcharre",
+      "path": "asia/lebanon/bcharre",
+      "prior_score": 1.2513,
+      "prior_variance": 0.087241,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Bragan\u00e7a",
+      "path": "europe/portugal/bragana",
+      "prior_score": 0.473,
+      "prior_variance": 0.085058,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Ayr",
+      "path": "europe/unitedkingdom/scotland/ayr",
+      "prior_score": 0.7093,
+      "prior_variance": 0.087062,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Atascadero",
+      "path": "northamerica/unitedstates/california/atascadero",
+      "prior_score": -3.7021,
+      "prior_variance": 0.098117,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/eastern_england/hitchin",
+      "prior_score": -2.7582,
+      "prior_variance": 0.090394,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Hoshangabad",
+      "path": "asia/india/madhyapradesh/hoshangabad",
+      "prior_score": -4.8354,
+      "prior_variance": 0.099451,
+      "prior_n": 15
+    }
+  ]
+}

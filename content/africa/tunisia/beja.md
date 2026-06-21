@@ -10,6 +10,7 @@ loc_type: city
 longitude: 9.1833
 title: Béja
 type: location
+score: 0.32
 ---
 
 Béja sits in the green, rolling hills of northwestern Tunisia, about 100 km west of Tunis. This is the breadbasket of the country — wheat fields, olive groves, and grazing land spreading out from the town in every direction, a striking contrast to the desert south. The Romans called the place **Vaga** and prized it as a grain depot; the Carthaginians, Numidians, Vandals, Byzantines, and finally the Arabs all in turn took the town for the same reason.

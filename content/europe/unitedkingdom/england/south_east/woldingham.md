@@ -5,7 +5,7 @@ done:
 latitude: 51.289698
 loc_type: city
 longitude: -0.051667
-score: 0.35
+score: 0.28
 title: Woldingham
 type: location
 ---

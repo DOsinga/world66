@@ -5,7 +5,7 @@ done:
 latitude: 36.8221
 loc_type: city
 longitude: -107.9929
-score: 0.41
+score: 0.37
 title: Aztec
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 3125,
+  "timestamp": "2026-06-13T22:30:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Corinth",
+      "path": "europe/greece/corinth",
+      "prior_score": 2.4814,
+      "prior_variance": 0.145581,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Kvariati",
+      "path": "europe/georgia/kvariati",
+      "prior_score": -0.7807,
+      "prior_variance": 0.119633,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Mulanje Mountains",
+      "path": "africa/malawi/mulanje_mountains",
+      "prior_score": 1.0524,
+      "prior_variance": 0.141464,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Dege",
+      "path": "asia/china/sichuanprovince/dege",
+      "prior_score": -1.551,
+      "prior_variance": 0.184353,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Dokkum",
+      "path": "europe/netherlands/friesland/dokkum",
+      "prior_score": -0.5675,
+      "prior_variance": 0.130711,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Mestre",
+      "path": "europe/italy/veneto/mestre",
+      "prior_score": -3.3461,
+      "prior_variance": 0.161809,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Bou Sa\u00e2da",
+      "path": "africa/algeria/bousaada",
+      "prior_score": -3.251,
+      "prior_variance": 0.162785,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Altay Prefecture",
+      "path": "asia/china/xinjiangprovince/altayprefecture",
+      "prior_score": -1.3816,
+      "prior_variance": 0.149053,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Antofagasta",
+      "path": "southamerica/chile/antofagasta",
+      "prior_score": -1.4388,
+      "prior_variance": 0.129524,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Stara Zagora",
+      "path": "europe/bulgaria/starazagora",
+      "prior_score": -2.638,
+      "prior_variance": 0.134357,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Szczecin",
+      "path": "europe/poland/szczecin",
+      "prior_score": -1.1529,
+      "prior_variance": 0.142071,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Paga",
+      "path": "africa/ghana/paga",
+      "prior_score": -1.8847,
+      "prior_variance": 0.125914,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Iringa",
+      "path": "africa/tanzania/iringa",
+      "prior_score": -2.2283,
+      "prior_variance": 0.140911,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_score": -2.6255,
+      "prior_variance": 0.132983,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Karnala",
+      "path": "asia/india/maharashtra/karnala",
+      "prior_score": -3.172,
+      "prior_variance": 0.166892,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Siddhpur",
+      "path": "asia/india/gujarat/siddhpur",
+      "prior_score": -3.651,
+      "prior_variance": 0.156037,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Petaling Jaya",
+      "path": "asia/malaysia/petalingjaya",
+      "prior_score": -2.1603,
+      "prior_variance": 0.152407,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Zhoushan",
+      "path": "asia/china/zhejiang/zhoushan",
+      "prior_score": -1.6845,
+      "prior_variance": 0.128408,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Cheboksary",
+      "path": "europe/russia/chuvashia/cheboksary",
+      "prior_score": -3.8244,
+      "prior_variance": 0.148264,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Enumclaw",
+      "path": "northamerica/unitedstates/washington/enumclaw",
+      "prior_score": -4.6448,
+      "prior_variance": 0.169444,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Clarksville",
+      "path": "northamerica/unitedstates/tennessee/clarksville",
+      "prior_score": -4.2263,
+      "prior_variance": 0.166035,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Toledo",
+      "path": "northamerica/unitedstates/ohio/toledo",
+      "prior_score": -4.4851,
+      "prior_variance": 0.175217,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Bangui",
+      "path": "africa/centralafricanrepublic/bangui",
+      "prior_score": -8.6566,
+      "prior_variance": 0.394079,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "El Merj",
+      "path": "africa/libya/elmerj",
+      "prior_score": -8.0279,
+      "prior_variance": 0.257909,
+      "prior_n": 9
+    }
+  ]
+}

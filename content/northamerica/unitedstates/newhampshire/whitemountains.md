@@ -5,7 +5,7 @@ latitude: 44.27
 longitude: -71.3
 title: White Mountains
 type: location
-score: 0.62
+score: 0.54
 loc_type: feature
 ---
 

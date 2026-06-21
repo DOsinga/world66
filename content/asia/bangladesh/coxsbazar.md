@@ -7,7 +7,7 @@ done:
 latitude: 21.442004
 loc_type: city
 longitude: 91.981246
-score: 0.48
+score: 0.43
 title: Cox's Bazar
 type: location
 image: coxsbazar.jpg

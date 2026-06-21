@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BaldeneyseeVonWerden.jpg
 latitude: 51.458224
 loc_type: city
 longitude: 7.015817
-score: 0.43
+score: 0.37
 title: Essen
 type: location
 ---

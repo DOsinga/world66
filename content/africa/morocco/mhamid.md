@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:M%27hamid-CafeUndShop.jpg
 latitude: 29.825084
 loc_type: city
 longitude: -5.719808
-score: 0.57
+score: 0.46
 title: M'Hamid
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Willoughby,_Westmore,
 latitude: 44.77112
 loc_type: city
 longitude: -72.054872
-score: 0.41
+score: 0.36
 title: Westmore
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 52.399
 loc_type: city
 longitude: 0.262
-score: 0.51
+score: 0.42
 sources:
 - https://en.wikipedia.org/wiki/Ely,_Cambridgeshire
 title: Ely

@@ -4,7 +4,7 @@ done:
 latitude: 4.759
 loc_type: city
 longitude: -6.6464
-score: 0.31
+score: 0.28
 title: San-Pédro
 type: location
 image: sanpedro.jpg

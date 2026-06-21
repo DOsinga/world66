@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Krasnodar_27_Jun_2018.jpg
 latitude: 45.035153
 loc_type: city
 longitude: 38.97724
-score: 0.34
+score: 0.3
 title: Krasnodar
 type: location
 ---

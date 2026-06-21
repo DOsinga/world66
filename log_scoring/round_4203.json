@@ -1,0 +1,200 @@
+{
+  "round": 4203,
+  "timestamp": "2026-06-13T23:53:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Wengen",
+      "path": "europe/switzerland/wengen",
+      "prior_score": 6.6045,
+      "prior_variance": 0.131649,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Bled",
+      "path": "europe/slovenia/bled",
+      "prior_score": 9.7523,
+      "prior_variance": 0.20148,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_score": 8.0495,
+      "prior_variance": 0.209241,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Stromboli",
+      "path": "europe/italy/sicily/aeolianislands/stromboli",
+      "prior_score": 5.8053,
+      "prior_variance": 0.153349,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Amorgos",
+      "path": "europe/greece/amorgos",
+      "prior_score": 6.1609,
+      "prior_variance": 0.135172,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Les Baux-de-Provence",
+      "path": "europe/france/midi/provence/les_beaux_de_prove",
+      "prior_score": 5.236,
+      "prior_variance": 0.106388,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Inle Lake",
+      "path": "asia/myanmar/inlelake",
+      "prior_score": 5.4136,
+      "prior_variance": 0.119405,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Wudang Mountains",
+      "path": "asia/china/hubei/wudang_mountains",
+      "prior_score": 4.17,
+      "prior_variance": 0.103583,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Bovec",
+      "path": "europe/slovenia/bovec",
+      "prior_score": 3.9197,
+      "prior_variance": 0.118947,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Hakodate",
+      "path": "asia/japan/hokkaido/hakodate",
+      "prior_score": 6.3677,
+      "prior_variance": 0.119727,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Mulanje Mountains",
+      "path": "africa/malawi/mulanje_mountains",
+      "prior_score": 1.094,
+      "prior_variance": 0.108301,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Lepakshi",
+      "path": "asia/india/andhrapradesh/lepakshi",
+      "prior_score": -0.2501,
+      "prior_variance": 0.103435,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Ja\u00e9n",
+      "path": "europe/spain/andalucia/jaen",
+      "prior_score": 0.2892,
+      "prior_variance": 0.095663,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Huehuetenango",
+      "path": "northamerica/guatemala/huehuetenango",
+      "prior_score": -2.6106,
+      "prior_variance": 0.108086,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Kurunegala",
+      "path": "asia/srilanka/kurunegala",
+      "prior_score": -0.7265,
+      "prior_variance": 0.096515,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Kimberley",
+      "path": "africa/southafrica/kimberley",
+      "prior_score": -0.0659,
+      "prior_variance": 0.09383,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Vemdalen",
+      "path": "europe/sweden/vemdalen",
+      "prior_score": -0.7577,
+      "prior_variance": 0.10039,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Macduff",
+      "path": "europe/unitedkingdom/scotland/macduff",
+      "prior_score": -1.7515,
+      "prior_variance": 0.105841,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Salmon Arm",
+      "path": "northamerica/canada/britishcolumbia/salmonarm",
+      "prior_score": -1.1222,
+      "prior_variance": 0.096899,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/rockhampton",
+      "prior_score": -2.0699,
+      "prior_variance": 0.098531,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Sarrebourg",
+      "path": "europe/france/east/lorraine/sarrebourg",
+      "prior_score": -1.6787,
+      "prior_variance": 0.092468,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Jacksonville",
+      "path": "northamerica/unitedstates/florida/northeastflorida/jacksonville",
+      "prior_score": -2.6966,
+      "prior_variance": 0.103865,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Tatta Pani",
+      "path": "asia/pakistan/azad_kashmir/tatta_pani",
+      "prior_score": -4.7699,
+      "prior_variance": 0.123665,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Dire dawa",
+      "path": "africa/ethiopia/diredawa",
+      "prior_score": -4.5544,
+      "prior_variance": 0.118458,
+      "prior_n": 13
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Haydarpasa_train_station_(
 latitude: 41.01
 loc_type: city
 longitude: 29.025
-score: 0.63
+score: 0.5
 title: Asian Side (Kadıköy)
 type: location
 ---

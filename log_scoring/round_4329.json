@@ -1,0 +1,200 @@
+{
+  "round": 4329,
+  "timestamp": "2026-06-14T00:03:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/nationalparksandreserves/amobselinp",
+      "prior_score": 7.8653,
+      "prior_variance": 0.166372,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Matsumoto",
+      "path": "asia/japan/honshu/matsumoto",
+      "prior_score": 6.6813,
+      "prior_variance": 0.155031,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Fukuoka",
+      "path": "asia/japan/kyushu/fukuoka_city",
+      "prior_score": 6.9141,
+      "prior_variance": 0.124484,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Kanchanaburi",
+      "path": "asia/thailand/kanchanaburi",
+      "prior_score": 4.293,
+      "prior_variance": 0.106487,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Champ\u00e9ry",
+      "path": "europe/switzerland/champery",
+      "prior_score": 4.358,
+      "prior_variance": 0.120811,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Angra do Heroismo",
+      "path": "europe/portugal/theazores/angra_do_heroismo",
+      "prior_score": 4.675,
+      "prior_variance": 0.102103,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Fr\u00e9jus",
+      "path": "europe/france/frejus",
+      "prior_score": 2.1438,
+      "prior_variance": 0.091612,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "St Peter Port",
+      "path": "europe/channelislands/guernsey/st_peter_port",
+      "prior_score": 3.4728,
+      "prior_variance": 0.102867,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Edam",
+      "path": "europe/netherlands/edam",
+      "prior_score": 1.3894,
+      "prior_variance": 0.095279,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Worms",
+      "path": "europe/germany/rhinelandpalatinate/worms",
+      "prior_score": 0.9166,
+      "prior_variance": 0.104183,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Tequila",
+      "path": "northamerica/mexico/tequila",
+      "prior_score": 1.6417,
+      "prior_variance": 0.121682,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/newhampshire/portsmouth",
+      "prior_score": 1.1061,
+      "prior_variance": 0.096588,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Warrnambool",
+      "path": "australiaandpacific/australia/victoria/warrnambool",
+      "prior_score": -0.7172,
+      "prior_variance": 0.097273,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Praia Verde",
+      "path": "europe/portugal/algarve/praia_verde",
+      "prior_score": 1.471,
+      "prior_variance": 0.101339,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Neretva",
+      "path": "europe/croatia/neretva",
+      "prior_score": -2.573,
+      "prior_variance": 0.131461,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Pacasmayo",
+      "path": "southamerica/peru/pacasmayo",
+      "prior_score": -1.8846,
+      "prior_variance": 0.095643,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "N\u00f3lsoy",
+      "path": "europe/faroeislands/nolsoy",
+      "prior_score": -0.084,
+      "prior_variance": 0.106923,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Alibag",
+      "path": "asia/india/alibaug",
+      "prior_score": -1.8197,
+      "prior_variance": 0.100548,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Sonora",
+      "path": "northamerica/unitedstates/california/goldcountry/sonora",
+      "prior_score": -0.9311,
+      "prior_variance": 0.089873,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Skara",
+      "path": "europe/sweden/skara",
+      "prior_score": -1.6299,
+      "prior_variance": 0.089035,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Hiawassee",
+      "path": "northamerica/unitedstates/georgia/hiawassee_ga",
+      "prior_score": -1.8751,
+      "prior_variance": 0.102486,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/kentucky/bowlinggreen",
+      "prior_score": -2.6995,
+      "prior_variance": 0.104701,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Petrozavodsk",
+      "path": "europe/russia/karelia/petrozavodsk",
+      "prior_score": -2.6999,
+      "prior_variance": 0.138731,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Bamako",
+      "path": "africa/mali/bamako",
+      "prior_score": -5.7359,
+      "prior_variance": 0.12243,
+      "prior_n": 14
+    }
+  ]
+}

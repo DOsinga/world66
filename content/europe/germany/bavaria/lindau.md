@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/21603648@N00/4762387227
 latitude: 47.550753
 loc_type: city
 longitude: 9.692662
-score: 0.59
+score: 0.55
 title: Lindau
 type: location
 ---

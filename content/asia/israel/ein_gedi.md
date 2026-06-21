@@ -5,7 +5,7 @@ done:
 latitude: 31.452396
 loc_type: city
 longitude: 35.384824
-score: 0.58
+score: 0.49
 title: Ein Gedi
 type: location
 ---

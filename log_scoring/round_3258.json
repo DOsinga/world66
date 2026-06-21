@@ -1,0 +1,200 @@
+{
+  "round": 3258,
+  "timestamp": "2026-06-13T22:40:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jiuzhaigou",
+      "path": "asia/china/sichuanprovince/jiuzhaigou",
+      "prior_score": 8.9991,
+      "prior_variance": 0.304659,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Valley of Flowers",
+      "path": "asia/india/uttaranchal/valley_of_flowers",
+      "prior_score": 4.8782,
+      "prior_variance": 0.149672,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Ellora",
+      "path": "asia/india/maharashtra/ellora",
+      "prior_score": 6.6021,
+      "prior_variance": 0.155569,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Dharamsala",
+      "path": "asia/india/himachalpradesh/dharamsala",
+      "prior_score": 4.7972,
+      "prior_variance": 0.155772,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Rishikesh",
+      "path": "asia/india/uttaranchal/rishikesh",
+      "prior_score": 5.288,
+      "prior_variance": 0.158087,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/york",
+      "prior_score": 6.9439,
+      "prior_variance": 0.185826,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Halifax",
+      "path": "northamerica/canada/novascotia/halifax",
+      "prior_score": 1.6757,
+      "prior_variance": 0.134052,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Bantayan",
+      "path": "asia/philippines/cebu/bantayan",
+      "prior_score": 0.3139,
+      "prior_variance": 0.175278,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "New Haven",
+      "path": "northamerica/unitedstates/connecticut/newhaven",
+      "prior_score": 0.6399,
+      "prior_variance": 0.18808,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Surat Thani",
+      "path": "asia/thailand/surat_thani",
+      "prior_score": -0.0862,
+      "prior_variance": 0.132065,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Bashang Grasslands",
+      "path": "asia/china/hebei/bashang_grasslands",
+      "prior_score": 1.4182,
+      "prior_variance": 0.114554,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Borca di Cadore",
+      "path": "europe/italy/veneto/borca_di_cadore",
+      "prior_score": 1.3927,
+      "prior_variance": 0.146413,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Tsukuba",
+      "path": "asia/japan/honshu/tsukuba",
+      "prior_score": -0.3685,
+      "prior_variance": 0.127742,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Hanko",
+      "path": "europe/finland/hanko",
+      "prior_score": -0.3729,
+      "prior_variance": 0.113964,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Kosrae",
+      "path": "australiaandpacific/micronesiafederatedstatesof/kosrae",
+      "prior_score": 0.4631,
+      "prior_variance": 0.142369,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Pune",
+      "path": "asia/india/maharashtra/pune",
+      "prior_score": -0.9697,
+      "prior_variance": 0.14192,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Banjul",
+      "path": "africa/gambia/banjul",
+      "prior_score": -1.5575,
+      "prior_variance": 0.159361,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Sturbridge",
+      "path": "northamerica/unitedstates/massachusetts/sturbridge",
+      "prior_score": -1.2091,
+      "prior_variance": 0.112469,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Cavalcante",
+      "path": "southamerica/brazil/cavalcante",
+      "prior_score": -2.5125,
+      "prior_variance": 0.127809,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Kerimaki",
+      "path": "europe/finland/kerimaki",
+      "prior_score": -2.9154,
+      "prior_variance": 0.152029,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Denman Island",
+      "path": "northamerica/canada/britishcolumbia/denman_island",
+      "prior_score": -1.4365,
+      "prior_variance": 0.154305,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Moclips",
+      "path": "northamerica/unitedstates/washington/moclips",
+      "prior_score": -3.0788,
+      "prior_variance": 0.13182,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Green Island",
+      "path": "asia/kuwait/greenisland",
+      "prior_score": -5.8947,
+      "prior_variance": 0.145765,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Freehold",
+      "path": "northamerica/unitedstates/newjersey/freehold",
+      "prior_score": -4.2,
+      "prior_variance": 0.157087,
+      "prior_n": 10
+    }
+  ]
+}

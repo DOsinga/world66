@@ -5,7 +5,7 @@ done:
 latitude: 38.489868
 loc_type: city
 longitude: -122.321841
-score: 0.59
+score: 0.56
 title: Napa
 type: location
 image: napa.jpg

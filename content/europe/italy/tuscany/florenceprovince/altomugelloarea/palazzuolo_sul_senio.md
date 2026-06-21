@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Palazzuolo_sul_Senio_-_Lun
 latitude: 44.1125
 loc_type: city
 longitude: 11.5477
-score: 0.51
+score: 0.42
 title: Palazzuolo sul Senio
 type: location
 ---

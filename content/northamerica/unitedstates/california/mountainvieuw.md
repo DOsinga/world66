@@ -5,7 +5,7 @@ done:
 latitude: 37.389389
 loc_type: city
 longitude: -122.08321
-score: 0.38
+score: 0.3
 title: Mountain View
 type: location
 ---

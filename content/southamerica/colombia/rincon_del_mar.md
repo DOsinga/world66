@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/91701539@N03/54514399140
 latitude: 9.766779
 loc_type: city
 longitude: -75.641092
-score: 0.42
+score: 0.37
 title: Rincón del Mar
 type: location
 ---

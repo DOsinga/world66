@@ -5,7 +5,7 @@ done:
 latitude: 12.7833
 loc_type: city
 longitude: 22.2167
-score: 0.16
+score: 0.1
 title: Hadjer Hadid
 type: location
 ---

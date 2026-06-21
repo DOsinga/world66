@@ -1,0 +1,200 @@
+{
+  "round": 4457,
+  "timestamp": "2026-06-14T00:14:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Turin",
+      "path": "europe/italy/piemonte/turin",
+      "prior_score": 6.1517,
+      "prior_variance": 0.139796,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/basque_country_euskadi/vitoria",
+      "prior_score": 1.2162,
+      "prior_variance": 0.094017,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Sopot",
+      "path": "europe/poland/sopot",
+      "prior_score": 2.3279,
+      "prior_variance": 0.089822,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Kashan",
+      "path": "asia/iran/kashan",
+      "prior_score": 1.6413,
+      "prior_variance": 0.108331,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Lamu",
+      "path": "africa/kenya/thecoast/lamu",
+      "prior_score": 4.0763,
+      "prior_variance": 0.100967,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Jujuy",
+      "path": "southamerica/argentina/jujuy",
+      "prior_score": 1.6544,
+      "prior_variance": 0.10382,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Mito",
+      "path": "asia/japan/honshu/mito",
+      "prior_score": 1.6082,
+      "prior_variance": 0.109491,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Puerto Morelos",
+      "path": "northamerica/mexico/puerto_morelos",
+      "prior_score": 1.7148,
+      "prior_variance": 0.106769,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Puerto del Carmen",
+      "path": "europe/spain/canaryislands/lanzarote/puertodelcarmen",
+      "prior_score": 3.9077,
+      "prior_variance": 0.10029,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Tabarka",
+      "path": "africa/tunisia/tabarka",
+      "prior_score": 0.0596,
+      "prior_variance": 0.093174,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Podgora",
+      "path": "europe/croatia/podgora",
+      "prior_score": 1.5051,
+      "prior_variance": 0.10454,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Ouzoud",
+      "path": "africa/morocco/ouzoud",
+      "prior_score": 3.578,
+      "prior_variance": 0.09725,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Cumbuco",
+      "path": "southamerica/brazil/cumbuco",
+      "prior_score": 0.4382,
+      "prior_variance": 0.095893,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Yandang Mountains",
+      "path": "asia/china/zhejiang/yandangshan",
+      "prior_score": 1.482,
+      "prior_variance": 0.098363,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Sabang Island",
+      "path": "asia/indonesia/aceh/sabang_island",
+      "prior_score": 1.1867,
+      "prior_variance": 0.098832,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Ni\u0161",
+      "path": "europe/serbia/nis",
+      "prior_score": 0.1965,
+      "prior_variance": 0.093905,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Hoch Ybrig",
+      "path": "europe/switzerland/hoch_ybrig",
+      "prior_score": 2.2014,
+      "prior_variance": 0.091458,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is/schiermonnikoog",
+      "prior_score": 0.5033,
+      "prior_variance": 0.088306,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Feuchtwangen",
+      "path": "europe/germany/bavaria/romanticroad/feuchtwangen",
+      "prior_score": 0.7154,
+      "prior_variance": 0.100387,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Ennis",
+      "path": "europe/ireland/ennis",
+      "prior_score": 1.8165,
+      "prior_variance": 0.097098,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Mullingar",
+      "path": "europe/ireland/mullingar",
+      "prior_score": -1.6996,
+      "prior_variance": 0.086819,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Wickenburg",
+      "path": "northamerica/unitedstates/arizona/wickenburg",
+      "prior_score": -2.4782,
+      "prior_variance": 0.101687,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Ajman",
+      "path": "asia/unitedarabemirates/ajman",
+      "prior_score": -1.9453,
+      "prior_variance": 0.096146,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Wargal",
+      "path": "asia/india/andhrapradesh/wargal",
+      "prior_score": -6.5076,
+      "prior_variance": 0.129529,
+      "prior_n": 14
+    }
+  ]
+}

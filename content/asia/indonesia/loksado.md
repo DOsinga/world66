@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sungai_Amandit,_Loksado_4.
 latitude: -2.794682
 loc_type: city
 longitude: 115.496021
-score: 0.47
+score: 0.42
 sources:
 - https://en.wikipedia.org/wiki/Meratus_Mountains
 title: Loksado

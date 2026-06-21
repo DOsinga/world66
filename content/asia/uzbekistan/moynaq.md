@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Moynaq,_Aral_Sea_(62268073
 latitude: 43.7683
 loc_type: city
 longitude: 59.0214
-score: 0.42
+score: 0.34
 title: Moynaq
 type: location
 ---

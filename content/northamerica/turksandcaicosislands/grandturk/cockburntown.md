@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/83233184@N00/3759864019
 latitude: 21.4607
 loc_type: city
 longitude: -71.139
-score: 0.55
+score: 0.48
 title: Cockburn Town
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Unionisland.jpg
 latitude: 12.5988
 loc_type: city
 longitude: -61.4308
-score: 0.59
+score: 0.56
 title: Union Island
 type: location
 ---

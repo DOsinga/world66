@@ -1,0 +1,200 @@
+{
+  "round": 3218,
+  "timestamp": "2026-06-13T22:37:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Guangzhou",
+      "path": "asia/china/guangdong/guangzhou",
+      "prior_score": 2.847,
+      "prior_variance": 0.167243,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Hyderabad",
+      "path": "asia/india/andhrapradesh/hyderabad",
+      "prior_score": 0.8054,
+      "prior_variance": 0.14595,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Windhoek",
+      "path": "africa/namibia/windhoek",
+      "prior_score": 0.0192,
+      "prior_variance": 0.138289,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Elvas",
+      "path": "europe/portugal/elvas",
+      "prior_score": 1.2053,
+      "prior_variance": 0.123245,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Vilcabamba",
+      "path": "southamerica/ecuador/vilcabamba",
+      "prior_score": 1.8171,
+      "prior_variance": 0.122004,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Beaufort",
+      "path": "northamerica/unitedstates/southcarolina/beaufort",
+      "prior_score": 0.5153,
+      "prior_variance": 0.134353,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/massachusetts/lexington",
+      "prior_score": 0.0096,
+      "prior_variance": 0.133377,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Coburg",
+      "path": "europe/germany/bavaria/coburg",
+      "prior_score": 0.6483,
+      "prior_variance": 0.121863,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Sihanoukville",
+      "path": "asia/cambodia/sihanoukville",
+      "prior_score": -2.3938,
+      "prior_variance": 0.138506,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Silent Valley National Park",
+      "path": "asia/india/kerala/silent_valley_national_park",
+      "prior_score": 0.9065,
+      "prior_variance": 0.146296,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Mapusa",
+      "path": "asia/india/goa/mapusa",
+      "prior_score": -0.9521,
+      "prior_variance": 0.138344,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Port Royal",
+      "path": "northamerica/jamaica/portroyal",
+      "prior_score": 0.7274,
+      "prior_variance": 0.144769,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Oracabessa",
+      "path": "northamerica/jamaica/oracabessa",
+      "prior_score": 0.8041,
+      "prior_variance": 0.13648,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Holmavik",
+      "path": "europe/iceland/holmavik",
+      "prior_score": -0.5081,
+      "prior_variance": 0.124128,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Arroyo de la Miel",
+      "path": "europe/spain/andalucia/arroyodelamiel",
+      "prior_score": -1.2524,
+      "prior_variance": 0.147436,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Gentofte",
+      "path": "europe/denmark/gentofte",
+      "prior_score": -3.1811,
+      "prior_variance": 0.190767,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Strumica",
+      "path": "europe/macedonia/strumica",
+      "prior_score": -1.8463,
+      "prior_variance": 0.12071,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince",
+      "prior_score": -1.8366,
+      "prior_variance": 0.136956,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Karak",
+      "path": "asia/jordan/karak",
+      "prior_score": -0.0408,
+      "prior_variance": 0.133195,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Sidi Ifni",
+      "path": "africa/morocco/sidiifni",
+      "prior_score": -0.094,
+      "prior_variance": 0.14727,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Grand popo",
+      "path": "africa/benin/grandpopo",
+      "prior_score": -3.475,
+      "prior_variance": 0.150794,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Masbate",
+      "path": "asia/philippines/masbate",
+      "prior_score": -2.6335,
+      "prior_variance": 0.127637,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Sabratha",
+      "path": "africa/libya/sabratha",
+      "prior_score": -1.6921,
+      "prior_variance": 0.158365,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Hisar",
+      "path": "asia/tajikistan/hisar",
+      "prior_score": -7.1659,
+      "prior_variance": 0.191559,
+      "prior_n": 10
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_attribution: Amirk94391
 latitude: 31.8275
 loc_type: city
 longitude: 70.9091
-score: 0.26
+score: 0.19
 sources:
 - https://en.wikipedia.org/wiki/Dera_Ismail_Khan
 title: Dera Ismail Khan

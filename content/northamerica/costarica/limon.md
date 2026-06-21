@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Isla_Uvita._Lim%C3%B3n._Co
 latitude: 9.9907
 loc_type: city
 longitude: -83.036
-score: 0.43
+score: 0.41
 title: Limon
 type: location
 ---

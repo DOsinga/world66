@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mandurah_Ocean_Marina.jpg
 latitude: -32.530249
 loc_type: city
 longitude: 115.720878
-score: 0.47
+score: 0.39
 title: Mandurah
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tafelrond_Leuven_-_385956_
 latitude: 50.8792
 loc_type: city
 longitude: 4.7012
-score: 0.6
+score: 0.51
 title: Leuven
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 46.184669
 loc_type: city
 longitude: 6.139684
-score: 0.49
+score: 0.44
 title: Carouge
 type: location
 ---

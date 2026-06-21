@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Budville_Trading_Company_(
 latitude: 35.0724
 loc_type: city
 longitude: -107.5265
-score: 0.25
+score: 0.21
 title: Budville
 type: location
 ---

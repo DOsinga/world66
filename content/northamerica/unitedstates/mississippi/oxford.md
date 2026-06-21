@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rowan_Oak_2018_1.jpg
 latitude: 34.366377
 loc_type: city
 longitude: -89.518766
-score: 0.42
+score: 0.33
 title: Oxford
 type: location
 ---

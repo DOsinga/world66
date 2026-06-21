@@ -5,7 +5,7 @@ latitude: 43.0708
 longitude: 17.3808
 title: Baćina Lakes
 type: location
-score: 0.55
+score: 0.47
 loc_type: feature
 ---
 

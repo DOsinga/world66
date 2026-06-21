@@ -1,0 +1,200 @@
+{
+  "round": 3191,
+  "timestamp": "2026-06-13T22:35:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Srirangam",
+      "path": "asia/india/tamilnadu/srirangam",
+      "prior_score": 1.4001,
+      "prior_variance": 0.157826,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Lugu Lake",
+      "path": "asia/china/yunnanprovince/lugu_lake",
+      "prior_score": 3.2825,
+      "prior_variance": 0.157181,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Chongqing",
+      "path": "asia/china/sichuanprovince/chongqing",
+      "prior_score": 1.2223,
+      "prior_variance": 0.147211,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Morelos",
+      "path": "northamerica/mexico/puerto_morelos",
+      "prior_score": 1.5394,
+      "prior_variance": 0.14172,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "R\u00fcdesheim",
+      "path": "europe/germany/hessen/rudesheim",
+      "prior_score": 3.1158,
+      "prior_variance": 0.135111,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Waterloo",
+      "path": "europe/belgium/waterloo",
+      "prior_score": 1.5694,
+      "prior_variance": 0.12377,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Edam",
+      "path": "europe/netherlands/edam",
+      "prior_score": 1.359,
+      "prior_variance": 0.136171,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_score": 0.7938,
+      "prior_variance": 0.125971,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Angoul\u00eame",
+      "path": "europe/france/aquitaine/angouleme",
+      "prior_score": 1.4355,
+      "prior_variance": 0.133577,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Le Touquet",
+      "path": "europe/france/nord/le_touquet",
+      "prior_score": 0.6038,
+      "prior_variance": 0.143913,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Juist",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/juist",
+      "prior_score": -1.1075,
+      "prior_variance": 0.152823,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Krynica-Zdr\u00f3j",
+      "path": "europe/poland/krynicazdroj",
+      "prior_score": -0.0589,
+      "prior_variance": 0.127533,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Gdynia",
+      "path": "europe/poland/gdynia",
+      "prior_score": 0.4071,
+      "prior_variance": 0.120025,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Melfi",
+      "path": "europe/italy/basilicata/melfi",
+      "prior_score": -0.2129,
+      "prior_variance": 0.127727,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Nanaimo",
+      "path": "northamerica/canada/britishcolumbia/nanaimo",
+      "prior_score": 0.005,
+      "prior_variance": 0.139814,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Tonder",
+      "path": "europe/denmark/tonder",
+      "prior_score": -1.6686,
+      "prior_variance": 0.141351,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Flor\u00f8",
+      "path": "europe/norway/flor",
+      "prior_score": -0.6791,
+      "prior_variance": 0.116214,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Pogradec",
+      "path": "europe/albania/pogradec",
+      "prior_score": 0.0215,
+      "prior_variance": 0.143259,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Astana",
+      "path": "asia/kazakhstan/astana",
+      "prior_score": -0.6449,
+      "prior_variance": 0.157247,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Tiznit",
+      "path": "africa/morocco/tiznit",
+      "prior_score": -0.459,
+      "prior_variance": 0.142649,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Serowe",
+      "path": "africa/botswana/serowe",
+      "prior_score": -3.1848,
+      "prior_variance": 0.140197,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Spring Green",
+      "path": "northamerica/unitedstates/wisconsin/spring_green",
+      "prior_score": -1.53,
+      "prior_variance": 0.136358,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Rensselaer, Indiana",
+      "path": "northamerica/unitedstates/rensselaer_indiana",
+      "prior_score": -7.8068,
+      "prior_variance": 0.359805,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Gaza Strip",
+      "path": "asia/palestinianauthority/gazastrip",
+      "prior_score": -14.5606,
+      "prior_variance": 1.132566,
+      "prior_n": 10
+    }
+  ]
+}

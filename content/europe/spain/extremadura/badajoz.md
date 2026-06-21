@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Archivo_Hist%C3%B3rico_Pro
 latitude: 38.878187
 loc_type: city
 longitude: -6.970111
-score: 0.47
+score: 0.38
 title: Badajoz
 type: location
 ---

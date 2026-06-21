@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:02023_0730_Lantzut_photogr
 latitude: 50.0696
 loc_type: city
 longitude: 22.2335
-score: 0.47
+score: 0.41
 title: Lancut
 type: location
 ---

@@ -1,200 +1,200 @@
 {
   "round": 1532,
-  "timestamp": "2026-04-13T10:28:58",
+  "timestamp": "2026-06-13T20:36:15",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Sarlat",
-      "path": "europe/france/midi/dordogne/sarlat",
-      "prior_score": 8.4999,
-      "prior_variance": 0.639027,
-      "prior_n": 3
+      "title": "Grand Canyon",
+      "path": "northamerica/unitedstates/arizona/grandcanyon",
+      "prior_score": 15.787,
+      "prior_variance": 0.605701,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Ragusa",
-      "path": "europe/italy/sicily/ragusa",
-      "prior_score": 7.8543,
-      "prior_variance": 0.410587,
+      "title": "Rio de Janeiro",
+      "path": "southamerica/brazil/riodejaneiro",
+      "prior_score": 14.8145,
+      "prior_variance": 0.786324,
       "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Regensburg",
-      "path": "europe/germany/bavaria/regensburg",
-      "prior_score": 6.8083,
-      "prior_variance": 0.323767,
+      "title": "Erice",
+      "path": "europe/italy/sicily/erice",
+      "prior_score": 6.2988,
+      "prior_variance": 0.325762,
       "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Wroclaw",
-      "path": "europe/poland/wroclaw",
-      "prior_score": 3.2121,
-      "prior_variance": 0.478637,
-      "prior_n": 3
+      "title": "Giverny",
+      "path": "europe/france/normandybrittany/giverny",
+      "prior_score": 7.7012,
+      "prior_variance": 0.410059,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Gondar",
-      "path": "africa/ethiopia/gondar",
-      "prior_score": 2.9322,
-      "prior_variance": 0.442893,
-      "prior_n": 3
+      "title": "Cousin Island",
+      "path": "africa/seychelles/cousinisland",
+      "prior_score": 4.0362,
+      "prior_variance": 0.382191,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Anguilla",
-      "path": "northamerica/anguilla",
-      "prior_score": 6.2704,
-      "prior_variance": 0.503911,
-      "prior_n": 3
+      "title": "Axum",
+      "path": "africa/ethiopia/axum",
+      "prior_score": 4.025,
+      "prior_variance": 0.355484,
+      "prior_n": 5
     },
     {
       "rank": 7,
-      "title": "Pamir Highway",
-      "path": "asia/tajikistan/pamir_highway",
-      "prior_score": 4.9864,
-      "prior_variance": 0.532144,
-      "prior_n": 3
+      "title": "Gelati Monastery",
+      "path": "europe/georgia/gelati",
+      "prior_score": 1.7829,
+      "prior_variance": 0.349022,
+      "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "Cop\u00e1n",
-      "path": "northamerica/honduras/copan",
-      "prior_score": 3.3983,
-      "prior_variance": 0.440434,
-      "prior_n": 3
+      "title": "Goslar",
+      "path": "europe/germany/lowersaxony/goslar",
+      "prior_score": 4.2817,
+      "prior_variance": 0.279212,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Moray",
-      "path": "southamerica/peru/moray",
-      "prior_score": 3.2024,
-      "prior_variance": 0.393373,
-      "prior_n": 4
+      "title": "Bouillon",
+      "path": "europe/belgium/bouillon",
+      "prior_score": 1.8258,
+      "prior_variance": 0.30657,
+      "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Zipaquira",
-      "path": "southamerica/colombia/zipaquira",
-      "prior_score": 3.0774,
-      "prior_variance": 0.410674,
-      "prior_n": 4
+      "title": "Panaji",
+      "path": "asia/india/goa/panaji",
+      "prior_score": 1.8578,
+      "prior_variance": 0.308291,
+      "prior_n": 5
     },
     {
       "rank": 11,
-      "title": "Granada",
-      "path": "northamerica/nicaragua/granada",
-      "prior_score": 3.3301,
-      "prior_variance": 0.509593,
-      "prior_n": 3
+      "title": "Marathon",
+      "path": "europe/greece/marathon",
+      "prior_score": 1.9866,
+      "prior_variance": 0.274084,
+      "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "Balicasag Island",
-      "path": "asia/philippines/bohol/balicasag",
-      "prior_score": 5.8956,
-      "prior_variance": 0.418995,
+      "title": "Chiavenna",
+      "path": "europe/italy/lombardia/chiavenna",
+      "prior_score": 1.1735,
+      "prior_variance": 0.321971,
       "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Palolem",
-      "path": "asia/india/goa/palolim",
-      "prior_score": 4.108,
-      "prior_variance": 0.293579,
-      "prior_n": 6
+      "title": "Imperia",
+      "path": "europe/italy/liguria/imperia",
+      "prior_score": 0.4078,
+      "prior_variance": 0.252819,
+      "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "LLanes",
-      "path": "europe/spain/northernspain/llanes",
-      "prior_score": 4.5796,
-      "prior_variance": 0.388941,
+      "title": "Taichung",
+      "path": "asia/taiwan/taichung",
+      "prior_score": 4.6183,
+      "prior_variance": 0.323331,
       "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Laigueglia",
-      "path": "europe/italy/liguria/rivieradellepalme/laigueglia",
-      "prior_score": 2.0503,
-      "prior_variance": 0.530508,
-      "prior_n": 3
+      "title": "San Gerardo de Rivas",
+      "path": "northamerica/costarica/san_gerardo_de_rivas",
+      "prior_score": 1.6521,
+      "prior_variance": 0.271404,
+      "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "Cagnes-sur-Mer",
-      "path": "europe/france/midi/cotedazur/cagne",
-      "prior_score": 3.867,
-      "prior_variance": 0.362605,
-      "prior_n": 4
+      "title": "Piraeus",
+      "path": "europe/greece/piraeus",
+      "prior_score": 0.3467,
+      "prior_variance": 0.30029,
+      "prior_n": 5
     },
     {
       "rank": 17,
-      "title": "Sweden",
-      "path": "europe/sweden",
-      "prior_score": 1.551,
-      "prior_variance": 0.551802,
-      "prior_n": 3
+      "title": "Ceibal",
+      "path": "northamerica/guatemala/ceibal",
+      "prior_score": -0.9428,
+      "prior_variance": 0.272158,
+      "prior_n": 5
     },
     {
       "rank": 18,
-      "title": "Frankfurt",
-      "path": "europe/germany/hesse/frankfurt",
-      "prior_score": 2.9116,
-      "prior_variance": 0.530441,
-      "prior_n": 3
+      "title": "Lake Nicaragua",
+      "path": "northamerica/nicaragua/lakenicaragua",
+      "prior_score": -0.586,
+      "prior_variance": 0.263352,
+      "prior_n": 5
     },
     {
       "rank": 19,
-      "title": "Steingaden",
-      "path": "europe/germany/bavaria/romanticroad/steingaden",
-      "prior_score": 3.4509,
-      "prior_variance": 0.610111,
-      "prior_n": 3
+      "title": "Portsmouth",
+      "path": "northamerica/thecaribbean/dominica/portsmouth",
+      "prior_score": -0.2065,
+      "prior_variance": 0.256181,
+      "prior_n": 5
     },
     {
       "rank": 20,
-      "title": "Playa de Palma",
-      "path": "europe/spain/balearicislands/mallorca/playa_de_palma",
-      "prior_score": 4.4287,
-      "prior_variance": 0.425617,
-      "prior_n": 3
+      "title": "Woodinville",
+      "path": "northamerica/unitedstates/washington/woodinville",
+      "prior_score": -3.1153,
+      "prior_variance": 0.301415,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Tampa Bay Area",
-      "path": "northamerica/unitedstates/florida/tampabayarea",
-      "prior_score": 2.2026,
-      "prior_variance": 0.390693,
+      "title": "Roermond",
+      "path": "europe/netherlands/roermond",
+      "prior_score": -0.2167,
+      "prior_variance": 0.255759,
       "prior_n": 5
     },
     {
       "rank": 22,
-      "title": "South Carolina",
-      "path": "northamerica/unitedstates/southcarolina",
-      "prior_score": 3.103,
-      "prior_variance": 0.383214,
-      "prior_n": 4
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+      "prior_score": -2.9049,
+      "prior_variance": 0.296169,
+      "prior_n": 5
     },
     {
       "rank": 23,
-      "title": "Hainan island",
-      "path": "asia/china/hainanisland",
-      "prior_score": 4.0619,
-      "prior_variance": 0.379473,
+      "title": "Kamianiec",
+      "path": "europe/belarus/kamianiec_litosk",
+      "prior_score": -8.342,
+      "prior_variance": 0.358439,
       "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Gonarezhou",
-      "path": "africa/zimbabwe/gonarezhou",
-      "prior_score": 1.2514,
-      "prior_variance": 0.642312,
-      "prior_n": 3
+      "title": "Kufra",
+      "path": "africa/libya/kufra",
+      "prior_score": -11.1066,
+      "prior_variance": 0.555387,
+      "prior_n": 4
     }
   ]
 }

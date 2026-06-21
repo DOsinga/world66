@@ -1,0 +1,200 @@
+{
+  "round": 3319,
+  "timestamp": "2026-06-13T22:45:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ha Long Bay",
+      "path": "asia/vietnam/halongbay",
+      "prior_score": 10.9209,
+      "prior_variance": 0.549349,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Mount Fuji",
+      "path": "asia/japan/honshu/mount_fuji",
+      "prior_score": 11.5779,
+      "prior_variance": 0.442561,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Hoi An",
+      "path": "asia/vietnam/hoian",
+      "prior_score": 10.174,
+      "prior_variance": 0.40014,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Baquerizo Moreno",
+      "path": "southamerica/ecuador/galapagosislands/puerto_baquerizo_moreno",
+      "prior_score": 8.2848,
+      "prior_variance": 0.218068,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Uyuni",
+      "path": "southamerica/bolivia/uyuni",
+      "prior_score": 7.0658,
+      "prior_variance": 0.249336,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Hallstatt",
+      "path": "europe/austria/hallstatt",
+      "prior_score": 9.8504,
+      "prior_variance": 0.329427,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/utah/springdale",
+      "prior_score": 5.1843,
+      "prior_variance": 0.165534,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Hanoi",
+      "path": "asia/vietnam/hanoi",
+      "prior_score": 7.6784,
+      "prior_variance": 0.187913,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Amritsar",
+      "path": "asia/india/punjab/amritsar",
+      "prior_score": 6.8133,
+      "prior_variance": 0.164999,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Ciudad Perdida",
+      "path": "southamerica/colombia/ciudadperdida",
+      "prior_score": 5.7438,
+      "prior_variance": 0.167434,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Khao Yai National Park",
+      "path": "asia/thailand/khaoyainationalpark",
+      "prior_score": 6.293,
+      "prior_variance": 0.175503,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Ghent",
+      "path": "europe/belgium/ghent",
+      "prior_score": 7.0375,
+      "prior_variance": 0.169798,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Vagan",
+      "path": "europe/norway/lofotenislands/vagan",
+      "prior_score": 5.9448,
+      "prior_variance": 0.174291,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Gili Islands",
+      "path": "asia/indonesia/lombok/giliislands",
+      "prior_score": 7.1398,
+      "prior_variance": 0.200565,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/south_east/oxford",
+      "prior_score": 6.5036,
+      "prior_variance": 0.218455,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Albarrac\u00edn",
+      "path": "europe/spain/aragon/albarracin",
+      "prior_score": 5.5507,
+      "prior_variance": 0.137758,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Punta Cana",
+      "path": "northamerica/dominicanrepublic/punta_cana",
+      "prior_score": 6.8904,
+      "prior_variance": 0.170119,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "San Crist\u00f3bal de las Casas",
+      "path": "northamerica/mexico/sancristobaldelascasas",
+      "prior_score": 4.2166,
+      "prior_variance": 0.140514,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Courmayeur",
+      "path": "europe/italy/valledaosta/courmayeur",
+      "prior_score": 5.466,
+      "prior_variance": 0.161997,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Parma",
+      "path": "europe/italy/emiliaromagna/parma",
+      "prior_score": 4.2437,
+      "prior_variance": 0.126833,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Toulouse",
+      "path": "europe/france/midi/languedoc/toulouse",
+      "prior_score": 3.9302,
+      "prior_variance": 0.182258,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Nuoro",
+      "path": "europe/italy/sardinia/nuoro",
+      "prior_score": 1.3328,
+      "prior_variance": 0.113685,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Dunster",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dunster",
+      "prior_score": 0.2443,
+      "prior_variance": 0.114458,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Parakou",
+      "path": "africa/benin/parakou",
+      "prior_score": -4.9627,
+      "prior_variance": 0.161798,
+      "prior_n": 10
+    }
+  ]
+}

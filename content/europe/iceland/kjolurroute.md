@@ -5,7 +5,7 @@ latitude: 64.85
 longitude: -19.55
 title: Kjölur Route
 type: location
-score: 0.67
+score: 0.51
 loc_type: feature
 ---
 

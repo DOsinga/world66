@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arvidsjaur-church_1.jpg
 latitude: 65.5928
 loc_type: city
 longitude: 19.1736
-score: 0.39
+score: 0.35
 title: Arvidsjaur
 type: location
 ---

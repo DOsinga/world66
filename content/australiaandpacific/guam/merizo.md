@@ -5,7 +5,7 @@ done:
 latitude: 13.268297
 loc_type: city
 longitude: 144.672611
-score: 0.44
+score: 0.39
 title: Merizo
 type: location
 image: merizo.jpg

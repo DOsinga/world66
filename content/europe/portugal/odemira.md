@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Odemira_-_Zambujeira_do_Ma
 latitude: 37.5976
 loc_type: city
 longitude: -8.6422
-score: 0.5
+score: 0.4
 title: Odemira
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 27.1441
 loc_type: city
 longitude: 87.7661
-score: 0.4
+score: 0.32
 title: Phidim
 type: location
 image: phidim.jpg

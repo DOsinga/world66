@@ -1,0 +1,200 @@
+{
+  "round": 3722,
+  "timestamp": "2026-06-13T23:15:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cayos Cochinos",
+      "path": "northamerica/honduras/bayislands/cayos_cochinos",
+      "prior_score": 2.3698,
+      "prior_variance": 0.127617,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Bhaktapur",
+      "path": "asia/nepal/bhaktapur",
+      "prior_score": 5.5475,
+      "prior_variance": 0.166136,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Forte dei Marmi",
+      "path": "europe/italy/tuscany/forte_dei_marmi",
+      "prior_score": 2.1232,
+      "prior_variance": 0.264722,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Sant Feliu de Gu\u00edxols",
+      "path": "europe/spain/catalonia/sant_feliu_de_guixols",
+      "prior_score": 2.9169,
+      "prior_variance": 0.114163,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Ninh Binh",
+      "path": "asia/vietnam/ninh_binh",
+      "prior_score": 4.7533,
+      "prior_variance": 0.136258,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Dalyan",
+      "path": "asia/turkey/dalyan",
+      "prior_score": 4.3911,
+      "prior_variance": 0.12183,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Chiang Dao",
+      "path": "asia/thailand/chiang_dao",
+      "prior_score": 3.7442,
+      "prior_variance": 0.112232,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Tianzhu Mountain",
+      "path": "asia/china/anhui/tianzhu_mountain",
+      "prior_score": 1.3669,
+      "prior_variance": 0.128512,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Ipoh",
+      "path": "asia/malaysia/ipoh",
+      "prior_score": 2.8605,
+      "prior_variance": 0.116383,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Benic\u00e0ssim",
+      "path": "europe/spain/castellon/benicssim",
+      "prior_score": 0.5566,
+      "prior_variance": 0.120724,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_score": 2.2917,
+      "prior_variance": 0.110656,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Santiago",
+      "path": "southamerica/chile/santiago",
+      "prior_score": 2.7221,
+      "prior_variance": 0.144266,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Kirkenes",
+      "path": "europe/norway/kirkenes",
+      "prior_score": 1.5487,
+      "prior_variance": 0.110153,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Skomv\u00e6r",
+      "path": "europe/norway/lofotenislands/skomvr",
+      "prior_score": 0.7624,
+      "prior_variance": 0.141049,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Shimonoseki",
+      "path": "asia/japan/honshu/shimonoseki",
+      "prior_score": 1.5739,
+      "prior_variance": 0.1203,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Sligo",
+      "path": "europe/ireland/sligo",
+      "prior_score": 2.4609,
+      "prior_variance": 0.115969,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Szczecin",
+      "path": "europe/poland/szczecin",
+      "prior_score": -1.3492,
+      "prior_variance": 0.110795,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Bandarban",
+      "path": "asia/bangladesh/banderban_hill_tra",
+      "prior_score": -0.7333,
+      "prior_variance": 0.126334,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Alibaug",
+      "path": "asia/india/maharashtra/alibaug",
+      "prior_score": -1.2467,
+      "prior_variance": 0.100397,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Acapulco",
+      "path": "northamerica/mexico/acapulco",
+      "prior_score": -1.8309,
+      "prior_variance": 0.207354,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Kunitachi, Tokyo",
+      "path": "asia/japan/kunitachi_tokyo",
+      "prior_score": -1.527,
+      "prior_variance": 0.104287,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Carlisle",
+      "path": "northamerica/unitedstates/pennsylvania/carlisle",
+      "prior_score": -4.319,
+      "prior_variance": 0.123312,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Oklahoma City",
+      "path": "northamerica/unitedstates/oklahoma/oklahomacity",
+      "prior_score": -2.1848,
+      "prior_variance": 0.148109,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Fakobly",
+      "path": "africa/ivorycoast/fakobly",
+      "prior_score": -8.4428,
+      "prior_variance": 0.240185,
+      "prior_n": 11
+    }
+  ]
+}

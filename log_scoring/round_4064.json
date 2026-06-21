@@ -1,0 +1,200 @@
+{
+  "round": 4064,
+  "timestamp": "2026-06-13T23:40:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tel Aviv",
+      "path": "asia/israel/telaviv",
+      "prior_score": 5.0809,
+      "prior_variance": 0.157491,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Panama City",
+      "path": "northamerica/panama/panamacity",
+      "prior_score": 3.254,
+      "prior_variance": 0.107626,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Maun",
+      "path": "africa/botswana/maun",
+      "prior_score": 0.9484,
+      "prior_variance": 0.136069,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Podgora",
+      "path": "europe/croatia/podgora",
+      "prior_score": 1.3707,
+      "prior_variance": 0.120047,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Landsberg am Lech",
+      "path": "europe/germany/bavaria/romanticroad/landsbergamlech",
+      "prior_score": 1.8467,
+      "prior_variance": 0.101176,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Huesca",
+      "path": "europe/spain/aragon/huesca",
+      "prior_score": 0.4276,
+      "prior_variance": 0.093254,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Castello d'Empuries",
+      "path": "europe/spain/catalonia/castello_de_ampurias",
+      "prior_score": 0.7295,
+      "prior_variance": 0.09758,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Oracabessa",
+      "path": "northamerica/jamaica/oracabessa",
+      "prior_score": 0.5723,
+      "prior_variance": 0.100046,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Naantali",
+      "path": "europe/finland/naantali",
+      "prior_score": 0.6228,
+      "prior_variance": 0.093683,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Kraljevica",
+      "path": "europe/croatia/kraljevica",
+      "prior_score": -0.6233,
+      "prior_variance": 0.103955,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Bochnia",
+      "path": "europe/poland/bochnia",
+      "prior_score": -1.6929,
+      "prior_variance": 0.11406,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Ben Lomond",
+      "path": "northamerica/unitedstates/california/ben_lomond_califo",
+      "prior_score": -0.6688,
+      "prior_variance": 0.104849,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Iringa",
+      "path": "africa/tanzania/iringa",
+      "prior_score": -2.0675,
+      "prior_variance": 0.10456,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Zhengzhou",
+      "path": "asia/china/henan_province/zhengzhou",
+      "prior_score": -2.7973,
+      "prior_variance": 0.11874,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Xuzhou",
+      "path": "asia/china/jiangsu_province/xuzhou",
+      "prior_score": -3.2912,
+      "prior_variance": 0.101454,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Raigad",
+      "path": "asia/india/maharashtra/raigad",
+      "prior_score": -1.7516,
+      "prior_variance": 0.101912,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Borrego Springs",
+      "path": "northamerica/unitedstates/california/deserts/borregosprings",
+      "prior_score": -0.7052,
+      "prior_variance": 0.094936,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Monticello",
+      "path": "northamerica/unitedstates/utah/monticello",
+      "prior_score": -3.2,
+      "prior_variance": 0.136142,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Blanding",
+      "path": "northamerica/unitedstates/utah/blanding",
+      "prior_score": -3.1169,
+      "prior_variance": 0.103385,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Moclips",
+      "path": "northamerica/unitedstates/washington/moclips",
+      "prior_score": -3.0674,
+      "prior_variance": 0.107704,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Hoh Xil",
+      "path": "asia/china/qinghai/hoh-xil",
+      "prior_score": -1.2368,
+      "prior_variance": 0.12543,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Tucumcari",
+      "path": "northamerica/unitedstates/newmexico/tucumcari",
+      "prior_score": -3.6854,
+      "prior_variance": 0.112775,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "New Aberdour",
+      "path": "europe/unitedkingdom/scotland/new_aberdour",
+      "prior_score": -3.642,
+      "prior_variance": 0.137554,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Rio Gallegos",
+      "path": "southamerica/argentina/riogallegos",
+      "prior_score": -4.774,
+      "prior_variance": 0.129552,
+      "prior_n": 13
+    }
+  ]
+}

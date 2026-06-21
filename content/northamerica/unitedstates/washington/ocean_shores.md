@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ocean_Shores_clam_digging.
 latitude: 46.973703
 loc_type: city
 longitude: -124.156277
-score: 0.42
+score: 0.36
 title: Ocean Shores
 type: location
 ---

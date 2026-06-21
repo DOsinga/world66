@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Borgo_Sabotino_church_3.jp
 latitude: 41.459526
 loc_type: city
 longitude: 13.012591
-score: 0.38
+score: 0.33
 title: Latina
 type: location
 ---

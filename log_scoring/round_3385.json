@@ -1,0 +1,200 @@
+{
+  "round": 3385,
+  "timestamp": "2026-06-13T22:50:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taormina",
+      "path": "europe/italy/sicily/taormina",
+      "prior_score": 10.0338,
+      "prior_variance": 0.28383,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Portofino",
+      "path": "europe/italy/liguria/portofino",
+      "prior_score": 7.7821,
+      "prior_variance": 0.160556,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Cortona",
+      "path": "europe/italy/tuscany/cortona",
+      "prior_score": 6.887,
+      "prior_variance": 0.153177,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "F\u00fcssen",
+      "path": "europe/germany/bavaria/fussen",
+      "prior_score": 7.2898,
+      "prior_variance": 0.175238,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Oaxaca",
+      "path": "northamerica/mexico/oaxaca",
+      "prior_score": 7.7602,
+      "prior_variance": 0.18953,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Karlovy Vary",
+      "path": "europe/czechrepublic/karlovyvary",
+      "prior_score": 4.486,
+      "prior_variance": 0.104648,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Jiayuguan",
+      "path": "asia/china/gansu/jiayuguan",
+      "prior_score": 2.0928,
+      "prior_variance": 0.123506,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Novgorod",
+      "path": "europe/russia/novgorod",
+      "prior_score": 0.0705,
+      "prior_variance": 0.147277,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Katahdin",
+      "path": "northamerica/unitedstates/maine/katahdin",
+      "prior_score": 1.738,
+      "prior_variance": 0.117892,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Vejle",
+      "path": "europe/denmark/vejle",
+      "prior_score": -0.4476,
+      "prior_variance": 0.120652,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Roermond",
+      "path": "europe/netherlands/roermond",
+      "prior_score": -0.2106,
+      "prior_variance": 0.128674,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Redondela",
+      "path": "europe/spain/galicia/redondela",
+      "prior_score": -0.4297,
+      "prior_variance": 0.120046,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Bakkhali",
+      "path": "asia/india/westbengal/bakkhali",
+      "prior_score": -3.9167,
+      "prior_variance": 0.124243,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/leicester",
+      "prior_score": -1.5305,
+      "prior_variance": 0.153132,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Elmira",
+      "path": "northamerica/unitedstates/newyorkstate/elmira",
+      "prior_score": -5.7062,
+      "prior_variance": 0.205217,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Abuja",
+      "path": "africa/nigeria/abuja",
+      "prior_score": -3.6252,
+      "prior_variance": 0.130996,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Duhok",
+      "path": "asia/iraq/duhok",
+      "prior_score": -5.826,
+      "prior_variance": 0.15562,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Pie Town",
+      "path": "northamerica/unitedstates/newmexico/pie_town",
+      "prior_score": -5.0659,
+      "prior_variance": 0.173847,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Zarafshan",
+      "path": "asia/uzbekistan/zarafshan",
+      "prior_score": -6.7415,
+      "prior_variance": 0.199457,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Ilorin",
+      "path": "africa/nigeria/ilorin",
+      "prior_score": -5.7265,
+      "prior_variance": 0.165035,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Kankan",
+      "path": "africa/guineeconakry/kankan",
+      "prior_score": -7.0188,
+      "prior_variance": 0.17696,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Bangui",
+      "path": "africa/centralafricanrepublic/bangui",
+      "prior_score": -8.4187,
+      "prior_variance": 0.313596,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Biankouma",
+      "path": "africa/ivorycoast/biankouma",
+      "prior_score": -7.3848,
+      "prior_variance": 0.185412,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Qasr Libya",
+      "path": "africa/libya/qasr_libya",
+      "prior_score": -5.8372,
+      "prior_variance": 0.157053,
+      "prior_n": 11
+    }
+  ]
+}

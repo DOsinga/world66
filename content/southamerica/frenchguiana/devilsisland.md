@@ -6,7 +6,7 @@ latitude: 5.289
 longitude: -52.584
 title: Devil's Island
 type: location
-score: 0.5
+score: 0.41
 loc_type: city
 ---
 

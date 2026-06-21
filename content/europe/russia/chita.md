@@ -5,7 +5,7 @@ done:
 latitude: 52.033409
 loc_type: city
 longitude: 113.500893
-score: 0.28
+score: 0.25
 sources:
 - https://en.wikipedia.org/wiki/Chita,_Zabaykalsky_Krai
 - https://en.wikipedia.org/wiki/Titovskaya_Sopka

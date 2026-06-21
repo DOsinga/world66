@@ -5,7 +5,7 @@ latitude: 34.622222
 longitude: -76.523889
 title: Cape Lookout
 type: location
-score: 0.45
+score: 0.4
 loc_type: feature
 ---
 

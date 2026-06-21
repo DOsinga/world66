@@ -1,200 +1,200 @@
 {
   "round": 1611,
-  "timestamp": "2026-04-13T10:35:41",
+  "timestamp": "2026-06-13T20:41:21",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Reykjavik",
-      "path": "europe/iceland/reykjavik",
-      "prior_score": 11.079,
-      "prior_variance": 0.639146,
-      "prior_n": 4
+      "title": "Nikk\u014d",
+      "path": "asia/japan/honshu/nikko",
+      "prior_score": 9.8539,
+      "prior_variance": 0.537106,
+      "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Split",
-      "path": "europe/croatia/split",
-      "prior_score": 9.6205,
-      "prior_variance": 0.898385,
-      "prior_n": 3
+      "title": "Teotihuacan",
+      "path": "northamerica/mexico/teotihuacan",
+      "prior_score": 9.6408,
+      "prior_variance": 0.409833,
+      "prior_n": 5
     },
     {
       "rank": 3,
-      "title": "Corcovado National Park",
-      "path": "northamerica/costarica/corcovado",
-      "prior_score": 8.329,
-      "prior_variance": 0.574197,
-      "prior_n": 3
+      "title": "Ushuaia",
+      "path": "southamerica/argentina/patagonia/ushuaia",
+      "prior_score": 8.4952,
+      "prior_variance": 0.455934,
+      "prior_n": 5
     },
     {
       "rank": 4,
-      "title": "Franz Josef",
-      "path": "australiaandpacific/newzealand/west_coast/franzjosef",
-      "prior_score": 5.1824,
-      "prior_variance": 0.550108,
-      "prior_n": 4
+      "title": "Amboise",
+      "path": "europe/france/centre/loirevalley/amboise",
+      "prior_score": 7.2582,
+      "prior_variance": 0.365333,
+      "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Verbier",
-      "path": "europe/switzerland/verbier",
-      "prior_score": 6.5422,
-      "prior_variance": 0.325619,
-      "prior_n": 4
+      "title": "Douro Valley",
+      "path": "europe/portugal/dourovalley",
+      "prior_score": 8.1444,
+      "prior_variance": 0.34066,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Provence",
-      "path": "europe/france/midi/provence",
-      "prior_score": 10.9871,
-      "prior_variance": 0.71041,
-      "prior_n": 3
+      "title": "Baden-Baden",
+      "path": "europe/germany/badenwrttemberg/badenbaden",
+      "prior_score": 5.2699,
+      "prior_variance": 0.273961,
+      "prior_n": 5
     },
     {
       "rank": 7,
-      "title": "Samarkand",
-      "path": "asia/uzbekistan/samarkand",
-      "prior_score": 8.7893,
-      "prior_variance": 0.666099,
-      "prior_n": 3
+      "title": "Selinunte",
+      "path": "europe/italy/sicily/selinunte",
+      "prior_score": 5.492,
+      "prior_variance": 0.27507,
+      "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "Sete Cidades",
-      "path": "europe/portugal/theazores/so_miguel/sete_cidades",
-      "prior_score": 8.3944,
-      "prior_variance": 0.852146,
-      "prior_n": 3
+      "title": "Favignana",
+      "path": "europe/italy/sicily/favignana",
+      "prior_score": 6.3016,
+      "prior_variance": 0.314649,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Garden of the Gods",
-      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
-      "prior_score": 7.8063,
-      "prior_variance": 0.413869,
-      "prior_n": 4
+      "title": "Orbetello",
+      "path": "europe/italy/tuscany/orbetello",
+      "prior_score": 4.7052,
+      "prior_variance": 0.294419,
+      "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Inuyama",
-      "path": "asia/japan/honshu/inuyama",
-      "prior_score": 4.9634,
-      "prior_variance": 0.339865,
-      "prior_n": 4
+      "title": "Hameln",
+      "path": "europe/germany/lowersaxony/hameln",
+      "prior_score": 3.477,
+      "prior_variance": 0.297233,
+      "prior_n": 5
     },
     {
       "rank": 11,
-      "title": "Fornells",
-      "path": "europe/spain/balearicislands/menorca/fornells",
-      "prior_score": 4.9081,
-      "prior_variance": 0.460535,
-      "prior_n": 3
+      "title": "North Berwick",
+      "path": "europe/unitedkingdom/scotland/northberwick",
+      "prior_score": 2.3308,
+      "prior_variance": 0.298725,
+      "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "Jal\u00eb",
-      "path": "europe/albania/saranda/jal",
-      "prior_score": 2.5739,
-      "prior_variance": 0.389213,
-      "prior_n": 4
+      "title": "Berwick-upon-Tweed",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/berwickontweed",
+      "prior_score": -0.1458,
+      "prior_variance": 0.266035,
+      "prior_n": 5
     },
     {
       "rank": 13,
-      "title": "Uz\u00e8s",
-      "path": "europe/france/midi/ardeche/uzes",
-      "prior_score": 2.8023,
-      "prior_variance": 0.425686,
-      "prior_n": 3
+      "title": "Perpignan",
+      "path": "europe/france/midi/languedoc/perpignan",
+      "prior_score": 2.3189,
+      "prior_variance": 0.274809,
+      "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "Carmona",
-      "path": "europe/spain/andalucia/carmona",
-      "prior_score": 4.1113,
-      "prior_variance": 0.34216,
-      "prior_n": 4
+      "title": "Santa Marta",
+      "path": "southamerica/colombia/santamarta",
+      "prior_score": 3.822,
+      "prior_variance": 0.359293,
+      "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Luhuitou",
-      "path": "asia/china/hainanisland/luhuitou",
-      "prior_score": 1.1816,
-      "prior_variance": 0.305804,
-      "prior_n": 4
+      "title": "Ni\u0161",
+      "path": "europe/serbia/nis",
+      "prior_score": -0.8713,
+      "prior_variance": 0.243704,
+      "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "Palm Beach",
-      "path": "northamerica/unitedstates/florida/palm_beach",
-      "prior_score": 3.7642,
-      "prior_variance": 0.33014,
-      "prior_n": 4
+      "title": "Taxila",
+      "path": "asia/pakistan/taxila",
+      "prior_score": -1.3775,
+      "prior_variance": 0.36171,
+      "prior_n": 5
     },
     {
       "rank": 17,
-      "title": "Grand Marais",
-      "path": "northamerica/unitedstates/minnesota/grand_marais",
-      "prior_score": 2.132,
-      "prior_variance": 0.347606,
-      "prior_n": 4
+      "title": "Mazag\u00f3n",
+      "path": "europe/spain/andalucia/mazagon",
+      "prior_score": -0.181,
+      "prior_variance": 0.312346,
+      "prior_n": 5
     },
     {
       "rank": 18,
-      "title": "Germany",
-      "path": "europe/germany",
-      "prior_score": 0.9211,
-      "prior_variance": 0.407102,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/tavistock",
+      "prior_score": -1.5442,
+      "prior_variance": 0.34793,
       "prior_n": 5
     },
     {
       "rank": 19,
-      "title": "Leeds",
-      "path": "europe/unitedkingdom/england/leeds",
-      "prior_score": -1.0757,
-      "prior_variance": 0.331959,
-      "prior_n": 4
+      "title": "Corning",
+      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes/corning",
+      "prior_score": -0.8794,
+      "prior_variance": 0.282017,
+      "prior_n": 5
     },
     {
       "rank": 20,
-      "title": "Birmingham",
-      "path": "europe/unitedkingdom/england/birmingham_and_wes/birmingham",
-      "prior_score": -1.0965,
-      "prior_variance": 0.347106,
-      "prior_n": 4
+      "title": "Tizi Ouzou",
+      "path": "africa/algeria/tiziouzou",
+      "prior_score": -4.2808,
+      "prior_variance": 0.28388,
+      "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "Pinner",
-      "path": "europe/unitedkingdom/england/pinner",
-      "prior_score": -3.389,
-      "prior_variance": 0.44148,
-      "prior_n": 3
+      "title": "Westport",
+      "path": "northamerica/unitedstates/washington/westport",
+      "prior_score": -3.7402,
+      "prior_variance": 0.245903,
+      "prior_n": 5
     },
     {
       "rank": 22,
-      "title": "Asyut",
-      "path": "africa/egypt/asyut",
-      "prior_score": -5.5205,
-      "prior_variance": 0.398974,
-      "prior_n": 3
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_score": -4.5168,
+      "prior_variance": 0.30989,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Conakry",
-      "path": "africa/guineeconakry/conakry",
-      "prior_score": -7.1082,
-      "prior_variance": 0.414836,
-      "prior_n": 3
+      "title": "Yukon",
+      "path": "northamerica/unitedstates/oklahoma/yukon",
+      "prior_score": -7.2973,
+      "prior_variance": 0.356565,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Bhagatawala (Chak 24 SB)",
-      "path": "asia/pakistan/sargodha/bhagatawala__chak_1",
-      "prior_score": -11.0212,
-      "prior_variance": 0.584738,
-      "prior_n": 3
+      "title": "Yiwu",
+      "path": "asia/china/zhejiang/yiwu",
+      "prior_score": -4.1555,
+      "prior_variance": 0.331872,
+      "prior_n": 5
     }
   ]
 }

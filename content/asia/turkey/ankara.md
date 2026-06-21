@@ -5,14 +5,14 @@ done:
   location_enrich: '2026-06-02'
 latitude: 39.920776
 longitude: 32.85405
-score: 0.48
+score: 0.41
 title: Ankara
 type: location
 loc_type: city
 image: ankara.jpg
 image_source: https://commons.wikimedia.org/wiki/File:ANKARA_KOCATEPE_CAM%C4%B0%C4%B0.jpg
 image_license: CC BY-SA 4.0
-image_attribution: "Uğurgüler06"
+image_attribution: Uğurgüler06
 ---
 
 Ankara is a very old city that does not have much to show for that fact. Founded around 2000 BCE, it gained its modern prominence in 1923 when Mustafa Kemal Atatürk chose it as the capital of the new Turkish Republic — partly because it was far from the occupied Istanbul, and partly because it was a defensible inland city from which to build a nation.

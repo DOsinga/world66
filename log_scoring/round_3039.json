@@ -1,0 +1,200 @@
+{
+  "round": 3039,
+  "timestamp": "2026-06-13T22:24:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Andr\u00e9s",
+      "path": "southamerica/colombia/sanandresandprovidencia/sanandres",
+      "prior_score": 4.572,
+      "prior_variance": 0.176064,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/longbeach",
+      "prior_score": -0.3477,
+      "prior_variance": 0.155038,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/northcarolina/wilmington",
+      "prior_score": 0.1129,
+      "prior_variance": 0.135717,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Lake Havasu City",
+      "path": "northamerica/unitedstates/arizona/lakehavasucity",
+      "prior_score": -1.7002,
+      "prior_variance": 0.137616,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Dundalk",
+      "path": "europe/ireland/dundalk",
+      "prior_score": -2.7871,
+      "prior_variance": 0.142795,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Sister Islands",
+      "path": "asia/singapore/islands/sisterislands",
+      "prior_score": -1.5035,
+      "prior_variance": 0.153113,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Hartford",
+      "path": "northamerica/unitedstates/connecticut/hartford",
+      "prior_score": -3.2325,
+      "prior_variance": 0.137638,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Hobe Sound",
+      "path": "northamerica/unitedstates/florida/hobe_sound",
+      "prior_score": -2.7914,
+      "prior_variance": 0.151094,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Newport News",
+      "path": "northamerica/unitedstates/virginia/newportnews",
+      "prior_score": -3.6509,
+      "prior_variance": 0.18075,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Recklinghausen",
+      "path": "europe/germany/northrhinewestphalia/recklinghausen",
+      "prior_score": -3.9049,
+      "prior_variance": 0.152831,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "San Angelo",
+      "path": "northamerica/unitedstates/texas/san_angelo",
+      "prior_score": -3.4218,
+      "prior_variance": 0.14216,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Porter",
+      "path": "northamerica/unitedstates/indiana/porter",
+      "prior_score": -4.6455,
+      "prior_variance": 0.136902,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Pedro Bernardo",
+      "path": "europe/spain/centralspain/pedro_bernardo",
+      "prior_score": -4.6536,
+      "prior_variance": 0.171884,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "L\u00f6vstabruk",
+      "path": "europe/sweden/lvstabruk",
+      "prior_score": -2.1288,
+      "prior_variance": 0.140977,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Sabden",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/sabden",
+      "prior_score": -4.66,
+      "prior_variance": 0.155098,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Tanjung Pinang",
+      "path": "asia/indonesia/bintan/tanjung_pinang",
+      "prior_score": -0.7782,
+      "prior_variance": 0.133537,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Wenzhou",
+      "path": "asia/china/zhejiang/wenzhou",
+      "prior_score": -4.0689,
+      "prior_variance": 0.150614,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Pucallpa",
+      "path": "southamerica/peru/pucallpa",
+      "prior_score": -3.6339,
+      "prior_variance": 0.145642,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Sitiawan",
+      "path": "asia/malaysia/sitiawan",
+      "prior_score": -4.118,
+      "prior_variance": 0.156054,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Douglas",
+      "path": "northamerica/unitedstates/wyoming/douglas",
+      "prior_score": -5.2119,
+      "prior_variance": 0.152299,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/southdakota/madison",
+      "prior_score": -4.681,
+      "prior_variance": 0.179351,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Fianarantsoa",
+      "path": "africa/madagascar/fianarantsoa",
+      "prior_score": -3.189,
+      "prior_variance": 0.167758,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Damak",
+      "path": "asia/nepal/birtamode/damak",
+      "prior_score": -4.7991,
+      "prior_variance": 0.158853,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Jind",
+      "path": "asia/india/haryana/jind",
+      "prior_score": -5.9505,
+      "prior_variance": 0.154924,
+      "prior_n": 10
+    }
+  ]
+}

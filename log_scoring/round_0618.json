@@ -1,200 +1,200 @@
 {
   "round": 618,
-  "timestamp": "2026-04-12T10:40:03",
+  "timestamp": "2026-06-13T19:45:13",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Tassili n\u2019ajjer",
-      "path": "africa/algeria/tassilinajjer",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Queyras",
+      "path": "europe/france/alpes/queyras",
+      "prior_score": -6.0739,
+      "prior_variance": 1.266734,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Djanet",
-      "path": "africa/algeria/djanet",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Oita",
+      "path": "asia/japan/kyushu/oita",
+      "prior_score": -9.7761,
+      "prior_variance": 1.406199,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Tipasa",
-      "path": "africa/algeria/tipasa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Coche Island",
+      "path": "southamerica/venezuela/coche_island",
+      "prior_score": -6.207,
+      "prior_variance": 1.260427,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "M'zab",
-      "path": "africa/algeria/mzab",
-      "prior_mu": 22.3694,
-      "prior_sigma": 5.7615,
-      "prior_n": 1
+      "title": "Khaplu",
+      "path": "asia/pakistan/khaplu",
+      "prior_score": -9.0161,
+      "prior_variance": 0.760085,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Timgad",
-      "path": "africa/algeria/timgad",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Cavalcante",
+      "path": "southamerica/brazil/cavalcante",
+      "prior_score": -5.4835,
+      "prior_variance": 1.176299,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Tamanrasset",
-      "path": "africa/algeria/tamanrasset",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ouidah",
+      "path": "africa/benin/ouidah",
+      "prior_score": -5.8744,
+      "prior_variance": 0.848467,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Tlemcen",
-      "path": "africa/algeria/tlemcen",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Pasto",
+      "path": "southamerica/colombia/pasto",
+      "prior_score": -8.0127,
+      "prior_variance": 2.009245,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Constantine",
-      "path": "africa/algeria/constantine",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Rock Hall",
+      "path": "northamerica/unitedstates/maryland/rock_hall",
+      "prior_score": -7.8029,
+      "prior_variance": 1.11837,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Bejaia",
-      "path": "africa/algeria/bejaia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Berkhamsted",
+      "path": "europe/unitedkingdom/england/south_east/berkhampsted",
+      "prior_score": -8.7446,
+      "prior_variance": 0.782567,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Annaba",
-      "path": "africa/algeria/annaba",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Sabden",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/sabden",
+      "prior_score": -8.9747,
+      "prior_variance": 1.112063,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Setif",
-      "path": "africa/algeria/setif",
-      "prior_mu": 22.663,
-      "prior_sigma": 5.9331,
-      "prior_n": 1
+      "title": "S\u00f6dert\u00e4lje",
+      "path": "europe/sweden/sdertlje",
+      "prior_score": -8.3789,
+      "prior_variance": 0.801749,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Batna",
-      "path": "africa/algeria/batna",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Offenbach am Main",
+      "path": "europe/germany/hessen/offenbachammain",
+      "prior_score": -8.24,
+      "prior_variance": 1.654872,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Blida",
-      "path": "africa/algeria/blida",
-      "prior_mu": 22.3158,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Bernau bei Berlin",
+      "path": "europe/germany/brandenburg/bernau_bei_berlin",
+      "prior_score": -7.2295,
+      "prior_variance": 1.10586,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "jijel, algeria",
-      "path": "africa/algeria/jijel_algeria",
-      "prior_mu": 22.6521,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Toms River",
+      "path": "northamerica/unitedstates/newjersey/toms_river",
+      "prior_score": -9.0521,
+      "prior_variance": 0.885322,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Skikda",
-      "path": "africa/algeria/skikda",
-      "prior_mu": 22.2839,
-      "prior_sigma": 5.7746,
+      "title": "Simferopol",
+      "path": "europe/ukraine/crimea/simferopol",
+      "prior_score": -10.3565,
+      "prior_variance": 1.492559,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "El oued",
-      "path": "africa/algeria/eloued",
-      "prior_mu": 18.2734,
-      "prior_sigma": 6.7537,
+      "title": "Dayton",
+      "path": "northamerica/unitedstates/ohio/dayton",
+      "prior_score": -7.4105,
+      "prior_variance": 1.467322,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Bechar",
-      "path": "africa/algeria/bechar",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Juiz de Fora",
+      "path": "southamerica/brazil/juiz_de_fora",
+      "prior_score": -8.752,
+      "prior_variance": 1.165194,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "In Salah",
-      "path": "africa/algeria/insalah",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tirunelveli",
+      "path": "asia/india/tamilnadu/tirunelveli",
+      "prior_score": -7.795,
+      "prior_variance": 0.822031,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Vialar",
-      "path": "africa/algeria/vialar",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Thane",
+      "path": "asia/india/maharashtra/thane",
+      "prior_score": -9.2944,
+      "prior_variance": 1.528321,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Yakouren",
-      "path": "africa/algeria/yakouren",
-      "prior_mu": 22.7078,
-      "prior_sigma": 5.7038,
-      "prior_n": 1
+      "title": "Huangshi",
+      "path": "asia/china/hubei/huangshi",
+      "prior_score": -8.0481,
+      "prior_variance": 0.970766,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "m sila",
-      "path": "africa/algeria/m_sila",
-      "prior_mu": 21.9264,
-      "prior_sigma": 5.7103,
-      "prior_n": 1
+      "title": "Xinyu",
+      "path": "asia/china/jiangxi/xinyu",
+      "prior_score": -10.7264,
+      "prior_variance": 0.779113,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Tindouf",
-      "path": "africa/algeria/tindouf",
-      "prior_mu": 22.5774,
-      "prior_sigma": 5.9008,
-      "prior_n": 1
+      "title": "Chaoyang",
+      "path": "asia/china/liaoning/chaoyang",
+      "prior_score": -9.6882,
+      "prior_variance": 0.76855,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "In Guezzam",
-      "path": "africa/algeria/inguezzam",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Krasnovodsk (T\u00fcrkmenba\u015fy)",
+      "path": "asia/turkmenistan/krasnovodsk",
+      "prior_score": -9.4704,
+      "prior_variance": 1.787263,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Algeria",
-      "path": "africa/algeria",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Acalayong",
+      "path": "africa/equatorialguinea/riomuni/acalayong",
+      "prior_score": -13.8173,
+      "prior_variance": 6.881387,
+      "prior_n": 6
     }
   ]
 }

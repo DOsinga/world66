@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Atardecer_Las_Hadas.JPG
 latitude: 19.0506
 loc_type: city
 longitude: -104.316
-score: 0.49
+score: 0.44
 title: Manzanillo
 type: location
 ---

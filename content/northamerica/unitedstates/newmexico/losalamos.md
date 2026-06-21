@@ -5,7 +5,7 @@ latitude: 35.8814
 longitude: -106.299
 title: Los Alamos
 type: location
-score: 0.43
+score: 0.37
 loc_type: city
 image: losalamos.jpg
 image_source: https://www.flickr.com/photos/21874566@N07/20293334623

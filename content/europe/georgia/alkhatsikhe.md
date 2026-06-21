@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Akhaltsike,_view_from_Raba
 latitude: 41.639513
 loc_type: city
 longitude: 42.985923
-score: 0.51
+score: 0.42
 title: Akhaltsikhe
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Gatlinburg,_Tenne
 latitude: 35.7143
 loc_type: city
 longitude: -83.5102
-score: 0.61
+score: 0.51
 title: Gatlinburg
 type: location
 ---

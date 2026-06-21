@@ -7,7 +7,7 @@ done:
 latitude: -32.8908
 loc_type: city
 longitude: -68.8272
-score: 0.65
+score: 0.56
 title: Mendoza
 type: location
 ---

@@ -16,6 +16,7 @@ sources:
 - https://en.wikipedia.org/wiki/Sagarmatha_National_Park
 title: Khumbu
 type: location
+score: 0.68
 ---
 
 The Khumbu — also called the Everest Region — is the most celebrated trekking destination on earth, a high-altitude valley in northeastern Nepal that leads to the base of the world's highest mountain. But the Khumbu is more than the approach to Everest. It is the homeland of the Sherpa people, one of the most remarkable mountain cultures on earth; it encompasses three distinct trekking routes of varying length and difficulty; and it protects the extraordinary Sagarmatha National Park, a UNESCO World Heritage Site where the Himalayan environment exists essentially as it did before the roads came.

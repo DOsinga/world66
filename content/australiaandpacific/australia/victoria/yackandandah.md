@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:YackandandahMainStreet.JPG
 latitude: -36.3299
 loc_type: city
 longitude: 146.8517
-score: 0.42
+score: 0.38
 title: Yackandandah
 type: location
 ---

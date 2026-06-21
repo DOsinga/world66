@@ -1,0 +1,200 @@
+{
+  "round": 2713,
+  "timestamp": "2026-06-13T22:01:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Uchisar",
+      "path": "asia/turkey/cappadocia/uchisar",
+      "prior_score": 9.0051,
+      "prior_variance": 0.232105,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Manuel Antonio",
+      "path": "northamerica/costarica/manuelantonio",
+      "prior_score": 8.2321,
+      "prior_variance": 0.21459,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Ljubljana",
+      "path": "europe/slovenia/ljubljana",
+      "prior_score": 7.2717,
+      "prior_variance": 0.208647,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Sibenik",
+      "path": "europe/croatia/sibenik",
+      "prior_score": 5.2375,
+      "prior_variance": 0.228848,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Bologna",
+      "path": "europe/italy/emiliaromagna/bologna",
+      "prior_score": 8.1426,
+      "prior_variance": 0.243465,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Hua Hin",
+      "path": "asia/thailand/huahin",
+      "prior_score": 5.0419,
+      "prior_variance": 0.164676,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Fort Lauderdale",
+      "path": "northamerica/unitedstates/florida/fortlauderdale",
+      "prior_score": 1.2101,
+      "prior_variance": 0.158974,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Sosua",
+      "path": "northamerica/dominicanrepublic/puertoplata/sosua",
+      "prior_score": 0.5398,
+      "prior_variance": 0.174167,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Mamaia",
+      "path": "europe/romania/mamaia",
+      "prior_score": -0.3252,
+      "prior_variance": 0.181231,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Prachinburi",
+      "path": "asia/thailand/prachinburi",
+      "prior_score": -3.1454,
+      "prior_variance": 0.150418,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Mawlamyaing",
+      "path": "asia/myanmar/mawlamyaing",
+      "prior_score": -3.021,
+      "prior_variance": 0.185736,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Kintampo",
+      "path": "africa/ghana/kintampo",
+      "prior_score": -4.824,
+      "prior_variance": 0.179246,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Heerenveen",
+      "path": "europe/netherlands/friesland/heerenveen",
+      "prior_score": -2.0033,
+      "prior_variance": 0.152986,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Ru\u017eomberok",
+      "path": "europe/slovakia/ruomberok",
+      "prior_score": -2.9516,
+      "prior_variance": 0.15595,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_score": -2.0636,
+      "prior_variance": 0.135061,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Pepin",
+      "path": "northamerica/unitedstates/wisconsin/pepin",
+      "prior_score": -4.8702,
+      "prior_variance": 0.168998,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Pawhuska",
+      "path": "northamerica/unitedstates/oklahoma/pawhuska",
+      "prior_score": -4.5597,
+      "prior_variance": 0.199737,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Baoji",
+      "path": "asia/china/shaanxi/baoji",
+      "prior_score": -4.2841,
+      "prior_variance": 0.162945,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Huai'an",
+      "path": "asia/china/jiangsu_province/huaian",
+      "prior_score": -4.395,
+      "prior_variance": 0.17955,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Rio Gallegos",
+      "path": "southamerica/argentina/riogallegos",
+      "prior_score": -5.06,
+      "prior_variance": 0.212687,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Gon\u00e2ve Island",
+      "path": "northamerica/thecaribbean/haiti/gonaveisland",
+      "prior_score": -5.1205,
+      "prior_variance": 0.149831,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/eastern_england/thetfordnorfolk",
+      "prior_score": -5.189,
+      "prior_variance": 0.273519,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Brentwood",
+      "path": "northamerica/unitedstates/california/brentwood",
+      "prior_score": -5.2029,
+      "prior_variance": 0.21229,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Hyderabad",
+      "path": "asia/pakistan/hyderabad",
+      "prior_score": -5.6197,
+      "prior_variance": 0.209416,
+      "prior_n": 8
+    }
+  ]
+}

@@ -1,200 +1,200 @@
 {
   "round": 923,
-  "timestamp": "2026-04-12T14:50:21",
+  "timestamp": "2026-06-13T20:01:06",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Flakstad",
-      "path": "europe/norway/lofotenislands/flakstad",
-      "prior_score": 6.134,
-      "prior_variance": 0.88913,
+      "title": "Coyote Buttes South",
+      "path": "northamerica/unitedstates/utah/south_coyote_butte",
+      "prior_score": 0.7578,
+      "prior_variance": 0.64894,
       "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Staniel Cay",
-      "path": "northamerica/bahamas/exumas/staniel_cay",
-      "prior_score": 9.2167,
-      "prior_variance": 3.181019,
-      "prior_n": 1
+      "title": "Laguna de Apoyo",
+      "path": "northamerica/nicaragua/laguna_de_apoyo",
+      "prior_score": 1.908,
+      "prior_variance": 0.558995,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Cape Cod",
-      "path": "northamerica/unitedstates/massachusetts/capecod",
-      "prior_score": -12.1659,
-      "prior_variance": 8.276266,
-      "prior_n": 1
+      "title": "Lake Izabal",
+      "path": "northamerica/guatemala/lakeizabal",
+      "prior_score": 4.4089,
+      "prior_variance": 0.439725,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Melk",
-      "path": "europe/austria/melk",
-      "prior_score": 4.8099,
-      "prior_variance": 1.475189,
-      "prior_n": 1
-    },
-    {
-      "rank": 5,
-      "title": "Lakes District",
-      "path": "southamerica/chile/lakesdistrict",
-      "prior_score": 6.2936,
-      "prior_variance": 1.006436,
+      "title": "Zagora",
+      "path": "africa/morocco/zagora",
+      "prior_score": 3.7538,
+      "prior_variance": 0.868839,
       "prior_n": 2
     },
     {
+      "rank": 5,
+      "title": "Bagamoyo",
+      "path": "africa/tanzania/bagamoyo",
+      "prior_score": -0.139,
+      "prior_variance": 0.496962,
+      "prior_n": 3
+    },
+    {
       "rank": 6,
-      "title": "Villarrica",
-      "path": "southamerica/chile/villarrica",
-      "prior_score": 3.2759,
-      "prior_variance": 0.80392,
+      "title": "Monte Gordo",
+      "path": "europe/portugal/algarve/monto_gordo",
+      "prior_score": 0.6336,
+      "prior_variance": 0.602863,
       "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Iquique",
-      "path": "southamerica/chile/iquique",
-      "prior_score": 1.2736,
-      "prior_variance": 0.736992,
-      "prior_n": 2
+      "title": "Hallein",
+      "path": "europe/austria/hallein",
+      "prior_score": 2.2844,
+      "prior_variance": 0.419391,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Anchorage",
-      "path": "northamerica/unitedstates/alaska/anchorage",
-      "prior_score": 3.0662,
-      "prior_variance": 1.25161,
-      "prior_n": 1
+      "title": "Pirna",
+      "path": "europe/germany/saxony/pirna",
+      "prior_score": -1.0313,
+      "prior_variance": 0.782315,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Texas",
-      "path": "northamerica/unitedstates/texas",
-      "prior_score": 3.588,
-      "prior_variance": 1.445771,
-      "prior_n": 1
+      "title": "Dilijan",
+      "path": "europe/armenia/tavush_marz/dilijan",
+      "prior_score": -0.2341,
+      "prior_variance": 0.468119,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Chattanooga",
-      "path": "northamerica/unitedstates/tennessee/chattanooga",
-      "prior_score": 2.6732,
-      "prior_variance": 1.445479,
-      "prior_n": 1
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_score": -2.9201,
+      "prior_variance": 0.607343,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Broads",
-      "path": "europe/unitedkingdom/england/eastern_england/broads",
-      "prior_score": 2.9683,
-      "prior_variance": 1.571514,
-      "prior_n": 1
+      "title": "Hulun Lake",
+      "path": "asia/china/innermongolia/hulun_lake",
+      "prior_score": 2.0828,
+      "prior_variance": 0.66818,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "The Palouse",
-      "path": "northamerica/unitedstates/washington/the_palouse",
-      "prior_score": -1.1145,
-      "prior_variance": 1.357027,
-      "prior_n": 1
+      "title": "Malvern Hills",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/malvern_hills",
+      "prior_score": 0.3539,
+      "prior_variance": 0.635201,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Ruidoso",
-      "path": "northamerica/unitedstates/newmexico/ruidoso",
-      "prior_score": 0.2481,
-      "prior_variance": 0.695979,
+      "title": "Nevada City",
+      "path": "northamerica/unitedstates/california/goldcountry/nevadacity",
+      "prior_score": 1.3479,
+      "prior_variance": 0.619865,
       "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Ozark National Scenic Riverways",
-      "path": "northamerica/unitedstates/missouri/ozark",
-      "prior_score": -0.5565,
-      "prior_variance": 1.375613,
-      "prior_n": 1
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_score": 0.3917,
+      "prior_variance": 0.561762,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Rehoboth Beach",
-      "path": "northamerica/unitedstates/delaware/rehobothbeach",
-      "prior_score": -4.073,
-      "prior_variance": 0.694742,
+      "title": "La Sila",
+      "path": "europe/italy/calabria/la_sila",
+      "prior_score": -1.4004,
+      "prior_variance": 0.608689,
       "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Velez Malaga",
-      "path": "europe/spain/andalucia/velezmalaga",
-      "prior_score": 3.7581,
-      "prior_variance": 1.374651,
-      "prior_n": 1
+      "title": "Hjo",
+      "path": "europe/sweden/hjo",
+      "prior_score": -0.1744,
+      "prior_variance": 0.513264,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Clonmel",
-      "path": "europe/ireland/clonmel",
-      "prior_score": 0.3157,
-      "prior_variance": 1.204245,
-      "prior_n": 1
+      "title": "Prescott",
+      "path": "northamerica/unitedstates/arizona/prescott",
+      "prior_score": -0.3404,
+      "prior_variance": 0.726411,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Madison County & Winterset",
-      "path": "northamerica/unitedstates/iowa/madison_county__w",
-      "prior_score": -2.2106,
-      "prior_variance": 1.244536,
-      "prior_n": 1
+      "title": "Balboa",
+      "path": "northamerica/panama/balboa",
+      "prior_score": -0.1458,
+      "prior_variance": 0.591669,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Quillota",
-      "path": "southamerica/chile/quillota",
-      "prior_score": -4.0354,
-      "prior_variance": 0.725995,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_score": 0.325,
+      "prior_variance": 0.604968,
       "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Ullal",
-      "path": "asia/india/karnataka/konkan_coast/ullal",
-      "prior_score": -2.6471,
-      "prior_variance": 0.740399,
+      "title": "Williams",
+      "path": "northamerica/unitedstates/arizona/williams",
+      "prior_score": 0.3642,
+      "prior_variance": 0.880027,
       "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Vlasenica",
-      "path": "europe/bosniaandherzegovina/vlasenica",
-      "prior_score": -11.3121,
-      "prior_variance": 2.254644,
-      "prior_n": 1
+      "title": "Winterberg",
+      "path": "europe/germany/northrhinewestphalia/sauerland/winterberg",
+      "prior_score": -0.6593,
+      "prior_variance": 0.479596,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Ngazidja",
-      "path": "africa/comoros/ngazidja",
-      "prior_score": -1.3015,
-      "prior_variance": 1.326212,
-      "prior_n": 1
+      "title": "Cincinnati",
+      "path": "northamerica/unitedstates/ohio/cincinnati",
+      "prior_score": 1.0071,
+      "prior_variance": 0.488659,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Asaba, Delta State",
-      "path": "africa/nigeria/asaba_delta_state",
-      "prior_score": -6.2162,
-      "prior_variance": 1.075501,
-      "prior_n": 1
+      "title": "Kissimmee",
+      "path": "northamerica/unitedstates/florida/kissimmee",
+      "prior_score": -2.1948,
+      "prior_variance": 2.220666,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Gaza Strip",
-      "path": "asia/palestinianauthority/gazastrip",
-      "prior_score": -13.3231,
-      "prior_variance": 7.278199,
-      "prior_n": 2
+      "title": "Atlantic City",
+      "path": "northamerica/unitedstates/newjersey/atlanticcity",
+      "prior_score": -1.4004,
+      "prior_variance": 0.592777,
+      "prior_n": 3
     }
   ]
 }

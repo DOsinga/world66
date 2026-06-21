@@ -1,0 +1,200 @@
+{
+  "round": 2419,
+  "timestamp": "2026-06-13T21:41:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/manhattan_beach",
+      "prior_score": 0.6239,
+      "prior_variance": 0.197548,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Mindo",
+      "path": "southamerica/ecuador/mindo",
+      "prior_score": 3.182,
+      "prior_variance": 0.197511,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Lower Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/lowerhutt",
+      "prior_score": -3.3812,
+      "prior_variance": 0.170141,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Morristown",
+      "path": "northamerica/unitedstates/newjersey/morristown",
+      "prior_score": -3.7961,
+      "prior_variance": 0.183565,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_score": -2.3984,
+      "prior_variance": 0.199765,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Saskatoon",
+      "path": "northamerica/canada/saskatchewan/saskatoon",
+      "prior_score": -2.0977,
+      "prior_variance": 0.167266,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Lansing",
+      "path": "northamerica/unitedstates/michigan/lansing",
+      "prior_score": -3.9548,
+      "prior_variance": 0.179833,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Brigham City",
+      "path": "northamerica/unitedstates/utah/brigham_city",
+      "prior_score": -4.0462,
+      "prior_variance": 0.186657,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Navoi",
+      "path": "asia/uzbekistan/navoi",
+      "prior_score": -6.2248,
+      "prior_variance": 0.188014,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/paraguay/concepcion",
+      "prior_score": -4.9429,
+      "prior_variance": 0.200491,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Park Falls",
+      "path": "northamerica/unitedstates/wisconsin/parkfalls",
+      "prior_score": -5.8096,
+      "prior_variance": 0.269491,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Elmira",
+      "path": "northamerica/unitedstates/newyorkstate/elmira",
+      "prior_score": -5.9498,
+      "prior_variance": 0.280231,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Midland",
+      "path": "northamerica/unitedstates/texas/midland",
+      "prior_score": -6.2867,
+      "prior_variance": 0.252621,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Muskogee",
+      "path": "northamerica/unitedstates/oklahoma/muskogee",
+      "prior_score": -5.682,
+      "prior_variance": 0.229588,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Collinsville",
+      "path": "northamerica/unitedstates/illinois/collinsville",
+      "prior_score": -5.2025,
+      "prior_variance": 0.207199,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Iroquois Falls",
+      "path": "northamerica/canada/ontario/iroquoisfalls",
+      "prior_score": -5.1782,
+      "prior_variance": 0.208955,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Petrolia",
+      "path": "northamerica/canada/ontario/petrolia",
+      "prior_score": -5.8035,
+      "prior_variance": 0.234175,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Van Buren",
+      "path": "northamerica/unitedstates/arkansas/van_buren",
+      "prior_score": -5.2547,
+      "prior_variance": 0.209089,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Ust-Kamenogorsk",
+      "path": "asia/kazakhstan/ustkamenogorsk",
+      "prior_score": -5.4577,
+      "prior_variance": 0.211315,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "San Juan",
+      "path": "asia/philippines/san_juan",
+      "prior_score": -4.3293,
+      "prior_variance": 0.184087,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Henryetta",
+      "path": "northamerica/unitedstates/oklahoma/henryetta",
+      "prior_score": -7.6209,
+      "prior_variance": 0.310399,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Srikakulam",
+      "path": "asia/india/andhrapradesh/srikakulam",
+      "prior_score": -5.5256,
+      "prior_variance": 0.207294,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Sargodha",
+      "path": "asia/pakistan/sargodha",
+      "prior_score": -7.2948,
+      "prior_variance": 0.362712,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Rensselaer, Indiana",
+      "path": "northamerica/unitedstates/rensselaer_indiana",
+      "prior_score": -7.9458,
+      "prior_variance": 0.50086,
+      "prior_n": 8
+    }
+  ]
+}

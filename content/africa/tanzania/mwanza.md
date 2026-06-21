@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bismarck_Rock.jpg
 latitude: -2.5197
 loc_type: city
 longitude: 32.9014
-score: 0.45
+score: 0.37
 title: Mwanza
 type: location
 ---

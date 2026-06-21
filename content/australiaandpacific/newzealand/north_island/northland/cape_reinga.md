@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cape_Reinga,_Northland,_Ne
 latitude: -34.4266
 loc_type: city
 longitude: 172.6775
-score: 0.58
+score: 0.54
 title: Cape Reinga
 type: location
 ---

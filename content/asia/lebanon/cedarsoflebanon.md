@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cedar_of_Lebanon_(Cedar_of
 latitude: 34.2467
 loc_type: feature
 longitude: 36.0631
-score: 0.55
+score: 0.48
 title: Cedars of Lebanon
 type: location
 ---

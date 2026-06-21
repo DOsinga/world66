@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2018-09-26_Iran,_Tehran,_A
 latitude: 35.689252
 loc_type: city
 longitude: 51.3896
-score: 0.44
+score: 0.37
 title: Tehran
 type: location
 ---

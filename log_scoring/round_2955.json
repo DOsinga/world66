@@ -1,0 +1,200 @@
+{
+  "round": 2955,
+  "timestamp": "2026-06-13T22:18:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Atascadero",
+      "path": "northamerica/unitedstates/california/atascadero",
+      "prior_score": -4.1934,
+      "prior_variance": 0.170721,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Prairie du Rocher",
+      "path": "northamerica/unitedstates/illinois/prairie_du_rocher",
+      "prior_score": -4.4286,
+      "prior_variance": 0.162225,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Williams Dam",
+      "path": "northamerica/unitedstates/williams_dam",
+      "prior_score": -8.3291,
+      "prior_variance": 0.310088,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Suifenhe",
+      "path": "asia/china/heilongjiang/suifenhe",
+      "prior_score": -5.2842,
+      "prior_variance": 0.191998,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Tongxin",
+      "path": "asia/china/ningxia/tongxin",
+      "prior_score": -6.3049,
+      "prior_variance": 0.174039,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Khartoum",
+      "path": "africa/sudan/khartoum",
+      "prior_score": -5.9582,
+      "prior_variance": 0.207267,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Nouadhibou",
+      "path": "africa/mauritania/nouadhibou",
+      "prior_score": -6.4226,
+      "prior_variance": 0.176095,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Gujrat",
+      "path": "asia/pakistan/gujrat",
+      "prior_score": -7.4927,
+      "prior_variance": 0.24346,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_score": -7.6325,
+      "prior_variance": 0.229173,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Ondjiva",
+      "path": "africa/angola/ondjiva",
+      "prior_score": -8.0471,
+      "prior_variance": 0.288875,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Kolwezi",
+      "path": "africa/congokinshasa/kolwezi",
+      "prior_score": -8.3018,
+      "prior_variance": 0.260111,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Maradi",
+      "path": "africa/niger/maradi",
+      "prior_score": -8.046,
+      "prior_variance": 0.352885,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Shendi",
+      "path": "africa/sudan/shendi",
+      "prior_score": -8.0681,
+      "prior_variance": 0.256324,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Wadi Halfa",
+      "path": "africa/sudan/wadihalfa",
+      "prior_score": -7.8653,
+      "prior_variance": 0.239718,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Paloncha",
+      "path": "asia/india/andhrapradesh/paloncha",
+      "prior_score": -7.3921,
+      "prior_variance": 0.247644,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Ramadugu",
+      "path": "asia/india/andhrapradesh/ramadugu",
+      "prior_score": -8.9619,
+      "prior_variance": 0.230397,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Petite Rivi\u00e8re de Nippes",
+      "path": "northamerica/thecaribbean/haiti/petite_riviere_de_nippes",
+      "prior_score": -7.7288,
+      "prior_variance": 0.212215,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Greenville",
+      "path": "africa/liberia/greenville",
+      "prior_score": -8.0257,
+      "prior_variance": 0.303037,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Sadarak",
+      "path": "europe/azerbaijan/naxcivan/sadarak",
+      "prior_score": -7.9874,
+      "prior_variance": 0.245384,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Caracas",
+      "path": "southamerica/venezuela/caracas",
+      "prior_score": -7.7734,
+      "prior_variance": 0.273606,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "An Nasiriyah",
+      "path": "asia/iraq/annasiriyah",
+      "prior_score": -9.539,
+      "prior_variance": 0.417878,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Damascus",
+      "path": "asia/syria/damascus",
+      "prior_score": -8.1439,
+      "prior_variance": 0.324999,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Marib",
+      "path": "asia/yemen/marib",
+      "prior_score": -10.3869,
+      "prior_variance": 0.470146,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Lughaya",
+      "path": "africa/somaliland/lughaya",
+      "prior_score": -9.8312,
+      "prior_variance": 0.412902,
+      "prior_n": 9
+    }
+  ]
+}

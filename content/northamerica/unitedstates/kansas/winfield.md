@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cowley_County_National_Ban
 latitude: 37.2397
 loc_type: city
 longitude: -96.9956
-score: 0.28
+score: 0.24
 title: Winfield
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Haapsalu_-_view_from_Castl
 latitude: 58.9399
 loc_type: city
 longitude: 23.5415
-score: 0.52
+score: 0.44
 sources:
 - https://en.wikipedia.org/wiki/Haapsalu
 title: Haapsalu

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:New_Hampshire_State_House.
 latitude: 43.2081
 loc_type: city
 longitude: -71.5376
-score: 0.39
+score: 0.35
 title: Concord
 type: location
 ---

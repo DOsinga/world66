@@ -7,7 +7,7 @@ done:
 latitude: 55.605
 loc_type: city
 longitude: 13.0038
-score: 0.54
+score: 0.47
 title: Malmo
 type: location
 ---

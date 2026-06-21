@@ -5,7 +5,7 @@ done:
 latitude: 44.00042
 loc_type: city
 longitude: 8.058039
-score: 0.39
+score: 0.36
 title: Stellanello
 type: location
 ---

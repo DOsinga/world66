@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chateau_Versailles_Galerie
 latitude: 48.80354
 loc_type: city
 longitude: 2.126689
-score: 0.87
+score: 0.74
 title: Versailles
 type: location
 ---

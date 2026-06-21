@@ -1,0 +1,200 @@
+{
+  "round": 2622,
+  "timestamp": "2026-06-13T21:55:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Great Barrier Reef",
+      "path": "australiaandpacific/australia/queensland/greatbarrierreef",
+      "prior_score": 12.5727,
+      "prior_variance": 0.4395,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Positano",
+      "path": "europe/italy/campania/positano",
+      "prior_score": 10.9035,
+      "prior_variance": 0.464214,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Kinsale",
+      "path": "europe/ireland/kinsale",
+      "prior_score": 4.4315,
+      "prior_variance": 0.192804,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagnessurmer",
+      "prior_score": 2.5361,
+      "prior_variance": 0.170601,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Asheville",
+      "path": "northamerica/unitedstates/northcarolina/asheville",
+      "prior_score": 4.9113,
+      "prior_variance": 0.215921,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Brattleboro",
+      "path": "northamerica/unitedstates/vermont/brattleboro",
+      "prior_score": -1.3865,
+      "prior_variance": 0.149895,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Laramie",
+      "path": "northamerica/unitedstates/wyoming/laramie",
+      "prior_score": -2.9379,
+      "prior_variance": 0.149225,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Sidi Ifni",
+      "path": "africa/morocco/sidiifni",
+      "prior_score": -0.0456,
+      "prior_variance": 0.164378,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Metlaoui",
+      "path": "africa/tunisia/metlaoui",
+      "prior_score": -4.8797,
+      "prior_variance": 0.161864,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Panzhihua",
+      "path": "asia/china/sichuanprovince/panzhihua",
+      "prior_score": -4.9187,
+      "prior_variance": 0.214445,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Sumedang",
+      "path": "asia/indonesia/java/sumedang",
+      "prior_score": -3.7302,
+      "prior_variance": 0.16112,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Vengurla",
+      "path": "asia/india/maharashtra/vengurla",
+      "prior_score": -4.5837,
+      "prior_variance": 0.197214,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Talin",
+      "path": "europe/armenia/talin",
+      "prior_score": -5.0826,
+      "prior_variance": 0.202686,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Touggourt",
+      "path": "africa/algeria/touggourt",
+      "prior_score": -5.689,
+      "prior_variance": 0.20621,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Falc\u00f3n",
+      "path": "southamerica/venezuela/falcn",
+      "prior_score": -4.54,
+      "prior_variance": 0.219324,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Indialantic",
+      "path": "northamerica/unitedstates/florida/indialantic",
+      "prior_score": -3.2422,
+      "prior_variance": 0.149817,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_score": -2.2335,
+      "prior_variance": 0.238521,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Douglas",
+      "path": "northamerica/unitedstates/wyoming/douglas",
+      "prior_score": -5.4186,
+      "prior_variance": 0.195443,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Bettendorf",
+      "path": "northamerica/unitedstates/iowa/bettendorf",
+      "prior_score": -4.8356,
+      "prior_variance": 0.186246,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/connecticut/middletown",
+      "prior_score": -4.2529,
+      "prior_variance": 0.152841,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Glenpool",
+      "path": "northamerica/unitedstates/oklahoma/glenpool",
+      "prior_score": -5.1566,
+      "prior_variance": 0.242883,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Upper Falls",
+      "path": "northamerica/unitedstates/westvirginia/upper_falls",
+      "prior_score": -5.337,
+      "prior_variance": 0.190535,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Sunyani",
+      "path": "africa/ghana/sunyani",
+      "prior_score": -5.135,
+      "prior_variance": 0.23151,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Filadelfia",
+      "path": "southamerica/paraguay/filadelfia",
+      "prior_score": -6.37,
+      "prior_variance": 0.201415,
+      "prior_n": 9
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 4816,
+  "timestamp": "2026-06-14T00:44:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mada'in Salih (Hegra)",
+      "path": "asia/saudiarabia/madainsalih",
+      "prior_score": 3.783,
+      "prior_variance": 0.112009,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "El Escorial",
+      "path": "europe/spain/centralspain/elescorial",
+      "prior_score": 2.8389,
+      "prior_variance": 0.08413,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Misano Adriatico",
+      "path": "europe/italy/emiliaromagna/misanoadriatico",
+      "prior_score": 0.034,
+      "prior_variance": 0.091304,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Majuro",
+      "path": "australiaandpacific/marshallislands/majuro",
+      "prior_score": -0.5751,
+      "prior_variance": 0.09353,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Lydford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/lydford",
+      "prior_score": 0.8073,
+      "prior_variance": 0.085032,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Yinchuan",
+      "path": "asia/china/ningxia/yinchuan",
+      "prior_score": -1.2929,
+      "prior_variance": 0.08636,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Kui Buri",
+      "path": "asia/thailand/kui_buri",
+      "prior_score": -1.2181,
+      "prior_variance": 0.10438,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Pobitora",
+      "path": "asia/india/assam/pobitora",
+      "prior_score": -1.1366,
+      "prior_variance": 0.081774,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Xinglong",
+      "path": "asia/china/hainanisland/xinglong",
+      "prior_score": -2.6158,
+      "prior_variance": 0.095288,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "B\u00fck",
+      "path": "europe/hungary/buk",
+      "prior_score": -1.4431,
+      "prior_variance": 0.080427,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Haliburton",
+      "path": "northamerica/canada/ontario/haliburton",
+      "prior_score": -0.4217,
+      "prior_variance": 0.082901,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Ste. Genevieve",
+      "path": "northamerica/unitedstates/missouri/stegenevieve",
+      "prior_score": -2.2638,
+      "prior_variance": 0.092198,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Lipa",
+      "path": "asia/philippines/lipa",
+      "prior_score": -3.0537,
+      "prior_variance": 0.076632,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Cardwell",
+      "path": "australiaandpacific/australia/queensland/cardwell",
+      "prior_score": -2.1631,
+      "prior_variance": 0.090062,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Fort Erie",
+      "path": "northamerica/canada/ontario/fort_erie",
+      "prior_score": -2.8759,
+      "prior_variance": 0.084944,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Nasino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/nasino",
+      "prior_score": -2.5273,
+      "prior_variance": 0.128547,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Navrongo",
+      "path": "africa/ghana/navrongo",
+      "prior_score": -4.8571,
+      "prior_variance": 0.086891,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Wervik",
+      "path": "europe/belgium/wervik",
+      "prior_score": -3.19,
+      "prior_variance": 0.092783,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Salmiya",
+      "path": "asia/kuwait/salmiya",
+      "prior_score": -4.1082,
+      "prior_variance": 0.10042,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Grove",
+      "path": "northamerica/unitedstates/oklahoma/grove",
+      "prior_score": -4.5421,
+      "prior_variance": 0.121208,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Vanderhoof",
+      "path": "northamerica/canada/britishcolumbia/vanderhoof",
+      "prior_score": -4.816,
+      "prior_variance": 0.106227,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/newhampshire/durham",
+      "prior_score": -3.8695,
+      "prior_variance": 0.100834,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Pirkkala",
+      "path": "europe/finland/pirkkala",
+      "prior_score": -4.3843,
+      "prior_variance": 0.097429,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Minden",
+      "path": "northamerica/unitedstates/nebraska/minden",
+      "prior_score": -5.6004,
+      "prior_variance": 0.117539,
+      "prior_n": 15
+    }
+  ]
+}

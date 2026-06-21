@@ -4,7 +4,7 @@ done:
 latitude: 37.075356
 loc_type: city
 longitude: 127.054366
-score: 0.42
+score: 0.34
 title: Songtan
 type: location
 ---

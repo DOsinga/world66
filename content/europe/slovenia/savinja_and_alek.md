@@ -5,7 +5,7 @@ done:
 latitude: 46.37
 loc_type: city
 longitude: 14.85
-score: 0.5
+score: 0.41
 title: Savinja and Šalek Valley
 type: location
 ---

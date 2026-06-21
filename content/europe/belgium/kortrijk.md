@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Broeltorens,_Kortrijk_(DSC
 latitude: 50.8276
 loc_type: city
 longitude: 3.266
-score: 0.47
+score: 0.4
 title: Kortrijk
 type: location
 ---

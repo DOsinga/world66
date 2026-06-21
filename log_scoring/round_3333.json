@@ -1,0 +1,200 @@
+{
+  "round": 3333,
+  "timestamp": "2026-06-13T22:46:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lauterbrunnen",
+      "path": "europe/switzerland/lauterbrunnen",
+      "prior_score": 11.5348,
+      "prior_variance": 0.451395,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Jasper",
+      "path": "northamerica/canada/alberta/jasper",
+      "prior_score": 9.5881,
+      "prior_variance": 0.25365,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Kruger National Park",
+      "path": "africa/southafrica/krugernationalpark",
+      "prior_score": 10.1491,
+      "prior_variance": 0.328528,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Big Bend National Park",
+      "path": "northamerica/unitedstates/texas/big_bend_national_park",
+      "prior_score": 5.3681,
+      "prior_variance": 0.137186,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Hua Shan",
+      "path": "asia/china/shaanxi/hua_shan",
+      "prior_score": 5.602,
+      "prior_variance": 0.217881,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Flims",
+      "path": "europe/switzerland/flims",
+      "prior_score": 4.6634,
+      "prior_variance": 0.128223,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Grasmere",
+      "path": "europe/unitedkingdom/england/lakedistrict/grasmere",
+      "prior_score": 4.068,
+      "prior_variance": 0.155651,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Cochem",
+      "path": "europe/germany/rhinelandpalatinate/mosel/cochem",
+      "prior_score": 3.755,
+      "prior_variance": 0.137522,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Khao Takiab Beach",
+      "path": "asia/thailand/khao_takiab_beach",
+      "prior_score": 1.9354,
+      "prior_variance": 0.131919,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Buller",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/buller",
+      "prior_score": 0.4544,
+      "prior_variance": 0.138373,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Pulau Ubin",
+      "path": "asia/singapore/islands/pulau_ubin",
+      "prior_score": 2.0726,
+      "prior_variance": 0.121641,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Trabzon",
+      "path": "asia/turkey/trabzon",
+      "prior_score": 1.4004,
+      "prior_variance": 0.137883,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Villerville",
+      "path": "europe/france/normandybrittany/villerville",
+      "prior_score": -0.1079,
+      "prior_variance": 0.151592,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Vila Real",
+      "path": "europe/portugal/algarve/vilareal",
+      "prior_score": -0.6677,
+      "prior_variance": 0.13137,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Lothal",
+      "path": "asia/india/gujarat/lothal",
+      "prior_score": -0.9286,
+      "prior_variance": 0.131637,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Galveston",
+      "path": "northamerica/unitedstates/texas/galveston",
+      "prior_score": 0.7679,
+      "prior_variance": 0.113132,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Lambertville",
+      "path": "northamerica/unitedstates/newjersey/lambertville",
+      "prior_score": -0.7831,
+      "prior_variance": 0.118733,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Raleigh",
+      "path": "northamerica/unitedstates/northcarolina/raleigh",
+      "prior_score": -1.7476,
+      "prior_variance": 0.139182,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Khaplu",
+      "path": "asia/pakistan/khaplu",
+      "prior_score": -2.3384,
+      "prior_variance": 0.159962,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Moorkhoun",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/moorkhoun",
+      "prior_score": -5.4243,
+      "prior_variance": 0.151426,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Alytus",
+      "path": "europe/lithuania/alytus",
+      "prior_score": -3.7439,
+      "prior_variance": 0.137361,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Ponta Grossa",
+      "path": "southamerica/brazil/ponta_grossa",
+      "prior_score": -3.4317,
+      "prior_variance": 0.115037,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Douala",
+      "path": "africa/cameroon/douala",
+      "prior_score": -4.8766,
+      "prior_variance": 0.169273,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Galkayo",
+      "path": "africa/somalia/galkayo",
+      "prior_score": -10.9755,
+      "prior_variance": 0.574442,
+      "prior_n": 10
+    }
+  ]
+}

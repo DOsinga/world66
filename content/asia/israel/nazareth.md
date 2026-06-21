@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nazareth_Panorama_Dafna_Ta
 latitude: 32.7046
 loc_type: city
 longitude: 35.2972
-score: 0.55
+score: 0.48
 title: Nazareth
 type: location
 ---

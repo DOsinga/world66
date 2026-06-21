@@ -3,7 +3,7 @@ title: Sariska National Park
 type: location
 latitude: 27.3122
 longitude: 76.395
-score: 0.56
+score: 0.47
 loc_type: feature
 ---
 

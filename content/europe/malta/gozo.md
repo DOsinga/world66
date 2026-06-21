@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Malta_Gozo,_Azure_Window_(
 latitude: 36.046778
 loc_type: city
 longitude: 14.258256
-score: 0.67
+score: 0.59
 title: Gozo
 type: location
 ---

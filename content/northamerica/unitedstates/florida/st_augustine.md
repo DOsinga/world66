@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Castill
 latitude: 29.8947
 loc_type: city
 longitude: -81.3145
-score: 0.61
+score: 0.56
 title: St. Augustine
 type: location
 ---

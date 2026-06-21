@@ -1,0 +1,200 @@
+{
+  "round": 4465,
+  "timestamp": "2026-06-14T00:14:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Minneapolis",
+      "path": "northamerica/unitedstates/minnesota/minneapolis",
+      "prior_score": 1.0954,
+      "prior_variance": 0.110839,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Mahabalipuram",
+      "path": "asia/india/tamilnadu/mahabalipuram",
+      "prior_score": 3.6639,
+      "prior_variance": 0.095867,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Arnhem",
+      "path": "europe/netherlands/arnhem",
+      "prior_score": 0.0965,
+      "prior_variance": 0.089331,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Fredericksburg",
+      "path": "northamerica/unitedstates/virginia/fredericksburg",
+      "prior_score": -0.2241,
+      "prior_variance": 0.086488,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Zhengzhou",
+      "path": "asia/china/henan_province/zhengzhou",
+      "prior_score": -2.7062,
+      "prior_variance": 0.10018,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Chandigarh",
+      "path": "asia/india/punjab/chandigarh",
+      "prior_score": -0.2093,
+      "prior_variance": 0.086035,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Upper Kern River",
+      "path": "northamerica/unitedstates/california/centralvalley/upper_kern_river",
+      "prior_score": -0.4379,
+      "prior_variance": 0.088328,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Nitra",
+      "path": "europe/slovakia/nitra",
+      "prior_score": -1.4496,
+      "prior_variance": 0.090203,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "San Blas",
+      "path": "northamerica/mexico/sanblas",
+      "prior_score": -0.8635,
+      "prior_variance": 0.100014,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Errachidia",
+      "path": "africa/morocco/errachidia",
+      "prior_score": -1.22,
+      "prior_variance": 0.083229,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Formerum",
+      "path": "europe/netherlands/waddenislands/terschelling/formerum",
+      "prior_score": -1.1334,
+      "prior_variance": 0.119608,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Sandur",
+      "path": "europe/faroeislands/sandoy/sandur",
+      "prior_score": 0.2252,
+      "prior_variance": 0.095894,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Ardabil",
+      "path": "asia/iran/ardabil",
+      "prior_score": -2.3295,
+      "prior_variance": 0.091789,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Souris",
+      "path": "northamerica/canada/princeedwardisland/souris",
+      "prior_score": -2.7816,
+      "prior_variance": 0.099561,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Balikpapan",
+      "path": "asia/indonesia/kalimantan/balikpapan",
+      "prior_score": -3.1879,
+      "prior_variance": 0.090886,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/eastern_england/hitchin",
+      "prior_score": -2.8169,
+      "prior_variance": 0.097747,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Caxias do Sul",
+      "path": "southamerica/brazil/caxias_do_sul",
+      "prior_score": -2.8198,
+      "prior_variance": 0.092679,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Penrhyn",
+      "path": "australiaandpacific/cookislands/penrhyn",
+      "prior_score": -1.42,
+      "prior_variance": 0.106227,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Failaka Island",
+      "path": "asia/kuwait/failaka",
+      "prior_score": -2.8471,
+      "prior_variance": 0.114943,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Chill\u00e1n",
+      "path": "southamerica/chile/chillan",
+      "prior_score": -2.3825,
+      "prior_variance": 0.097052,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Sri Ganganagar",
+      "path": "asia/india/rajasthan/sriganganagar",
+      "prior_score": -5.914,
+      "prior_variance": 0.137443,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Salisbury",
+      "path": "northamerica/unitedstates/northcarolina/salisbury",
+      "prior_score": -4.3149,
+      "prior_variance": 0.117162,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Meshkin-Shahr",
+      "path": "asia/iran/meshkinshahr",
+      "prior_score": -6.275,
+      "prior_variance": 0.118377,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Lidice",
+      "path": "europe/czechrepublic/lidice",
+      "prior_score": -2.3272,
+      "prior_variance": 0.102446,
+      "prior_n": 15
+    }
+  ]
+}

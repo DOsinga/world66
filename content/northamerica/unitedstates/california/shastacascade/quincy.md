@@ -5,7 +5,7 @@ done:
 latitude: 39.936
 loc_type: city
 longitude: -120.947
-score: 0.36
+score: 0.31
 title: Quincy
 type: location
 ---

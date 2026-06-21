@@ -5,7 +5,7 @@ done:
 latitude: 4.3947
 loc_type: city
 longitude: 18.5582
-score: 0.15
+score: 0.16
 title: Bangui
 type: location
 ---

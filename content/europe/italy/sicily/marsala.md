@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marsala,_Sicily._Saline.jp
 latitude: 37.7979
 loc_type: city
 longitude: 12.4342
-score: 0.59
+score: 0.53
 title: Marsala
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bah%C3%ADa_de_Spinola,_San
 latitude: 35.919922
 loc_type: city
 longitude: 14.487712
-score: 0.6
+score: 0.52
 title: St Julian's
 type: location
 ---

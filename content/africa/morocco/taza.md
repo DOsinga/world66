@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Distant_South_Taza_Morocco
 latitude: 34.230155
 loc_type: city
 longitude: -4.010104
-score: 0.45
+score: 0.33
 title: Taza
 type: location
 ---

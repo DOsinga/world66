@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Montreux_(Svizzera)_Panora
 latitude: 46.4311
 loc_type: city
 longitude: 6.913
-score: 0.73
+score: 0.62
 title: Montreux
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Yucaipa_Adobe,_CA_2-15-15_
 latitude: 34.033625
 loc_type: city
 longitude: -117.043087
-score: 0.32
+score: 0.26
 title: Yucaipa
 type: location
 ---

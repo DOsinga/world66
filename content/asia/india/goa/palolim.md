@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Palolem_Beach,_South_Goa.j
 latitude: 15.01
 loc_type: city
 longitude: 74.023
-score: 0.6
+score: 0.52
 title: Palolem
 type: location
 ---

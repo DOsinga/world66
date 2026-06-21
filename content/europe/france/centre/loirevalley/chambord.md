@@ -5,7 +5,7 @@ latitude: 47.6161
 longitude: 1.517
 title: Chambord
 type: location
-score: 0.7
+score: 0.62
 loc_type: feature
 ---
 

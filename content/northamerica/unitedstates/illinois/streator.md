@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Streator_IL_Downtown1.jpg
 latitude: 41.121
 loc_type: city
 longitude: -88.8357
-score: 0.28
+score: 0.2
 title: Streator
 type: location
 ---

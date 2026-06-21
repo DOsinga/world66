@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Todra_Gorge_Morning_2011.j
 latitude: 31.587352
 loc_type: city
 longitude: -5.591495
-score: 0.67
+score: 0.57
 title: Todra Gorge
 type: location
 ---

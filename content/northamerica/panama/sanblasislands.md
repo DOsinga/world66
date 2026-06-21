@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Blas_Islands.jpg
 latitude: 9.5817
 loc_type: city
 longitude: -78.9167
-score: 0.67
+score: 0.59
 title: San Blas Islands
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 4453,
+  "timestamp": "2026-06-14T00:13:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grindelwald",
+      "path": "europe/switzerland/grindelwald",
+      "prior_score": 10.9283,
+      "prior_variance": 0.272797,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Martha's Vineyard",
+      "path": "northamerica/unitedstates/massachusetts/marthasvineyard",
+      "prior_score": 4.7228,
+      "prior_variance": 0.1019,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Vrbnik",
+      "path": "europe/croatia/krkisland/vrbnik",
+      "prior_score": 3.1507,
+      "prior_variance": 0.091161,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_score": 2.8666,
+      "prior_variance": 0.103327,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Fraser's Hill",
+      "path": "asia/malaysia/frasers_hill",
+      "prior_score": 0.9888,
+      "prior_variance": 0.085118,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Rivers of the Doubs",
+      "path": "europe/france/east/franchecomte/fabulous_rivers",
+      "prior_score": 1.442,
+      "prior_variance": 0.097895,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Ciudad Rodrigo",
+      "path": "europe/spain/centralspain/ciudadrodrigo",
+      "prior_score": 1.1235,
+      "prior_variance": 0.086597,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Nanyuki",
+      "path": "africa/kenya/centralhighlands/nanyuki",
+      "prior_score": 0.5561,
+      "prior_variance": 0.099751,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Danakil Depression",
+      "path": "africa/ethiopia/danakilsdepression",
+      "prior_score": -0.0841,
+      "prior_variance": 0.122793,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Kerkennah Islands",
+      "path": "africa/tunisia/kerkennahislands",
+      "prior_score": -0.7007,
+      "prior_variance": 0.093279,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_score": -1.3,
+      "prior_variance": 0.101154,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach",
+      "prior_score": -2.3117,
+      "prior_variance": 0.093961,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Mandeville",
+      "path": "northamerica/jamaica/mandeville",
+      "prior_score": -1.2958,
+      "prior_variance": 0.083352,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Vilalba",
+      "path": "europe/spain/galicia/vilalba",
+      "prior_score": -3.0448,
+      "prior_variance": 0.105311,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Lynchburg",
+      "path": "northamerica/unitedstates/virginia/lynchburg",
+      "prior_score": -2.9919,
+      "prior_variance": 0.091709,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Tetovo",
+      "path": "europe/macedonia/tetovo",
+      "prior_score": -2.9334,
+      "prior_variance": 0.092867,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Baton Rouge",
+      "path": "northamerica/unitedstates/louisiana/batonrouge",
+      "prior_score": -1.5443,
+      "prior_variance": 0.111715,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Georgetown",
+      "path": "southamerica/guyana/georgetown",
+      "prior_score": -2.7018,
+      "prior_variance": 0.12894,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Morgan Hill",
+      "path": "northamerica/unitedstates/california/morgan_hill",
+      "prior_score": -3.6425,
+      "prior_variance": 0.093471,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Laguna Niguel",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunaniguel",
+      "prior_score": -2.7542,
+      "prior_variance": 0.095402,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Lima",
+      "path": "northamerica/unitedstates/ohio/lima",
+      "prior_score": -6.1795,
+      "prior_variance": 0.111993,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Assur",
+      "path": "asia/iraq/assur",
+      "prior_score": -4.4593,
+      "prior_variance": 0.130328,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Guide",
+      "path": "asia/china/qinghai/guide",
+      "prior_score": -5.1104,
+      "prior_variance": 0.119769,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Lae",
+      "path": "asia/papuanewguinea/lae",
+      "prior_score": -6.8184,
+      "prior_variance": 0.134141,
+      "prior_n": 14
+    }
+  ]
+}

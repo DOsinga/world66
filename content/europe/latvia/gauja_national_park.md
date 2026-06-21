@@ -5,7 +5,7 @@ latitude: 57.299892
 longitude: 25.079247
 title: Gauja National Park
 type: location
-score: 0.52
+score: 0.44
 loc_type: feature
 ---
 

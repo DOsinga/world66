@@ -1,0 +1,200 @@
+{
+  "round": 4513,
+  "timestamp": "2026-06-14T00:18:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Killarney",
+      "path": "europe/ireland/killarney",
+      "prior_score": 6.3342,
+      "prior_variance": 0.098982,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Biarritz",
+      "path": "europe/france/midi/basqueregion/biarritz",
+      "prior_score": 5.2069,
+      "prior_variance": 0.109624,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_score": 4.6345,
+      "prior_variance": 0.12403,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Guilin",
+      "path": "asia/china/guangxi/guilin",
+      "prior_score": 8.447,
+      "prior_variance": 0.214785,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Sleeping Bear Dunes National Lakeshore",
+      "path": "northamerica/unitedstates/michigan/sleepingbear",
+      "prior_score": 2.3494,
+      "prior_variance": 0.105532,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Buckskin Gulch",
+      "path": "northamerica/unitedstates/utah/buckskin_gulch",
+      "prior_score": 3.5476,
+      "prior_variance": 0.115567,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Malbork",
+      "path": "europe/poland/malbork",
+      "prior_score": 3.8517,
+      "prior_variance": 0.09321,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Xijiang Miao Village",
+      "path": "asia/china/guizhou/xijiang",
+      "prior_score": 2.3305,
+      "prior_variance": 0.092901,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Silves",
+      "path": "europe/portugal/silves",
+      "prior_score": 2.439,
+      "prior_variance": 0.093495,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Ioannina",
+      "path": "europe/greece/ioannina",
+      "prior_score": 3.7883,
+      "prior_variance": 0.097365,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Belfast",
+      "path": "europe/unitedkingdom/northernireland/belfast",
+      "prior_score": 3.0586,
+      "prior_variance": 0.106383,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Tolo",
+      "path": "europe/greece/tolo",
+      "prior_score": 1.2497,
+      "prior_variance": 0.084825,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Kokura",
+      "path": "asia/japan/kyushu/kokura",
+      "prior_score": 0.5604,
+      "prior_variance": 0.09434,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Ankara",
+      "path": "asia/turkey/ankara",
+      "prior_score": -0.1553,
+      "prior_variance": 0.106129,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Narok Town",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr/naroktown",
+      "prior_score": 1.4929,
+      "prior_variance": 0.103098,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Serres",
+      "path": "europe/greece/prefecture_of_serres/serres",
+      "prior_score": -2.1329,
+      "prior_variance": 0.094957,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Comodoro Rivadavia",
+      "path": "southamerica/argentina/patagonia/comodoro_rivadavia",
+      "prior_score": -3.8696,
+      "prior_variance": 0.106494,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Terrace",
+      "path": "northamerica/canada/britishcolumbia/terrace",
+      "prior_score": -1.871,
+      "prior_variance": 0.094081,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Xinxiang",
+      "path": "asia/china/henan_province/xinxiang",
+      "prior_score": -5.7061,
+      "prior_variance": 0.130271,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Khongjom",
+      "path": "asia/india/manipur/khongjom",
+      "prior_score": -6.7012,
+      "prior_variance": 0.118347,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Darlington",
+      "path": "northamerica/unitedstates/southcarolina/darlington",
+      "prior_score": -5.4005,
+      "prior_variance": 0.119961,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Port Harcourt",
+      "path": "africa/nigeria/portharcourt",
+      "prior_score": -5.8538,
+      "prior_variance": 0.136222,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "San Ignacio",
+      "path": "southamerica/peru/san_ignacio",
+      "prior_score": -5.2819,
+      "prior_variance": 0.104473,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Awjila",
+      "path": "africa/libya/awjila",
+      "prior_score": -9.2377,
+      "prior_variance": 0.217425,
+      "prior_n": 14
+    }
+  ]
+}

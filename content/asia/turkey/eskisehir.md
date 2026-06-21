@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehir,_Eski%C5%9F
 latitude: 39.774394
 loc_type: city
 longitude: 30.519116
-score: 0.49
+score: 0.45
 title: Eskişehir
 type: location
 ---

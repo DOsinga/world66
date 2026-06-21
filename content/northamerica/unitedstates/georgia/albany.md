@@ -7,7 +7,7 @@ done:
 latitude: 31.5785
 loc_type: city
 longitude: -84.1557
-score: 0.3
+score: 0.24
 title: Albany
 type: location
 ---

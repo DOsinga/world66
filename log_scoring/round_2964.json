@@ -1,0 +1,200 @@
+{
+  "round": 2964,
+  "timestamp": "2026-06-13T22:19:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Venice",
+      "path": "europe/italy/veneto/venice",
+      "prior_score": 18.5481,
+      "prior_variance": 1.257266,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Koh Phangan",
+      "path": "asia/thailand/kohphangan",
+      "prior_score": 6.4123,
+      "prior_variance": 0.157086,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Swahili Coast",
+      "path": "africa/tanzania/swahilicoast",
+      "prior_score": 4.1244,
+      "prior_variance": 0.175065,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Halkidiki",
+      "path": "europe/greece/halkidiki",
+      "prior_score": 5.329,
+      "prior_variance": 0.147549,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Jost Van Dyke",
+      "path": "northamerica/britishvirginislands/jostvandyke",
+      "prior_score": 5.7553,
+      "prior_variance": 0.197127,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_score": 4.1416,
+      "prior_variance": 0.191306,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Ba Be National Park",
+      "path": "asia/vietnam/ba_be",
+      "prior_score": 2.7311,
+      "prior_variance": 0.148003,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Lumbini",
+      "path": "asia/nepal/lumbini",
+      "prior_score": 3.2405,
+      "prior_variance": 0.16457,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "White Sands",
+      "path": "northamerica/unitedstates/newmexico/whitesands",
+      "prior_score": 4.8424,
+      "prior_variance": 0.155115,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Winchester",
+      "path": "europe/unitedkingdom/england/south_east/winchester",
+      "prior_score": 2.3449,
+      "prior_variance": 0.162056,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Cajamarca",
+      "path": "southamerica/peru/cajamarca",
+      "prior_score": 2.0782,
+      "prior_variance": 0.162559,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Maramures Land",
+      "path": "europe/romania/transylvania/maramures_land",
+      "prior_score": 2.498,
+      "prior_variance": 0.166127,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "La Spezia",
+      "path": "europe/italy/liguria/laspezia",
+      "prior_score": 4.238,
+      "prior_variance": 0.130345,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/warwick",
+      "prior_score": 0.3328,
+      "prior_variance": 0.214116,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Kritsa",
+      "path": "europe/greece/crete/kritsa",
+      "prior_score": 3.3092,
+      "prior_variance": 0.167934,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Les Crosets",
+      "path": "europe/switzerland/lescrosets",
+      "prior_score": 0.8718,
+      "prior_variance": 0.149626,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Qingdao",
+      "path": "asia/china/shandong_province/qingdao",
+      "prior_score": 2.8148,
+      "prior_variance": 0.182433,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Kumbakonam",
+      "path": "asia/india/tamilnadu/kumbakonam",
+      "prior_score": -0.3434,
+      "prior_variance": 0.141143,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Zennor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/zennor",
+      "prior_score": 1.6154,
+      "prior_variance": 0.151573,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Mariana",
+      "path": "southamerica/brazil/mariana",
+      "prior_score": -0.6251,
+      "prior_variance": 0.120794,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Hjo",
+      "path": "europe/sweden/hjo",
+      "prior_score": 0.1941,
+      "prior_variance": 0.130939,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Essen",
+      "path": "europe/germany/northrhinewestphalia/essen",
+      "prior_score": -1.9256,
+      "prior_variance": 0.155672,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Sint-Truiden",
+      "path": "europe/belgium/sinttruiden",
+      "prior_score": -0.8439,
+      "prior_variance": 0.146811,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Wuhu",
+      "path": "asia/china/anhui/wuhu",
+      "prior_score": -4.171,
+      "prior_variance": 0.149701,
+      "prior_n": 9
+    }
+  ]
+}

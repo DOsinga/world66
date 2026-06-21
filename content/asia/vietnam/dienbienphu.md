@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%C4%90i%E1%BB%87n_Bi%C3%AA
 latitude: 21.4904
 loc_type: city
 longitude: 103.1046
-score: 0.45
+score: 0.39
 title: Dien Bien Phu
 type: location
 ---

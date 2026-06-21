@@ -6,7 +6,7 @@ longitude: -64.7842
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-06-04'
-score: 0.64
+score: 0.56
 loc_type: city
 image: hamilton_capital.jpg
 image_source: https://www.flickr.com/photos/29561984@N06/3267120142

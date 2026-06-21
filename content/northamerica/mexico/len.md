@@ -5,7 +5,7 @@ done:
 latitude: 21.121965
 loc_type: city
 longitude: -101.682977
-score: 0.47
+score: 0.33
 title: León
 type: location
 ---

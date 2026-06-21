@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Belogradchik_(%D0%91%D0%B5
 latitude: 43.626683
 loc_type: city
 longitude: 22.686117
-score: 0.52
+score: 0.44
 title: Belogradchik
 type: location
 ---

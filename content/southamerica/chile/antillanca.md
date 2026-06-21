@@ -5,7 +5,7 @@ latitude: -40.7781
 longitude: -72.2014
 title: Antillanca
 type: location
-score: 0.45
+score: 0.4
 loc_type: feature
 ---
 

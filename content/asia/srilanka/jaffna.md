@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:NallurKandaswamyKovilGopur
 latitude: 9.6615
 loc_type: city
 longitude: 80.0255
-score: 0.52
+score: 0.43
 title: Jaffna
 type: location
 ---

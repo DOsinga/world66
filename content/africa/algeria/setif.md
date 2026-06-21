@@ -5,7 +5,7 @@ done:
 latitude: 36.189349
 loc_type: city
 longitude: 5.404688
-score: 0.33
+score: 0.28
 title: Setif
 type: location
 ---

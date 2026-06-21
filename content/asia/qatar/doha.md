@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Pearl_Marina_in_Nov_20
 latitude: 25.310881
 loc_type: city
 longitude: 51.508181
-score: 0.55
+score: 0.5
 title: Doha
 type: location
 ---

@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-21'
 latitude: 34.4129
 longitude: -118.5538
-score: 0.36
+score: 0.29
 title: Santa Clarita
 type: location
 loc_type: city

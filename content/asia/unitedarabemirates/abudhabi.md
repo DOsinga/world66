@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Abu_dhabi_skylines_2014.jp
 latitude: 24.4539
 loc_type: city
 longitude: 54.3773
-score: 0.56
+score: 0.53
 title: Abu Dhabi
 type: location
 ---

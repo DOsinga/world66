@@ -6,7 +6,7 @@ done:
 latitude: 52.093751
 loc_type: city
 longitude: 23.685185
-score: 0.42
+score: 0.33
 title: Brest
 type: location
 ---

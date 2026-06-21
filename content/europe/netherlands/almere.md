@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Almere_Leeghwaterplas_Leks
 latitude: 52.3723
 loc_type: city
 longitude: 5.2177
-score: 0.37
+score: 0.29
 title: Almere
 type: location
 ---

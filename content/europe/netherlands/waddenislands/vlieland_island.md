@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Oost-Vlieland_-_Dorpsstraa
 latitude: 53.2972
 loc_type: city
 longitude: 5.0656
-score: 0.53
+score: 0.46
 title: Vlieland
 type: location
 ---

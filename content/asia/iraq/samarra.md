@@ -5,7 +5,7 @@ done:
 latitude: 34.198
 loc_type: city
 longitude: 43.876
-score: 0.35
+score: 0.33
 title: Samarra
 type: location
 ---

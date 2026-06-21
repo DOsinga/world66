@@ -1,200 +1,200 @@
 {
   "round": 1137,
-  "timestamp": "2026-04-12T22:11:29",
+  "timestamp": "2026-06-13T20:13:16",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Providenciales",
-      "path": "northamerica/turksandcaicosislands/providenciales",
-      "prior_rank": 86,
-      "prior_wins": 44,
-      "prior_n": 2
+      "title": "Shunan Bamboo Sea",
+      "path": "asia/china/sichuanprovince/shunan_bamboo_sea",
+      "prior_score": 2.6384,
+      "prior_variance": 0.437153,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Ouvea",
-      "path": "australiaandpacific/newcaledonia/ouvea",
-      "prior_rank": 1124,
-      "prior_wins": 36,
-      "prior_n": 2
+      "title": "Espiritu Santo",
+      "path": "australiaandpacific/vanuatu/espiritusanto",
+      "prior_score": 2.6255,
+      "prior_variance": 0.482055,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Isla Mujeres",
-      "path": "northamerica/mexico/islamujeres",
-      "prior_rank": 308,
-      "prior_wins": 63,
+      "title": "Isafjordur",
+      "path": "europe/iceland/isafjordur",
+      "prior_score": 4.2558,
+      "prior_variance": 0.42128,
       "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Cozumel",
-      "path": "northamerica/mexico/cozumel",
-      "prior_rank": 2148,
-      "prior_wins": 47,
+      "title": "Inis Me\u00e1in",
+      "path": "europe/ireland/aranislands/inismeain",
+      "prior_score": 2.8416,
+      "prior_variance": 0.404915,
       "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Grand Baie",
-      "path": "africa/mauritius/grandbaie",
-      "prior_rank": 130,
-      "prior_wins": 65,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/impruneta",
+      "prior_score": 2.9092,
+      "prior_variance": 0.540541,
       "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Negril",
-      "path": "northamerica/jamaica/negril",
-      "prior_rank": 252,
-      "prior_wins": 45,
-      "prior_n": 3
+      "title": "Gorkha",
+      "path": "asia/nepal/gorkha_gurkha",
+      "prior_score": 2.0975,
+      "prior_variance": 0.415547,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Puerto Vallarta",
-      "path": "northamerica/mexico/puertovallarta",
-      "prior_rank": 427,
-      "prior_wins": 41,
-      "prior_n": 2
-    },
-    {
-      "rank": 8,
-      "title": "Funchal",
-      "path": "europe/portugal/funchal",
-      "prior_rank": 305,
-      "prior_wins": 42,
-      "prior_n": 2
-    },
-    {
-      "rank": 9,
-      "title": "Gran Canaria",
-      "path": "europe/spain/canaryislands/crancanaria",
-      "prior_rank": 443,
-      "prior_wins": 41,
-      "prior_n": 2
-    },
-    {
-      "rank": 10,
-      "title": "Bodrum",
-      "path": "asia/turkey/bodrum",
-      "prior_rank": 88,
-      "prior_wins": 44,
-      "prior_n": 2
-    },
-    {
-      "rank": 11,
-      "title": "Skye",
-      "path": "europe/unitedkingdom/scotland/skye",
-      "prior_rank": 15,
-      "prior_wins": 45,
-      "prior_n": 2
-    },
-    {
-      "rank": 12,
-      "title": "Killarney",
-      "path": "europe/ireland/killarney",
-      "prior_rank": 513,
-      "prior_wins": 61,
+      "title": "Apolonia",
+      "path": "europe/albania/apolonia",
+      "prior_score": -0.2644,
+      "prior_variance": 0.526619,
       "prior_n": 3
     },
     {
+      "rank": 8,
+      "title": "Bregenz",
+      "path": "europe/austria/bregenz",
+      "prior_score": 4.1941,
+      "prior_variance": 0.397586,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Mayotte",
+      "path": "africa/comoros/mayotte",
+      "prior_score": 1.9843,
+      "prior_variance": 0.483654,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Iona National Park",
+      "path": "africa/angola/ionanationalpark",
+      "prior_score": -6.5144,
+      "prior_variance": 0.407676,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Vila do Conde",
+      "path": "europe/portugal/viladoconde",
+      "prior_score": 0.7717,
+      "prior_variance": 0.455055,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Porches",
+      "path": "europe/portugal/algarve/porches",
+      "prior_score": 2.0125,
+      "prior_variance": 0.361768,
+      "prior_n": 4
+    },
+    {
       "rank": 13,
-      "title": "Qu\u00e9bec City",
-      "path": "northamerica/canada/quebec/quebeccity",
-      "prior_rank": 155,
-      "prior_wins": 43,
-      "prior_n": 2
+      "title": "Ourense",
+      "path": "europe/spain/galicia/ourense",
+      "prior_score": 0.3303,
+      "prior_variance": 0.435207,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Graz",
-      "path": "europe/austria/graz",
-      "prior_rank": 451,
-      "prior_wins": 41,
-      "prior_n": 2
+      "title": "Piacenza",
+      "path": "europe/italy/emiliaromagna/piacenza",
+      "prior_score": 1.9727,
+      "prior_variance": 0.604578,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Perugia",
-      "path": "europe/italy/umbria/perugia",
-      "prior_rank": 1349,
-      "prior_wins": 53,
+      "title": "Langeoog",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/langeoog",
+      "prior_score": -0.1297,
+      "prior_variance": 0.400572,
       "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Visby",
-      "path": "europe/sweden/visby",
-      "prior_rank": 181,
-      "prior_wins": 86,
-      "prior_n": 4
+      "title": "Mu'a",
+      "path": "australiaandpacific/tonga/tongatapu/mua",
+      "prior_score": -1.466,
+      "prior_variance": 0.407375,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Wanaka",
-      "path": "australiaandpacific/newzealand/otago/wanaka",
-      "prior_rank": 166,
-      "prior_wins": 43,
-      "prior_n": 2
-    },
-    {
-      "rank": 18,
-      "title": "Springdale",
-      "path": "northamerica/unitedstates/utah/springdale",
-      "prior_rank": 1813,
-      "prior_wins": 33,
-      "prior_n": 2
-    },
-    {
-      "rank": 19,
-      "title": "Lake Tahoe",
-      "path": "northamerica/unitedstates/california/highsierra/laketahoe",
-      "prior_rank": 1549,
-      "prior_wins": 69,
+      "title": "Sosua",
+      "path": "northamerica/dominicanrepublic/puertoplata/sosua",
+      "prior_score": 1.1523,
+      "prior_variance": 0.651312,
       "prior_n": 4
     },
     {
+      "rank": 18,
+      "title": "Mulhouse",
+      "path": "europe/france/east/alsace/mulhouse",
+      "prior_score": -1.1817,
+      "prior_variance": 0.529115,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Arnhem",
+      "path": "europe/netherlands/arnhem",
+      "prior_score": -1.2126,
+      "prior_variance": 0.394684,
+      "prior_n": 3
+    },
+    {
       "rank": 20,
-      "title": "La Fortuna",
-      "path": "northamerica/costarica/lafortuna",
-      "prior_rank": 375,
-      "prior_wins": 62,
+      "title": "Hastings",
+      "path": "europe/unitedkingdom/england/south_east/hastings",
+      "prior_score": 0.3534,
+      "prior_variance": 0.397092,
       "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Kobe",
-      "path": "asia/japan/honshu/kobe",
-      "prior_rank": 488,
-      "prior_wins": 61,
+      "title": "Milwaukee",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee",
+      "prior_score": -1.0113,
+      "prior_variance": 0.529148,
       "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Beppu",
-      "path": "asia/japan/kyushu/beppu",
-      "prior_rank": 281,
-      "prior_wins": 42,
-      "prior_n": 2
+      "title": "Chennai",
+      "path": "asia/india/tamilnadu/chennai",
+      "prior_score": 0.8995,
+      "prior_variance": 0.391546,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Spitsbergen",
-      "path": "europe/norway/spitsbergen",
-      "prior_rank": 153,
-      "prior_wins": 43,
-      "prior_n": 2
+      "title": "General Santos City",
+      "path": "asia/philippines/generalsantoscity",
+      "prior_score": -5.8019,
+      "prior_variance": 0.460012,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Ovalau",
-      "path": "australiaandpacific/fiji/ovalau",
-      "prior_rank": 1584,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Oswiecim",
+      "path": "europe/poland/oswiecim",
+      "prior_score": -0.147,
+      "prior_variance": 0.500154,
+      "prior_n": 3
     }
   ]
 }

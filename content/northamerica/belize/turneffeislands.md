@@ -5,7 +5,7 @@ latitude: 17.3833
 longitude: -87.85
 title: Turneffe Islands
 type: location
-score: 0.59
+score: 0.54
 loc_type: feature
 ---
 

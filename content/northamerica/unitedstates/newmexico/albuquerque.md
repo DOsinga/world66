@@ -9,7 +9,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Abqdowntown.jpg
 latitude: 35.0841
 longitude: -106.651
-score: 0.52
+score: 0.45
 title: Albuquerque
 type: location
 loc_type: city

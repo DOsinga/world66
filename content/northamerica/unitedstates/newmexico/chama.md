@@ -5,7 +5,7 @@ done:
 latitude: 36.9037
 loc_type: city
 longitude: -106.5799
-score: 0.39
+score: 0.37
 title: Chama
 type: location
 ---

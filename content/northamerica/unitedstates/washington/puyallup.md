@@ -5,7 +5,7 @@ done:
 latitude: 47.184901
 loc_type: city
 longitude: -122.29214
-score: 0.33
+score: 0.31
 title: Puyallup
 type: location
 ---

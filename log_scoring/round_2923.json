@@ -1,0 +1,200 @@
+{
+  "round": 2923,
+  "timestamp": "2026-06-13T22:16:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Takamatsu",
+      "path": "asia/japan/shikoku/takamatsu",
+      "prior_score": 4.7911,
+      "prior_variance": 0.184299,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_score": 6.3593,
+      "prior_variance": 0.183145,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_score": 4.8916,
+      "prior_variance": 0.202427,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Guimar\u00e3es",
+      "path": "europe/portugal/guimaraes",
+      "prior_score": 4.6937,
+      "prior_variance": 0.172126,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Dinan",
+      "path": "europe/france/normandybrittany/dinan",
+      "prior_score": 5.4293,
+      "prior_variance": 0.161399,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Dunhuang",
+      "path": "asia/china/gansu/dunhuang",
+      "prior_score": 5.8199,
+      "prior_variance": 0.15937,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Pai",
+      "path": "asia/thailand/pai",
+      "prior_score": 5.0823,
+      "prior_variance": 0.174611,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_score": 4.3287,
+      "prior_variance": 0.168516,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Novigrad",
+      "path": "europe/croatia/novigrad",
+      "prior_score": 3.9729,
+      "prior_variance": 0.151995,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Baku",
+      "path": "europe/azerbaijan/baku",
+      "prior_score": 4.4416,
+      "prior_variance": 0.170001,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Culebra",
+      "path": "northamerica/thecaribbean/puertorico/culebra",
+      "prior_score": 5.3697,
+      "prior_variance": 0.169094,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Whistler",
+      "path": "northamerica/canada/britishcolumbia/whistler",
+      "prior_score": 6.7014,
+      "prior_variance": 0.173493,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Oban",
+      "path": "europe/unitedkingdom/scotland/oban",
+      "prior_score": 4.2157,
+      "prior_variance": 0.165337,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Almagro",
+      "path": "europe/spain/la_mancha/almagro",
+      "prior_score": 2.765,
+      "prior_variance": 0.174751,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Marbella",
+      "path": "europe/spain/andalucia/marbella",
+      "prior_score": 5.6673,
+      "prior_variance": 0.19456,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Betws-y-Coed",
+      "path": "europe/unitedkingdom/wales/snowdonia/betwsycoed",
+      "prior_score": 2.334,
+      "prior_variance": 0.138313,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Vestmanna",
+      "path": "europe/faroeislands/streymoy/vestmanna",
+      "prior_score": 0.9363,
+      "prior_variance": 0.168134,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Tissamaharama",
+      "path": "asia/srilanka/tissamaharama",
+      "prior_score": 1.8509,
+      "prior_variance": 0.126595,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Austin",
+      "path": "northamerica/unitedstates/texas/austin",
+      "prior_score": 3.0255,
+      "prior_variance": 0.180762,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Chongqing",
+      "path": "asia/china/sichuanprovince/chongqing",
+      "prior_score": 1.096,
+      "prior_variance": 0.163136,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Haghpat",
+      "path": "europe/armenia/haghpat",
+      "prior_score": 2.1152,
+      "prior_variance": 0.139464,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Hersonissos",
+      "path": "europe/greece/crete/hersonnissos",
+      "prior_score": 4.2329,
+      "prior_variance": 0.144299,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "A Lanzada",
+      "path": "europe/spain/galicia/a_lanzada_beach",
+      "prior_score": -0.6383,
+      "prior_variance": 0.141276,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Pittsburgh",
+      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
+      "prior_score": 1.2477,
+      "prior_variance": 0.188844,
+      "prior_n": 9
+    }
+  ]
+}

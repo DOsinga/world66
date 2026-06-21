@@ -1,200 +1,200 @@
 {
   "round": 1994,
-  "timestamp": "2026-04-13T16:01:04",
+  "timestamp": "2026-06-13T21:11:10",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Montenegro",
-      "path": "europe/montenegro",
-      "prior_score": 6.976,
-      "prior_variance": 0.38097,
-      "prior_n": 5
+      "title": "Taipei",
+      "path": "asia/taiwan/taipei",
+      "prior_score": 9.289,
+      "prior_variance": 0.347608,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "C\u00edes Islands",
-      "path": "europe/spain/galicia/cies_islands",
-      "prior_score": 5.4361,
-      "prior_variance": 0.2835,
-      "prior_n": 5
+      "title": "Skogar",
+      "path": "europe/iceland/skogar",
+      "prior_score": 5.6696,
+      "prior_variance": 0.32266,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Bolifushi",
-      "path": "asia/maldives/south_male_atoll/bolifushi",
-      "prior_score": 4.5528,
-      "prior_variance": 0.34764,
+      "title": "Saariselk\u00e4",
+      "path": "europe/finland/saariselk",
+      "prior_score": 3.0228,
+      "prior_variance": 0.212058,
       "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Biarritz",
-      "path": "europe/france/midi/basqueregion/biarritz",
-      "prior_score": 6.5344,
-      "prior_variance": 0.283673,
-      "prior_n": 5
+      "title": "Yuntaishan",
+      "path": "asia/china/henan_province/yuntaishan",
+      "prior_score": 2.2188,
+      "prior_variance": 0.212782,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Sanremo",
-      "path": "europe/italy/liguria/sanremo",
-      "prior_score": 3.9196,
-      "prior_variance": 0.293632,
-      "prior_n": 5
+      "title": "Ani",
+      "path": "europe/armenia/ani",
+      "prior_score": 2.7432,
+      "prior_variance": 0.280348,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Inuyama",
-      "path": "asia/japan/honshu/inuyama",
-      "prior_score": 4.7628,
-      "prior_variance": 0.277073,
-      "prior_n": 5
+      "title": "Lake Nicaragua",
+      "path": "northamerica/nicaragua/lakenicaragua",
+      "prior_score": -0.4741,
+      "prior_variance": 0.217312,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Tahoe City",
-      "path": "northamerica/unitedstates/california/tahoe_city",
-      "prior_score": 4.0077,
-      "prior_variance": 0.401632,
-      "prior_n": 5
+      "title": "La Trinit\u00e9",
+      "path": "northamerica/thecaribbean/martinique/latrinite",
+      "prior_score": 0.8889,
+      "prior_variance": 0.288457,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Pavia",
-      "path": "europe/italy/lombardia/pavia",
-      "prior_score": 2.8326,
-      "prior_variance": 0.296885,
-      "prior_n": 5
+      "title": "Pontrieux",
+      "path": "europe/france/normandybrittany/pontrieux",
+      "prior_score": 0.7355,
+      "prior_variance": 0.213316,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Exeter",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/exeter",
-      "prior_score": 1.3564,
-      "prior_variance": 0.262813,
-      "prior_n": 5
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_score": 0.0497,
+      "prior_variance": 0.209748,
+      "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "Plomari",
-      "path": "europe/greece/lesbos/plomari",
-      "prior_score": 1.8215,
-      "prior_variance": 0.229398,
+      "title": "Viseu",
+      "path": "europe/portugal/viseu",
+      "prior_score": 1.2856,
+      "prior_variance": 0.243995,
       "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Aberystwyth",
-      "path": "europe/unitedkingdom/wales/aberystwyth",
-      "prior_score": 1.6496,
-      "prior_variance": 0.266576,
-      "prior_n": 5
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/northcarolina/wilmington",
+      "prior_score": 1.1668,
+      "prior_variance": 0.22221,
+      "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Dalkey",
-      "path": "europe/ireland/dalkey",
-      "prior_score": 1.2866,
-      "prior_variance": 0.275095,
-      "prior_n": 5
+      "title": "Mannheim",
+      "path": "europe/germany/badenwrttemberg/mannheim",
+      "prior_score": 0.014,
+      "prior_variance": 0.221378,
+      "prior_n": 6
     },
     {
       "rank": 13,
-      "title": "Westland",
-      "path": "australiaandpacific/newzealand/south_island/west_coast/westland",
-      "prior_score": 1.2427,
-      "prior_variance": 0.286879,
-      "prior_n": 5
+      "title": "Mildura",
+      "path": "australiaandpacific/australia/victoria/midura",
+      "prior_score": -3.028,
+      "prior_variance": 0.234161,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Nanaimo",
-      "path": "northamerica/canada/britishcolumbia/nanaimo",
-      "prior_score": 0.7022,
-      "prior_variance": 0.25488,
-      "prior_n": 5
+      "title": "Qingyang",
+      "path": "asia/china/gansu/qingyang",
+      "prior_score": -4.342,
+      "prior_variance": 0.239391,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Bei Dai He",
-      "path": "asia/china/bei_dai_he",
-      "prior_score": -0.2983,
-      "prior_variance": 0.244562,
-      "prior_n": 5
+      "title": "Maku",
+      "path": "asia/iran/maku",
+      "prior_score": -5.0494,
+      "prior_variance": 0.25403,
+      "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Haikou",
-      "path": "asia/china/hainanisland/haikou",
-      "prior_score": 1.0791,
-      "prior_variance": 0.25886,
-      "prior_n": 5
+      "title": "Rutland",
+      "path": "northamerica/unitedstates/vermont/rutland",
+      "prior_score": -2.5976,
+      "prior_variance": 0.244972,
+      "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "McCloud",
-      "path": "northamerica/unitedstates/california/shastacascade/mccloud",
-      "prior_score": -1.9109,
-      "prior_variance": 0.275495,
-      "prior_n": 5
+      "title": "Ellsworth",
+      "path": "northamerica/unitedstates/maine/ellsworth",
+      "prior_score": -2.6841,
+      "prior_variance": 0.218407,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Georgetown",
-      "path": "southamerica/guyana/georgetown",
-      "prior_score": -1.8016,
-      "prior_variance": 0.248455,
-      "prior_n": 5
+      "title": "Caxias do Sul",
+      "path": "southamerica/brazil/caxias_do_sul",
+      "prior_score": -3.3792,
+      "prior_variance": 0.220145,
+      "prior_n": 7
     },
     {
       "rank": 19,
-      "title": "Darmstadt",
-      "path": "europe/germany/hessen/darmstadt",
-      "prior_score": -0.837,
-      "prior_variance": 0.276352,
-      "prior_n": 5
+      "title": "Xiangyang",
+      "path": "asia/china/hubei/xiangyang",
+      "prior_score": -4.7063,
+      "prior_variance": 0.199436,
+      "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Olsztyn",
-      "path": "europe/poland/olsztyn",
-      "prior_score": -0.0432,
-      "prior_variance": 0.257606,
-      "prior_n": 5
+      "title": "Nellore",
+      "path": "asia/india/andhrapradesh/nellore",
+      "prior_score": -5.1801,
+      "prior_variance": 0.239387,
+      "prior_n": 7
     },
     {
       "rank": 21,
-      "title": "Barreiro",
-      "path": "europe/portugal/barreiro",
-      "prior_score": -2.8807,
-      "prior_variance": 0.291304,
-      "prior_n": 5
+      "title": "Bettendorf",
+      "path": "northamerica/unitedstates/iowa/bettendorf",
+      "prior_score": -4.973,
+      "prior_variance": 0.246239,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Schweinfurt",
-      "path": "europe/germany/bavaria/schweinfurt",
-      "prior_score": -3.0062,
-      "prior_variance": 0.293783,
-      "prior_n": 5
+      "title": "Worthington",
+      "path": "northamerica/unitedstates/ohio/worthington",
+      "prior_score": -7.7854,
+      "prior_variance": 0.422322,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Sosnowiec",
-      "path": "europe/poland/sosnowiec",
-      "prior_score": -4.9759,
-      "prior_variance": 0.257864,
-      "prior_n": 5
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/newmexico/san_rafael",
+      "prior_score": -4.3037,
+      "prior_variance": 0.297574,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "Aars",
-      "path": "europe/denmark/aars",
-      "prior_score": -4.2327,
-      "prior_variance": 0.32015,
-      "prior_n": 5
+      "title": "Kherson",
+      "path": "europe/ukraine/kherson",
+      "prior_score": -7.2809,
+      "prior_variance": 0.380606,
+      "prior_n": 6
     }
   ]
 }

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boats_at_Pangkor_Island.jp
 latitude: 4.227363
 loc_type: city
 longitude: 100.559078
-score: 0.58
+score: 0.49
 title: Pangkor islands
 type: location
 ---

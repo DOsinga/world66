@@ -8,7 +8,7 @@ latitude: -2.8
 longitude: -171.7
 title: Kanton Island
 type: location
-score: 0.43
+score: 0.28
 loc_type: city
 ---
 

@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:DowntownLeadvilleCO.jpg
 latitude: 39.250823
 loc_type: city
 longitude: -106.292524
-score: 0.51
+score: 0.42
 title: Leadville
 type: location
 ---

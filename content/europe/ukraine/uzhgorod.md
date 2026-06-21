@@ -5,7 +5,7 @@ done:
 latitude: 48.6208
 loc_type: city
 longitude: 22.2879
-score: 0.44
+score: 0.39
 title: Uzhhorod
 type: location
 ---

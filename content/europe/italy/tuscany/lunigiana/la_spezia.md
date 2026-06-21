@@ -7,7 +7,7 @@ done:
 latitude: 44.1024
 loc_type: city
 longitude: 9.8241
-score: 0.61
+score: 0.5
 title: La Spezia
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 14.651055
 loc_type: city
 longitude: 121.048625
-score: 0.41
+score: 0.34
 title: Quezon City
 type: location
 ---

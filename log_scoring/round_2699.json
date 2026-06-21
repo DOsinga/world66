@@ -1,0 +1,200 @@
+{
+  "round": 2699,
+  "timestamp": "2026-06-13T22:01:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milos",
+      "path": "europe/greece/milos",
+      "prior_score": 8.88,
+      "prior_variance": 0.288881,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Krka National Park",
+      "path": "europe/croatia/krka_national_park_1",
+      "prior_score": 9.9144,
+      "prior_variance": 0.345508,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Nikk\u014d",
+      "path": "asia/japan/honshu/nikko",
+      "prior_score": 9.2118,
+      "prior_variance": 0.328593,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Hallstatt",
+      "path": "europe/austria/hallstatt",
+      "prior_score": 10.2173,
+      "prior_variance": 0.557124,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Jaipur",
+      "path": "asia/india/rajasthan/jaipur",
+      "prior_score": 9.4403,
+      "prior_variance": 0.472899,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Verdon Gorge",
+      "path": "europe/france/midi/verdongorge",
+      "prior_score": 7.4254,
+      "prior_variance": 0.220539,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Canaima National Park",
+      "path": "southamerica/venezuela/canaima",
+      "prior_score": 6.0697,
+      "prior_variance": 0.189937,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Iriomote Island",
+      "path": "asia/japan/ryukyuislands/iriomoteisland",
+      "prior_score": 5.4253,
+      "prior_variance": 0.177297,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Nha Trang",
+      "path": "asia/vietnam/nhatrang",
+      "prior_score": 5.3921,
+      "prior_variance": 0.175508,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "St Tropez",
+      "path": "europe/france/midi/cotedazur/sttropez",
+      "prior_score": 7.1589,
+      "prior_variance": 0.211573,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Marseille",
+      "path": "europe/france/midi/cotedazur/marseille",
+      "prior_score": 5.6722,
+      "prior_variance": 0.184969,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Tangier",
+      "path": "africa/morocco/tangier",
+      "prior_score": 3.4872,
+      "prior_variance": 0.165739,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Maastricht",
+      "path": "europe/netherlands/maastricht",
+      "prior_score": 4.3212,
+      "prior_variance": 0.227729,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Braga",
+      "path": "europe/portugal/braga",
+      "prior_score": 4.9946,
+      "prior_variance": 0.182474,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Omis",
+      "path": "europe/croatia/omis",
+      "prior_score": 4.6278,
+      "prior_variance": 0.220404,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Cannon Beach",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach",
+      "prior_score": 5.2828,
+      "prior_variance": 0.171224,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Marsala",
+      "path": "europe/italy/sicily/marsala",
+      "prior_score": 4.1866,
+      "prior_variance": 0.179137,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Tomar",
+      "path": "europe/portugal/tomar",
+      "prior_score": 4.9726,
+      "prior_variance": 0.200282,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Le\u00f3n",
+      "path": "europe/spain/northernspain/leon",
+      "prior_score": 4.6085,
+      "prior_variance": 0.160331,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_score": 4.4762,
+      "prior_variance": 0.200712,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Skarsv\u00e5g",
+      "path": "europe/norway/northcape/skarsvg_the_nort",
+      "prior_score": 0.6155,
+      "prior_variance": 0.153175,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Volos",
+      "path": "europe/greece/volos",
+      "prior_score": 2.2995,
+      "prior_variance": 0.161376,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Lege Cap Ferret",
+      "path": "europe/france/aquitaine/lege_cap_ferret",
+      "prior_score": 2.3341,
+      "prior_variance": 0.170041,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Huelgoat",
+      "path": "europe/france/normandybrittany/huelgoat",
+      "prior_score": 0.4295,
+      "prior_variance": 0.142839,
+      "prior_n": 9
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dalyan_view_from_lycian_to
 latitude: 36.835018
 loc_type: city
 longitude: 28.642391
-score: 0.63
+score: 0.54
 title: Dalyan
 type: location
 ---

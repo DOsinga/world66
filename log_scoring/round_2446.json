@@ -1,0 +1,200 @@
+{
+  "round": 2446,
+  "timestamp": "2026-06-13T21:43:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Castellana Grotte",
+      "path": "europe/italy/puglia/castellana_grotte",
+      "prior_score": 2.3366,
+      "prior_variance": 0.183852,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Carunchio",
+      "path": "europe/italy/abruzzo/carunchio",
+      "prior_score": -2.3304,
+      "prior_variance": 0.179312,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Ladispoli",
+      "path": "europe/italy/lazio/ladispoli",
+      "prior_score": -2.5761,
+      "prior_variance": 0.226311,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Gotska Sand\u00f6n",
+      "path": "europe/sweden/gotska_sandn",
+      "prior_score": -0.9357,
+      "prior_variance": 0.232096,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Rattray Head",
+      "path": "europe/unitedkingdom/scotland/rattray_head",
+      "prior_score": -2.5281,
+      "prior_variance": 0.166595,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Bielsko-Bia\u0142a",
+      "path": "europe/poland/bielsko",
+      "prior_score": -1.9435,
+      "prior_variance": 0.182545,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Bochum",
+      "path": "europe/germany/northrhinewestphalia/bochum",
+      "prior_score": -3.4062,
+      "prior_variance": 0.184536,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Kabli",
+      "path": "europe/estonia/kabli",
+      "prior_score": -5.681,
+      "prior_variance": 0.216125,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Anjalankoski",
+      "path": "europe/finland/anjalankoski",
+      "prior_score": -6.444,
+      "prior_variance": 0.37508,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Yiwu",
+      "path": "asia/china/zhejiang/yiwu",
+      "prior_score": -4.7993,
+      "prior_variance": 0.248429,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Murfreesboro",
+      "path": "northamerica/unitedstates/tennessee/murfreesboro",
+      "prior_score": -3.2839,
+      "prior_variance": 0.140039,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/texas/arlington",
+      "prior_score": -4.5141,
+      "prior_variance": 0.191326,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Little Rock",
+      "path": "northamerica/unitedstates/arkansas/littlerock",
+      "prior_score": -3.4756,
+      "prior_variance": 0.212064,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Mont-Laurier",
+      "path": "northamerica/canada/quebec/montlaurier",
+      "prior_score": -3.7811,
+      "prior_variance": 0.161719,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Brandon",
+      "path": "northamerica/canada/manitoba/brandon",
+      "prior_score": -5.252,
+      "prior_variance": 0.218156,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Bartica",
+      "path": "southamerica/guyana/bartica",
+      "prior_score": -4.6557,
+      "prior_variance": 0.180931,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Cavite",
+      "path": "asia/philippines/cavite",
+      "prior_score": -2.7519,
+      "prior_variance": 0.183717,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Tarlac",
+      "path": "asia/philippines/tarlac",
+      "prior_score": -4.7524,
+      "prior_variance": 0.215394,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Zomba",
+      "path": "africa/malawi/zomba",
+      "prior_score": -3.0199,
+      "prior_variance": 0.200968,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Chibi",
+      "path": "asia/china/hubei/chibi",
+      "prior_score": -6.4719,
+      "prior_variance": 0.240095,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Stoke-on-Trent",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/stokeontrent_st",
+      "prior_score": -5.4793,
+      "prior_variance": 0.345105,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Lodwar",
+      "path": "africa/kenya/northernkenya/lodwar",
+      "prior_score": -6.7703,
+      "prior_variance": 0.262936,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Saint-Marc",
+      "path": "northamerica/thecaribbean/haiti/saintmarc",
+      "prior_score": -7.6013,
+      "prior_variance": 0.236748,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Maracay",
+      "path": "southamerica/venezuela/maracay",
+      "prior_score": -7.2476,
+      "prior_variance": 0.252142,
+      "prior_n": 7
+    }
+  ]
+}

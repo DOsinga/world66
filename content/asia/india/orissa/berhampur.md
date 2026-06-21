@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ramalingeswar_,_Brahmapur,
 latitude: 19.315
 loc_type: city
 longitude: 84.7941
-score: 0.34
+score: 0.26
 title: Berhampur
 type: location
 ---

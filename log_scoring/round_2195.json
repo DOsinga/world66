@@ -1,200 +1,200 @@
 {
   "round": 2195,
-  "timestamp": "2026-04-13T16:19:25",
+  "timestamp": "2026-06-13T21:25:19",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Richmond",
-      "path": "australiaandpacific/australia/tasmania/richmond",
-      "prior_score": 0.7061,
-      "prior_variance": 0.264393,
-      "prior_n": 5
+      "title": "Franz Josef",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/franzjosef",
+      "prior_score": 5.2924,
+      "prior_variance": 0.262745,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Vila Real",
-      "path": "europe/portugal/algarve/vilareal",
-      "prior_score": -0.8879,
-      "prior_variance": 0.203338,
-      "prior_n": 6
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_national_park",
+      "prior_score": 2.4011,
+      "prior_variance": 0.197576,
+      "prior_n": 7
     },
     {
       "rank": 3,
-      "title": "Pilis Hills",
-      "path": "europe/hungary/pilis_hills",
-      "prior_score": -0.5789,
-      "prior_variance": 0.210829,
-      "prior_n": 6
+      "title": "Tianzhu Mountain",
+      "path": "asia/china/anhui/tianzhu_mountain",
+      "prior_score": 0.8919,
+      "prior_variance": 0.227018,
+      "prior_n": 7
     },
     {
       "rank": 4,
-      "title": "Popoyo Beach",
-      "path": "northamerica/nicaragua/popoyo_beach",
-      "prior_score": -0.3184,
-      "prior_variance": 0.231076,
-      "prior_n": 6
+      "title": "Lushan",
+      "path": "asia/china/jiangxi/lushan",
+      "prior_score": 1.0069,
+      "prior_variance": 0.187491,
+      "prior_n": 8
     },
     {
       "rank": 5,
-      "title": "Morgan Hill",
-      "path": "northamerica/unitedstates/california/morgan_hill",
-      "prior_score": -3.7542,
-      "prior_variance": 0.232651,
+      "title": "Dir\u2019iyah",
+      "path": "asia/saudiarabia/diriyah",
+      "prior_score": 0.365,
+      "prior_variance": 0.207701,
       "prior_n": 7
     },
     {
       "rank": 6,
-      "title": "Durham",
-      "path": "northamerica/unitedstates/newhampshire/durham",
-      "prior_score": -3.9956,
-      "prior_variance": 0.284803,
-      "prior_n": 5
+      "title": "Emi Koussi",
+      "path": "africa/chad/emikoussi",
+      "prior_score": -6.1399,
+      "prior_variance": 0.302163,
+      "prior_n": 7
     },
     {
       "rank": 7,
-      "title": "Rochdale",
-      "path": "europe/unitedkingdom/england/manchester_liverp/rochdale",
-      "prior_score": -5.5963,
-      "prior_variance": 0.262218,
+      "title": "Otep\u00e4\u00e4",
+      "path": "europe/estonia/otep",
+      "prior_score": -1.3118,
+      "prior_variance": 0.179409,
       "prior_n": 7
     },
     {
       "rank": 8,
-      "title": "Petrozavodsk",
-      "path": "europe/russia/karelia/petrozavodsk",
-      "prior_score": -2.0582,
-      "prior_variance": 0.278465,
-      "prior_n": 6
+      "title": "Cengio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cengio",
+      "prior_score": -2.3195,
+      "prior_variance": 0.232839,
+      "prior_n": 7
     },
     {
       "rank": 9,
-      "title": "Kutina",
-      "path": "europe/croatia/kutina",
-      "prior_score": -3.7621,
-      "prior_variance": 0.222437,
-      "prior_n": 6
+      "title": "Magliolo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/magliolo",
+      "prior_score": -1.7751,
+      "prior_variance": 0.188016,
+      "prior_n": 7
     },
     {
       "rank": 10,
-      "title": "Sfax",
-      "path": "africa/tunisia/sfax",
-      "prior_score": -3.3732,
-      "prior_variance": 0.26124,
-      "prior_n": 6
+      "title": "Ostrava",
+      "path": "europe/czechrepublic/ostrava",
+      "prior_score": -2.0651,
+      "prior_variance": 0.173695,
+      "prior_n": 7
     },
     {
       "rank": 11,
-      "title": "Tarlac",
-      "path": "asia/philippines/tarlac",
-      "prior_score": -3.6259,
-      "prior_variance": 0.274319,
-      "prior_n": 5
+      "title": "Alytus",
+      "path": "europe/lithuania/alytus",
+      "prior_score": -4.2639,
+      "prior_variance": 0.170423,
+      "prior_n": 8
     },
     {
       "rank": 12,
-      "title": "Cauayan",
-      "path": "asia/philippines/cauayan",
-      "prior_score": -4.869,
-      "prior_variance": 0.341593,
-      "prior_n": 6
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_score": -1.8233,
+      "prior_variance": 0.176831,
+      "prior_n": 7
     },
     {
       "rank": 13,
-      "title": "Midland",
-      "path": "northamerica/unitedstates/texas/midland",
-      "prior_score": -6.1465,
-      "prior_variance": 0.29175,
-      "prior_n": 6
+      "title": "100 Mile House",
+      "path": "northamerica/canada/britishcolumbia/100milehouse",
+      "prior_score": -4.7619,
+      "prior_variance": 0.201949,
+      "prior_n": 7
     },
     {
       "rank": 14,
-      "title": "Aneho",
-      "path": "africa/togo/aneho",
-      "prior_score": -4.2488,
-      "prior_variance": 0.228582,
-      "prior_n": 6
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/ohio/cleveland",
+      "prior_score": -2.4307,
+      "prior_variance": 0.206417,
+      "prior_n": 7
     },
     {
       "rank": 15,
-      "title": "Ojinaga",
-      "path": "northamerica/mexico/ojinaga",
-      "prior_score": -5.3049,
-      "prior_variance": 0.274846,
-      "prior_n": 5
+      "title": "Claremore",
+      "path": "northamerica/unitedstates/oklahoma/claremore",
+      "prior_score": -3.7524,
+      "prior_variance": 0.216151,
+      "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "Bagh",
-      "path": "asia/pakistan/azad_kashmir/bagh",
-      "prior_score": -5.1679,
-      "prior_variance": 0.27156,
-      "prior_n": 6
+      "title": "Rugby, Tennessee",
+      "path": "northamerica/unitedstates/tennessee/rugby_tennessee",
+      "prior_score": -4.0719,
+      "prior_variance": 0.224339,
+      "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "Corozal",
-      "path": "northamerica/honduras/corozal_honduras",
-      "prior_score": -7.2469,
-      "prior_variance": 0.335216,
-      "prior_n": 5
+      "title": "Butare",
+      "path": "africa/rwanda/butare",
+      "prior_score": -2.3556,
+      "prior_variance": 0.221758,
+      "prior_n": 7
     },
     {
       "rank": 18,
-      "title": "Budville",
-      "path": "northamerica/unitedstates/newmexico/budville",
-      "prior_score": -7.8135,
-      "prior_variance": 0.540314,
-      "prior_n": 6
+      "title": "Sumgait",
+      "path": "europe/azerbaijan/sumgait",
+      "prior_score": -6.1789,
+      "prior_variance": 0.266354,
+      "prior_n": 8
     },
     {
       "rank": 19,
-      "title": "Aberdeen",
-      "path": "northamerica/unitedstates/southcarolina/aberdeen",
-      "prior_score": -6.3274,
-      "prior_variance": 0.313634,
-      "prior_n": 5
+      "title": "Krasnodar",
+      "path": "europe/russia/krasnodar",
+      "prior_score": -4.0919,
+      "prior_variance": 0.187415,
+      "prior_n": 7
     },
     {
       "rank": 20,
-      "title": "valley falls",
-      "path": "northamerica/unitedstates/kansas/valley_falls",
-      "prior_score": -5.8799,
-      "prior_variance": 0.257202,
+      "title": "Brazzaville",
+      "path": "africa/congobrazzaville/brazzaville",
+      "prior_score": -5.1455,
+      "prior_variance": 0.245017,
       "prior_n": 7
     },
     {
       "rank": 21,
-      "title": "Bafata",
-      "path": "africa/guineabissau/bafata",
-      "prior_score": -6.858,
-      "prior_variance": 0.333573,
-      "prior_n": 5
+      "title": "Kabankalan City",
+      "path": "asia/philippines/negrosisland/kabankalan_city",
+      "prior_score": -4.901,
+      "prior_variance": 0.212813,
+      "prior_n": 7
     },
     {
       "rank": 22,
-      "title": "Akure",
-      "path": "africa/nigeria/akure",
-      "prior_score": -5.8808,
-      "prior_variance": 0.35883,
-      "prior_n": 5
+      "title": "Bhagalpur",
+      "path": "asia/india/bihar/bhagalpur",
+      "prior_score": -6.4597,
+      "prior_variance": 0.241869,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Faisalabad",
-      "path": "asia/pakistan/faisalabad",
-      "prior_score": -7.416,
-      "prior_variance": 0.350175,
-      "prior_n": 5
+      "title": "Ilorin",
+      "path": "africa/nigeria/ilorin",
+      "prior_score": -5.8957,
+      "prior_variance": 0.238342,
+      "prior_n": 7
     },
     {
       "rank": 24,
-      "title": "Aleppo",
-      "path": "asia/syria/aleppo",
-      "prior_score": -8.3289,
-      "prior_variance": 0.510915,
-      "prior_n": 5
+      "title": "Willacoochee",
+      "path": "northamerica/unitedstates/georgia/willacoochee",
+      "prior_score": -8.2036,
+      "prior_variance": 0.404166,
+      "prior_n": 6
     }
   ]
 }

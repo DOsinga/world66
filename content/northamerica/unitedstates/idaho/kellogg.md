@@ -5,7 +5,7 @@ done:
 latitude: 47.5374
 loc_type: city
 longitude: -116.1246
-score: 0.35
+score: 0.32
 title: Kellogg
 type: location
 ---

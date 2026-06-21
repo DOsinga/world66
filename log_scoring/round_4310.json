@@ -1,0 +1,200 @@
+{
+  "round": 4310,
+  "timestamp": "2026-06-14T00:02:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zurich",
+      "path": "europe/switzerland/zurich",
+      "prior_score": 7.1161,
+      "prior_variance": 0.147562,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Antigua Guatemala",
+      "path": "northamerica/guatemala/antiguaguatemala",
+      "prior_score": 6.6663,
+      "prior_variance": 0.112129,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Alberobello",
+      "path": "europe/italy/puglia/alberobello",
+      "prior_score": 6.0968,
+      "prior_variance": 0.110232,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "R\u00eda de Vigo",
+      "path": "europe/spain/galicia/ria_of_vigo",
+      "prior_score": 2.3489,
+      "prior_variance": 0.090217,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Chantilly",
+      "path": "europe/france/nord/chantilly",
+      "prior_score": 2.5541,
+      "prior_variance": 0.122978,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Lessinia",
+      "path": "europe/italy/veneto/lessinia",
+      "prior_score": 2.1442,
+      "prior_variance": 0.096017,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Deventer",
+      "path": "europe/netherlands/deventer",
+      "prior_score": 0.6712,
+      "prior_variance": 0.097213,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Hill of Crosses",
+      "path": "europe/lithuania/hill_of_crosses",
+      "prior_score": 2.533,
+      "prior_variance": 0.098817,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Dakar",
+      "path": "africa/senegal/dakar",
+      "prior_score": 1.6447,
+      "prior_variance": 0.101872,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Koprivshtitsa",
+      "path": "europe/bulgaria/koprivshtitsa",
+      "prior_score": 1.165,
+      "prior_variance": 0.088438,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Matara",
+      "path": "asia/srilanka/matara",
+      "prior_score": 0.8946,
+      "prior_variance": 0.101615,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Kilifi",
+      "path": "africa/kenya/thecoast/kilifi",
+      "prior_score": 0.6842,
+      "prior_variance": 0.08144,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Moka",
+      "path": "africa/mauritius/moka",
+      "prior_score": -0.3747,
+      "prior_variance": 0.094976,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "G\u00f6d\u00f6ll\u0151",
+      "path": "europe/hungary/godollo",
+      "prior_score": 0.0392,
+      "prior_variance": 0.090634,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Poiana Bra\u0219ov",
+      "path": "europe/romania/poiana_brasov",
+      "prior_score": 1.798,
+      "prior_variance": 0.088821,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Church Stretton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/churchstretton",
+      "prior_score": -0.9292,
+      "prior_variance": 0.097752,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Poprad",
+      "path": "europe/slovakia/poprad",
+      "prior_score": -0.0082,
+      "prior_variance": 0.095333,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Skanes",
+      "path": "africa/tunisia/skanes",
+      "prior_score": -1.2882,
+      "prior_variance": 0.100291,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Kalocsa",
+      "path": "europe/hungary/kalocsa",
+      "prior_score": -1.3834,
+      "prior_variance": 0.096133,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Murree",
+      "path": "asia/pakistan/murree",
+      "prior_score": -1.1157,
+      "prior_variance": 0.103298,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Chinguetti",
+      "path": "africa/mauritania/chinguetti",
+      "prior_score": -1.1813,
+      "prior_variance": 0.109348,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Alpharetta",
+      "path": "northamerica/unitedstates/georgia/alpharetta",
+      "prior_score": -3.9139,
+      "prior_variance": 0.122557,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Porto Amboim",
+      "path": "africa/angola/porto_amboim",
+      "prior_score": -6.4214,
+      "prior_variance": 0.12663,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Kolwezi",
+      "path": "africa/congokinshasa/kolwezi",
+      "prior_score": -7.8033,
+      "prior_variance": 0.1675,
+      "prior_n": 13
+    }
+  ]
+}

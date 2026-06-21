@@ -5,7 +5,7 @@ done:
 latitude: 9.5634
 loc_type: city
 longitude: -79.4693
-score: 0.4
+score: 0.34
 title: Nombre de Dios
 type: location
 ---

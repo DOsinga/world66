@@ -5,7 +5,7 @@ done:
 latitude: 34.181209
 loc_type: city
 longitude: -118.307201
-score: 0.37
+score: 0.33
 title: Burbank
 type: location
 ---

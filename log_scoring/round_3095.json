@@ -1,0 +1,200 @@
+{
+  "round": 3095,
+  "timestamp": "2026-06-13T22:28:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shiretoko",
+      "path": "asia/japan/hokkaido/shiretoko",
+      "prior_score": 5.2252,
+      "prior_variance": 0.168266,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Zagreb",
+      "path": "europe/croatia/zagreb",
+      "prior_score": 5.4041,
+      "prior_variance": 0.172547,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Bodh Gaya",
+      "path": "asia/india/bihar/bodhgaya",
+      "prior_score": 3.3678,
+      "prior_variance": 0.131736,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Minsk",
+      "path": "europe/belarus/minsk",
+      "prior_score": -0.7902,
+      "prior_variance": 0.142208,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Matheran",
+      "path": "asia/india/maharashtra/matheran",
+      "prior_score": 0.921,
+      "prior_variance": 0.136849,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Bandiagara",
+      "path": "africa/mali/dogoncountry/bandiagara",
+      "prior_score": -1.5324,
+      "prior_variance": 0.173229,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Chiclayo",
+      "path": "southamerica/peru/chiclayo",
+      "prior_score": 0.2223,
+      "prior_variance": 0.131772,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Atiu",
+      "path": "australiaandpacific/cookislands/atiu",
+      "prior_score": 1.0578,
+      "prior_variance": 0.129232,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Roswell",
+      "path": "northamerica/unitedstates/newmexico/roswell",
+      "prior_score": 1.2267,
+      "prior_variance": 0.128969,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Foumban",
+      "path": "africa/cameroon/foumban",
+      "prior_score": -1.5521,
+      "prior_variance": 0.130149,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Datong",
+      "path": "asia/china/shanxiprovince/datong",
+      "prior_score": 1.5381,
+      "prior_variance": 0.14257,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Ybor City",
+      "path": "northamerica/unitedstates/florida/tampabayarea/yborcity",
+      "prior_score": -0.3589,
+      "prior_variance": 0.142858,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Twickenham",
+      "path": "europe/unitedkingdom/england/south_east/twickenham",
+      "prior_score": -0.9968,
+      "prior_variance": 0.135031,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Gr\u00e9oli\u00e8res",
+      "path": "europe/france/midi/cotedazur/greolieres",
+      "prior_score": -0.2286,
+      "prior_variance": 0.137942,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Carlton",
+      "path": "australiaandpacific/australia/victoria/carlton",
+      "prior_score": -2.4178,
+      "prior_variance": 0.147954,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Podgora",
+      "path": "europe/croatia/podgora",
+      "prior_score": 2.091,
+      "prior_variance": 0.141393,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Sylhet",
+      "path": "asia/bangladesh/sylhet",
+      "prior_score": -2.7429,
+      "prior_variance": 0.123498,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Kalinga",
+      "path": "asia/philippines/kalinga",
+      "prior_score": -1.7402,
+      "prior_variance": 0.140013,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Clonmel",
+      "path": "europe/ireland/clonmel",
+      "prior_score": -0.9463,
+      "prior_variance": 0.146545,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Marktl am Inn",
+      "path": "europe/germany/bavaria/marktl_am_inn",
+      "prior_score": -2.2805,
+      "prior_variance": 0.170048,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Corvallis",
+      "path": "northamerica/unitedstates/oregon/corvallis",
+      "prior_score": -1.8335,
+      "prior_variance": 0.136452,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Tuguegarao City",
+      "path": "asia/philippines/tuguegaraocity",
+      "prior_score": -4.1957,
+      "prior_variance": 0.160519,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_score": -4.8064,
+      "prior_variance": 0.163523,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Lodhran",
+      "path": "asia/pakistan/lodhran",
+      "prior_score": -8.0276,
+      "prior_variance": 0.196427,
+      "prior_n": 9
+    }
+  ]
+}

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Barkhor_in_Lhasa_(Tibet)_2
 latitude: 29.654205
 loc_type: city
 longitude: 91.117301
-score: 0.71
+score: 0.61
 title: Lhasa
 type: location
 ---

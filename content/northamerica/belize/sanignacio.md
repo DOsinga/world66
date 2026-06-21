@@ -5,7 +5,7 @@ done:
 latitude: 17.1562
 loc_type: city
 longitude: -89.0706
-score: 0.53
+score: 0.51
 title: San Ignacio
 type: location
 ---

@@ -6,12 +6,12 @@ latitude: 48.0159
 longitude: 37.8029
 title: Donetsk
 type: location
-score: 0.13
+score: 0.09
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Donetsk
-  - https://en.wikipedia.org/wiki/Donbas_Arena
-  - https://en.wikipedia.org/wiki/Donetsk_Metro
+- https://en.wikipedia.org/wiki/Donetsk
+- https://en.wikipedia.org/wiki/Donbas_Arena
+- https://en.wikipedia.org/wiki/Donetsk_Metro
 ---
 
 > **Warning:** Since 2014, Donetsk has been under the control of Russian-backed separatist forces and, since 2022, under full Russian military occupation. The city is not accessible to ordinary travellers. All information on this page reflects the city as it was before the conflict.

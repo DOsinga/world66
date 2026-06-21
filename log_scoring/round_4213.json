@@ -1,0 +1,200 @@
+{
+  "round": 4213,
+  "timestamp": "2026-06-13T23:54:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Capitol Reef",
+      "path": "northamerica/unitedstates/utah/capitolreef",
+      "prior_score": 5.2785,
+      "prior_variance": 0.12463,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Ihlara Valley",
+      "path": "asia/turkey/cappadocia/ihlaravalley",
+      "prior_score": 4.8155,
+      "prior_variance": 0.115088,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Aosta",
+      "path": "europe/italy/valledaosta/aosta",
+      "prior_score": 4.0452,
+      "prior_variance": 0.098939,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Ennis",
+      "path": "europe/ireland/ennis",
+      "prior_score": 1.7597,
+      "prior_variance": 0.103192,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Linlithgow",
+      "path": "europe/unitedkingdom/scotland/linlithgow",
+      "prior_score": 1.4072,
+      "prior_variance": 0.094035,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Ocracoke Island",
+      "path": "northamerica/unitedstates/northcarolina/ocracokeisland",
+      "prior_score": 1.3968,
+      "prior_variance": 0.100292,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Corn Islands",
+      "path": "northamerica/nicaragua/cornislands",
+      "prior_score": 1.0763,
+      "prior_variance": 0.104036,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Cape Maclear",
+      "path": "africa/malawi/capemaclear",
+      "prior_score": -0.5193,
+      "prior_variance": 0.100272,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Lushoto",
+      "path": "africa/tanzania/lushoto",
+      "prior_score": 0.3426,
+      "prior_variance": 0.095419,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Yangon",
+      "path": "asia/myanmar/yangon",
+      "prior_score": 1.9948,
+      "prior_variance": 0.09882,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Crescent City",
+      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
+      "prior_score": -2.1108,
+      "prior_variance": 0.106437,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Makassar",
+      "path": "asia/indonesia/sulawesi/makassar",
+      "prior_score": -0.4976,
+      "prior_variance": 0.096466,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Antananarivo",
+      "path": "africa/madagascar/antananarivo",
+      "prior_score": -1.5236,
+      "prior_variance": 0.104653,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Xingyi",
+      "path": "asia/china/guizhou/xingyi",
+      "prior_score": -2.2741,
+      "prior_variance": 0.09704,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Klek",
+      "path": "europe/croatia/dalmatia/klek",
+      "prior_score": -0.6677,
+      "prior_variance": 0.107572,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Puyallup",
+      "path": "northamerica/unitedstates/washington/puyallup",
+      "prior_score": -3.5954,
+      "prior_variance": 0.104952,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Brandon",
+      "path": "northamerica/canada/manitoba/brandon",
+      "prior_score": -4.815,
+      "prior_variance": 0.138453,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Leesburg",
+      "path": "northamerica/unitedstates/florida/leesburg",
+      "prior_score": -5.0525,
+      "prior_variance": 0.115612,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Norman",
+      "path": "northamerica/unitedstates/oklahoma/norman",
+      "prior_score": -3.927,
+      "prior_variance": 0.112691,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Sharur",
+      "path": "europe/azerbaijan/naxcivan/sharur",
+      "prior_score": -6.5878,
+      "prior_variance": 0.173215,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Henryetta",
+      "path": "northamerica/unitedstates/oklahoma/henryetta",
+      "prior_score": -6.6377,
+      "prior_variance": 0.136695,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Chickasaw",
+      "path": "northamerica/unitedstates/oklahoma/chickasaw",
+      "prior_score": -7.0419,
+      "prior_variance": 0.175291,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_score": -7.9174,
+      "prior_variance": 0.218813,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "N'Djamena",
+      "path": "africa/chad/ndjamena",
+      "prior_score": -7.6157,
+      "prior_variance": 0.159506,
+      "prior_n": 13
+    }
+  ]
+}

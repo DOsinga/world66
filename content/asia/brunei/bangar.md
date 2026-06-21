@@ -5,7 +5,7 @@ done:
 latitude: 4.707648
 loc_type: city
 longitude: 115.072444
-score: 0.36
+score: 0.31
 title: Bangar
 type: location
 ---

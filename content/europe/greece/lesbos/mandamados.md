@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Agios_Taxiarchis_Monastery
 latitude: 39.310716
 loc_type: city
 longitude: 26.336002
-score: 0.5
+score: 0.43
 title: Mandamados
 type: location
 ---

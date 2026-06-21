@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ptuj_Town_Hall.jpg
 latitude: 46.41981
 loc_type: city
 longitude: 15.871738
-score: 0.56
+score: 0.52
 title: Ptuj
 type: location
 ---

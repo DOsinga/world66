@@ -5,7 +5,7 @@ done:
 latitude: 16.659774
 loc_type: city
 longitude: -9.617881
-score: 0.21
+score: 0.16
 title: Ayoun el-Atrous
 type: location
 image: ayounalatrous.jpg

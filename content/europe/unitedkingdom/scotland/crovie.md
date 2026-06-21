@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Crovie_by_Cabro_Aviation.j
 latitude: 57.679
 loc_type: city
 longitude: -2.3241
-score: 0.48
+score: 0.45
 title: Crovie
 type: location
 ---

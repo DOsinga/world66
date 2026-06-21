@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Cody,_Wyoming.jpg
 latitude: 44.526311
 loc_type: city
 longitude: -109.056392
-score: 0.52
+score: 0.47
 title: Cody
 type: location
 ---

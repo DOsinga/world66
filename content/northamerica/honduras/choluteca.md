@@ -5,7 +5,7 @@ done:
 latitude: 13.2991
 loc_type: city
 longitude: -87.1917
-score: 0.33
+score: 0.27
 title: Choluteca
 type: location
 ---

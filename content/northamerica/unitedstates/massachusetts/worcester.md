@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Worcester,_Massac
 latitude: 42.262562
 loc_type: city
 longitude: -71.801888
-score: 0.35
+score: 0.29
 title: Worcester
 type: location
 ---

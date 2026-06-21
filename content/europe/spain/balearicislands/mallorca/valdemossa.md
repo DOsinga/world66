@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Valldemossa_2003.jpg
 lat: 39.7101
 loc_type: city
 long: 2.6218
-score: 0.66
+score: 0.56
 title: Valldemossa
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 37.594036
 loc_type: city
 longitude: 61.839793
-score: 0.32
+score: 0.24
 title: Mary
 type: location
 ---

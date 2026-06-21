@@ -5,7 +5,7 @@ done:
 latitude: -23.1775
 loc_type: city
 longitude: -57.1675
-score: 0.36
+score: 0.28
 title: Concepción
 type: location
 ---

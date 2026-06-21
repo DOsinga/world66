@@ -1,0 +1,200 @@
+{
+  "round": 2387,
+  "timestamp": "2026-06-13T21:39:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salar de Atacama",
+      "path": "southamerica/chile/atacamadesert/salardeatacama",
+      "prior_score": 5.1123,
+      "prior_variance": 0.21256,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Domme",
+      "path": "europe/france/midi/dordogne/domme",
+      "prior_score": 3.9566,
+      "prior_variance": 0.247344,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Aswan",
+      "path": "africa/egypt/aswan",
+      "prior_score": 7.4816,
+      "prior_variance": 0.259367,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "The Hague",
+      "path": "europe/netherlands/thehague",
+      "prior_score": 4.9694,
+      "prior_variance": 0.183843,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Tsilivi",
+      "path": "europe/greece/zakinthos/tsilivi",
+      "prior_score": 3.2185,
+      "prior_variance": 0.201832,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Puerto Viejo de Talamanca",
+      "path": "northamerica/costarica/puerto_viejo_de_talamanca",
+      "prior_score": 4.1099,
+      "prior_variance": 0.223259,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "The Norfolk Broads",
+      "path": "europe/unitedkingdom/england/norfolk/the_norfolk_broads",
+      "prior_score": 2.024,
+      "prior_variance": 0.182105,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Pratolino",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/pratolino",
+      "prior_score": 0.7948,
+      "prior_variance": 0.202975,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Shimonoseki",
+      "path": "asia/japan/honshu/shimonoseki",
+      "prior_score": 1.4162,
+      "prior_variance": 0.186867,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Taroudant",
+      "path": "africa/morocco/taroudant",
+      "prior_score": 1.5146,
+      "prior_variance": 0.16091,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Mullingar",
+      "path": "europe/ireland/mullingar",
+      "prior_score": -1.9382,
+      "prior_variance": 0.181744,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Matar\u00f3",
+      "path": "europe/spain/catalonia/mataro",
+      "prior_score": -2.1221,
+      "prior_variance": 0.195341,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Port-au-Prince",
+      "path": "northamerica/thecaribbean/haiti/portauprince",
+      "prior_score": -7.5819,
+      "prior_variance": 0.366957,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "New Iberia",
+      "path": "northamerica/unitedstates/louisiana/newiberia",
+      "prior_score": -2.7423,
+      "prior_variance": 0.174396,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Tus",
+      "path": "asia/iran/tuz",
+      "prior_score": -5.7305,
+      "prior_variance": 0.201865,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Torre\u00f3n",
+      "path": "northamerica/mexico/torreon",
+      "prior_score": -3.9019,
+      "prior_variance": 0.234177,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Tangerang",
+      "path": "asia/indonesia/java/tangerang",
+      "prior_score": -5.2053,
+      "prior_variance": 0.232219,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Elk City",
+      "path": "northamerica/unitedstates/oklahoma/elk_city",
+      "prior_score": -5.9077,
+      "prior_variance": 0.230729,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_score": -5.577,
+      "prior_variance": 0.235344,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Yucaipa",
+      "path": "northamerica/unitedstates/california/inlandempire/yucaipa",
+      "prior_score": -6.0417,
+      "prior_variance": 0.247249,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Larned",
+      "path": "northamerica/unitedstates/kansas/larned",
+      "prior_score": -6.8216,
+      "prior_variance": 0.20785,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Santan\u00ed",
+      "path": "southamerica/paraguay/santan",
+      "prior_score": -6.3352,
+      "prior_variance": 0.216273,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Grays",
+      "path": "europe/unitedkingdom/england/eastern_england/grays",
+      "prior_score": -6.55,
+      "prior_variance": 0.293962,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Abeche",
+      "path": "africa/chad/abeche",
+      "prior_score": -8.7404,
+      "prior_variance": 0.390145,
+      "prior_n": 7
+    }
+  ]
+}

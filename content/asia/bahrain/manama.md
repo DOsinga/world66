@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bab_Al_Bahrain,_Manama,_Ba
 latitude: 26.223504
 loc_type: city
 longitude: 50.582244
-score: 0.5
+score: 0.42
 title: Manama
 type: location
 ---

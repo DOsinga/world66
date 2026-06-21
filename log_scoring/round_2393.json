@@ -1,0 +1,200 @@
+{
+  "round": 2393,
+  "timestamp": "2026-06-13T21:39:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aberdare N.P.",
+      "path": "africa/kenya/nationalparksandreserves/aberdarenp",
+      "prior_score": 1.3034,
+      "prior_variance": 0.194616,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Flores",
+      "path": "northamerica/guatemala/flores",
+      "prior_score": 3.0805,
+      "prior_variance": 0.199278,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Sonoma",
+      "path": "northamerica/unitedstates/california/northcoast/sonoma",
+      "prior_score": 2.0587,
+      "prior_variance": 0.218786,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Pe\u00f1asco",
+      "path": "northamerica/mexico/puerto_penasco",
+      "prior_score": 0.1663,
+      "prior_variance": 0.165929,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Johor Bahru",
+      "path": "asia/malaysia/johorbahru",
+      "prior_score": -0.5742,
+      "prior_variance": 0.179353,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Rauma",
+      "path": "europe/finland/rauma",
+      "prior_score": 1.3699,
+      "prior_variance": 0.165611,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Balboa",
+      "path": "northamerica/panama/balboa",
+      "prior_score": -0.1229,
+      "prior_variance": 0.141368,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Douglas",
+      "path": "europe/isleofman/douglas",
+      "prior_score": 0.2994,
+      "prior_variance": 0.154674,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Shkoder",
+      "path": "europe/albania/shkoder",
+      "prior_score": 0.9521,
+      "prior_variance": 0.194369,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Itapema",
+      "path": "southamerica/brazil/itapema",
+      "prior_score": -0.1963,
+      "prior_variance": 0.178332,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Vernon",
+      "path": "northamerica/canada/britishcolumbia/vernon",
+      "prior_score": -1.345,
+      "prior_variance": 0.196897,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "St Just in Penwith",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_just_in_penwith",
+      "prior_score": 1.0993,
+      "prior_variance": 0.161679,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Colwyn Bay",
+      "path": "europe/unitedkingdom/wales/colwyn_bay",
+      "prior_score": -3.1453,
+      "prior_variance": 0.176398,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Jakobstad",
+      "path": "europe/finland/jakobstad",
+      "prior_score": -1.4494,
+      "prior_variance": 0.214322,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+      "prior_score": -2.8012,
+      "prior_variance": 0.202728,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Fryeburg",
+      "path": "northamerica/unitedstates/maine/fryeburg",
+      "prior_score": -1.901,
+      "prior_variance": 0.153654,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Littleton",
+      "path": "northamerica/unitedstates/newhampshire/littleton",
+      "prior_score": -3.3722,
+      "prior_variance": 0.182903,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Kaiserslautern",
+      "path": "europe/germany/rhinelandpalatinate/kaiserslautern",
+      "prior_score": -2.6385,
+      "prior_variance": 0.190924,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Maynooth",
+      "path": "europe/ireland/maynooth",
+      "prior_score": -1.5844,
+      "prior_variance": 0.190928,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Heihe",
+      "path": "asia/china/heilongjiang/heihe",
+      "prior_score": -4.9245,
+      "prior_variance": 0.228989,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Portoviejo",
+      "path": "southamerica/ecuador/portoviejo",
+      "prior_score": -5.2878,
+      "prior_variance": 0.306892,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Gorgona",
+      "path": "southamerica/colombia/gorgona",
+      "prior_score": -3.9709,
+      "prior_variance": 0.225365,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Hadjer Hadid",
+      "path": "africa/chad/hadjer_hadid",
+      "prior_score": -10.7976,
+      "prior_variance": 0.62008,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_score": -11.699,
+      "prior_variance": 0.396444,
+      "prior_n": 7
+    }
+  ]
+}

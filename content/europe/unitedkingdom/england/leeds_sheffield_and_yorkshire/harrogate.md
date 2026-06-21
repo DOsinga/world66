@@ -8,9 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Harrogate_War_Memorial_-_C
 latitude: 53.992149
 loc_type: city
 longitude: -1.539104
-score: 0.57
+score: 0.5
 sources:
-  - https://en.wikipedia.org/wiki/Harrogate
+- https://en.wikipedia.org/wiki/Harrogate
 title: Harrogate
 type: location
 ---

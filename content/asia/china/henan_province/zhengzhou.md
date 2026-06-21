@@ -7,7 +7,7 @@ done:
 latitude: 34.7473
 loc_type: city
 longitude: 113.6193
-score: 0.44
+score: 0.34
 sources:
 - https://en.wikipedia.org/wiki/Zhengzhou
 - https://en.wikipedia.org/wiki/Shaolin_Monastery

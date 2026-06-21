@@ -5,7 +5,7 @@ done:
 latitude: 26.131526
 loc_type: city
 longitude: 50.550343
-score: 0.39
+score: 0.32
 title: Riffa
 type: location
 ---

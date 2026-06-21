@@ -10,6 +10,7 @@ loc_type: city
 longitude: 10.3247
 title: La Marsa
 type: location
+score: 0.4
 ---
 
 La Marsa is the most elegant of the seaside suburbs strung along the cliff coast north of **[Tunis](/africa/tunisia/tunis)** — a leafy, well-off beach town that has been the summer escape of the Tunisian capital since Ottoman times. It sits at the northern end of the **TGM** light-rail line that runs from Tunis through Carthage and **[Sidi Bou Said](/africa/tunisia/sidibousaid)**, and the half-hour ride is the easiest way for visitors to get out of the heat of the medina to the sea.

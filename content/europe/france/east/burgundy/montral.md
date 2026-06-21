@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coll%C3%A9giale_Notre-Dame
 latitude: 47.5431
 loc_type: city
 longitude: 4.0367
-score: 0.42
+score: 0.39
 sources:
 - https://en.wikipedia.org/wiki/Montr%C3%A9al,_Yonne
 title: Montréal

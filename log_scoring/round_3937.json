@@ -1,0 +1,200 @@
+{
+  "round": 3937,
+  "timestamp": "2026-06-13T23:31:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dolomites",
+      "path": "europe/italy/dolomites",
+      "prior_score": 12.0579,
+      "prior_variance": 0.348453,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Komodo",
+      "path": "asia/indonesia/komodo",
+      "prior_score": 7.6263,
+      "prior_variance": 0.153507,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Al Qahera - Cairo",
+      "path": "africa/egypt/al_qahera__cairo",
+      "prior_score": 6.0612,
+      "prior_variance": 0.213875,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Casela",
+      "path": "africa/mauritius/casela",
+      "prior_score": 2.3717,
+      "prior_variance": 0.106345,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Mussoorie",
+      "path": "asia/india/uttaranchal/mussoorie",
+      "prior_score": 2.0964,
+      "prior_variance": 0.104908,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Cluj-Napoca",
+      "path": "europe/romania/cluj",
+      "prior_score": 2.6181,
+      "prior_variance": 0.100444,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Manado",
+      "path": "asia/indonesia/sulawesi/manado",
+      "prior_score": 1.7612,
+      "prior_variance": 0.105186,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Skelligs",
+      "path": "europe/ireland/skelligs",
+      "prior_score": 6.5093,
+      "prior_variance": 0.129886,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Aalborg",
+      "path": "europe/denmark/aalborg",
+      "prior_score": 1.4723,
+      "prior_variance": 0.105801,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Ettal",
+      "path": "europe/germany/bavaria/ettal",
+      "prior_score": 1.1515,
+      "prior_variance": 0.101887,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Garni",
+      "path": "europe/armenia/garni",
+      "prior_score": 1.5083,
+      "prior_variance": 0.09258,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Turin",
+      "path": "europe/italy/piemonte/turin",
+      "prior_score": 7.1237,
+      "prior_variance": 0.131485,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Roswell",
+      "path": "northamerica/unitedstates/newmexico/roswell",
+      "prior_score": 1.1093,
+      "prior_variance": 0.098324,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Teruel",
+      "path": "europe/spain/aragon/teruel",
+      "prior_score": 0.7925,
+      "prior_variance": 0.111316,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Portugalete",
+      "path": "europe/spain/basque_country_euskadi/portugalete",
+      "prior_score": 0.3154,
+      "prior_variance": 0.093735,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Durres",
+      "path": "europe/albania/durres",
+      "prior_score": 0.1495,
+      "prior_variance": 0.097426,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Dun Laoghaire",
+      "path": "europe/ireland/dun_laoghaire",
+      "prior_score": 0.8086,
+      "prior_variance": 0.103237,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Karpenisi",
+      "path": "europe/greece/karpenisi",
+      "prior_score": 0.6083,
+      "prior_variance": 0.106644,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Lanciano",
+      "path": "europe/italy/abruzzo/lanciano",
+      "prior_score": 0.255,
+      "prior_variance": 0.110038,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Astoria",
+      "path": "northamerica/unitedstates/oregon/astoria",
+      "prior_score": 1.6334,
+      "prior_variance": 0.106175,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Salamis",
+      "path": "asia/cyprus/northerncyprus/salamis",
+      "prior_score": -0.2616,
+      "prior_variance": 0.122364,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Nagpur",
+      "path": "asia/india/maharashtra/nagpur",
+      "prior_score": -3.4918,
+      "prior_variance": 0.111706,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Paradeep",
+      "path": "asia/india/orissa/paradeep",
+      "prior_score": -4.962,
+      "prior_variance": 0.116478,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Rensselaer",
+      "path": "northamerica/unitedstates/indiana/rensselaer",
+      "prior_score": -5.5224,
+      "prior_variance": 0.160625,
+      "prior_n": 13
+    }
+  ]
+}

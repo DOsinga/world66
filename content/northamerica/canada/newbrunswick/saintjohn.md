@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BANDSTAND.JPG
 latitude: 45.2788
 loc_type: city
 longitude: -66.0585
-score: 0.46
+score: 0.39
 title: Saint John
 todo_location_cleanup: done
 type: location

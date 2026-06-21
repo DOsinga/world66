@@ -1,199 +1,199 @@
 {
   "round": 1436,
-  "timestamp": "2026-04-12T22:27:36",
+  "timestamp": "2026-06-13T20:30:29",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Qu\u00e9bec",
-      "path": "northamerica/canada/quebec",
-      "prior_rank": 206,
-      "prior_wins": 103,
-      "prior_n": 5
+      "title": "Easter Island",
+      "path": "southamerica/chile/easterisland",
+      "prior_score": 13.4443,
+      "prior_variance": 0.716262,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Rum",
-      "path": "asia/jordan/wadirum/rum",
-      "prior_rank": 1512,
-      "prior_wins": 46,
-      "prior_n": 3
+      "title": "Bukhara",
+      "path": "asia/uzbekistan/bukhara",
+      "prior_score": 8.1215,
+      "prior_variance": 0.584203,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Springdale",
-      "path": "northamerica/unitedstates/utah/springdale",
-      "prior_rank": 3182,
-      "prior_wins": 39,
-      "prior_n": 3
+      "title": "Hakodate",
+      "path": "asia/japan/hokkaido/hakodate",
+      "prior_score": 8.9649,
+      "prior_variance": 0.38163,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Bridgetown",
-      "path": "northamerica/barbados/bridgetown",
-      "prior_rank": 1064,
-      "prior_wins": 52,
-      "prior_n": 3
+      "title": "Rasdhoo",
+      "path": "asia/maldives/ari_atoll/rasdhoo",
+      "prior_score": 8.6471,
+      "prior_variance": 0.514385,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Chamarel",
-      "path": "africa/mauritius/chamarel",
-      "prior_rank": 885,
-      "prior_wins": 53,
-      "prior_n": 3
+      "title": "Cafayate",
+      "path": "southamerica/argentina/cafayate",
+      "prior_score": 5.4579,
+      "prior_variance": 0.354779,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Auckland (city)",
-      "path": "australiaandpacific/newzealand/auckland_region/auckland",
-      "prior_rank": 1067,
-      "prior_wins": 52,
-      "prior_n": 3
+      "title": "Malbork",
+      "path": "europe/poland/malbork",
+      "prior_score": 4.367,
+      "prior_variance": 0.363736,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Utrecht",
-      "path": "europe/netherlands/utrecht",
-      "prior_rank": 169,
-      "prior_wins": 208,
-      "prior_n": 10
+      "title": "Addis Ababa",
+      "path": "africa/ethiopia/addisababa",
+      "prior_score": -0.5723,
+      "prior_variance": 0.337023,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Spoleto",
-      "path": "europe/italy/umbria/spoleto",
-      "prior_rank": 804,
-      "prior_wins": 53,
-      "prior_n": 3
+      "title": "Soweto",
+      "path": "africa/southafrica/soweto",
+      "prior_score": -2.1296,
+      "prior_variance": 0.395617,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Panaji",
-      "path": "asia/india/goa/panaji",
-      "prior_rank": 1190,
-      "prior_wins": 51,
-      "prior_n": 3
+      "title": "Rupununi Savanna",
+      "path": "southamerica/guyana/rupununisavanna",
+      "prior_score": -0.6585,
+      "prior_variance": 0.321267,
+      "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "Cebu",
-      "path": "asia/philippines/cebu",
-      "prior_rank": 362,
-      "prior_wins": 79,
+      "title": "Zomba Plateau",
+      "path": "africa/malawi/zombaplateau",
+      "prior_score": 1.1129,
+      "prior_variance": 0.300429,
       "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "T\u00f3rshavn",
-      "path": "europe/faroeislands/torshavn",
-      "prior_rank": 475,
-      "prior_wins": 57,
-      "prior_n": 3
+      "title": "Kalutara",
+      "path": "asia/srilanka/kalutara",
+      "prior_score": 2.1665,
+      "prior_variance": 0.332905,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Malbork",
-      "path": "europe/poland/malbork",
-      "prior_rank": 1062,
-      "prior_wins": 52,
-      "prior_n": 3
+      "title": "Rize",
+      "path": "asia/turkey/kackar/rize",
+      "prior_score": 0.7406,
+      "prior_variance": 0.324498,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Laos",
-      "path": "asia/laos",
-      "prior_rank": 445,
-      "prior_wins": 96,
-      "prior_n": 5
+      "title": "Alaminos",
+      "path": "asia/philippines/alaminos",
+      "prior_score": 0.7382,
+      "prior_variance": 0.332735,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Arusha",
-      "path": "africa/tanzania/arusha",
-      "prior_rank": 4518,
-      "prior_wins": 32,
-      "prior_n": 3
+      "title": "Curepipe",
+      "path": "africa/mauritius/curepipe",
+      "prior_score": -1.7548,
+      "prior_variance": 0.342095,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Hamilton",
-      "path": "northamerica/bermuda/hamilton_capital",
-      "prior_rank": 476,
-      "prior_wins": 57,
-      "prior_n": 3
+      "title": "Braunschweig",
+      "path": "europe/germany/lowersaxony/braunschweig",
+      "prior_score": -1.784,
+      "prior_variance": 0.349464,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Kenting",
-      "path": "asia/taiwan/kenting",
-      "prior_rank": 1844,
-      "prior_wins": 47,
-      "prior_n": 3
+      "title": "The Ridgeway",
+      "path": "europe/unitedkingdom/england/south_east/ridgeway",
+      "prior_score": 0.1459,
+      "prior_variance": 0.324283,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Doolin",
-      "path": "europe/ireland/doolin",
-      "prior_rank": 958,
-      "prior_wins": 53,
-      "prior_n": 3
+      "title": "Kottayam",
+      "path": "asia/india/kerala/kottayam",
+      "prior_score": -3.116,
+      "prior_variance": 0.304316,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Charlottenburg",
-      "path": "europe/germany/berlin/charlottenburg",
-      "prior_rank": 1630,
-      "prior_wins": 64,
+      "title": "Hermosillo",
+      "path": "northamerica/mexico/hermosillo",
+      "prior_score": -4.462,
+      "prior_variance": 0.347,
       "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Napier",
-      "path": "australiaandpacific/newzealand/napier",
-      "prior_rank": 658,
-      "prior_wins": 56,
-      "prior_n": 3
+      "title": "Shirdi",
+      "path": "asia/india/maharashtra/shirdi",
+      "prior_score": -2.397,
+      "prior_variance": 0.285298,
+      "prior_n": 5
     },
     {
       "rank": 20,
-      "title": "Nizwa",
-      "path": "asia/oman/nizwa",
-      "prior_rank": 1419,
-      "prior_wins": 66,
+      "title": "Kerimaki",
+      "path": "europe/finland/kerimaki",
+      "prior_score": -3.218,
+      "prior_variance": 0.332896,
       "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Valladolid",
-      "path": "europe/spain/centralspain/valladolid",
-      "prior_rank": 594,
-      "prior_wins": 113,
-      "prior_n": 6
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/birmingham",
+      "prior_score": -1.6622,
+      "prior_variance": 0.450951,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Porto Cristo",
-      "path": "europe/spain/balearicislands/mallorca/portocristo",
-      "prior_rank": 1015,
-      "prior_wins": 70,
+      "title": "Depok",
+      "path": "asia/indonesia/java/depok",
+      "prior_score": -6.2972,
+      "prior_variance": 0.309032,
       "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Catalina",
-      "path": "northamerica/unitedstates/california/losangeles/catalina",
-      "prior_rank": 2410,
-      "prior_wins": 58,
+      "title": "Belgorod",
+      "path": "europe/russia/belgorod_1",
+      "prior_score": -6.9471,
+      "prior_variance": 0.577618,
       "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Karakorum",
-      "path": "asia/mongolia/karakorum",
-      "prior_rank": 1881,
-      "prior_wins": 50,
+      "title": "Kinston",
+      "path": "northamerica/unitedstates/northcarolina/kinston",
+      "prior_score": -5.6019,
+      "prior_variance": 0.302016,
       "prior_n": 4
     }
   ]

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pinal_de_Amoles,_Qro,_M%C3
 latitude: 20.5888
 loc_type: city
 longitude: -100.3899
-score: 0.57
+score: 0.52
 title: Querétaro
 type: location
 ---

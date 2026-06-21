@@ -8,10 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Gonder_from_the_Goha_hotel
 latitude: 12.610368
 loc_type: city
 longitude: 37.466766
-score: 0.58
+score: 0.54
 sources:
-  - https://en.wikipedia.org/wiki/Gondar
-  - https://en.wikipedia.org/wiki/Fasil_Ghebbi
+- https://en.wikipedia.org/wiki/Gondar
+- https://en.wikipedia.org/wiki/Fasil_Ghebbi
 title: Gondar
 type: location
 ---

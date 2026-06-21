@@ -1,0 +1,200 @@
+{
+  "round": 4186,
+  "timestamp": "2026-06-13T23:52:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Circeo National Park",
+      "path": "europe/italy/lazio/ciceo_national_par",
+      "prior_score": 2.1398,
+      "prior_variance": 0.096737,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_score": 4.2513,
+      "prior_variance": 0.10781,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/salisbury",
+      "prior_score": 2.5824,
+      "prior_variance": 0.105707,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Gouda",
+      "path": "europe/netherlands/gouda",
+      "prior_score": 2.364,
+      "prior_variance": 0.095873,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Lake Bogoria N.P.",
+      "path": "africa/kenya/nationalparksandreserves/lakebogorianp",
+      "prior_score": 2.7267,
+      "prior_variance": 0.105244,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Mount Shasta",
+      "path": "northamerica/unitedstates/california/shastacascade/mountshasta",
+      "prior_score": 1.8176,
+      "prior_variance": 0.094857,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Burgas",
+      "path": "europe/bulgaria/burgas",
+      "prior_score": 0.9809,
+      "prior_variance": 0.100999,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Michoac\u00e1n",
+      "path": "northamerica/mexico/michoacan",
+      "prior_score": 0.5796,
+      "prior_variance": 0.128532,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Ruidoso",
+      "path": "northamerica/unitedstates/newmexico/ruidoso",
+      "prior_score": 0.2083,
+      "prior_variance": 0.091298,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "The Norfolk Broads",
+      "path": "europe/unitedkingdom/england/norfolk/the_norfolk_broads",
+      "prior_score": 1.6413,
+      "prior_variance": 0.091441,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/clitheroe",
+      "prior_score": -0.9506,
+      "prior_variance": 0.095295,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Annaba",
+      "path": "africa/algeria/annaba",
+      "prior_score": -2.771,
+      "prior_variance": 0.103671,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Deqin",
+      "path": "asia/china/yunnanprovince/deqin",
+      "prior_score": 1.4892,
+      "prior_variance": 0.122677,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kualakububaru",
+      "prior_score": -1.7103,
+      "prior_variance": 0.093729,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Colima",
+      "path": "northamerica/mexico/colima",
+      "prior_score": -2.1614,
+      "prior_variance": 0.117745,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Tomsk",
+      "path": "europe/russia/tomsk",
+      "prior_score": -2.3756,
+      "prior_variance": 0.09696,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Kakamega",
+      "path": "africa/kenya/westernkenya/kakamega",
+      "prior_score": -3.7411,
+      "prior_variance": 0.098497,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Weifang",
+      "path": "asia/china/shandong_province/weifang",
+      "prior_score": -2.8427,
+      "prior_variance": 0.100004,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Plains",
+      "path": "northamerica/unitedstates/georgia/plains",
+      "prior_score": -3.7746,
+      "prior_variance": 0.122873,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Clarkston",
+      "path": "northamerica/unitedstates/washington/clarkston",
+      "prior_score": -3.7263,
+      "prior_variance": 0.108374,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Tully",
+      "path": "australiaandpacific/australia/queensland/tully",
+      "prior_score": -3.2504,
+      "prior_variance": 0.109134,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Boonville",
+      "path": "northamerica/unitedstates/missouri/boonville",
+      "prior_score": -4.7733,
+      "prior_variance": 0.111772,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Buckingham",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/buckingham",
+      "prior_score": -3.9114,
+      "prior_variance": 0.097107,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Woldingham",
+      "path": "europe/unitedkingdom/england/south_east/woldingham",
+      "prior_score": -4.367,
+      "prior_variance": 0.133859,
+      "prior_n": 13
+    }
+  ]
+}

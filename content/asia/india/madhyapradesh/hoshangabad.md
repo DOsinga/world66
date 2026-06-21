@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Narmada_River_near_Hoshang
 latitude: 22.7546
 loc_type: city
 longitude: 77.7198
-score: 0.33
+score: 0.27
 title: Hoshangabad
 type: location
 ---

@@ -1,200 +1,200 @@
 {
   "round": 870,
-  "timestamp": "2026-04-12T14:46:16",
+  "timestamp": "2026-06-13T19:58:13",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Crater Lake",
-      "path": "northamerica/unitedstates/oregon/craterlake",
-      "prior_score": 5.6239,
-      "prior_variance": 15.658511,
-      "prior_n": 1
+      "title": "Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/laketahoe",
+      "prior_score": 12.5689,
+      "prior_variance": 0.787223,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Nantucket",
-      "path": "northamerica/unitedstates/massachusetts/nantucket",
-      "prior_score": 6.0679,
-      "prior_variance": 2.141376,
-      "prior_n": 1
+      "title": "Sorrento",
+      "path": "europe/italy/campania/sorrento",
+      "prior_score": 12.2398,
+      "prior_variance": 1.982174,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Kochi",
-      "path": "asia/india/kerala/kochi",
-      "prior_score": 3.6252,
-      "prior_variance": 1.496985,
-      "prior_n": 1
+      "title": "Antibes",
+      "path": "europe/france/midi/cotedazur/antibes",
+      "prior_score": 11.55,
+      "prior_variance": 1.054573,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Ofu",
-      "path": "australiaandpacific/americansamoa/ofu",
-      "prior_score": 0.8256,
-      "prior_variance": 1.220199,
-      "prior_n": 1
+      "title": "Rovaniemi",
+      "path": "europe/finland/rovaniemi",
+      "prior_score": 11.1942,
+      "prior_variance": 1.172901,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Philippi",
-      "path": "europe/greece/philippi",
-      "prior_score": 0.752,
-      "prior_variance": 2.988715,
-      "prior_n": 1
+      "title": "Svolv\u00e6r",
+      "path": "europe/norway/lofotenislands/svolvr_the_capi",
+      "prior_score": 13.0055,
+      "prior_variance": 0.94732,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Metsovo",
-      "path": "europe/greece/metsovo",
-      "prior_score": 5.0557,
-      "prior_variance": 1.32133,
-      "prior_n": 1
+      "title": "\u00c5lesund",
+      "path": "europe/norway/lesund",
+      "prior_score": 12.3676,
+      "prior_variance": 1.338935,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Skala Kalloni",
-      "path": "europe/greece/lesbos/skalakalloni",
-      "prior_score": -0.8971,
-      "prior_variance": 3.080504,
-      "prior_n": 1
+      "title": "Berchtesgaden",
+      "path": "europe/germany/bavaria/berchtesgaden",
+      "prior_score": 10.3309,
+      "prior_variance": 1.204649,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Mangawhai heads",
-      "path": "australiaandpacific/newzealand/mangawhaiheads",
-      "prior_score": 2.8839,
-      "prior_variance": 1.612848,
-      "prior_n": 1
+      "title": "Dinan",
+      "path": "europe/france/normandybrittany/dinan",
+      "prior_score": 10.2121,
+      "prior_variance": 1.136626,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Saint John",
-      "path": "northamerica/canada/newbrunswick/saintjohn",
-      "prior_score": -0.3018,
-      "prior_variance": 1.469278,
-      "prior_n": 1
+      "title": "Petit St. Vincent",
+      "path": "northamerica/saintvincentandthegrenadines/petitst",
+      "prior_score": 10.3002,
+      "prior_variance": 1.010993,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Barka",
-      "path": "asia/oman/barka",
-      "prior_score": -0.6766,
-      "prior_variance": 1.603886,
-      "prior_n": 1
+      "title": "Little Cayman",
+      "path": "northamerica/thecaribbean/caymanislands/littlecayman",
+      "prior_score": 7.8598,
+      "prior_variance": 0.7278,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Ambon",
-      "path": "asia/indonesia/maluku/ambon",
-      "prior_score": 0.5628,
-      "prior_variance": 1.442437,
-      "prior_n": 1
+      "title": "Providencia",
+      "path": "southamerica/colombia/sanandresandprovidencia/providencia",
+      "prior_score": 10.2396,
+      "prior_variance": 0.663611,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Roanoke",
-      "path": "northamerica/unitedstates/virginia/roanoke",
-      "prior_score": -2.4719,
-      "prior_variance": 1.237943,
-      "prior_n": 1
+      "title": "Hamilton",
+      "path": "northamerica/bermuda/hamilton_capital",
+      "prior_score": 9.8819,
+      "prior_variance": 0.785531,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Oregon City",
-      "path": "northamerica/unitedstates/oregon/oregoncity",
-      "prior_score": -2.7746,
-      "prior_variance": 1.568773,
-      "prior_n": 1
+      "title": "Thassos",
+      "path": "europe/greece/thassos_island",
+      "prior_score": 9.1907,
+      "prior_variance": 0.866482,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Ellsworth",
-      "path": "northamerica/unitedstates/maine/ellsworth",
-      "prior_score": -5.2099,
-      "prior_variance": 2.840983,
-      "prior_n": 1
+      "title": "El Chalt\u00e9n",
+      "path": "southamerica/argentina/patagonia/elchalten",
+      "prior_score": 13.7825,
+      "prior_variance": 1.457918,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Banjarmasin",
-      "path": "asia/indonesia/banjarmasin",
-      "prior_score": -1.6272,
-      "prior_variance": 1.49231,
-      "prior_n": 1
+      "title": "Ninh Binh",
+      "path": "asia/vietnam/ninh_binh",
+      "prior_score": 7.6169,
+      "prior_variance": 0.68585,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Delta",
-      "path": "northamerica/canada/britishcolumbia/vancouver/delta",
-      "prior_score": -4.1655,
-      "prior_variance": 1.172134,
-      "prior_n": 1
+      "title": "Yogyakarta",
+      "path": "asia/indonesia/java/yogyakarta",
+      "prior_score": 11.9127,
+      "prior_variance": 0.995728,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Moose Jaw",
-      "path": "northamerica/canada/saskatchewan/moose_jaw",
-      "prior_score": -5.2153,
-      "prior_variance": 0.5934,
+      "title": "Inle Lake",
+      "path": "asia/myanmar/inlelake",
+      "prior_score": 11.1222,
+      "prior_variance": 1.034624,
       "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Fort Smith",
-      "path": "northamerica/canada/northwestterritories/fort_smith",
-      "prior_score": -3.6941,
-      "prior_variance": 1.182776,
-      "prior_n": 1
+      "title": "Olympia",
+      "path": "europe/greece/olympia",
+      "prior_score": 11.749,
+      "prior_variance": 1.011221,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Voronezh",
-      "path": "europe/russia/voronezh",
-      "prior_score": -6.9125,
-      "prior_variance": 3.496811,
-      "prior_n": 1
+      "title": "Stone Forest (Shilin)",
+      "path": "asia/china/yunnanprovince/shilin",
+      "prior_score": 10.9274,
+      "prior_variance": 0.94804,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Chuvashia",
-      "path": "europe/russia/chuvashia",
-      "prior_score": -7.0673,
-      "prior_variance": 3.535831,
-      "prior_n": 1
+      "title": "Viganj",
+      "path": "europe/croatia/peljesac/viganj",
+      "prior_score": 6.4812,
+      "prior_variance": 0.698528,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Kaundorf",
-      "path": "europe/luxembourg/kaundorf",
-      "prior_score": -9.6303,
-      "prior_variance": 2.103213,
-      "prior_n": 1
+      "title": "Samaipata",
+      "path": "southamerica/bolivia/samaipata",
+      "prior_score": 5.5219,
+      "prior_variance": 0.73849,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Dungannon",
-      "path": "europe/unitedkingdom/northernireland/dungannon",
-      "prior_score": -3.9306,
-      "prior_variance": 1.170763,
-      "prior_n": 1
+      "title": "Kanatal",
+      "path": "asia/india/uttaranchal/kanatal",
+      "prior_score": -1.3013,
+      "prior_variance": 0.716025,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "igheem",
-      "path": "africa/morocco/igheem",
-      "prior_score": -2.501,
-      "prior_variance": 1.331334,
-      "prior_n": 1
+      "title": "St Maarten",
+      "path": "northamerica/netherlandsantilles/stmaarten",
+      "prior_score": 10.3103,
+      "prior_variance": 0.817664,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Baleyara",
-      "path": "africa/niger/baleyara",
-      "prior_score": -11.2812,
-      "prior_variance": 8.897807,
-      "prior_n": 1
+      "title": "Ramallah",
+      "path": "asia/palestinianauthority/ramallah",
+      "prior_score": -10.0737,
+      "prior_variance": 0.667291,
+      "prior_n": 2
     }
   ]
 }

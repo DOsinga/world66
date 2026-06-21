@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Lingshui
 title: Lingshui
 type: location
+score: 0.35
 ---
 
 Lingshui County occupies a stretch of Hainan's southeastern coast that has so far escaped the full resort treatment, which is both its main selling point and the reason most Chinese tourists bypass it. The beaches here — particularly [Perfume Bay](/asia/china/hainanisland/lingshui/perfume_bay), still largely undeveloped — are the quiet, slightly scruffy version of what Sanya's beaches looked like before the hotels arrived. Getting to them requires a bit of effort, which naturally keeps the crowds thin.

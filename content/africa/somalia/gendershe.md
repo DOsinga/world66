@@ -4,7 +4,7 @@ done:
 latitude: 1.834937
 loc_type: city
 longitude: 44.966845
-score: 0.13
+score: 0.04
 title: Janaale
 type: location
 ---

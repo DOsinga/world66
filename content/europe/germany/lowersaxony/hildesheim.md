@@ -5,7 +5,7 @@ done:
 latitude: 52.1527
 loc_type: city
 longitude: 9.9518
-score: 0.5
+score: 0.46
 sources:
 - https://en.wikipedia.org/wiki/Hildesheim
 - https://en.wikipedia.org/wiki/Hildesheim_Cathedral

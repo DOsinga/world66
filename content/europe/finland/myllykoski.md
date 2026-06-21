@@ -4,6 +4,7 @@ type: location
 loc_type: city
 latitude: 60.8511
 longitude: 26.8358
+score: 0.24
 ---
 
 Myllykoski is a small industrial settlement in the Kymenlaakso region of southeastern Finland, on the banks of the Kymi River. The name means "mill rapids," after the falls on the Kymi that once powered riverside mills. The Myllykoski paper mills were a major employer for much of the 20th century, and the riverside landscape still carries the character of an industrial river town.

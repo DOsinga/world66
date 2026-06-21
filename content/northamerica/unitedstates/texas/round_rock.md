@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dell_Diamond_Southwest_Ent
 latitude: 30.508592
 loc_type: city
 longitude: -97.678806
-score: 0.33
+score: 0.28
 title: Round Rock
 type: location
 ---

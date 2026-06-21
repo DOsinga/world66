@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Soberbo_Dedo_de_Deus_Teres
 latitude: -22.297804
 loc_type: city
 longitude: -42.864641
-score: 0.5
+score: 0.43
 title: Teresópolis
 type: location
 ---

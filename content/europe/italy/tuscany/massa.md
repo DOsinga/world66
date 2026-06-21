@@ -6,7 +6,7 @@ latitude: 44.035932
 longitude: 10.139552
 title: Massa
 type: location
-score: 0.49
+score: 0.4
 loc_type: city
 ---
 

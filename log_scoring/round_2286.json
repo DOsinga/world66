@@ -1,200 +1,200 @@
 {
   "round": 2286,
-  "timestamp": "2026-04-13T16:27:50",
+  "timestamp": "2026-06-13T21:31:23",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Bayonne",
-      "path": "europe/france/midi/basqueregion/bayonne",
-      "prior_score": 2.5575,
-      "prior_variance": 0.219423,
-      "prior_n": 6
-    },
-    {
-      "rank": 2,
-      "title": "Carouge",
-      "path": "europe/switzerland/carouge",
-      "prior_score": 0.1742,
-      "prior_variance": 0.239932,
-      "prior_n": 6
-    },
-    {
-      "rank": 3,
-      "title": "Mijas",
-      "path": "europe/spain/andalucia/mijas",
-      "prior_score": 3.9388,
-      "prior_variance": 0.267472,
-      "prior_n": 6
-    },
-    {
-      "rank": 4,
-      "title": "Hallein",
-      "path": "europe/austria/hallein",
-      "prior_score": 2.5539,
-      "prior_variance": 0.224561,
-      "prior_n": 6
-    },
-    {
-      "rank": 5,
-      "title": "Peiting",
-      "path": "europe/germany/bavaria/romanticroad/peiting",
-      "prior_score": -1.8191,
-      "prior_variance": 0.219157,
-      "prior_n": 6
-    },
-    {
-      "rank": 6,
-      "title": "San Juan Capistrano",
-      "path": "northamerica/unitedstates/california/orangecounty/san_juan_capistran",
-      "prior_score": 0.8918,
-      "prior_variance": 0.256152,
-      "prior_n": 6
-    },
-    {
-      "rank": 7,
-      "title": "Comox Valley",
-      "path": "northamerica/canada/britishcolumbia/comox_valley",
-      "prior_score": 0.9787,
-      "prior_variance": 0.295659,
-      "prior_n": 5
-    },
-    {
-      "rank": 8,
-      "title": "Hopkins",
-      "path": "northamerica/belize/hopkins",
-      "prior_score": 2.8129,
-      "prior_variance": 0.254047,
-      "prior_n": 6
-    },
-    {
-      "rank": 9,
-      "title": "Ambon",
-      "path": "asia/indonesia/maluku/ambon",
-      "prior_score": -0.0343,
-      "prior_variance": 0.237868,
-      "prior_n": 6
-    },
-    {
-      "rank": 10,
-      "title": "El Malpais",
-      "path": "northamerica/unitedstates/newmexico/elmapais",
-      "prior_score": -0.3512,
-      "prior_variance": 0.26105,
-      "prior_n": 5
-    },
-    {
-      "rank": 11,
-      "title": "Cripple Creek",
-      "path": "northamerica/unitedstates/colorado/cripple_creek",
-      "prior_score": -0.6714,
-      "prior_variance": 0.229568,
-      "prior_n": 7
-    },
-    {
-      "rank": 12,
-      "title": "Ferntree Gully",
-      "path": "australiaandpacific/australia/victoria/ferntreegully",
-      "prior_score": -2.4443,
-      "prior_variance": 0.160775,
+      "title": "Monterosso al Mare",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/monterosso",
+      "prior_score": 8.9268,
+      "prior_variance": 0.319898,
       "prior_n": 8
     },
     {
+      "rank": 2,
+      "title": "Hydra",
+      "path": "europe/greece/hydra",
+      "prior_score": 7.5739,
+      "prior_variance": 0.402461,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Tavira",
+      "path": "europe/portugal/algarve/tavira",
+      "prior_score": 5.0662,
+      "prior_variance": 0.218085,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Trapani",
+      "path": "europe/italy/sicily/trapani",
+      "prior_score": 5.761,
+      "prior_variance": 0.205136,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Landmannalaugar",
+      "path": "europe/iceland/landmannalaugar",
+      "prior_score": 7.497,
+      "prior_variance": 0.385725,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "V\u00e6r\u00f8y",
+      "path": "europe/norway/lofotenislands/vaeroy",
+      "prior_score": 6.42,
+      "prior_variance": 0.30159,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Ramsau / Dachstein",
+      "path": "europe/austria/ramsaudachstein",
+      "prior_score": 5.1219,
+      "prior_variance": 0.208285,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Canmore",
+      "path": "northamerica/canada/alberta/canmore",
+      "prior_score": 5.5095,
+      "prior_variance": 0.222474,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Kanab",
+      "path": "northamerica/unitedstates/utah/kanab",
+      "prior_score": 4.4562,
+      "prior_variance": 0.221766,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_score": 4.9059,
+      "prior_variance": 0.253261,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Stow-on-the-Wold",
+      "path": "europe/unitedkingdom/england/gloucestershire/stowonthewold",
+      "prior_score": 3.5012,
+      "prior_variance": 0.178705,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Haarlem",
+      "path": "europe/netherlands/haarlem",
+      "prior_score": 4.1655,
+      "prior_variance": 0.240166,
+      "prior_n": 7
+    },
+    {
       "rank": 13,
-      "title": "Safaga",
-      "path": "africa/egypt/hurghada/safaga",
-      "prior_score": 0.2828,
-      "prior_variance": 0.250876,
-      "prior_n": 6
+      "title": "Chartres",
+      "path": "europe/france/centre/chartres",
+      "prior_score": 4.714,
+      "prior_variance": 0.223718,
+      "prior_n": 8
     },
     {
       "rank": 14,
-      "title": "Ontinyent",
-      "path": "europe/spain/ontinyent",
-      "prior_score": -0.7059,
-      "prior_variance": 0.210207,
-      "prior_n": 6
+      "title": "Hamburg",
+      "path": "europe/germany/hamburg",
+      "prior_score": 2.3153,
+      "prior_variance": 0.31596,
+      "prior_n": 9
     },
     {
       "rank": 15,
-      "title": "Mapusa",
-      "path": "asia/india/goa/mapusa",
-      "prior_score": -0.2381,
-      "prior_variance": 0.301775,
-      "prior_n": 6
+      "title": "Oslo",
+      "path": "europe/norway/oslo",
+      "prior_score": 6.1666,
+      "prior_variance": 0.315349,
+      "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "Quang Tri",
-      "path": "asia/vietnam/quang_tri",
-      "prior_score": -1.8888,
-      "prior_variance": 0.239374,
-      "prior_n": 6
+      "title": "Porvoo",
+      "path": "europe/finland/porvoo",
+      "prior_score": 3.7496,
+      "prior_variance": 0.209544,
+      "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "Redlands",
-      "path": "northamerica/unitedstates/california/inlandempire/redlands",
-      "prior_score": -3.1879,
-      "prior_variance": 0.220206,
-      "prior_n": 6
+      "title": "Hongcun",
+      "path": "asia/china/anhui/hongcun",
+      "prior_score": 5.1082,
+      "prior_variance": 0.215691,
+      "prior_n": 7
     },
     {
       "rank": 18,
-      "title": "Oconto Area",
-      "path": "northamerica/unitedstates/wisconsin/ocontoarea",
-      "prior_score": -4.3731,
-      "prior_variance": 0.279802,
-      "prior_n": 6
+      "title": "Da Nang",
+      "path": "asia/vietnam/danang",
+      "prior_score": 5.5924,
+      "prior_variance": 0.285401,
+      "prior_n": 7
     },
     {
       "rank": 19,
-      "title": "Kent",
-      "path": "northamerica/unitedstates/ohio/kent",
-      "prior_score": -5.5585,
-      "prior_variance": 0.372684,
-      "prior_n": 6
+      "title": "Colorado Springs",
+      "path": "northamerica/unitedstates/colorado/coloradosprings",
+      "prior_score": 5.0593,
+      "prior_variance": 0.379106,
+      "prior_n": 7
     },
     {
       "rank": 20,
-      "title": "McAlester",
-      "path": "northamerica/unitedstates/oklahoma/mcalester",
-      "prior_score": -5.4749,
-      "prior_variance": 0.236522,
-      "prior_n": 6
+      "title": "Airlie Beach",
+      "path": "australiaandpacific/australia/queensland/airliebeach",
+      "prior_score": 4.1381,
+      "prior_variance": 0.236029,
+      "prior_n": 7
     },
     {
       "rank": 21,
-      "title": "Hotels near Harne Beach",
-      "path": "asia/india/maharashtra/konkan/hotels_near_harne",
-      "prior_score": -2.7081,
-      "prior_variance": 0.219006,
-      "prior_n": 6
+      "title": "Cala Ratjada",
+      "path": "europe/spain/balearicislands/mallorca/calaratjada",
+      "prior_score": 4.5507,
+      "prior_variance": 0.178931,
+      "prior_n": 8
     },
     {
       "rank": 22,
-      "title": "Basconcobe",
-      "path": "northamerica/mexico/yucatan/basconcobe",
-      "prior_score": -5.6032,
-      "prior_variance": 0.263299,
-      "prior_n": 5
+      "title": "Ayia Napa",
+      "path": "asia/cyprus/ayianapa",
+      "prior_score": 3.2936,
+      "prior_variance": 0.185466,
+      "prior_n": 8
     },
     {
       "rank": 23,
-      "title": "Pauri",
-      "path": "asia/india/uttaranchal/karanprayag/pauri",
-      "prior_score": -3.9613,
-      "prior_variance": 0.383911,
-      "prior_n": 6
+      "title": "Dimmuborgir",
+      "path": "europe/iceland/dimmuborgir",
+      "prior_score": 5.8623,
+      "prior_variance": 0.230398,
+      "prior_n": 7
     },
     {
       "rank": 24,
-      "title": "Assab",
-      "path": "africa/eritrea/assab",
-      "prior_score": -7.8524,
-      "prior_variance": 0.375332,
-      "prior_n": 6
+      "title": "Torsero Park",
+      "path": "europe/italy/liguria/torseropark",
+      "prior_score": 0.1869,
+      "prior_variance": 0.192277,
+      "prior_n": 7
     }
   ]
 }

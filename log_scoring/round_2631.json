@@ -1,0 +1,200 @@
+{
+  "round": 2631,
+  "timestamp": "2026-06-13T21:56:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fez",
+      "path": "africa/morocco/fez",
+      "prior_score": 8.7828,
+      "prior_variance": 0.447709,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Cop\u00e1n",
+      "path": "northamerica/honduras/copan",
+      "prior_score": 4.5608,
+      "prior_variance": 0.199835,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Kano",
+      "path": "africa/nigeria/kano",
+      "prior_score": -4.5328,
+      "prior_variance": 0.195118,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Col\u00f3n",
+      "path": "northamerica/panama/colon",
+      "prior_score": -4.4835,
+      "prior_variance": 0.198136,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Pontefract",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/pontefract",
+      "prior_score": -3.1915,
+      "prior_variance": 0.156225,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_score": -2.7586,
+      "prior_variance": 0.179831,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/queensland/rockhampton_1",
+      "prior_score": -2.4393,
+      "prior_variance": 0.163181,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Zottegem",
+      "path": "europe/belgium/zottegem",
+      "prior_score": -4.1049,
+      "prior_variance": 0.155365,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Chifeng",
+      "path": "asia/china/innermongolia/chifeng",
+      "prior_score": -4.1891,
+      "prior_variance": 0.170308,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Fort Scott",
+      "path": "northamerica/unitedstates/kansas/fortscott",
+      "prior_score": -5.6241,
+      "prior_variance": 0.158133,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Timor",
+      "path": "asia/indonesia/timor",
+      "prior_score": -3.4666,
+      "prior_variance": 0.205028,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Sintok",
+      "path": "asia/malaysia/sintok",
+      "prior_score": -4.4089,
+      "prior_variance": 0.163159,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Kitale",
+      "path": "africa/kenya/westernkenya/kitale",
+      "prior_score": -4.3088,
+      "prior_variance": 0.201981,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Novi Beograd",
+      "path": "europe/serbia/novi_beograd",
+      "prior_score": -4.1777,
+      "prior_variance": 0.209129,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/northcarolina/marion",
+      "prior_score": -4.0603,
+      "prior_variance": 0.173743,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Salto de Agua",
+      "path": "northamerica/mexico/yucatan/saltodeagua",
+      "prior_score": -5.5638,
+      "prior_variance": 0.200957,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Gujrat",
+      "path": "asia/pakistan/gujrat",
+      "prior_score": -7.8034,
+      "prior_variance": 0.290868,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Kadiri",
+      "path": "asia/india/andhrapradesh/kadiri",
+      "prior_score": -6.0192,
+      "prior_variance": 0.196054,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Mao",
+      "path": "asia/india/manipur/mao",
+      "prior_score": -7.2091,
+      "prior_variance": 0.301596,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Kwekwe",
+      "path": "africa/zimbabwe/kwekwe",
+      "prior_score": -6.8772,
+      "prior_variance": 0.194717,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Abeche",
+      "path": "africa/chad/abeche",
+      "prior_score": -8.6715,
+      "prior_variance": 0.365421,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Misurata",
+      "path": "africa/libya/misurata",
+      "prior_score": -8.8428,
+      "prior_variance": 0.387194,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Wadi Halfa",
+      "path": "africa/sudan/wadihalfa",
+      "prior_score": -7.9627,
+      "prior_variance": 0.374997,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Batabat",
+      "path": "europe/azerbaijan/naxcivan/batabat",
+      "prior_score": -6.9015,
+      "prior_variance": 0.207485,
+      "prior_n": 8
+    }
+  ]
+}

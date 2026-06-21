@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Heerlen_2024_Van_Grunsvenp
 latitude: 50.877524
 loc_type: city
 longitude: 5.981507
-score: 0.39
+score: 0.31
 sources:
 - https://en.wikipedia.org/wiki/Heerlen
 - https://en.wikipedia.org/wiki/Glaspaleis

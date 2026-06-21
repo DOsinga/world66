@@ -1,0 +1,200 @@
+{
+  "round": 4135,
+  "timestamp": "2026-06-13T23:46:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Great Barrier Reef",
+      "path": "australiaandpacific/australia/queensland/greatbarrierreef",
+      "prior_score": 12.3287,
+      "prior_variance": 0.328811,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Sydney",
+      "path": "australiaandpacific/australia/newsouthwales/sydney",
+      "prior_score": 13.0806,
+      "prior_variance": 0.857319,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Kata",
+      "path": "asia/thailand/phuket/kata",
+      "prior_score": 5.6508,
+      "prior_variance": 0.12613,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Amanohashidate",
+      "path": "asia/japan/honshu/amanohashidate",
+      "prior_score": 5.5285,
+      "prior_variance": 0.130736,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Borromean Islands",
+      "path": "europe/italy/lombardia/lagomaggiore/islands",
+      "prior_score": 6.2432,
+      "prior_variance": 0.135695,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Alishan",
+      "path": "asia/taiwan/alishan",
+      "prior_score": 4.6512,
+      "prior_variance": 0.116843,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Saman\u00e1",
+      "path": "northamerica/dominicanrepublic/samana",
+      "prior_score": 3.6909,
+      "prior_variance": 0.11241,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Domme",
+      "path": "europe/france/midi/dordogne/domme",
+      "prior_score": 4.1642,
+      "prior_variance": 0.119177,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Doolin",
+      "path": "europe/ireland/doolin",
+      "prior_score": 3.4879,
+      "prior_variance": 0.125213,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Regensburg",
+      "path": "europe/germany/bavaria/regensburg",
+      "prior_score": 4.6024,
+      "prior_variance": 0.101408,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Van",
+      "path": "asia/turkey/van",
+      "prior_score": -0.9271,
+      "prior_variance": 0.098218,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Santuario Nacional Tabaconas Namballe",
+      "path": "southamerica/peru/san_ignacio/santuario_nacional_tabaconas_namballe",
+      "prior_score": -2.6827,
+      "prior_variance": 0.157964,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Porsgrunn",
+      "path": "europe/norway/porsgrunn",
+      "prior_score": -2.2054,
+      "prior_variance": 0.106294,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Debre Zeit",
+      "path": "africa/ethiopia/debre_zeit",
+      "prior_score": -2.5587,
+      "prior_variance": 0.117171,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Cheyenne",
+      "path": "northamerica/unitedstates/wyoming/cheyenne",
+      "prior_score": -1.947,
+      "prior_variance": 0.103944,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Dingzhou",
+      "path": "asia/china/hebei/dingzhou",
+      "prior_score": -5.6572,
+      "prior_variance": 0.119002,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Puerto la Cruz",
+      "path": "southamerica/venezuela/puertolacruz",
+      "prior_score": -3.3692,
+      "prior_variance": 0.101882,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Santiago de los Caballeros",
+      "path": "northamerica/dominicanrepublic/santiago_de_los_caballeros",
+      "prior_score": -1.468,
+      "prior_variance": 0.101121,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Mazar-i-Sharif",
+      "path": "asia/afghanistan/mazarisharif",
+      "prior_score": -8.9875,
+      "prior_variance": 0.445542,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Nanumea",
+      "path": "australiaandpacific/tuvalu/nanumeaatoll",
+      "prior_score": -2.3164,
+      "prior_variance": 0.146433,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "M\u00f3r",
+      "path": "europe/hungary/mor",
+      "prior_score": -4.145,
+      "prior_variance": 0.150279,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Morbi",
+      "path": "asia/india/gujarat/morbi",
+      "prior_score": -5.7722,
+      "prior_variance": 0.125169,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Goulburn",
+      "path": "australiaandpacific/australia/newsouthwales/goulburn",
+      "prior_score": -2.947,
+      "prior_variance": 0.106064,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Hebron",
+      "path": "asia/palestinianauthority/hebron",
+      "prior_score": -4.2581,
+      "prior_variance": 0.121098,
+      "prior_n": 13
+    }
+  ]
+}

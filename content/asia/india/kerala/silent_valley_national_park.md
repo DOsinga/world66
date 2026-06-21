@@ -5,7 +5,7 @@ latitude: 11.0833
 longitude: 76.4167
 title: Silent Valley National Park
 type: location
-score: 0.53
+score: 0.44
 loc_type: feature
 ---
 

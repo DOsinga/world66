@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Outjo_(2018).jpg
 latitude: -20.111863
 loc_type: city
 longitude: 16.156687
-score: 0.4
+score: 0.33
 title: Outjo
 type: location
 ---

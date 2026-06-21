@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Barka,_Oman_(10)_(27574466
 latitude: 23.666575
 loc_type: city
 longitude: 57.88206
-score: 0.45
+score: 0.38
 title: Barka
 type: location
 ---

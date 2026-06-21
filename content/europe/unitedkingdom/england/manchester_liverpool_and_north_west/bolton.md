@@ -4,7 +4,7 @@ done:
 latitude: 53.578286
 loc_type: city
 longitude: -2.430037
-score: 0.37
+score: 0.31
 title: Bolton
 type: location
 ---

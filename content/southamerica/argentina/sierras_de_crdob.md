@@ -5,7 +5,7 @@ latitude: -31.986439
 longitude: -64.93628
 title: Sierras de Córdoba
 type: location
-score: 0.56
+score: 0.47
 loc_type: feature
 ---
 

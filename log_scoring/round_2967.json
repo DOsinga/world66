@@ -1,0 +1,200 @@
+{
+  "round": 2967,
+  "timestamp": "2026-06-13T22:19:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mont-Saint-Michel",
+      "path": "europe/france/normandybrittany/montsaintmichel",
+      "prior_score": 10.5913,
+      "prior_variance": 0.346623,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Cairngorms",
+      "path": "europe/unitedkingdom/scotland/cairngorms",
+      "prior_score": 3.9154,
+      "prior_variance": 0.15725,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Angers",
+      "path": "europe/france/centre/loirevalley/angers",
+      "prior_score": 3.2856,
+      "prior_variance": 0.175247,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Annapolis",
+      "path": "northamerica/unitedstates/maryland/annapolis",
+      "prior_score": 2.0178,
+      "prior_variance": 0.139102,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Harbin",
+      "path": "asia/china/heilongjiang/harbin",
+      "prior_score": 3.0039,
+      "prior_variance": 0.138783,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Mada'in Salih (Hegra)",
+      "path": "asia/saudiarabia/madainsalih",
+      "prior_score": 4.6617,
+      "prior_variance": 0.155281,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Baracoa",
+      "path": "northamerica/thecaribbean/cuba/baracoa",
+      "prior_score": 3.1794,
+      "prior_variance": 0.15562,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Baiona",
+      "path": "europe/spain/galicia/baiona",
+      "prior_score": 2.985,
+      "prior_variance": 0.147835,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Boothbay Harbor",
+      "path": "northamerica/unitedstates/maine/boothbay_harbor",
+      "prior_score": 2.3418,
+      "prior_variance": 0.145493,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Heddal",
+      "path": "europe/norway/heddal",
+      "prior_score": 0.6215,
+      "prior_variance": 0.136694,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Thakhek",
+      "path": "asia/laos/thakhek",
+      "prior_score": 0.7808,
+      "prior_variance": 0.176244,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Fishguard",
+      "path": "europe/unitedkingdom/wales/fishguard",
+      "prior_score": -1.1317,
+      "prior_variance": 0.157172,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Pontrieux",
+      "path": "europe/france/normandybrittany/pontrieux",
+      "prior_score": 0.292,
+      "prior_variance": 0.131189,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Ruins of Le\u00f3n Viejo",
+      "path": "northamerica/nicaragua/ruins_of_len_vie",
+      "prior_score": -0.7402,
+      "prior_variance": 0.170329,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Aba (Ngawa)",
+      "path": "asia/china/sichuanprovince/aba",
+      "prior_score": -1.3341,
+      "prior_variance": 0.154538,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Osorno",
+      "path": "southamerica/chile/osorno",
+      "prior_score": -2.0179,
+      "prior_variance": 0.164369,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Holden Beach",
+      "path": "northamerica/unitedstates/northcarolina/holden_beach",
+      "prior_score": -1.2136,
+      "prior_variance": 0.132864,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Sonora",
+      "path": "northamerica/unitedstates/california/goldcountry/sonora",
+      "prior_score": -0.9406,
+      "prior_variance": 0.124471,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Bago",
+      "path": "asia/myanmar/bago",
+      "prior_score": -3.2977,
+      "prior_variance": 0.140202,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Mangalia",
+      "path": "europe/romania/mangalia",
+      "prior_score": -1.6165,
+      "prior_variance": 0.129601,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_score": -3.2714,
+      "prior_variance": 0.145335,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Cuttack",
+      "path": "asia/india/orissa/cuttack",
+      "prior_score": -3.0889,
+      "prior_variance": 0.152919,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Weining",
+      "path": "asia/china/guizhou/weining",
+      "prior_score": -4.2935,
+      "prior_variance": 0.199024,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Vemulawada",
+      "path": "asia/india/andhrapradesh/vemulawada",
+      "prior_score": -4.9432,
+      "prior_variance": 0.175446,
+      "prior_n": 9
+    }
+  ]
+}

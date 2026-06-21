@@ -5,7 +5,7 @@ latitude: -19.737291
 longitude: 45.439491
 title: Isalo
 type: location
-score: 0.57
+score: 0.49
 loc_type: feature
 ---
 

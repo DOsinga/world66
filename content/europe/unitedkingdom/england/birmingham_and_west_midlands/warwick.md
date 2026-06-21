@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Warwick_Castle_-_Caesar%27
 latitude: 52.281452
 loc_type: city
 longitude: -1.581574
-score: 0.54
+score: 0.41
 title: Warwick
 type: location
 ---

@@ -9,9 +9,15 @@ image_license: GFDL 1.2
 image_source: https://commons.wikimedia.org/wiki/File:14-08-05-barcelona-RalfR-022.jpg
 latitude: 41.38258
 longitude: 2.177073
-score: 0.9
+score: 0.89
 tier: 1
-tags: [culture, architecture, beaches, food, nightlife, museums]
+tags:
+- culture
+- architecture
+- beaches
+- food
+- nightlife
+- museums
 title: Barcelona
 type: location
 loc_type: city

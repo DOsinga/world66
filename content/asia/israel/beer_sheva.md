@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tel_Be%27er_Sheva_181225_0
 latitude: 31.245744
 loc_type: city
 longitude: 34.792518
-score: 0.38
+score: 0.36
 title: Be'er Sheva
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Doctors-Cave-Beach.jpg
 latitude: 18.4762
 loc_type: city
 longitude: -77.8939
-score: 0.66
+score: 0.58
 title: Montego Bay
 type: location
 ---

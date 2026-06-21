@@ -5,7 +5,7 @@ latitude: 44.5902
 longitude: -104.7146
 title: Devil's Tower
 type: location
-score: 0.55
+score: 0.49
 loc_type: feature
 ---
 

@@ -5,7 +5,7 @@ done:
 latitude: 34.3706
 loc_type: city
 longitude: 73.4718
-score: 0.39
+score: 0.29
 sources:
 - https://en.wikipedia.org/wiki/Muzaffarabad
 title: Muzaffarabad

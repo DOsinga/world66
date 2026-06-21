@@ -5,7 +5,7 @@ done:
 latitude: -11.75
 loc_type: city
 longitude: 43.3333
-score: 0.39
+score: 0.36
 title: Ngazidja
 type: location
 image: ngazidja.jpg

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Illa_de_Ons_(16).jpg
 latitude: 42.3826
 loc_type: city
 longitude: -8.9339
-score: 0.58
+score: 0.48
 title: Ons Islands
 type: location
 ---

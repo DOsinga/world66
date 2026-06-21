@@ -5,7 +5,7 @@ done:
 latitude: 15.8833
 loc_type: city
 longitude: 44.0167
-score: 0.16
+score: 0.07
 title: Thola
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Iran_1343_Yazd_(8665215641
 latitude: 32.040616
 loc_type: city
 longitude: 54.665719
-score: 0.61
+score: 0.52
 title: Yazd
 type: location
 ---

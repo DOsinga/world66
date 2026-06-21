@@ -5,7 +5,7 @@ done:
 latitude: 3.868987
 loc_type: city
 longitude: 11.521334
-score: 0.37
+score: 0.3
 title: Yaoundé
 type: location
 image: yaound.jpg

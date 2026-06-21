@@ -5,7 +5,7 @@ done:
 latitude: 43.712897
 loc_type: city
 longitude: -87.937043
-score: 0.39
+score: 0.33
 title: Sheboygan
 type: location
 ---

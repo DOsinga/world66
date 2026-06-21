@@ -5,7 +5,7 @@ done:
 latitude: 39.0108
 loc_type: city
 longitude: 125.654
-score: 0.14
+score: 0.03
 title: Mangyongdae
 type: location
 image: mangyongdae.jpg

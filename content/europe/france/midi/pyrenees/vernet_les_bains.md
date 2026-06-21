@@ -5,7 +5,7 @@ done:
 latitude: 42.548483
 loc_type: city
 longitude: 2.387871
-score: 0.57
+score: 0.47
 title: Vernet les Bains
 type: location
 ---

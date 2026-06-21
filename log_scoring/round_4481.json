@@ -1,0 +1,200 @@
+{
+  "round": 4481,
+  "timestamp": "2026-06-14T00:15:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Telluride",
+      "path": "northamerica/unitedstates/colorado/telluride",
+      "prior_score": 7.172,
+      "prior_variance": 0.146889,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Pai",
+      "path": "asia/thailand/pai",
+      "prior_score": 5.0761,
+      "prior_variance": 0.105192,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Kos",
+      "path": "europe/greece/kos",
+      "prior_score": 5.869,
+      "prior_variance": 0.110619,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Portland",
+      "path": "northamerica/unitedstates/oregon/portland",
+      "prior_score": 3.1135,
+      "prior_variance": 0.114841,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Hikone",
+      "path": "asia/japan/honshu/hikone",
+      "prior_score": 3.2297,
+      "prior_variance": 0.08944,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Troy",
+      "path": "asia/turkey/troy",
+      "prior_score": 3.05,
+      "prior_variance": 0.111053,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Mistra",
+      "path": "europe/greece/mistra",
+      "prior_score": 2.6767,
+      "prior_variance": 0.089387,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Simatai",
+      "path": "asia/china/simatai",
+      "prior_score": 2.6592,
+      "prior_variance": 0.093959,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Sagres",
+      "path": "europe/portugal/algarve/sagres",
+      "prior_score": 4.1653,
+      "prior_variance": 0.106736,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Qiyun Mountain",
+      "path": "asia/china/anhui/qiyun_mountain",
+      "prior_score": 1.952,
+      "prior_variance": 0.090174,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Basse-Terre",
+      "path": "northamerica/thecaribbean/guadeloupe/basseterre",
+      "prior_score": 1.7527,
+      "prior_variance": 0.09636,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Daytona Beach",
+      "path": "northamerica/unitedstates/florida/daytona_beach",
+      "prior_score": -0.1242,
+      "prior_variance": 0.097708,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Sanxenxo",
+      "path": "europe/spain/galicia/sanxenxo",
+      "prior_score": 1.3438,
+      "prior_variance": 0.090266,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Nanortalik",
+      "path": "northamerica/greenland/nanortalik",
+      "prior_score": 0.4511,
+      "prior_variance": 0.094872,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Alaminos",
+      "path": "asia/philippines/alaminos",
+      "prior_score": 0.0236,
+      "prior_variance": 0.081272,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Dordrecht",
+      "path": "europe/netherlands/dordrecht",
+      "prior_score": 1.1248,
+      "prior_variance": 0.089512,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Schwerin",
+      "path": "europe/germany/mecklenburgwesternpomerania/schwerin",
+      "prior_score": 1.3673,
+      "prior_variance": 0.104219,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Sault Ste. Marie",
+      "path": "northamerica/canada/ontario/sault_ste_marie",
+      "prior_score": -2.0442,
+      "prior_variance": 0.099836,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Bansk\u00e1 Bystrica",
+      "path": "europe/slovakia/banskabystrica",
+      "prior_score": 0.1858,
+      "prior_variance": 0.087736,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Velez Malaga",
+      "path": "europe/spain/andalucia/velezmalaga",
+      "prior_score": 0.0046,
+      "prior_variance": 0.095714,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Biha\u0107",
+      "path": "europe/bosniaandherzegovina/bihac",
+      "prior_score": -0.4645,
+      "prior_variance": 0.088752,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Xiangyang",
+      "path": "asia/china/hubei/xiangyang",
+      "prior_score": -3.7498,
+      "prior_variance": 0.088723,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "T\u00e2rgu Jiu",
+      "path": "europe/romania/tirgujiu",
+      "prior_score": -1.9932,
+      "prior_variance": 0.099721,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Pristina",
+      "path": "europe/serbia/kosovoprovince/pristina",
+      "prior_score": -3.1908,
+      "prior_variance": 0.139828,
+      "prior_n": 15
+    }
+  ]
+}

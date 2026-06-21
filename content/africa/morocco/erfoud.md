@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Erfoud-Sahara-Morocco.jpg
 latitude: 31.434992
 loc_type: city
 longitude: -4.232829
-score: 0.53
+score: 0.44
 title: Erfoud
 type: location
 ---

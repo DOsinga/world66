@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ciudad_de_Huehuetenango.JP
 latitude: 15.3167
 loc_type: city
 longitude: -91.4667
-score: 0.43
+score: 0.34
 title: Huehuetenango
 type: location
 ---

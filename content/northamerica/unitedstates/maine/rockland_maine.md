@@ -5,7 +5,7 @@ done:
 latitude: 44.1048
 loc_type: city
 longitude: -69.1092
-score: 0.47
+score: 0.42
 title: Rockland
 type: location
 ---

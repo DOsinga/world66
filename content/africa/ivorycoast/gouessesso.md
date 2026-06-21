@@ -5,7 +5,7 @@ done:
 latitude: 7.761147
 loc_type: city
 longitude: -7.652709
-score: 0.23
+score: 0.18
 title: Gouessesso
 type: location
 ---

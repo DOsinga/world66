@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aeropuerto_Internacional_d
 latitude: 59.437242
 loc_type: city
 longitude: 24.757269
-score: 0.73
+score: 0.67
 title: Tallinn
 type: location
 ---

@@ -13,6 +13,7 @@ sources:
 - https://fr.wikipedia.org/wiki/%C3%89pinal
 title: Epinal
 type: location
+score: 0.38
 ---
 
 Epinal sits on the Moselle at the foot of the Vosges, a practical little city with more charm than its industrial reputation suggests. It is best known for the bright popular prints called images d'Epinal, but the town itself is worth a stop: river walks, a ruined castle above the roofs, and a compact centre that makes a useful base before heading into the mountains.

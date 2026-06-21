@@ -5,7 +5,7 @@ latitude: 47.25306
 longitude: 0.301449
 title: Usse
 type: location
-score: 0.59
+score: 0.52
 loc_type: city
 ---
 

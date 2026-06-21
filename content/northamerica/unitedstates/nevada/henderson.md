@@ -6,7 +6,7 @@ done:
 latitude: 36.0397
 loc_type: city
 longitude: -114.9819
-score: 0.36
+score: 0.27
 title: Henderson
 type: location
 ---

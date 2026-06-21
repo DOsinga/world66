@@ -13,6 +13,7 @@ image: linlithgow.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Am_linlithgow_palace_north_west.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Alistair McMillan
+score: 0.46
 ---
 
 *Europe > United Kingdom > Scotland > Linlithgow*

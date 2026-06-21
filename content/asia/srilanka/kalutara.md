@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Kalutara_Ci
 latitude: 6.57453
 loc_type: city
 longitude: 80.028631
-score: 0.54
+score: 0.47
 title: Kalutara
 type: location
 ---

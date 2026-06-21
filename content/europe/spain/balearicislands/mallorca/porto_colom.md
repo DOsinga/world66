@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Faro_Portocolom_-_52305850
 latitude: 39.423044
 loc_type: city
 longitude: 3.261471
-score: 0.62
+score: 0.51
 title: Porto Colom
 type: location
 ---

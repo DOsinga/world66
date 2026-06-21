@@ -5,7 +5,7 @@ done:
 latitude: -9.001434
 loc_type: city
 longitude: -157.968492
-score: 0.42
+score: 0.37
 title: Penrhyn
 type: location
 image: penrhyn.jpg

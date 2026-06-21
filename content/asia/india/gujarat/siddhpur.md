@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Havelis_or_medieval_homes_
 latitude: 23.918279
 loc_type: city
 longitude: 72.368185
-score: 0.39
+score: 0.31
 title: Siddhpur
 type: location
 ---

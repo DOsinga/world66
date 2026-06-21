@@ -1,0 +1,200 @@
+{
+  "round": 2434,
+  "timestamp": "2026-06-13T21:42:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bangkok",
+      "path": "asia/thailand/bangkok",
+      "prior_score": 12.2837,
+      "prior_variance": 0.98821,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Chengdu",
+      "path": "asia/china/sichuanprovince/chengdu",
+      "prior_score": 6.94,
+      "prior_variance": 0.203714,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Lalitpur (Patan)",
+      "path": "asia/nepal/lalitpur",
+      "prior_score": 3.6547,
+      "prior_variance": 0.250512,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Huacachina",
+      "path": "southamerica/peru/huacachina",
+      "prior_score": 6.6149,
+      "prior_variance": 0.23095,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Ile de Gor\u00e9e",
+      "path": "africa/senegal/iledegoree",
+      "prior_score": 3.0983,
+      "prior_variance": 0.171173,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Bahir Dar",
+      "path": "africa/ethiopia/bahardar",
+      "prior_score": 1.4212,
+      "prior_variance": 0.166768,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Atiu",
+      "path": "australiaandpacific/cookislands/atiu",
+      "prior_score": 1.0856,
+      "prior_variance": 0.158989,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Les Andelys",
+      "path": "europe/france/normandybrittany/lesandelys",
+      "prior_score": 0.5636,
+      "prior_variance": 0.200051,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Castelfranco Veneto",
+      "path": "europe/italy/veneto/castelfrancoveneto",
+      "prior_score": 1.136,
+      "prior_variance": 0.166051,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Kimberley",
+      "path": "africa/southafrica/kimberley",
+      "prior_score": -0.1445,
+      "prior_variance": 0.146125,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Silay",
+      "path": "asia/philippines/negrosisland/silay",
+      "prior_score": -0.9421,
+      "prior_variance": 0.178007,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Antsirabe",
+      "path": "africa/madagascar/antsirabe",
+      "prior_score": -1.6105,
+      "prior_variance": 0.187772,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Aburi",
+      "path": "africa/ghana/aburi",
+      "prior_score": -2.073,
+      "prior_variance": 0.169614,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Elche",
+      "path": "europe/spain/spanishcostas/elche",
+      "prior_score": 0.2271,
+      "prior_variance": 0.183022,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Drammen",
+      "path": "europe/norway/drammen",
+      "prior_score": -1.5123,
+      "prior_variance": 0.1534,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "San Pedro de Macor\u00eds",
+      "path": "northamerica/dominicanrepublic/san_pedro",
+      "prior_score": -2.3295,
+      "prior_variance": 0.17204,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/santa_rosa",
+      "prior_score": -1.6389,
+      "prior_variance": 0.191401,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Volgograd",
+      "path": "europe/russia/volgograd",
+      "prior_score": -1.3628,
+      "prior_variance": 0.180409,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Ganzhou",
+      "path": "asia/china/jiangxi/ganzhou",
+      "prior_score": -4.0333,
+      "prior_variance": 0.210806,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_score": -1.3683,
+      "prior_variance": 0.173168,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Sloan Canyon",
+      "path": "northamerica/unitedstates/nevada/sloan_canyon",
+      "prior_score": -2.0306,
+      "prior_variance": 0.186071,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Darkhan",
+      "path": "asia/mongolia/darkhan",
+      "prior_score": -5.8676,
+      "prior_variance": 0.211607,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Kerimaki",
+      "path": "europe/finland/kerimaki",
+      "prior_score": -2.5995,
+      "prior_variance": 0.166926,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Eagle Bend",
+      "path": "northamerica/unitedstates/minnesota/eaglebend",
+      "prior_score": -7.7955,
+      "prior_variance": 0.31976,
+      "prior_n": 7
+    }
+  ]
+}

@@ -5,7 +5,7 @@ done:
 latitude: 35.848387
 loc_type: city
 longitude: -98.41332
-score: 0.27
+score: 0.24
 title: Watonga
 type: location
 ---

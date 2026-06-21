@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:19_palanga_Palanga_Pier_(2
 latitude: 55.923
 loc_type: city
 longitude: 21.0683
-score: 0.45
+score: 0.41
 title: Palanga
 type: location
 ---

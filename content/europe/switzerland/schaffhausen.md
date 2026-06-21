@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Festung_Munot_mit_dem_Rhei
 latitude: 47.696049
 loc_type: city
 longitude: 8.634513
-score: 0.59
+score: 0.53
 title: Schaffhausen
 type: location
 ---

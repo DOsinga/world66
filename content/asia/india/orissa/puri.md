@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Grand_Road,_Puri_02.jpg
 latitude: 19.807608
 loc_type: city
 longitude: 85.825254
-score: 0.52
+score: 0.44
 title: Puri
 type: location
 ---

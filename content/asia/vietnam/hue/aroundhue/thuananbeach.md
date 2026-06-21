@@ -5,7 +5,7 @@ done:
 latitude: 16.4583
 loc_type: city
 longitude: 107.635
-score: 0.48
+score: 0.41
 title: Thuan An Beach
 type: location
 ---

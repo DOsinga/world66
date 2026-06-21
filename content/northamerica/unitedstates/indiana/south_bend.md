@@ -5,7 +5,7 @@ done:
 latitude: 41.683381
 loc_type: city
 longitude: -86.250007
-score: 0.38
+score: 0.33
 title: South Bend
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2015-06-28_Wollongong_Fore
 latitude: -34.4244
 loc_type: city
 longitude: 150.8939
-score: 0.47
+score: 0.42
 title: Wollongong
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 39.6297
 loc_type: city
 longitude: -79.9559
-score: 0.4
+score: 0.32
 sources:
 - https://en.wikipedia.org/wiki/Morgantown,_West_Virginia
 - https://en.wikipedia.org/wiki/Morgantown_Personal_Rapid_Transit

@@ -1,0 +1,200 @@
+{
+  "round": 2365,
+  "timestamp": "2026-06-13T21:37:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Awash National Park",
+      "path": "africa/ethiopia/awashnationalpark",
+      "prior_score": 0.2237,
+      "prior_variance": 0.193757,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Tengchong",
+      "path": "asia/china/yunnanprovince/tengchong",
+      "prior_score": 1.5178,
+      "prior_variance": 0.20721,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Banana Islands",
+      "path": "africa/sierraleone/bananaislands",
+      "prior_score": -3.321,
+      "prior_variance": 0.288163,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Bhitarkanika National Park",
+      "path": "asia/india/orissa/bhitarkanika",
+      "prior_score": -0.7367,
+      "prior_variance": 0.174962,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_score": -1.7784,
+      "prior_variance": 0.166849,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Cap-Ha\u00eftien",
+      "path": "northamerica/thecaribbean/haiti/caphaitien",
+      "prior_score": -2.2801,
+      "prior_variance": 0.194885,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Sefrou",
+      "path": "africa/morocco/sefrou",
+      "prior_score": -0.1589,
+      "prior_variance": 0.166893,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Jyv\u00e4skyl\u00e4",
+      "path": "europe/finland/jyvaskyla",
+      "prior_score": -1.0136,
+      "prior_variance": 0.175199,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Vormsi Island",
+      "path": "europe/estonia/vormsi_island",
+      "prior_score": -1.6833,
+      "prior_variance": 0.180434,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Mosj\u00f8en",
+      "path": "europe/norway/mosjen",
+      "prior_score": -0.5043,
+      "prior_variance": 0.185441,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Trollh\u00e4ttan",
+      "path": "europe/sweden/trollhttan",
+      "prior_score": -1.6644,
+      "prior_variance": 0.170874,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Georgetown",
+      "path": "southamerica/guyana/georgetown",
+      "prior_score": -2.1334,
+      "prior_variance": 0.24189,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Cincinnati",
+      "path": "northamerica/unitedstates/ohio/cincinnati",
+      "prior_score": -0.1734,
+      "prior_variance": 0.188314,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Ciudad Bol\u00edvar",
+      "path": "southamerica/venezuela/ciudadbolivar",
+      "prior_score": -3.4078,
+      "prior_variance": 0.201542,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Petoskey",
+      "path": "northamerica/unitedstates/michigan/petoskey",
+      "prior_score": -0.9184,
+      "prior_variance": 0.157761,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Hampton Beach",
+      "path": "northamerica/unitedstates/newhampshire/hampton_beach",
+      "prior_score": -0.4556,
+      "prior_variance": 0.184712,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/missouri/springfield",
+      "prior_score": -3.5175,
+      "prior_variance": 0.192908,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Traunstein",
+      "path": "europe/germany/bavaria/traunstein",
+      "prior_score": -0.8809,
+      "prior_variance": 0.152429,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Digha",
+      "path": "asia/india/westbengal/digha",
+      "prior_score": -2.686,
+      "prior_variance": 0.163433,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Rancagua",
+      "path": "southamerica/chile/rancagua",
+      "prior_score": -2.2513,
+      "prior_variance": 0.16722,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Woodinville",
+      "path": "northamerica/unitedstates/washington/woodinville",
+      "prior_score": -2.114,
+      "prior_variance": 0.182547,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Aalst",
+      "path": "europe/belgium/aalst",
+      "prior_score": -1.4988,
+      "prior_variance": 0.188918,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Grove",
+      "path": "northamerica/unitedstates/oklahoma/grove",
+      "prior_score": -5.0387,
+      "prior_variance": 0.273295,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Shiyan",
+      "path": "asia/china/hubei/shiyan",
+      "prior_score": -4.7616,
+      "prior_variance": 0.227587,
+      "prior_n": 7
+    }
+  ]
+}

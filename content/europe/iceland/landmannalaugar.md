@@ -5,7 +5,7 @@ latitude: 63.990511
 longitude: -19.060491
 title: Landmannalaugar
 type: location
-score: 0.73
+score: 0.62
 loc_type: feature
 ---
 

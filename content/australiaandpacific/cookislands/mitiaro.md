@@ -6,12 +6,12 @@ latitude: -19.868431
 longitude: -157.69795
 title: Mitiaro
 type: location
-score: 0.44
+score: 0.36
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Mitiaro
-  - https://cookislands.travel/islands/mitiaro
-  - https://cookislandspocketguide.com/15-best-things-to-do-on-mitiaro/
+- https://en.wikipedia.org/wiki/Mitiaro
+- https://cookislands.travel/islands/mitiaro
+- https://cookislandspocketguide.com/15-best-things-to-do-on-mitiaro/
 ---
 
 Mitiaro is a small, low-lying island sitting between Atiu and Mauke in the southern Cook Islands. Like its neighbours, it is encircled by makatea (raised coral limestone), and the interior consists of a fertile taro swamp plateau. The population of a few hundred lives in a single village, Mangarei.

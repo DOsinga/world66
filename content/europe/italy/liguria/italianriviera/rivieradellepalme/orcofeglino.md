@@ -5,7 +5,7 @@ done:
 latitude: 44.234315
 loc_type: city
 longitude: 8.325372
-score: 0.42
+score: 0.35
 title: Orco Feglino
 type: location
 ---

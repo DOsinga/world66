@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%D8%A8%D8%B1%D8%AC_%D9%87%
 latitude: 37.2499
 loc_type: city
 longitude: 55.1684
-score: 0.33
+score: 0.32
 title: Gonbad-e Kavus
 type: location
 ---

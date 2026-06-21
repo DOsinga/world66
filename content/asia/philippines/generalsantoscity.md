@@ -1,9 +1,10 @@
 ---
-title: "General Santos City"
+title: General Santos City
 type: location
 loc_type: city
 latitude: 6.1119
 longitude: 125.1716
+score: 0.32
 ---
 
 General Santos City — known locally as GenSan — is the southernmost city in Mindanao and one of the fastest-growing urban centres in the Philippines. It sits on the shore of Sarangani Bay, a deep natural harbour that has made the city the tuna capital of the Philippines and one of the largest yellowfin tuna processing centres in Southeast Asia. The tuna trade shapes the city's character: the Fisherport Complex in the early morning is a working spectacle, with fishing boats unloading catches that can include individual fish weighing 80 kilos or more.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Colmar_(32350846618).jpg
 latitude: 48.0778
 loc_type: city
 longitude: 7.358
-score: 0.74
+score: 0.67
 title: Colmar
 type: location
 ---

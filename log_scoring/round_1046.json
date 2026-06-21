@@ -1,200 +1,200 @@
 {
   "round": 1046,
-  "timestamp": "2026-04-12T22:06:22",
+  "timestamp": "2026-06-13T20:07:56",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Ecuador",
-      "path": "southamerica/ecuador",
-      "prior_rank": 752,
-      "prior_wins": 39,
-      "prior_n": 2
+      "title": "Stokmarknes",
+      "path": "europe/norway/stokmarknes",
+      "prior_score": 1.7568,
+      "prior_variance": 0.407399,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "San Juan",
-      "path": "northamerica/puertorico/sanjuan",
-      "prior_rank": 3369,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Chiswick",
+      "path": "europe/unitedkingdom/england/south_east/chiswick",
+      "prior_score": -2.2941,
+      "prior_variance": 0.417603,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Port Louis",
-      "path": "africa/mauritius/portlouis",
-      "prior_rank": 1977,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/leicester",
+      "prior_score": -4.2815,
+      "prior_variance": 0.940818,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Murchison Falls National Park",
-      "path": "africa/uganda/murchison_falls_na",
-      "prior_rank": 1028,
-      "prior_wins": 38,
-      "prior_n": 2
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/loughborough",
+      "prior_score": -3.9009,
+      "prior_variance": 0.533079,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Mombasa",
-      "path": "africa/kenya/mombasa",
-      "prior_rank": 815,
-      "prior_wins": 59,
+      "title": "Boise",
+      "path": "northamerica/unitedstates/idaho/boise",
+      "prior_score": -1.8749,
+      "prior_variance": 0.5103,
       "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Sikkim",
-      "path": "asia/india/sikkim",
-      "prior_rank": 1663,
-      "prior_wins": 34,
-      "prior_n": 2
+      "title": "Burnaby",
+      "path": "northamerica/canada/britishcolumbia/burnaby",
+      "prior_score": -3.5994,
+      "prior_variance": 0.470571,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Bodnath",
-      "path": "asia/nepal/bodnath",
-      "prior_rank": 1595,
-      "prior_wins": 35,
-      "prior_n": 2
+      "title": "Makati",
+      "path": "asia/philippines/makati",
+      "prior_score": -3.5323,
+      "prior_variance": 0.354124,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Husavik",
-      "path": "europe/iceland/husavik",
-      "prior_rank": 1856,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_score": -2.3406,
+      "prior_variance": 0.402578,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Franz Josef",
-      "path": "australiaandpacific/newzealand/west_coast/franzjosef",
-      "prior_rank": 309,
-      "prior_wins": 42,
-      "prior_n": 2
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_score": -4.1014,
+      "prior_variance": 0.454934,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Lugu Lake",
-      "path": "asia/china/yunnanprovince/lugu_lake",
-      "prior_rank": 2030,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Santa Maria",
+      "path": "northamerica/unitedstates/california/centralcoast/santamaria",
+      "prior_score": -3.5208,
+      "prior_variance": 0.452996,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Ponta Delgada",
-      "path": "europe/portugal/ponta_delgada",
-      "prior_rank": 397,
-      "prior_wins": 21,
-      "prior_n": 1
+      "title": "Durham",
+      "path": "northamerica/unitedstates/newhampshire/durham",
+      "prior_score": -6.0782,
+      "prior_variance": 0.61666,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Jbeil (Byblos)",
-      "path": "asia/lebanon/jbeilbyblos",
-      "prior_rank": 1208,
-      "prior_wins": 37,
-      "prior_n": 2
+      "title": "Sarrebourg",
+      "path": "europe/france/east/lorraine/sarrebourg",
+      "prior_score": -2.8695,
+      "prior_variance": 0.465481,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Lake Constance",
-      "path": "europe/germany/badenwrttemberg/lakeconstance",
-      "prior_rank": 1598,
-      "prior_wins": 35,
-      "prior_n": 2
+      "title": "Deva",
+      "path": "europe/romania/deva",
+      "prior_score": -3.5426,
+      "prior_variance": 0.402266,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Gorges du Tarn",
-      "path": "europe/france/midi/ardeche/gorgesdutarn",
-      "prior_rank": 1204,
-      "prior_wins": 37,
-      "prior_n": 2
+      "title": "Massawa",
+      "path": "africa/eritrea/massawa",
+      "prior_score": -5.0205,
+      "prior_variance": 0.406778,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Les eyzies",
-      "path": "europe/france/midi/aquitaine/leseyzies",
-      "prior_rank": 1676,
-      "prior_wins": 52,
+      "title": "Anyang",
+      "path": "asia/china/henan_province/anyang",
+      "prior_score": -3.8558,
+      "prior_variance": 0.453035,
       "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Stoupa",
-      "path": "europe/greece/stoupa",
-      "prior_rank": 1358,
-      "prior_wins": 36,
-      "prior_n": 2
+      "title": "Beichuan",
+      "path": "asia/china/sichuanprovince/beichuan",
+      "prior_score": -3.3091,
+      "prior_variance": 0.443645,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Agaete",
-      "path": "europe/spain/canaryislands/grancanaria/agaete",
-      "prior_rank": 1985,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "Nakhchivan City",
+      "path": "europe/azerbaijan/naxcivan/nakhchivan_city",
+      "prior_score": -4.4587,
+      "prior_variance": 0.421078,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Salisbury",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/salisbury",
-      "prior_rank": 1614,
-      "prior_wins": 35,
-      "prior_n": 2
+      "title": "Limbe",
+      "path": "africa/cameroon/limbe",
+      "prior_score": -4.778,
+      "prior_variance": 0.715459,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Kenmare",
-      "path": "europe/ireland/kenmare",
-      "prior_rank": 1577,
-      "prior_wins": 35,
-      "prior_n": 2
+      "title": "New Iberia",
+      "path": "northamerica/unitedstates/louisiana/newiberia",
+      "prior_score": -4.2563,
+      "prior_variance": 0.417335,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Broadford",
-      "path": "europe/unitedkingdom/scotland/skye/broadford",
-      "prior_rank": 1232,
-      "prior_wins": 37,
-      "prior_n": 2
+      "title": "San Ysidro",
+      "path": "northamerica/unitedstates/california/san_ysidro",
+      "prior_score": -5.9402,
+      "prior_variance": 0.583634,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Kreuzberg",
-      "path": "europe/germany/berlin/kreuzberg",
-      "prior_rank": 1004,
-      "prior_wins": 38,
-      "prior_n": 2
+      "title": "Dego",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/dego",
+      "prior_score": -4.156,
+      "prior_variance": 0.449634,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Visegrad",
-      "path": "europe/hungary/visegrad",
-      "prior_rank": 1068,
-      "prior_wins": 38,
-      "prior_n": 2
+      "title": "Stellanello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stellanello",
+      "prior_score": -3.8028,
+      "prior_variance": 0.396204,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Extremadura",
-      "path": "europe/spain/extremadura",
-      "prior_rank": 2000,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "Giusvalla",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/giusvalla",
+      "prior_score": -4.3591,
+      "prior_variance": 0.40708,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Leadville",
-      "path": "northamerica/unitedstates/colorado/leadville",
-      "prior_rank": 3386,
-      "prior_wins": 13,
-      "prior_n": 1
+      "title": "Broccostella",
+      "path": "europe/italy/lazio/broccostella",
+      "prior_score": -5.8038,
+      "prior_variance": 0.591597,
+      "prior_n": 3
     }
   ]
 }

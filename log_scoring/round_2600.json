@@ -1,0 +1,200 @@
+{
+  "round": 2600,
+  "timestamp": "2026-06-13T21:54:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Teotihuacan",
+      "path": "northamerica/mexico/teotihuacan",
+      "prior_score": 8.4398,
+      "prior_variance": 0.290532,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "San Pedro la Laguna",
+      "path": "northamerica/guatemala/lakeatitlan/san_pedro_la_laguna",
+      "prior_score": 4.8736,
+      "prior_variance": 0.189368,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Melaka",
+      "path": "asia/malaysia/melaka",
+      "prior_score": 4.7549,
+      "prior_variance": 0.209607,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Namtso Lake",
+      "path": "asia/china/tibet/namtso_lake",
+      "prior_score": 5.3358,
+      "prior_variance": 0.181783,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Stavanger",
+      "path": "europe/norway/stavanger",
+      "prior_score": 4.4443,
+      "prior_variance": 0.200601,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Mumbai",
+      "path": "asia/india/maharashtra/mumbai",
+      "prior_score": 4.0248,
+      "prior_variance": 0.214979,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Brac",
+      "path": "europe/croatia/brac",
+      "prior_score": 4.5856,
+      "prior_variance": 0.215499,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Island Vis",
+      "path": "europe/croatia/island_vis",
+      "prior_score": 5.8436,
+      "prior_variance": 0.17686,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Death Valley",
+      "path": "northamerica/unitedstates/california/deserts/deathvalley",
+      "prior_score": 0.7543,
+      "prior_variance": 0.198276,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Kilrush",
+      "path": "europe/ireland/kilrush",
+      "prior_score": -1.4103,
+      "prior_variance": 0.18082,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Resistencia",
+      "path": "southamerica/argentina/resistencia",
+      "prior_score": -3.4645,
+      "prior_variance": 0.180331,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Tonder",
+      "path": "europe/denmark/tonder",
+      "prior_score": -1.9813,
+      "prior_variance": 0.180617,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Alaverdi",
+      "path": "europe/armenia/alaverdi",
+      "prior_score": -2.4602,
+      "prior_variance": 0.200176,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Lewes",
+      "path": "northamerica/unitedstates/delaware/lewes",
+      "prior_score": -1.6208,
+      "prior_variance": 0.164107,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Hasti\u00e8re",
+      "path": "europe/belgium/hastiere",
+      "prior_score": -1.7795,
+      "prior_variance": 0.166737,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Witten",
+      "path": "europe/germany/northrhinewestphalia/witten",
+      "prior_score": -4.3839,
+      "prior_variance": 0.221462,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Dungannon",
+      "path": "europe/unitedkingdom/northernireland/dungannon",
+      "prior_score": -4.7278,
+      "prior_variance": 0.186884,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Cheboksary",
+      "path": "europe/russia/chuvashia/cheboksary",
+      "prior_score": -3.8131,
+      "prior_variance": 0.161996,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Darlington",
+      "path": "northamerica/unitedstates/southcarolina/darlington",
+      "prior_score": -6.1273,
+      "prior_variance": 0.213858,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/utah/wendover",
+      "prior_score": -6.138,
+      "prior_variance": 0.251661,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Rainbow",
+      "path": "australiaandpacific/australia/victoria/rainbow",
+      "prior_score": -5.4717,
+      "prior_variance": 0.183778,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Sri Ganganagar",
+      "path": "asia/india/rajasthan/sriganganagar",
+      "prior_score": -6.5117,
+      "prior_variance": 0.267296,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Maseno",
+      "path": "africa/kenya/westernkenya/maseno",
+      "prior_score": -5.8981,
+      "prior_variance": 0.187798,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Hama",
+      "path": "asia/syria/hama",
+      "prior_score": -5.3852,
+      "prior_variance": 0.252057,
+      "prior_n": 8
+    }
+  ]
+}

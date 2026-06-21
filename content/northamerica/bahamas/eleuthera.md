@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eleuthera_Sunset_explored_
 latitude: 25.1
 loc_type: city
 longitude: -76.15
-score: 0.66
+score: 0.57
 title: Eleuthera
 type: location
 ---

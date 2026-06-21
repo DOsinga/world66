@@ -1,0 +1,200 @@
+{
+  "round": 2810,
+  "timestamp": "2026-06-13T22:08:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mykonos",
+      "path": "europe/greece/mykonos",
+      "prior_score": 9.1006,
+      "prior_variance": 0.261839,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Derinkuyu",
+      "path": "asia/turkey/cappadocia/derinkuyu",
+      "prior_score": 5.5778,
+      "prior_variance": 0.160923,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Silves",
+      "path": "europe/portugal/algarve/silves",
+      "prior_score": 4.3763,
+      "prior_variance": 0.167003,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Springbrook",
+      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
+      "prior_score": 1.8114,
+      "prior_variance": 0.143479,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Pella",
+      "path": "europe/greece/pella",
+      "prior_score": 0.3656,
+      "prior_variance": 0.143094,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Badajoz",
+      "path": "europe/spain/extremadura/badajoz",
+      "prior_score": -1.6558,
+      "prior_variance": 0.202754,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Vilafranca del Bierzo",
+      "path": "europe/spain/galicia/vilafranca_del_bierzo",
+      "prior_score": -0.3797,
+      "prior_variance": 0.130582,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Val-David",
+      "path": "northamerica/canada/quebec/valdavid",
+      "prior_score": -0.3676,
+      "prior_variance": 0.147018,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Northampton",
+      "path": "northamerica/unitedstates/massachusetts/northhampton",
+      "prior_score": -1.5947,
+      "prior_variance": 0.138846,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Mestre",
+      "path": "europe/italy/veneto/mestre",
+      "prior_score": -3.5534,
+      "prior_variance": 0.182341,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Damghan",
+      "path": "asia/iran/damghan",
+      "prior_score": -5.0606,
+      "prior_variance": 0.177905,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Qax",
+      "path": "europe/azerbaijan/qax",
+      "prior_score": -4.8526,
+      "prior_variance": 0.146444,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Qasr Libya",
+      "path": "africa/libya/qasr_libya",
+      "prior_score": -6.3496,
+      "prior_variance": 0.192711,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Karratha",
+      "path": "australiaandpacific/australia/westernaustralia/karratha",
+      "prior_score": -4.063,
+      "prior_variance": 0.162962,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/arkansas/springdale",
+      "prior_score": -2.9291,
+      "prior_variance": 0.164073,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Rizhao",
+      "path": "asia/china/shandong_province/rizhao",
+      "prior_score": -3.4072,
+      "prior_variance": 0.145828,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Round Rock",
+      "path": "northamerica/unitedstates/texas/round_rock",
+      "prior_score": -4.6547,
+      "prior_variance": 0.160538,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Esmeraldas",
+      "path": "southamerica/ecuador/esmeraldas",
+      "prior_score": -3.3406,
+      "prior_variance": 0.171257,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Mandaue City",
+      "path": "asia/philippines/cebu/mandaue_city",
+      "prior_score": -3.824,
+      "prior_variance": 0.154936,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Port Harcourt",
+      "path": "africa/nigeria/portharcourt",
+      "prior_score": -6.3857,
+      "prior_variance": 0.192148,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Ningde",
+      "path": "asia/china/fujianprovince/ningde",
+      "prior_score": -4.3827,
+      "prior_variance": 0.163774,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Siping",
+      "path": "asia/china/jilin/siping",
+      "prior_score": -6.0288,
+      "prior_variance": 0.187619,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Arnun",
+      "path": "asia/lebanon/arnun",
+      "prior_score": -7.2472,
+      "prior_variance": 0.258171,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Bethany",
+      "path": "northamerica/unitedstates/oklahoma/bethany",
+      "prior_score": -7.175,
+      "prior_variance": 0.275881,
+      "prior_n": 9
+    }
+  ]
+}

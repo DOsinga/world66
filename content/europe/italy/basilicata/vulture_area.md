@@ -5,7 +5,7 @@ latitude: 40.95
 longitude: 15.64
 title: Vulture Area
 type: location
-score: 0.46
+score: 0.39
 loc_type: feature
 ---
 

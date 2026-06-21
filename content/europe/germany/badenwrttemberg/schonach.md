@@ -5,7 +5,7 @@ done:
 latitude: 48.142715
 loc_type: city
 longitude: 8.197494
-score: 0.4
+score: 0.33
 title: Schönach
 type: location
 ---

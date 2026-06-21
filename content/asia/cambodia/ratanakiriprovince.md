@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Banlung-budisti%C4%8Dki_hr
 latitude: 13.7415
 loc_type: city
 longitude: 106.9874
-score: 0.43
+score: 0.36
 title: Ban Lung
 type: location
 ---

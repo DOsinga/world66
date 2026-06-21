@@ -7,7 +7,7 @@ done:
 latitude: 49.8224
 loc_type: city
 longitude: 19.0586
-score: 0.44
+score: 0.36
 title: Bielsko-Biała
 type: location
 image: bielsko.jpg

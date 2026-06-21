@@ -5,7 +5,7 @@ done:
 latitude: -28.617207
 loc_type: city
 longitude: 29.031599
-score: 0.62
+score: 0.52
 sources:
 - https://en.wikipedia.org/wiki/Drakensberg
 title: Northern Drakensberg

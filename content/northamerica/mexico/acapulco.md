@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Acapulco3.jpg
 latitude: 16.86805
 loc_type: city
 longitude: -99.894018
-score: 0.42
+score: 0.35
 title: Acapulco
 type: location
 ---

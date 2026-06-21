@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Taghit.jpg
 latitude: 30.917061
 loc_type: city
 longitude: -2.029475
-score: 0.44
+score: 0.42
 title: Taghit
 type: location
 ---

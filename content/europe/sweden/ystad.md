@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ystad_stortorget.jpg
 latitude: 55.4295
 loc_type: city
 longitude: 13.8201
-score: 0.53
+score: 0.46
 title: Ystad
 type: location
 ---

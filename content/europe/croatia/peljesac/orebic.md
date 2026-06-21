@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Izme%C4%91u_dvi_stine11403
 latitude: 42.976914
 loc_type: city
 longitude: 17.183237
-score: 0.63
+score: 0.53
 title: Orebić
 type: location
 ---

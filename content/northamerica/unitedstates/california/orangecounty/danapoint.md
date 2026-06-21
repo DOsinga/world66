@@ -5,7 +5,7 @@ done:
 latitude: 33.467
 loc_type: city
 longitude: -117.6981
-score: 0.49
+score: 0.42
 title: Dana Point
 type: location
 image: danapoint.jpg

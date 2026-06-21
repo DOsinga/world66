@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/9769664@N04/4615000966
 latitude: 28.209538
 loc_type: city
 longitude: 83.991402
-score: 0.73
+score: 0.68
 title: Pokhara
 type: location
 ---

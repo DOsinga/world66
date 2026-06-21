@@ -5,7 +5,7 @@ latitude: 9.866727
 longitude: 76.96566
 title: Periyar
 type: location
-score: 0.63
+score: 0.53
 loc_type: feature
 ---
 

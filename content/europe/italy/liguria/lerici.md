@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_(Lerici).jpg
 latitude: 44.073607
 loc_type: city
 longitude: 9.909914
-score: 0.61
+score: 0.55
 title: Lerici
 type: location
 ---

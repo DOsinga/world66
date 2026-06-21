@@ -5,7 +5,7 @@ done:
 latitude: 47.7467
 loc_type: city
 longitude: 7.339
-score: 0.47
+score: 0.41
 title: Mulhouse
 type: location
 image: mulhouse.jpg

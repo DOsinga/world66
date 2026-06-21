@@ -5,7 +5,7 @@ latitude: 41.889
 longitude: -8.8718
 title: Mount Santa Tecla
 type: location
-score: 0.45
+score: 0.39
 loc_type: feature
 ---
 

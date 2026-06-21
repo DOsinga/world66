@@ -7,7 +7,7 @@ done:
 latitude: -3.3188
 loc_type: city
 longitude: 114.5926
-score: 0.42
+score: 0.37
 title: Banjarmasin
 type: location
 image: banjarmasin.jpg

@@ -1,200 +1,200 @@
 {
   "round": 1925,
-  "timestamp": "2026-04-13T15:54:41",
+  "timestamp": "2026-06-13T21:01:22",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "The North Norfolk Coast",
-      "path": "europe/unitedkingdom/norfolk/the_north_norfolk",
-      "prior_score": 1.9017,
-      "prior_variance": 0.270303,
-      "prior_n": 5
+      "title": "Copenhagen",
+      "path": "europe/denmark/copenhagen",
+      "prior_score": 10.3763,
+      "prior_variance": 0.715822,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Raumati Beach",
-      "path": "australiaandpacific/newzealand/greater_wellington/raumati_beach",
-      "prior_score": -2.198,
-      "prior_variance": 0.328086,
-      "prior_n": 5
+      "title": "Beppu",
+      "path": "asia/japan/kyushu/beppu",
+      "prior_score": 5.7043,
+      "prior_variance": 0.431206,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Anzio",
-      "path": "europe/italy/lazio/anzio",
-      "prior_score": 0.0189,
-      "prior_variance": 0.603726,
-      "prior_n": 4
+      "title": "Fethiye",
+      "path": "asia/turkey/fethiye",
+      "prior_score": 6.3898,
+      "prior_variance": 0.290926,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Pallare",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pallare",
-      "prior_score": -2.7516,
-      "prior_variance": 0.29759,
-      "prior_n": 5
+      "title": "Kochi",
+      "path": "asia/india/kerala/kochi",
+      "prior_score": 5.7536,
+      "prior_variance": 0.313648,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Kackar",
-      "path": "asia/turkey/kackar",
-      "prior_score": 0.6176,
-      "prior_variance": 0.271969,
-      "prior_n": 5
+      "title": "Thimphu",
+      "path": "asia/bhutan/thimphu",
+      "prior_score": 6.2965,
+      "prior_variance": 0.26577,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Kemij\u00e4rvi",
-      "path": "europe/finland/kemijarvi",
-      "prior_score": -3.9298,
-      "prior_variance": 0.376536,
-      "prior_n": 5
+      "title": "Iraklion",
+      "path": "europe/greece/crete/iraklion",
+      "prior_score": 5.1841,
+      "prior_variance": 0.262183,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Regina",
-      "path": "northamerica/canada/saskatchewan/regina",
-      "prior_score": -2.9607,
-      "prior_variance": 0.233079,
+      "title": "Asilah",
+      "path": "africa/morocco/asilah",
+      "prior_score": 3.3911,
+      "prior_variance": 0.278116,
       "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "McLean",
-      "path": "northamerica/unitedstates/virginia/mclean",
-      "prior_score": -3.8837,
-      "prior_variance": 0.286974,
-      "prior_n": 5
+      "title": "Chan Chan",
+      "path": "southamerica/peru/chanchan",
+      "prior_score": 5.3529,
+      "prior_variance": 0.240573,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Nukulaelae atoll",
-      "path": "australiaandpacific/tuvalu/nukulaelaeatoll",
-      "prior_score": -4.0843,
-      "prior_variance": 0.496959,
-      "prior_n": 5
+      "title": "Jiuhua Mountain",
+      "path": "asia/china/anhui/jiuhua_mountain",
+      "prior_score": 2.6158,
+      "prior_variance": 0.298924,
+      "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "San Miguel de Tucum\u00e1n",
-      "path": "southamerica/argentina/san_miguel_de_tucu",
-      "prior_score": -0.5891,
-      "prior_variance": 0.28178,
-      "prior_n": 5
+      "title": "Geghard",
+      "path": "europe/armenia/geghard",
+      "prior_score": 4.2111,
+      "prior_variance": 0.239089,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Rakesh",
-      "path": "asia/india/uttaranchal/hemkunt/rakesh",
-      "prior_score": -5.5245,
-      "prior_variance": 0.568603,
-      "prior_n": 4
+      "title": "\u00c7avu\u015fin",
+      "path": "asia/turkey/cappadocia/cavusin",
+      "prior_score": 7.0759,
+      "prior_variance": 0.455778,
+      "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Warangal",
-      "path": "asia/india/andhrapradesh/warangal",
-      "prior_score": -3.7231,
-      "prior_variance": 0.337542,
-      "prior_n": 5
+      "title": "Gjogv",
+      "path": "europe/faroeislands/eysturoy/gjogv",
+      "prior_score": 3.744,
+      "prior_variance": 0.328689,
+      "prior_n": 6
     },
     {
       "rank": 13,
-      "title": "Filadelfia",
-      "path": "southamerica/paraguay/filadelfia",
-      "prior_score": -5.5717,
-      "prior_variance": 0.361703,
-      "prior_n": 5
+      "title": "Praia da Rocha",
+      "path": "europe/portugal/praiadarocha",
+      "prior_score": 4.8604,
+      "prior_variance": 0.237183,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Asyut",
-      "path": "africa/egypt/asyut",
-      "prior_score": -5.1084,
-      "prior_variance": 0.349646,
-      "prior_n": 4
+      "title": "Melk",
+      "path": "europe/austria/melk",
+      "prior_score": 4.8007,
+      "prior_variance": 0.228876,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Maracaibo",
-      "path": "southamerica/venezuela/maracaibo",
-      "prior_score": -7.7881,
-      "prior_variance": 0.636367,
-      "prior_n": 4
+      "title": "Kufstein",
+      "path": "europe/austria/kufstein",
+      "prior_score": 3.8928,
+      "prior_variance": 0.25937,
+      "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Novosibirsk",
-      "path": "europe/russia/novosibirsk",
-      "prior_score": -3.1602,
-      "prior_variance": 0.530472,
-      "prior_n": 5
+      "title": "Palm Beach",
+      "path": "northamerica/unitedstates/florida/palm_beach",
+      "prior_score": 2.929,
+      "prior_variance": 0.411252,
+      "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "Russia",
-      "path": "europe/russia",
-      "prior_score": -7.8534,
-      "prior_variance": 0.419506,
-      "prior_n": 5
+      "title": "Veurne",
+      "path": "europe/belgium/veurne",
+      "prior_score": -0.4567,
+      "prior_variance": 0.21505,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Zabadani",
-      "path": "asia/syria/zabadani",
-      "prior_score": -9.9584,
-      "prior_variance": 0.548098,
-      "prior_n": 5
+      "title": "Ansbach",
+      "path": "europe/germany/bavaria/ansbach",
+      "prior_score": -1.5692,
+      "prior_variance": 0.252279,
+      "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Corozal",
-      "path": "northamerica/honduras/corozal_honduras",
-      "prior_score": -6.9876,
-      "prior_variance": 0.383532,
-      "prior_n": 4
+      "title": "Timisoara",
+      "path": "europe/romania/timisoara",
+      "prior_score": 0.2736,
+      "prior_variance": 0.216606,
+      "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Fakobly",
-      "path": "africa/ivorycoast/fakobly",
-      "prior_score": -8.0888,
-      "prior_variance": 0.257547,
-      "prior_n": 8
+      "title": "Princeton",
+      "path": "northamerica/unitedstates/newjersey/princeton",
+      "prior_score": 1.7284,
+      "prior_variance": 0.210769,
+      "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "MANA AHMEDANI",
-      "path": "asia/pakistan/dera_ghazi_khan/mana_ahmedani",
-      "prior_score": -13.9192,
-      "prior_variance": 1.099836,
+      "title": "Choroni",
+      "path": "southamerica/venezuela/choroni",
+      "prior_score": 0.0703,
+      "prior_variance": 0.260823,
       "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "ALI KHAN GORAKH BALOCH CHAH JAIND WAL",
-      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gorakh_ba",
-      "prior_score": -13.8006,
-      "prior_variance": 1.168303,
-      "prior_n": 4
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_score": -0.6072,
+      "prior_variance": 0.232985,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Bost",
-      "path": "asia/afghanistan/bost",
-      "prior_score": -11.9197,
-      "prior_variance": 1.032159,
-      "prior_n": 5
+      "title": "Savinja and \u0160alek Valley",
+      "path": "europe/slovenia/savinja_and_alek",
+      "prior_score": 0.7388,
+      "prior_variance": 0.205261,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "Gaza Strip",
-      "path": "asia/palestinianauthority/gazastrip",
-      "prior_score": -11.6652,
-      "prior_variance": 1.223219,
-      "prior_n": 5
+      "title": "Truth or Consequences",
+      "path": "northamerica/unitedstates/newmexico/truth_or_consequences",
+      "prior_score": -3.9821,
+      "prior_variance": 0.297446,
+      "prior_n": 6
     }
   ]
 }

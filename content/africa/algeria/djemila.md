@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arch_of_Caracalla_(Djemila
 latitude: 36.3214
 loc_type: city
 longitude: 5.7368
-score: 0.52
+score: 0.46
 title: Djemila
 type: location
 ---

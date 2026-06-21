@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Recklinghausen,_Alte_Apoth
 latitude: 51.614382
 loc_type: city
 longitude: 7.197855
-score: 0.37
+score: 0.31
 title: Recklinghausen
 type: location
 ---

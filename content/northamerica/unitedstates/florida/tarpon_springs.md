@@ -6,7 +6,7 @@ done:
 latitude: 28.1471
 loc_type: city
 longitude: -82.7564
-score: 0.48
+score: 0.44
 title: Tarpon Springs
 type: location
 ---

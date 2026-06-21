@@ -1,199 +1,199 @@
 {
   "round": 1700,
-  "timestamp": "2026-04-13T10:43:29",
+  "timestamp": "2026-06-13T20:46:58",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Makarska",
-      "path": "europe/croatia/makarska",
-      "prior_score": 5.8097,
-      "prior_variance": 0.319394,
-      "prior_n": 4
+      "title": "Samarkand",
+      "path": "asia/uzbekistan/samarkand",
+      "prior_score": 9.1814,
+      "prior_variance": 0.329671,
+      "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Tellaro",
-      "path": "europe/italy/liguria/tellaro",
-      "prior_score": 3.9998,
-      "prior_variance": 0.275094,
+      "title": "Knossos",
+      "path": "europe/greece/crete/knossos",
+      "prior_score": 8.1422,
+      "prior_variance": 0.410889,
       "prior_n": 5
     },
     {
       "rank": 3,
-      "title": "Karon",
-      "path": "asia/thailand/phuket/karon",
-      "prior_score": 5.6566,
-      "prior_variance": 0.362622,
-      "prior_n": 4
+      "title": "Thessaloniki",
+      "path": "europe/greece/thessaloniki",
+      "prior_score": 7.2099,
+      "prior_variance": 0.314987,
+      "prior_n": 5
     },
     {
       "rank": 4,
-      "title": "Prades",
-      "path": "europe/france/midi/pyrenees/prades",
-      "prior_score": 1.391,
-      "prior_variance": 0.334764,
-      "prior_n": 4
+      "title": "Yala National Park",
+      "path": "asia/srilanka/tissamaharama/yala_national_park",
+      "prior_score": 5.6662,
+      "prior_variance": 0.343315,
+      "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Tutukaka / Poor Knights",
-      "path": "australiaandpacific/newzealand/titikakapoor_knig",
-      "prior_score": 4.4207,
-      "prior_variance": 0.325045,
-      "prior_n": 4
+      "title": "Hateruma Island",
+      "path": "asia/japan/ryukyuislands/haterumaisland",
+      "prior_score": 3.0768,
+      "prior_variance": 0.259372,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Ba Be National Park",
-      "path": "asia/vietnam/ba_be",
-      "prior_score": 3.532,
-      "prior_variance": 0.356212,
-      "prior_n": 4
+      "title": "Lugu Lake",
+      "path": "asia/china/yunnanprovince/lugu_lake",
+      "prior_score": 5.1726,
+      "prior_variance": 0.238458,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Arusha",
-      "path": "africa/tanzania/arusha",
-      "prior_score": 5.7976,
-      "prior_variance": 0.340977,
-      "prior_n": 4
+      "title": "Kangding",
+      "path": "asia/china/sichuanprovince/kangding",
+      "prior_score": 2.5033,
+      "prior_variance": 0.262943,
+      "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "St. Johann",
-      "path": "europe/austria/stjohann",
-      "prior_score": 1.1603,
-      "prior_variance": 0.308876,
-      "prior_n": 4
+      "title": "Esperance",
+      "path": "australiaandpacific/australia/westernaustralia/esperance",
+      "prior_score": 3.6657,
+      "prior_variance": 0.272407,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Kharipati, Nagarkot Phedi",
-      "path": "asia/nepal/dhulikel/kharipati_nagarko",
-      "prior_score": 0.6304,
-      "prior_variance": 0.406673,
-      "prior_n": 4
+      "title": "Salou",
+      "path": "europe/spain/catalonia/salou",
+      "prior_score": 2.7852,
+      "prior_variance": 0.268993,
+      "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Naarden",
-      "path": "europe/netherlands/naarden",
-      "prior_score": 1.6567,
-      "prior_variance": 0.147729,
-      "prior_n": 9
+      "title": "Frankfurt",
+      "path": "europe/germany/hessen/frankfurt",
+      "prior_score": 3.4921,
+      "prior_variance": 0.282152,
+      "prior_n": 5
     },
     {
       "rank": 11,
-      "title": "Makati",
-      "path": "asia/philippines/makati",
-      "prior_score": -1.547,
-      "prior_variance": 0.323384,
+      "title": "Andros",
+      "path": "europe/greece/andros",
+      "prior_score": 3.3286,
+      "prior_variance": 0.335857,
       "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "Anaheim",
-      "path": "northamerica/unitedstates/california/orangecounty/anaheim",
-      "prior_score": 2.3019,
-      "prior_variance": 0.36916,
-      "prior_n": 4
+      "title": "La Serena",
+      "path": "southamerica/chile/laserena",
+      "prior_score": 0.2152,
+      "prior_variance": 0.316977,
+      "prior_n": 5
     },
     {
       "rank": 13,
-      "title": "Midway Islands",
-      "path": "australiaandpacific/midwayislands",
-      "prior_score": -3.442,
-      "prior_variance": 0.39957,
-      "prior_n": 4
+      "title": "Narooma",
+      "path": "australiaandpacific/australia/newsouthwales/narooma",
+      "prior_score": 0.6072,
+      "prior_variance": 0.277874,
+      "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "V\u00f5su",
-      "path": "europe/estonia/vsu",
-      "prior_score": -2.7475,
-      "prior_variance": 0.249527,
+      "title": "Kruje",
+      "path": "europe/albania/kruje",
+      "prior_score": 1.2834,
+      "prior_variance": 0.267457,
       "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Littleton",
-      "path": "northamerica/unitedstates/newhampshire/littleton",
-      "prior_score": -1.254,
-      "prior_variance": 0.301828,
-      "prior_n": 4
-    },
-    {
-      "rank": 16,
-      "title": "Visalia",
-      "path": "northamerica/unitedstates/california/centralvalley/visalia",
-      "prior_score": -5.2337,
-      "prior_variance": 0.296535,
-      "prior_n": 4
-    },
-    {
-      "rank": 17,
-      "title": "ryder",
-      "path": "australiaandpacific/australia/queensland/greatbarrierreef/ryder",
-      "prior_score": 0.5676,
-      "prior_variance": 0.441352,
-      "prior_n": 4
-    },
-    {
-      "rank": 18,
-      "title": "caston norfolk",
-      "path": "europe/unitedkingdom/england/castonnorfolk",
-      "prior_score": -8.6524,
-      "prior_variance": 0.591551,
-      "prior_n": 4
-    },
-    {
-      "rank": 19,
-      "title": "Tus",
-      "path": "asia/iran/tuz",
-      "prior_score": -8.1185,
-      "prior_variance": 0.402599,
+      "title": "Marlow",
+      "path": "europe/unitedkingdom/england/south_east/marlow",
+      "prior_score": -1.685,
+      "prior_variance": 0.402973,
       "prior_n": 5
     },
     {
+      "rank": 16,
+      "title": "Landskrona",
+      "path": "europe/sweden/landskrona",
+      "prior_score": -0.5099,
+      "prior_variance": 0.272683,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Oregon City",
+      "path": "northamerica/unitedstates/oregon/oregoncity",
+      "prior_score": -2.044,
+      "prior_variance": 0.243094,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Yan'an",
+      "path": "asia/china/shaanxi/yan_an",
+      "prior_score": -3.5844,
+      "prior_variance": 0.256418,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Argentona",
+      "path": "europe/spain/catalonia/argentona",
+      "prior_score": -1.699,
+      "prior_variance": 0.221596,
+      "prior_n": 6
+    },
+    {
       "rank": 20,
-      "title": "Loubomo",
-      "path": "africa/congobrazzaville/loubomo",
-      "prior_score": -7.6925,
-      "prior_variance": 0.422623,
-      "prior_n": 4
+      "title": "Dego",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/dego",
+      "prior_score": -3.5432,
+      "prior_variance": 0.257886,
+      "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "Nushki",
-      "path": "asia/pakistan/nushki",
-      "prior_score": -9.001,
-      "prior_variance": 0.332797,
+      "title": "Torrance",
+      "path": "northamerica/unitedstates/california/torrance",
+      "prior_score": -4.892,
+      "prior_variance": 0.429773,
       "prior_n": 5
     },
     {
       "rank": 22,
-      "title": "Mulkan Mohra",
-      "path": "asia/pakistan/azad_kashmir/mirpur/mulkan_mohra",
-      "prior_score": -9.2412,
-      "prior_variance": 0.407884,
-      "prior_n": 4
+      "title": "Heerde",
+      "path": "europe/netherlands/heerde",
+      "prior_score": -4.4511,
+      "prior_variance": 0.285395,
+      "prior_n": 5
     },
     {
       "rank": 23,
-      "title": "Kananga",
-      "path": "africa/congokinshasa/kananga",
-      "prior_score": -9.6434,
-      "prior_variance": 0.39442,
+      "title": "Weiser",
+      "path": "northamerica/unitedstates/idaho/weiser",
+      "prior_score": -5.4266,
+      "prior_variance": 0.329892,
       "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "M Baiki",
-      "path": "africa/centralafricanrepublic/m_baiki",
-      "prior_score": -10.9155,
-      "prior_variance": 0.746773,
+      "title": "Slutsk",
+      "path": "europe/belarus/slutsk",
+      "prior_score": -8.5327,
+      "prior_variance": 0.516329,
       "prior_n": 5
     }
   ]

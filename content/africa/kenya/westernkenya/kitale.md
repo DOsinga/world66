@@ -5,7 +5,7 @@ done:
 latitude: 1.018076
 loc_type: city
 longitude: 35.000236
-score: 0.36
+score: 0.29
 title: Kitale
 type: location
 ---

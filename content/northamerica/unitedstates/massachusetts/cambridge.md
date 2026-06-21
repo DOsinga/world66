@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/97708873@N00/51942950093
 latitude: 42.3656
 loc_type: city
 longitude: -71.104
-score: 0.65
+score: 0.53
 title: Cambridge
 type: location
 ---

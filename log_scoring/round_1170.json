@@ -1,200 +1,200 @@
 {
   "round": 1170,
-  "timestamp": "2026-04-12T22:13:12",
+  "timestamp": "2026-06-13T20:15:09",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Sicily",
-      "path": "europe/italy/sicily",
-      "prior_rank": 299,
-      "prior_wins": 62,
+      "title": "St. John",
+      "path": "northamerica/thecaribbean/virginislands/stjohn",
+      "prior_score": 8.3599,
+      "prior_variance": 0.412617,
       "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Montreux",
-      "path": "europe/switzerland/montreux",
-      "prior_rank": 2325,
-      "prior_wins": 45,
+      "title": "Nevis",
+      "path": "northamerica/saintkittsandnevis/nevis",
+      "prior_score": 7.1878,
+      "prior_variance": 0.410325,
       "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Lago Maggiore",
-      "path": "europe/italy/lombardia/lagomaggiore",
-      "prior_rank": 162,
-      "prior_wins": 43,
-      "prior_n": 2
+      "title": "Mount Rushmore",
+      "path": "northamerica/unitedstates/southdakota/mountrushmore",
+      "prior_score": 5.9352,
+      "prior_variance": 0.430681,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Aix en Provence",
-      "path": "europe/france/midi_1/provence/aix_en_provence",
-      "prior_rank": 726,
-      "prior_wins": 58,
-      "prior_n": 3
-    },
-    {
-      "rank": 5,
-      "title": "Aix-en-Provence",
-      "path": "europe/france/midi/provence/aixenprovence",
-      "prior_rank": 1004,
-      "prior_wins": 37,
-      "prior_n": 2
-    },
-    {
-      "rank": 6,
-      "title": "St Tropez",
-      "path": "europe/france/midi/cotedazur/sttropez",
-      "prior_rank": 405,
-      "prior_wins": 41,
-      "prior_n": 2
-    },
-    {
-      "rank": 7,
-      "title": "Cephalonia",
-      "path": "europe/greece/cephalonia",
-      "prior_rank": 86,
-      "prior_wins": 109,
-      "prior_n": 5
-    },
-    {
-      "rank": 8,
-      "title": "Cornwall",
-      "path": "europe/unitedkingdom/cornwall",
-      "prior_rank": 1866,
-      "prior_wins": 65,
+      "title": "Lac des Bouillouses",
+      "path": "europe/france/midi/pyrenees/lac_des_bouillouses",
+      "prior_score": 2.6571,
+      "prior_variance": 0.311614,
       "prior_n": 4
     },
     {
-      "rank": 9,
-      "title": "Heidelberg",
-      "path": "europe/germany/badenwrttemberg/heidelberg",
-      "prior_rank": 929,
-      "prior_wins": 56,
+      "rank": 5,
+      "title": "Sharyn Canyon",
+      "path": "asia/kazakhstan/sharyn_canyon",
+      "prior_score": 2.3906,
+      "prior_variance": 0.506605,
       "prior_n": 3
     },
     {
+      "rank": 6,
+      "title": "Fryeburg",
+      "path": "northamerica/unitedstates/maine/fryeburg",
+      "prior_score": -2.5251,
+      "prior_variance": 0.330929,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Chaozhou",
+      "path": "asia/china/guangdong/chaozhou",
+      "prior_score": 1.8039,
+      "prior_variance": 0.405753,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Plodio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/plodio",
+      "prior_score": -6.785,
+      "prior_variance": 0.401595,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Massimino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
+      "prior_score": -5.6235,
+      "prior_variance": 0.415268,
+      "prior_n": 4
+    },
+    {
       "rank": 10,
-      "title": "Romantic Road",
-      "path": "europe/germany/bavaria/romanticroad",
-      "prior_rank": 183,
-      "prior_wins": 64,
+      "title": "New Castle",
+      "path": "northamerica/unitedstates/delaware/newcastle",
+      "prior_score": -3.6284,
+      "prior_variance": 0.393352,
       "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Boston",
-      "path": "northamerica/unitedstates/massachusetts/boston",
-      "prior_rank": 219,
-      "prior_wins": 85,
-      "prior_n": 4
+      "title": "Mesa",
+      "path": "northamerica/unitedstates/arizona/mesa",
+      "prior_score": -5.038,
+      "prior_variance": 0.40551,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Katoomba",
-      "path": "australiaandpacific/australia/newsouthwales/katoomba",
-      "prior_rank": 563,
-      "prior_wins": 60,
+      "title": "Sz\u00e9phalom",
+      "path": "europe/hungary/szephalom",
+      "prior_score": -6.7918,
+      "prior_variance": 0.621394,
       "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Ushuaia",
-      "path": "southamerica/argentina/patagonia/ushuaia",
-      "prior_rank": 203,
-      "prior_wins": 63,
-      "prior_n": 3
+      "title": "Mosonmagyar\u00f3v\u00e1r",
+      "path": "europe/hungary/mosonmagyarovar",
+      "prior_score": -4.3526,
+      "prior_variance": 0.29877,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Cancun",
-      "path": "northamerica/mexico/yucatan/cancun",
-      "prior_rank": 440,
-      "prior_wins": 61,
-      "prior_n": 3
+      "title": "Shepparton",
+      "path": "australiaandpacific/australia/victoria/shepparton",
+      "prior_score": -6.3901,
+      "prior_variance": 0.508255,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Cozumel",
-      "path": "northamerica/mexico/yucatan/cozumel",
-      "prior_rank": 187,
-      "prior_wins": 64,
+      "title": "Longnan",
+      "path": "asia/china/gansu/longnan",
+      "prior_score": -6.9512,
+      "prior_variance": 0.413686,
       "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Kerala",
-      "path": "asia/india/kerala",
-      "prior_rank": 209,
-      "prior_wins": 85,
+      "title": "Tongchuan",
+      "path": "asia/china/shaanxi/tongchuan",
+      "prior_score": -6.9909,
+      "prior_variance": 0.361116,
       "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Koror",
-      "path": "australiaandpacific/palau/koror",
-      "prior_rank": 344,
-      "prior_wins": 62,
+      "title": "Ploie\u0219ti",
+      "path": "europe/romania/ploiesti",
+      "prior_score": -4.68,
+      "prior_variance": 0.438976,
       "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Santiago Atitlan",
-      "path": "northamerica/guatemala/lakeatitlan/santiago_atitlan",
-      "prior_rank": 270,
-      "prior_wins": 42,
-      "prior_n": 2
+      "title": "Douglas",
+      "path": "northamerica/unitedstates/wyoming/douglas",
+      "prior_score": -7.4177,
+      "prior_variance": 0.452437,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Naha",
-      "path": "asia/japan/ryukyuislands/okinawaisland/naha",
-      "prior_rank": 244,
-      "prior_wins": 42,
-      "prior_n": 2
+      "title": "Thompson",
+      "path": "northamerica/canada/manitoba/thompson",
+      "prior_score": -8.37,
+      "prior_variance": 0.533888,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Verbier",
-      "path": "europe/switzerland/verbier",
-      "prior_rank": 417,
-      "prior_wins": 41,
-      "prior_n": 2
+      "title": "Malkapur",
+      "path": "asia/india/maharashtra/malkapur",
+      "prior_score": -9.7735,
+      "prior_variance": 0.645095,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Koloa",
-      "path": "northamerica/unitedstates/hawaii/koloa",
-      "prior_rank": 235,
-      "prior_wins": 42,
-      "prior_n": 2
+      "title": "Semnan",
+      "path": "asia/iran/semnan",
+      "prior_score": -4.9914,
+      "prior_variance": 0.488098,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Cape Sounion",
-      "path": "europe/greece/capesounion",
-      "prior_rank": 392,
-      "prior_wins": 41,
-      "prior_n": 2
+      "title": "Lae",
+      "path": "asia/papuanewguinea/lae",
+      "prior_score": -9.3135,
+      "prior_variance": 0.526353,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Kings Canyon",
-      "path": "northamerica/unitedstates/california/highsierra/kingscanyon",
-      "prior_rank": 262,
-      "prior_wins": 42,
-      "prior_n": 2
+      "title": "Nguigmi",
+      "path": "africa/niger/nguigmi",
+      "prior_score": -11.5354,
+      "prior_variance": 0.625163,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Comino",
-      "path": "europe/malta/comino",
-      "prior_rank": 1268,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Al Qatrun",
+      "path": "africa/libya/alqatrun",
+      "prior_score": -13.1923,
+      "prior_variance": 0.623884,
+      "prior_n": 3
     }
   ]
 }

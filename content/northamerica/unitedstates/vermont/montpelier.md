@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2022-04_Vermont_State_Hous
 latitude: 44.2601
 loc_type: city
 longitude: -72.575
-score: 0.49
+score: 0.41
 title: Montpelier
 type: location
 ---

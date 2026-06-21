@@ -9,7 +9,7 @@ latitude: -4.2833
 longitude: 39.5667
 title: South of Mombasa
 type: location
-score: 0.54
+score: 0.43
 loc_type: city
 ---
 

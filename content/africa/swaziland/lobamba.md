@@ -6,7 +6,7 @@ done:
 latitude: -26.4463
 loc_type: city
 longitude: 31.2084
-score: 0.42
+score: 0.37
 title: Lobamba
 type: location
 image: lobamba.jpg

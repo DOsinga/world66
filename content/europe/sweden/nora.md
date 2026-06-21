@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:MS_Plaskus_Nora_kyrka.jpg
 latitude: 59.533333
 loc_type: city
 longitude: 15.016667
-score: 0.43
+score: 0.41
 title: Nora
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 30.400763
 loc_type: city
 longitude: -88.889382
-score: 0.38
+score: 0.36
 title: Biloxi
 type: location
 ---

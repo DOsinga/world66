@@ -1,0 +1,200 @@
+{
+  "round": 4312,
+  "timestamp": "2026-06-14T00:02:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chicago",
+      "path": "northamerica/unitedstates/illinois/chicago",
+      "prior_score": 7.2059,
+      "prior_variance": 0.15834,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Sintra",
+      "path": "europe/portugal/sintra",
+      "prior_score": 9.5872,
+      "prior_variance": 0.191078,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Providenciales",
+      "path": "northamerica/turksandcaicosislands/providenciales",
+      "prior_score": 7.6998,
+      "prior_variance": 0.130605,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Troms\u00f8",
+      "path": "europe/norway/tromso",
+      "prior_score": 8.1407,
+      "prior_variance": 0.143594,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Hangzhou",
+      "path": "asia/china/zhejiang/hangzhou",
+      "prior_score": 6.4437,
+      "prior_variance": 0.163555,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Ios",
+      "path": "europe/greece/ios",
+      "prior_score": 5.8063,
+      "prior_variance": 0.116941,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Iriomote Island",
+      "path": "asia/japan/ryukyuislands/iriomoteisland",
+      "prior_score": 4.3435,
+      "prior_variance": 0.109133,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Nuwara Eliya",
+      "path": "asia/srilanka/nuwaraeliya",
+      "prior_score": 4.2617,
+      "prior_variance": 0.107139,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Bwindi Impenetrable Forest",
+      "path": "africa/uganda/bwindi",
+      "prior_score": 4.8171,
+      "prior_variance": 0.120428,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Alishan",
+      "path": "asia/taiwan/alishan",
+      "prior_score": 4.6752,
+      "prior_variance": 0.107959,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Epirus",
+      "path": "europe/greece/epirus",
+      "prior_score": 2.4984,
+      "prior_variance": 0.102277,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "St Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews",
+      "prior_score": 5.1424,
+      "prior_variance": 0.122697,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Dimmuborgir",
+      "path": "europe/iceland/dimmuborgir",
+      "prior_score": 4.594,
+      "prior_variance": 0.109669,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Timgad",
+      "path": "africa/algeria/timgad",
+      "prior_score": 1.6767,
+      "prior_variance": 0.101302,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Ancona",
+      "path": "europe/italy/marche/ancona",
+      "prior_score": 1.3939,
+      "prior_variance": 0.088561,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Flacq",
+      "path": "africa/mauritius/flacq",
+      "prior_score": 1.0194,
+      "prior_variance": 0.109007,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Douz",
+      "path": "africa/tunisia/douz",
+      "prior_score": 0.4001,
+      "prior_variance": 0.098495,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Ibo Island",
+      "path": "africa/mozambique/iboisland",
+      "prior_score": -1.8443,
+      "prior_variance": 0.129627,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Taiping",
+      "path": "asia/malaysia/taiping",
+      "prior_score": 0.0451,
+      "prior_variance": 0.103681,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/louisiana/lafayette",
+      "prior_score": 0.3075,
+      "prior_variance": 0.091571,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Hampton Beach",
+      "path": "northamerica/unitedstates/newhampshire/hampton_beach",
+      "prior_score": -0.8343,
+      "prior_variance": 0.091235,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Athens",
+      "path": "northamerica/unitedstates/georgia/athens",
+      "prior_score": -1.7452,
+      "prior_variance": 0.097517,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Rensselaer, Indiana",
+      "path": "northamerica/unitedstates/rensselaer_indiana",
+      "prior_score": -7.6986,
+      "prior_variance": 0.252295,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Sumgait",
+      "path": "europe/azerbaijan/sumgait",
+      "prior_score": -5.5506,
+      "prior_variance": 0.115725,
+      "prior_n": 14
+    }
+  ]
+}

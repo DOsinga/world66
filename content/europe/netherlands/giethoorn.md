@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Giethoorn,_Netherlands.jpg
 latitude: 52.7411
 loc_type: city
 longitude: 6.0774
-score: 0.63
+score: 0.54
 title: Giethoorn
 type: location
 ---

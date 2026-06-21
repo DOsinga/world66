@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kaiserslautern_19.JPG
 latitude: 49.443217
 loc_type: city
 longitude: 7.768995
-score: 0.45
+score: 0.35
 title: Kaiserslautern
 type: location
 ---

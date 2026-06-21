@@ -6,7 +6,7 @@ done:
 latitude: 48.156547
 loc_type: city
 longitude: 14.024375
-score: 0.47
+score: 0.37
 sources:
 - https://en.wikipedia.org/wiki/Wels
 title: Wels

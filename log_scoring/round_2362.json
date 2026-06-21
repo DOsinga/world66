@@ -1,0 +1,200 @@
+{
+  "round": 2362,
+  "timestamp": "2026-06-13T21:37:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tallinn",
+      "path": "europe/estonia/tallinn",
+      "prior_score": 8.7751,
+      "prior_variance": 0.293488,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Cordoba",
+      "path": "europe/spain/andalucia/cordoba",
+      "prior_score": 8.4559,
+      "prior_variance": 0.342618,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Fez",
+      "path": "africa/morocco/fez",
+      "prior_score": 8.481,
+      "prior_variance": 0.507773,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Colmar",
+      "path": "europe/france/east/alsace/colmar",
+      "prior_score": 9.6337,
+      "prior_variance": 0.332021,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Palermo",
+      "path": "europe/italy/sicily/palermo",
+      "prior_score": 8.1675,
+      "prior_variance": 0.360498,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Avignon",
+      "path": "europe/france/midi/provence/avignon",
+      "prior_score": 8.7964,
+      "prior_variance": 0.342559,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Sorrento",
+      "path": "europe/italy/campania/sorrento",
+      "prior_score": 9.4224,
+      "prior_variance": 0.388427,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Kamakura",
+      "path": "asia/japan/honshu/kamakura",
+      "prior_score": 10.6731,
+      "prior_variance": 0.548091,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Taipei",
+      "path": "asia/taiwan/taipei",
+      "prior_score": 8.9784,
+      "prior_variance": 0.339082,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Buenos Aires",
+      "path": "southamerica/argentina/buenosaires",
+      "prior_score": 7.362,
+      "prior_variance": 0.489975,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Chamonix",
+      "path": "europe/france/alpes/chamonix",
+      "prior_score": 12.1811,
+      "prior_variance": 0.694051,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "St. Moritz",
+      "path": "europe/switzerland/stmoritz",
+      "prior_score": 8.4206,
+      "prior_variance": 0.467341,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "J\u00f6kuls\u00e1rl\u00f3n",
+      "path": "europe/iceland/jokulsarlon",
+      "prior_score": 10.3788,
+      "prior_variance": 0.46546,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Lake Bohinj",
+      "path": "europe/slovenia/lakebohinj",
+      "prior_score": 6.6184,
+      "prior_variance": 0.251928,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Te Anau",
+      "path": "australiaandpacific/newzealand/south_island/southland/fiordland/te_anau",
+      "prior_score": 7.1942,
+      "prior_variance": 0.357364,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Uchisar",
+      "path": "asia/turkey/cappadocia/uchisar",
+      "prior_score": 9.8271,
+      "prior_variance": 0.34986,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Urgup",
+      "path": "asia/turkey/cappadocia/urgup",
+      "prior_score": 9.2552,
+      "prior_variance": 0.441422,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Yakushima",
+      "path": "asia/japan/kagoshima/yakushima",
+      "prior_score": 6.9566,
+      "prior_variance": 0.271398,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Kuala Lumpur",
+      "path": "asia/malaysia/kualalumpur",
+      "prior_score": 7.7905,
+      "prior_variance": 0.265446,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Cannes",
+      "path": "europe/france/midi/cotedazur/cannes",
+      "prior_score": 8.3575,
+      "prior_variance": 0.293209,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "San Diego",
+      "path": "northamerica/unitedstates/california/sandiego",
+      "prior_score": 6.372,
+      "prior_variance": 0.327785,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Perhentian Islands",
+      "path": "asia/malaysia/perhentianislands",
+      "prior_score": 6.877,
+      "prior_variance": 0.249442,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Sayulita",
+      "path": "northamerica/mexico/sayulita",
+      "prior_score": 4.63,
+      "prior_variance": 0.207342,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Las Terrenas",
+      "path": "northamerica/dominicanrepublic/lasterrenas",
+      "prior_score": 4.4812,
+      "prior_variance": 0.19659,
+      "prior_n": 7
+    }
+  ]
+}

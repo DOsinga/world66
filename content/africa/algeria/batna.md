@@ -10,7 +10,7 @@ latitude: 35.5563
 longitude: 6.1741
 title: Batna
 type: location
-score: 0.35
+score: 0.28
 loc_type: city
 ---
 

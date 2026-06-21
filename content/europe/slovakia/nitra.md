@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Nitra
 title: Nitra
 type: location
+score: 0.38
 ---
 
 Nitra is one of the oldest cities in Slovakia, sitting at the foot of a wooded hill crowned by a castle that has watched over the Nitra River valley for more than a thousand years. This is where Prince Pribina built the first documented Christian church in the Great Moravian lands in the 9th century, a founding moment that Slovaks regard as the birth of their nation's Christian identity.

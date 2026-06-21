@@ -10,7 +10,7 @@ image_attribution: Mpbusyb
 latitude: 32.51
 loc_type: city
 longitude: -92.12
-score: 0.32
+score: 0.26
 title: Monroe
 type: location
 ---

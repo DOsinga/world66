@@ -6,12 +6,12 @@ latitude: 47.650028
 longitude: 9.480086
 title: Friedrichshafen
 type: location
-score: 0.46
+score: 0.41
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Friedrichshafen
-  - https://en.wikipedia.org/wiki/Zeppelin_Museum_Friedrichshafen
-  - https://en.wikipedia.org/wiki/Dornier_Museum_Friedrichshafen
+- https://en.wikipedia.org/wiki/Friedrichshafen
+- https://en.wikipedia.org/wiki/Zeppelin_Museum_Friedrichshafen
+- https://en.wikipedia.org/wiki/Dornier_Museum_Friedrichshafen
 ---
 
 Friedrichshafen sits on the north shore of Lake Constance (Bodensee), about 160 km southwest of Munich, looking south across the water to the Swiss Alps. It has a relaxed lakeside character in summer, with a long promenade and regular steamer connections to Switzerland and Austria.

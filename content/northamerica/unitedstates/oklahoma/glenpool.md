@@ -5,7 +5,7 @@ done:
 latitude: 35.9554
 loc_type: city
 longitude: -96.0088
-score: 0.27
+score: 0.24
 title: Glenpool
 type: location
 ---

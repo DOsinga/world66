@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Koh_Kut,_Thailand,_Palm_tr
 latitude: 11.662155
 loc_type: city
 longitude: 102.568105
-score: 0.66
+score: 0.59
 title: Koh Kood
 type: location
 ---

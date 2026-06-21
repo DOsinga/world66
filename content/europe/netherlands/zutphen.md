@@ -10,9 +10,10 @@ image_attribution: Michielverbeek
 loc_type: city
 done: true
 sources:
-  - https://en.wikipedia.org/wiki/Zutphen
-  - https://en.wikipedia.org/wiki/Librije_(Zutphen)
-  - https://en.wikipedia.org/wiki/Drogenapstoren
+- https://en.wikipedia.org/wiki/Zutphen
+- https://en.wikipedia.org/wiki/Librije_(Zutphen)
+- https://en.wikipedia.org/wiki/Drogenapstoren
+score: 0.42
 ---
 
 Zutphen is one of the best-preserved medieval towns in the Netherlands, a former Hanseatic trading city on the IJssel river that somehow escaped both wartime destruction and post-war redevelopment. The result is a compact old centre of cobbled streets, Gothic churches, medieval towers, and merchants' houses that looks much as it did 500 years ago.

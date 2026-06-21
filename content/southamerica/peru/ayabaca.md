@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AyabacaTown.jpg
 latitude: -4.755769
 loc_type: city
 longitude: -79.773997
-score: 0.42
+score: 0.36
 title: Ayabaca
 type: location
 ---

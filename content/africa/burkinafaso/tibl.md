@@ -6,7 +6,7 @@ latitude: 11.103756
 longitude: -0.924685
 title: Tiébélé
 type: location
-score: 0.46
+score: 0.39
 loc_type: city
 ---
 

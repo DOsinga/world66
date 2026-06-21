@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dramatic_karst_landscape_o
 latitude: 8.291667
 loc_type: city
 longitude: 98.552773
-score: 0.8
+score: 0.7
 title: Phang Nga Bay
 type: location
 ---

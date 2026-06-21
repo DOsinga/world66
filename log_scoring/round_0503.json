@@ -1,200 +1,200 @@
 {
   "round": 503,
-  "timestamp": "2026-04-12T09:41:17",
+  "timestamp": "2026-06-13T19:39:34",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Bruges",
-      "path": "europe/belgium/bruges",
-      "prior_mu": 30.8527,
-      "prior_sigma": 3.1216,
-      "prior_n": 7
+      "title": "Lac Abbe",
+      "path": "africa/djibouti/lakeabbe",
+      "prior_score": -1.0958,
+      "prior_variance": 1.773293,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Ghent",
-      "path": "europe/belgium/ghent",
-      "prior_mu": 24.7144,
-      "prior_sigma": 3.5061,
-      "prior_n": 4
+      "title": "Swat",
+      "path": "asia/pakistan/swat",
+      "prior_score": -3.7796,
+      "prior_variance": 1.518674,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Antwerp",
-      "path": "europe/belgium/antwerp",
-      "prior_mu": 26.9748,
-      "prior_sigma": 2.7895,
-      "prior_n": 7
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_score": -2.1089,
+      "prior_variance": 1.575399,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Liege",
-      "path": "europe/belgium/liege",
-      "prior_mu": 21.6057,
-      "prior_sigma": 2.5137,
-      "prior_n": 6
+      "title": "Kisumu",
+      "path": "africa/kenya/westernkenya/kisumu",
+      "prior_score": -4.1837,
+      "prior_variance": 1.255968,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Ypres",
-      "path": "europe/belgium/ypres",
-      "prior_mu": 22.5704,
-      "prior_sigma": 3.4459,
-      "prior_n": 4
+      "title": "Bijapur",
+      "path": "asia/india/karnataka/bijapur",
+      "prior_score": -4.4128,
+      "prior_variance": 1.678229,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Leuven",
-      "path": "europe/belgium/leuven",
-      "prior_mu": 22.517,
-      "prior_sigma": 2.8158,
-      "prior_n": 5
+      "title": "Saul",
+      "path": "southamerica/frenchguiana/saul",
+      "prior_score": -2.4376,
+      "prior_variance": 1.729666,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Waterloo",
-      "path": "europe/belgium/waterloo",
-      "prior_mu": 20.9076,
-      "prior_sigma": 3.2279,
-      "prior_n": 4
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_score": -1.7655,
+      "prior_variance": 1.579773,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Dinant",
-      "path": "europe/belgium/dinant",
-      "prior_mu": 22.1554,
-      "prior_sigma": 2.9265,
-      "prior_n": 5
+      "title": "Barra de Tijuca",
+      "path": "southamerica/brazil/barra_de_tijuca",
+      "prior_score": -3.9254,
+      "prior_variance": 1.865782,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Mons",
-      "path": "europe/belgium/mons",
-      "prior_mu": 20.8202,
-      "prior_sigma": 2.5833,
-      "prior_n": 6
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/torquay",
+      "prior_score": -0.3215,
+      "prior_variance": 1.467179,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Bastogne",
-      "path": "europe/belgium/bastogne",
-      "prior_mu": 20.7873,
-      "prior_sigma": 2.7337,
-      "prior_n": 5
+      "title": "Warkworth",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/warksworth",
+      "prior_score": -1.3398,
+      "prior_variance": 1.393296,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Oudenaarde",
-      "path": "europe/belgium/oudenaarde",
-      "prior_mu": 20.566,
-      "prior_sigma": 2.6066,
-      "prior_n": 6
+      "title": "Narragansett",
+      "path": "northamerica/unitedstates/rhodeisland/narragansett",
+      "prior_score": -4.0243,
+      "prior_variance": 1.397554,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "De Panne",
-      "path": "europe/belgium/de_panne__belgian",
-      "prior_mu": 21.085,
-      "prior_sigma": 3.104,
-      "prior_n": 4
+      "title": "Cape Lookout",
+      "path": "northamerica/unitedstates/northcarolina/capelookout",
+      "prior_score": -1.5151,
+      "prior_variance": 1.774114,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Sint-Truiden",
-      "path": "europe/belgium/sinttruiden",
-      "prior_mu": 20.7094,
-      "prior_sigma": 2.9971,
-      "prior_n": 4
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/california/goldcountry/jamestown",
+      "prior_score": -4.0163,
+      "prior_variance": 1.472286,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Kortrijk",
-      "path": "europe/belgium/kortrijk",
-      "prior_mu": 21.1376,
-      "prior_sigma": 3.723,
-      "prior_n": 3
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/vermont/wilmington",
+      "prior_score": -4.7571,
+      "prior_variance": 1.773986,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Diksmuide",
-      "path": "europe/belgium/diksmuide",
-      "prior_mu": 20.5884,
-      "prior_sigma": 2.8334,
-      "prior_n": 5
+      "title": "Saranac Lake",
+      "path": "northamerica/unitedstates/newyorkstate/saranac_lake",
+      "prior_score": -2.8446,
+      "prior_variance": 1.530428,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Beauvoorde",
-      "path": "europe/belgium/veurne/beauvoorde",
-      "prior_mu": 20.7581,
-      "prior_sigma": 2.8278,
-      "prior_n": 5
+      "title": "Oberhof",
+      "path": "europe/germany/thuringia/oberhof",
+      "prior_score": -2.3252,
+      "prior_variance": 2.594758,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Vielsam",
-      "path": "europe/belgium/vielsam",
-      "prior_mu": 21.1538,
-      "prior_sigma": 3.7546,
-      "prior_n": 3
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_score": -1.516,
+      "prior_variance": 1.628464,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Wervik",
-      "path": "europe/belgium/wervik",
-      "prior_mu": 20.0179,
-      "prior_sigma": 3.0993,
-      "prior_n": 4
+      "title": "Nexo",
+      "path": "europe/denmark/nexo",
+      "prior_score": -2.2622,
+      "prior_variance": 1.625212,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Beveren",
-      "path": "europe/belgium/beveren",
-      "prior_mu": 20.5861,
-      "prior_sigma": 3.4871,
-      "prior_n": 3
+      "title": "Logan",
+      "path": "northamerica/unitedstates/utah/logan",
+      "prior_score": -3.563,
+      "prior_variance": 1.588617,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Soignies",
-      "path": "europe/belgium/soignies",
-      "prior_mu": 20.8816,
-      "prior_sigma": 3.1402,
-      "prior_n": 4
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_score": -4.2915,
+      "prior_variance": 1.842836,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Gembloux",
-      "path": "europe/belgium/gembloux",
-      "prior_mu": 19.3926,
-      "prior_sigma": 2.6377,
-      "prior_n": 7
+      "title": "Guatemala City",
+      "path": "northamerica/guatemala/guatemalacity",
+      "prior_score": -4.3941,
+      "prior_variance": 1.376139,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Charleroi",
-      "path": "europe/belgium/charleroi",
-      "prior_mu": 18.3263,
-      "prior_sigma": 3.6935,
-      "prior_n": 3
+      "title": "Outjo",
+      "path": "africa/namibia/outjo",
+      "prior_score": -2.7628,
+      "prior_variance": 1.800638,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Jabbeke",
-      "path": "europe/belgium/jabbeke",
-      "prior_mu": 19.9426,
-      "prior_sigma": 2.7819,
-      "prior_n": 5
+      "title": "Harrow",
+      "path": "europe/unitedkingdom/england/south_east/harrow",
+      "prior_score": -5.689,
+      "prior_variance": 2.131373,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Belgium",
-      "path": "europe/belgium",
-      "prior_mu": 20.3232,
-      "prior_sigma": 3.0092,
-      "prior_n": 5
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_score": -4.1944,
+      "prior_variance": 1.454975,
+      "prior_n": 1
     }
   ]
 }

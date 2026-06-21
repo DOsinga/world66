@@ -6,7 +6,7 @@ done:
 latitude: 43.342656
 loc_type: city
 longitude: 3.213131
-score: 0.5
+score: 0.45
 title: Beziers
 type: location
 ---

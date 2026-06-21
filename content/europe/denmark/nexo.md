@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Paradisvej,_Nex%C3%B8_-_ga
 latitude: 55.065014
 loc_type: city
 longitude: 15.130727
-score: 0.49
+score: 0.38
 sources:
 - https://en.wikipedia.org/wiki/Nex%C3%B8
 title: Nexo

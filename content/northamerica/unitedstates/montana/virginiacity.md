@@ -5,7 +5,7 @@ done:
 latitude: 45.3535
 loc_type: city
 longitude: -111.9418
-score: 0.44
+score: 0.4
 sources:
 - https://en.wikipedia.org/wiki/Virginia_City,_Montana
 - https://en.wikipedia.org/wiki/Virginia_City_Historic_District_(Virginia_City,_Montana)

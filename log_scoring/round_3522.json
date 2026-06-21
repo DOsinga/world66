@@ -1,0 +1,200 @@
+{
+  "round": 3522,
+  "timestamp": "2026-06-13T23:00:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Graz",
+      "path": "europe/austria/graz",
+      "prior_score": 5.6712,
+      "prior_variance": 0.144654,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Melaka",
+      "path": "asia/malaysia/melaka",
+      "prior_score": 4.856,
+      "prior_variance": 0.160278,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Nantes",
+      "path": "europe/france/normandybrittany/nantes",
+      "prior_score": 4.5994,
+      "prior_variance": 0.121821,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Merano",
+      "path": "europe/italy/trentinoaltoadige/merano",
+      "prior_score": 4.0454,
+      "prior_variance": 0.130706,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Dead Sea",
+      "path": "asia/jordan/deadsea",
+      "prior_score": 6.2198,
+      "prior_variance": 0.141365,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Lindau",
+      "path": "europe/germany/bavaria/lindau",
+      "prior_score": 4.6711,
+      "prior_variance": 0.108863,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Pitlochry",
+      "path": "europe/unitedkingdom/scotland/pitlochry",
+      "prior_score": 3.6984,
+      "prior_variance": 0.131468,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Loches",
+      "path": "europe/france/centre/loirevalley/loches",
+      "prior_score": 3.1569,
+      "prior_variance": 0.106122,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Wudang Mountains",
+      "path": "asia/china/hubei/wudang_mountains",
+      "prior_score": 4.3404,
+      "prior_variance": 0.121796,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Tzfat",
+      "path": "asia/israel/tzfat",
+      "prior_score": 3.0868,
+      "prior_variance": 0.119285,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Kairouan",
+      "path": "africa/tunisia/kairouan",
+      "prior_score": 2.0857,
+      "prior_variance": 0.12347,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Mont-Tremblant",
+      "path": "northamerica/canada/quebec/mont_tremblant_que",
+      "prior_score": 3.5135,
+      "prior_variance": 0.118099,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Consuegra",
+      "path": "europe/spain/la_mancha/consuegra",
+      "prior_score": 2.41,
+      "prior_variance": 0.12372,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Bequia",
+      "path": "northamerica/saintvincentandthegrenadines/bequia",
+      "prior_score": 4.8453,
+      "prior_variance": 0.149592,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Porto Colom",
+      "path": "europe/spain/balearicislands/mallorca/porto_colom",
+      "prior_score": 3.0335,
+      "prior_variance": 0.107998,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "\u0160pindler\u016fv Ml\u00fdn",
+      "path": "europe/czechrepublic/spindleruvmlyn",
+      "prior_score": 0.3077,
+      "prior_variance": 0.111837,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Maijishan Grottoes",
+      "path": "asia/china/gansu/maijishan",
+      "prior_score": 3.7988,
+      "prior_variance": 0.114196,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Grebbestad",
+      "path": "europe/sweden/grebbestad",
+      "prior_score": 0.0577,
+      "prior_variance": 0.122549,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Penglai",
+      "path": "asia/china/shandong_province/penglai",
+      "prior_score": -0.7337,
+      "prior_variance": 0.106737,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Juan Griego",
+      "path": "southamerica/venezuela/margaritaisland/juangriego",
+      "prior_score": -1.0379,
+      "prior_variance": 0.134714,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Nanyang",
+      "path": "asia/china/henan_province/nanyang",
+      "prior_score": -5.1342,
+      "prior_variance": 0.132455,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Bhagalpur",
+      "path": "asia/india/bihar/bhagalpur",
+      "prior_score": -5.8062,
+      "prior_variance": 0.130748,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Quemado",
+      "path": "northamerica/unitedstates/newmexico/quemado",
+      "prior_score": -6.5171,
+      "prior_variance": 0.165945,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Quetta",
+      "path": "asia/pakistan/quetta",
+      "prior_score": -6.2298,
+      "prior_variance": 0.14856,
+      "prior_n": 12
+    }
+  ]
+}

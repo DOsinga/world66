@@ -6,7 +6,7 @@ done:
 latitude: 37.8709
 loc_type: city
 longitude: -122.2728
-score: 0.55
+score: 0.47
 title: Berkeley
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 4837,
+  "timestamp": "2026-06-14T00:45:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palawan Island",
+      "path": "asia/philippines/palawanisland",
+      "prior_score": 11.6023,
+      "prior_variance": 0.285,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Condado",
+      "path": "northamerica/thecaribbean/puertorico/condado",
+      "prior_score": 2.2355,
+      "prior_variance": 0.085441,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Costa di Maratea",
+      "path": "europe/italy/basilicata/costa_di_maratea",
+      "prior_score": 2.3677,
+      "prior_variance": 0.087952,
+      "prior_n": 17
+    },
+    {
+      "rank": 4,
+      "title": "Berkeley",
+      "path": "northamerica/unitedstates/california/berkeley",
+      "prior_score": 1.6446,
+      "prior_variance": 0.091572,
+      "prior_n": 17
+    },
+    {
+      "rank": 5,
+      "title": "Malahide",
+      "path": "europe/ireland/malahide",
+      "prior_score": 1.1414,
+      "prior_variance": 0.082879,
+      "prior_n": 17
+    },
+    {
+      "rank": 6,
+      "title": "Stockbridge",
+      "path": "northamerica/unitedstates/massachusetts/stockbridge",
+      "prior_score": -0.1512,
+      "prior_variance": 0.087619,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Yorktown",
+      "path": "northamerica/unitedstates/virginia/yorktown",
+      "prior_score": 1.1934,
+      "prior_variance": 0.092724,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Beiteddine",
+      "path": "asia/lebanon/beiteddine",
+      "prior_score": 1.3522,
+      "prior_variance": 0.084675,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo",
+      "prior_score": 1.52,
+      "prior_variance": 0.091416,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Moshi",
+      "path": "africa/tanzania/moshi",
+      "prior_score": 1.9922,
+      "prior_variance": 0.085611,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Kigali",
+      "path": "africa/rwanda/kigali",
+      "prior_score": 1.0258,
+      "prior_variance": 0.080265,
+      "prior_n": 17
+    },
+    {
+      "rank": 12,
+      "title": "Hyderabad",
+      "path": "asia/india/andhrapradesh/hyderabad",
+      "prior_score": 0.5316,
+      "prior_variance": 0.10048,
+      "prior_n": 17
+    },
+    {
+      "rank": 13,
+      "title": "Sarrebourg",
+      "path": "europe/france/east/lorraine/sarrebourg",
+      "prior_score": -1.7174,
+      "prior_variance": 0.081914,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Gun-Galuut",
+      "path": "asia/mongolia/gungaluut",
+      "prior_score": 0.055,
+      "prior_variance": 0.107789,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "L\u00fcderitz",
+      "path": "africa/namibia/luderitz",
+      "prior_score": 0.8171,
+      "prior_variance": 0.085997,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Colwyn Bay",
+      "path": "europe/unitedkingdom/wales/colwyn_bay",
+      "prior_score": -2.6749,
+      "prior_variance": 0.086193,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Odelouca",
+      "path": "europe/portugal/algarve/odelouca",
+      "prior_score": -1.5336,
+      "prior_variance": 0.101823,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Shiprock",
+      "path": "northamerica/unitedstates/newmexico/shiprock",
+      "prior_score": -1.4249,
+      "prior_variance": 0.080902,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Guerrero Negro",
+      "path": "northamerica/mexico/guerreronegro",
+      "prior_score": -2.5434,
+      "prior_variance": 0.089819,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_score": -6.9867,
+      "prior_variance": 0.13851,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Muskogee",
+      "path": "northamerica/unitedstates/oklahoma/muskogee",
+      "prior_score": -4.7571,
+      "prior_variance": 0.102895,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Pawnee",
+      "path": "northamerica/unitedstates/oklahoma/pawnee",
+      "prior_score": -5.3502,
+      "prior_variance": 0.0969,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Qasr Libya",
+      "path": "africa/libya/qasr_libya",
+      "prior_score": -5.8902,
+      "prior_variance": 0.115989,
+      "prior_n": 17
+    },
+    {
+      "rank": 24,
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_score": -6.0052,
+      "prior_variance": 0.159801,
+      "prior_n": 15
+    }
+  ]
+}

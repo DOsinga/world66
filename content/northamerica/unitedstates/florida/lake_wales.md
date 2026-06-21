@@ -5,7 +5,7 @@ done:
 latitude: 27.901413
 loc_type: city
 longitude: -81.58591
-score: 0.35
+score: 0.31
 title: Lake Wales
 type: location
 image: lake_wales.jpg

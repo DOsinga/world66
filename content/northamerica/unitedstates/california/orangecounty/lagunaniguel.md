@@ -5,7 +5,7 @@ done:
 latitude: 33.522526
 loc_type: city
 longitude: -117.707553
-score: 0.42
+score: 0.33
 title: Laguna Niguel
 type: location
 ---

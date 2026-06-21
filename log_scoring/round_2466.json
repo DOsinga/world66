@@ -1,0 +1,200 @@
+{
+  "round": 2466,
+  "timestamp": "2026-06-13T21:44:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santorini",
+      "path": "europe/greece/santorini",
+      "prior_score": 14.0563,
+      "prior_variance": 0.777632,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Stresa",
+      "path": "europe/italy/piemonte/stresa",
+      "prior_score": 5.9785,
+      "prior_variance": 0.177669,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_qurico_d_orci",
+      "prior_score": 5.8398,
+      "prior_variance": 0.221693,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Blois",
+      "path": "europe/france/centre/loirevalley/blois",
+      "prior_score": 5.6639,
+      "prior_variance": 0.223682,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Porec",
+      "path": "europe/croatia/porec",
+      "prior_score": 5.3925,
+      "prior_variance": 0.202645,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Ellora",
+      "path": "asia/india/maharashtra/ellora",
+      "prior_score": 7.2857,
+      "prior_variance": 0.223511,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Bumthang",
+      "path": "asia/bhutan/bumthang",
+      "prior_score": 5.0394,
+      "prior_variance": 0.199682,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Bar Harbor",
+      "path": "northamerica/unitedstates/maine/bar_harbor",
+      "prior_score": 6.3432,
+      "prior_variance": 0.193072,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "El Yunque",
+      "path": "northamerica/thecaribbean/puertorico/elyunque",
+      "prior_score": 5.4716,
+      "prior_variance": 0.218336,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Saintes",
+      "path": "europe/france/aquitaine/saintes",
+      "prior_score": 2.0603,
+      "prior_variance": 0.157199,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Antiparos",
+      "path": "europe/greece/antiparos",
+      "prior_score": 5.0748,
+      "prior_variance": 0.224595,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Togian Islands",
+      "path": "asia/indonesia/sulawesi/togian_islands",
+      "prior_score": 4.6286,
+      "prior_variance": 0.230463,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Shangri-La",
+      "path": "asia/china/yunnanprovince/shangrila",
+      "prior_score": 5.5313,
+      "prior_variance": 0.184948,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Killington",
+      "path": "northamerica/unitedstates/vermont/killington",
+      "prior_score": 2.1888,
+      "prior_variance": 0.170673,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Tzfat",
+      "path": "asia/israel/tzfat",
+      "prior_score": 2.9465,
+      "prior_variance": 0.18436,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "B\u00e9nouville",
+      "path": "europe/france/normandybrittany/bnouville",
+      "prior_score": 1.0593,
+      "prior_variance": 0.194787,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Boone",
+      "path": "northamerica/unitedstates/northcarolina/boone",
+      "prior_score": -0.047,
+      "prior_variance": 0.196119,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/xalapa",
+      "prior_score": 0.1698,
+      "prior_variance": 0.168308,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Skala Kalloni",
+      "path": "europe/greece/lesbos/skalakalloni",
+      "prior_score": 0.6816,
+      "prior_variance": 0.165137,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Punkaharju",
+      "path": "europe/finland/punkaharju",
+      "prior_score": 2.1346,
+      "prior_variance": 0.153061,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Visakhapatnam",
+      "path": "asia/india/andhrapradesh/visakhapatnam",
+      "prior_score": -1.7631,
+      "prior_variance": 0.166373,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Arnhem",
+      "path": "europe/netherlands/arnhem",
+      "prior_score": 0.1262,
+      "prior_variance": 0.156012,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Borgio Verezzi",
+      "path": "europe/italy/liguria/rivieradellepalme/borgioverezzi",
+      "prior_score": 1.8303,
+      "prior_variance": 0.170672,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Lipica",
+      "path": "europe/slovenia/lipica",
+      "prior_score": 1.7144,
+      "prior_variance": 0.16344,
+      "prior_n": 8
+    }
+  ]
+}

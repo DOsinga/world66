@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:MK02733_Spokane_Upper_Fall
 latitude: 47.657193
 loc_type: city
 longitude: -117.42351
-score: 0.44
+score: 0.37
 title: Spokane
 type: location
 ---

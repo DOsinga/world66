@@ -1,0 +1,200 @@
+{
+  "round": 3714,
+  "timestamp": "2026-06-13T23:14:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lijiang",
+      "path": "asia/china/yunnanprovince/lijiang",
+      "prior_score": 7.3056,
+      "prior_variance": 0.190292,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Srinagar",
+      "path": "asia/india/jammuandkashmir/srinagar",
+      "prior_score": 4.51,
+      "prior_variance": 0.124616,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Thessaloniki",
+      "path": "europe/greece/thessaloniki",
+      "prior_score": 5.7673,
+      "prior_variance": 0.13792,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Palma",
+      "path": "europe/spain/balearicislands/mallorca/palma1",
+      "prior_score": 6.4752,
+      "prior_variance": 0.149611,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "San Blas Islands",
+      "path": "northamerica/panama/sanblasislands",
+      "prior_score": 5.9525,
+      "prior_variance": 0.12565,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Terceira",
+      "path": "europe/portugal/theazores/terceira",
+      "prior_score": 5.2344,
+      "prior_variance": 0.120528,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Dades Gorge",
+      "path": "africa/morocco/dadesgorge",
+      "prior_score": 4.3767,
+      "prior_variance": 0.127571,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Pai",
+      "path": "asia/thailand/pai",
+      "prior_score": 5.0478,
+      "prior_variance": 0.12581,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Karpathos",
+      "path": "europe/greece/karpathos",
+      "prior_score": 5.1244,
+      "prior_variance": 0.133689,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Sitges",
+      "path": "europe/spain/catalonia/sitges",
+      "prior_score": 5.5436,
+      "prior_variance": 0.129877,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Vardzia",
+      "path": "europe/georgia/vardzia",
+      "prior_score": 4.7188,
+      "prior_variance": 0.141988,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Alexandria",
+      "path": "africa/egypt/alexandria",
+      "prior_score": 4.278,
+      "prior_variance": 0.115814,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Bacharach",
+      "path": "europe/germany/rhinelandpalatinate/bacharach",
+      "prior_score": 3.4432,
+      "prior_variance": 0.125243,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Silves",
+      "path": "europe/portugal/algarve/silves",
+      "prior_score": 4.2655,
+      "prior_variance": 0.117583,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Tavira",
+      "path": "europe/portugal/algarve/tavira",
+      "prior_score": 4.8681,
+      "prior_variance": 0.134085,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Konark",
+      "path": "asia/india/orissa/konark",
+      "prior_score": 2.0929,
+      "prior_variance": 0.125202,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Jianmen Shudao",
+      "path": "asia/china/sichuanprovince/jianmen_shudao",
+      "prior_score": 3.6464,
+      "prior_variance": 0.177906,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Montecatini Terme",
+      "path": "europe/italy/tuscany/montecatiniterme",
+      "prior_score": 3.1802,
+      "prior_variance": 0.100463,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Huanchaco",
+      "path": "southamerica/peru/huanchaco",
+      "prior_score": 2.8814,
+      "prior_variance": 0.115108,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Trang",
+      "path": "asia/thailand/trang",
+      "prior_score": 1.7012,
+      "prior_variance": 0.107979,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Fr\u00e9jus",
+      "path": "europe/france/frejus",
+      "prior_score": 2.2099,
+      "prior_variance": 0.099676,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacorua",
+      "prior_score": 2.2532,
+      "prior_variance": 0.115347,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/nottingham",
+      "prior_score": -0.1032,
+      "prior_variance": 0.131268,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_score": -1.5997,
+      "prior_variance": 0.117243,
+      "prior_n": 12
+    }
+  ]
+}

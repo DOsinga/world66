@@ -6,7 +6,7 @@ done:
   location_enrich: '2026-05-30'
 latitude: 57.6488
 longitude: -3.3148
-score: 0.5
+score: 0.4
 title: Elgin
 type: location
 loc_type: city

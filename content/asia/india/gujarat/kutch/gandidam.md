@@ -5,7 +5,7 @@ done:
 latitude: 23.071874
 loc_type: city
 longitude: 70.131715
-score: 0.3
+score: 0.25
 title: Gandhidham
 type: location
 image: gandidam.jpg

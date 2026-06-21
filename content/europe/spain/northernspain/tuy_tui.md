@@ -5,7 +5,7 @@ done:
 latitude: 42.050137
 loc_type: city
 longitude: -8.646641
-score: 0.48
+score: 0.43
 title: Tuy [Tui]
 type: location
 ---

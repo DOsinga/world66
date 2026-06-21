@@ -1,0 +1,200 @@
+{
+  "round": 3846,
+  "timestamp": "2026-06-13T23:24:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Igua\u00e7u Falls",
+      "path": "southamerica/brazil/iguacufalls",
+      "prior_score": 11.6199,
+      "prior_variance": 0.28421,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "St Petersburg",
+      "path": "europe/russia/stpetersburg",
+      "prior_score": 11.1458,
+      "prior_variance": 0.326419,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/florida/miami",
+      "prior_score": 6.2505,
+      "prior_variance": 0.152744,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_score": 5.437,
+      "prior_variance": 0.131201,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Turneffe Islands",
+      "path": "northamerica/belize/turneffeislands",
+      "prior_score": 3.9,
+      "prior_variance": 0.131825,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Alexandria",
+      "path": "africa/egypt/alexandria",
+      "prior_score": 4.2612,
+      "prior_variance": 0.105469,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Rovaniemi",
+      "path": "europe/finland/rovaniemi",
+      "prior_score": 5.7601,
+      "prior_variance": 0.150898,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Pratolino",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/pratolino",
+      "prior_score": 0.5636,
+      "prior_variance": 0.127298,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Curitiba",
+      "path": "southamerica/brazil/curitiba",
+      "prior_score": 0.6586,
+      "prior_variance": 0.103798,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Olot",
+      "path": "europe/spain/catalonia/olot",
+      "prior_score": 0.1759,
+      "prior_variance": 0.095354,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Tupiza",
+      "path": "southamerica/bolivia/tupiza",
+      "prior_score": 0.8245,
+      "prior_variance": 0.123962,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Udon Thani",
+      "path": "asia/thailand/udonthani",
+      "prior_score": -0.4873,
+      "prior_variance": 0.105682,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Kuala Terengganu",
+      "path": "asia/malaysia/kuala_terengganu",
+      "prior_score": 0.8899,
+      "prior_variance": 0.106332,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Praia",
+      "path": "africa/capeverde/saotiago/praia",
+      "prior_score": -0.0701,
+      "prior_variance": 0.100416,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Tela",
+      "path": "northamerica/honduras/tela",
+      "prior_score": -1.7499,
+      "prior_variance": 0.110797,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Uzhhorod",
+      "path": "europe/ukraine/uzhgorod",
+      "prior_score": -1.005,
+      "prior_variance": 0.111715,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Krynica-Zdr\u00f3j",
+      "path": "europe/poland/krynicazdroj",
+      "prior_score": -0.0851,
+      "prior_variance": 0.10862,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Gyumri",
+      "path": "europe/armenia/shirak_marz/gyumri",
+      "prior_score": -0.5588,
+      "prior_variance": 0.104156,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Minya",
+      "path": "africa/egypt/minya",
+      "prior_score": -2.0562,
+      "prior_variance": 0.104062,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Wichita",
+      "path": "northamerica/unitedstates/kansas/wichita",
+      "prior_score": -3.0828,
+      "prior_variance": 0.117891,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Ellensburg",
+      "path": "northamerica/unitedstates/washington/ellensburg",
+      "prior_score": -3.7545,
+      "prior_variance": 0.121733,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Wolferton",
+      "path": "europe/unitedkingdom/england/norfolk/wolferton",
+      "prior_score": -5.3284,
+      "prior_variance": 0.158087,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Del City",
+      "path": "northamerica/unitedstates/oklahoma/del_city",
+      "prior_score": -7.0028,
+      "prior_variance": 0.212224,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Semipalatinsk",
+      "path": "asia/kazakhstan/semipalatinsk",
+      "prior_score": -6.3854,
+      "prior_variance": 0.166413,
+      "prior_n": 12
+    }
+  ]
+}

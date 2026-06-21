@@ -5,7 +5,7 @@ done:
 latitude: 17.2967
 loc_type: city
 longitude: -7.0283
-score: 0.4
+score: 0.34
 title: Oualata
 type: location
 ---

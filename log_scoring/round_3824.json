@@ -1,0 +1,200 @@
+{
+  "round": 3824,
+  "timestamp": "2026-06-13T23:22:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Koh Phi Phi",
+      "path": "asia/thailand/kohphiphi",
+      "prior_score": 7.3509,
+      "prior_variance": 0.148075,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Beppu",
+      "path": "asia/japan/kyushu/beppu",
+      "prior_score": 5.5635,
+      "prior_variance": 0.176742,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Monastir",
+      "path": "africa/tunisia/monastir",
+      "prior_score": 0.6756,
+      "prior_variance": 0.104672,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_score": -0.0323,
+      "prior_variance": 0.099152,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Banja Luka",
+      "path": "europe/bosniaandherzegovina/banjaluka",
+      "prior_score": -0.6387,
+      "prior_variance": 0.106116,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Sibari",
+      "path": "europe/italy/calabria/sybaris_marine",
+      "prior_score": -3.2814,
+      "prior_variance": 0.157435,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Osiglia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/osiglia",
+      "prior_score": -1.7752,
+      "prior_variance": 0.14195,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "De Panne",
+      "path": "europe/belgium/de_panne__belgian",
+      "prior_score": -1.0691,
+      "prior_variance": 0.114675,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Otep\u00e4\u00e4",
+      "path": "europe/estonia/otep",
+      "prior_score": -1.1217,
+      "prior_variance": 0.096733,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Vemdalen",
+      "path": "europe/sweden/vemdalen",
+      "prior_score": -0.7696,
+      "prior_variance": 0.110999,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Mwanza",
+      "path": "africa/tanzania/mwanza",
+      "prior_score": -1.3271,
+      "prior_variance": 0.118564,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Kengtung",
+      "path": "asia/myanmar/kengtung",
+      "prior_score": -1.1529,
+      "prior_variance": 0.110645,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devizes",
+      "prior_score": -1.1714,
+      "prior_variance": 0.101843,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Nitra",
+      "path": "europe/slovakia/nitra",
+      "prior_score": -1.4929,
+      "prior_variance": 0.107547,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/worcester",
+      "prior_score": -2.8187,
+      "prior_variance": 0.146083,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Civitavecchia",
+      "path": "europe/italy/lazio/civitavecchia",
+      "prior_score": -1.0739,
+      "prior_variance": 0.115881,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Sonneberg",
+      "path": "europe/germany/thuringia/sonneberg",
+      "prior_score": -2.6542,
+      "prior_variance": 0.109019,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Qusar",
+      "path": "europe/azerbaijan/qusar",
+      "prior_score": -2.4508,
+      "prior_variance": 0.100594,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Yea",
+      "path": "australiaandpacific/australia/victoria/yea",
+      "prior_score": -3.096,
+      "prior_variance": 0.105236,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Anyang",
+      "path": "asia/china/henan_province/anyang",
+      "prior_score": -2.1809,
+      "prior_variance": 0.115934,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Cuyahoga Falls",
+      "path": "northamerica/unitedstates/ohio/cuyahoga_falls",
+      "prior_score": -4.1596,
+      "prior_variance": 0.109241,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Berrien Springs",
+      "path": "northamerica/unitedstates/michigan/berrien_springs",
+      "prior_score": -6.6025,
+      "prior_variance": 0.174373,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Midland-Odessa",
+      "path": "northamerica/unitedstates/texas/midlandodessa",
+      "prior_score": -5.9884,
+      "prior_variance": 0.127724,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Zarafshan",
+      "path": "asia/uzbekistan/zarafshan",
+      "prior_score": -6.4694,
+      "prior_variance": 0.156591,
+      "prior_n": 12
+    }
+  ]
+}

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Watzman_8-15-2010.jpg
 latitude: 47.633022
 loc_type: city
 longitude: 13.002005
-score: 0.67
+score: 0.58
 title: Berchtesgaden
 type: location
 ---

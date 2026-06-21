@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Washita_Battlefield_Granit
 latitude: 35.291703
 loc_type: city
 longitude: -98.996697
-score: 0.28
+score: 0.21
 title: Washita
 type: location
 ---

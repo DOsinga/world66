@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2007_08_21_China_Xinjiang_
 latitude: 37.770817
 loc_type: city
 longitude: 75.228089
-score: 0.42
+score: 0.39
 title: Tashkorgan
 type: location
 ---

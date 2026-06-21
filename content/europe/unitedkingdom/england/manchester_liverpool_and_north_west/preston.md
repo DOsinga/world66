@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Harris_Museum_(_Preston_)_
 latitude: 53.759336
 loc_type: city
 longitude: -2.699272
-score: 0.4
+score: 0.32
 title: Preston
 type: location
 ---

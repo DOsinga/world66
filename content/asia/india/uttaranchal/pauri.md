@@ -5,7 +5,7 @@ done:
 latitude: 30.065231
 loc_type: city
 longitude: 78.731572
-score: 0.34
+score: 0.36
 title: Pauri
 type: location
 image: pauri.jpg

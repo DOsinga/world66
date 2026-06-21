@@ -6,7 +6,7 @@ latitude: 46.593904
 longitude: 7.907802
 title: Lauterbrunnen
 type: location
-score: 0.76
+score: 0.75
 image: lauterbrunnen.jpg
 image_source: https://commons.wikimedia.org/wiki/File:1_lauterbrunnen_valley_2012.jpg
 image_license: CC BY-SA 4.0

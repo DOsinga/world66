@@ -8,7 +8,7 @@ latitude: 2.818736
 longitude: 104.158587
 title: Tekek Village
 type: location
-score: 0.5
+score: 0.45
 loc_type: city
 ---
 

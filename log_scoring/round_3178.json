@@ -1,0 +1,200 @@
+{
+  "round": 3178,
+  "timestamp": "2026-06-13T22:34:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Acapulco",
+      "path": "northamerica/mexico/acapulco",
+      "prior_score": -2.2394,
+      "prior_variance": 0.250148,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Al Hoceima",
+      "path": "africa/morocco/alhoceima",
+      "prior_score": 0.8972,
+      "prior_variance": 0.127579,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Praia Verde",
+      "path": "europe/portugal/algarve/praia_verde",
+      "prior_score": 1.3185,
+      "prior_variance": 0.133565,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Deir el Qamar",
+      "path": "asia/lebanon/deirelqamar",
+      "prior_score": 1.1207,
+      "prior_variance": 0.129528,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Llanes",
+      "path": "europe/spain/northernspain/llanes",
+      "prior_score": 2.4812,
+      "prior_variance": 0.131066,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Ia\u0219i",
+      "path": "europe/romania/iasi",
+      "prior_score": -0.1079,
+      "prior_variance": 0.146268,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Monnickendam",
+      "path": "europe/netherlands/monickendam",
+      "prior_score": 0.6652,
+      "prior_variance": 0.115005,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Lisieux",
+      "path": "europe/france/normandybrittany/lisieux",
+      "prior_score": 0.466,
+      "prior_variance": 0.126391,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Mons",
+      "path": "europe/belgium/mons",
+      "prior_score": 0.3564,
+      "prior_variance": 0.155324,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Lania",
+      "path": "asia/cyprus/troodosmountains/lania_traditiona",
+      "prior_score": -0.2296,
+      "prior_variance": 0.120832,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Galichnik",
+      "path": "europe/macedonia/galichnik",
+      "prior_score": -2.0231,
+      "prior_variance": 0.138051,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Sandefjord",
+      "path": "europe/norway/sandefjord",
+      "prior_score": -0.3287,
+      "prior_variance": 0.125006,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Saarbr\u00fccken",
+      "path": "europe/germany/saarland/saarbrucken",
+      "prior_score": -1.4258,
+      "prior_variance": 0.127441,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Maynooth",
+      "path": "europe/ireland/maynooth",
+      "prior_score": -1.8183,
+      "prior_variance": 0.141277,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Hag\u00e5t\u00f1a (Agana)",
+      "path": "australiaandpacific/guam/agana",
+      "prior_score": -0.7083,
+      "prior_variance": 0.135701,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Porretta Terme",
+      "path": "europe/italy/emiliaromagna/porretta_terme",
+      "prior_score": -0.4265,
+      "prior_variance": 0.132812,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Pordenone",
+      "path": "europe/italy/friuliveneziagiulia/pordenone",
+      "prior_score": -0.1085,
+      "prior_variance": 0.120969,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Rungstedlund",
+      "path": "europe/denmark/rungstedlund",
+      "prior_score": -1.0821,
+      "prior_variance": 0.126005,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Encarnacion",
+      "path": "southamerica/paraguay/encarnacion",
+      "prior_score": -2.0501,
+      "prior_variance": 0.132156,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Georgetown",
+      "path": "southamerica/guyana/georgetown",
+      "prior_score": -2.4892,
+      "prior_variance": 0.174922,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Yueyang",
+      "path": "asia/china/hunan/yueyang",
+      "prior_score": -1.936,
+      "prior_variance": 0.118042,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Nandaihe",
+      "path": "asia/china/hebei/nandaihe",
+      "prior_score": -2.9188,
+      "prior_variance": 0.126559,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Anapa",
+      "path": "europe/russia/the_black_sea_coas/anapa",
+      "prior_score": -3.5013,
+      "prior_variance": 0.152653,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Larabanga",
+      "path": "africa/ghana/larabanja",
+      "prior_score": -2.9544,
+      "prior_variance": 0.148646,
+      "prior_n": 10
+    }
+  ]
+}

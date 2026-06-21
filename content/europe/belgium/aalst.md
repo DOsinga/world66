@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kerk_Aalst_2024.jpg
 latitude: 50.938323
 loc_type: city
 longitude: 4.039215
-score: 0.42
+score: 0.36
 title: Aalst
 type: location
 ---

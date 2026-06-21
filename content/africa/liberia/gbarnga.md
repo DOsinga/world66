@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Bong_County
 title: Gbarnga
 type: location
+score: 0.2
 ---
 
 *Africa > [Liberia](/africa/liberia) > Gbarnga*

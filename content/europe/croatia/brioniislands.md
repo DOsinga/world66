@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brijuni_20180401.jpg
 latitude: 44.907611
 loc_type: city
 longitude: 13.773154
-score: 0.53
+score: 0.5
 title: Brioni Islands
 type: location
 ---

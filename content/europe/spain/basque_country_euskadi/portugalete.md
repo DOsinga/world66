@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Portugalete_Vizcaya_Bridge
 latitude: 43.319
 loc_type: city
 longitude: -3.0199
-score: 0.53
+score: 0.43
 title: Portugalete
 type: location
 ---

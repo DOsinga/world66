@@ -1,199 +1,199 @@
 {
   "round": 1028,
-  "timestamp": "2026-04-12T22:05:28",
+  "timestamp": "2026-06-13T20:06:51",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Medellin",
-      "path": "southamerica/colombia/medellin",
-      "prior_rank": 721,
-      "prior_wins": 40,
-      "prior_n": 2
+      "title": "Cancun",
+      "path": "northamerica/mexico/cancun",
+      "prior_score": 6.9585,
+      "prior_variance": 0.769957,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Cadaqu\u00e9s",
-      "path": "europe/spain/catalonia/cadaqus",
-      "prior_rank": 668,
-      "prior_wins": 60,
+      "title": "Alice Springs",
+      "path": "australiaandpacific/australia/northernterritory/alicesprings",
+      "prior_score": 2.6254,
+      "prior_variance": 0.451612,
       "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Gdansk",
-      "path": "europe/poland/gdansk",
-      "prior_rank": 371,
-      "prior_wins": 63,
+      "title": "M\u00fcnster",
+      "path": "europe/germany/northrhinewestphalia/mnster",
+      "prior_score": 3.5944,
+      "prior_variance": 0.521757,
       "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Victoria",
-      "path": "northamerica/canada/britishcolumbia/victoria",
-      "prior_rank": 1394,
-      "prior_wins": 18,
-      "prior_n": 1
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/missouri/kansascity",
+      "prior_score": 0.3819,
+      "prior_variance": 0.483677,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Katoomba",
-      "path": "australiaandpacific/australia/newsouthwales/katoomba",
-      "prior_rank": 540,
-      "prior_wins": 41,
-      "prior_n": 2
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacorua",
+      "prior_score": 3.9116,
+      "prior_variance": 0.441757,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Kanchanaburi",
-      "path": "asia/thailand/kanchanaburi",
-      "prior_rank": 1578,
-      "prior_wins": 35,
-      "prior_n": 2
+      "title": "Cody",
+      "path": "northamerica/unitedstates/wyoming/cody",
+      "prior_score": 2.857,
+      "prior_variance": 0.496927,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Bundi",
-      "path": "asia/india/rajasthan/bundi",
-      "prior_rank": 2113,
-      "prior_wins": 31,
-      "prior_n": 2
+      "title": "Grosseto",
+      "path": "europe/italy/tuscany/grosseto",
+      "prior_score": 1.1819,
+      "prior_variance": 0.502074,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Inis M\u00f3r",
-      "path": "europe/ireland/aranislands/inismor",
-      "prior_rank": 1238,
-      "prior_wins": 37,
-      "prior_n": 2
+      "title": "Carloforte",
+      "path": "europe/italy/sardinia/isoladisanpietro/carloforte",
+      "prior_score": 3.9814,
+      "prior_variance": 0.421821,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "High Atlas",
-      "path": "africa/morocco/high_atlas",
-      "prior_rank": 1395,
-      "prior_wins": 36,
-      "prior_n": 2
+      "title": "Toirano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/toirano",
+      "prior_score": 0.3486,
+      "prior_variance": 0.444536,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "T\u00e9touan",
-      "path": "africa/morocco/tetouan",
-      "prior_rank": 2561,
-      "prior_wins": 15,
-      "prior_n": 1
+      "title": "Grand Junction",
+      "path": "northamerica/unitedstates/colorado/grandjunction",
+      "prior_score": -1.8936,
+      "prior_variance": 0.377482,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Sendai",
-      "path": "asia/japan/honshu/sendai",
-      "prior_rank": 719,
-      "prior_wins": 40,
-      "prior_n": 2
+      "title": "Soline",
+      "path": "europe/croatia/miljet_island/soline",
+      "prior_score": 5.4402,
+      "prior_variance": 0.655876,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Daisetsuzan",
-      "path": "asia/japan/hokkaido/daisetsuzan",
-      "prior_rank": 126,
-      "prior_wins": 44,
-      "prior_n": 2
+      "title": "Punkaharju",
+      "path": "europe/finland/punkaharju",
+      "prior_score": 2.4026,
+      "prior_variance": 0.408266,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Chioggia",
-      "path": "europe/italy/veneto/chioggia",
-      "prior_rank": 1272,
-      "prior_wins": 37,
-      "prior_n": 2
+      "title": "Elvas",
+      "path": "europe/portugal/elvas",
+      "prior_score": 0.9315,
+      "prior_variance": 0.471691,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Rapallo",
-      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
-      "prior_rank": 5878,
-      "prior_wins": 14,
-      "prior_n": 2
+      "title": "Bardejov",
+      "path": "europe/slovakia/bardejov",
+      "prior_score": 0.9317,
+      "prior_variance": 0.461224,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Aarhus",
-      "path": "europe/denmark/aarhus",
-      "prior_rank": 2591,
-      "prior_wins": 15,
-      "prior_n": 1
+      "title": "Julian",
+      "path": "northamerica/unitedstates/california/julian",
+      "prior_score": 0.3621,
+      "prior_variance": 0.447696,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Wye Valley",
-      "path": "europe/unitedkingdom/wales/wye_valley",
-      "prior_rank": 403,
-      "prior_wins": 42,
-      "prior_n": 2
+      "title": "Egerszal\u00f3k",
+      "path": "europe/hungary/egerszalok",
+      "prior_score": 0.8522,
+      "prior_variance": 0.467545,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Santa Cruz",
-      "path": "northamerica/unitedstates/california/centralcoast/santacruz",
-      "prior_rank": 498,
-      "prior_wins": 41,
-      "prior_n": 2
+      "title": "Organ Pipe Cactus National Monument",
+      "path": "northamerica/unitedstates/arizona/organ_pipe_cactus_national_monument",
+      "prior_score": 0.6577,
+      "prior_variance": 0.533211,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Palm Beach",
-      "path": "northamerica/unitedstates/florida/palm_beach",
-      "prior_rank": 1612,
-      "prior_wins": 35,
-      "prior_n": 2
+      "title": "Tela",
+      "path": "northamerica/honduras/tela",
+      "prior_score": -1.6541,
+      "prior_variance": 0.493735,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Akumal",
-      "path": "northamerica/mexico/akumal",
-      "prior_rank": 408,
-      "prior_wins": 42,
-      "prior_n": 2
+      "title": "Lania",
+      "path": "asia/cyprus/troodosmountains/lania_traditiona",
+      "prior_score": -0.6008,
+      "prior_variance": 0.478946,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Impruneta",
-      "path": "europe/italy/tuscany/florenceprovince/florentinearea/impruneta",
-      "prior_rank": 1759,
-      "prior_wins": 34,
-      "prior_n": 2
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_score": 0.4708,
+      "prior_variance": 0.575357,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Loue Valley",
-      "path": "europe/france/east/franchecomte/loue_valley",
-      "prior_rank": 1060,
-      "prior_wins": 38,
-      "prior_n": 2
+      "title": "Azrou",
+      "path": "africa/morocco/azrou",
+      "prior_score": -0.4143,
+      "prior_variance": 0.448263,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Monte Gordo",
-      "path": "europe/portugal/algarve/monto_gordo",
-      "prior_rank": 2950,
-      "prior_wins": 28,
-      "prior_n": 2
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_score": -1.2904,
+      "prior_variance": 0.438523,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Tassili n\u2019ajjer",
-      "path": "africa/algeria/tassilinajjer",
-      "prior_rank": 1615,
-      "prior_wins": 35,
-      "prior_n": 2
+      "title": "Bejaia",
+      "path": "africa/algeria/bejaia",
+      "prior_score": -1.3711,
+      "prior_variance": 0.473258,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Myrtle Beach",
-      "path": "northamerica/unitedstates/southcarolina/myrtlebeach",
-      "prior_rank": 1158,
-      "prior_wins": 56,
+      "title": "Huvalu Forest Conservation Area",
+      "path": "australiaandpacific/niue/huvalutropicalrainforest",
+      "prior_score": 2.9682,
+      "prior_variance": 0.615749,
       "prior_n": 3
     }
   ]

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_Spoleto_ty20060511
 latitude: 42.734297
 loc_type: city
 longitude: 12.738203
-score: 0.67
+score: 0.57
 title: Spoleto
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 61.506936
 loc_type: city
 longitude: -6.755742
-score: 0.44
+score: 0.32
 title: Hov
 type: location
 ---

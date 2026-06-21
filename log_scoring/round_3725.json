@@ -1,0 +1,200 @@
+{
+  "round": 3725,
+  "timestamp": "2026-06-13T23:15:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tortola",
+      "path": "northamerica/britishvirginislands/tortola",
+      "prior_score": 5.5655,
+      "prior_variance": 0.14604,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Formentera",
+      "path": "europe/spain/balearicislands/formentera",
+      "prior_score": 5.8422,
+      "prior_variance": 0.142961,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "San Vito Lo Capo",
+      "path": "europe/italy/sicily/san_vito_lo_capo",
+      "prior_score": 4.8023,
+      "prior_variance": 0.132002,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Carmel",
+      "path": "northamerica/unitedstates/california/carmel",
+      "prior_score": 5.4752,
+      "prior_variance": 0.133352,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "San Juan",
+      "path": "northamerica/thecaribbean/puertorico/sanjuan",
+      "prior_score": 5.8838,
+      "prior_variance": 0.143081,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Porec",
+      "path": "europe/croatia/porec",
+      "prior_score": 5.0858,
+      "prior_variance": 0.131734,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Melk",
+      "path": "europe/austria/melk",
+      "prior_score": 4.2758,
+      "prior_variance": 0.130732,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Morgantina",
+      "path": "europe/italy/sicily/piazza_armerina/morgantina",
+      "prior_score": 1.3093,
+      "prior_variance": 0.123729,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Acireale",
+      "path": "europe/italy/sicily/acireale",
+      "prior_score": 1.8492,
+      "prior_variance": 0.112276,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Portland Maine",
+      "path": "northamerica/unitedstates/maine/portlandmaine",
+      "prior_score": 2.5373,
+      "prior_variance": 0.12784,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Churchill",
+      "path": "northamerica/canada/manitoba/churchill",
+      "prior_score": 3.2489,
+      "prior_variance": 0.144392,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/veracruz",
+      "prior_score": 0.5954,
+      "prior_variance": 0.133088,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Panaji",
+      "path": "asia/india/goa/panaji",
+      "prior_score": 2.3681,
+      "prior_variance": 0.125731,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Hot Springs",
+      "path": "northamerica/unitedstates/arkansas/hotsprings",
+      "prior_score": 0.9047,
+      "prior_variance": 0.109877,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Banyumulek",
+      "path": "asia/indonesia/lombok/banyumulek",
+      "prior_score": -2.1097,
+      "prior_variance": 0.116389,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Anakao",
+      "path": "africa/madagascar/anakao",
+      "prior_score": 0.0282,
+      "prior_variance": 0.12359,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Santa Maria",
+      "path": "northamerica/unitedstates/california/centralcoast/santamaria",
+      "prior_score": -2.9962,
+      "prior_variance": 0.107975,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Hitchin",
+      "path": "europe/unitedkingdom/england/eastern_england/hitchin",
+      "prior_score": -2.9553,
+      "prior_variance": 0.116039,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "L\u00f6vstabruk",
+      "path": "europe/sweden/lvstabruk",
+      "prior_score": -2.2646,
+      "prior_variance": 0.121147,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Ulan Ude",
+      "path": "europe/russia/ulan_ude",
+      "prior_score": -2.0314,
+      "prior_variance": 0.115928,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Patiala",
+      "path": "asia/india/punjab/patiala",
+      "prior_score": -2.4787,
+      "prior_variance": 0.107284,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Pallandri",
+      "path": "asia/pakistan/azad_kashmir/pallandri",
+      "prior_score": -5.7247,
+      "prior_variance": 0.145741,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Huai'an",
+      "path": "asia/china/jiangsu_province/huaian",
+      "prior_score": -4.4175,
+      "prior_variance": 0.10861,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Nouamghar",
+      "path": "africa/mauritania/nouamghar",
+      "prior_score": -6.8007,
+      "prior_variance": 0.166853,
+      "prior_n": 11
+    }
+  ]
+}

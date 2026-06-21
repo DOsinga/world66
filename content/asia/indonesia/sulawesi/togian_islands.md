@@ -5,7 +5,7 @@ latitude: -0.3811
 longitude: 121.9442
 title: Togian Islands
 type: location
-score: 0.63
+score: 0.54
 loc_type: feature
 ---
 

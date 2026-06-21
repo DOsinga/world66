@@ -1,200 +1,200 @@
 {
   "round": 1286,
-  "timestamp": "2026-04-12T22:19:31",
+  "timestamp": "2026-06-13T20:21:34",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Ireland",
-      "path": "europe/ireland",
-      "prior_rank": 4255,
-      "prior_wins": 22,
-      "prior_n": 2
+      "title": "Prague",
+      "path": "europe/czechrepublic/prague",
+      "prior_score": 12.9043,
+      "prior_variance": 0.56631,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Southland",
-      "path": "australiaandpacific/newzealand/south_island/southland",
-      "prior_rank": 5123,
-      "prior_wins": 28,
-      "prior_n": 3
-    },
-    {
-      "rank": 3,
-      "title": "Franche-Comt\u00e9",
-      "path": "europe/france/east/franchecomte",
-      "prior_rank": 3600,
-      "prior_wins": 37,
-      "prior_n": 3
-    },
-    {
-      "rank": 4,
-      "title": "Wiesbaden",
-      "path": "europe/germany/hessen/wiesbaden",
-      "prior_rank": 2167,
-      "prior_wins": 46,
-      "prior_n": 3
-    },
-    {
-      "rank": 5,
-      "title": "Forest of Dean",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire/forestofdean",
-      "prior_rank": 4150,
-      "prior_wins": 34,
-      "prior_n": 3
-    },
-    {
-      "rank": 6,
-      "title": "Nurburgring",
-      "path": "europe/germany/rhinelandpalatinate/nurburgring",
-      "prior_rank": 3737,
-      "prior_wins": 36,
-      "prior_n": 3
-    },
-    {
-      "rank": 7,
-      "title": "Hunedoara",
-      "path": "europe/romania/hunedoara",
-      "prior_rank": 3531,
-      "prior_wins": 37,
-      "prior_n": 3
-    },
-    {
-      "rank": 8,
-      "title": "Hindeloopen",
-      "path": "europe/netherlands/friesland/hindeloopen",
-      "prior_rank": 3399,
-      "prior_wins": 64,
-      "prior_n": 5
-    },
-    {
-      "rank": 9,
-      "title": "Hanover",
-      "path": "northamerica/unitedstates/newhampshire/hanover",
-      "prior_rank": 4168,
-      "prior_wins": 34,
-      "prior_n": 3
-    },
-    {
-      "rank": 10,
-      "title": "Minehead",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/minehead",
-      "prior_rank": 3999,
-      "prior_wins": 35,
-      "prior_n": 3
-    },
-    {
-      "rank": 11,
-      "title": "Valen\u00e7a do Minho",
-      "path": "europe/portugal/valena_do_minho",
-      "prior_rank": 2641,
-      "prior_wins": 43,
-      "prior_n": 3
-    },
-    {
-      "rank": 12,
-      "title": "Halmstad",
-      "path": "europe/sweden/halmstad",
-      "prior_rank": 6150,
-      "prior_wins": 22,
-      "prior_n": 3
-    },
-    {
-      "rank": 13,
-      "title": "Gonio",
-      "path": "europe/georgia/gonio",
-      "prior_rank": 5202,
-      "prior_wins": 28,
-      "prior_n": 3
-    },
-    {
-      "rank": 14,
-      "title": "Puerto Pe\u00f1asco",
-      "path": "northamerica/mexico/puerto_penasco",
-      "prior_rank": 3707,
-      "prior_wins": 36,
-      "prior_n": 3
-    },
-    {
-      "rank": 15,
-      "title": "Porto Alegre",
-      "path": "southamerica/brazil/portoalegre",
-      "prior_rank": 3986,
-      "prior_wins": 35,
-      "prior_n": 3
-    },
-    {
-      "rank": 16,
-      "title": "Cagayan de Oro City",
-      "path": "asia/philippines/cagayan_de_oro_cit",
-      "prior_rank": 2471,
-      "prior_wins": 44,
-      "prior_n": 3
-    },
-    {
-      "rank": 17,
-      "title": "Ethiopia",
-      "path": "africa/ethiopia",
-      "prior_rank": 2263,
-      "prior_wins": 30,
-      "prior_n": 2
-    },
-    {
-      "rank": 18,
-      "title": "Kurukshetra",
-      "path": "asia/india/haryana/kurukshetra",
-      "prior_rank": 3011,
-      "prior_wins": 41,
-      "prior_n": 3
-    },
-    {
-      "rank": 19,
-      "title": "Patnitop",
-      "path": "asia/india/jammuandkashmir/patnitop",
-      "prior_rank": 3825,
-      "prior_wins": 36,
-      "prior_n": 3
-    },
-    {
-      "rank": 20,
-      "title": "Calabar",
-      "path": "africa/nigeria/calabar",
-      "prior_rank": 1642,
-      "prior_wins": 66,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_score": 5.5554,
+      "prior_variance": 0.431464,
       "prior_n": 4
     },
     {
-      "rank": 21,
-      "title": "Rosslare",
-      "path": "europe/ireland/rosslare",
-      "prior_rank": 5003,
-      "prior_wins": 29,
+      "rank": 3,
+      "title": "Catania",
+      "path": "europe/italy/sicily/catania",
+      "prior_score": 7.9753,
+      "prior_variance": 0.412847,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_score": 8.7505,
+      "prior_variance": 0.341968,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Marsala",
+      "path": "europe/italy/sicily/marsala",
+      "prior_score": 4.7104,
+      "prior_variance": 0.317342,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Majella",
+      "path": "europe/italy/abruzzo/majella",
+      "prior_score": 2.2316,
+      "prior_variance": 0.314085,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Lake Nakuru National Park",
+      "path": "africa/kenya/nationalparksandreserves/lakenakurunp",
+      "prior_score": 7.8272,
+      "prior_variance": 0.344301,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Al Ain",
+      "path": "asia/unitedarabemirates/al_ain",
+      "prior_score": 1.1079,
+      "prior_variance": 0.308712,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Stanley",
+      "path": "southamerica/falklandislands/stanley",
+      "prior_score": 2.3424,
+      "prior_variance": 0.308461,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_score": -1.7157,
+      "prior_variance": 0.313452,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Bardejov",
+      "path": "europe/slovakia/bardejov",
+      "prior_score": 0.9933,
+      "prior_variance": 0.333515,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Oudenaarde",
+      "path": "europe/belgium/oudenaarde",
+      "prior_score": -0.4688,
+      "prior_variance": 0.420565,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Ayr",
+      "path": "europe/unitedkingdom/scotland/ayr",
+      "prior_score": 1.8582,
+      "prior_variance": 0.365334,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Kung\u00e4lv",
+      "path": "europe/sweden/kunglv",
+      "prior_score": -2.0171,
+      "prior_variance": 0.334365,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_score": -0.529,
+      "prior_variance": 0.358194,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Lake Nicaragua",
+      "path": "northamerica/nicaragua/lakenicaragua",
+      "prior_score": -0.5361,
+      "prior_variance": 0.346233,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Mapusa",
+      "path": "asia/india/goa/mapusa",
+      "prior_score": 0.2677,
+      "prior_variance": 0.401335,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Hoh Xil",
+      "path": "asia/china/qinghai/hoh-xil",
+      "prior_score": -1.8778,
+      "prior_variance": 0.39744,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Nanumea",
+      "path": "australiaandpacific/tuvalu/nanumeaatoll",
+      "prior_score": -1.2133,
+      "prior_variance": 0.433489,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Maseno",
+      "path": "africa/kenya/westernkenya/maseno",
+      "prior_score": -8.5896,
+      "prior_variance": 0.456565,
       "prior_n": 3
     },
     {
+      "rank": 21,
+      "title": "Keren",
+      "path": "africa/eritrea/keren",
+      "prior_score": -6.2815,
+      "prior_variance": 0.317727,
+      "prior_n": 4
+    },
+    {
       "rank": 22,
-      "title": "Borit Lake",
-      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni/borit_lake",
-      "prior_rank": 4817,
-      "prior_wins": 30,
+      "title": "Tumkur",
+      "path": "asia/india/karnataka/tumkur",
+      "prior_score": -6.5879,
+      "prior_variance": 0.556694,
       "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Kalambo falls",
-      "path": "africa/zambia/kalambofalls",
-      "prior_rank": 4373,
-      "prior_wins": 32,
-      "prior_n": 3
+      "title": "Kwekwe",
+      "path": "africa/zimbabwe/kwekwe",
+      "prior_score": -8.1832,
+      "prior_variance": 0.352831,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Upper Kern River",
-      "path": "northamerica/unitedstates/california/centralvalley/upper_kern_river",
-      "prior_rank": 3355,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Galesburg",
+      "path": "northamerica/unitedstates/illinois/galesburg",
+      "prior_score": -8.0894,
+      "prior_variance": 0.415777,
+      "prior_n": 4
     }
   ]
 }

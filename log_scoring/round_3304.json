@@ -1,0 +1,200 @@
+{
+  "round": 3304,
+  "timestamp": "2026-06-13T22:44:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Charlottesville",
+      "path": "northamerica/unitedstates/virginia/charlottesville",
+      "prior_score": 0.479,
+      "prior_variance": 0.155671,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Crystal River",
+      "path": "northamerica/unitedstates/florida/crystalriver",
+      "prior_score": 0.6061,
+      "prior_variance": 0.127778,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Chautauqua",
+      "path": "northamerica/unitedstates/newyorkstate/chautauqua",
+      "prior_score": 0.1242,
+      "prior_variance": 0.128559,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Angel Fire",
+      "path": "northamerica/unitedstates/newmexico/angelfire",
+      "prior_score": -1.2646,
+      "prior_variance": 0.131575,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Eureka",
+      "path": "northamerica/unitedstates/california/northcoast/eureka",
+      "prior_score": -0.9125,
+      "prior_variance": 0.126363,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Zuni",
+      "path": "northamerica/unitedstates/newmexico/zuni",
+      "prior_score": -2.6352,
+      "prior_variance": 0.13558,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Cowichan Bay",
+      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
+      "prior_score": -0.795,
+      "prior_variance": 0.132936,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Scarborough",
+      "path": "australiaandpacific/australia/westernaustralia/scarborough",
+      "prior_score": -0.472,
+      "prior_variance": 0.114495,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Guilvinec",
+      "path": "europe/france/normandybrittany/guilvinec",
+      "prior_score": -0.2235,
+      "prior_variance": 0.125433,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Al\u00e8s",
+      "path": "europe/france/midi/cevennes/ales",
+      "prior_score": -0.5252,
+      "prior_variance": 0.127232,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Santa Cruz",
+      "path": "northamerica/costarica/santacruz",
+      "prior_score": -0.1701,
+      "prior_variance": 0.123645,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Maynooth",
+      "path": "europe/ireland/maynooth",
+      "prior_score": -1.7219,
+      "prior_variance": 0.128721,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Taunton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/taunton",
+      "prior_score": -2.3932,
+      "prior_variance": 0.219269,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "\u00d6resund",
+      "path": "europe/sweden/resund",
+      "prior_score": -0.3258,
+      "prior_variance": 0.119737,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Contursi Terme",
+      "path": "europe/italy/campania/contursi_terme",
+      "prior_score": -2.7904,
+      "prior_variance": 0.159595,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Greymouth",
+      "path": "australiaandpacific/newzealand/greymouth",
+      "prior_score": -0.8209,
+      "prior_variance": 0.121136,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Aalst",
+      "path": "europe/belgium/aalst",
+      "prior_score": -1.9716,
+      "prior_variance": 0.13682,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Songtan",
+      "path": "asia/southkorea/songtan",
+      "prior_score": -2.6064,
+      "prior_variance": 0.119494,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Kerman",
+      "path": "asia/iran/kerman",
+      "prior_score": -2.2773,
+      "prior_variance": 0.129347,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Mudanjiang",
+      "path": "asia/china/heilongjiang/mudanjiang",
+      "prior_score": -4.2793,
+      "prior_variance": 0.148566,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Kondoa",
+      "path": "africa/tanzania/kondoa",
+      "prior_score": -2.0344,
+      "prior_variance": 0.12316,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Mopti",
+      "path": "africa/mali/mopti",
+      "prior_score": -1.8497,
+      "prior_variance": 0.166078,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Mu'a",
+      "path": "australiaandpacific/tonga/tongatapu/mua",
+      "prior_score": -1.6946,
+      "prior_variance": 0.130272,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Chisinau",
+      "path": "europe/moldova/chisinau",
+      "prior_score": -2.7077,
+      "prior_variance": 0.140956,
+      "prior_n": 10
+    }
+  ]
+}

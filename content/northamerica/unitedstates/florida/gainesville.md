@@ -6,7 +6,7 @@ latitude: 29.652
 longitude: -82.325
 title: Gainesville
 type: location
-score: 0.42
+score: 0.35
 loc_type: city
 ---
 

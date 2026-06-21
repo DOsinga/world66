@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saint_Remy_Les_Antiques_R0
 latitude: 43.788578
 loc_type: city
 longitude: 4.83175
-score: 0.67
+score: 0.59
 title: Saint-Rémy-de-Provence
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Friday_Harbor_1.JPG
 latitude: 48.534266
 loc_type: city
 longitude: -123.017124
-score: 0.52
+score: 0.46
 title: Friday Harbor
 type: location
 ---

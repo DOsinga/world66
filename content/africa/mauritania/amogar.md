@@ -5,7 +5,7 @@ done:
 latitude: 20.45
 loc_type: city
 longitude: -13.1
-score: 0.18
+score: 0.13
 title: Amogar
 type: location
 ---

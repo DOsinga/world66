@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2009-05-01_in_Nijmegen_01.
 latitude: 51.847495
 loc_type: city
 longitude: 5.863777
-score: 0.52
+score: 0.44
 title: Nijmegen
 type: location
 ---

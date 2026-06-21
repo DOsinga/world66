@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bosaso,_Somalia.jpg
 latitude: 11.002615
 loc_type: city
 longitude: 49.410723
-score: 0.25
+score: 0.11
 title: Bossaso
 type: location
 ---

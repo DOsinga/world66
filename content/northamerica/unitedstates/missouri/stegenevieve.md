@@ -5,7 +5,7 @@ done:
 latitude: 37.8896
 loc_type: city
 longitude: -90.1857
-score: 0.43
+score: 0.35
 title: Ste. Genevieve
 type: location
 image: stegenevieve.jpg

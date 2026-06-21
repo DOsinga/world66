@@ -5,7 +5,7 @@ latitude: 13.323803
 longitude: 144.737472
 title: Talofofo Falls
 type: location
-score: 0.48
+score: 0.44
 loc_type: feature
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2014-07-18_13_11_09_Sign_f
 latitude: 37.6464
 loc_type: city
 longitude: -115.7465
-score: 0.35
+score: 0.25
 title: Rachel
 type: location
 ---

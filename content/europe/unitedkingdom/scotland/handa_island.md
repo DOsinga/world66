@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Great_Stack_of_Handa_-
 latitude: 58.380916
 loc_type: feature
 longitude: -5.188608
-score: 0.51
+score: 0.38
 sources:
 - https://en.wikipedia.org/wiki/Handa_Island
 - https://en.wikipedia.org/wiki/Tarbet,_Sutherland

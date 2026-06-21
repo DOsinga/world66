@@ -5,7 +5,7 @@ done:
 latitude: 42.320498
 loc_type: city
 longitude: 12.174887
-score: 0.53
+score: 0.46
 title: Lake Vico
 type: location
 image: lakevico.jpg

@@ -6,7 +6,7 @@ latitude: -2.897407
 longitude: -79.004173
 title: Cuenca
 type: location
-score: 0.63
+score: 0.57
 loc_type: city
 ---
 

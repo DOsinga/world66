@@ -5,7 +5,7 @@ done:
 latitude: 9.1148
 loc_type: feature
 longitude: 7.2385
-score: 0.35
+score: 0.34
 title: Zuma Rock
 type: location
 ---

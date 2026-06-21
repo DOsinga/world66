@@ -1,0 +1,200 @@
+{
+  "round": 3350,
+  "timestamp": "2026-06-13T22:47:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Apollonia",
+      "path": "africa/libya/apollonia",
+      "prior_score": -2.0629,
+      "prior_variance": 0.148815,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Bo'ao",
+      "path": "asia/china/hainanisland/boao",
+      "prior_score": -1.6795,
+      "prior_variance": 0.133669,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Qionghai",
+      "path": "asia/china/hainanisland/qionghai",
+      "prior_score": -2.3783,
+      "prior_variance": 0.129174,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Tay Ninh",
+      "path": "asia/vietnam/tayninh",
+      "prior_score": -0.146,
+      "prior_variance": 0.115712,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Jabrin",
+      "path": "asia/oman/jabrin",
+      "prior_score": -3.668,
+      "prior_variance": 0.124409,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Katowice",
+      "path": "europe/poland/katowice",
+      "prior_score": -2.0575,
+      "prior_variance": 0.128073,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Kielce",
+      "path": "europe/poland/kielce",
+      "prior_score": -2.5063,
+      "prior_variance": 0.13039,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Hamilton",
+      "path": "northamerica/canada/ontario/hamilton",
+      "prior_score": -2.3131,
+      "prior_variance": 0.117304,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Zhengzhou",
+      "path": "asia/china/henan_province/zhengzhou",
+      "prior_score": -2.8954,
+      "prior_variance": 0.134949,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Baoding",
+      "path": "asia/china/hebei/baoding",
+      "prior_score": -3.7448,
+      "prior_variance": 0.150987,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Qiqihar",
+      "path": "asia/china/heilongjiang/qiqihar",
+      "prior_score": -5.2794,
+      "prior_variance": 0.149869,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Bognor Regis",
+      "path": "europe/unitedkingdom/england/south_east/bognorregis",
+      "prior_score": -2.9051,
+      "prior_variance": 0.137286,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Alton",
+      "path": "northamerica/unitedstates/illinois/alton",
+      "prior_score": -3.5485,
+      "prior_variance": 0.128051,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Payyanur",
+      "path": "asia/india/kerala/payyanur",
+      "prior_score": -4.0446,
+      "prior_variance": 0.134528,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Kasungu",
+      "path": "africa/malawi/zombaplateau/kasungu",
+      "prior_score": -5.5989,
+      "prior_variance": 0.182495,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Sinnamary",
+      "path": "southamerica/frenchguiana/sinnamary",
+      "prior_score": -4.8418,
+      "prior_variance": 0.156952,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Penguin",
+      "path": "australiaandpacific/australia/tasmania/northwest/penguin",
+      "prior_score": -2.8111,
+      "prior_variance": 0.125567,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/orangecounty/santaana",
+      "prior_score": -4.3191,
+      "prior_variance": 0.120031,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Port Clinton",
+      "path": "northamerica/unitedstates/ohio/port_clinton",
+      "prior_score": -3.5569,
+      "prior_variance": 0.133487,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Superior",
+      "path": "northamerica/unitedstates/wisconsin/superior",
+      "prior_score": -4.1305,
+      "prior_variance": 0.130632,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "La Paz Centro",
+      "path": "northamerica/nicaragua/la_paz_centro",
+      "prior_score": -5.2254,
+      "prior_variance": 0.129683,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Guazhou",
+      "path": "asia/china/gansu/guazhou",
+      "prior_score": -4.3902,
+      "prior_variance": 0.155327,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Pingxiang",
+      "path": "asia/china/jiangxi/pingxiang",
+      "prior_score": -4.7982,
+      "prior_variance": 0.148801,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Darra Adam Khel",
+      "path": "asia/pakistan/darraadamkhel",
+      "prior_score": -10.569,
+      "prior_variance": 0.285365,
+      "prior_n": 10
+    }
+  ]
+}

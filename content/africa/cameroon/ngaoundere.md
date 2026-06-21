@@ -5,7 +5,7 @@ done:
 latitude: 7.321154
 loc_type: city
 longitude: 13.587821
-score: 0.36
+score: 0.27
 title: Ngaoundéré
 type: location
 ---

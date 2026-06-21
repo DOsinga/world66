@@ -1,0 +1,200 @@
+{
+  "round": 4693,
+  "timestamp": "2026-06-14T00:33:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Valparaiso",
+      "path": "southamerica/chile/valparaiso",
+      "prior_score": 5.1208,
+      "prior_variance": 0.096731,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "West Caicos",
+      "path": "northamerica/turksandcaicosislands/westcaicos",
+      "prior_score": 4.0656,
+      "prior_variance": 0.137096,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Fremantle",
+      "path": "australiaandpacific/australia/westernaustralia/fremantle",
+      "prior_score": 3.0407,
+      "prior_variance": 0.097173,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Odessa",
+      "path": "europe/ukraine/odessa",
+      "prior_score": -1.8069,
+      "prior_variance": 0.118279,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Nainital",
+      "path": "asia/india/uttaranchal/nainital",
+      "prior_score": 1.807,
+      "prior_variance": 0.092795,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Sanya",
+      "path": "asia/china/hainanisland/sanya",
+      "prior_score": 2.3655,
+      "prior_variance": 0.100557,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Altaussee",
+      "path": "europe/austria/altaussee",
+      "prior_score": 4.1648,
+      "prior_variance": 0.087236,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Chartres",
+      "path": "europe/france/centre/chartres",
+      "prior_score": 4.8422,
+      "prior_variance": 0.106561,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Nyungwe National Park",
+      "path": "africa/rwanda/nyungwe_national_park",
+      "prior_score": 3.0161,
+      "prior_variance": 0.092807,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Kalutara",
+      "path": "asia/srilanka/kalutara",
+      "prior_score": 1.6689,
+      "prior_variance": 0.095771,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Skarsv\u00e5g",
+      "path": "europe/norway/northcape/skarsvg_the_nort",
+      "prior_score": 0.8486,
+      "prior_variance": 0.096946,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Clervaux",
+      "path": "europe/luxembourg/clervaux",
+      "prior_score": 1.3771,
+      "prior_variance": 0.081365,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Ponta do Sol",
+      "path": "africa/capeverde/santo_antao/ponto_do_sol",
+      "prior_score": 0.4352,
+      "prior_variance": 0.090978,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_score": 0.7027,
+      "prior_variance": 0.08894,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Whiting Bay",
+      "path": "europe/unitedkingdom/scotland/arran/whiting_bay",
+      "prior_score": -0.618,
+      "prior_variance": 0.089257,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Lule\u00e5",
+      "path": "europe/sweden/lulea",
+      "prior_score": -0.1549,
+      "prior_variance": 0.081799,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Weikersheim",
+      "path": "europe/germany/bavaria/romanticroad/weikersheim",
+      "prior_score": 1.8449,
+      "prior_variance": 0.090249,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Veurne",
+      "path": "europe/belgium/veurne",
+      "prior_score": -0.0907,
+      "prior_variance": 0.085536,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Sint-Truiden",
+      "path": "europe/belgium/sinttruiden",
+      "prior_score": -0.8556,
+      "prior_variance": 0.091911,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Arroyo de la Miel",
+      "path": "europe/spain/andalucia/arroyodelamiel",
+      "prior_score": -0.9852,
+      "prior_variance": 0.089977,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Scrivia Valley",
+      "path": "europe/italy/liguria/scriviavalley",
+      "prior_score": -0.8988,
+      "prior_variance": 0.104588,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Banja Luka",
+      "path": "europe/bosniaandherzegovina/banjaluka",
+      "prior_score": -0.5117,
+      "prior_variance": 0.079579,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Dir\u2019iyah",
+      "path": "asia/saudiarabia/diriyah",
+      "prior_score": 0.5473,
+      "prior_variance": 0.092081,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Jhelum",
+      "path": "asia/pakistan/jhelum",
+      "prior_score": -5.2136,
+      "prior_variance": 0.108947,
+      "prior_n": 15
+    }
+  ]
+}

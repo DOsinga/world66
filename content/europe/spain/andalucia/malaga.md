@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%22Malaga_ist_eine_lebendi
 latitude: 36.7213
 loc_type: city
 longitude: -4.4214
-score: 0.73
+score: 0.6
 title: Malaga
 type: location
 ---

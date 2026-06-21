@@ -1,0 +1,200 @@
+{
+  "round": 4838,
+  "timestamp": "2026-06-14T00:45:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jerusalem",
+      "path": "asia/israel/jerusalem",
+      "prior_score": 11.3291,
+      "prior_variance": 0.245703,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Ljubljana",
+      "path": "europe/slovenia/ljubljana",
+      "prior_score": 6.6568,
+      "prior_variance": 0.119086,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Komodo",
+      "path": "asia/indonesia/komodo",
+      "prior_score": 7.5572,
+      "prior_variance": 0.123711,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "\u00c5lesund",
+      "path": "europe/norway/lesund",
+      "prior_score": 6.2341,
+      "prior_variance": 0.124109,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Como",
+      "path": "europe/italy/lombardia/como",
+      "prior_score": 6.9057,
+      "prior_variance": 0.113764,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Lassithi plateau",
+      "path": "europe/greece/crete/lassithi_plateau",
+      "prior_score": 3.175,
+      "prior_variance": 0.092341,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Mammoth Lakes",
+      "path": "northamerica/unitedstates/california/highsierra/mammothlakes",
+      "prior_score": 4.1167,
+      "prior_variance": 0.095091,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Mikumi National Park",
+      "path": "africa/tanzania/mikuminationalpark",
+      "prior_score": 4.0191,
+      "prior_variance": 0.144552,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Everest Base Camp (Tibet)",
+      "path": "asia/china/tibet/everest_base_camp",
+      "prior_score": 4.4861,
+      "prior_variance": 0.118986,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Tagaytay",
+      "path": "asia/philippines/tagaytay",
+      "prior_score": 2.4921,
+      "prior_variance": 0.080904,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_score": 2.5791,
+      "prior_variance": 0.093088,
+      "prior_n": 17
+    },
+    {
+      "rank": 12,
+      "title": "Bregenzerwald",
+      "path": "europe/austria/bregenzerwald",
+      "prior_score": 2.8895,
+      "prior_variance": 0.088414,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Hukou Waterfall",
+      "path": "asia/china/shanxiprovince/hukou",
+      "prior_score": 1.4914,
+      "prior_variance": 0.09429,
+      "prior_n": 17
+    },
+    {
+      "rank": 14,
+      "title": "Sayram Lake",
+      "path": "asia/china/xinjiangprovince/sayramlake",
+      "prior_score": 1.467,
+      "prior_variance": 0.091968,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Qaqortoq",
+      "path": "northamerica/greenland/qaqortoq",
+      "prior_score": 0.5696,
+      "prior_variance": 0.112747,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Rockland",
+      "path": "northamerica/unitedstates/maine/rockland_maine",
+      "prior_score": 0.1967,
+      "prior_variance": 0.085494,
+      "prior_n": 17
+    },
+    {
+      "rank": 17,
+      "title": "St. Michaels",
+      "path": "northamerica/unitedstates/maryland/stmichaels",
+      "prior_score": -0.2302,
+      "prior_variance": 0.081811,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/newyorkstate/albany",
+      "prior_score": -1.9675,
+      "prior_variance": 0.086132,
+      "prior_n": 17
+    },
+    {
+      "rank": 19,
+      "title": "Udon Thani",
+      "path": "asia/thailand/udonthani",
+      "prior_score": -0.3005,
+      "prior_variance": 0.081112,
+      "prior_n": 17
+    },
+    {
+      "rank": 20,
+      "title": "Hancheng",
+      "path": "asia/china/shaanxi/hancheng",
+      "prior_score": -1.4275,
+      "prior_variance": 0.084994,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "La Palma",
+      "path": "northamerica/panama/dariengap/la_palma",
+      "prior_score": -7.7845,
+      "prior_variance": 0.185203,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Nowshera",
+      "path": "asia/pakistan/nowshera",
+      "prior_score": -7.0161,
+      "prior_variance": 0.136644,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Assab",
+      "path": "africa/eritrea/assab",
+      "prior_score": -7.7868,
+      "prior_variance": 0.142687,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Darra Adam Khel",
+      "path": "asia/pakistan/darraadamkhel",
+      "prior_score": -10.2716,
+      "prior_variance": 0.272448,
+      "prior_n": 15
+    }
+  ]
+}

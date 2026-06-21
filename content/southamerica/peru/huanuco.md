@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Esgl%C3%A9sia_de_San_Sebas
 latitude: -9.9306
 loc_type: city
 longitude: -76.2422
-score: 0.44
+score: 0.37
 title: Huánuco
 type: location
 ---

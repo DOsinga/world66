@@ -4,7 +4,7 @@ done:
 latitude: 27.065985
 loc_type: city
 longitude: 88.467995
-score: 0.55
+score: 0.47
 sources:
 - https://en.wikipedia.org/wiki/Kalimpong
 title: Kalimpong

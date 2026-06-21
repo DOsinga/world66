@@ -5,7 +5,7 @@ done:
 latitude: 57.416373
 loc_type: city
 longitude: -1.852931
-score: 0.49
+score: 0.39
 title: Cruden Bay
 type: location
 ---

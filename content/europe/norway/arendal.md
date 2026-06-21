@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arendal_Utsikt_02.JPG
 latitude: 58.42673
 loc_type: city
 longitude: 8.946949
-score: 0.53
+score: 0.45
 title: Arendal
 type: location
 ---

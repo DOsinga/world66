@@ -7,7 +7,7 @@ done:
 latitude: 51.033341
 loc_type: city
 longitude: 2.864718
-score: 0.45
+score: 0.4
 title: Diksmuide
 type: location
 ---

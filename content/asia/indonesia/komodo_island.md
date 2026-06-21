@@ -5,7 +5,7 @@ latitude: -8.589191
 longitude: 119.462412
 title: Komodo Island
 type: location
-score: 0.77
+score: 0.66
 image: komodo_island.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Komodo_dragon,_Varanus_komodoensis,_Komodo_Island,_Indonesia,_20250822_1319_2752.jpg
 image_license: CC BY 4.0

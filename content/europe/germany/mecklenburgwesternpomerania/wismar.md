@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Wismar_(vi
 latitude: 53.891
 loc_type: city
 longitude: 11.4648
-score: 0.51
+score: 0.47
 title: Wismar
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Camel_trekking_for_the_tou
 latitude: 30.327905
 loc_type: city
 longitude: -5.836996
-score: 0.53
+score: 0.47
 title: Zagora
 type: location
 ---

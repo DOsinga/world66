@@ -5,7 +5,7 @@ done:
 latitude: -28.2925
 loc_type: city
 longitude: -49.9353
-score: 0.44
+score: 0.35
 title: São Joaquim
 type: location
 ---

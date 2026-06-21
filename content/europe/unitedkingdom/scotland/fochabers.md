@@ -5,7 +5,7 @@ done:
 latitude: 57.6141
 loc_type: city
 longitude: -3.097447
-score: 0.42
+score: 0.36
 title: Fochabers
 type: location
 ---

@@ -1,200 +1,200 @@
 {
   "round": 590,
-  "timestamp": "2026-04-12T10:38:47",
+  "timestamp": "2026-06-13T19:43:47",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Baku",
-      "path": "europe/azerbaijan/baku",
-      "prior_mu": 25.9882,
-      "prior_sigma": 5.2605,
-      "prior_n": 2
+      "title": "The Gal\u00e1pagos Islands",
+      "path": "southamerica/ecuador/galapagosislands/theislands",
+      "prior_score": 17.8442,
+      "prior_variance": 6.385291,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Shusha",
-      "path": "europe/azerbaijan/nagornokarabakh/shusha",
-      "prior_mu": 24.1567,
-      "prior_sigma": 5.6658,
+      "title": "Khumbu",
+      "path": "asia/nepal/khumbu",
+      "prior_score": 15.1247,
+      "prior_variance": 7.220711,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Gobustan",
-      "path": "europe/azerbaijan/gobustan",
-      "prior_mu": 25.2338,
-      "prior_sigma": 5.0999,
-      "prior_n": 2
+      "title": "Denali National Park and Preserve",
+      "path": "northamerica/unitedstates/alaska/denali_national_park_and_preserve",
+      "prior_score": 13.8078,
+      "prior_variance": 7.739488,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Ganca",
-      "path": "europe/azerbaijan/ganca",
-      "prior_mu": 22.4749,
-      "prior_sigma": 5.3146,
+      "title": "Raja Ampat",
+      "path": "asia/indonesia/rajaampat",
+      "prior_score": 16.2998,
+      "prior_variance": 6.835795,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Nakhchivan City",
-      "path": "europe/azerbaijan/naxcivan/nakhchivan_city",
-      "prior_mu": 20.4146,
-      "prior_sigma": 2.5783,
-      "prior_n": 7
+      "title": "Kanazawa",
+      "path": "asia/japan/honshu/kanazawacity",
+      "prior_score": 15.2173,
+      "prior_variance": 7.195914,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Quba",
-      "path": "europe/azerbaijan/quba",
-      "prior_mu": 22.5525,
-      "prior_sigma": 4.7154,
-      "prior_n": 2
+      "title": "Pompeii",
+      "path": "europe/italy/campania/pompeii",
+      "prior_score": 13.5297,
+      "prior_variance": 7.872992,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Nagorno-Karabakh (Karabakh)",
-      "path": "europe/azerbaijan/nagornokarabakh",
-      "prior_mu": 20.2978,
-      "prior_sigma": 3.5555,
-      "prior_n": 3
+      "title": "Riomaggiore",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/riomaggiore",
+      "prior_score": 14.0246,
+      "prior_variance": 7.658242,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Khankendi (Stepanakert)",
-      "path": "europe/azerbaijan/nagornokarabakh/stepanakert",
-      "prior_mu": 16.6061,
-      "prior_sigma": 4.3139,
-      "prior_n": 3
+      "title": "Assisi",
+      "path": "europe/italy/umbria/assisi",
+      "prior_score": 15.5082,
+      "prior_variance": 3.020885,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Nakhchivan",
-      "path": "europe/azerbaijan/naxcivan",
-      "prior_mu": 22.8349,
-      "prior_sigma": 4.2712,
-      "prior_n": 2
+      "title": "Ravello",
+      "path": "europe/italy/campania/ravello",
+      "prior_score": 16.149,
+      "prior_variance": 6.87071,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Ordubad",
-      "path": "europe/azerbaijan/naxcivan/ordubad",
-      "prior_mu": 21.7096,
-      "prior_sigma": 4.4967,
-      "prior_n": 2
+      "title": "Verdon Gorge",
+      "path": "europe/france/midi/verdongorge",
+      "prior_score": 13.854,
+      "prior_variance": 2.678572,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Qax",
-      "path": "europe/azerbaijan/qax",
-      "prior_mu": 21.4966,
-      "prior_sigma": 4.265,
-      "prior_n": 2
+      "title": "Hurtigruten",
+      "path": "europe/norway/hurtigruten",
+      "prior_score": 14.385,
+      "prior_variance": 7.507413,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Qusar",
-      "path": "europe/azerbaijan/qusar",
-      "prior_mu": 20.9548,
-      "prior_sigma": 3.5515,
-      "prior_n": 4
+      "title": "Gyeongju",
+      "path": "asia/southkorea/gyeongju",
+      "prior_score": 14.1375,
+      "prior_variance": 2.985281,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Lenkaran",
-      "path": "europe/azerbaijan/baku/lenkaran",
-      "prior_mu": 21.2208,
-      "prior_sigma": 3.899,
-      "prior_n": 3
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/northernspain/santiagodecompostela",
+      "prior_score": 14.2086,
+      "prior_variance": 2.232871,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Mingechevir",
-      "path": "europe/azerbaijan/mingechevir",
-      "prior_mu": 21.4944,
-      "prior_sigma": 4.4071,
-      "prior_n": 2
+      "title": "Krakow",
+      "path": "europe/poland/krakow",
+      "prior_score": 17.2863,
+      "prior_variance": 2.326919,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Babek",
-      "path": "europe/azerbaijan/naxcivan/babek",
-      "prior_mu": 21.9893,
-      "prior_sigma": 5.2572,
+      "title": "Hvar",
+      "path": "europe/croatia/hvar",
+      "prior_score": 13.6448,
+      "prior_variance": 7.82732,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Krasnaya Sloboda",
-      "path": "europe/azerbaijan/krasnayasloboda",
-      "prior_mu": 21.7681,
-      "prior_sigma": 3.8819,
-      "prior_n": 3
+      "title": "New Orleans",
+      "path": "northamerica/unitedstates/louisiana/neworleans",
+      "prior_score": 14.8133,
+      "prior_variance": 7.349364,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Agdam",
-      "path": "europe/azerbaijan/agdam",
-      "prior_mu": 19.0505,
-      "prior_sigma": 3.5299,
-      "prior_n": 4
+      "title": "Torridonian Highlands",
+      "path": "europe/unitedkingdom/scotland/torridonian_highlands",
+      "prior_score": 10.1795,
+      "prior_variance": 2.04409,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Cebrayil",
-      "path": "europe/azerbaijan/cebrayil",
-      "prior_mu": 20.7746,
-      "prior_sigma": 3.831,
-      "prior_n": 3
+      "title": "Mahe",
+      "path": "africa/seychelles/mahe",
+      "prior_score": 16.054,
+      "prior_variance": 2.581453,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Sharur",
-      "path": "europe/azerbaijan/naxcivan/sharur",
-      "prior_mu": 20.7599,
-      "prior_sigma": 3.856,
-      "prior_n": 3
+      "title": "Bordeaux",
+      "path": "europe/france/aquitaine/bordeaux",
+      "prior_score": 15.7755,
+      "prior_variance": 3.08944,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Azerbaijan",
-      "path": "europe/azerbaijan",
-      "prior_mu": 19.08,
-      "prior_sigma": 4.8543,
-      "prior_n": 2
+      "title": "Madrid",
+      "path": "europe/spain/madrid",
+      "prior_score": 18.1595,
+      "prior_variance": 6.308129,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Sadarak",
-      "path": "europe/azerbaijan/naxcivan/sadarak",
-      "prior_mu": 19.1742,
-      "prior_sigma": 4.8819,
-      "prior_n": 2
+      "title": "Helsinki",
+      "path": "europe/finland/helsinki",
+      "prior_score": 16.827,
+      "prior_variance": 6.67663,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Aqsu",
-      "path": "europe/azerbaijan/aqsu",
-      "prior_mu": 21.0174,
-      "prior_sigma": 4.3682,
-      "prior_n": 2
+      "title": "Yokohama",
+      "path": "asia/japan/honshu/yokohama",
+      "prior_score": 14.8474,
+      "prior_variance": 7.325174,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Mughan",
-      "path": "europe/azerbaijan/baku/mughan",
-      "prior_mu": 21.2734,
-      "prior_sigma": 4.6411,
-      "prior_n": 2
+      "title": "Dubai",
+      "path": "asia/unitedarabemirates/dubai",
+      "prior_score": 16.0834,
+      "prior_variance": 6.894087,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Goytepe",
-      "path": "europe/azerbaijan/goytepe",
-      "prior_mu": 19.5718,
-      "prior_sigma": 3.9813,
-      "prior_n": 3
+      "title": "Nelson Bays",
+      "path": "australiaandpacific/newzealand/south_island/nelson_bays",
+      "prior_score": 12.8906,
+      "prior_variance": 2.946382,
+      "prior_n": 1
     }
   ]
 }

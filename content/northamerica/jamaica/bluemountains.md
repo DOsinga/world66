@@ -5,7 +5,7 @@ done:
 latitude: 18.0558
 loc_type: city
 longitude: -76.5813
-score: 0.62
+score: 0.52
 title: Blue Mountains
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:King_Richard_III_Visitor_C
 latitude: 52.6362
 loc_type: city
 longitude: -1.1332
-score: 0.48
+score: 0.37
 title: Leicester
 type: location
 ---

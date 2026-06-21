@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/87153545@N00/316594665
 latitude: 29.203466
 loc_type: city
 longitude: 25.519227
-score: 0.58
+score: 0.5
 title: Siwa
 type: location
 ---

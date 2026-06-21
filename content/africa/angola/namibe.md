@@ -5,7 +5,7 @@ done:
 latitude: -15.266934
 loc_type: city
 longitude: 12.706456
-score: 0.33
+score: 0.28
 title: Namibe
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castello_esterno.jpg
 latitude: 44.8353
 loc_type: city
 longitude: 11.6197
-score: 0.63
+score: 0.55
 title: Ferrara
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 2585,
+  "timestamp": "2026-06-13T21:52:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Combarro",
+      "path": "europe/spain/galicia/combarro_village",
+      "prior_score": 2.4208,
+      "prior_variance": 0.164843,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baska",
+      "prior_score": 3.9056,
+      "prior_variance": 0.173059,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Asilah",
+      "path": "africa/morocco/asilah",
+      "prior_score": 3.6736,
+      "prior_variance": 0.211014,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Linlithgow",
+      "path": "europe/unitedkingdom/scotland/linlithgow",
+      "prior_score": 1.4815,
+      "prior_variance": 0.16244,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Mitad del Mundo",
+      "path": "southamerica/ecuador/mitad_del_mundo",
+      "prior_score": 2.9468,
+      "prior_variance": 0.192681,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Bikaner",
+      "path": "asia/india/rajasthan/bikaner",
+      "prior_score": 2.8152,
+      "prior_variance": 0.166505,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Glenridding",
+      "path": "europe/unitedkingdom/england/lakedistrict/glenridding",
+      "prior_score": 3.0128,
+      "prior_variance": 0.155269,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Bimini",
+      "path": "northamerica/bahamas/bimini",
+      "prior_score": 3.7412,
+      "prior_variance": 0.185883,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Carcross",
+      "path": "northamerica/canada/the_yukon_territory/carcross",
+      "prior_score": 0.7371,
+      "prior_variance": 0.147996,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Juist",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/juist",
+      "prior_score": -1.398,
+      "prior_variance": 0.182713,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_score": -0.3549,
+      "prior_variance": 0.16803,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Rupununi Savanna",
+      "path": "southamerica/guyana/rupununisavanna",
+      "prior_score": -0.4976,
+      "prior_variance": 0.161211,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Laval",
+      "path": "europe/france/centre/loirevalley/laval",
+      "prior_score": -1.0956,
+      "prior_variance": 0.163298,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Sawantwadi",
+      "path": "asia/india/maharashtra/sawantwadi",
+      "prior_score": -3.8365,
+      "prior_variance": 0.179197,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Arlon",
+      "path": "europe/belgium/arlon",
+      "prior_score": -1.7906,
+      "prior_variance": 0.159057,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Hampton Beach",
+      "path": "northamerica/unitedstates/newhampshire/hampton_beach",
+      "prior_score": -0.744,
+      "prior_variance": 0.156128,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Dessau",
+      "path": "europe/germany/saxonyanhalt/dessau",
+      "prior_score": -3.5914,
+      "prior_variance": 0.199696,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Oranienburg",
+      "path": "europe/germany/brandenburg/oranienburg",
+      "prior_score": -3.5345,
+      "prior_variance": 0.196628,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Kitwe",
+      "path": "africa/zambia/kitwe",
+      "prior_score": -5.8021,
+      "prior_variance": 0.189205,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/newhampshire/durham",
+      "prior_score": -3.8901,
+      "prior_variance": 0.186574,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Bolton",
+      "path": "northamerica/unitedstates/massachusetts/bolton",
+      "prior_score": -3.8126,
+      "prior_variance": 0.173427,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Kwajalein Atoll",
+      "path": "australiaandpacific/marshallislands/kwajaleinatoll",
+      "prior_score": -3.6745,
+      "prior_variance": 0.190247,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Nineveh",
+      "path": "asia/iraq/ninevah",
+      "prior_score": -5.864,
+      "prior_variance": 0.239726,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Semnan",
+      "path": "asia/iran/semnan",
+      "prior_score": -5.5903,
+      "prior_variance": 0.202746,
+      "prior_n": 8
+    }
+  ]
+}

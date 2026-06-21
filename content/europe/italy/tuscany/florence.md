@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:FlorenceSkyline.jpg
 latitude: 43.769796
 loc_type: city
 longitude: 11.25564
-score: 0.92
+score: 0.88
 title: Florence
 type: location
 ---

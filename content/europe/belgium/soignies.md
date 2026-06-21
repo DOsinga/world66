@@ -5,7 +5,7 @@ done:
 latitude: 50.579203
 loc_type: city
 longitude: 4.06856
-score: 0.39
+score: 0.33
 sources:
 - https://en.wikipedia.org/wiki/Soignies
 - https://en.wikipedia.org/wiki/Collegiate_Church_of_Saint-Vincent,_Soignies

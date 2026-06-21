@@ -5,7 +5,7 @@ done:
 latitude: 19.5438
 loc_type: city
 longitude: -96.9102
-score: 0.54
+score: 0.42
 title: Xalapa
 type: location
 ---

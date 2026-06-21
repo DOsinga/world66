@@ -5,7 +5,7 @@ done:
 latitude: 25.5299
 loc_type: city
 longitude: 78.6528
-score: 0.43
+score: 0.34
 title: Jhansi
 type: location
 image: jhansi.jpg

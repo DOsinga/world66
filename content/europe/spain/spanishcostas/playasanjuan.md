@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Teneriffa_-_Playa_San_Juan
 latitude: 28.1818
 loc_type: city
 longitude: -16.8168
-score: 0.48
+score: 0.42
 title: Playa San Juan
 type: location
 ---

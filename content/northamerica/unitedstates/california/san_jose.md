@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_San_Jose_Public_A
 latitude: 37.336166
 loc_type: city
 longitude: -121.890591
-score: 0.38
+score: 0.3
 title: San Jose
 type: location
 ---

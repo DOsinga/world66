@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Angola_Atlantic_coast.jpg
 latitude: -10.72791
 loc_type: city
 longitude: 13.757899
-score: 0.29
+score: 0.22
 sources:
 - https://en.wikipedia.org/wiki/Porto_Amboim
 title: Porto Amboim

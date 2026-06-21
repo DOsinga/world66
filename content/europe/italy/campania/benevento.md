@@ -10,7 +10,7 @@ image: benevento.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Arch_of_Trajan_(Benevento)_01.jpg
 image_license: CC0
 image_attribution: Bernard Gagnon
-score: 0.5
+score: 0.44
 loc_type: city
 ---
 

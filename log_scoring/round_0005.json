@@ -1,103 +1,199 @@
 {
   "round": 5,
-  "timestamp": "2026-04-11T15:39:58",
+  "timestamp": "2026-06-13T19:15:19",
   "model": "claude-sonnet-4-6",
-  "batch_size": 12,
+  "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Mal\u00e9",
-      "path": "asia/maldives/male_atoll/male",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Yasawa Islands",
+      "path": "australiaandpacific/fiji/yasawaislands",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Christ Church",
-      "path": "northamerica/barbados/christchurch",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Taveuni",
+      "path": "australiaandpacific/fiji/taveuni",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Pitigliano",
-      "path": "europe/italy/tuscany/pitigliano",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Breckenridge",
+      "path": "northamerica/unitedstates/colorado/breckenridge",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Hilltowns of the Savuto (Grimaldi, Malito, Aiello, etc.)",
-      "path": "europe/italy/calabria/hilltowns_of_the",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Picos de Europa",
+      "path": "europe/spain/northernspain/picosdeeuropa",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Bor\u00f0oy",
-      "path": "europe/faroeislands/bordoy",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Glendalough",
+      "path": "europe/ireland/glendalough",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Huntington Beach",
-      "path": "northamerica/unitedstates/california/orangecounty/huntingtonbeach",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Inverness",
+      "path": "europe/unitedkingdom/scotland/inverness",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Wia Wia Reserve",
-      "path": "southamerica/suriname/wiawiareserve",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Carloforte",
+      "path": "europe/italy/sardinia/isoladisanpietro/carloforte",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Soroca",
-      "path": "europe/moldova/soroca",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Trevi",
+      "path": "europe/italy/umbria/trevi",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Broken Bow",
-      "path": "northamerica/unitedstates/oklahoma/broken_bow",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Mendocino",
+      "path": "northamerica/unitedstates/california/northcoast/mendocino",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Ratingen",
-      "path": "europe/germany/northrhinewestphalia/ratingen",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Zagora",
+      "path": "africa/morocco/zagora",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Red Bluff",
-      "path": "northamerica/unitedstates/california/shastacascade/redbluff",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Tibbi Qaisrani",
-      "path": "asia/pakistan/dera_ghazi_khan/tibbi_qaisrani",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Van",
+      "path": "asia/turkey/van",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Bormida",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bormida",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Bighorn Canyon",
+      "path": "northamerica/unitedstates/montana/bighorncanyon",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Drammen",
+      "path": "europe/norway/drammen",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Regina",
+      "path": "northamerica/canada/saskatchewan/regina",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Ely",
+      "path": "northamerica/unitedstates/nevada/ely",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Todmorden",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/todmorden",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Cookstown",
+      "path": "europe/unitedkingdom/northernireland/cookstown",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Quemado",
+      "path": "northamerica/unitedstates/newmexico/quemado",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Fairfax",
+      "path": "northamerica/unitedstates/oklahoma/fairfax",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Gujrat",
+      "path": "asia/pakistan/gujrat",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     }
   ]

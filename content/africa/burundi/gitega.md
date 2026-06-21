@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Burundi.Gitega_36.jpg
 latitude: -3.4264
 loc_type: city
 longitude: 29.9246
-score: 0.26
+score: 0.2
 title: Gitega
 type: location
 ---

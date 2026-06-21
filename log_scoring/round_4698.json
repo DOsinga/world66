@@ -1,0 +1,200 @@
+{
+  "round": 4698,
+  "timestamp": "2026-06-14T00:34:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maastricht",
+      "path": "europe/netherlands/maastricht",
+      "prior_score": 3.9644,
+      "prior_variance": 0.114119,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Alishan",
+      "path": "asia/taiwan/alishan",
+      "prior_score": 4.6423,
+      "prior_variance": 0.09906,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Santiago de Cuba",
+      "path": "northamerica/thecaribbean/cuba/santiagodecuba",
+      "prior_score": 2.2277,
+      "prior_variance": 0.090152,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Puerto del Carmen",
+      "path": "europe/spain/canaryislands/lanzarote/puertodelcarmen",
+      "prior_score": 3.7324,
+      "prior_variance": 0.09212,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "S'Arenal",
+      "path": "europe/spain/balearicislands/mallorca/arenal",
+      "prior_score": 1.9666,
+      "prior_variance": 0.089351,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Wittenberg",
+      "path": "europe/germany/brandenburg/wittenberg",
+      "prior_score": 0.1125,
+      "prior_variance": 0.100499,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Brodick",
+      "path": "europe/unitedkingdom/scotland/arran/brodick",
+      "prior_score": 1.8275,
+      "prior_variance": 0.084727,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Blumenau",
+      "path": "southamerica/brazil/blumenal",
+      "prior_score": 0.2248,
+      "prior_variance": 0.099607,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_score": 1.1764,
+      "prior_variance": 0.086999,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Shkoder",
+      "path": "europe/albania/shkoder",
+      "prior_score": 0.8317,
+      "prior_variance": 0.085138,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Silent Valley National Park",
+      "path": "asia/india/kerala/silent_valley_national_park",
+      "prior_score": 0.8668,
+      "prior_variance": 0.09109,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Cesis",
+      "path": "europe/latvia/cesis",
+      "prior_score": 1.2951,
+      "prior_variance": 0.077863,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Ordino",
+      "path": "europe/andorra/ordino",
+      "prior_score": 2.0119,
+      "prior_variance": 0.094585,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Kampong Cham",
+      "path": "asia/cambodia/kampongcham",
+      "prior_score": -0.6014,
+      "prior_variance": 0.084221,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Kuantan",
+      "path": "asia/malaysia/kuantan",
+      "prior_score": -0.3017,
+      "prior_variance": 0.081675,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Corning",
+      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes/corning",
+      "prior_score": -1.1158,
+      "prior_variance": 0.093071,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Ezulwini Valley",
+      "path": "africa/swaziland/ezulwinivalley",
+      "prior_score": -0.0856,
+      "prior_variance": 0.086027,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_score": 0.5533,
+      "prior_variance": 0.09512,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Ein Hod",
+      "path": "asia/israel/ein_hod",
+      "prior_score": 0.0097,
+      "prior_variance": 0.084425,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Oostende",
+      "path": "europe/belgium/oostende",
+      "prior_score": 0.9862,
+      "prior_variance": 0.090331,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Shobak",
+      "path": "asia/jordan/shobak",
+      "prior_score": -0.6402,
+      "prior_variance": 0.146302,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_score": -0.7072,
+      "prior_variance": 0.081997,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Kapisillit",
+      "path": "northamerica/greenland/kapisillit",
+      "prior_score": -3.9545,
+      "prior_variance": 0.137145,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Orel",
+      "path": "europe/russia/orel",
+      "prior_score": -4.7079,
+      "prior_variance": 0.108913,
+      "prior_n": 15
+    }
+  ]
+}

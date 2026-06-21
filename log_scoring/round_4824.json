@@ -1,0 +1,200 @@
+{
+  "round": 4824,
+  "timestamp": "2026-06-14T00:44:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Baquerizo Moreno",
+      "path": "southamerica/ecuador/galapagosislands/puerto_baquerizo_moreno",
+      "prior_score": 8.1098,
+      "prior_variance": 0.156504,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Funchal",
+      "path": "europe/portugal/funchal",
+      "prior_score": 5.8577,
+      "prior_variance": 0.104714,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Todos Santos",
+      "path": "northamerica/mexico/todos_santos",
+      "prior_score": 2.289,
+      "prior_variance": 0.085482,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "St. Simons Island",
+      "path": "northamerica/unitedstates/georgia/stsimonsisland",
+      "prior_score": 0.6139,
+      "prior_variance": 0.089714,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Ja\u00e9n",
+      "path": "europe/spain/andalucia/jaen",
+      "prior_score": 0.3517,
+      "prior_variance": 0.089089,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Ferghana Valley",
+      "path": "asia/uzbekistan/ferghanavalley",
+      "prior_score": -0.4562,
+      "prior_variance": 0.085543,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Unst",
+      "path": "europe/unitedkingdom/scotland/shetland/unst",
+      "prior_score": -0.1475,
+      "prior_variance": 0.085565,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Mataram",
+      "path": "asia/indonesia/lombok/mataram",
+      "prior_score": 0.1877,
+      "prior_variance": 0.08268,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Bandiagara",
+      "path": "africa/mali/dogoncountry/bandiagara",
+      "prior_score": -1.1262,
+      "prior_variance": 0.104881,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Kruje",
+      "path": "europe/albania/kruje",
+      "prior_score": 0.6432,
+      "prior_variance": 0.084554,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Castro Marim",
+      "path": "europe/portugal/castro_marim",
+      "prior_score": 0.8703,
+      "prior_variance": 0.077318,
+      "prior_n": 17
+    },
+    {
+      "rank": 12,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/eastern_england/norwich",
+      "prior_score": 0.1401,
+      "prior_variance": 0.091729,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Silkeborg",
+      "path": "europe/denmark/silkeborg",
+      "prior_score": 1.199,
+      "prior_variance": 0.092858,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Kolding",
+      "path": "europe/denmark/kolding",
+      "prior_score": 0.6701,
+      "prior_variance": 0.081208,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Bremgarten",
+      "path": "europe/switzerland/bremgarten",
+      "prior_score": -0.5968,
+      "prior_variance": 0.078635,
+      "prior_n": 17
+    },
+    {
+      "rank": 16,
+      "title": "St. Omer",
+      "path": "europe/france/nord/stomer",
+      "prior_score": -1.1504,
+      "prior_variance": 0.083877,
+      "prior_n": 17
+    },
+    {
+      "rank": 17,
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_score": -3.9827,
+      "prior_variance": 0.103875,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Leighlinbridge",
+      "path": "europe/ireland/carlow/leighlinbridge",
+      "prior_score": -2.4059,
+      "prior_variance": 0.094325,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Colima",
+      "path": "northamerica/mexico/colima",
+      "prior_score": -2.3366,
+      "prior_variance": 0.09283,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Bellows Falls",
+      "path": "northamerica/unitedstates/vermont/bellowsfalls",
+      "prior_score": -2.7474,
+      "prior_variance": 0.097852,
+      "prior_n": 17
+    },
+    {
+      "rank": 21,
+      "title": "Oroville",
+      "path": "northamerica/unitedstates/california/shastacascade/oroville",
+      "prior_score": -3.8904,
+      "prior_variance": 0.09463,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Siaya Town",
+      "path": "africa/kenya/luo_nyanza/siaya_town",
+      "prior_score": -6.4995,
+      "prior_variance": 0.119803,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Cold Lake",
+      "path": "northamerica/canada/alberta/coldlake",
+      "prior_score": -4.6519,
+      "prior_variance": 0.102387,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Degerfors",
+      "path": "europe/sweden/degerfors",
+      "prior_score": -5.1738,
+      "prior_variance": 0.101123,
+      "prior_n": 15
+    }
+  ]
+}

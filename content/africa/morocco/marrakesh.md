@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arabian_shepherd_selling_s
 latitude: 31.625826
 loc_type: city
 longitude: -7.989161
-score: 0.77
+score: 0.71
 title: Marrakesh
 type: location
 ---

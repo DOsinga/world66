@@ -1,0 +1,200 @@
+{
+  "round": 3869,
+  "timestamp": "2026-06-13T23:26:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Abaco",
+      "path": "northamerica/bahamas/abaco",
+      "prior_score": 4.2046,
+      "prior_variance": 0.110621,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Brac",
+      "path": "europe/croatia/brac",
+      "prior_score": 4.2993,
+      "prior_variance": 0.141039,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Dra\u010de",
+      "path": "europe/croatia/peljesac/drace",
+      "prior_score": 1.7327,
+      "prior_variance": 0.111346,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Belitung",
+      "path": "asia/indonesia/belitung",
+      "prior_score": 2.6841,
+      "prior_variance": 0.142126,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Karakul Lake",
+      "path": "asia/china/xinjiangprovince/karakullake",
+      "prior_score": 1.4972,
+      "prior_variance": 0.114723,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Aba (Ngawa)",
+      "path": "asia/china/sichuanprovince/aba",
+      "prior_score": -1.2521,
+      "prior_variance": 0.115099,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Alkmaar",
+      "path": "europe/netherlands/alkmaar",
+      "prior_score": 2.9052,
+      "prior_variance": 0.104355,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/south_east/chichester",
+      "prior_score": 1.6413,
+      "prior_variance": 0.128276,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Brendon and Oare",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/brendon_and_oare",
+      "prior_score": -0.0559,
+      "prior_variance": 0.104074,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Princetown",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/princetown",
+      "prior_score": -0.5046,
+      "prior_variance": 0.117929,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Woods Hole",
+      "path": "northamerica/unitedstates/massachusetts/woods_hole",
+      "prior_score": -1.5062,
+      "prior_variance": 0.107659,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Albuquerque",
+      "path": "northamerica/unitedstates/newmexico/albuquerque",
+      "prior_score": 1.885,
+      "prior_variance": 0.128612,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Ch\u00e2lons-en-Champagne",
+      "path": "europe/france/east/champagne/chalonssurmarne",
+      "prior_score": -1.1203,
+      "prior_variance": 0.100192,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Altare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/altare",
+      "prior_score": -2.8663,
+      "prior_variance": 0.132618,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Algeciras",
+      "path": "europe/spain/andalucia/algeciras",
+      "prior_score": -1.6067,
+      "prior_variance": 0.130174,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Buffalo",
+      "path": "northamerica/unitedstates/newyorkstate/buffalo",
+      "prior_score": -1.1183,
+      "prior_variance": 0.107721,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Richmond",
+      "path": "northamerica/canada/britishcolumbia/richmond",
+      "prior_score": -2.218,
+      "prior_variance": 0.103598,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/wyoming/saratoga",
+      "prior_score": -2.973,
+      "prior_variance": 0.105937,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Vila Velha",
+      "path": "southamerica/brazil/vilavelha",
+      "prior_score": -2.6892,
+      "prior_variance": 0.097469,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Kulgam",
+      "path": "asia/india/jammuandkashmir/kulgam",
+      "prior_score": -6.1466,
+      "prior_variance": 0.126869,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "R\u00edo Branco",
+      "path": "southamerica/uruguay/rio_branco_urugua",
+      "prior_score": -6.0198,
+      "prior_variance": 0.155091,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Enid",
+      "path": "northamerica/unitedstates/oklahoma/enid",
+      "prior_score": -5.083,
+      "prior_variance": 0.135409,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Qasr Libya",
+      "path": "africa/libya/qasr_libya",
+      "prior_score": -6.0709,
+      "prior_variance": 0.145219,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Erbent",
+      "path": "asia/turkmenistan/erbent",
+      "prior_score": -9.2559,
+      "prior_variance": 0.266716,
+      "prior_n": 12
+    }
+  ]
+}

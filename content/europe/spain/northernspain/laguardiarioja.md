@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Guardia_airetik2.jpg
 latitude: 42.544151
 loc_type: city
 longitude: -2.545422
-score: 0.55
+score: 0.49
 title: Laguardia
 type: location
 ---

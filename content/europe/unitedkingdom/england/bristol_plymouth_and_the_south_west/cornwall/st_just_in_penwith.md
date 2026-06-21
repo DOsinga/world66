@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Just_in_Penwith_-_geogr
 latitude: 50.124369
 loc_type: city
 longitude: -5.679704
-score: 0.53
+score: 0.43
 title: St Just in Penwith
 type: location
 ---

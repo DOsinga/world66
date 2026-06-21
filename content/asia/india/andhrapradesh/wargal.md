@@ -6,7 +6,7 @@ done:
 latitude: 17.7748
 loc_type: city
 longitude: 78.6166
-score: 0.27
+score: 0.22
 title: Wargal
 type: location
 ---

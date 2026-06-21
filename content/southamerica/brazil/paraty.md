@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Paraty_05.JPG
 latitude: -23.2196
 loc_type: city
 longitude: -44.7154
-score: 0.65
+score: 0.59
 title: Paraty
 type: location
 ---

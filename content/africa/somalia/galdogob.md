@@ -5,7 +5,7 @@ done:
 latitude: 7.048863
 loc_type: city
 longitude: 47.206094
-score: 0.16
+score: 0.1
 title: Galdogob
 type: location
 ---

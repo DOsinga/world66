@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fuerte_de_San_Crist%C3%B3b
 latitude: 14.5886
 loc_type: city
 longitude: -88.5822
-score: 0.43
+score: 0.39
 title: Gracias
 type: location
 ---

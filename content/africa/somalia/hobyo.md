@@ -5,7 +5,7 @@ done:
 latitude: 5.859166
 loc_type: city
 longitude: 48.25409
-score: 0.14
+score: 0.05
 title: Hobyo
 type: location
 ---

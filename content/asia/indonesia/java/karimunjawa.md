@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/43797599@N05/4149524346
 latitude: -5.8796
 loc_type: city
 longitude: 110.4329
-score: 0.58
+score: 0.51
 title: Karimunjawa
 type: location
 ---

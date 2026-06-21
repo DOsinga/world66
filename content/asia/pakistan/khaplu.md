@@ -5,7 +5,7 @@ done:
 latitude: 35.163499
 loc_type: city
 longitude: 76.344152
-score: 0.49
+score: 0.36
 title: Khaplu
 type: location
 ---

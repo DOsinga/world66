@@ -5,7 +5,7 @@ done:
 latitude: 23.1885
 loc_type: city
 longitude: 75.7717
-score: 0.5
+score: 0.45
 title: Ujjain
 type: location
 image: ujjain.jpg

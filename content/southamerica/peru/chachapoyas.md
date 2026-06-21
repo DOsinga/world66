@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kuelap_P7171324mod.jpg
 latitude: -6.2316
 loc_type: city
 longitude: -77.8689
-score: 0.59
+score: 0.5
 title: Chachapoyas
 type: location
 ---

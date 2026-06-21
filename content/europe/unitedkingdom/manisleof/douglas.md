@@ -5,7 +5,7 @@ done:
 latitude: 54.1509
 loc_type: city
 longitude: -4.4806
-score: 0.5
+score: 0.42
 title: Douglas
 type: location
 ---

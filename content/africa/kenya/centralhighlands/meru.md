@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/78368745@N00/3213868688
 latitude: 0.0464
 loc_type: city
 longitude: 37.6559
-score: 0.44
+score: 0.37
 title: Meru
 type: location
 ---

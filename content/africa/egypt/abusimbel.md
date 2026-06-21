@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 22.33712
 longitude: 31.625797
-score: 0.75
+score: 0.68
 title: Abu Simbel
 type: location
 loc_type: feature

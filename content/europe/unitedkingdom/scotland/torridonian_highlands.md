@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 57.75
 longitude: -5.5
-score: 0.6
+score: 0.49
 title: Torridonian Highlands
 type: location
 loc_type: feature

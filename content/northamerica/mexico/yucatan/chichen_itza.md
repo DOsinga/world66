@@ -5,7 +5,7 @@ latitude: 20.682852
 longitude: -88.56872
 title: Chichen Itza
 type: location
-score: 0.78
+score: 0.69
 loc_type: feature
 ---
 

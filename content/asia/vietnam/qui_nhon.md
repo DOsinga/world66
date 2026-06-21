@@ -4,7 +4,7 @@ done:
 latitude: 13.7729
 loc_type: city
 longitude: 109.2194
-score: 0.52
+score: 0.41
 title: Qui Nhon
 type: location
 image: qui_nhon.jpg

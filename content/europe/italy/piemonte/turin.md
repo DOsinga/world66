@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_basilica_al_tramonto.jp
 latitude: 45.0678
 loc_type: city
 longitude: 7.6825
-score: 0.68
+score: 0.6
 title: Turin
 type: location
 ---

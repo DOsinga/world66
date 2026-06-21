@@ -5,7 +5,7 @@ done:
 latitude: 50.855098
 loc_type: city
 longitude: 0.582178
-score: 0.5
+score: 0.41
 title: Hastings
 type: location
 ---

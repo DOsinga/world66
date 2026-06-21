@@ -6,7 +6,7 @@ latitude: 42.269867
 longitude: 27.750618
 title: Primorsko
 type: location
-score: 0.48
+score: 0.43
 loc_type: city
 ---
 

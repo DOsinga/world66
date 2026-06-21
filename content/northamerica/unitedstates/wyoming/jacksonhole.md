@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Barns_grand_tetons.jpg
 latitude: 43.4799
 loc_type: city
 longitude: -110.7624
-score: 0.72
+score: 0.64
 title: Jackson Hole
 type: location
 ---

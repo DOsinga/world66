@@ -5,7 +5,7 @@ done:
 latitude: 38.58
 loc_type: city
 longitude: 125.27
-score: 0.19
+score: 0.13
 title: Kuwolsan
 type: location
 ---

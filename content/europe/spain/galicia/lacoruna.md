@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento,_La_Coru%C3%B
 latitude: 43.37097
 loc_type: city
 longitude: -8.395943
-score: 0.57
+score: 0.49
 title: La Coruña
 type: location
 ---

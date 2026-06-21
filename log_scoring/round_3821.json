@@ -1,0 +1,200 @@
+{
+  "round": 3821,
+  "timestamp": "2026-06-13T23:22:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Siem Reap",
+      "path": "asia/cambodia/siemreap",
+      "prior_score": 9.2963,
+      "prior_variance": 0.319405,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Sossusvlei",
+      "path": "africa/namibia/sossusvlei",
+      "prior_score": 6.1355,
+      "prior_variance": 0.137485,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Tayrona National Park",
+      "path": "southamerica/colombia/tayrona",
+      "prior_score": 7.6142,
+      "prior_variance": 0.153905,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey/bigsur",
+      "prior_score": 8.3295,
+      "prior_variance": 0.206073,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Siracusa",
+      "path": "europe/italy/sicily/siracusa",
+      "prior_score": 8.1099,
+      "prior_variance": 0.1808,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Gozo",
+      "path": "europe/malta/gozo",
+      "prior_score": 5.6023,
+      "prior_variance": 0.130172,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Los Roques",
+      "path": "southamerica/venezuela/los_roques",
+      "prior_score": 4.2877,
+      "prior_variance": 0.142097,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Kata",
+      "path": "asia/thailand/phuket/kata",
+      "prior_score": 5.7795,
+      "prior_variance": 0.138424,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Eilat",
+      "path": "asia/israel/eilat",
+      "prior_score": 3.7794,
+      "prior_variance": 0.113735,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Guanica",
+      "path": "northamerica/thecaribbean/puertorico/guanica",
+      "prior_score": 0.846,
+      "prior_variance": 0.110194,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Mantua",
+      "path": "europe/italy/lombardia/mantua",
+      "prior_score": 5.1996,
+      "prior_variance": 0.15548,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Bari",
+      "path": "europe/italy/puglia/bari",
+      "prior_score": 4.1946,
+      "prior_variance": 0.118443,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Taichung",
+      "path": "asia/taiwan/taichung",
+      "prior_score": 2.5739,
+      "prior_variance": 0.118055,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Lochinver",
+      "path": "europe/unitedkingdom/scotland/lochinver",
+      "prior_score": 1.0337,
+      "prior_variance": 0.095712,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Hormuz Island",
+      "path": "asia/iran/hormuz_island",
+      "prior_score": 0.6897,
+      "prior_variance": 0.103165,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Arnhem",
+      "path": "europe/netherlands/arnhem",
+      "prior_score": 0.0486,
+      "prior_variance": 0.104374,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Namur",
+      "path": "europe/belgium/namur",
+      "prior_score": 1.4462,
+      "prior_variance": 0.116343,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Limburg an der Lahn",
+      "path": "europe/germany/hessen/limburg",
+      "prior_score": 0.7858,
+      "prior_variance": 0.105879,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Panjin",
+      "path": "asia/china/liaoning/panjin",
+      "prior_score": -2.3075,
+      "prior_variance": 0.11058,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "El Malpais",
+      "path": "northamerica/unitedstates/newmexico/elmapais",
+      "prior_score": -0.3009,
+      "prior_variance": 0.122908,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Tanjay",
+      "path": "asia/philippines/negrosisland/tanjay",
+      "prior_score": -4.4421,
+      "prior_variance": 0.125334,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Landau",
+      "path": "europe/germany/rhinelandpalatinate/landau",
+      "prior_score": -0.429,
+      "prior_variance": 0.106524,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Beichuan",
+      "path": "asia/china/sichuanprovince/beichuan",
+      "prior_score": -3.3827,
+      "prior_variance": 0.122508,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Oakdale",
+      "path": "northamerica/unitedstates/california/oakdale",
+      "prior_score": -4.694,
+      "prior_variance": 0.135837,
+      "prior_n": 12
+    }
+  ]
+}

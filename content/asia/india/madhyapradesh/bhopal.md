@@ -6,7 +6,7 @@ done:
 latitude: 23.258486
 loc_type: city
 longitude: 77.401989
-score: 0.39
+score: 0.37
 title: Bhopal
 type: location
 ---

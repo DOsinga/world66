@@ -6,7 +6,7 @@ image: ''
 latitude: 50.795207
 loc_type: city
 longitude: -1.121085
-score: 0.36
+score: 0.29
 sources:
 - https://en.wikipedia.org/wiki/Royal_Navy_Submarine_Museum
 - https://en.wikipedia.org/wiki/Royal_Hospital_Haslar

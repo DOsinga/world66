@@ -5,7 +5,7 @@ done:
 latitude: 30.326225
 loc_type: city
 longitude: -81.657918
-score: 0.4
+score: 0.33
 title: Jacksonville
 type: location
 ---

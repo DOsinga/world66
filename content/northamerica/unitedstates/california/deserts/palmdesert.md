@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Paseo_(Palm_Desert)_01.
 latitude: 33.7228
 loc_type: city
 longitude: -116.3826
-score: 0.46
+score: 0.38
 title: Palm Desert
 type: location
 ---

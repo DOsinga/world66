@@ -1,0 +1,200 @@
+{
+  "round": 2930,
+  "timestamp": "2026-06-13T22:17:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moulay Idriss",
+      "path": "africa/morocco/moulayidriss",
+      "prior_score": 2.3168,
+      "prior_variance": 0.153483,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Dehang",
+      "path": "asia/china/hunan/dehang",
+      "prior_score": -0.6583,
+      "prior_variance": 0.16013,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Zuma Rock",
+      "path": "africa/nigeria/zumarock",
+      "prior_score": -3.1601,
+      "prior_variance": 0.161293,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Karnala",
+      "path": "asia/india/maharashtra/karnala",
+      "prior_score": -3.3963,
+      "prior_variance": 0.183887,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Petrozavodsk",
+      "path": "europe/russia/karelia/petrozavodsk",
+      "prior_score": -3.2861,
+      "prior_variance": 0.220468,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Shishkat",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/shishkat_gojal",
+      "prior_score": -4.2743,
+      "prior_variance": 0.183603,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Tingambato",
+      "path": "northamerica/mexico/tingambato",
+      "prior_score": -3.2183,
+      "prior_variance": 0.146825,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Taiyuan",
+      "path": "asia/china/shanxiprovince/taiyuan",
+      "prior_score": -2.6132,
+      "prior_variance": 0.124264,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Foshan",
+      "path": "asia/china/guangdong/foshan",
+      "prior_score": -3.9158,
+      "prior_variance": 0.144119,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Xianyang",
+      "path": "asia/china/shaanxi/xianyang",
+      "prior_score": -2.5164,
+      "prior_variance": 0.154814,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Annaba",
+      "path": "africa/algeria/annaba",
+      "prior_score": -3.0443,
+      "prior_variance": 0.136559,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/chile/concepcion",
+      "prior_score": -2.7956,
+      "prior_variance": 0.190842,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Armidale",
+      "path": "australiaandpacific/australia/newsouthwales/armidale",
+      "prior_score": -2.0842,
+      "prior_variance": 0.139359,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Macon",
+      "path": "northamerica/unitedstates/georgia/macon",
+      "prior_score": -2.6293,
+      "prior_variance": 0.164368,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "North Bay",
+      "path": "northamerica/canada/ontario/north_bay",
+      "prior_score": -3.2013,
+      "prior_variance": 0.14956,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/california/arcadia",
+      "prior_score": -3.0157,
+      "prior_variance": 0.137149,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Hallowell",
+      "path": "northamerica/unitedstates/maine/hallowell",
+      "prior_score": -2.8979,
+      "prior_variance": 0.144036,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Cathlamet",
+      "path": "northamerica/unitedstates/washington/cathlamet",
+      "prior_score": -4.5744,
+      "prior_variance": 0.150592,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Kitsap County",
+      "path": "northamerica/unitedstates/washington/kitsap_county",
+      "prior_score": -2.6688,
+      "prior_variance": 0.161417,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Oberhausen",
+      "path": "europe/germany/northrhinewestphalia/oberhausen",
+      "prior_score": -4.0172,
+      "prior_variance": 0.184628,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Velika Gorica",
+      "path": "europe/croatia/velikagorica",
+      "prior_score": -3.356,
+      "prior_variance": 0.15124,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Freehold",
+      "path": "northamerica/unitedstates/newjersey/freehold",
+      "prior_score": -4.1016,
+      "prior_variance": 0.173905,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Chelyabinsk",
+      "path": "europe/russia/ural/south_ural/chelyabinsk",
+      "prior_score": -5.3699,
+      "prior_variance": 0.22501,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Mahdishar",
+      "path": "asia/iran/mahdishar",
+      "prior_score": -9.2829,
+      "prior_variance": 0.279894,
+      "prior_n": 9
+    }
+  ]
+}

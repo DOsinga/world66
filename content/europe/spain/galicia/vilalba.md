@@ -5,7 +5,7 @@ done:
 latitude: 43.2963
 loc_type: city
 longitude: -7.6788
-score: 0.4
+score: 0.33
 title: Vilalba
 type: location
 ---

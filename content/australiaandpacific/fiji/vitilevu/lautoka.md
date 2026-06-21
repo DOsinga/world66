@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lautoka-Vitogo-Parade.jpg
 latitude: -17.604606
 loc_type: city
 longitude: 177.448277
-score: 0.51
+score: 0.44
 title: Lautoka
 type: location
 ---

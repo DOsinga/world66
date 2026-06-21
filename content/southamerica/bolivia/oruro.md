@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:El_carnaval_de_Oruro_2.jpg
 latitude: -17.9644
 loc_type: city
 longitude: -67.1131
-score: 0.46
+score: 0.43
 title: Oruro
 type: location
 ---

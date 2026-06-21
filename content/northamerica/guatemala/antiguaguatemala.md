@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Antigua_Guatemala
 title: Antigua Guatemala
 type: location
+score: 0.62
 ---
 
 Antigua Guatemala is the most complete surviving colonial city in Central America, and one of the best-preserved in the hemisphere. Founded in 1543 as the capital of Spanish Guatemala, it was shattered by earthquakes in 1773 and never fully rebuilt — which is the reason it looks the way it does today: an extraordinary grid of streets lined with ochre and terracotta facades, ruined convents open to the sky, and baroque churches whose façades were rebuilt while their naves stand roofless behind them. In 1979 UNESCO listed it as a World Heritage Site.

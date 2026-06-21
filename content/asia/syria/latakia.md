@@ -5,7 +5,7 @@ done:
 latitude: 35.5799
 loc_type: city
 longitude: 35.9773
-score: 0.27
+score: 0.25
 title: Latakia
 type: location
 ---

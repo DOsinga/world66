@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/22490717@N02/2216830855
 latitude: 31.183
 loc_type: city
 longitude: 35.7012
-score: 0.51
+score: 0.4
 title: Karak
 type: location
 ---

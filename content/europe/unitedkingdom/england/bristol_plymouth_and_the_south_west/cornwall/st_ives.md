@@ -5,7 +5,7 @@ done:
 latitude: 50.214906
 loc_type: city
 longitude: -5.479508
-score: 0.61
+score: 0.56
 title: St Ives
 type: location
 image: st_ives.jpg

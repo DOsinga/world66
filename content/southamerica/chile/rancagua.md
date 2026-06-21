@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chile,_Rancagua,_Gobierno_
 latitude: -34.170243
 loc_type: city
 longitude: -70.740718
-score: 0.39
+score: 0.33
 title: Rancagua
 type: location
 ---

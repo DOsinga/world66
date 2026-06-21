@@ -1,0 +1,200 @@
+{
+  "round": 3349,
+  "timestamp": "2026-06-13T22:47:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Venice",
+      "path": "europe/italy/veneto/venice",
+      "prior_score": 18.263,
+      "prior_variance": 1.271255,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Grindelwald",
+      "path": "europe/switzerland/grindelwald",
+      "prior_score": 11.4175,
+      "prior_variance": 0.362004,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Reykjavik",
+      "path": "europe/iceland/reykjavik",
+      "prior_score": 10.7521,
+      "prior_variance": 0.27602,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Jaipur",
+      "path": "asia/india/rajasthan/jaipur",
+      "prior_score": 8.97,
+      "prior_variance": 0.283161,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Guanajuato",
+      "path": "northamerica/mexico/guanajuato",
+      "prior_score": 8.7243,
+      "prior_variance": 0.217219,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Paro",
+      "path": "asia/bhutan/paro",
+      "prior_score": 8.0802,
+      "prior_variance": 0.220962,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Shanghai",
+      "path": "asia/china/shanghai",
+      "prior_score": 8.5997,
+      "prior_variance": 0.195295,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Bukhara",
+      "path": "asia/uzbekistan/bukhara",
+      "prior_score": 7.226,
+      "prior_variance": 0.22407,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Tulum",
+      "path": "northamerica/mexico/tulum",
+      "prior_score": 8.6818,
+      "prior_variance": 0.210619,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Lalitpur (Patan)",
+      "path": "asia/nepal/lalitpur",
+      "prior_score": 4.1215,
+      "prior_variance": 0.159879,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Pienza",
+      "path": "europe/italy/tuscany/pienza",
+      "prior_score": 5.8121,
+      "prior_variance": 0.173483,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Riga",
+      "path": "europe/latvia/riga",
+      "prior_score": 6.3908,
+      "prior_variance": 0.177216,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Glencoe",
+      "path": "europe/unitedkingdom/scotland/glencoe",
+      "prior_score": 7.6505,
+      "prior_variance": 0.218879,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Honfleur",
+      "path": "europe/france/normandybrittany/honfleur",
+      "prior_score": 5.386,
+      "prior_variance": 0.167495,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/eastern_england/cambridge",
+      "prior_score": 7.2016,
+      "prior_variance": 0.185361,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Tobago",
+      "path": "northamerica/trinidadandtobago/tobago",
+      "prior_score": 5.4345,
+      "prior_variance": 0.14802,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "St. John's",
+      "path": "northamerica/antiguaandbarbuda/stjohns",
+      "prior_score": 3.9463,
+      "prior_variance": 0.126809,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Pe\u00f1\u00edscola",
+      "path": "europe/spain/castellon/peniscola",
+      "prior_score": 3.1724,
+      "prior_variance": 0.117649,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Albufeira",
+      "path": "europe/portugal/algarve/albufeira",
+      "prior_score": 5.3178,
+      "prior_variance": 0.143131,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Rochester",
+      "path": "europe/unitedkingdom/england/south_east/rochester",
+      "prior_score": 0.636,
+      "prior_variance": 0.12873,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "R\u00f6ttingen",
+      "path": "europe/germany/bavaria/romanticroad/rttingen",
+      "prior_score": 0.4362,
+      "prior_variance": 0.132201,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Corumb\u00e1",
+      "path": "southamerica/brazil/corumb",
+      "prior_score": -1.8752,
+      "prior_variance": 0.148425,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Port Adelaide",
+      "path": "australiaandpacific/australia/southaustralia/portadelaide",
+      "prior_score": -2.6984,
+      "prior_variance": 0.109991,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_score": -2.1605,
+      "prior_variance": 0.125074,
+      "prior_n": 11
+    }
+  ]
+}

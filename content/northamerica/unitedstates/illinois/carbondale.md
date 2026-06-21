@@ -5,7 +5,7 @@ done:
 latitude: 37.7275
 loc_type: city
 longitude: -89.2167
-score: 0.37
+score: 0.29
 title: Carbondale
 type: location
 image: carbondale.jpg

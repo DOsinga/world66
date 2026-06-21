@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Yan%27an
 title: Yan'an
 type: location
+score: 0.33
 ---
 
 Yan'an is where the Chinese Communist Party came to rest after the Long March and where, between 1935 and 1948, it rebuilt itself into the organisation that would take power over all of China. Mao Zedong lived here in a cave dwelling. The Seventh Party Congress was held here. The doctrines that became Maoism were developed, argued over, and codified here. For Chinese visitors, particularly officials undergoing "patriotic education," Yan'an is a place of pilgrimage second in importance only to Mao's birthplace in Shaoshan. The scale of the commemoration — museums, pagoda, preserved residences, propaganda monuments — is impressive regardless of your politics.

@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-10'
 title: Business Hours
 type: location
-score: 0.22
+score: 0.15
 loc_type: feature
 ---
 

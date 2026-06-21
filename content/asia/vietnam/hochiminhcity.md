@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City_panorama_
 latitude: 10.775525
 loc_type: city
 longitude: 106.702105
-score: 0.65
+score: 0.59
 title: Ho Chi Minh City
 type: location
 ---

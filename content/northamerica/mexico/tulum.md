@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caribbean_near_Tulum.jpg
 latitude: 20.2114
 loc_type: city
 longitude: -87.4654
-score: 0.69
+score: 0.66
 title: Tulum
 type: location
 ---

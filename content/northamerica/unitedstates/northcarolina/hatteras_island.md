@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hatteras_Island_ocean_view
 latitude: 35.4849
 loc_type: city
 longitude: -75.4806
-score: 0.54
+score: 0.49
 title: Hatteras Island
 type: location
 ---

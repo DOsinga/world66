@@ -5,7 +5,7 @@ latitude: -29.2697
 longitude: 29.5314
 title: Giant's Castle
 type: location
-score: 0.6
+score: 0.51
 loc_type: feature
 ---
 

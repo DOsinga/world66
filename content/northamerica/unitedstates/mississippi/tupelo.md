@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-14'
 latitude: 34.257607
 longitude: -88.703386
-score: 0.42
+score: 0.35
 title: Tupelo
 type: location
 loc_type: city

@@ -1,200 +1,200 @@
 {
   "round": 625,
-  "timestamp": "2026-04-12T10:40:25",
+  "timestamp": "2026-06-13T19:45:35",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Coniston",
-      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/coniston_1",
-      "prior_mu": 22.5882,
-      "prior_sigma": 5.9094,
-      "prior_n": 1
+      "title": "Odessa",
+      "path": "europe/ukraine/odessa",
+      "prior_score": -0.2919,
+      "prior_variance": 1.023365,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Zennor",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/zennor",
-      "prior_mu": 22.5346,
-      "prior_sigma": 5.2722,
-      "prior_n": 1
+      "title": "Hannover",
+      "path": "europe/germany/lowersaxony/hannover",
+      "prior_score": -1.4399,
+      "prior_variance": 0.692726,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Swanage",
-      "path": "europe/unitedkingdom/england/swanage",
-      "prior_mu": 21.4056,
-      "prior_sigma": 3.6623,
-      "prior_n": 3
+      "title": "Kingston",
+      "path": "northamerica/jamaica/kingston",
+      "prior_score": 1.2916,
+      "prior_variance": 0.713646,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Kelso",
-      "path": "europe/unitedkingdom/scotland/kelso",
-      "prior_mu": 21.8759,
-      "prior_sigma": 4.5312,
+      "title": "Niteroi",
+      "path": "southamerica/brazil/niteroi",
+      "prior_score": 0.748,
+      "prior_variance": 0.602324,
       "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Unst",
-      "path": "europe/unitedkingdom/scotland/shetland/unst",
-      "prior_mu": 22.4717,
-      "prior_sigma": 5.4211,
-      "prior_n": 1
+      "title": "Ruse",
+      "path": "europe/bulgaria/ruse",
+      "prior_score": 0.7424,
+      "prior_variance": 0.807659,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Yell",
-      "path": "europe/unitedkingdom/scotland/shetland/yell",
-      "prior_mu": 22.5729,
-      "prior_sigma": 5.4972,
-      "prior_n": 1
+      "title": "Comox Valley",
+      "path": "northamerica/canada/britishcolumbia/comox_valley",
+      "prior_score": 0.7291,
+      "prior_variance": 0.841975,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Warwick",
-      "path": "europe/unitedkingdom/england/warwick",
-      "prior_mu": 21.4663,
-      "prior_sigma": 4.5791,
+      "title": "Hastings",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/hastings",
+      "prior_score": 0.9792,
+      "prior_variance": 0.626466,
       "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Glasgow",
-      "path": "europe/unitedkingdom/scotland/glasgow",
-      "prior_mu": 23.3166,
-      "prior_sigma": 5.5228,
-      "prior_n": 1
+      "title": "Pszczyna",
+      "path": "europe/poland/pszczyna",
+      "prior_score": -0.9252,
+      "prior_variance": 0.727186,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Hastings",
-      "path": "europe/unitedkingdom/england/south_east/hastings",
-      "prior_mu": 21.293,
-      "prior_sigma": 3.794,
-      "prior_n": 3
+      "title": "Tineghir",
+      "path": "africa/morocco/tineghir",
+      "prior_score": 1.9064,
+      "prior_variance": 0.848914,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Exeter",
-      "path": "europe/unitedkingdom/england/exeter",
-      "prior_mu": 21.8678,
-      "prior_sigma": 4.3773,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_score": -0.0893,
+      "prior_variance": 0.998701,
       "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Devizes",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/devizes",
-      "prior_mu": 21.2647,
-      "prior_sigma": 3.5063,
-      "prior_n": 4
+      "title": "Marinduque",
+      "path": "asia/philippines/marinduque",
+      "prior_score": 0.3378,
+      "prior_variance": 0.742944,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Manchester",
-      "path": "europe/unitedkingdom/england/manchester_liverp/manchester",
-      "prior_mu": 21.8164,
-      "prior_sigma": 4.3435,
+      "title": "Lysekil",
+      "path": "europe/sweden/lysekil",
+      "prior_score": 0.2042,
+      "prior_variance": 0.674904,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Dundee",
-      "path": "europe/unitedkingdom/scotland/dundee",
-      "prior_mu": 22.1197,
-      "prior_sigma": 4.8298,
+      "title": "Hormuz Island",
+      "path": "asia/iran/hormuz_island",
+      "prior_score": 1.8167,
+      "prior_variance": 0.733797,
       "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Hull",
-      "path": "europe/unitedkingdom/england/leeds_sheffield_a/hull",
-      "prior_mu": 21.9255,
-      "prior_sigma": 4.5673,
+      "title": "Barnstaple",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/barnstaple",
+      "prior_score": -1.0804,
+      "prior_variance": 0.668878,
       "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Peterborough",
-      "path": "europe/unitedkingdom/england/peterborough",
-      "prior_mu": 22.0059,
-      "prior_sigma": 5.4208,
-      "prior_n": 1
+      "title": "Oudtshoorn",
+      "path": "africa/southafrica/oudtshoorn",
+      "prior_score": 2.0022,
+      "prior_variance": 0.669586,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Bradford",
-      "path": "europe/unitedkingdom/england/bradford",
-      "prior_mu": 22.2227,
-      "prior_sigma": 5.7345,
-      "prior_n": 1
+      "title": "Mompiche",
+      "path": "southamerica/ecuador/mompiche",
+      "prior_score": 0.8166,
+      "prior_variance": 0.908807,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Bolton",
-      "path": "europe/unitedkingdom/england/bolton",
-      "prior_mu": 21.5659,
-      "prior_sigma": 3.8021,
-      "prior_n": 3
+      "title": "Temecula",
+      "path": "northamerica/unitedstates/california/inlandempire/temecula",
+      "prior_score": -2.2344,
+      "prior_variance": 0.78213,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Sunderland",
-      "path": "europe/unitedkingdom/england/newcastle_and_nort/sunderland",
-      "prior_mu": 22.097,
-      "prior_sigma": 5.2998,
-      "prior_n": 1
+      "title": "Schleswig",
+      "path": "europe/germany/schleswigholstein/schleswig",
+      "prior_score": -1.1636,
+      "prior_variance": 1.075158,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Staffordshire",
-      "path": "europe/unitedkingdom/england/staffordshire",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hailongtun Tusi Fortress",
+      "path": "asia/china/guizhou/hailongtun",
+      "prior_score": -0.919,
+      "prior_variance": 1.105323,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Walsall",
-      "path": "europe/unitedkingdom/england/birmingham_and_wes/walsall",
-      "prior_mu": 21.699,
-      "prior_sigma": 4.735,
+      "title": "Lorca",
+      "path": "europe/spain/murcia/lorca",
+      "prior_score": 0.6272,
+      "prior_variance": 0.645004,
       "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "England",
-      "path": "europe/unitedkingdom/england",
-      "prior_mu": 22.4782,
-      "prior_sigma": 5.8829,
-      "prior_n": 1
-    },
-    {
-      "rank": 22,
-      "title": "Ashington",
-      "path": "europe/unitedkingdom/england/ashington",
-      "prior_mu": 22.7215,
-      "prior_sigma": 5.9301,
-      "prior_n": 1
-    },
-    {
-      "rank": 23,
-      "title": "Downham",
-      "path": "europe/unitedkingdom/england/manchester_liverp/pendle/downham",
-      "prior_mu": 21.9255,
-      "prior_sigma": 4.6084,
+      "title": "Sonora",
+      "path": "northamerica/mexico/sonora",
+      "prior_score": -2.106,
+      "prior_variance": 0.771427,
       "prior_n": 2
     },
     {
-      "rank": 24,
-      "title": "Bearwood",
-      "path": "europe/unitedkingdom/england/bearwood",
-      "prior_mu": 21.8894,
-      "prior_sigma": 5.9499,
+      "rank": 22,
+      "title": "Bejaia",
+      "path": "africa/algeria/bejaia",
+      "prior_score": -0.577,
+      "prior_variance": 0.796984,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Butare",
+      "path": "africa/rwanda/butare",
+      "prior_score": -1.0118,
+      "prior_variance": 1.425564,
       "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Dahlak Islands",
+      "path": "africa/eritrea/dahlakislands",
+      "prior_score": -2.608,
+      "prior_variance": 0.66784,
+      "prior_n": 3
     }
   ]
 }

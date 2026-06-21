@@ -6,7 +6,7 @@ done:
 latitude: -23.550651
 loc_type: city
 longitude: -46.633382
-score: 0.48
+score: 0.46
 title: São Paulo
 type: location
 ---

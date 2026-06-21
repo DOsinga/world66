@@ -5,7 +5,7 @@ done:
 latitude: 32.654033
 loc_type: city
 longitude: 35.68446
-score: 0.54
+score: 0.43
 sources:
 - https://en.wikipedia.org/wiki/Umm_Qais
 - https://en.wikivoyage.org/wiki/Umm_Qais

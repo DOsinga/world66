@@ -5,7 +5,7 @@ done:
 latitude: -33.3268
 loc_type: city
 longitude: 115.6367
-score: 0.42
+score: 0.36
 title: Bunbury
 type: location
 image: bunbury.jpg

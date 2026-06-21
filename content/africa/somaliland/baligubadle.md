@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Somaliland,_Road_from_Harg
 latitude: 9.001026
 loc_type: city
 longitude: 44.000122
-score: 0.18
+score: 0.14
 title: BaliGubadle
 type: location
 ---

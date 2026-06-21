@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Olandeketorp.jpg
 latitude: 56.7816
 loc_type: city
 longitude: 16.6622
-score: 0.55
+score: 0.45
 title: Oland
 type: location
 ---

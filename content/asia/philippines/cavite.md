@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AguinaldoShrinejf0944_13.J
 latitude: 14.255407
 loc_type: city
 longitude: 120.86715
-score: 0.38
+score: 0.32
 title: Cavite
 type: location
 ---

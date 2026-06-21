@@ -1,0 +1,200 @@
+{
+  "round": 2630,
+  "timestamp": "2026-06-13T21:56:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chicago",
+      "path": "northamerica/unitedstates/illinois/chicago",
+      "prior_score": 6.8742,
+      "prior_variance": 0.34196,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Himeji",
+      "path": "asia/japan/honshu/himeji",
+      "prior_score": 7.3407,
+      "prior_variance": 0.232659,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Funchal",
+      "path": "europe/portugal/funchal",
+      "prior_score": 5.965,
+      "prior_variance": 0.198773,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Potsdam",
+      "path": "europe/germany/brandenburg/potsdam",
+      "prior_score": 5.8039,
+      "prior_variance": 0.176341,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Gothenburg",
+      "path": "europe/sweden/gothenburg",
+      "prior_score": 3.7436,
+      "prior_variance": 0.176879,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Modena",
+      "path": "europe/italy/emiliaromagna/modena",
+      "prior_score": 4.3547,
+      "prior_variance": 0.203848,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Figueres",
+      "path": "europe/spain/catalonia/figueres",
+      "prior_score": 5.2121,
+      "prior_variance": 0.186418,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Les Baux-de-Provence",
+      "path": "europe/france/midi/provence/les_beaux_de_prove",
+      "prior_score": 5.4606,
+      "prior_variance": 0.17076,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Dingle",
+      "path": "europe/ireland/dingle",
+      "prior_score": 5.6207,
+      "prior_variance": 0.197126,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Saint-Jean-de-Luz",
+      "path": "europe/france/midi/basqueregion/stjeandeluz",
+      "prior_score": 5.3208,
+      "prior_variance": 0.168761,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Tofino",
+      "path": "northamerica/canada/britishcolumbia/tofino",
+      "prior_score": 5.9863,
+      "prior_variance": 0.173837,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "El Yunque",
+      "path": "northamerica/thecaribbean/puertorico/elyunque",
+      "prior_score": 5.2109,
+      "prior_variance": 0.166119,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "St. Kitts",
+      "path": "northamerica/saintkittsandnevis/st_kitts",
+      "prior_score": 4.494,
+      "prior_variance": 0.182163,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Vevey",
+      "path": "europe/switzerland/vevey",
+      "prior_score": 4.563,
+      "prior_variance": 0.194138,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Blarney",
+      "path": "europe/ireland/blarney",
+      "prior_score": 3.7414,
+      "prior_variance": 0.178926,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Las Terrenas",
+      "path": "northamerica/dominicanrepublic/lasterrenas",
+      "prior_score": 4.242,
+      "prior_variance": 0.193147,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Sabang Island",
+      "path": "asia/indonesia/aceh/sabang_island",
+      "prior_score": 0.6641,
+      "prior_variance": 0.175662,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Matmata",
+      "path": "africa/tunisia/matmata",
+      "prior_score": 1.3411,
+      "prior_variance": 0.141825,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Cavaillon",
+      "path": "europe/france/midi/provence/cavaillon",
+      "prior_score": 0.1834,
+      "prior_variance": 0.145824,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Ravensburg",
+      "path": "europe/germany/badenwrttemberg/ravensburg",
+      "prior_score": 0.8605,
+      "prior_variance": 0.156816,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Marblehead",
+      "path": "northamerica/unitedstates/massachusetts/marblehead",
+      "prior_score": -0.441,
+      "prior_variance": 0.237008,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Junagadh",
+      "path": "asia/india/gujarat/junagadh",
+      "prior_score": 0.0534,
+      "prior_variance": 0.157915,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Jajpur",
+      "path": "asia/india/orissa/jajpur",
+      "prior_score": -4.8617,
+      "prior_variance": 0.170882,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Kewaskum",
+      "path": "northamerica/unitedstates/wisconsin/kewaskum",
+      "prior_score": -5.8036,
+      "prior_variance": 0.198081,
+      "prior_n": 8
+    }
+  ]
+}

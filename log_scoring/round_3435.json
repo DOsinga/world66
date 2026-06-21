@@ -1,0 +1,200 @@
+{
+  "round": 3435,
+  "timestamp": "2026-06-13T22:53:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dunhuang",
+      "path": "asia/china/gansu/dunhuang",
+      "prior_score": 5.6563,
+      "prior_variance": 0.139316,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Gravina in Puglia",
+      "path": "europe/italy/puglia/gravina_in_puglia",
+      "prior_score": 2.0237,
+      "prior_variance": 0.117472,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Lieser",
+      "path": "europe/germany/rhinelandpalatinate/mosel/lieser",
+      "prior_score": 0.1343,
+      "prior_variance": 0.109777,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Almada",
+      "path": "europe/portugal/almada",
+      "prior_score": -1.1607,
+      "prior_variance": 0.117881,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Malindi",
+      "path": "africa/kenya/thecoast/malindi",
+      "prior_score": 0.0789,
+      "prior_variance": 0.118505,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "St Lucia",
+      "path": "africa/southafrica/stlucia",
+      "prior_score": 0.9509,
+      "prior_variance": 0.125043,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Missoula",
+      "path": "northamerica/unitedstates/montana/missoula",
+      "prior_score": -0.4279,
+      "prior_variance": 0.120858,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Erlangen",
+      "path": "europe/germany/bavaria/erlangen",
+      "prior_score": -0.5035,
+      "prior_variance": 0.127909,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Remedios",
+      "path": "northamerica/thecaribbean/cuba/remedios",
+      "prior_score": 0.3082,
+      "prior_variance": 0.121109,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Ry",
+      "path": "europe/denmark/ry",
+      "prior_score": -0.5265,
+      "prior_variance": 0.118305,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Vama Veche",
+      "path": "europe/romania/vama_veche",
+      "prior_score": -0.823,
+      "prior_variance": 0.120096,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Phitsanulok",
+      "path": "asia/thailand/phitsanulok",
+      "prior_score": 0.647,
+      "prior_variance": 0.12373,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Guadalajara",
+      "path": "europe/spain/la_mancha/guadalajara",
+      "prior_score": -0.6875,
+      "prior_variance": 0.112624,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Minsk",
+      "path": "europe/belarus/minsk",
+      "prior_score": -0.5755,
+      "prior_variance": 0.119447,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Dundalk",
+      "path": "europe/ireland/dundalk",
+      "prior_score": -2.6198,
+      "prior_variance": 0.131559,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Yichang",
+      "path": "asia/china/hubei/yichang",
+      "prior_score": -1.3375,
+      "prior_variance": 0.120469,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Rizal",
+      "path": "asia/philippines/rizal",
+      "prior_score": -2.8761,
+      "prior_variance": 0.152818,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Zambales",
+      "path": "asia/philippines/zambales",
+      "prior_score": -0.9227,
+      "prior_variance": 0.113746,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Blagoevgrad",
+      "path": "europe/bulgaria/blagoevgrad",
+      "prior_score": -2.6212,
+      "prior_variance": 0.127516,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Banjamarsin",
+      "path": "asia/indonesia/kalimantan/banjamarsin",
+      "prior_score": -2.9379,
+      "prior_variance": 0.128597,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Dixcove",
+      "path": "africa/ghana/dixcove",
+      "prior_score": -1.8875,
+      "prior_variance": 0.117412,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "New Castle",
+      "path": "northamerica/unitedstates/delaware/newcastle",
+      "prior_score": -2.8706,
+      "prior_variance": 0.129682,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Petite Rivi\u00e8re de Nippes",
+      "path": "northamerica/thecaribbean/haiti/petite_riviere_de_nippes",
+      "prior_score": -7.722,
+      "prior_variance": 0.171919,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Kidal",
+      "path": "africa/mali/kidal",
+      "prior_score": -10.7849,
+      "prior_variance": 0.506624,
+      "prior_n": 10
+    }
+  ]
+}

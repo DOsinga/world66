@@ -5,7 +5,7 @@ done:
 latitude: 26.296653
 loc_type: city
 longitude: 50.120215
-score: 0.29
+score: 0.22
 title: Dhahran
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2022-10-04_03_Tugboat,_TIG
 latitude: -0.95
 loc_type: city
 longitude: -80.7162
-score: 0.5
+score: 0.4
 title: Manta
 type: location
 ---

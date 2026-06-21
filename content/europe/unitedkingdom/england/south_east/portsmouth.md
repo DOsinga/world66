@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Portsmouth_Harbour,_Portsm
 latitude: 50.800031
 loc_type: city
 longitude: -1.090602
-score: 0.47
+score: 0.42
 title: Portsmouth
 type: location
 ---

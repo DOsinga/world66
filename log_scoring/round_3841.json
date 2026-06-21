@@ -1,0 +1,200 @@
+{
+  "round": 3841,
+  "timestamp": "2026-06-13T23:23:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Budapest",
+      "path": "europe/hungary/budapest",
+      "prior_score": 11.1601,
+      "prior_variance": 0.25549,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Puerto Vallarta",
+      "path": "northamerica/mexico/puertovallarta",
+      "prior_score": 5.6356,
+      "prior_variance": 0.118486,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Albufeira",
+      "path": "europe/portugal/algarve/albufeira",
+      "prior_score": 5.0014,
+      "prior_variance": 0.131398,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Pokhara",
+      "path": "asia/nepal/pokhara",
+      "prior_score": 8.9828,
+      "prior_variance": 0.20965,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Cadiz",
+      "path": "europe/spain/andalucia/cadiz",
+      "prior_score": 5.484,
+      "prior_variance": 0.119594,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Epernay",
+      "path": "europe/france/east/champagne/epernay",
+      "prior_score": 4.8289,
+      "prior_variance": 0.109376,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Ocho Rios",
+      "path": "northamerica/jamaica/ochorios",
+      "prior_score": 5.3856,
+      "prior_variance": 0.124047,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "St. George's",
+      "path": "northamerica/thecaribbean/grenada/stgeorges",
+      "prior_score": 4.5795,
+      "prior_variance": 0.138122,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "South Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/southlaketahoe",
+      "prior_score": 4.772,
+      "prior_variance": 0.113901,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Urubamba",
+      "path": "southamerica/peru/urubamba",
+      "prior_score": 5.0587,
+      "prior_variance": 0.149117,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Darjeeling",
+      "path": "asia/india/westbengal/darjeeling",
+      "prior_score": 5.5036,
+      "prior_variance": 0.115495,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Campeche",
+      "path": "northamerica/mexico/yucatan/campeche_campeche",
+      "prior_score": 4.9167,
+      "prior_variance": 0.113547,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Lake Balaton",
+      "path": "europe/hungary/lakebalaton",
+      "prior_score": 2.9691,
+      "prior_variance": 0.11129,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Cur\u00fa National Wildlife Refuge",
+      "path": "northamerica/costarica/cur_national_par",
+      "prior_score": 2.0249,
+      "prior_variance": 0.119401,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Cha Am",
+      "path": "asia/thailand/cha_am",
+      "prior_score": 1.239,
+      "prior_variance": 0.105224,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Veszpr\u00e9m",
+      "path": "europe/hungary/veszprem",
+      "prior_score": 1.2591,
+      "prior_variance": 0.100532,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Burghausen",
+      "path": "europe/germany/bavaria/burghausen",
+      "prior_score": 3.2159,
+      "prior_variance": 0.131544,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Al Hoceima",
+      "path": "africa/morocco/alhoceima",
+      "prior_score": 0.8984,
+      "prior_variance": 0.114617,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Beit Shean",
+      "path": "asia/israel/beitshean",
+      "prior_score": 1.0052,
+      "prior_variance": 0.113938,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Hahndorf",
+      "path": "australiaandpacific/australia/southaustralia/handorf",
+      "prior_score": 0.9024,
+      "prior_variance": 0.101646,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Beaufort",
+      "path": "northamerica/unitedstates/southcarolina/beaufort",
+      "prior_score": 0.6703,
+      "prior_variance": 0.112203,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "San Juan Capistrano",
+      "path": "northamerica/unitedstates/california/orangecounty/san_juan_capistrano",
+      "prior_score": 0.7629,
+      "prior_variance": 0.116835,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Gandhinagar",
+      "path": "asia/india/gujarat/gandhinagar",
+      "prior_score": -2.7989,
+      "prior_variance": 0.113881,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Sravanabelagola",
+      "path": "asia/india/karnataka/sravanabelagola",
+      "prior_score": 0.4275,
+      "prior_variance": 0.098988,
+      "prior_n": 13
+    }
+  ]
+}

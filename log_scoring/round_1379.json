@@ -1,200 +1,200 @@
 {
   "round": 1379,
-  "timestamp": "2026-04-12T22:24:33",
+  "timestamp": "2026-06-13T20:27:13",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Viipuri (Vyborg)",
-      "path": "europe/finland/viipuri",
-      "prior_rank": 5775,
-      "prior_wins": 25,
-      "prior_n": 3
+      "title": "Reykjavik",
+      "path": "europe/iceland/reykjavik",
+      "prior_score": 12.3588,
+      "prior_variance": 0.520566,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Scrivia Valley",
-      "path": "europe/italy/liguria/scriviavalley",
-      "prior_rank": 7059,
-      "prior_wins": 17,
-      "prior_n": 3
+      "title": "Cape Sounion",
+      "path": "europe/greece/capesounion",
+      "prior_score": 7.3497,
+      "prior_variance": 0.352181,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Mez\u0151k\u00f6vesd",
-      "path": "europe/hungary/mezokovesd",
-      "prior_rank": 5001,
-      "prior_wins": 39,
+      "title": "Sikinos",
+      "path": "europe/greece/sikinos",
+      "prior_score": 5.1063,
+      "prior_variance": 0.439468,
       "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Porsgrunn",
-      "path": "europe/norway/porsgrunn",
-      "prior_rank": 6700,
-      "prior_wins": 26,
+      "title": "Kuta",
+      "path": "asia/indonesia/bali/kuta",
+      "prior_score": 6.3193,
+      "prior_variance": 0.383202,
       "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "\u00d6resund",
-      "path": "europe/sweden/resund",
-      "prior_rank": 5411,
-      "prior_wins": 27,
-      "prior_n": 3
+      "title": "Fazana",
+      "path": "europe/croatia/fazana",
+      "prior_score": 1.9024,
+      "prior_variance": 0.340519,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Mandeville",
-      "path": "northamerica/jamaica/mandeville",
-      "prior_rank": 6423,
-      "prior_wins": 22,
+      "title": "Formerum",
+      "path": "europe/netherlands/waddenislands/terschelling/formerum",
+      "prior_score": -0.0016,
+      "prior_variance": 0.301817,
       "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Hallowell",
-      "path": "northamerica/unitedstates/maine/hallowell",
-      "prior_rank": 5043,
-      "prior_wins": 29,
-      "prior_n": 3
+      "title": "M\u00f8n",
+      "path": "europe/denmark/mon",
+      "prior_score": 1.8834,
+      "prior_variance": 0.408515,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Kaitaia",
-      "path": "australiaandpacific/newzealand/kaitaia",
-      "prior_rank": 4942,
-      "prior_wins": 29,
-      "prior_n": 3
+      "title": "Angoul\u00eame",
+      "path": "europe/france/aquitaine/angouleme",
+      "prior_score": 1.612,
+      "prior_variance": 0.320835,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Vorokhta",
-      "path": "europe/ukraine/carpathian_mountai/vorokhta",
-      "prior_rank": 6172,
-      "prior_wins": 23,
-      "prior_n": 3
+      "title": "Tiracol",
+      "path": "asia/india/goa/tiracol",
+      "prior_score": 0.7875,
+      "prior_variance": 0.360396,
+      "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "Comoros",
-      "path": "africa/comoros",
-      "prior_rank": 6313,
-      "prior_wins": 22,
-      "prior_n": 3
+      "title": "Cabo Rojo",
+      "path": "northamerica/thecaribbean/puertorico/caborojo",
+      "prior_score": 5.437,
+      "prior_variance": 0.316571,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Manuae",
-      "path": "australiaandpacific/cookislands/manuae",
-      "prior_rank": 6269,
-      "prior_wins": 25,
+      "title": "Cape Breton",
+      "path": "northamerica/canada/novascotia/capebreton",
+      "prior_score": 4.1233,
+      "prior_variance": 0.332416,
       "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Ayabaca",
-      "path": "southamerica/peru/ayabaca",
-      "prior_rank": 5534,
-      "prior_wins": 35,
+      "title": "Tasiilaq",
+      "path": "northamerica/greenland/tasiilaq",
+      "prior_score": 2.2401,
+      "prior_variance": 0.348756,
       "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Gracias",
-      "path": "northamerica/honduras/gracias",
-      "prior_rank": 5931,
-      "prior_wins": 24,
-      "prior_n": 3
+      "title": "Fayetteville",
+      "path": "northamerica/unitedstates/westvirginia/fayetteville",
+      "prior_score": 0.8723,
+      "prior_variance": 0.302824,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Constantine",
-      "path": "africa/algeria/constantine",
-      "prior_rank": 4714,
-      "prior_wins": 31,
-      "prior_n": 3
+      "title": "Sareyn",
+      "path": "asia/iran/sareyn",
+      "prior_score": -3.412,
+      "prior_variance": 0.435756,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Ashtarak",
-      "path": "europe/armenia/aragatsotn_marz/ashtarak",
-      "prior_rank": 6296,
-      "prior_wins": 22,
-      "prior_n": 3
+      "title": "Lormes",
+      "path": "europe/france/east/burgundy/lormes",
+      "prior_score": -4.3303,
+      "prior_variance": 0.467629,
+      "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "Yeghegnadzor",
-      "path": "europe/armenia/vayots_dzor_marz/yeghegnadzor",
-      "prior_rank": 6630,
-      "prior_wins": 20,
-      "prior_n": 3
+      "title": "Vezzi Portio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vezziportio",
+      "prior_score": -3.7739,
+      "prior_variance": 0.389625,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Lori Marz",
-      "path": "europe/armenia/lori_marz",
-      "prior_rank": 5962,
-      "prior_wins": 24,
-      "prior_n": 3
+      "title": "Dego",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/dego",
+      "prior_score": -3.684,
+      "prior_variance": 0.306539,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Imphal",
-      "path": "asia/india/manipur/imphal",
-      "prior_rank": 5275,
-      "prior_wins": 28,
-      "prior_n": 3
+      "title": "Bayam\u00f3n",
+      "path": "northamerica/thecaribbean/puertorico/bayamon",
+      "prior_score": -3.9505,
+      "prior_variance": 0.339261,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Aburi",
-      "path": "africa/ghana/aburi",
-      "prior_rank": 5344,
-      "prior_wins": 36,
+      "title": "Kassala",
+      "path": "africa/sudan/kassala",
+      "prior_score": -7.3598,
+      "prior_variance": 0.428996,
       "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Santar\u00e9m",
-      "path": "southamerica/brazil/santarem",
-      "prior_rank": 4307,
-      "prior_wins": 33,
-      "prior_n": 3
+      "title": "Yola",
+      "path": "africa/nigeria/yola",
+      "prior_score": -8.7207,
+      "prior_variance": 0.503608,
+      "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "Uruapan",
-      "path": "northamerica/mexico/uruapan",
-      "prior_rank": 5923,
-      "prior_wins": 24,
-      "prior_n": 3
+      "title": "Adrar",
+      "path": "africa/algeria/adrar",
+      "prior_score": -8.8501,
+      "prior_variance": 0.427753,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "James Island",
-      "path": "northamerica/unitedstates/southcarolina/james_island",
-      "prior_rank": 6562,
-      "prior_wins": 41,
-      "prior_n": 6
+      "title": "Ahvaz",
+      "path": "asia/iran/ahvaz",
+      "prior_score": -9.5858,
+      "prior_variance": 0.561512,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Abuja",
-      "path": "africa/nigeria/abuja",
-      "prior_rank": 4718,
-      "prior_wins": 31,
-      "prior_n": 3
+      "title": "Stockton",
+      "path": "northamerica/unitedstates/california/centralvalley/stockton",
+      "prior_score": -8.0579,
+      "prior_variance": 0.46908,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Grand popo",
-      "path": "africa/benin/grandpopo",
-      "prior_rank": 4159,
-      "prior_wins": 27,
-      "prior_n": 3
+      "title": "Boley",
+      "path": "northamerica/unitedstates/oklahoma/boley",
+      "prior_score": -8.6071,
+      "prior_variance": 0.424688,
+      "prior_n": 4
     }
   ]
 }

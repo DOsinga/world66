@@ -5,7 +5,7 @@ done:
 latitude: 20.2766
 loc_type: city
 longitude: 73.0169
-score: 0.3
+score: 0.26
 title: Silvassa
 type: location
 ---

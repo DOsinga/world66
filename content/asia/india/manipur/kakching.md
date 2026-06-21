@@ -5,7 +5,7 @@ done:
 latitude: 24.4975
 loc_type: city
 longitude: 93.9836
-score: 0.29
+score: 0.25
 sources:
 - https://en.wikipedia.org/wiki/Kakching
 - https://kakching.nic.in/places-of-interest/

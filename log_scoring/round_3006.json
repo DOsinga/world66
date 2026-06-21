@@ -1,0 +1,200 @@
+{
+  "round": 3006,
+  "timestamp": "2026-06-13T22:22:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zermatt",
+      "path": "europe/switzerland/zermatt",
+      "prior_score": 12.9431,
+      "prior_variance": 0.743587,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Canyonlands",
+      "path": "northamerica/unitedstates/utah/canyonlands",
+      "prior_score": 8.9081,
+      "prior_variance": 0.228,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Shanghai",
+      "path": "asia/china/shanghai",
+      "prior_score": 8.6499,
+      "prior_variance": 0.226075,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Monteverde",
+      "path": "northamerica/costarica/monteverde",
+      "prior_score": 6.5612,
+      "prior_variance": 0.195614,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Longji Rice Terraces",
+      "path": "asia/china/guangxi/longji",
+      "prior_score": 5.3318,
+      "prior_variance": 0.158648,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Bolzano",
+      "path": "europe/italy/trentinoaltoadige/bolzano",
+      "prior_score": 4.5009,
+      "prior_variance": 0.222424,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Visby",
+      "path": "europe/sweden/visby",
+      "prior_score": 5.9206,
+      "prior_variance": 0.153931,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Parma",
+      "path": "europe/italy/emiliaromagna/parma",
+      "prior_score": 4.0818,
+      "prior_variance": 0.153332,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Katoomba",
+      "path": "australiaandpacific/australia/newsouthwales/katoomba",
+      "prior_score": 4.682,
+      "prior_variance": 0.14705,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Kuching",
+      "path": "asia/malaysia/sarawak/kuching",
+      "prior_score": 4.4291,
+      "prior_variance": 0.158974,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Morella",
+      "path": "europe/spain/castellon/morella",
+      "prior_score": 2.3009,
+      "prior_variance": 0.183024,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Niagara-on-the-Lake",
+      "path": "northamerica/canada/ontario/niagara_on_the_lake",
+      "prior_score": 3.3451,
+      "prior_variance": 0.165891,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Forte dei Marmi",
+      "path": "europe/italy/tuscany/forte_dei_marmi",
+      "prior_score": 1.0637,
+      "prior_variance": 0.467936,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Demre (Myra)",
+      "path": "asia/turkey/demre",
+      "prior_score": 1.7669,
+      "prior_variance": 0.132506,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Tineghir",
+      "path": "africa/morocco/tineghir",
+      "prior_score": 1.8789,
+      "prior_variance": 0.136718,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Soline",
+      "path": "europe/croatia/miljet_island/soline",
+      "prior_score": 3.1724,
+      "prior_variance": 0.154529,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Delray Beach",
+      "path": "northamerica/unitedstates/florida/delray_beach",
+      "prior_score": 0.5525,
+      "prior_variance": 0.150815,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Irkutsk",
+      "path": "europe/russia/irkutsk",
+      "prior_score": 0.7549,
+      "prior_variance": 0.126965,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Schongau",
+      "path": "europe/germany/bavaria/schongau",
+      "prior_score": -0.2624,
+      "prior_variance": 0.135695,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Rueil-Malmaison",
+      "path": "europe/france/around_paris/rueilmalmaison",
+      "prior_score": -1.1414,
+      "prior_variance": 0.153399,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Fort Payne",
+      "path": "northamerica/unitedstates/alabama/fort_payne",
+      "prior_score": -3.9904,
+      "prior_variance": 0.137241,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Ajman",
+      "path": "asia/unitedarabemirates/ajman",
+      "prior_score": -1.9318,
+      "prior_variance": 0.151541,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Nyangshwe",
+      "path": "asia/myanmar/nyangshwe",
+      "prior_score": -2.0675,
+      "prior_variance": 0.145123,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Mu'a",
+      "path": "australiaandpacific/tonga/tongatapu/mua",
+      "prior_score": -1.4745,
+      "prior_variance": 0.12998,
+      "prior_n": 10
+    }
+  ]
+}

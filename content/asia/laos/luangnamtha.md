@@ -14,6 +14,7 @@ sources:
 - https://luangnamthatourism.org/
 title: Luang Namtha
 type: location
+score: 0.45
 ---
 
 Luang Namtha is the capital of Laos's northernmost province, sitting at 551 metres in a valley surrounded by forested mountains near the Chinese and Myanmar borders. The town is modest — a central market, a handful of guesthouses, a long main street — but it serves as the gateway to the Nam Ha National Protected Area, one of the most significant ecotourism destinations in Southeast Asia.

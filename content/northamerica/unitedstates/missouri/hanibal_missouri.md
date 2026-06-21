@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hannibal,_Missouri_(366689
 latitude: 39.70825
 loc_type: city
 longitude: -91.358741
-score: 0.43
+score: 0.39
 title: Hannibal
 type: location
 ---

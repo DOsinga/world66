@@ -5,7 +5,7 @@ done:
 latitude: 43.1151
 loc_type: city
 longitude: 131.8856
-score: 0.49
+score: 0.41
 title: Vladivostok
 type: location
 ---

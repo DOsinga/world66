@@ -7,7 +7,7 @@ done:
 latitude: 7.3878
 loc_type: city
 longitude: 3.8963
-score: 0.32
+score: 0.29
 title: Ibadan
 type: location
 ---

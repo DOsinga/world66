@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:At_Brighton,_East_Sussex_2
 latitude: 50.821463
 loc_type: city
 longitude: -0.140056
-score: 0.67
+score: 0.54
 title: Brighton
 type: location
 ---

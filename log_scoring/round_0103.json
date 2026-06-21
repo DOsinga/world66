@@ -1,200 +1,200 @@
 {
   "round": 103,
-  "timestamp": "2026-04-12T08:03:57",
+  "timestamp": "2026-06-13T19:19:39",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "South Island",
-      "path": "australiaandpacific/newzealand/south_island",
-      "prior_mu": 31.51,
-      "prior_sigma": 3.96,
-      "prior_n": 6
+      "title": "Kota Kinabalu",
+      "path": "asia/malaysia/kotakinabalu",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Valley of Flowers",
-      "path": "asia/india/uttaranchal/valley_of_flowers",
-      "prior_mu": 28.13,
-      "prior_sigma": 3.51,
-      "prior_n": 4
+      "title": "Valdes Peninsula",
+      "path": "southamerica/argentina/patagonia/valdespeninsula",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Pikes Peak",
-      "path": "northamerica/unitedstates/colorado/coloradosprings/pikespeak",
-      "prior_mu": 27.97,
-      "prior_sigma": 4.32,
-      "prior_n": 3
+      "title": "Cafayate",
+      "path": "southamerica/argentina/cafayate",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Lombok",
-      "path": "asia/indonesia/lombok",
-      "prior_mu": 25.02,
-      "prior_sigma": 3.25,
-      "prior_n": 5
+      "title": "Boulder",
+      "path": "northamerica/unitedstates/colorado/boulder",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Cayos Cochinos",
-      "path": "northamerica/honduras/bayislands/cayos_cochinos",
-      "prior_mu": 21.92,
-      "prior_sigma": 4.45,
-      "prior_n": 2
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/newsouthwales/nationalparks",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Pelagian Islands",
-      "path": "europe/italy/sicily/pelagianislands",
-      "prior_mu": 23.3,
-      "prior_sigma": 2.91,
-      "prior_n": 5
+      "title": "Talkeetna",
+      "path": "northamerica/unitedstates/alaska/talkeetna",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Kei Islands",
-      "path": "asia/indonesia/maluku/kei_islands",
-      "prior_mu": 23.7,
-      "prior_sigma": 3.61,
-      "prior_n": 4
+      "title": "Glenridding",
+      "path": "europe/unitedkingdom/england/lakedistrict/glenridding",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Sleeping Bear Dunes National Lakeshore",
-      "path": "northamerica/unitedstates/michigan/sleepingbear",
-      "prior_mu": 21.49,
-      "prior_sigma": 3.55,
-      "prior_n": 3
+      "title": "Antequera",
+      "path": "europe/spain/andalucia/antequera",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Bordeaux",
-      "path": "europe/france/midi/aquitaine/bordeaux",
-      "prior_mu": 26.95,
-      "prior_sigma": 3.21,
-      "prior_n": 5
+      "title": "Xidi",
+      "path": "asia/china/anhui/xidi",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Cafayate",
-      "path": "southamerica/argentina/cafayate",
-      "prior_mu": 22.77,
-      "prior_sigma": 3.49,
-      "prior_n": 3
+      "title": "Vichy",
+      "path": "europe/france/centre/auvergne/vichy",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Pontrieux",
-      "path": "europe/france/normandybrittany/pontrieux",
-      "prior_mu": 21.03,
-      "prior_sigma": 2.92,
-      "prior_n": 5
+      "title": "Schwerin",
+      "path": "europe/germany/mecklenburgwesternpomerania/schwerin",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Angers",
-      "path": "europe/france/centre/loirevalley/angers",
-      "prior_mu": 22.0,
-      "prior_sigma": 3.14,
-      "prior_n": 4
+      "title": "Limon",
+      "path": "northamerica/costarica/limon",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Nicosia",
-      "path": "asia/cyprus/nicosia",
-      "prior_mu": 21.82,
-      "prior_sigma": 3.16,
-      "prior_n": 4
+      "title": "Point Pelee and Pelee Island",
+      "path": "northamerica/canada/ontario/point_pelee_and_pelee_island",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Halifax",
-      "path": "northamerica/canada/novascotia/halifax",
-      "prior_mu": 21.85,
-      "prior_sigma": 4.11,
-      "prior_n": 2
+      "title": "Ajlun",
+      "path": "asia/jordan/ajlun",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Cerreto Guidi",
-      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/cerretoguidi",
-      "prior_mu": 20.82,
-      "prior_sigma": 2.93,
-      "prior_n": 5
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/lancaster",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "San Blas",
-      "path": "northamerica/mexico/sanblas",
-      "prior_mu": 20.59,
-      "prior_sigma": 2.81,
-      "prior_n": 5
+      "title": "Civitavecchia",
+      "path": "europe/italy/lazio/civitavecchia",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Kawasaki",
-      "path": "asia/japan/honshu/kawasaki",
-      "prior_mu": 20.45,
-      "prior_sigma": 2.58,
-      "prior_n": 6
+      "title": "Zhangmu",
+      "path": "asia/china/tibet/zhangmu",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Enniskerry",
-      "path": "europe/ireland/enniskerry",
-      "prior_mu": 21.37,
-      "prior_sigma": 2.99,
-      "prior_n": 5
+      "title": "Tehri Garhwal",
+      "path": "asia/india/uttaranchal/tehri_garhwal",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Lancaster",
-      "path": "europe/unitedkingdom/england/manchester_liverp/lancaster",
-      "prior_mu": 20.86,
-      "prior_sigma": 2.53,
-      "prior_n": 6
+      "title": "Round Top",
+      "path": "northamerica/unitedstates/texas/round_top",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Mizoram",
-      "path": "asia/india/mizoram",
-      "prior_mu": 21.04,
-      "prior_sigma": 3.61,
-      "prior_n": 3
+      "title": "Umm el Jimal",
+      "path": "asia/jordan/ummeljimal",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Rutland",
-      "path": "northamerica/unitedstates/vermont/rutland",
-      "prior_mu": 20.53,
-      "prior_sigma": 2.34,
-      "prior_n": 8
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Greenock",
-      "path": "europe/unitedkingdom/scotland/greenock",
-      "prior_mu": 19.18,
-      "prior_sigma": 2.76,
-      "prior_n": 5
+      "title": "Birtamode",
+      "path": "asia/nepal/birtamode",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Guanare",
-      "path": "southamerica/venezuela/guanare",
-      "prior_mu": 19.5,
-      "prior_sigma": 2.93,
-      "prior_n": 5
+      "title": "Niamey",
+      "path": "africa/niger/niamey",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Nizamabad",
-      "path": "asia/india/andhrapradesh/nizamabad",
-      "prior_mu": 18.59,
-      "prior_sigma": 2.88,
-      "prior_n": 5
+      "title": "Guymon",
+      "path": "northamerica/unitedstates/oklahoma/guymon",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

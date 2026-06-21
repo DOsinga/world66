@@ -7,7 +7,7 @@ done:
 latitude: 43.4003
 loc_type: city
 longitude: 10.86
-score: 0.66
+score: 0.58
 title: Volterra
 type: location
 ---

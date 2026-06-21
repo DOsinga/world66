@@ -5,7 +5,7 @@ done:
 latitude: 55.281233
 loc_type: city
 longitude: 8.555332
-score: 0.48
+score: 0.37
 title: Mandø
 type: location
 ---

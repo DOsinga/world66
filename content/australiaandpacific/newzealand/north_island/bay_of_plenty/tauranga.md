@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tauranga_Harbour_and_City.
 latitude: -37.685901
 loc_type: city
 longitude: 176.167505
-score: 0.58
+score: 0.46
 title: Tauranga
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/12962905@N05/49518511857
 latitude: 52.074946
 loc_type: city
 longitude: 4.26968
-score: 0.63
+score: 0.54
 sources:
 - https://en.wikipedia.org/wiki/The_Hague
 - https://en.wikipedia.org/wiki/Mauritshuis

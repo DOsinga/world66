@@ -5,7 +5,7 @@ done:
 latitude: 36.5547
 loc_type: city
 longitude: 29.1167
-score: 0.53
+score: 0.43
 title: Hisaronu
 type: location
 ---

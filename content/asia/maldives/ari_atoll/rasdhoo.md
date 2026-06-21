@@ -5,7 +5,7 @@ done:
 latitude: 4.262992
 loc_type: city
 longitude: 72.991745
-score: 0.72
+score: 0.62
 title: Rasdhoo
 type: location
 ---

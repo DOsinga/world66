@@ -5,7 +5,7 @@ latitude: 11.55
 longitude: 42.4167
 title: Lake Assal
 type: location
-score: 0.43
+score: 0.4
 loc_type: feature
 ---
 

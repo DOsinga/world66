@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chongqing_Nightscape.jpg
 latitude: 30.05518
 loc_type: city
 longitude: 107.874871
-score: 0.57
+score: 0.46
 title: Chongqing
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/49399018@N00/11185063763
 latitude: 55.934082
 loc_type: city
 longitude: 23.315777
-score: 0.43
+score: 0.38
 title: Siauliai
 type: location
 ---

@@ -7,7 +7,7 @@ done:
 latitude: 40.7852
 loc_type: city
 longitude: 43.8416
-score: 0.49
+score: 0.4
 title: Gyumri
 type: location
 ---

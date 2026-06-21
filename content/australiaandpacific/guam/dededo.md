@@ -5,7 +5,7 @@ done:
 latitude: 13.519054
 loc_type: city
 longitude: 144.837839
-score: 0.4
+score: 0.31
 sources:
 - https://en.wikipedia.org/wiki/Dededo,_Guam
 title: Dededo

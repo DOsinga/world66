@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sukhothai,_Buddha,_Stupas,
 latitude: 17.0196
 loc_type: city
 longitude: 99.7061
-score: 0.71
+score: 0.62
 title: Sukhothai
 type: location
 ---

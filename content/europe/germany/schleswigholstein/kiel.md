@@ -8,14 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento,_Kiel,_Aleman
 latitude: 54.3227
 loc_type: city
 longitude: 10.1355
-score: 0.51
+score: 0.41
 title: Kiel
 type: location
 sources:
-  - https://en.wikipedia.org/wiki/Kiel
-  - https://en.wikipedia.org/wiki/Kiel_Canal
-  - https://en.wikipedia.org/wiki/Kieler_Woche
-  - https://en.wikipedia.org/wiki/Laboe_Naval_Memorial
+- https://en.wikipedia.org/wiki/Kiel
+- https://en.wikipedia.org/wiki/Kiel_Canal
+- https://en.wikipedia.org/wiki/Kieler_Woche
+- https://en.wikipedia.org/wiki/Laboe_Naval_Memorial
 ---
 
 Kiel is the state capital of Schleswig-Holstein, a port city of around 250,000 people at the western end of the Baltic Sea. Its position at the mouth of the [Kiel Canal](/europe/germany/schleswigholstein/kiel/kiel_canal) — the world's busiest artificial waterway — has shaped everything about it: the economy, the culture, and the steady flow of ferries heading to Scandinavia and the Baltic states. It is a functional, likeable city without much tourist polish, and most visitors experience it briefly, waiting for a boat north.

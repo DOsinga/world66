@@ -5,7 +5,7 @@ done:
 latitude: 34.5034
 loc_type: city
 longitude: -82.6501
-score: 0.34
+score: 0.28
 title: Anderson
 type: location
 ---

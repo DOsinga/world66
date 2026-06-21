@@ -12,6 +12,7 @@ loc_type: city
 longitude: -61.5019
 title: Port of Spain
 type: location
+score: 0.47
 ---
 
 Port of Spain is one of the Caribbean's most energetic capitals — a city that moves to its own rhythm, literally. This is the birthplace of the steel pan and the home of Carnival, the riotous pre-Lenten festival that fills the streets with sequined masqueraders, thumping soca music, and the kind of communal joy that is hard to find anywhere else on earth.

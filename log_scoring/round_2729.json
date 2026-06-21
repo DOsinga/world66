@@ -1,0 +1,200 @@
+{
+  "round": 2729,
+  "timestamp": "2026-06-13T22:03:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Agadez",
+      "path": "africa/niger/agadez",
+      "prior_score": -4.31,
+      "prior_variance": 0.228688,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Forest Grove",
+      "path": "northamerica/unitedstates/oregon/forestgrove",
+      "prior_score": -3.6605,
+      "prior_variance": 0.177683,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Wigan",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/wigan",
+      "prior_score": -4.3184,
+      "prior_variance": 0.219161,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Brodnica",
+      "path": "europe/poland/brodnica",
+      "prior_score": -3.9352,
+      "prior_variance": 0.149783,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Jabbeke",
+      "path": "europe/belgium/jabbeke",
+      "prior_score": -5.127,
+      "prior_variance": 0.178276,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Charleroi",
+      "path": "europe/belgium/charleroi",
+      "prior_score": -4.7634,
+      "prior_variance": 0.171317,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Shimoga",
+      "path": "asia/india/karnataka/shimoga",
+      "prior_score": -3.0002,
+      "prior_variance": 0.17875,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Berhampur",
+      "path": "asia/india/orissa/berhampur",
+      "prior_score": -5.8745,
+      "prior_variance": 0.221433,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Villa Florida",
+      "path": "southamerica/paraguay/villaflorida",
+      "prior_score": -5.1857,
+      "prior_variance": 0.175361,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Susanville",
+      "path": "northamerica/unitedstates/california/shastacascade/susanville",
+      "prior_score": -5.028,
+      "prior_variance": 0.203745,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "McAlester",
+      "path": "northamerica/unitedstates/oklahoma/mcalester",
+      "prior_score": -5.761,
+      "prior_variance": 0.202989,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Jining",
+      "path": "asia/china/shandong_province/jining",
+      "prior_score": -3.6132,
+      "prior_variance": 0.13932,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Moore",
+      "path": "northamerica/unitedstates/oklahoma/moore",
+      "prior_score": -7.2424,
+      "prior_variance": 0.232018,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Forest",
+      "path": "northamerica/unitedstates/mississippi/forest",
+      "prior_score": -7.967,
+      "prior_variance": 0.292918,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Kandla",
+      "path": "asia/india/gujarat/kutch/kandla",
+      "prior_score": -5.6937,
+      "prior_variance": 0.182627,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Nageezi",
+      "path": "northamerica/unitedstates/newmexico/nageezi",
+      "prior_score": -5.5784,
+      "prior_variance": 0.227407,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_score": -8.3404,
+      "prior_variance": 0.342985,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Mekele",
+      "path": "africa/ethiopia/mekele",
+      "prior_score": -4.4131,
+      "prior_variance": 0.163619,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Kisangani",
+      "path": "africa/congokinshasa/kisangani",
+      "prior_score": -7.4805,
+      "prior_variance": 0.219619,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Gon\u00e2ve Island",
+      "path": "northamerica/thecaribbean/haiti/gonaveisland",
+      "prior_score": -5.1362,
+      "prior_variance": 0.133074,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Beiji Village",
+      "path": "asia/china/heilongjiang/beiji-village",
+      "prior_score": -5.9788,
+      "prior_variance": 0.228805,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Jubail",
+      "path": "asia/saudiarabia/jubail",
+      "prior_score": -7.5221,
+      "prior_variance": 0.267269,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Meteti",
+      "path": "northamerica/panama/dariengap/meteti",
+      "prior_score": -8.5859,
+      "prior_variance": 0.244425,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Belgorod",
+      "path": "europe/russia/belgorod_1",
+      "prior_score": -6.4601,
+      "prior_variance": 0.276454,
+      "prior_n": 8
+    }
+  ]
+}

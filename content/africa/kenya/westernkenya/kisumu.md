@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kenya_Kisumu_Harbour_Hyaci
 latitude: -0.102911
 loc_type: city
 longitude: 34.754176
-score: 0.45
+score: 0.37
 title: Kisumu
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Erli_(SV)_-_chiesa_di_Sant
 latitude: 44.137529
 loc_type: city
 longitude: 8.103148
-score: 0.41
+score: 0.34
 title: Erli
 type: location
 ---

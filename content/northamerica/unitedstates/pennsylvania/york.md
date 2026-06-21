@@ -5,7 +5,7 @@ done:
 latitude: 39.962493
 loc_type: city
 longitude: -76.727699
-score: 0.38
+score: 0.33
 title: York
 type: location
 image: york.jpg

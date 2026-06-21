@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Shiprock.snodgrass3.jpg
 latitude: 36.7858
 loc_type: city
 longitude: -108.6845
-score: 0.43
+score: 0.37
 title: Shiprock
 type: location
 ---

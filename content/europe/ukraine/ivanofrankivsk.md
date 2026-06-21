@@ -5,7 +5,7 @@ done:
 latitude: 48.9228
 loc_type: city
 longitude: 24.7106
-score: 0.46
+score: 0.36
 title: Ivano-Frankivsk
 type: location
 image: ivanofrankivsk.jpg

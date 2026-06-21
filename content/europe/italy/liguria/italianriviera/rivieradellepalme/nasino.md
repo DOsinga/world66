@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nasino,_Borgo_e_Vignolo,_p
 latitude: 44.11375
 loc_type: city
 longitude: 8.031713
-score: 0.38
+score: 0.34
 title: Nasino
 type: location
 ---

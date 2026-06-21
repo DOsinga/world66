@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Manzanita,_Oregon_(2014).j
 latitude: 45.718616
 loc_type: city
 longitude: -123.935038
-score: 0.5
+score: 0.41
 title: Manzanita
 type: location
 ---

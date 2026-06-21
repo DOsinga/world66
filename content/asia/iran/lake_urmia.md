@@ -5,7 +5,7 @@ latitude: 37.688397
 longitude: 45.486907
 title: Lake Urmia
 type: location
-score: 0.42
+score: 0.34
 loc_type: feature
 ---
 

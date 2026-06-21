@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Falc%C3%B3n_(2003)_06.jpg
 latitude: 11.273946
 loc_type: city
 longitude: -69.583421
-score: 0.35
+score: 0.3
 title: Falcón
 type: location
 ---

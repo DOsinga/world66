@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_downtown_St
 latitude: 43.157981
 loc_type: city
 longitude: -79.2441
-score: 0.38
+score: 0.34
 title: St. Catharines
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:McCranie%27s_Turpentine_St
 latitude: 31.340755
 loc_type: city
 longitude: -83.045983
-score: 0.25
+score: 0.17
 title: Willacoochee
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Southernmost_point_buoy,_N
 latitude: 24.5551
 loc_type: city
 longitude: -81.78
-score: 0.69
+score: 0.62
 title: Key West
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 4156,
+  "timestamp": "2026-06-13T23:49:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Innsbruck",
+      "path": "europe/austria/innsbruck",
+      "prior_score": 6.8263,
+      "prior_variance": 0.153439,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Dresden",
+      "path": "europe/germany/saxony/dresden",
+      "prior_score": 6.4486,
+      "prior_variance": 0.168326,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/santa_barbara",
+      "prior_score": 6.6028,
+      "prior_variance": 0.117933,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Puerto de Soller",
+      "path": "europe/spain/balearicislands/mallorca/puertodesoller",
+      "prior_score": 5.1773,
+      "prior_variance": 0.115177,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Kilkenny",
+      "path": "europe/ireland/kilkenny",
+      "prior_score": 4.42,
+      "prior_variance": 0.114878,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Ponte de Lima",
+      "path": "europe/portugal/ponte_de_lima",
+      "prior_score": 3.3799,
+      "prior_variance": 0.097139,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/theazores/so_miguel/ponta_delgada",
+      "prior_score": 4.765,
+      "prior_variance": 0.115943,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Recanati",
+      "path": "europe/italy/marche/recanati",
+      "prior_score": -0.2081,
+      "prior_variance": 0.105285,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Garlenda",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/garlenda",
+      "prior_score": -1.2352,
+      "prior_variance": 0.11531,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Borjomi",
+      "path": "europe/georgia/borjomi",
+      "prior_score": 3.0621,
+      "prior_variance": 0.1026,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Kizhi",
+      "path": "europe/russia/karelia/kizhi",
+      "prior_score": 2.4623,
+      "prior_variance": 0.097596,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Kashan",
+      "path": "asia/iran/kashan",
+      "prior_score": 1.6766,
+      "prior_variance": 0.122637,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "H\u00eence\u0219ti",
+      "path": "europe/moldova/hincest",
+      "prior_score": -5.6934,
+      "prior_variance": 0.12163,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Erie",
+      "path": "northamerica/unitedstates/pennsylvania/erie",
+      "prior_score": -2.1627,
+      "prior_variance": 0.097202,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Palatka",
+      "path": "northamerica/unitedstates/florida/palatka",
+      "prior_score": -4.4704,
+      "prior_variance": 0.102874,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Resistencia",
+      "path": "southamerica/argentina/resistencia",
+      "prior_score": -3.06,
+      "prior_variance": 0.110657,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Dhenkanal",
+      "path": "asia/india/orissa/dhenkanal",
+      "prior_score": -5.7382,
+      "prior_variance": 0.118444,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Setif",
+      "path": "africa/algeria/setif",
+      "prior_score": -4.3167,
+      "prior_variance": 0.120718,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Xinxiang",
+      "path": "asia/china/henan_province/xinxiang",
+      "prior_score": -5.8165,
+      "prior_variance": 0.145479,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Wuhai",
+      "path": "asia/china/innermongolia/wuhai",
+      "prior_score": -5.5722,
+      "prior_variance": 0.127527,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Benxi",
+      "path": "asia/china/liaoning/benxi",
+      "prior_score": -4.708,
+      "prior_variance": 0.096296,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Los Teques",
+      "path": "southamerica/venezuela/altos_mirandinos/los_teques",
+      "prior_score": -6.4942,
+      "prior_variance": 0.116493,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Maracaibo",
+      "path": "southamerica/venezuela/maracaibo",
+      "prior_score": -5.8674,
+      "prior_variance": 0.148314,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Burao",
+      "path": "africa/somaliland/burao",
+      "prior_score": -9.733,
+      "prior_variance": 0.239428,
+      "prior_n": 13
+    }
+  ]
+}

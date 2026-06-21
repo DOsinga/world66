@@ -1,0 +1,200 @@
+{
+  "round": 3803,
+  "timestamp": "2026-06-13T23:21:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rincon",
+      "path": "northamerica/thecaribbean/puertorico/rincon",
+      "prior_score": 3.2312,
+      "prior_variance": 0.106579,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Key Largo",
+      "path": "northamerica/unitedstates/florida/keylargo",
+      "prior_score": 2.842,
+      "prior_variance": 0.159955,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Crotone",
+      "path": "europe/italy/calabria/crotone",
+      "prior_score": -0.0041,
+      "prior_variance": 0.111496,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Scrivia Valley",
+      "path": "europe/italy/liguria/scriviavalley",
+      "prior_score": -0.6296,
+      "prior_variance": 0.127589,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Hameenlinna",
+      "path": "europe/finland/hameenlinna",
+      "prior_score": 0.1075,
+      "prior_variance": 0.103751,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Tonder",
+      "path": "europe/denmark/tonder",
+      "prior_score": -1.4334,
+      "prior_variance": 0.117182,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Almelo",
+      "path": "europe/netherlands/almelo",
+      "prior_score": -3.403,
+      "prior_variance": 0.119727,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Monaghan",
+      "path": "europe/ireland/monaghan",
+      "prior_score": -2.102,
+      "prior_variance": 0.094396,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_score": -0.5774,
+      "prior_variance": 0.107611,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Biak",
+      "path": "asia/indonesia/irianjaya/biak",
+      "prior_score": -2.3006,
+      "prior_variance": 0.125994,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/shastacascade/redding",
+      "prior_score": -3.6845,
+      "prior_variance": 0.130074,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "New Castle",
+      "path": "northamerica/unitedstates/delaware/newcastle",
+      "prior_score": -3.0915,
+      "prior_variance": 0.124305,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "North Platte",
+      "path": "northamerica/unitedstates/nebraska/northplatte",
+      "prior_score": -5.0884,
+      "prior_variance": 0.100374,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "East Grand Forks",
+      "path": "northamerica/unitedstates/minnesota/east_grand_forks",
+      "prior_score": -6.5812,
+      "prior_variance": 0.172612,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Sunyani",
+      "path": "africa/ghana/sunyani",
+      "prior_score": -5.2412,
+      "prior_variance": 0.143447,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Irbid",
+      "path": "asia/jordan/irbid",
+      "prior_score": -3.4758,
+      "prior_variance": 0.099129,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Bissau",
+      "path": "africa/guineabissau/bissau",
+      "prior_score": -5.8301,
+      "prior_variance": 0.166416,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Ouagadougou",
+      "path": "africa/burkinafaso/ouagadougou",
+      "prior_score": -5.5164,
+      "prior_variance": 0.130029,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Bafata",
+      "path": "africa/guineabissau/bafata",
+      "prior_score": -7.4329,
+      "prior_variance": 0.14777,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Sikasso",
+      "path": "africa/mali/sikasso",
+      "prior_score": -6.758,
+      "prior_variance": 0.172052,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Lake Chad",
+      "path": "africa/chad/lakechad",
+      "prior_score": -5.5413,
+      "prior_variance": 0.187438,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Lodhran",
+      "path": "asia/pakistan/lodhran",
+      "prior_score": -7.9354,
+      "prior_variance": 0.192186,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Aqsu",
+      "path": "europe/azerbaijan/aqsu",
+      "prior_score": -7.6739,
+      "prior_variance": 0.219033,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Ciudad Ju\u00e1rez",
+      "path": "northamerica/mexico/ciudadjuarez",
+      "prior_score": -7.7792,
+      "prior_variance": 0.247764,
+      "prior_n": 12
+    }
+  ]
+}

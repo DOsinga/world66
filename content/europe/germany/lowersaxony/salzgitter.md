@@ -6,7 +6,7 @@ done:
 latitude: 52.150372
 loc_type: city
 longitude: 10.359315
-score: 0.3
+score: 0.24
 title: Salzgitter
 type: location
 ---

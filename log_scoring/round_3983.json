@@ -1,0 +1,200 @@
+{
+  "round": 3983,
+  "timestamp": "2026-06-13T23:34:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Istanbul",
+      "path": "asia/turkey/istanbul",
+      "prior_score": 11.984,
+      "prior_variance": 0.794343,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Gdansk",
+      "path": "europe/poland/gdansk",
+      "prior_score": 5.5009,
+      "prior_variance": 0.135203,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Patan",
+      "path": "asia/nepal/patan",
+      "prior_score": 4.2908,
+      "prior_variance": 0.13626,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Nyungwe National Park",
+      "path": "africa/rwanda/nyungwe_national_park",
+      "prior_score": 2.8073,
+      "prior_variance": 0.114271,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Taupo",
+      "path": "australiaandpacific/newzealand/central_plateau/taupo",
+      "prior_score": 3.9225,
+      "prior_variance": 0.145028,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Arcos de la Frontera",
+      "path": "europe/spain/andalucia/whitevillages/arcos_de_la_frontera",
+      "prior_score": 5.0423,
+      "prior_variance": 0.103978,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Furnas",
+      "path": "europe/portugal/theazores/so_miguel/furnas",
+      "prior_score": 4.5611,
+      "prior_variance": 0.111907,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Sark",
+      "path": "europe/channelislands/sark",
+      "prior_score": 3.0145,
+      "prior_variance": 0.121605,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Gjogv",
+      "path": "europe/faroeislands/eysturoy/gjogv",
+      "prior_score": 3.9363,
+      "prior_variance": 0.124743,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Trancoso",
+      "path": "southamerica/brazil/trancoso",
+      "prior_score": 2.6013,
+      "prior_variance": 0.128766,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Cabarete",
+      "path": "northamerica/dominicanrepublic/puertoplata/cabarete",
+      "prior_score": 2.6319,
+      "prior_variance": 0.101965,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Nagahama",
+      "path": "asia/japan/honshu/nagahama",
+      "prior_score": 1.7192,
+      "prior_variance": 0.107026,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Marburg",
+      "path": "europe/germany/hessen/marburg",
+      "prior_score": 1.6527,
+      "prior_variance": 0.113743,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Asian Side (Kad\u0131k\u00f6y)",
+      "path": "asia/turkey/asianpart",
+      "prior_score": 2.9486,
+      "prior_variance": 0.113429,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Balne\u00e1rio Cambori\u00fa",
+      "path": "southamerica/brazil/balneariocamboriu",
+      "prior_score": 0.7328,
+      "prior_variance": 0.097896,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Komarna",
+      "path": "europe/croatia/dalmatia/komarna",
+      "prior_score": 0.26,
+      "prior_variance": 0.109448,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Paso Robles",
+      "path": "northamerica/unitedstates/california/paso_robels",
+      "prior_score": 2.1896,
+      "prior_variance": 0.102574,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_national_park",
+      "prior_score": 2.3078,
+      "prior_variance": 0.101829,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Ciudad Rodrigo",
+      "path": "europe/spain/centralspain/ciudadrodrigo",
+      "prior_score": 1.1442,
+      "prior_variance": 0.094106,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Mahdia",
+      "path": "africa/tunisia/mahdia",
+      "prior_score": 0.4664,
+      "prior_variance": 0.109403,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Qiandao Lake",
+      "path": "asia/china/zhejiang/qiandaohu",
+      "prior_score": 0.9218,
+      "prior_variance": 0.103059,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "IJlst",
+      "path": "europe/netherlands/friesland/ijlst",
+      "prior_score": -2.6506,
+      "prior_variance": 0.111679,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Karratha",
+      "path": "australiaandpacific/australia/westernaustralia/karratha",
+      "prior_score": -3.8481,
+      "prior_variance": 0.113862,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Bargarh",
+      "path": "asia/india/orissa/bargarh",
+      "prior_score": -5.7276,
+      "prior_variance": 0.111351,
+      "prior_n": 13
+    }
+  ]
+}

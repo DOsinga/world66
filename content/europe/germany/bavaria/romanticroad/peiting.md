@@ -6,7 +6,7 @@ latitude: 47.795986
 longitude: 10.922873
 title: Peiting
 type: location
-score: 0.43
+score: 0.4
 loc_type: city
 ---
 

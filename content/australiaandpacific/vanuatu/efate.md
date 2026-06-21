@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Efate_Beach_1.jpg
 latitude: -17.6739
 loc_type: city
 longitude: 168.3648
-score: 0.54
+score: 0.45
 title: Efate
 type: location
 ---

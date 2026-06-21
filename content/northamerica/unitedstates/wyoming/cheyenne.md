@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bulldogging_a_steer,_Cheye
 latitude: 41.139981
 loc_type: city
 longitude: -104.820246
-score: 0.41
+score: 0.36
 title: Cheyenne
 type: location
 ---

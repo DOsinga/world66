@@ -1,0 +1,200 @@
+{
+  "round": 4100,
+  "timestamp": "2026-06-13T23:43:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Serengeti National Park",
+      "path": "africa/tanzania/serengetinationalpark",
+      "prior_score": 12.4678,
+      "prior_variance": 0.261225,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Xingping",
+      "path": "asia/china/guangxi/xingping",
+      "prior_score": 3.9202,
+      "prior_variance": 0.120961,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Matsuyama",
+      "path": "asia/japan/shikoku/matsuyama",
+      "prior_score": 5.3637,
+      "prior_variance": 0.107927,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Sabang Beach",
+      "path": "asia/philippines/mindoroisland/sabangbeach",
+      "prior_score": 3.3432,
+      "prior_variance": 0.110058,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Motueka",
+      "path": "australiaandpacific/newzealand/motueka",
+      "prior_score": 1.3503,
+      "prior_variance": 0.099914,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Sayulita",
+      "path": "northamerica/mexico/sayulita",
+      "prior_score": 4.2627,
+      "prior_variance": 0.109806,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Gij\u00f3n",
+      "path": "europe/spain/northernspain/gijon",
+      "prior_score": 1.7492,
+      "prior_variance": 0.098921,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Praia da Rocha",
+      "path": "europe/portugal/praiadarocha",
+      "prior_score": 4.2357,
+      "prior_variance": 0.101661,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Dakhla",
+      "path": "africa/morocco/dakhla",
+      "prior_score": -0.3604,
+      "prior_variance": 0.123764,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Cuc Phuong",
+      "path": "asia/vietnam/cucphuong",
+      "prior_score": 1.0566,
+      "prior_variance": 0.110558,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Knokke",
+      "path": "europe/belgium/knokke",
+      "prior_score": 0.4694,
+      "prior_variance": 0.102325,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Karlskrona",
+      "path": "europe/sweden/karlskrona",
+      "prior_score": 1.5836,
+      "prior_variance": 0.107061,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Stuttgart",
+      "path": "europe/germany/badenwrttemberg/stuttgart",
+      "prior_score": 1.8021,
+      "prior_variance": 0.097444,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Victor",
+      "path": "northamerica/unitedstates/idaho/teton_valley/victor",
+      "prior_score": -1.1673,
+      "prior_variance": 0.11213,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Bulla Regia",
+      "path": "africa/tunisia/bullaregia",
+      "prior_score": -0.1076,
+      "prior_variance": 0.099276,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Nakhon Pathom",
+      "path": "asia/thailand/nakhon_pathom",
+      "prior_score": -0.3932,
+      "prior_variance": 0.11014,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Semarang",
+      "path": "asia/indonesia/java/semarang",
+      "prior_score": 0.1771,
+      "prior_variance": 0.095521,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Skerries",
+      "path": "europe/ireland/skerries",
+      "prior_score": -0.4337,
+      "prior_variance": 0.091924,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Mangalore",
+      "path": "asia/india/karnataka/konkan_coast/mangalore",
+      "prior_score": -0.3893,
+      "prior_variance": 0.093561,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Unst",
+      "path": "europe/unitedkingdom/scotland/shetland/unst",
+      "prior_score": -0.0564,
+      "prior_variance": 0.099003,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Kaili",
+      "path": "asia/china/guizhou/kaili",
+      "prior_score": -1.6444,
+      "prior_variance": 0.114096,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Harwich Port",
+      "path": "northamerica/unitedstates/massachusetts/harwichport",
+      "prior_score": -0.9745,
+      "prior_variance": 0.12305,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Benoue Park",
+      "path": "africa/cameroon/benouepark",
+      "prior_score": -2.5405,
+      "prior_variance": 0.114503,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Hoyerswerda",
+      "path": "europe/germany/saxony/hoyerswerda",
+      "prior_score": -4.6372,
+      "prior_variance": 0.14619,
+      "prior_n": 13
+    }
+  ]
+}

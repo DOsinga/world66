@@ -1,0 +1,200 @@
+{
+  "round": 3527,
+  "timestamp": "2026-06-13T23:00:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Manarola",
+      "path": "europe/italy/liguria/manarola",
+      "prior_score": 9.4376,
+      "prior_variance": 0.290684,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Lake Titicaca",
+      "path": "southamerica/bolivia/laketiticaca",
+      "prior_score": 5.8874,
+      "prior_variance": 0.157824,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkney",
+      "prior_score": 5.0673,
+      "prior_variance": 0.147601,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Ostia Antica",
+      "path": "europe/italy/lazio/ostiaantica",
+      "prior_score": 4.6448,
+      "prior_variance": 0.118623,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "McLeod Ganj",
+      "path": "asia/india/himachalpradesh/mcleodganj",
+      "prior_score": 3.4231,
+      "prior_variance": 0.12097,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Dali",
+      "path": "asia/china/yunnanprovince/dali",
+      "prior_score": 4.8425,
+      "prior_variance": 0.142837,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Gyumri",
+      "path": "europe/armenia/shirak_marz/gyumri",
+      "prior_score": -0.6855,
+      "prior_variance": 0.111349,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Chenini",
+      "path": "africa/tunisia/chenini",
+      "prior_score": 0.3416,
+      "prior_variance": 0.126145,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Prescott",
+      "path": "northamerica/unitedstates/arizona/prescott",
+      "prior_score": 0.4133,
+      "prior_variance": 0.126021,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Caserta",
+      "path": "europe/italy/campania/caserta",
+      "prior_score": 2.9204,
+      "prior_variance": 0.1377,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Murnau am Staffelsee",
+      "path": "europe/germany/bavaria/murnau_am_staffelsee",
+      "prior_score": 0.9008,
+      "prior_variance": 0.141986,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Kozhikode",
+      "path": "asia/india/kerala/kozhikode",
+      "prior_score": 0.7001,
+      "prior_variance": 0.130785,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Guilvinec",
+      "path": "europe/france/normandybrittany/guilvinec",
+      "prior_score": -0.2187,
+      "prior_variance": 0.112049,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Ujjain",
+      "path": "asia/india/madhyapradesh/ujjain",
+      "prior_score": 1.503,
+      "prior_variance": 0.114352,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Brendon and Oare",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/brendon_and_oare",
+      "prior_score": -0.075,
+      "prior_variance": 0.113225,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Warrnambool",
+      "path": "australiaandpacific/australia/victoria/warrnambool",
+      "prior_score": -0.7855,
+      "prior_variance": 0.119439,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Burqin",
+      "path": "asia/china/xinjiangprovince/burqin",
+      "prior_score": -0.6285,
+      "prior_variance": 0.128314,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Banana Islands",
+      "path": "africa/sierraleone/bananaislands",
+      "prior_score": -2.3505,
+      "prior_variance": 0.170793,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Piatra Neam\u021b",
+      "path": "europe/romania/piatraneamt",
+      "prior_score": -0.7206,
+      "prior_variance": 0.106088,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Khujand",
+      "path": "asia/tajikistan/khojend",
+      "prior_score": -2.035,
+      "prior_variance": 0.135926,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawala_kot",
+      "prior_score": -2.8708,
+      "prior_variance": 0.112668,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Montescaglioso",
+      "path": "europe/italy/basilicata/montescaglioso",
+      "prior_score": -1.4886,
+      "prior_variance": 0.133751,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Qiqihar",
+      "path": "asia/china/heilongjiang/qiqihar",
+      "prior_score": -5.1161,
+      "prior_variance": 0.137004,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Watford",
+      "path": "europe/unitedkingdom/england/south_east/watford",
+      "prior_score": -4.724,
+      "prior_variance": 0.134456,
+      "prior_n": 11
+    }
+  ]
+}

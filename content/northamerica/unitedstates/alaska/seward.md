@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Resurrection_Bay,_Seward,_
 latitude: 60.1042
 loc_type: city
 longitude: -149.4422
-score: 0.57
+score: 0.51
 title: Seward
 type: location
 ---

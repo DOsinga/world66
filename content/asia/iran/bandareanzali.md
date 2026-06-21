@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Anzali_3710.jpg
 latitude: 37.471636
 loc_type: city
 longitude: 49.46859
-score: 0.4
+score: 0.32
 title: Bandar-e Anzali
 type: location
 ---

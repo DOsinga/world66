@@ -1,0 +1,200 @@
+{
+  "round": 4147,
+  "timestamp": "2026-06-13T23:48:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Wieliczka",
+      "path": "europe/poland/wieliczka",
+      "prior_score": 3.2367,
+      "prior_variance": 0.10281,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Merzouga",
+      "path": "africa/morocco/merzouga",
+      "prior_score": 5.559,
+      "prior_variance": 0.141757,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Pashupatinath",
+      "path": "asia/nepal/pashupatinath",
+      "prior_score": 3.4761,
+      "prior_variance": 0.106981,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Sighisoara",
+      "path": "europe/romania/sighisoara",
+      "prior_score": 5.1853,
+      "prior_variance": 0.121889,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Speyer",
+      "path": "europe/germany/rhinelandpalatinate/speyer",
+      "prior_score": 2.5088,
+      "prior_variance": 0.100858,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "El Jem",
+      "path": "africa/tunisia/eljem",
+      "prior_score": 2.4439,
+      "prior_variance": 0.109751,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Cala Ratjada",
+      "path": "europe/spain/balearicislands/mallorca/calaratjada",
+      "prior_score": 3.857,
+      "prior_variance": 0.101542,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Al Ain",
+      "path": "asia/unitedarabemirates/al_ain",
+      "prior_score": 0.3897,
+      "prior_variance": 0.111968,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Lake Issyk-Kul",
+      "path": "asia/kyrgyzstan/lakeissykkul",
+      "prior_score": 1.9321,
+      "prior_variance": 0.106871,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_national_park",
+      "prior_score": 2.1342,
+      "prior_variance": 0.093066,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo",
+      "prior_score": 1.4013,
+      "prior_variance": 0.114594,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Huay Xai",
+      "path": "asia/laos/houeixay",
+      "prior_score": -0.9256,
+      "prior_variance": 0.094631,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Volos",
+      "path": "europe/greece/volos",
+      "prior_score": 2.2562,
+      "prior_variance": 0.108606,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Silent Valley National Park",
+      "path": "asia/india/kerala/silent_valley_national_park",
+      "prior_score": 0.7366,
+      "prior_variance": 0.105274,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_score": -0.6159,
+      "prior_variance": 0.097304,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Iloilo",
+      "path": "asia/philippines/iloilo",
+      "prior_score": 0.2295,
+      "prior_variance": 0.109317,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Bacolod",
+      "path": "asia/philippines/negrosisland/bacolod",
+      "prior_score": -1.2404,
+      "prior_variance": 0.088536,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Aarhus",
+      "path": "europe/denmark/aarhus",
+      "prior_score": 2.6437,
+      "prior_variance": 0.128357,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "V\u00e4ster\u00e5s",
+      "path": "europe/sweden/vsters",
+      "prior_score": -0.92,
+      "prior_variance": 0.100602,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Bloemendaal",
+      "path": "europe/netherlands/bloemendaal",
+      "prior_score": -1.0635,
+      "prior_variance": 0.104288,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Soutomaior",
+      "path": "europe/spain/galicia/soutomaior",
+      "prior_score": -1.5904,
+      "prior_variance": 0.096105,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Ayabaca",
+      "path": "southamerica/peru/ayabaca",
+      "prior_score": -2.0304,
+      "prior_variance": 0.10004,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Ribeir\u00e3o Preto",
+      "path": "southamerica/brazil/ribeiraopreto",
+      "prior_score": -3.2632,
+      "prior_variance": 0.115044,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Nukulaelae atoll",
+      "path": "australiaandpacific/tuvalu/nukulaelaeatoll",
+      "prior_score": -3.4373,
+      "prior_variance": 0.170208,
+      "prior_n": 13
+    }
+  ]
+}

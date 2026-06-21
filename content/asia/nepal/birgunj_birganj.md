@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ghadiarwa_Pokhara_Birgunj_
 latitude: 27.042839
 loc_type: city
 longitude: 84.856979
-score: 0.31
+score: 0.25
 title: Birgunj
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cayenne,_Gouvernance.jpg
 latitude: 4.937154
 loc_type: city
 longitude: -52.325874
-score: 0.41
+score: 0.35
 title: Cayenne
 type: location
 ---

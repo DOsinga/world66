@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beit_al_Ajaib,_2010.jpg
 latitude: -6.162653
 loc_type: city
 longitude: 39.189655
-score: 0.72
+score: 0.63
 title: Stone Town
 type: location
 ---

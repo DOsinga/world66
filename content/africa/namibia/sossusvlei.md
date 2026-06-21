@@ -3,7 +3,7 @@ title: Sossusvlei
 type: location
 latitude: -24.739534
 longitude: 15.29236
-score: 0.71
+score: 0.6
 loc_type: feature
 ---
 

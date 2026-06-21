@@ -5,7 +5,7 @@ done:
 latitude: 32.2211
 loc_type: city
 longitude: 35.2544
-score: 0.25
+score: 0.27
 title: Nablus
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 29.539
 loc_type: city
 longitude: 71.6344
-score: 0.21
+score: 0.18
 title: Lodhran
 type: location
 ---

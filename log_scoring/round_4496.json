@@ -1,0 +1,200 @@
+{
+  "round": 4496,
+  "timestamp": "2026-06-14T00:17:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Canmore",
+      "path": "northamerica/canada/alberta/canmore",
+      "prior_score": 5.375,
+      "prior_variance": 0.109866,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Etretat",
+      "path": "europe/france/normandybrittany/etretat",
+      "prior_score": 5.9563,
+      "prior_variance": 0.118338,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Kuching",
+      "path": "asia/malaysia/kuching",
+      "prior_score": 4.3241,
+      "prior_variance": 0.111405,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Bojnice",
+      "path": "europe/slovakia/bojnice",
+      "prior_score": 2.1612,
+      "prior_variance": 0.091307,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Lake Balaton",
+      "path": "europe/hungary/lakebalaton",
+      "prior_score": 2.9672,
+      "prior_variance": 0.095173,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Karimunjawa",
+      "path": "asia/indonesia/java/karimunjawa",
+      "prior_score": 2.9719,
+      "prior_variance": 0.089479,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Jaca",
+      "path": "europe/spain/aragon/jaca",
+      "prior_score": 2.3455,
+      "prior_variance": 0.088433,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Bormida",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bormida",
+      "prior_score": -1.6961,
+      "prior_variance": 0.099351,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Porrentruy",
+      "path": "europe/switzerland/porrentruy",
+      "prior_score": -1.247,
+      "prior_variance": 0.095837,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_score": 0.985,
+      "prior_variance": 0.092381,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Mosj\u00f8en",
+      "path": "europe/norway/mosjen",
+      "prior_score": -0.075,
+      "prior_variance": 0.094863,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Skomv\u00e6r",
+      "path": "europe/norway/lofotenislands/skomvr",
+      "prior_score": 0.8083,
+      "prior_variance": 0.108327,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Pacasmayo",
+      "path": "southamerica/peru/pacasmayo",
+      "prior_score": -1.8055,
+      "prior_variance": 0.089501,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Monastir",
+      "path": "africa/tunisia/monastir",
+      "prior_score": 0.8042,
+      "prior_variance": 0.085602,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Sundsvall",
+      "path": "europe/sweden/sundsvall",
+      "prior_score": -1.0475,
+      "prior_variance": 0.092679,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Sibu",
+      "path": "asia/malaysia/sibu",
+      "prior_score": -2.5075,
+      "prior_variance": 0.088791,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Nyangshwe",
+      "path": "asia/myanmar/nyangshwe",
+      "prior_score": -2.72,
+      "prior_variance": 0.129901,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Foshan",
+      "path": "asia/china/guangdong/foshan",
+      "prior_score": -3.5445,
+      "prior_variance": 0.101243,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Cuttack",
+      "path": "asia/india/orissa/cuttack",
+      "prior_score": -3.3561,
+      "prior_variance": 0.096787,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Yongning",
+      "path": "asia/china/ningxia/yongning",
+      "prior_score": -5.6862,
+      "prior_variance": 0.120525,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Carlisle",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/carlisle",
+      "prior_score": -1.9238,
+      "prior_variance": 0.100254,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Giessen",
+      "path": "europe/germany/hessen/giessen",
+      "prior_score": -3.4358,
+      "prior_variance": 0.118213,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_score": -6.0176,
+      "prior_variance": 0.170194,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Gbarnga",
+      "path": "africa/liberia/gbarnga",
+      "prior_score": -7.1696,
+      "prior_variance": 0.138357,
+      "prior_n": 14
+    }
+  ]
+}

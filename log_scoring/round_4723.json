@@ -1,0 +1,200 @@
+{
+  "round": 4723,
+  "timestamp": "2026-06-14T00:36:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cartagena",
+      "path": "europe/spain/murcia/cartagena",
+      "prior_score": 3.0824,
+      "prior_variance": 0.097868,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Lohals",
+      "path": "europe/denmark/lohals",
+      "prior_score": -1.8272,
+      "prior_variance": 0.085656,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Fryeburg",
+      "path": "northamerica/unitedstates/maine/fryeburg",
+      "prior_score": -1.6356,
+      "prior_variance": 0.081235,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Ellicott City",
+      "path": "northamerica/unitedstates/maryland/ellicott_city",
+      "prior_score": -2.671,
+      "prior_variance": 0.097295,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/virginia/arlington",
+      "prior_score": -3.207,
+      "prior_variance": 0.109156,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "State College",
+      "path": "northamerica/unitedstates/pennsylvania/state_college",
+      "prior_score": -3.3867,
+      "prior_variance": 0.099293,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Logan",
+      "path": "northamerica/unitedstates/utah/logan",
+      "prior_score": -2.3218,
+      "prior_variance": 0.09119,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Todmorden",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/todmorden",
+      "prior_score": -2.8768,
+      "prior_variance": 0.095314,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/suffolk/ipswich",
+      "prior_score": -2.2668,
+      "prior_variance": 0.100996,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/north_island/waikato/hamilton",
+      "prior_score": -1.7247,
+      "prior_variance": 0.083695,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Busua",
+      "path": "africa/ghana/busua_western_regi",
+      "prior_score": -1.0178,
+      "prior_variance": 0.088983,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Pisco",
+      "path": "southamerica/peru/pisco",
+      "prior_score": -1.8215,
+      "prior_variance": 0.087012,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_score": -4.2474,
+      "prior_variance": 0.116545,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Holly",
+      "path": "northamerica/unitedstates/michigan/holly",
+      "prior_score": -4.3569,
+      "prior_variance": 0.096947,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Hubli",
+      "path": "asia/india/karnataka/hubli",
+      "prior_score": -4.7053,
+      "prior_variance": 0.102801,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Taishan",
+      "path": "asia/china/guangdong/taishan",
+      "prior_score": -2.9755,
+      "prior_variance": 0.087672,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Tangerang",
+      "path": "asia/indonesia/java/tangerang",
+      "prior_score": -4.7957,
+      "prior_variance": 0.105552,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/ohio/portsmouth",
+      "prior_score": -6.7031,
+      "prior_variance": 0.120874,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Flint",
+      "path": "northamerica/unitedstates/michigan/flint",
+      "prior_score": -7.9311,
+      "prior_variance": 0.249818,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Sumgait",
+      "path": "europe/azerbaijan/sumgait",
+      "prior_score": -5.6263,
+      "prior_variance": 0.120755,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Anshan",
+      "path": "asia/china/liaoning/anshan",
+      "prior_score": -5.476,
+      "prior_variance": 0.109387,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Golmud",
+      "path": "asia/china/qinghai/golmud",
+      "prior_score": -5.4038,
+      "prior_variance": 0.132842,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Zarafshan",
+      "path": "asia/uzbekistan/zarafshan",
+      "prior_score": -6.7035,
+      "prior_variance": 0.146895,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Lozovik",
+      "path": "europe/serbia/lozovik",
+      "prior_score": -7.7886,
+      "prior_variance": 0.142834,
+      "prior_n": 15
+    }
+  ]
+}

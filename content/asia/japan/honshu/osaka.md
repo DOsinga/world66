@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Osaka_Castle_02bs3200.jpg
 latitude: 34.693757
 loc_type: city
 longitude: 135.501454
-score: 0.81
+score: 0.74
 title: Osaka
 type: location
 ---

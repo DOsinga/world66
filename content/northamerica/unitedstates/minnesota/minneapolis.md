@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Minneapolis_City_Hall_and_
 latitude: 44.9773
 loc_type: city
 longitude: -93.2655
-score: 0.49
+score: 0.45
 title: Minneapolis
 type: location
 ---

@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bulgaria_Koprivshtica_10.J
 latitude: 42.637532
 loc_type: city
 longitude: 24.357799
-score: 0.53
+score: 0.45
 title: Koprivshtitsa
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 2781,
+  "timestamp": "2026-06-13T22:06:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tokyo",
+      "path": "asia/japan/tokyo",
+      "prior_score": 19.366,
+      "prior_variance": 1.411317,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "\u010cesk\u00fd Krumlov",
+      "path": "europe/czechrepublic/ceskykrumlov",
+      "prior_score": 9.0209,
+      "prior_variance": 0.473819,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/liverpool",
+      "prior_score": 3.9905,
+      "prior_variance": 0.171458,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Anuradhapura",
+      "path": "asia/srilanka/anuradapura",
+      "prior_score": 4.1638,
+      "prior_variance": 0.18432,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Battambang",
+      "path": "asia/cambodia/battambang",
+      "prior_score": 2.0426,
+      "prior_variance": 0.143683,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Yasawa Islands",
+      "path": "australiaandpacific/fiji/yasawaislands",
+      "prior_score": 8.3482,
+      "prior_variance": 0.324423,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "T\u00e9touan",
+      "path": "africa/morocco/tetouan",
+      "prior_score": 3.1778,
+      "prior_variance": 0.163289,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacorua",
+      "prior_score": 2.0887,
+      "prior_variance": 0.139541,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Aberdeen",
+      "path": "europe/unitedkingdom/scotland/aberdeen",
+      "prior_score": 0.3208,
+      "prior_variance": 0.138357,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Fuengirola",
+      "path": "europe/spain/andalucia/fuengirola",
+      "prior_score": 2.2731,
+      "prior_variance": 0.146689,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Palm Cove",
+      "path": "australiaandpacific/australia/queensland/palmcove",
+      "prior_score": 2.811,
+      "prior_variance": 0.183172,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Glendale",
+      "path": "europe/unitedkingdom/scotland/skye/glendale",
+      "prior_score": 2.4904,
+      "prior_variance": 0.145979,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Cahuita",
+      "path": "northamerica/costarica/cahuita",
+      "prior_score": 4.1329,
+      "prior_variance": 0.153731,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "St. George's",
+      "path": "northamerica/thecaribbean/grenada/stgeorges",
+      "prior_score": 5.2271,
+      "prior_variance": 0.198514,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Ovalau",
+      "path": "australiaandpacific/fiji/ovalau",
+      "prior_score": 1.9422,
+      "prior_variance": 0.155467,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Ia\u0219i",
+      "path": "europe/romania/iasi",
+      "prior_score": -0.2563,
+      "prior_variance": 0.16232,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Montespertoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli",
+      "prior_score": 0.0477,
+      "prior_variance": 0.146682,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Zhaoqing",
+      "path": "asia/china/guangdong/zhaoqing",
+      "prior_score": -0.2071,
+      "prior_variance": 0.177836,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Torsero Park",
+      "path": "europe/italy/liguria/torseropark",
+      "prior_score": -0.0787,
+      "prior_variance": 0.178318,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Chatham Islands",
+      "path": "australiaandpacific/newzealand/chathamislands",
+      "prior_score": 0.3649,
+      "prior_variance": 0.138829,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Lazarus Island",
+      "path": "asia/singapore/islands/lazarusisland",
+      "prior_score": 0.797,
+      "prior_variance": 0.157636,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Cave Creek",
+      "path": "northamerica/unitedstates/arizona/cave_creek",
+      "prior_score": -0.8526,
+      "prior_variance": 0.167729,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Aley",
+      "path": "asia/lebanon/aley",
+      "prior_score": -1.2027,
+      "prior_variance": 0.158197,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Lake Assal",
+      "path": "africa/djibouti/lakeassal",
+      "prior_score": -1.0818,
+      "prior_variance": 0.151248,
+      "prior_n": 10
+    }
+  ]
+}

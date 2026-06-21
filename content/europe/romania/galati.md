@@ -5,7 +5,7 @@ done:
 latitude: 45.433822
 loc_type: city
 longitude: 28.054939
-score: 0.38
+score: 0.32
 title: Galati
 type: location
 ---

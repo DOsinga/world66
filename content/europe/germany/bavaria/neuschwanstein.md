@@ -5,7 +5,7 @@ latitude: 47.5576
 longitude: 10.7497
 title: Neuschwanstein
 type: location
-score: 0.79
+score: 0.69
 image: neuschwanstein.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Castle_Neuschwanstein.jpg
 image_license: CC BY-SA 3.0

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Souris,_Pri
 latitude: 46.356529
 loc_type: city
 longitude: -62.250428
-score: 0.4
+score: 0.34
 title: Souris
 type: location
 ---

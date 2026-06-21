@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Moji_20201230_163247.jpg
 latitude: 33.9045
 loc_type: city
 longitude: 130.9329
-score: 0.53
+score: 0.45
 title: Moji
 type: location
 ---

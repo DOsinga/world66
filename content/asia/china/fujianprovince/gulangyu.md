@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Gulangyu
 title: Gulangyu
 type: location
+score: 0.53
 ---
 
 Gulangyu is a two-square-kilometre island a few minutes by ferry from the Xiamen waterfront, and it is among the most unusual places in China: a UNESCO World Heritage Site where no motor vehicles are permitted, the streets are quiet enough to hear birdsong, and the architecture is a layered collision of Victorian, Spanish, Dutch, and Japanese colonial styles alongside traditional Fujianese buildings. From the 1840s to the 1940s it served as a foreign concession and international settlement, and the mansions and consulates built during that century give the island a physical character found nowhere else on the Chinese coast.

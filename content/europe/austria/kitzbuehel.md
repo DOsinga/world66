@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kitzbuehel03.JPG
 latitude: 47.4464
 loc_type: city
 longitude: 12.3911
-score: 0.69
+score: 0.6
 title: Kitzbühel
 type: location
 ---

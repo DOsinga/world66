@@ -1,200 +1,200 @@
 {
   "round": 781,
-  "timestamp": "2026-04-12T10:47:49",
+  "timestamp": "2026-06-13T19:53:22",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Italian Riviera",
-      "path": "europe/italy/liguria/italianriviera",
-      "prior_mu": 22.8246,
-      "prior_sigma": 5.9669,
-      "prior_n": 1
+      "title": "Museum",
+      "path": "northamerica/canada/britishcolumbia/vancouver/museum",
+      "prior_score": -1.3749,
+      "prior_variance": 0.664784,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Lindos",
-      "path": "europe/greece/rhodes/lindos",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Impero Valley",
+      "path": "europe/italy/liguria/imperovalley",
+      "prior_score": -1.3054,
+      "prior_variance": 0.985187,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Chirrip\u00f3",
-      "path": "northamerica/costarica/chirripo",
-      "prior_mu": 25.6889,
-      "prior_sigma": 6.3881,
-      "prior_n": 1
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_score": -3.2528,
+      "prior_variance": 0.827083,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Canazei",
-      "path": "europe/italy/trentinoaltoadige/val_di_fassa/canazei",
-      "prior_mu": 23.8591,
-      "prior_sigma": 5.889,
-      "prior_n": 1
+      "title": "Exeter",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/exeter",
+      "prior_score": 4.513,
+      "prior_variance": 0.60391,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Culebra",
-      "path": "northamerica/puertorico/culebra",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hove",
+      "path": "europe/unitedkingdom/england/south_east/hove",
+      "prior_score": -1.958,
+      "prior_variance": 0.704293,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Auckland Region",
-      "path": "australiaandpacific/newzealand/auckland_region",
-      "prior_mu": 24.7635,
-      "prior_sigma": 6.1459,
-      "prior_n": 1
+      "title": "Machynlleth",
+      "path": "europe/unitedkingdom/wales/machynlleth",
+      "prior_score": -1.7567,
+      "prior_variance": 0.704526,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Falkland Islands",
-      "path": "southamerica/falklandislands",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Newry",
+      "path": "europe/unitedkingdom/northernireland/newry",
+      "prior_score": -2.4503,
+      "prior_variance": 0.910912,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Keelung",
-      "path": "asia/taiwan/keelung",
-      "prior_mu": 22.3818,
-      "prior_sigma": 5.5345,
-      "prior_n": 1
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/santa_rosa",
+      "prior_score": -1.2208,
+      "prior_variance": 0.830541,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Poznan",
-      "path": "europe/poland/poznan",
-      "prior_mu": 21.2945,
-      "prior_sigma": 3.9327,
-      "prior_n": 3
+      "title": "Johor Bahru",
+      "path": "asia/malaysia/johorbahru",
+      "prior_score": -1.2923,
+      "prior_variance": 0.950527,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Exeter",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/exeter",
-      "prior_mu": 21.9765,
-      "prior_sigma": 4.2628,
+      "title": "B\u00fckf\u00fcrd\u0151",
+      "path": "europe/hungary/bkfrd",
+      "prior_score": -2.9017,
+      "prior_variance": 0.67942,
       "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Speyer",
-      "path": "europe/germany/badenwrttemberg/speyer",
-      "prior_mu": 21.2522,
-      "prior_sigma": 3.4609,
-      "prior_n": 3
+      "title": "Nizhny Novgorod",
+      "path": "europe/russia/nizhnynovgorod",
+      "prior_score": -2.0451,
+      "prior_variance": 0.743719,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Tagaytay",
-      "path": "asia/philippines/tagaytay",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2992,
-      "prior_n": 1
+      "title": "Tsaghkadzor Ski Resort",
+      "path": "europe/armenia/kotayk_marz/hrazdan/tsaghkadzor_ski_resort",
+      "prior_score": -2.8318,
+      "prior_variance": 0.745908,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Osh",
-      "path": "asia/kyrgyzstan/osh",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Fairplay",
+      "path": "northamerica/unitedstates/colorado/fairplay",
+      "prior_score": -2.5266,
+      "prior_variance": 0.746792,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Le\u00f3n",
-      "path": "northamerica/mexico/guanajuato/len",
-      "prior_mu": 22.2589,
-      "prior_sigma": 5.41,
-      "prior_n": 1
+      "title": "Long Beach Island",
+      "path": "northamerica/unitedstates/newjersey/longbeachisland",
+      "prior_score": -0.9812,
+      "prior_variance": 0.847601,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Cowichan Bay",
-      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
-      "prior_mu": 21.3619,
-      "prior_sigma": 4.5245,
+      "title": "Chapel Hill",
+      "path": "northamerica/unitedstates/northcarolina/chapelhill",
+      "prior_score": -1.6334,
+      "prior_variance": 0.970434,
       "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Bamako",
-      "path": "africa/mali/bamako",
-      "prior_mu": 21.471,
-      "prior_sigma": 4.7157,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_score": -0.6115,
+      "prior_variance": 0.681626,
       "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Birmingham",
-      "path": "northamerica/unitedstates/alabama/birmingham",
-      "prior_mu": 22.3963,
-      "prior_sigma": 5.6828,
-      "prior_n": 1
+      "title": "Maputo",
+      "path": "africa/mozambique/maputo",
+      "prior_score": -2.3161,
+      "prior_variance": 0.898112,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Jublains",
-      "path": "europe/france/normandybrittany/jublains",
-      "prior_mu": 20.8349,
-      "prior_sigma": 4.8387,
+      "title": "Bahia De Kino",
+      "path": "northamerica/mexico/bahiadekino",
+      "prior_score": -2.4646,
+      "prior_variance": 0.64216,
       "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Nord",
-      "path": "europe/france/nord",
-      "prior_mu": 17.2449,
-      "prior_sigma": 6.7588,
-      "prior_n": 1
+      "title": "Dangriga",
+      "path": "northamerica/belize/dangriga",
+      "prior_score": -1.5581,
+      "prior_variance": 0.764073,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Osiglia",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/osiglia",
-      "prior_mu": 22.2517,
-      "prior_sigma": 5.4631,
-      "prior_n": 1
+      "title": "Honiara",
+      "path": "australiaandpacific/solomonislands/honiara",
+      "prior_score": -2.4555,
+      "prior_variance": 0.847042,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Escalante City",
-      "path": "asia/philippines/escalante_city",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ferghana Valley",
+      "path": "asia/uzbekistan/ferghanavalley",
+      "prior_score": -1.3768,
+      "prior_variance": 0.755819,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Radovis",
-      "path": "europe/macedonia/radovis",
-      "prior_mu": 21.3258,
-      "prior_sigma": 4.1672,
-      "prior_n": 2
+      "title": "Villa Serrana",
+      "path": "southamerica/uruguay/villaserrana",
+      "prior_score": -1.3653,
+      "prior_variance": 0.791198,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Riedstadt",
-      "path": "europe/germany/hessen/riedstadt",
-      "prior_mu": 21.9418,
-      "prior_sigma": 5.3029,
-      "prior_n": 1
+      "title": "Vinkovci",
+      "path": "europe/croatia/vinkovci",
+      "prior_score": -3.4913,
+      "prior_variance": 0.500198,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Warsaw",
-      "path": "northamerica/unitedstates/indiana/warsaw",
-      "prior_mu": 18.9888,
-      "prior_sigma": 5.2334,
-      "prior_n": 2
+      "title": "Vaitupu Island",
+      "path": "australiaandpacific/tuvalu/vaitupuisland",
+      "prior_score": -3.6328,
+      "prior_variance": 0.791053,
+      "prior_n": 3
     }
   ]
 }

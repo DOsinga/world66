@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beinisvord,_westcoast_of_s
 latitude: 61.4033
 loc_type: city
 longitude: -6.7117
-score: 0.38
+score: 0.39
 title: Sumba
 type: location
 ---

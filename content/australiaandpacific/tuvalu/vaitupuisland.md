@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Vaitupu
 title: Vaitupu Island
 type: location
+score: 0.3
 ---
 
 Vaitupu is the largest island of [Tuvalu](/australiaandpacific/tuvalu) by land area and one of the more densely populated. It is a classic reef island rather than a true atoll: a roughly oval lump of coral and palm forest about five and a half kilometres long, enclosing two small shallow lagoons in its interior. Around 1,600 people live here, almost all of them in the village of [Asau](/australiaandpacific/tuvalu/vaitupuisland/asau) on the western side.

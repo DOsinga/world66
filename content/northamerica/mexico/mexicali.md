@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CasaCulturalMexicali_(crop
 latitude: 32.624531
 loc_type: city
 longitude: -115.452604
-score: 0.36
+score: 0.27
 title: Mexicali
 type: location
 ---

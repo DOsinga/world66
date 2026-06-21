@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Faroe_Islands,_Streymoy,_K
 latitude: 61.9537
 loc_type: city
 longitude: -6.7934
-score: 0.55
+score: 0.48
 title: Kirkjubour
 type: location
 ---

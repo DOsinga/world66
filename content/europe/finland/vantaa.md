@@ -4,7 +4,7 @@ done:
 latitude: 60.292988
 loc_type: city
 longitude: 25.043674
-score: 0.39
+score: 0.33
 title: Vantaa
 type: location
 ---

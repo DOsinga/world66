@@ -5,7 +5,7 @@ done:
 latitude: 20.8689
 loc_type: city
 longitude: -105.4407
-score: 0.61
+score: 0.54
 sources:
 - https://en.wikipedia.org/wiki/Sayulita
 - https://www.sayulitalife.com/sayulitainfo

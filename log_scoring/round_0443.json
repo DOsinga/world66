@@ -1,199 +1,199 @@
 {
   "round": 443,
-  "timestamp": "2026-04-12T09:30:59",
+  "timestamp": "2026-06-13T19:35:32",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Cape Town",
-      "path": "africa/southafrica/capetown",
-      "prior_mu": 24.9236,
-      "prior_sigma": 4.9434,
-      "prior_n": 2
+      "title": "Banjul",
+      "path": "africa/gambia/banjul",
+      "prior_score": -5.6126,
+      "prior_variance": 1.502668,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Garden Route",
-      "path": "africa/southafrica/gardenroute",
-      "prior_mu": 23.0729,
-      "prior_sigma": 5.994,
+      "title": "Luperon",
+      "path": "northamerica/dominicanrepublic/luperon",
+      "prior_score": -7.2893,
+      "prior_variance": 2.283498,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Knysna",
-      "path": "africa/southafrica/gardenroute/knysna",
-      "prior_mu": 23.0729,
-      "prior_sigma": 5.994,
+      "title": "Narona",
+      "path": "europe/croatia/narona",
+      "prior_score": -7.3385,
+      "prior_variance": 4.812019,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Franschhoek",
-      "path": "africa/southafrica/franschhoek",
-      "prior_mu": 23.251,
-      "prior_sigma": 5.6431,
+      "title": "Heliopolis",
+      "path": "africa/egypt/heliopolis",
+      "prior_score": -9.0245,
+      "prior_variance": 3.512711,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Stellenbosch",
-      "path": "africa/southafrica/capetown/stellenbosch",
-      "prior_mu": 22.4244,
-      "prior_sigma": 4.7374,
-      "prior_n": 2
+      "title": "Xianyang",
+      "path": "asia/china/shaanxi/xianyang",
+      "prior_score": -4.5461,
+      "prior_variance": 2.079463,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Winelands",
-      "path": "africa/southafrica/winelands",
-      "prior_mu": 22.6344,
-      "prior_sigma": 4.746,
-      "prior_n": 2
+      "title": "Ta\u2019if",
+      "path": "asia/saudiarabia/taif",
+      "prior_score": -1.082,
+      "prior_variance": 4.199196,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Drakensberg",
-      "path": "africa/southafrica/drakensberg",
-      "prior_mu": 23.615,
-      "prior_sigma": 6.0689,
+      "title": "Sint-Truiden",
+      "path": "europe/belgium/sinttruiden",
+      "prior_score": -3.2807,
+      "prior_variance": 2.184216,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Addo Elephant National Park",
-      "path": "africa/southafrica/addo_elephant_nati",
-      "prior_mu": 22.861,
-      "prior_sigma": 5.9669,
+      "title": "\u017dilina",
+      "path": "europe/slovakia/zilina",
+      "prior_score": -2.8626,
+      "prior_variance": 1.469407,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Durban",
-      "path": "africa/southafrica/durban",
-      "prior_mu": 22.723,
-      "prior_sigma": 5.9499,
+      "title": "Anyang",
+      "path": "asia/china/henan_province/anyang",
+      "prior_score": -5.6407,
+      "prior_variance": 1.686416,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "KwaZulu-Natal",
-      "path": "africa/southafrica/kwazulu_natal",
-      "prior_mu": 22.6574,
-      "prior_sigma": 5.9397,
+      "title": "Kokkola",
+      "path": "europe/finland/kokkola",
+      "prior_score": -8.0863,
+      "prior_variance": 1.670152,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Giant's Castle",
-      "path": "africa/southafrica/drakensberg/giants_castle",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/northcarolina/greensboro",
+      "prior_score": -8.8864,
+      "prior_variance": 1.413604,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Northern Drakensberg",
-      "path": "africa/southafrica/drakensberg/northern_drakensbe",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "College Park",
+      "path": "northamerica/unitedstates/maryland/college_park",
+      "prior_score": -7.8462,
+      "prior_variance": 1.518427,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "George",
-      "path": "africa/southafrica/gardenroute/george",
-      "prior_mu": 22.9479,
-      "prior_sigma": 5.6828,
+      "title": "Johnstown",
+      "path": "northamerica/unitedstates/pennsylvania/johnstown",
+      "prior_score": -8.7062,
+      "prior_variance": 1.388047,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Oudtshoorn",
-      "path": "africa/southafrica/oudtshoorn",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Srikakulam",
+      "path": "asia/india/andhrapradesh/srikakulam",
+      "prior_score": -10.6015,
+      "prior_variance": 9.35335,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Wilderness",
-      "path": "africa/southafrica/gardenroute/wilderness",
-      "prior_mu": 22.9496,
-      "prior_sigma": 5.8719,
+      "title": "Hunchun",
+      "path": "asia/china/jilin/hunchun",
+      "prior_score": -11.0674,
+      "prior_variance": 6.477736,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Cederberg Wilderness Area",
-      "path": "africa/southafrica/cederberg_wilderne",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Liaoyang",
+      "path": "asia/china/liaoning/liaoyang",
+      "prior_score": -7.8589,
+      "prior_variance": 3.629897,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Port Elizabeth",
-      "path": "africa/southafrica/portelizabeth",
-      "prior_mu": 21.9501,
-      "prior_sigma": 4.8387,
-      "prior_n": 2
+      "title": "Plodio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/plodio",
+      "prior_score": -8.7079,
+      "prior_variance": 2.687958,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Gauteng",
-      "path": "africa/southafrica/gauteng",
-      "prior_mu": 22.7077,
-      "prior_sigma": 5.9481,
+      "title": "Los Teques",
+      "path": "southamerica/venezuela/altos_mirandinos/los_teques",
+      "prior_score": -9.2946,
+      "prior_variance": 2.680244,
       "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Kimberley",
-      "path": "africa/southafrica/kimberley",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ferizaj",
+      "path": "europe/serbia/kosovoprovince/ferizaj",
+      "prior_score": -11.0397,
+      "prior_variance": 3.407381,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "South Africa",
-      "path": "africa/southafrica",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Malay",
+      "path": "asia/philippines/aklan/malay",
+      "prior_score": -8.8595,
+      "prior_variance": 2.050338,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Melville",
-      "path": "africa/southafrica/johannesburg/melville",
-      "prior_mu": 21.47,
-      "prior_sigma": 4.7181,
-      "prior_n": 2
+      "title": "Reedley",
+      "path": "northamerica/unitedstates/california/centralvalley/reedley",
+      "prior_score": -5.9837,
+      "prior_variance": 4.853168,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Phalaborwa",
-      "path": "africa/southafrica/phalaborwa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Barking",
+      "path": "europe/unitedkingdom/england/south_east/barking",
+      "prior_score": -10.008,
+      "prior_variance": 3.466226,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Amanzimtoti",
-      "path": "africa/southafrica/amanzimtoti",
-      "prior_mu": 22.6535,
-      "prior_sigma": 5.6913,
+      "title": "The Qalas",
+      "path": "asia/uzbekistan/theqalas",
+      "prior_score": -8.6741,
+      "prior_variance": 4.707401,
       "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Tattoos",
-      "path": "africa/southafrica/hermauns/tattoos",
-      "prior_mu": 22.7217,
-      "prior_sigma": 5.9497,
+      "title": "Datil",
+      "path": "northamerica/unitedstates/newmexico/datil",
+      "prior_score": -12.1251,
+      "prior_variance": 8.25661,
       "prior_n": 1
     }
   ]

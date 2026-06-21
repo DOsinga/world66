@@ -1,0 +1,200 @@
+{
+  "round": 2497,
+  "timestamp": "2026-06-13T21:46:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seoul",
+      "path": "asia/southkorea/seoul",
+      "prior_score": 14.615,
+      "prior_variance": 0.617131,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Kaziranga",
+      "path": "asia/india/assam/kaziranga",
+      "prior_score": 3.6254,
+      "prior_variance": 0.173157,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Xining",
+      "path": "asia/china/qinghai/xining",
+      "prior_score": -1.1432,
+      "prior_variance": 0.200903,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Pune",
+      "path": "asia/india/maharashtra/pune",
+      "prior_score": -0.9573,
+      "prior_variance": 0.164937,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Qui Nhon",
+      "path": "asia/vietnam/qui_nhon",
+      "prior_score": 0.6447,
+      "prior_variance": 0.200887,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Caerphilly",
+      "path": "europe/unitedkingdom/wales/caerphilly",
+      "prior_score": 0.6628,
+      "prior_variance": 0.156158,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/longbeach",
+      "prior_score": -0.5721,
+      "prior_variance": 0.209067,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Enschede",
+      "path": "europe/netherlands/enschede",
+      "prior_score": -3.546,
+      "prior_variance": 0.191819,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Lo Pag\u00e1n",
+      "path": "europe/spain/murcia/lopagan",
+      "prior_score": -1.2175,
+      "prior_variance": 0.162704,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Almerimar",
+      "path": "europe/spain/andalucia/almerimar",
+      "prior_score": -1.9302,
+      "prior_variance": 0.1727,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Huy",
+      "path": "europe/belgium/huy",
+      "prior_score": -0.8425,
+      "prior_variance": 0.170065,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Jakobstad",
+      "path": "europe/finland/jakobstad",
+      "prior_score": -1.4518,
+      "prior_variance": 0.183267,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Arica",
+      "path": "southamerica/chile/arica",
+      "prior_score": -0.4466,
+      "prior_variance": 0.160407,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Ormoc City",
+      "path": "asia/philippines/leyteisland/ormoc_city",
+      "prior_score": -2.0441,
+      "prior_variance": 0.177808,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Foumban",
+      "path": "africa/cameroon/foumban",
+      "prior_score": -1.7372,
+      "prior_variance": 0.163126,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Kondoa",
+      "path": "africa/tanzania/kondoa",
+      "prior_score": -2.1955,
+      "prior_variance": 0.168552,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Great Yarmouth",
+      "path": "europe/unitedkingdom/england/eastern_england/greatyarmouth",
+      "prior_score": -0.9031,
+      "prior_variance": 0.185996,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "McCloud",
+      "path": "northamerica/unitedstates/california/shastacascade/mccloud",
+      "prior_score": -2.5063,
+      "prior_variance": 0.157617,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Poyang Lake",
+      "path": "asia/china/jiangxi/poyang_lake",
+      "prior_score": -2.3453,
+      "prior_variance": 0.169197,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Fort Smith",
+      "path": "northamerica/canada/northwestterritories/fort_smith",
+      "prior_score": -3.8846,
+      "prior_variance": 0.178885,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Golsfjellet",
+      "path": "europe/norway/golsfjellet",
+      "prior_score": -1.4166,
+      "prior_variance": 0.198872,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Moynaq",
+      "path": "asia/uzbekistan/moynaq",
+      "prior_score": -2.3424,
+      "prior_variance": 0.211992,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Buraimi",
+      "path": "asia/oman/buraimi",
+      "prior_score": -4.7815,
+      "prior_variance": 0.242239,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Garowe",
+      "path": "africa/somalia/garowe",
+      "prior_score": -11.0074,
+      "prior_variance": 0.596917,
+      "prior_n": 7
+    }
+  ]
+}

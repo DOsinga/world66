@@ -5,7 +5,7 @@ latitude: 58.383
 longitude: 21.81
 title: Vilsandi National Park
 type: location
-score: 0.51
+score: 0.43
 loc_type: feature
 ---
 

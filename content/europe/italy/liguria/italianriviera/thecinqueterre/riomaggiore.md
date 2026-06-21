@@ -6,7 +6,7 @@ latitude: 44.098975
 longitude: 9.73867
 title: Riomaggiore
 type: location
-score: 0.85
+score: 0.73
 image: riomaggiore.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Riomaggiore,_Cinque_Terre,_Italy.jpg
 image_license: CC BY 2.0

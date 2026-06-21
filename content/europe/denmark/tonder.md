@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Storegade,_Tondern,_Fussga
 image_attribution: Clemensfranz
 latitude: 54.938064
 longitude: 8.862941
-score: 0.46
+score: 0.38
 title: Tonder
 type: location
 loc_type: city

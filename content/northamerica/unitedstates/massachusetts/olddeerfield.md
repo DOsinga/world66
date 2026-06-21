@@ -5,7 +5,7 @@ done:
 latitude: 42.5409
 loc_type: city
 longitude: -72.6076
-score: 0.46
+score: 0.39
 title: Old Deerfield
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tin_Mal_Mosque3_(js).jpg
 latitude: 30.9848
 loc_type: city
 longitude: -8.2281
-score: 0.43
+score: 0.41
 sources:
 - https://en.wikipedia.org/wiki/Tinmal_Mosque
 - https://en.wikipedia.org/wiki/Tinmel

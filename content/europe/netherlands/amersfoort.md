@@ -8,12 +8,12 @@ image_source: https://commons.wikimedia.org/wiki/File:Amersfoort-Panorama.jpg
 latitude: 52.16377
 longitude: 5.408885
 loc_type: city
-score: 0.51
+score: 0.47
 sources:
-  - https://en.wikipedia.org/wiki/Amersfoort
-  - https://en.wikipedia.org/wiki/Koppelpoort
-  - https://en.wikipedia.org/wiki/Mondriaan_House
-  - https://en.wikipedia.org/wiki/Museum_Flehite
+- https://en.wikipedia.org/wiki/Amersfoort
+- https://en.wikipedia.org/wiki/Koppelpoort
+- https://en.wikipedia.org/wiki/Mondriaan_House
+- https://en.wikipedia.org/wiki/Museum_Flehite
 tags:
 - history
 - medieval

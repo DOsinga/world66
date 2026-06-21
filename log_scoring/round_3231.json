@@ -1,0 +1,200 @@
+{
+  "round": 3231,
+  "timestamp": "2026-06-13T22:38:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_score": 6.4877,
+      "prior_variance": 0.150966,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Delhi",
+      "path": "asia/india/delhi",
+      "prior_score": 3.0617,
+      "prior_variance": 0.184324,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Lindau",
+      "path": "europe/germany/bavaria/lindau",
+      "prior_score": 4.6458,
+      "prior_variance": 0.130278,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_score": 6.3932,
+      "prior_variance": 0.163304,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Nuoro",
+      "path": "europe/italy/sardinia/nuoro",
+      "prior_score": 1.223,
+      "prior_variance": 0.122529,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Fort William",
+      "path": "europe/unitedkingdom/scotland/fort_william",
+      "prior_score": 3.0168,
+      "prior_variance": 0.139708,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo",
+      "prior_score": 1.4492,
+      "prior_variance": 0.135741,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Liege",
+      "path": "europe/belgium/liege",
+      "prior_score": 0.7704,
+      "prior_variance": 0.122707,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "O Grove",
+      "path": "europe/spain/galicia/o_grove",
+      "prior_score": 1.2141,
+      "prior_variance": 0.133411,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "St. Simons Island",
+      "path": "northamerica/unitedstates/georgia/stsimonsisland",
+      "prior_score": 1.0282,
+      "prior_variance": 0.129431,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "St. Louis",
+      "path": "northamerica/unitedstates/missouri/stlouis",
+      "prior_score": -0.3521,
+      "prior_variance": 0.191547,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Pontrieux",
+      "path": "europe/france/normandybrittany/pontrieux",
+      "prior_score": 0.2827,
+      "prior_variance": 0.119056,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Haliburton",
+      "path": "northamerica/canada/ontario/haliburton",
+      "prior_score": -0.6696,
+      "prior_variance": 0.121267,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Windhoek",
+      "path": "africa/namibia/windhoek",
+      "prior_score": 0.1399,
+      "prior_variance": 0.12647,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Kaliningrad",
+      "path": "europe/russia/kaliningrad",
+      "prior_score": -0.483,
+      "prior_variance": 0.133277,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Corrientes",
+      "path": "southamerica/argentina/corrientes",
+      "prior_score": -1.3383,
+      "prior_variance": 0.130799,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Tunja",
+      "path": "southamerica/colombia/tunja",
+      "prior_score": -0.9322,
+      "prior_variance": 0.13101,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Dunkerque",
+      "path": "europe/france/nord/dunkerque",
+      "prior_score": -2.8655,
+      "prior_variance": 0.160905,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Skanes",
+      "path": "africa/tunisia/skanes",
+      "prior_score": -1.1707,
+      "prior_variance": 0.13078,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Medenine",
+      "path": "africa/tunisia/medenine",
+      "prior_score": -3.4401,
+      "prior_variance": 0.132561,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Guerrero Negro",
+      "path": "northamerica/mexico/guerreronegro",
+      "prior_score": -2.9399,
+      "prior_variance": 0.131028,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Stella",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stella",
+      "prior_score": -1.3993,
+      "prior_variance": 0.129046,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Hagerman",
+      "path": "northamerica/unitedstates/idaho/hagerman",
+      "prior_score": -4.0929,
+      "prior_variance": 0.175959,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Ambalavao",
+      "path": "africa/madagascar/ambalavao",
+      "prior_score": -2.8262,
+      "prior_variance": 0.157405,
+      "prior_n": 10
+    }
+  ]
+}

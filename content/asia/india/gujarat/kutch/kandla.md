@@ -5,7 +5,7 @@ done:
 latitude: 23.033333
 loc_type: city
 longitude: 70.216667
-score: 0.3
+score: 0.25
 title: Kandla
 type: location
 image: kandla.jpg

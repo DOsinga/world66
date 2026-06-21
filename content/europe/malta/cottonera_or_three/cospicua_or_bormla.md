@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Malta_-_Cospicua_-_Ix-Xatt
 latitude: 35.8805
 loc_type: city
 longitude: 14.5225
-score: 0.48
+score: 0.44
 title: Cospicua (or Bormla)
 type: location
 ---

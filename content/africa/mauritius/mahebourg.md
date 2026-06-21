@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Esplanade,_Mahebourg,_Maur
 latitude: -20.411104
 loc_type: city
 longitude: 57.706062
-score: 0.62
+score: 0.52
 title: Mahébourg
 type: location
 ---

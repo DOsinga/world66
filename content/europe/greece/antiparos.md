@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20120720_Antiparos_Tower_H
 latitude: 36.994353
 loc_type: city
 longitude: 25.048208
-score: 0.64
+score: 0.58
 title: Antiparos
 type: location
 ---

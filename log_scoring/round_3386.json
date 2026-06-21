@@ -1,0 +1,200 @@
+{
+  "round": 3386,
+  "timestamp": "2026-06-13T22:50:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Montpellier",
+      "path": "europe/france/midi/languedoc/montpellier",
+      "prior_score": 3.8185,
+      "prior_variance": 0.11561,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Les Crosets",
+      "path": "europe/switzerland/lescrosets",
+      "prior_score": 0.9426,
+      "prior_variance": 0.136545,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Dartmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmouth",
+      "prior_score": 2.501,
+      "prior_variance": 0.119145,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_score": 0.4148,
+      "prior_variance": 0.113273,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Cruden Bay",
+      "path": "europe/unitedkingdom/scotland/cruden_bay",
+      "prior_score": -0.4561,
+      "prior_variance": 0.115539,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Almerimar",
+      "path": "europe/spain/andalucia/almerimar",
+      "prior_score": -1.4627,
+      "prior_variance": 0.125375,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Valdeorras",
+      "path": "europe/spain/galicia/valdeorras",
+      "prior_score": -1.5854,
+      "prior_variance": 0.112367,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_score": 0.956,
+      "prior_variance": 0.126443,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Harlingen",
+      "path": "europe/netherlands/friesland/harlingen",
+      "prior_score": -1.6505,
+      "prior_variance": 0.125264,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Schorndorf",
+      "path": "europe/germany/badenwrttemberg/schorndorf",
+      "prior_score": -2.2551,
+      "prior_variance": 0.128538,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Bochnia",
+      "path": "europe/poland/bochnia",
+      "prior_score": -1.8668,
+      "prior_variance": 0.125964,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Umm Qais",
+      "path": "asia/jordan/umm_qais",
+      "prior_score": 0.901,
+      "prior_variance": 0.112105,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Faj\u00e3 d\u2019Agua",
+      "path": "africa/capeverde/brava/faj_dagua",
+      "prior_score": -0.0086,
+      "prior_variance": 0.120722,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Bamenda",
+      "path": "africa/cameroon/bamenda",
+      "prior_score": -3.8887,
+      "prior_variance": 0.136588,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Xinglong",
+      "path": "asia/china/hainanisland/xinglong",
+      "prior_score": -2.7118,
+      "prior_variance": 0.143068,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "San Angelo",
+      "path": "northamerica/unitedstates/texas/san_angelo",
+      "prior_score": -3.2804,
+      "prior_variance": 0.127252,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Zamboanga",
+      "path": "asia/philippines/zamboanga",
+      "prior_score": -3.1111,
+      "prior_variance": 0.127504,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Yakutsk",
+      "path": "europe/russia/yakutsk",
+      "prior_score": -3.0217,
+      "prior_variance": 0.136197,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Tuba City",
+      "path": "northamerica/unitedstates/arizona/tuba_city",
+      "prior_score": -3.617,
+      "prior_variance": 0.12623,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Altay Prefecture",
+      "path": "asia/china/xinjiangprovince/altayprefecture",
+      "prior_score": -1.3476,
+      "prior_variance": 0.131872,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Baicheng",
+      "path": "asia/china/jilin/baicheng",
+      "prior_score": -6.0116,
+      "prior_variance": 0.148754,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Skenderaj",
+      "path": "europe/serbia/kosovoprovince/skenderaj",
+      "prior_score": -7.2949,
+      "prior_variance": 0.240749,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Collinsville",
+      "path": "northamerica/unitedstates/illinois/collinsville",
+      "prior_score": -4.7412,
+      "prior_variance": 0.152559,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Niono",
+      "path": "africa/mali/niono",
+      "prior_score": -9.6979,
+      "prior_variance": 0.309499,
+      "prior_n": 10
+    }
+  ]
+}

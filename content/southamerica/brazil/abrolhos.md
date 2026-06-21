@@ -5,7 +5,7 @@ latitude: -17.963404
 longitude: -38.70369
 title: Abrolhos
 type: location
-score: 0.49
+score: 0.44
 loc_type: feature
 ---
 

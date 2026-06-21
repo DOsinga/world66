@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2Brug_bij._Geel-Stelen.jpg
 latitude: 51.1611
 loc_type: city
 longitude: 4.9903
-score: 0.37
+score: 0.33
 title: Geel
 type: location
 ---

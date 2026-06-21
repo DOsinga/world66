@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/8749778@N06/54238364103
 latitude: 43.6884
 loc_type: city
 longitude: -70.2463
-score: 0.52
+score: 0.49
 title: Portland Maine
 type: location
 ---

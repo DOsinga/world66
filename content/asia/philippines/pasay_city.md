@@ -5,7 +5,7 @@ done:
 latitude: 14.5437
 loc_type: city
 longitude: 120.99465
-score: 0.37
+score: 0.31
 title: Pasay City
 type: location
 image: pasay_city.jpg

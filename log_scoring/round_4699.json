@@ -1,0 +1,200 @@
+{
+  "round": 4699,
+  "timestamp": "2026-06-14T00:34:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Inle Lake",
+      "path": "asia/myanmar/inlelake",
+      "prior_score": 5.3486,
+      "prior_variance": 0.105281,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Sukhothai",
+      "path": "asia/thailand/sukhothai",
+      "prior_score": 6.8101,
+      "prior_variance": 0.120162,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Cabanaconde",
+      "path": "southamerica/peru/colca_canyon/cabanaconde",
+      "prior_score": 5.4806,
+      "prior_variance": 0.107876,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Gir National Park",
+      "path": "asia/india/gujarat/wildlife/girnationalpark",
+      "prior_score": 2.4837,
+      "prior_variance": 0.094683,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Valen\u00e7ay",
+      "path": "europe/france/centre/loirevalley/valencay",
+      "prior_score": 1.1598,
+      "prior_variance": 0.095401,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "El Jadida",
+      "path": "africa/morocco/el_jadida",
+      "prior_score": 0.8567,
+      "prior_variance": 0.090144,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_score": 2.1307,
+      "prior_variance": 0.08373,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Aliano",
+      "path": "europe/italy/basilicata/aliano",
+      "prior_score": -0.741,
+      "prior_variance": 0.08295,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Vlieland",
+      "path": "europe/netherlands/waddenislands/vlieland_island",
+      "prior_score": 1.281,
+      "prior_variance": 0.097325,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Feuchtwangen",
+      "path": "europe/germany/bavaria/romanticroad/feuchtwangen",
+      "prior_score": 0.7027,
+      "prior_variance": 0.091998,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Constanta",
+      "path": "europe/romania/constanta",
+      "prior_score": 0.3536,
+      "prior_variance": 0.077572,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Osh",
+      "path": "asia/kyrgyzstan/osh",
+      "prior_score": -0.8269,
+      "prior_variance": 0.101312,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Mallaig",
+      "path": "europe/unitedkingdom/scotland/mallaig",
+      "prior_score": 2.6539,
+      "prior_variance": 0.098966,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Kottayam",
+      "path": "asia/india/kerala/kottayam",
+      "prior_score": -1.348,
+      "prior_variance": 0.081655,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Barranquilla",
+      "path": "southamerica/colombia/barranquilla",
+      "prior_score": -0.4591,
+      "prior_variance": 0.096024,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Coquimbo",
+      "path": "southamerica/chile/coquimbo",
+      "prior_score": -0.1316,
+      "prior_variance": 0.084974,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Ben Lomond",
+      "path": "northamerica/unitedstates/california/ben_lomond_califo",
+      "prior_score": -0.6509,
+      "prior_variance": 0.089479,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_score": -0.5774,
+      "prior_variance": 0.088865,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Frankfort",
+      "path": "northamerica/unitedstates/kentucky/frankfort",
+      "prior_score": -2.6031,
+      "prior_variance": 0.100433,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Rajkot",
+      "path": "asia/india/gujarat/rajkot",
+      "prior_score": -3.199,
+      "prior_variance": 0.080553,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/centralcoast/ventura",
+      "prior_score": -0.4194,
+      "prior_variance": 0.083938,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Lamia",
+      "path": "europe/greece/lamia",
+      "prior_score": -1.9118,
+      "prior_variance": 0.089052,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/buxton",
+      "prior_score": -0.4807,
+      "prior_variance": 0.092182,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Shishkat",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/shishkat_gojal",
+      "prior_score": -4.1744,
+      "prior_variance": 0.126008,
+      "prior_n": 15
+    }
+  ]
+}

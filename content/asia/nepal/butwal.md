@@ -5,7 +5,7 @@ done:
 latitude: 27.700399
 loc_type: city
 longitude: 83.465767
-score: 0.37
+score: 0.31
 sources:
 - https://en.wikipedia.org/wiki/Butwal
 title: Butwal

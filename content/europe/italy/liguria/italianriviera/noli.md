@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Noli_-_View_from_Capo_Noli
 latitude: 44.2059
 loc_type: city
 longitude: 8.4164
-score: 0.61
+score: 0.51
 title: Noli
 type: location
 ---

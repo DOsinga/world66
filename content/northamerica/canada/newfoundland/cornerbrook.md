@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Autumn_in_Corner_Brook_(J)
 latitude: 48.95317
 loc_type: city
 longitude: -57.947388
-score: 0.42
+score: 0.37
 title: Corner Brook
 type: location
 ---

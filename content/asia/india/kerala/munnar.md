@@ -4,7 +4,7 @@ done:
 latitude: 10.086996
 loc_type: city
 longitude: 77.060091
-score: 0.64
+score: 0.55
 sources:
 - https://en.wikipedia.org/wiki/Munnar
 - https://en.wikipedia.org/wiki/Eravikulam_National_Park

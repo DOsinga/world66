@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kilkenny_castle_2.jpg
 latitude: 52.650625
 loc_type: city
 longitude: -7.251444
-score: 0.64
+score: 0.55
 title: Kilkenny
 type: location
 ---

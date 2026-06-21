@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brick_Buildings_Nashville_
 latitude: 36.162277
 loc_type: city
 longitude: -86.774298
-score: 0.6
+score: 0.53
 title: Nashville
 type: location
 ---

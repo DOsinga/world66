@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tokajcivertanlegi1.jpg
 latitude: 48.123553
 loc_type: city
 longitude: 21.411389
-score: 0.53
+score: 0.49
 title: Tokaj
 type: location
 ---

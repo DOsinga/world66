@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ghazi_khan_tomb_3_DG_khan_
 latitude: 30.032137
 loc_type: city
 longitude: 70.640111
-score: 0.23
+score: 0.18
 title: Dera Ghazi Khan
 type: location
 ---

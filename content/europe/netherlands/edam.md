@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Edam_-_Kwakelsteeg_-_At_th
 latitude: 52.511912
 loc_type: city
 longitude: 5.056285
-score: 0.54
+score: 0.46
 title: Edam
 type: location
 ---

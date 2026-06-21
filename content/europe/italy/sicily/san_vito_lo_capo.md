@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Vito_Lo_Capo_(1).jpg
 latitude: 38.1723
 loc_type: city
 longitude: 12.7349
-score: 0.68
+score: 0.56
 title: San Vito Lo Capo
 type: location
 ---

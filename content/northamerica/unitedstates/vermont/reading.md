@@ -5,7 +5,7 @@ done:
 latitude: 43.491
 loc_type: city
 longitude: -72.596
-score: 0.33
+score: 0.28
 title: Reading
 type: location
 image: reading.jpg

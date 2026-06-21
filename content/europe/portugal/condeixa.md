@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/12962905@N05/1414840422
 latitude: 40.113873
 loc_type: city
 longitude: -8.498632
-score: 0.45
+score: 0.38
 title: Condeixa
 type: location
 ---

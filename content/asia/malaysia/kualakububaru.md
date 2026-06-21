@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kuala_Kubu_Bharu_(220712)_
 latitude: 3.5559
 loc_type: city
 longitude: 101.6547
-score: 0.41
+score: 0.37
 title: Kuala Kubu Baru
 type: location
 ---

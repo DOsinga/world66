@@ -7,7 +7,7 @@ done:
 latitude: 52.3759
 loc_type: city
 longitude: 9.732
-score: 0.49
+score: 0.42
 title: Hannover
 type: location
 ---

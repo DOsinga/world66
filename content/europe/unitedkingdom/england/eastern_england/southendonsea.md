@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fishing_Boat,_Southend-on-
 latitude: 51.538824
 loc_type: city
 longitude: 0.712814
-score: 0.41
+score: 0.36
 title: Southend-on-Sea
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Abacus_Backpackers_Mbabane
 latitude: -26.3254
 loc_type: city
 longitude: 31.1447
-score: 0.44
+score: 0.35
 sources:
 - https://en.wikipedia.org/wiki/Mbabane
 - https://en.wikipedia.org/wiki/Indingilizi_Gallery

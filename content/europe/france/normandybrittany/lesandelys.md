@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:LesAndelys.jpg
 latitude: 49.2469
 loc_type: city
 longitude: 1.4216
-score: 0.52
+score: 0.45
 title: Les Andelys
 type: location
 ---

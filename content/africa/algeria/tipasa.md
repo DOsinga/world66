@@ -7,7 +7,7 @@ image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Martyrium_(Tipasa)_01.jpg
 latitude: 36.5899
 longitude: 2.4484
-score: 0.51
+score: 0.44
 title: Tipasa
 type: location
 loc_type: feature

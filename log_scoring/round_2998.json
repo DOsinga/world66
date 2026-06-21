@@ -1,0 +1,200 @@
+{
+  "round": 2998,
+  "timestamp": "2026-06-13T22:21:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Big Bend National Park",
+      "path": "northamerica/unitedstates/texas/big_bend_national_park",
+      "prior_score": 5.308,
+      "prior_variance": 0.150238,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Victoria",
+      "path": "northamerica/canada/britishcolumbia/victoria",
+      "prior_score": 5.7113,
+      "prior_variance": 0.164783,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Ars-en-R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
+      "prior_score": 3.6586,
+      "prior_variance": 0.13349,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Pontine Islands",
+      "path": "europe/italy/lazio/pontineislands",
+      "prior_score": 4.1808,
+      "prior_variance": 0.159318,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Dalyan",
+      "path": "asia/turkey/dalyan",
+      "prior_score": 4.6808,
+      "prior_variance": 0.171267,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Cala Ratjada",
+      "path": "europe/spain/balearicislands/mallorca/calaratjada",
+      "prior_score": 4.1846,
+      "prior_variance": 0.132925,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Dra\u010de",
+      "path": "europe/croatia/peljesac/drace",
+      "prior_score": 1.6778,
+      "prior_variance": 0.137534,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Teguise",
+      "path": "europe/spain/canaryislands/lanzarote/teguise",
+      "prior_score": 3.2796,
+      "prior_variance": 0.158443,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is",
+      "prior_score": 0.8133,
+      "prior_variance": 0.142378,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_score": 0.4441,
+      "prior_variance": 0.127582,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Simien Mountains",
+      "path": "africa/ethiopia/simienmountains",
+      "prior_score": 4.5245,
+      "prior_variance": 0.160876,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Montserrat",
+      "path": "northamerica/thecaribbean/monserrat",
+      "prior_score": 2.0649,
+      "prior_variance": 0.164697,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Phnom Penh",
+      "path": "asia/cambodia/phnompenh",
+      "prior_score": 4.5921,
+      "prior_variance": 0.170269,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Las Medulas",
+      "path": "europe/spain/galicia/las_medulas",
+      "prior_score": 3.3524,
+      "prior_variance": 0.132183,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Amarante",
+      "path": "europe/portugal/amarante",
+      "prior_score": 1.601,
+      "prior_variance": 0.132552,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Futuroscope",
+      "path": "europe/france/aquitaine/futuroscope",
+      "prior_score": 1.0569,
+      "prior_variance": 0.154009,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "The Ridgeway",
+      "path": "europe/unitedkingdom/england/south_east/ridgeway",
+      "prior_score": 0.0431,
+      "prior_variance": 0.148418,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Anakao",
+      "path": "africa/madagascar/anakao",
+      "prior_score": 0.7545,
+      "prior_variance": 0.141532,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Kurunegala",
+      "path": "asia/srilanka/kurunegala",
+      "prior_score": -0.7025,
+      "prior_variance": 0.133053,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Tadjoura",
+      "path": "africa/djibouti/tadjoura",
+      "prior_score": -3.4723,
+      "prior_variance": 0.154129,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Doncaster",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/doncaster",
+      "prior_score": -3.6332,
+      "prior_variance": 0.151325,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Agadez",
+      "path": "africa/niger/agadez",
+      "prior_score": -4.034,
+      "prior_variance": 0.206525,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Radovis",
+      "path": "europe/macedonia/radovis",
+      "prior_score": -5.1014,
+      "prior_variance": 0.160169,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Watonga",
+      "path": "northamerica/unitedstates/oklahoma/watonga",
+      "prior_score": -5.4159,
+      "prior_variance": 0.190257,
+      "prior_n": 9
+    }
+  ]
+}

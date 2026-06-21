@@ -1,0 +1,200 @@
+{
+  "round": 2912,
+  "timestamp": "2026-06-13T22:15:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Antiparos",
+      "path": "europe/greece/antiparos",
+      "prior_score": 4.8984,
+      "prior_variance": 0.184452,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Valparaiso",
+      "path": "southamerica/chile/valparaiso",
+      "prior_score": 5.1776,
+      "prior_variance": 0.162179,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Tofino",
+      "path": "northamerica/canada/britishcolumbia/tofino",
+      "prior_score": 5.5952,
+      "prior_variance": 0.148868,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Cayo Largo",
+      "path": "northamerica/thecaribbean/cuba/cayolargo",
+      "prior_score": 4.2882,
+      "prior_variance": 0.160273,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Lake Khovsgol",
+      "path": "asia/mongolia/lakekhovsgol",
+      "prior_score": 2.9089,
+      "prior_variance": 0.19193,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Okayama",
+      "path": "asia/japan/honshu/okayama",
+      "prior_score": 3.8646,
+      "prior_variance": 0.18986,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Mumbai",
+      "path": "asia/india/maharashtra/mumbai",
+      "prior_score": 3.6769,
+      "prior_variance": 0.156326,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Gaiole in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/gaiole_in_chianti",
+      "prior_score": 3.8818,
+      "prior_variance": 0.145029,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Vall de N\u00faria",
+      "path": "europe/spain/catalonia/nuria",
+      "prior_score": 4.0984,
+      "prior_variance": 0.131003,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Mount Hood",
+      "path": "northamerica/unitedstates/oregon/mounthood",
+      "prior_score": 2.6518,
+      "prior_variance": 0.192583,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo_city",
+      "prior_score": 1.2827,
+      "prior_variance": 0.148714,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Ibo Island",
+      "path": "africa/mozambique/iboisland",
+      "prior_score": -1.7015,
+      "prior_variance": 0.194422,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Trouville",
+      "path": "europe/france/normandybrittany/trouville",
+      "prior_score": 2.6976,
+      "prior_variance": 0.163311,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Bozeman",
+      "path": "northamerica/unitedstates/montana/bozeman",
+      "prior_score": 1.5402,
+      "prior_variance": 0.167559,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Roskilde",
+      "path": "europe/denmark/roskilde",
+      "prior_score": 2.9625,
+      "prior_variance": 0.129096,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Dra\u010de",
+      "path": "europe/croatia/peljesac/drace",
+      "prior_score": 1.7094,
+      "prior_variance": 0.1579,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Pointe-\u00e0-Pitre",
+      "path": "northamerica/thecaribbean/guadeloupe/pointeapitre",
+      "prior_score": 0.7308,
+      "prior_variance": 0.147892,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "North Frisian Islands",
+      "path": "europe/germany/schleswigholstein/north_frisian_islands",
+      "prior_score": 1.9819,
+      "prior_variance": 0.151723,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Pithoragarh",
+      "path": "asia/india/uttaranchal/pithoragarh",
+      "prior_score": 0.0385,
+      "prior_variance": 0.12259,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/tavistock",
+      "prior_score": -0.6411,
+      "prior_variance": 0.183982,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Apalachicola",
+      "path": "northamerica/unitedstates/florida/thepanhandle/apalachicola",
+      "prior_score": -1.6232,
+      "prior_variance": 0.151277,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Ja\u00e9n",
+      "path": "europe/spain/andalucia/jaen",
+      "prior_score": 0.5529,
+      "prior_variance": 0.131311,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Cisano sul Neva",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cisanosulneva",
+      "prior_score": -1.3896,
+      "prior_variance": 0.138908,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Hamm",
+      "path": "europe/germany/northrhinewestphalia/hamm",
+      "prior_score": -5.276,
+      "prior_variance": 0.233761,
+      "prior_n": 9
+    }
+  ]
+}

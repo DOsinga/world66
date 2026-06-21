@@ -4,7 +4,7 @@ done:
 latitude: 30.855
 loc_type: city
 longitude: -81.471
-score: 0.5
+score: 0.46
 title: Cumberland Island
 type: location
 ---

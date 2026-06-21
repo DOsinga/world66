@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Henry_Street,_Kenmare.jpg
 latitude: 51.8791
 loc_type: city
 longitude: -9.584
-score: 0.6
+score: 0.49
 title: Kenmare
 type: location
 ---

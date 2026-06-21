@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_carcassonne_aerial_2016.
 latitude: 43.213
 loc_type: city
 longitude: 2.3491
-score: 0.72
+score: 0.65
 title: Carcassonne
 type: location
 ---

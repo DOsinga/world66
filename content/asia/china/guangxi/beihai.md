@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Beihai
 title: Beihai
 type: location
+score: 0.4
 ---
 
 Beihai sits on Guangxi's southern coast, facing the Gulf of Tonkin, and it is the province's only significant beach destination. The city has grown fast and somewhat chaotically, but the seafood is outstanding — fresh, cheap, and available in quantity at the night markets, where the combination of subtropical warmth and cheap cold beer makes for a genuinely good evening. [Silver Beach](/asia/china/guangxi/beihai/silver_beach), the main draw, has fine pale quartz sand and on clear nights produces bioluminescence in the water, which is the kind of thing that sounds like a tourist-brochure invention until you see it.

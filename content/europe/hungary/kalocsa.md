@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kalocsa,_Szenth%C3%A1roms%
 latitude: 46.523027
 loc_type: city
 longitude: 18.982504
-score: 0.45
+score: 0.38
 title: Kalocsa
 type: location
 ---

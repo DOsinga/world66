@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Alpharetta,_Georg
 latitude: 34.075596
 loc_type: city
 longitude: -84.294596
-score: 0.35
+score: 0.3
 title: Alpharetta
 type: location
 ---

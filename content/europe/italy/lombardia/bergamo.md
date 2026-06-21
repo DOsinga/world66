@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Upper_City_of_Bergamo.
 latitude: 45.6983
 loc_type: city
 longitude: 9.6773
-score: 0.66
+score: 0.59
 title: Bergamo
 type: location
 ---

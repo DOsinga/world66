@@ -5,7 +5,7 @@ done:
 latitude: 4.5845
 loc_type: city
 longitude: 114.1932
-score: 0.35
+score: 0.29
 title: Kuala Belait
 type: location
 ---

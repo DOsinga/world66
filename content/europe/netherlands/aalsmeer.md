@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/68359921@N08/45928347571
 latitude: 52.266944
 loc_type: city
 longitude: 4.749338
-score: 0.4
+score: 0.37
 title: Aalsmeer
 type: location
 ---

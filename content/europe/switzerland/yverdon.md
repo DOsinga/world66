@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1400_Yverdon-les-Bains,_Sw
 latitude: 46.778571
 loc_type: city
 longitude: 6.640916
-score: 0.5
+score: 0.41
 title: Yverdon
 type: location
 ---

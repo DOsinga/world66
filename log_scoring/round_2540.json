@@ -1,0 +1,200 @@
+{
+  "round": 2540,
+  "timestamp": "2026-06-13T21:49:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sydney",
+      "path": "australiaandpacific/australia/newsouthwales/sydney",
+      "prior_score": 13.7022,
+      "prior_variance": 0.958351,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Strasbourg",
+      "path": "europe/france/east/alsace/strasbourg",
+      "prior_score": 9.0589,
+      "prior_variance": 0.269134,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Pikes Peak",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/pikespeak",
+      "prior_score": 5.1694,
+      "prior_variance": 0.188518,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Popayan",
+      "path": "southamerica/colombia/popayan",
+      "prior_score": 2.654,
+      "prior_variance": 0.18854,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Brescia",
+      "path": "europe/italy/lombardia/brescia",
+      "prior_score": 3.2249,
+      "prior_variance": 0.213664,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Pontassieve",
+      "path": "europe/italy/tuscany/florenceprovince/sievevalley/pontassieve",
+      "prior_score": 0.4153,
+      "prior_variance": 0.166291,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Samobor",
+      "path": "europe/croatia/samobor",
+      "prior_score": 2.0883,
+      "prior_variance": 0.152002,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Taxila",
+      "path": "asia/pakistan/taxila",
+      "prior_score": -0.6227,
+      "prior_variance": 0.189635,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Aracataca",
+      "path": "southamerica/colombia/aracataca",
+      "prior_score": -2.1642,
+      "prior_variance": 0.204495,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Big Pine Key",
+      "path": "northamerica/unitedstates/florida/big_pine_key",
+      "prior_score": -0.1543,
+      "prior_variance": 0.173489,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Patan",
+      "path": "asia/india/gujarat/patan",
+      "prior_score": -1.5619,
+      "prior_variance": 0.164154,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Xikou",
+      "path": "asia/china/zhejiang/xikou",
+      "prior_score": -1.6981,
+      "prior_variance": 0.166159,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Oracabessa",
+      "path": "northamerica/jamaica/oracabessa",
+      "prior_score": 0.8211,
+      "prior_variance": 0.172129,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_score": -0.3667,
+      "prior_variance": 0.167299,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Bandarban",
+      "path": "asia/bangladesh/banderban_hill_tra",
+      "prior_score": -0.5108,
+      "prior_variance": 0.157405,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Bangor, Wales",
+      "path": "europe/unitedkingdom/wales/bangor_wales",
+      "prior_score": -2.018,
+      "prior_variance": 0.192121,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Ta\u2019if",
+      "path": "asia/saudiarabia/taif",
+      "prior_score": -1.7978,
+      "prior_variance": 0.202513,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Tidore",
+      "path": "asia/indonesia/maluku/tidore",
+      "prior_score": -0.3421,
+      "prior_variance": 0.155139,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Sorong",
+      "path": "asia/indonesia/irianjaya/sorong",
+      "prior_score": -3.3137,
+      "prior_variance": 0.16273,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Bigfork",
+      "path": "northamerica/unitedstates/montana/bigfork",
+      "prior_score": 0.1845,
+      "prior_variance": 0.166349,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Marlow",
+      "path": "europe/unitedkingdom/england/south_east/marlow",
+      "prior_score": -0.7641,
+      "prior_variance": 0.229027,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Quinte West",
+      "path": "northamerica/canada/ontario/quintewest",
+      "prior_score": -4.129,
+      "prior_variance": 0.180315,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Andersonville",
+      "path": "northamerica/unitedstates/georgia/andersonville",
+      "prior_score": -3.2966,
+      "prior_variance": 0.20969,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Redmond",
+      "path": "northamerica/unitedstates/washington/redmond",
+      "prior_score": -3.3917,
+      "prior_variance": 0.20029,
+      "prior_n": 8
+    }
+  ]
+}

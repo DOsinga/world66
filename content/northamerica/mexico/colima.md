@@ -4,7 +4,7 @@ done:
 latitude: 19.2433
 loc_type: city
 longitude: -103.7247
-score: 0.42
+score: 0.34
 title: Colima
 type: location
 image: colima.jpg

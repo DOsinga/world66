@@ -5,7 +5,7 @@ latitude: 52.6307
 longitude: 1.55
 title: The Norfolk Broads
 type: location
-score: 0.56
+score: 0.47
 loc_type: feature
 ---
 

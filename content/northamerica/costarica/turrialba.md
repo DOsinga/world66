@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Turrialba_Volcano,_Costa_R
 latitude: 9.9013
 loc_type: city
 longitude: -83.6817
-score: 0.56
+score: 0.44
 title: Turrialba
 type: location
 ---

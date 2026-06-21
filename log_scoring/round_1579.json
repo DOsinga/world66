@@ -1,200 +1,200 @@
 {
   "round": 1579,
-  "timestamp": "2026-04-13T10:33:07",
+  "timestamp": "2026-06-13T20:39:11",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Akumal",
-      "path": "northamerica/mexico/akumal",
-      "prior_score": 3.7092,
-      "prior_variance": 0.309555,
-      "prior_n": 4
+      "title": "Grindelwald",
+      "path": "europe/switzerland/grindelwald",
+      "prior_score": 12.6024,
+      "prior_variance": 0.500065,
+      "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Trobriand Islands",
-      "path": "asia/papuanewguinea/trobriand_islands",
-      "prior_score": -0.6056,
-      "prior_variance": 0.342236,
-      "prior_n": 4
+      "title": "Ordesa National Park",
+      "path": "europe/spain/aragon/ordesa_national_park",
+      "prior_score": 7.1824,
+      "prior_variance": 0.310114,
+      "prior_n": 5
     },
     {
       "rank": 3,
-      "title": "'Eua",
-      "path": "australiaandpacific/tonga/eua",
-      "prior_score": -0.868,
-      "prior_variance": 0.411166,
-      "prior_n": 4
+      "title": "Siargao",
+      "path": "asia/philippines/siargao",
+      "prior_score": 7.7056,
+      "prior_variance": 0.424978,
+      "prior_n": 5
     },
     {
       "rank": 4,
-      "title": "Hollywood Beach",
-      "path": "northamerica/unitedstates/florida/hollywood_beach",
-      "prior_score": -0.492,
-      "prior_variance": 0.443653,
-      "prior_n": 3
+      "title": "Staniel Cay",
+      "path": "northamerica/bahamas/exumas/staniel_cay",
+      "prior_score": 7.3442,
+      "prior_variance": 0.314564,
+      "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Almagro",
-      "path": "europe/spain/centralspain/almagro",
-      "prior_score": 1.3849,
-      "prior_variance": 0.663555,
-      "prior_n": 4
+      "title": "Caye Caulker",
+      "path": "northamerica/belize/cayecaulker",
+      "prior_score": 4.9323,
+      "prior_variance": 0.338762,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Ja\u00e9n",
-      "path": "europe/spain/andalucia/jaen",
-      "prior_score": 1.0841,
-      "prior_variance": 0.399529,
-      "prior_n": 3
+      "title": "Regensburg",
+      "path": "europe/germany/bavaria/regensburg",
+      "prior_score": 5.7407,
+      "prior_variance": 0.276423,
+      "prior_n": 5
     },
     {
       "rank": 7,
-      "title": "Tsukuba",
-      "path": "asia/japan/honshu/tsukuba",
-      "prior_score": -2.3177,
-      "prior_variance": 0.618672,
-      "prior_n": 3
+      "title": "Stuttgart",
+      "path": "europe/germany/badenwrttemberg/stuttgart",
+      "prior_score": 1.633,
+      "prior_variance": 0.266496,
+      "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "Mannheim",
-      "path": "europe/germany/mannheim",
-      "prior_score": -0.3968,
-      "prior_variance": 0.40233,
-      "prior_n": 3
+      "title": "Berkeley",
+      "path": "northamerica/unitedstates/california/berkeley",
+      "prior_score": 1.5916,
+      "prior_variance": 0.304417,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "G\u00e4vle",
-      "path": "europe/sweden/gvle",
-      "prior_score": -0.851,
-      "prior_variance": 0.347631,
-      "prior_n": 4
+      "title": "Reggio Emilia",
+      "path": "europe/italy/emiliaromagna/reggioemilia",
+      "prior_score": 1.6434,
+      "prior_variance": 0.256937,
+      "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Sandanski",
-      "path": "europe/bulgaria/sandanski",
-      "prior_score": -0.87,
-      "prior_variance": 0.397092,
-      "prior_n": 4
+      "title": "Gorkha",
+      "path": "asia/nepal/gorkha_gurkha",
+      "prior_score": 2.1221,
+      "prior_variance": 0.294228,
+      "prior_n": 5
     },
     {
       "rank": 11,
-      "title": "San Fernando",
-      "path": "northamerica/trinidadandtobago/sanfernando",
-      "prior_score": -1.4182,
-      "prior_variance": 0.325538,
-      "prior_n": 4
+      "title": "Devil's Tower",
+      "path": "northamerica/unitedstates/wyoming/devilstower",
+      "prior_score": 2.3663,
+      "prior_variance": 0.255741,
+      "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "Ziguinchor",
-      "path": "africa/senegal/ziguinchor",
-      "prior_score": -2.6736,
-      "prior_variance": 0.445249,
-      "prior_n": 4
+      "title": "Lourdes",
+      "path": "europe/france/midi/pyrenees/lourdes",
+      "prior_score": 3.8433,
+      "prior_variance": 0.254381,
+      "prior_n": 5
     },
     {
       "rank": 13,
-      "title": "Harihareshwer ( HAHAD/KONKAN)",
-      "path": "asia/india/maharashtra/harihareshwer__ha",
-      "prior_score": -2.7964,
-      "prior_variance": 0.39264,
-      "prior_n": 4
+      "title": "Astorga",
+      "path": "europe/spain/northernspain/astorga",
+      "prior_score": 1.807,
+      "prior_variance": 0.239562,
+      "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "Joinville",
-      "path": "southamerica/brazil/joinville",
-      "prior_score": -2.4925,
-      "prior_variance": 0.312919,
-      "prior_n": 4
+      "title": "Xanthi",
+      "path": "europe/greece/xanthi",
+      "prior_score": 1.309,
+      "prior_variance": 0.28397,
+      "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Slagelse",
-      "path": "europe/denmark/slagelse",
-      "prior_score": -3.3488,
-      "prior_variance": 0.407844,
-      "prior_n": 4
+      "title": "Lushoto",
+      "path": "africa/tanzania/lushoto",
+      "prior_score": 0.5303,
+      "prior_variance": 0.256976,
+      "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "Inderoy",
-      "path": "europe/norway/inderoy",
-      "prior_score": -1.5524,
-      "prior_variance": 0.312992,
-      "prior_n": 4
+      "title": "Yushu",
+      "path": "asia/china/qinghai/yushu",
+      "prior_score": -3.9285,
+      "prior_variance": 0.293903,
+      "prior_n": 5
     },
     {
       "rank": 17,
-      "title": "Murfreesboro",
-      "path": "northamerica/unitedstates/tennessee/murfreesboro",
-      "prior_score": -3.025,
-      "prior_variance": 0.316845,
-      "prior_n": 4
+      "title": "Petite Martinique",
+      "path": "northamerica/thecaribbean/grenada/petitmartinique",
+      "prior_score": -1.4448,
+      "prior_variance": 0.423076,
+      "prior_n": 5
     },
     {
       "rank": 18,
-      "title": "Santa Clara",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santaclara",
-      "prior_score": -3.7547,
-      "prior_variance": 0.34338,
-      "prior_n": 4
+      "title": "Uddevalla",
+      "path": "europe/sweden/uddevalla",
+      "prior_score": -1.9532,
+      "prior_variance": 0.249836,
+      "prior_n": 5
     },
     {
       "rank": 19,
-      "title": "Duncan",
-      "path": "northamerica/canada/britishcolumbia/duncan",
-      "prior_score": -4.5509,
-      "prior_variance": 0.654209,
-      "prior_n": 3
+      "title": "Pasto",
+      "path": "southamerica/colombia/pasto",
+      "prior_score": -3.4816,
+      "prior_variance": 0.36766,
+      "prior_n": 5
     },
     {
       "rank": 20,
-      "title": "Bormida",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bormida",
-      "prior_score": -3.1749,
-      "prior_variance": 0.369843,
-      "prior_n": 4
+      "title": "Toluca",
+      "path": "northamerica/mexico/toluca",
+      "prior_score": -3.6951,
+      "prior_variance": 0.322368,
+      "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "Forest Grove",
-      "path": "northamerica/unitedstates/oregon/forestgrove",
-      "prior_score": -4.3878,
-      "prior_variance": 0.571985,
-      "prior_n": 4
+      "title": "Iowa City",
+      "path": "northamerica/unitedstates/iowa/iowacity",
+      "prior_score": -3.9826,
+      "prior_variance": 0.272112,
+      "prior_n": 5
     },
     {
       "rank": 22,
-      "title": "Henderson",
-      "path": "northamerica/unitedstates/nevada/henderson",
-      "prior_score": -3.5945,
-      "prior_variance": 0.456565,
-      "prior_n": 4
+      "title": "Weaverville",
+      "path": "northamerica/unitedstates/california/shastacascade/weaverville",
+      "prior_score": -4.9075,
+      "prior_variance": 0.268544,
+      "prior_n": 5
     },
     {
       "rank": 23,
-      "title": "Ashington",
-      "path": "europe/unitedkingdom/england/ashington",
-      "prior_score": -6.3141,
-      "prior_variance": 0.436376,
-      "prior_n": 4
+      "title": "Niamey",
+      "path": "africa/niger/niamey",
+      "prior_score": -5.6319,
+      "prior_variance": 0.39288,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Fort Smith",
-      "path": "northamerica/canada/northwestterritories/fort_smith",
-      "prior_score": -5.7706,
-      "prior_variance": 0.476255,
-      "prior_n": 3
+      "title": "Jubail",
+      "path": "asia/saudiarabia/jubail",
+      "prior_score": -7.9967,
+      "prior_variance": 0.360162,
+      "prior_n": 5
     }
   ]
 }

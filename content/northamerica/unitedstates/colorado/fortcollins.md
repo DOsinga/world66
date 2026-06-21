@@ -5,7 +5,7 @@ done:
 latitude: 40.587178
 loc_type: city
 longitude: -105.077011
-score: 0.49
+score: 0.41
 title: Fort Collins
 type: location
 ---

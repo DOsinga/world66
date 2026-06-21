@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hungary,_Kom%C3%A1rom,_a_V
 latitude: 47.7417
 loc_type: city
 longitude: 18.1218
-score: 0.4
+score: 0.36
 title: Komarom
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eleanor_statue_Oristano.jp
 latitude: 40.026568
 loc_type: city
 longitude: 8.679642
-score: 0.54
+score: 0.48
 title: Oristano
 type: location
 ---

@@ -4,7 +4,7 @@ done:
 latitude: -10.7905
 loc_type: city
 longitude: 179.4692
-score: 0.29
+score: 0.17
 title: Niulakita island
 type: location
 ---

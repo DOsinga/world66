@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_glance_at_Urumqi_from_Ho
 latitude: 43.8244
 loc_type: city
 longitude: 87.6139
-score: 0.45
+score: 0.37
 title: Ürümqi
 type: location
 ---

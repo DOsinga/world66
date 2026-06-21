@@ -5,7 +5,7 @@ done:
 latitude: 33.5187
 loc_type: city
 longitude: 73.9018
-score: 0.28
+score: 0.24
 title: Kotli
 type: location
 ---

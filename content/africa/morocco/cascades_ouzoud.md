@@ -5,7 +5,7 @@ done:
 latitude: 31.9898
 loc_type: city
 longitude: -6.7137
-score: 0.64
+score: 0.55
 title: Cascades d'Ouzoud
 type: location
 ---

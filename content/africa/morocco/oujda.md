@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:FARAJI_Brahim_-_MOSQUEE_RO
 latitude: 34.677874
 loc_type: city
 longitude: -1.929306
-score: 0.43
+score: 0.35
 title: Oujda
 type: location
 ---

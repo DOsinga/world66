@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Canaletto_(I)_021.jpg
 latitude: 50.961692
 loc_type: city
 longitude: 13.938664
-score: 0.51
+score: 0.44
 title: Pirna
 type: location
 ---

@@ -8,7 +8,7 @@ image_license: Public Domain
 latitude: 24.5547
 loc_type: city
 longitude: 9.4842
-score: 0.51
+score: 0.43
 title: Djanet
 type: location
 ---

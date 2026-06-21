@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Poblacion_Sogod_as_seen_fr
 latitude: 10.38
 loc_type: city
 longitude: 124.98
-score: 0.36
+score: 0.28
 title: Sogod
 type: location
 ---

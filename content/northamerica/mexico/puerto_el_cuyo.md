@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Cuyo_Yucatan_-_Playa,_M
 latitude: 21.516438
 loc_type: city
 longitude: -87.674312
-score: 0.33
+score: 0.28
 title: Puerto El Cuyo
 type: location
 ---

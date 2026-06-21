@@ -5,7 +5,7 @@ done:
 latitude: 6.010002
 loc_type: city
 longitude: -58.312488
-score: 0.33
+score: 0.26
 sources:
 - https://en.wikipedia.org/wiki/Linden,_Guyana
 title: Linden

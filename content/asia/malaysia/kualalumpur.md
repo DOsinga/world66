@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Butorides_striata_javanica
 latitude: 3.151696
 loc_type: city
 longitude: 101.694237
-score: 0.66
+score: 0.62
 title: Kuala Lumpur
 type: location
 ---

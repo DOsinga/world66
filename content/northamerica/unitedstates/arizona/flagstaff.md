@@ -5,7 +5,7 @@ done:
 latitude: 35.198752
 loc_type: city
 longitude: -111.651822
-score: 0.55
+score: 0.51
 title: Flagstaff
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 33.8398
 loc_type: city
 longitude: -118.3846
-score: 0.47
+score: 0.38
 title: Redondo Beach
 type: location
 image: redondobeach.jpg

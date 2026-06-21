@@ -9,7 +9,7 @@ image_attribution: Mark AW on Flickr
 latitude: 52.1318
 loc_type: city
 longitude: -106.6608
-score: 0.42
+score: 0.37
 title: Saskatoon
 type: location
 ---

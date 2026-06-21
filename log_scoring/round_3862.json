@@ -1,0 +1,200 @@
+{
+  "round": 3862,
+  "timestamp": "2026-06-13T23:25:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint-Martin",
+      "path": "northamerica/thecaribbean/saintmartin",
+      "prior_score": 6.4589,
+      "prior_variance": 0.135485,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Fethiye",
+      "path": "asia/turkey/fethiye",
+      "prior_score": 6.2516,
+      "prior_variance": 0.144991,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Ilhabela",
+      "path": "southamerica/brazil/ilhabela",
+      "prior_score": 3.4032,
+      "prior_variance": 0.11868,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Tel Aviv",
+      "path": "asia/israel/telaviv",
+      "prior_score": 4.9938,
+      "prior_variance": 0.170354,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/galicia/santiagodecompostela",
+      "prior_score": 7.6419,
+      "prior_variance": 0.190461,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Regensburg",
+      "path": "europe/germany/bavaria/regensburg",
+      "prior_score": 4.5852,
+      "prior_variance": 0.10937,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Crans-Montana",
+      "path": "europe/switzerland/crans_montana",
+      "prior_score": 5.2423,
+      "prior_variance": 0.125,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Dalat",
+      "path": "asia/vietnam/dalat",
+      "prior_score": 4.7884,
+      "prior_variance": 0.111924,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Amman",
+      "path": "asia/jordan/amman",
+      "prior_score": 4.2354,
+      "prior_variance": 0.127969,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Songpan",
+      "path": "asia/china/sichuanprovince/songpan",
+      "prior_score": 2.3547,
+      "prior_variance": 0.104916,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Circeo National Park",
+      "path": "europe/italy/lazio/ciceo_national_par",
+      "prior_score": 2.1393,
+      "prior_variance": 0.105242,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Sulmona",
+      "path": "europe/italy/abruzzo/sulmona",
+      "prior_score": 2.6829,
+      "prior_variance": 0.112063,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Kalbarri",
+      "path": "australiaandpacific/australia/westernaustralia/kalbarri",
+      "prior_score": 1.7945,
+      "prior_variance": 0.103947,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "San Jos\u00e9",
+      "path": "northamerica/costarica/sanjose",
+      "prior_score": 0.5541,
+      "prior_variance": 0.122729,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Esztergom",
+      "path": "europe/hungary/esztergom",
+      "prior_score": 2.7686,
+      "prior_variance": 0.121522,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Norrk\u00f6ping",
+      "path": "europe/sweden/norrkping",
+      "prior_score": -0.154,
+      "prior_variance": 0.107256,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Parque Nacional Santa Teresa",
+      "path": "southamerica/uruguay/parquesantateresa",
+      "prior_score": -0.5298,
+      "prior_variance": 0.097572,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Ry",
+      "path": "europe/denmark/ry",
+      "prior_score": -0.4625,
+      "prior_variance": 0.107858,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Leamington Spa",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/leamingtonspa",
+      "prior_score": -1.2031,
+      "prior_variance": 0.114,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Ledbury",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/ledbury",
+      "prior_score": -0.9088,
+      "prior_variance": 0.114221,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_score": -0.4701,
+      "prior_variance": 0.100113,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Kitsap County",
+      "path": "northamerica/unitedstates/washington/kitsap_county",
+      "prior_score": -2.9877,
+      "prior_variance": 0.115488,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Mingechevir",
+      "path": "europe/azerbaijan/mingechevir",
+      "prior_score": -4.6287,
+      "prior_variance": 0.111637,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Witten",
+      "path": "europe/germany/northrhinewestphalia/witten",
+      "prior_score": -4.0074,
+      "prior_variance": 0.129175,
+      "prior_n": 13
+    }
+  ]
+}

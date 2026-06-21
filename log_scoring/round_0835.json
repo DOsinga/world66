@@ -1,200 +1,200 @@
 {
   "round": 835,
-  "timestamp": "2026-04-12T14:36:24",
+  "timestamp": "2026-06-13T19:56:17",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Marigot Bay",
-      "path": "northamerica/saintlucia/marigotbay",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Shishkat",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/shishkat_gojal",
+      "prior_score": -8.9213,
+      "prior_variance": 2.008925,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "St. Croix",
-      "path": "northamerica/virginislands/stcroix",
-      "prior_score": 9.035,
-      "prior_variance": 4.119409,
-      "prior_n": 1
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_score": -10.0688,
+      "prior_variance": 0.86454,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Falmouth",
-      "path": "northamerica/jamaica/falmouth",
-      "prior_score": 0.0554,
-      "prior_variance": 0.953771,
+      "title": "Wausau",
+      "path": "northamerica/unitedstates/wisconsin/wausau",
+      "prior_score": -9.0946,
+      "prior_variance": 1.099343,
       "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Greenland",
-      "path": "northamerica/greenland",
-      "prior_score": -0.975,
-      "prior_variance": 1.336982,
-      "prior_n": 1
+      "title": "San Bruno",
+      "path": "northamerica/unitedstates/california/san_bruno",
+      "prior_score": -10.2087,
+      "prior_variance": 0.72953,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Iwate",
-      "path": "asia/japan/iwate",
-      "prior_score": 2.8249,
-      "prior_variance": 1.615375,
-      "prior_n": 1
+      "title": "San Angelo",
+      "path": "northamerica/unitedstates/texas/san_angelo",
+      "prior_score": -9.42,
+      "prior_variance": 0.719771,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Whitefish",
-      "path": "northamerica/unitedstates/montana/whitefish",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Ndola",
+      "path": "africa/zambia/ndola",
+      "prior_score": -9.8536,
+      "prior_variance": 0.749604,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Midway Islands",
-      "path": "australiaandpacific/midwayislands",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "J\u00e9r\u00e9mie",
+      "path": "northamerica/thecaribbean/haiti/jeremie",
+      "prior_score": -11.1323,
+      "prior_variance": 1.04118,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Mangaia",
-      "path": "australiaandpacific/cookislands/mangaia",
-      "prior_score": 1.0892,
-      "prior_variance": 2.760681,
-      "prior_n": 1
+      "title": "Coshocton",
+      "path": "northamerica/unitedstates/ohio/coshocton",
+      "prior_score": -10.6135,
+      "prior_variance": 0.761459,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Mauke",
-      "path": "australiaandpacific/cookislands/mauke",
-      "prior_score": -0.3589,
-      "prior_variance": 2.605909,
-      "prior_n": 1
+      "title": "Quemado",
+      "path": "northamerica/unitedstates/newmexico/quemado",
+      "prior_score": -9.0708,
+      "prior_variance": 0.588024,
+      "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Saul",
-      "path": "southamerica/frenchguiana/saul",
-      "prior_score": -0.6683,
-      "prior_variance": 1.82498,
-      "prior_n": 1
+      "title": "Shoal Lake",
+      "path": "northamerica/canada/manitoba/shoal_lake",
+      "prior_score": -10.2364,
+      "prior_variance": 1.058139,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Nui Atoll",
-      "path": "australiaandpacific/tuvalu/nuiatoll",
-      "prior_score": -3.105,
-      "prior_variance": 1.662481,
-      "prior_n": 1
+      "title": "Moorhead",
+      "path": "northamerica/unitedstates/minnesota/moorhead",
+      "prior_score": -9.483,
+      "prior_variance": 0.8236,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Tuvalu",
-      "path": "australiaandpacific/tuvalu",
-      "prior_score": 2.4677,
-      "prior_variance": 29.375832,
-      "prior_n": 1
+      "title": "Churachandpur",
+      "path": "asia/india/manipur/churachandpur",
+      "prior_score": -10.2148,
+      "prior_variance": 0.685567,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Ozamiz City",
-      "path": "asia/philippines/ozamizcity",
-      "prior_score": -6.6791,
-      "prior_variance": 1.363957,
-      "prior_n": 1
+      "title": "Sharur",
+      "path": "europe/azerbaijan/naxcivan/sharur",
+      "prior_score": -10.9042,
+      "prior_variance": 1.091538,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Salmiya",
-      "path": "asia/kuwait/salmiya",
-      "prior_score": -5.496,
-      "prior_variance": 2.467813,
-      "prior_n": 1
+      "title": "Clontarf",
+      "path": "australiaandpacific/australia/queensland/clontarf",
+      "prior_score": -10.0934,
+      "prior_variance": 0.621489,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Massawa",
-      "path": "africa/eritrea/massawa",
-      "prior_score": 5.8226,
-      "prior_variance": 15.423474,
-      "prior_n": 1
+      "title": "Mao",
+      "path": "asia/india/manipur/mao",
+      "prior_score": -10.7299,
+      "prior_variance": 1.076486,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Dahlak Islands",
-      "path": "africa/eritrea/dahlakislands",
-      "prior_score": 2.9525,
-      "prior_variance": 7.318105,
-      "prior_n": 1
+      "title": "San Ignacio",
+      "path": "southamerica/peru/san_ignacio",
+      "prior_score": -11.2137,
+      "prior_variance": 0.599888,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Keren",
-      "path": "africa/eritrea/keren",
-      "prior_score": -2.7018,
-      "prior_variance": 15.281953,
-      "prior_n": 1
+      "title": "San Jos\u00e9 de Lourdes",
+      "path": "southamerica/peru/san_jos_de__lour",
+      "prior_score": -11.1261,
+      "prior_variance": 1.076124,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Biankouma",
-      "path": "africa/ivorycoast/biankouma",
-      "prior_score": -11.0893,
-      "prior_variance": 8.902252,
-      "prior_n": 1
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_score": -11.2404,
+      "prior_variance": 1.048143,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Burkina Faso",
-      "path": "africa/burkinafaso",
-      "prior_score": -14.1986,
-      "prior_variance": 7.281573,
-      "prior_n": 1
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/centralvalley/fresno",
+      "prior_score": -10.1539,
+      "prior_variance": 0.860464,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "jhang",
-      "path": "asia/pakistan/abbottabad/jhang",
-      "prior_score": -7.9556,
-      "prior_variance": 1.515621,
-      "prior_n": 1
+      "title": "Sanmenxia",
+      "path": "asia/china/henan_province/sanmenxia",
+      "prior_score": -9.9444,
+      "prior_variance": 1.043281,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Port loko",
-      "path": "africa/sierraleone/portloko",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Cangzhou",
+      "path": "asia/china/hebei/cangzhou",
+      "prior_score": -10.4249,
+      "prior_variance": 0.798381,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Port Sudan",
-      "path": "africa/sudan/portsudan",
-      "prior_score": -5.0406,
-      "prior_variance": 1.966448,
-      "prior_n": 1
+      "title": "Huainan",
+      "path": "asia/china/anhui/huainan",
+      "prior_score": -12.3781,
+      "prior_variance": 1.490771,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Wadi halfa",
-      "path": "africa/sudan/wadihalfa",
-      "prior_score": -6.6063,
-      "prior_variance": 1.595955,
-      "prior_n": 1
+      "title": "Bibala",
+      "path": "africa/angola/bibala",
+      "prior_score": -11.8024,
+      "prior_variance": 0.609198,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Eagle Base",
-      "path": "europe/bosniaandherzegovina/eagle_base",
-      "prior_score": -6.63,
-      "prior_variance": 1.689185,
-      "prior_n": 1
+      "title": "Soyo",
+      "path": "africa/angola/soyo",
+      "prior_score": -13.7006,
+      "prior_variance": 0.695453,
+      "prior_n": 2
     }
   ]
 }

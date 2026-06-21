@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ankerfeld_Lakka.jpg
 latitude: 39.209398
 loc_type: city
 longitude: 20.161634
-score: 0.65
+score: 0.55
 title: Paxi
 type: location
 ---

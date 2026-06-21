@@ -1,200 +1,200 @@
 {
   "round": 1145,
-  "timestamp": "2026-04-12T22:11:53",
+  "timestamp": "2026-06-13T20:13:44",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Jerusalem",
-      "path": "asia/israel/jerusalem",
-      "prior_rank": 668,
-      "prior_wins": 59,
-      "prior_n": 3
+      "title": "Flakstad",
+      "path": "europe/norway/lofotenislands/flakstad",
+      "prior_score": 7.6316,
+      "prior_variance": 0.57878,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Riviera Maya",
-      "path": "northamerica/mexico/rivieramaya",
-      "prior_rank": 160,
-      "prior_wins": 43,
-      "prior_n": 2
+      "title": "Grand Teton",
+      "path": "northamerica/unitedstates/wyoming/grandteton",
+      "prior_score": 12.0838,
+      "prior_variance": 0.570667,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Cancun",
-      "path": "northamerica/mexico/cancun",
-      "prior_rank": 21,
-      "prior_wins": 88,
-      "prior_n": 5
+      "title": "Olympic National Park",
+      "path": "northamerica/unitedstates/washington/olympicnationalpark",
+      "prior_score": 10.4749,
+      "prior_variance": 0.529769,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Amritsar",
-      "path": "asia/india/punjab/amritsar",
-      "prior_rank": 228,
-      "prior_wins": 85,
+      "title": "Hiroshima",
+      "path": "asia/japan/honshu/hiroshima",
+      "prior_score": 11.9933,
+      "prior_variance": 0.48854,
       "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Ghent",
-      "path": "europe/belgium/ghent",
-      "prior_rank": 181,
-      "prior_wins": 107,
-      "prior_n": 5
-    },
-    {
-      "rank": 6,
-      "title": "Lago di Garda",
-      "path": "europe/italy/lombardia/lagodigarda",
-      "prior_rank": 556,
-      "prior_wins": 40,
-      "prior_n": 2
-    },
-    {
-      "rank": 7,
-      "title": "Kandy",
-      "path": "asia/srilanka/kandy",
-      "prior_rank": 289,
-      "prior_wins": 42,
-      "prior_n": 2
-    },
-    {
-      "rank": 8,
-      "title": "Nairobi National Park",
-      "path": "africa/kenya/nationalparksandreserves/nairobinp",
-      "prior_rank": 714,
-      "prior_wins": 39,
-      "prior_n": 2
-    },
-    {
-      "rank": 9,
-      "title": "Merzouga",
-      "path": "africa/morocco/merzouga",
-      "prior_rank": 891,
-      "prior_wins": 38,
-      "prior_n": 2
-    },
-    {
-      "rank": 10,
-      "title": "San Pedro",
-      "path": "northamerica/belize/san_pedro",
-      "prior_rank": 1525,
-      "prior_wins": 27,
-      "prior_n": 2
-    },
-    {
-      "rank": 11,
-      "title": "Bridgetown",
-      "path": "northamerica/barbados/bridgetown",
-      "prior_rank": 740,
-      "prior_wins": 39,
-      "prior_n": 2
-    },
-    {
-      "rank": 12,
-      "title": "Mount Emei",
-      "path": "asia/china/sichuanprovince/mount_emei",
-      "prior_rank": 253,
-      "prior_wins": 63,
+      "title": "Mount Bromo",
+      "path": "asia/indonesia/java/mountbromo",
+      "prior_score": 11.7474,
+      "prior_variance": 0.98107,
       "prior_n": 3
     },
     {
+      "rank": 6,
+      "title": "Atacama Desert",
+      "path": "southamerica/chile/atacamadesert",
+      "prior_score": 9.9025,
+      "prior_variance": 0.511471,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Hampi",
+      "path": "asia/india/karnataka/hampi",
+      "prior_score": 10.9072,
+      "prior_variance": 0.633958,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ronda",
+      "path": "europe/spain/andalucia/ronda",
+      "prior_score": 9.887,
+      "prior_variance": 0.4933,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Mirissa",
+      "path": "asia/srilanka/mirissa",
+      "prior_score": 7.6382,
+      "prior_variance": 0.579147,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Koh Phi Phi",
+      "path": "asia/thailand/kohphiphi",
+      "prior_score": 11.4806,
+      "prior_variance": 0.611441,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kailua-Kona",
+      "path": "northamerica/unitedstates/hawaii/kailuakona",
+      "prior_score": 10.661,
+      "prior_variance": 0.501103,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Lalibela",
+      "path": "africa/ethiopia/lalibela",
+      "prior_score": 10.633,
+      "prior_variance": 0.745119,
+      "prior_n": 4
+    },
+    {
       "rank": 13,
-      "title": "Acadia",
-      "path": "northamerica/unitedstates/maine/acadia",
-      "prior_rank": 877,
-      "prior_wins": 38,
-      "prior_n": 2
+      "title": "Bonaire",
+      "path": "northamerica/netherlandsantilles/bonaire",
+      "prior_score": 8.6597,
+      "prior_variance": 0.66999,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Bayeux",
-      "path": "europe/france/normandybrittany/bayeux",
-      "prior_rank": 1850,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Tirana",
+      "path": "europe/albania/tirana",
+      "prior_score": 1.092,
+      "prior_variance": 0.418829,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Camogli",
-      "path": "europe/italy/liguria/italianriviera/paradisegulf/camogli",
-      "prior_rank": 297,
-      "prior_wins": 42,
-      "prior_n": 2
+      "title": "Datong",
+      "path": "asia/china/shanxiprovince/datong",
+      "prior_score": 2.6432,
+      "prior_variance": 0.425756,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Aveiro",
-      "path": "europe/portugal/aveiro",
-      "prior_rank": 213,
-      "prior_wins": 63,
+      "title": "Warkworth",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/warksworth",
+      "prior_score": -0.7639,
+      "prior_variance": 0.382659,
       "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "N\u00eemes",
-      "path": "europe/france/midi/languedoc/nmes",
-      "prior_rank": 738,
-      "prior_wins": 39,
-      "prior_n": 2
-    },
-    {
-      "rank": 18,
-      "title": "Windsor",
-      "path": "europe/unitedkingdom/england/windsor",
-      "prior_rank": 307,
-      "prior_wins": 42,
-      "prior_n": 2
-    },
-    {
-      "rank": 19,
-      "title": "Cyprus",
-      "path": "asia/cyprus",
-      "prior_rank": 564,
-      "prior_wins": 40,
-      "prior_n": 2
-    },
-    {
-      "rank": 20,
-      "title": "San Marino",
-      "path": "europe/sanmarino",
-      "prior_rank": 705,
-      "prior_wins": 40,
+      "title": "Combe Martin",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/combe_martin",
+      "prior_score": 0.5526,
+      "prior_variance": 0.412418,
       "prior_n": 3
     },
     {
+      "rank": 18,
+      "title": "Shahhat",
+      "path": "africa/libya/shahhat",
+      "prior_score": -7.209,
+      "prior_variance": 0.600156,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Chifeng",
+      "path": "asia/china/innermongolia/chifeng",
+      "prior_score": -6.4568,
+      "prior_variance": 0.435242,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Sinnamary",
+      "path": "southamerica/frenchguiana/sinnamary",
+      "prior_score": -5.6394,
+      "prior_variance": 0.505338,
+      "prior_n": 4
+    },
+    {
       "rank": 21,
-      "title": "Puerto del Carmen",
-      "path": "europe/spain/canaryislands/lanzarote/puertodelcarmen",
-      "prior_rank": 1050,
-      "prior_wins": 37,
-      "prior_n": 2
+      "title": "Tully",
+      "path": "australiaandpacific/australia/queensland/tully",
+      "prior_score": -5.0175,
+      "prior_variance": 0.422203,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Calpe",
-      "path": "europe/spain/spanishcostas/calpe",
-      "prior_rank": 304,
-      "prior_wins": 42,
-      "prior_n": 2
+      "title": "Bougainville",
+      "path": "asia/papuanewguinea/bougainville",
+      "prior_score": -5.677,
+      "prior_variance": 0.45924,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Big Bend National Park",
-      "path": "northamerica/unitedstates/texas/big_bend_national",
-      "prior_rank": 1727,
-      "prior_wins": 50,
+      "title": "Placentia",
+      "path": "northamerica/unitedstates/california/placentia",
+      "prior_score": -7.9704,
+      "prior_variance": 0.61866,
       "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Dougga",
-      "path": "africa/tunisia/dougga",
-      "prior_rank": 165,
-      "prior_wins": 43,
-      "prior_n": 2
+      "title": "Bengbu",
+      "path": "asia/china/anhui/bengbu",
+      "prior_score": -7.5921,
+      "prior_variance": 0.63524,
+      "prior_n": 4
     }
   ]
 }

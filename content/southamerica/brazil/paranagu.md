@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cidade_portu%C3%A1ria_de_r
 latitude: -25.514882
 loc_type: city
 longitude: -48.522669
-score: 0.4
+score: 0.33
 title: Paranaguá
 type: location
 ---

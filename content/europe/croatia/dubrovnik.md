@@ -12,7 +12,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Casco_viejo_de_Dubrovnik,_
 latitude: 42.6507
 loc_type: city
 longitude: 18.0944
-score: 0.82
+score: 0.8
 title: Dubrovnik
 type: location
 ---

@@ -1,200 +1,200 @@
 {
   "round": 1132,
-  "timestamp": "2026-04-12T22:11:14",
+  "timestamp": "2026-06-13T20:12:58",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Sukhothai",
-      "path": "asia/thailand/sukhothai",
-      "prior_rank": 179,
-      "prior_wins": 43,
-      "prior_n": 2
-    },
-    {
-      "rank": 2,
-      "title": "La Spezia",
-      "path": "europe/italy/tuscany/lunigiana/la_spezia",
-      "prior_rank": 3804,
-      "prior_wins": 24,
-      "prior_n": 2
-    },
-    {
-      "rank": 3,
-      "title": "Karon",
-      "path": "asia/thailand/phuket/karon",
-      "prior_rank": 1125,
-      "prior_wins": 37,
-      "prior_n": 2
-    },
-    {
-      "rank": 4,
-      "title": "Tioman Island",
-      "path": "asia/malaysia/tiomanisland",
-      "prior_rank": 2264,
-      "prior_wins": 31,
-      "prior_n": 2
-    },
-    {
-      "rank": 5,
-      "title": "Pine Cay",
-      "path": "northamerica/turksandcaicosislands/pinecay",
-      "prior_rank": 1497,
-      "prior_wins": 35,
-      "prior_n": 2
-    },
-    {
-      "rank": 6,
-      "title": "Mayreau",
-      "path": "northamerica/saintvincentandthegrenadines/mayreau",
-      "prior_rank": 1622,
-      "prior_wins": 51,
+      "title": "Austin",
+      "path": "northamerica/unitedstates/texas/austin",
+      "prior_score": 4.6264,
+      "prior_variance": 0.431937,
       "prior_n": 3
     },
     {
+      "rank": 2,
+      "title": "Patong",
+      "path": "asia/thailand/phuket/patong",
+      "prior_score": 7.3522,
+      "prior_variance": 0.398365,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Tahoe City",
+      "path": "northamerica/unitedstates/california/highsierra/tahoecity",
+      "prior_score": 4.9183,
+      "prior_variance": 0.447746,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Tierra del Fuego",
+      "path": "southamerica/argentina/tierradelfuego",
+      "prior_score": 2.607,
+      "prior_variance": 0.372268,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_national_park",
+      "prior_score": 4.754,
+      "prior_variance": 0.422797,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Khasab",
+      "path": "asia/oman/musandampeninsula/khasab",
+      "prior_score": 5.1248,
+      "prior_variance": 0.388585,
+      "prior_n": 4
+    },
+    {
       "rank": 7,
-      "title": "Tutukaka / Poor Knights",
-      "path": "australiaandpacific/newzealand/northland/titikakapoor_knig",
-      "prior_rank": 1003,
-      "prior_wins": 37,
-      "prior_n": 2
+      "title": "Hanas Lake",
+      "path": "asia/china/xinjiangprovince/hanaslake",
+      "prior_score": 4.2793,
+      "prior_variance": 0.421917,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Amman",
-      "path": "asia/jordan/amman",
-      "prior_rank": 1720,
-      "prior_wins": 31,
-      "prior_n": 2
+      "title": "Dujiangyan",
+      "path": "asia/china/sichuanprovince/dujiangyan",
+      "prior_score": 4.8203,
+      "prior_variance": 0.515276,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Salalah",
-      "path": "asia/oman/salalah",
-      "prior_rank": 745,
-      "prior_wins": 39,
-      "prior_n": 2
+      "title": "Ile de Gor\u00e9e",
+      "path": "africa/senegal/iledegoree",
+      "prior_score": 4.5656,
+      "prior_variance": 0.428709,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Comillas",
-      "path": "europe/spain/cantabria/comillas",
-      "prior_rank": 3047,
-      "prior_wins": 27,
-      "prior_n": 2
+      "title": "Hikone",
+      "path": "asia/japan/honshu/hikone",
+      "prior_score": 3.6463,
+      "prior_variance": 0.486862,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Gloucestershire",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/gloucestershire",
-      "prior_rank": 1141,
-      "prior_wins": 36,
-      "prior_n": 2
+      "title": "Harpers Ferry",
+      "path": "northamerica/unitedstates/westvirginia/harpersferry",
+      "prior_score": 2.3657,
+      "prior_variance": 0.441915,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Durango",
-      "path": "northamerica/unitedstates/colorado/durangocolorado",
-      "prior_rank": 1397,
-      "prior_wins": 53,
+      "title": "Besal\u00fa",
+      "path": "europe/spain/catalonia/besal",
+      "prior_score": 5.3885,
+      "prior_variance": 0.424873,
       "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Gir National Park",
-      "path": "asia/india/gujarat/wildlife/girnationalpark",
-      "prior_rank": 1786,
-      "prior_wins": 50,
+      "title": "Wells",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/wells",
+      "prior_score": 1.7318,
+      "prior_variance": 0.410922,
       "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Koh Talu",
-      "path": "asia/thailand/koh_talu_island/koh_talu",
-      "prior_rank": 276,
-      "prior_wins": 42,
-      "prior_n": 2
+      "title": "Lassithi plateau",
+      "path": "europe/greece/crete/lassithi_plateau",
+      "prior_score": 4.6638,
+      "prior_variance": 0.361335,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Dumaguete City",
-      "path": "asia/philippines/dumaguetecity",
-      "prior_rank": 2474,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Langeais",
+      "path": "europe/france/centre/loirevalley/langeais",
+      "prior_score": 3.3917,
+      "prior_variance": 0.609815,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Borjomi",
-      "path": "europe/georgia/borjomi",
-      "prior_rank": 1696,
-      "prior_wins": 34,
-      "prior_n": 2
+      "title": "Ile d'Oleron",
+      "path": "europe/france/aquitaine/iledoleron",
+      "prior_score": 4.5953,
+      "prior_variance": 0.449924,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Altm\u00fchl Valley",
-      "path": "europe/germany/bavaria/altmuhl",
-      "prior_rank": 2047,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Volendam",
+      "path": "europe/netherlands/volendam",
+      "prior_score": 4.2121,
+      "prior_variance": 0.362471,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Mendocino",
-      "path": "northamerica/unitedstates/california/northcoast/mendocino",
-      "prior_rank": 3144,
-      "prior_wins": 27,
-      "prior_n": 2
+      "title": "Tsilivi",
+      "path": "europe/greece/zakinthos/tsilivi",
+      "prior_score": 4.5008,
+      "prior_variance": 0.418867,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Ancona",
-      "path": "europe/italy/marche/ancona",
-      "prior_rank": 4069,
-      "prior_wins": 23,
-      "prior_n": 2
+      "title": "Patan",
+      "path": "asia/india/gujarat/patan",
+      "prior_score": -3.4126,
+      "prior_variance": 0.397312,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Pictured Rocks",
-      "path": "northamerica/unitedstates/michigan/picturedrock",
-      "prior_rank": 2095,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Zhangguying Village",
+      "path": "asia/china/hunan/zhangguying",
+      "prior_score": 2.7801,
+      "prior_variance": 0.590829,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Beaumaris",
-      "path": "europe/unitedkingdom/wales/anglesey/beaumaris",
-      "prior_rank": 4736,
-      "prior_wins": 20,
-      "prior_n": 2
+      "title": "Chongwu",
+      "path": "asia/china/fujianprovince/chongwu",
+      "prior_score": -1.4941,
+      "prior_variance": 0.384171,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Jal\u00eb",
-      "path": "europe/albania/saranda/jal",
-      "prior_rank": 1894,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "Zalantun",
+      "path": "asia/china/innermongolia/zalantun",
+      "prior_score": -6.0351,
+      "prior_variance": 0.466025,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "\u0160pindler\u016fv Ml\u00fdn",
-      "path": "europe/czechrepublic/spindleruvmlyn",
-      "prior_rank": 3323,
-      "prior_wins": 20,
-      "prior_n": 2
+      "title": "Ladispoli",
+      "path": "europe/italy/lazio/ladispoli",
+      "prior_score": -3.5042,
+      "prior_variance": 0.59582,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "The Yukon Territory",
-      "path": "northamerica/canada/the_yukon_territor",
-      "prior_rank": 3598,
-      "prior_wins": 25,
-      "prior_n": 2
+      "title": "Channel-Port aux Basques",
+      "path": "northamerica/canada/newfoundland/channelport_aux_b",
+      "prior_score": -4.2707,
+      "prior_variance": 0.41575,
+      "prior_n": 3
     }
   ]
 }

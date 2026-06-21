@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tugu_Malang.jpg
 latitude: -7.9771
 loc_type: city
 longitude: 112.634
-score: 0.53
+score: 0.44
 title: Malang
 type: location
 ---

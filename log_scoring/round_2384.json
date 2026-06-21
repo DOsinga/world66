@@ -1,0 +1,200 @@
+{
+  "round": 2384,
+  "timestamp": "2026-06-13T21:38:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/northernspain/santiagodecompostela",
+      "prior_score": 7.2586,
+      "prior_variance": 0.302755,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Krka National Park",
+      "path": "europe/croatia/krka_national_park_1",
+      "prior_score": 10.3266,
+      "prior_variance": 0.365916,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Cortina d'Ampezzo",
+      "path": "europe/italy/veneto/cortina_dampezzo",
+      "prior_score": 8.8273,
+      "prior_variance": 0.269956,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Munnar",
+      "path": "asia/india/kerala/munnar",
+      "prior_score": 4.4056,
+      "prior_variance": 0.214261,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Charlotte Amalie",
+      "path": "northamerica/thecaribbean/virginislands/charlotteamalie",
+      "prior_score": 3.8356,
+      "prior_variance": 0.239952,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Southampton",
+      "path": "northamerica/bermuda/southampton",
+      "prior_score": 3.2666,
+      "prior_variance": 0.184264,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Los Cristianos",
+      "path": "europe/spain/spanishcostas/loscristianos",
+      "prior_score": 1.9345,
+      "prior_variance": 0.199802,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "St Peter Port",
+      "path": "europe/channelislands/guernsey/st_peter_port",
+      "prior_score": 3.8513,
+      "prior_variance": 0.205288,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Stoupa",
+      "path": "europe/greece/mani/stoupa",
+      "prior_score": 4.4043,
+      "prior_variance": 0.239102,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Tokushima",
+      "path": "asia/japan/shikoku/tokushima",
+      "prior_score": 2.8092,
+      "prior_variance": 0.168124,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Fazana",
+      "path": "europe/croatia/fazana",
+      "prior_score": 1.8811,
+      "prior_variance": 0.167906,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Bour",
+      "path": "europe/faroeislands/vagar/bour",
+      "prior_score": 2.2078,
+      "prior_variance": 0.222956,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Tolo",
+      "path": "europe/greece/tolo",
+      "prior_score": 0.984,
+      "prior_variance": 0.159075,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "San Gerardo de Rivas",
+      "path": "northamerica/costarica/san_gerardo_de_rivas",
+      "prior_score": 1.6086,
+      "prior_variance": 0.190144,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Nuoro",
+      "path": "europe/italy/sardinia/nuoro",
+      "prior_score": 1.3934,
+      "prior_variance": 0.183786,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Stockbridge",
+      "path": "northamerica/unitedstates/massachusetts/stockbridge",
+      "prior_score": -0.1802,
+      "prior_variance": 0.167545,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Chantaburi",
+      "path": "asia/thailand/chantaburi",
+      "prior_score": 0.6592,
+      "prior_variance": 0.157745,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Nevada City",
+      "path": "northamerica/unitedstates/california/goldcountry/nevadacity",
+      "prior_score": 0.6135,
+      "prior_variance": 0.171607,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Suceava",
+      "path": "europe/romania/suceava",
+      "prior_score": -0.3441,
+      "prior_variance": 0.158045,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Benoue Park",
+      "path": "africa/cameroon/benouepark",
+      "prior_score": -2.7204,
+      "prior_variance": 0.222724,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Kasungu",
+      "path": "africa/malawi/zombaplateau/kasungu",
+      "prior_score": -5.7214,
+      "prior_variance": 0.224031,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Sainte-Therese",
+      "path": "northamerica/canada/quebec/saintetherese",
+      "prior_score": -4.7196,
+      "prior_variance": 0.205895,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "S\u00f6dert\u00e4lje",
+      "path": "europe/sweden/sdertlje",
+      "prior_score": -4.5321,
+      "prior_variance": 0.260127,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Winnemucca",
+      "path": "northamerica/unitedstates/nevada/winnemucca",
+      "prior_score": -6.1489,
+      "prior_variance": 0.231413,
+      "prior_n": 7
+    }
+  ]
+}

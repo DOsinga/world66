@@ -5,7 +5,7 @@ done:
 latitude: 19.516
 loc_type: city
 longitude: 98.2537
-score: 0.57
+score: 0.44
 title: Soppong
 type: location
 ---

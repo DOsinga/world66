@@ -1,0 +1,200 @@
+{
+  "round": 3200,
+  "timestamp": "2026-06-13T22:36:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Strasbourg",
+      "path": "europe/france/east/alsace/strasbourg",
+      "prior_score": 8.4923,
+      "prior_variance": 0.24358,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Burgos",
+      "path": "europe/spain/northernspain/burgos",
+      "prior_score": 4.451,
+      "prior_variance": 0.122636,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Lipari",
+      "path": "europe/italy/sicily/aeolianislands/lipari",
+      "prior_score": 6.772,
+      "prior_variance": 0.154243,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Windsor",
+      "path": "europe/unitedkingdom/england/south_east/windsor",
+      "prior_score": 4.1257,
+      "prior_variance": 0.150346,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Baalbek",
+      "path": "asia/lebanon/baalbek",
+      "prior_score": 5.1402,
+      "prior_variance": 0.165112,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Huanglong",
+      "path": "asia/china/sichuanprovince/huanglong",
+      "prior_score": 6.6695,
+      "prior_variance": 0.159387,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Harar",
+      "path": "africa/ethiopia/harar",
+      "prior_score": 2.5251,
+      "prior_variance": 0.128643,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Dalyan",
+      "path": "asia/turkey/dalyan",
+      "prior_score": 4.6461,
+      "prior_variance": 0.15065,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Mindo",
+      "path": "southamerica/ecuador/mindo",
+      "prior_score": 3.1621,
+      "prior_variance": 0.162914,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Hildesheim",
+      "path": "europe/germany/lowersaxony/hildesheim",
+      "prior_score": 1.2828,
+      "prior_variance": 0.124633,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Rochester",
+      "path": "europe/unitedkingdom/england/south_east/rochester",
+      "prior_score": 0.5153,
+      "prior_variance": 0.140771,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Pescasseroli",
+      "path": "europe/italy/abruzzo/pescasseroli",
+      "prior_score": 1.6572,
+      "prior_variance": 0.132851,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Les Andelys",
+      "path": "europe/france/normandybrittany/lesandelys",
+      "prior_score": 0.9473,
+      "prior_variance": 0.138833,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Sevanavank",
+      "path": "europe/armenia/sevanavank",
+      "prior_score": 1.6236,
+      "prior_variance": 0.116404,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "El Jadida",
+      "path": "africa/morocco/el_jadida",
+      "prior_score": 0.729,
+      "prior_variance": 0.13889,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Ansbach",
+      "path": "europe/germany/bavaria/ansbach",
+      "prior_score": -0.5559,
+      "prior_variance": 0.138052,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Iloilo City",
+      "path": "asia/philippines/iloilo_city",
+      "prior_score": 0.113,
+      "prior_variance": 0.131941,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Soline",
+      "path": "europe/croatia/miljet_island/soline",
+      "prior_score": 2.7659,
+      "prior_variance": 0.127942,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Ambrym",
+      "path": "australiaandpacific/vanuatu/ambrym",
+      "prior_score": 0.4178,
+      "prior_variance": 0.13968,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Bashang Grasslands",
+      "path": "asia/china/hebei/bashang_grasslands",
+      "prior_score": 1.6517,
+      "prior_variance": 0.123773,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Djanet",
+      "path": "africa/algeria/djanet",
+      "prior_score": 0.5673,
+      "prior_variance": 0.128514,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Galibi Nature Reserve",
+      "path": "southamerica/suriname/galibireserve",
+      "prior_score": -0.2469,
+      "prior_variance": 0.178453,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Hailar",
+      "path": "asia/china/innermongolia/hailar",
+      "prior_score": -2.8769,
+      "prior_variance": 0.120344,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_score": -5.2351,
+      "prior_variance": 0.16992,
+      "prior_n": 10
+    }
+  ]
+}

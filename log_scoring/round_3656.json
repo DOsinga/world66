@@ -1,0 +1,200 @@
+{
+  "round": 3656,
+  "timestamp": "2026-06-13T23:10:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Worms",
+      "path": "europe/germany/rhinelandpalatinate/worms",
+      "prior_score": 0.7629,
+      "prior_variance": 0.120914,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_score": -2.7527,
+      "prior_variance": 0.121254,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "S\u00f6dert\u00e4lje",
+      "path": "europe/sweden/sdertlje",
+      "prior_score": -4.1662,
+      "prior_variance": 0.155645,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Atascadero",
+      "path": "northamerica/unitedstates/california/atascadero",
+      "prior_score": -3.7657,
+      "prior_variance": 0.124485,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Zagora",
+      "path": "africa/morocco/zagora",
+      "prior_score": 1.7699,
+      "prior_variance": 0.133979,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Pithoragarh",
+      "path": "asia/india/uttaranchal/pithoragarh",
+      "prior_score": 0.0467,
+      "prior_variance": 0.102271,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Brandon",
+      "path": "northamerica/canada/manitoba/brandon",
+      "prior_score": -4.8703,
+      "prior_variance": 0.151734,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Soveria Mannelli",
+      "path": "europe/italy/calabria/soveria_mannelli",
+      "prior_score": -3.1938,
+      "prior_variance": 0.132523,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Quiliano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/quiliano",
+      "prior_score": -1.6329,
+      "prior_variance": 0.128543,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Nandaihe",
+      "path": "asia/china/hebei/nandaihe",
+      "prior_score": -2.8537,
+      "prior_variance": 0.115033,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Vengurla",
+      "path": "asia/india/maharashtra/vengurla",
+      "prior_score": -4.1105,
+      "prior_variance": 0.138219,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Kunshan",
+      "path": "asia/china/jiangsu_province/kunshan",
+      "prior_score": -4.5822,
+      "prior_variance": 0.13596,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Hrazdan",
+      "path": "europe/armenia/kotayk_marz/hrazdan",
+      "prior_score": -4.4562,
+      "prior_variance": 0.132626,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Sareyn",
+      "path": "asia/iran/sareyn",
+      "prior_score": -3.1907,
+      "prior_variance": 0.149288,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Bougainville",
+      "path": "asia/papuanewguinea/bougainville",
+      "prior_score": -3.9506,
+      "prior_variance": 0.116166,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Chittagong",
+      "path": "asia/bangladesh/chittagong",
+      "prior_score": -4.4194,
+      "prior_variance": 0.125001,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Americus",
+      "path": "northamerica/unitedstates/georgia/americus",
+      "prior_score": -5.4164,
+      "prior_variance": 0.140092,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "N\u00f5va",
+      "path": "europe/estonia/nva",
+      "prior_score": -4.5828,
+      "prior_variance": 0.105439,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Nagrota Surian",
+      "path": "asia/india/himachalpradesh/pongdamlakeramsarsanctuary/nagrota_surian",
+      "prior_score": -5.268,
+      "prior_variance": 0.139334,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Annobon",
+      "path": "africa/equatorialguinea/annobon",
+      "prior_score": -6.3742,
+      "prior_variance": 0.197986,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Wewoka",
+      "path": "northamerica/unitedstates/oklahoma/wewoka",
+      "prior_score": -7.805,
+      "prior_variance": 0.273411,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "San Miguel",
+      "path": "northamerica/elsalvador/sanmiguel",
+      "prior_score": -4.5523,
+      "prior_variance": 0.12076,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Kufra",
+      "path": "africa/libya/kufra",
+      "prior_score": -10.0347,
+      "prior_variance": 0.35058,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Darra Adam Khel",
+      "path": "asia/pakistan/darraadamkhel",
+      "prior_score": -10.556,
+      "prior_variance": 0.289279,
+      "prior_n": 11
+    }
+  ]
+}

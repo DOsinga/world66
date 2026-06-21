@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chapel_Hill_Franklin_Stree
 latitude: 35.9132
 loc_type: city
 longitude: -79.0558
-score: 0.43
+score: 0.39
 title: Chapel Hill
 type: location
 ---

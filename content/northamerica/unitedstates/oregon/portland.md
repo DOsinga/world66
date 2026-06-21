@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Portland_Night_panorama.jp
 latitude: 45.5202
 loc_type: city
 longitude: -122.6742
-score: 0.59
+score: 0.51
 title: Portland
 type: location
 ---

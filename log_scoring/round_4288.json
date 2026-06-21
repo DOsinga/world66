@@ -1,0 +1,200 @@
+{
+  "round": 4288,
+  "timestamp": "2026-06-14T00:00:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Volubilis",
+      "path": "africa/morocco/volubilis",
+      "prior_score": 4.4169,
+      "prior_variance": 0.104679,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Sucre",
+      "path": "southamerica/bolivia/sucre",
+      "prior_score": 3.5252,
+      "prior_variance": 0.111786,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Menton",
+      "path": "europe/france/midi/provence/menton",
+      "prior_score": 4.7728,
+      "prior_variance": 0.107168,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Alicante",
+      "path": "europe/spain/spanishcostas/alicante",
+      "prior_score": 4.3305,
+      "prior_variance": 0.107244,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Camargue",
+      "path": "europe/france/midi/camargue",
+      "prior_score": 4.0361,
+      "prior_variance": 0.106386,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Loches",
+      "path": "europe/france/centre/loirevalley/loches",
+      "prior_score": 3.1501,
+      "prior_variance": 0.097771,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Majella",
+      "path": "europe/italy/abruzzo/majella",
+      "prior_score": 2.3872,
+      "prior_variance": 0.09774,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Tissamaharama",
+      "path": "asia/srilanka/tissamaharama",
+      "prior_score": 1.8523,
+      "prior_variance": 0.104795,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Arusha",
+      "path": "africa/tanzania/arusha",
+      "prior_score": 3.3688,
+      "prior_variance": 0.099743,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Kirkwall",
+      "path": "europe/unitedkingdom/scotland/orkneys/kirkwall",
+      "prior_score": 2.8913,
+      "prior_variance": 0.100617,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Kunming",
+      "path": "asia/china/yunnanprovince/kunming",
+      "prior_score": 2.7489,
+      "prior_variance": 0.093909,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Sabaudia",
+      "path": "europe/italy/lazio/sabaudia",
+      "prior_score": 0.5341,
+      "prior_variance": 0.093765,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Montegrotto Terme",
+      "path": "europe/italy/veneto/montegrotto_terme",
+      "prior_score": 0.7954,
+      "prior_variance": 0.095376,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Zlatibor",
+      "path": "europe/serbia/zlatibor",
+      "prior_score": 0.9695,
+      "prior_variance": 0.090551,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Valkenburg",
+      "path": "europe/netherlands/valkenburg",
+      "prior_score": 1.1598,
+      "prior_variance": 0.091784,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "San Jos\u00e9",
+      "path": "northamerica/costarica/sanjose",
+      "prior_score": 0.6127,
+      "prior_variance": 0.112023,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "San Juan Capistrano",
+      "path": "northamerica/unitedstates/california/orangecounty/san_juan_capistrano",
+      "prior_score": 0.7013,
+      "prior_variance": 0.106663,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Vwaza Marsh Game Reserve",
+      "path": "africa/malawi/vwaza",
+      "prior_score": -0.6849,
+      "prior_variance": 0.123292,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Sundsvall",
+      "path": "europe/sweden/sundsvall",
+      "prior_score": -0.9956,
+      "prior_variance": 0.095998,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Campina Grande",
+      "path": "southamerica/brazil/campinagrande",
+      "prior_score": -2.8341,
+      "prior_variance": 0.110092,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Chirala",
+      "path": "asia/india/andhrapradesh/chirala",
+      "prior_score": -5.4587,
+      "prior_variance": 0.096849,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Touba",
+      "path": "africa/senegal/touba",
+      "prior_score": -4.3816,
+      "prior_variance": 0.121721,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Aqsu",
+      "path": "europe/azerbaijan/aqsu",
+      "prior_score": -7.6759,
+      "prior_variance": 0.190585,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/texas/texarkana",
+      "prior_score": -5.6177,
+      "prior_variance": 0.132762,
+      "prior_n": 14
+    }
+  ]
+}

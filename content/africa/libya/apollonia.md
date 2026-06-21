@@ -10,6 +10,7 @@ sources:
 - https://slsgazetteer.org/911/
 title: Apollonia
 type: location
+score: 0.31
 ---
 
 Apollonia is the ancient harbour of Cyrene, spread along the Mediterranean beside the modern town of Susa. It is one of the great places of Greek and Byzantine Cyrenaica: lower-key than [Leptis Magna](/africa/libya/leptismagna), less famous than Cyrene, but wonderfully placed where ruined walls and churches meet a pale, rocky coast.

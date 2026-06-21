@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gravina_in_Puglia_-_Vista_
 latitude: 40.819725
 loc_type: city
 longitude: 16.422779
-score: 0.52
+score: 0.49
 title: Gravina in Puglia
 type: location
 ---

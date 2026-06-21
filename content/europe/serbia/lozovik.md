@@ -5,7 +5,7 @@ done:
 latitude: 44.467749
 loc_type: city
 longitude: 21.100723
-score: 0.31
+score: 0.18
 title: Lozovik
 type: location
 ---

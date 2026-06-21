@@ -5,7 +5,7 @@ done:
 latitude: 39.3995
 loc_type: city
 longitude: -84.5613
-score: 0.3
+score: 0.25
 title: Hamilton
 type: location
 ---

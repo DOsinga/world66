@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castelo_de_Soutomaior,_San
 latitude: 42.338625
 loc_type: city
 longitude: -8.572628
-score: 0.43
+score: 0.37
 title: Soutomaior
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Scranton_-_Downtown_(48472
 latitude: 41.408687
 loc_type: city
 longitude: -75.662129
-score: 0.35
+score: 0.28
 title: Scranton
 type: location
 ---

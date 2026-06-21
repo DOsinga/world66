@@ -1,0 +1,200 @@
+{
+  "round": 4292,
+  "timestamp": "2026-06-14T00:00:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tokyo",
+      "path": "asia/japan/tokyo",
+      "prior_score": 18.0494,
+      "prior_variance": 1.431079,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_score": 21.4173,
+      "prior_variance": 5.365005,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Playa de las Am\u00e9ricas",
+      "path": "europe/spain/spanishcostas/lasamericas",
+      "prior_score": 1.1457,
+      "prior_variance": 0.112601,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "St. George",
+      "path": "northamerica/unitedstates/utah/st_george",
+      "prior_score": 1.6597,
+      "prior_variance": 0.107239,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "North-East Tasmania",
+      "path": "australiaandpacific/australia/tasmania/northeast",
+      "prior_score": 1.6163,
+      "prior_variance": 0.104875,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Helsingborg",
+      "path": "europe/sweden/helsingborg",
+      "prior_score": 0.4254,
+      "prior_variance": 0.102083,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/galicia/lacoruna",
+      "prior_score": 2.5155,
+      "prior_variance": 0.098041,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Sanxenxo",
+      "path": "europe/spain/galicia/sanxenxo",
+      "prior_score": 1.3001,
+      "prior_variance": 0.096905,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Tashkent",
+      "path": "asia/uzbekistan/tashkent",
+      "prior_score": 0.8882,
+      "prior_variance": 0.154289,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Karakol",
+      "path": "asia/kyrgyzstan/karakol",
+      "prior_score": 1.4407,
+      "prior_variance": 0.098555,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Sergiev Posad",
+      "path": "europe/russia/sergievposad",
+      "prior_score": 1.0557,
+      "prior_variance": 0.093887,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Kerman",
+      "path": "asia/iran/kerman",
+      "prior_score": -1.9553,
+      "prior_variance": 0.101185,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Zhenyuan",
+      "path": "asia/china/guizhou/zhenyuan",
+      "prior_score": 3.0352,
+      "prior_variance": 0.101545,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Cosenza",
+      "path": "europe/italy/calabria/cosenza",
+      "prior_score": -0.041,
+      "prior_variance": 0.112378,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Grosseto",
+      "path": "europe/italy/tuscany/grosseto",
+      "prior_score": 1.2078,
+      "prior_variance": 0.102612,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Schleswig",
+      "path": "europe/germany/schleswigholstein/schleswig",
+      "prior_score": -0.2911,
+      "prior_variance": 0.103476,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Xanthi",
+      "path": "europe/greece/xanthi",
+      "prior_score": 0.9269,
+      "prior_variance": 0.101036,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "F\u00fcrth",
+      "path": "europe/germany/bavaria/fuerth",
+      "prior_score": -1.0129,
+      "prior_variance": 0.101202,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "La Plata",
+      "path": "southamerica/argentina/laplata",
+      "prior_score": -1.1203,
+      "prior_variance": 0.09178,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Bethany Beach",
+      "path": "northamerica/unitedstates/delaware/bethanybeach",
+      "prior_score": -1.1546,
+      "prior_variance": 0.10435,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Cobourg",
+      "path": "northamerica/canada/ontario/cobourg",
+      "prior_score": -1.4793,
+      "prior_variance": 0.102874,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Salmiya",
+      "path": "asia/kuwait/salmiya",
+      "prior_score": -4.1395,
+      "prior_variance": 0.112511,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Tongchuan",
+      "path": "asia/china/shaanxi/tongchuan",
+      "prior_score": -5.0994,
+      "prior_variance": 0.107088,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Kisangani",
+      "path": "africa/congokinshasa/kisangani",
+      "prior_score": -7.2765,
+      "prior_variance": 0.129885,
+      "prior_n": 14
+    }
+  ]
+}

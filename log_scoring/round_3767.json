@@ -1,0 +1,200 @@
+{
+  "round": 3767,
+  "timestamp": "2026-06-13T23:18:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oaxaca",
+      "path": "northamerica/mexico/oaxaca",
+      "prior_score": 7.4513,
+      "prior_variance": 0.173868,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Iraklion",
+      "path": "europe/greece/crete/iraklion",
+      "prior_score": 4.7454,
+      "prior_variance": 0.129016,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Cape Reinga",
+      "path": "australiaandpacific/newzealand/north_island/northland/cape_reinga",
+      "prior_score": 4.3283,
+      "prior_variance": 0.119559,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Gir National Park",
+      "path": "asia/india/gujarat/wildlife/girnationalpark",
+      "prior_score": 2.3394,
+      "prior_variance": 0.119125,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Savonlinna",
+      "path": "europe/finland/savonlinna",
+      "prior_score": 2.6305,
+      "prior_variance": 0.112189,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Dougga",
+      "path": "africa/tunisia/dougga",
+      "prior_score": 3.0147,
+      "prior_variance": 0.112239,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Oland",
+      "path": "europe/sweden/oland",
+      "prior_score": 1.2558,
+      "prior_variance": 0.112833,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Brest",
+      "path": "europe/france/normandybrittany/brest",
+      "prior_score": 0.6781,
+      "prior_variance": 0.10405,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Traverse City",
+      "path": "northamerica/unitedstates/michigan/traverse_city",
+      "prior_score": 1.8154,
+      "prior_variance": 0.112599,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Chuuk",
+      "path": "australiaandpacific/micronesiafederatedstatesof/chuuk",
+      "prior_score": 1.1544,
+      "prior_variance": 0.113338,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "P\u00f3voa de Varzim",
+      "path": "europe/portugal/pvoa_de_varzim",
+      "prior_score": 0.2942,
+      "prior_variance": 0.106914,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Recife",
+      "path": "southamerica/brazil/recife",
+      "prior_score": 1.2172,
+      "prior_variance": 0.131323,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Colombo",
+      "path": "asia/srilanka/colombo",
+      "prior_score": 2.1245,
+      "prior_variance": 0.130326,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_score": 0.655,
+      "prior_variance": 0.117314,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Korce",
+      "path": "europe/albania/korce",
+      "prior_score": -0.53,
+      "prior_variance": 0.102916,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "N\u00e1chod",
+      "path": "europe/czechrepublic/nachod",
+      "prior_score": -0.9683,
+      "prior_variance": 0.108304,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Karnala",
+      "path": "asia/india/maharashtra/karnala",
+      "prior_score": -3.0538,
+      "prior_variance": 0.146437,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Tsumeb, Gateway to the North and Etosha",
+      "path": "africa/namibia/tsumeb_gateway_to_the_north_and_etosha",
+      "prior_score": -2.5474,
+      "prior_variance": 0.134166,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Bikini Atoll",
+      "path": "australiaandpacific/marshallislands/bikiniatoll",
+      "prior_score": 0.5914,
+      "prior_variance": 0.132471,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Wuhai",
+      "path": "asia/china/innermongolia/wuhai",
+      "prior_score": -5.7064,
+      "prior_variance": 0.136294,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Chibi",
+      "path": "asia/china/hubei/chibi",
+      "prior_score": -5.9592,
+      "prior_variance": 0.141999,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Nimrud",
+      "path": "asia/iraq/nimrod",
+      "prior_score": -8.6483,
+      "prior_variance": 0.250548,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Derna",
+      "path": "africa/libya/derna",
+      "prior_score": -9.8721,
+      "prior_variance": 0.311286,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Damascus",
+      "path": "asia/syria/damascus",
+      "prior_score": -8.5023,
+      "prior_variance": 0.264237,
+      "prior_n": 12
+    }
+  ]
+}

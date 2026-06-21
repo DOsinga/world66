@@ -1,0 +1,200 @@
+{
+  "round": 4805,
+  "timestamp": "2026-06-14T00:43:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Khumbu",
+      "path": "asia/nepal/khumbu",
+      "prior_score": 8.5864,
+      "prior_variance": 0.339983,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Zhangye",
+      "path": "asia/china/gansu/zhangye",
+      "prior_score": 4.3698,
+      "prior_variance": 0.109375,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Tsavo East",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavoeast",
+      "prior_score": 4.1675,
+      "prior_variance": 0.105349,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Vail",
+      "path": "northamerica/unitedstates/colorado/vail",
+      "prior_score": 4.6593,
+      "prior_variance": 0.1066,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Puc\u00f3n",
+      "path": "southamerica/chile/pucan",
+      "prior_score": 4.4749,
+      "prior_variance": 0.094523,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Pictured Rocks",
+      "path": "northamerica/unitedstates/michigan/picturedrock",
+      "prior_score": 4.276,
+      "prior_variance": 0.090301,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Knysna",
+      "path": "africa/southafrica/gardenroute/knysna",
+      "prior_score": 4.1808,
+      "prior_variance": 0.094639,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Otranto",
+      "path": "europe/italy/puglia/otranto",
+      "prior_score": 5.0138,
+      "prior_variance": 0.097674,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Russell",
+      "path": "australiaandpacific/newzealand/northland_1/russell",
+      "prior_score": 1.5035,
+      "prior_variance": 0.086345,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Palolem",
+      "path": "asia/india/goa/palolim",
+      "prior_score": 3.6688,
+      "prior_variance": 0.094741,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Potrero",
+      "path": "northamerica/costarica/potrero",
+      "prior_score": 0.4374,
+      "prior_variance": 0.090897,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Cuc Phuong",
+      "path": "asia/vietnam/cucphuong",
+      "prior_score": 1.1793,
+      "prior_variance": 0.08904,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Golden",
+      "path": "northamerica/canada/britishcolumbia/golden",
+      "prior_score": 1.7187,
+      "prior_variance": 0.091579,
+      "prior_n": 17
+    },
+    {
+      "rank": 14,
+      "title": "S\u00e3o Tom\u00e9",
+      "path": "africa/saotomeandprincipe/saotome",
+      "prior_score": 0.4081,
+      "prior_variance": 0.087054,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Bhandardhara",
+      "path": "asia/india/maharashtra/bhandardhara",
+      "prior_score": -0.7908,
+      "prior_variance": 0.087023,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "W National Park",
+      "path": "africa/niger/parkw",
+      "prior_score": -2.7003,
+      "prior_variance": 0.120992,
+      "prior_n": 17
+    },
+    {
+      "rank": 17,
+      "title": "Townsville",
+      "path": "australiaandpacific/australia/queensland/townsville",
+      "prior_score": -0.102,
+      "prior_variance": 0.082297,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Bastogne",
+      "path": "europe/belgium/bastogne",
+      "prior_score": 0.8084,
+      "prior_variance": 0.086287,
+      "prior_n": 17
+    },
+    {
+      "rank": 19,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/massachusetts/concord",
+      "prior_score": 1.875,
+      "prior_variance": 0.077851,
+      "prior_n": 17
+    },
+    {
+      "rank": 20,
+      "title": "Aschaffenburg",
+      "path": "europe/germany/hessen/aschaffenburg",
+      "prior_score": -0.6238,
+      "prior_variance": 0.082816,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Gaborone",
+      "path": "africa/botswana/gaborone",
+      "prior_score": -1.9398,
+      "prior_variance": 0.090225,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Moncton",
+      "path": "northamerica/canada/newbrunswick/moncton",
+      "prior_score": -1.9542,
+      "prior_variance": 0.090456,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "New Bedford",
+      "path": "northamerica/unitedstates/massachusetts/newbedford",
+      "prior_score": -1.8804,
+      "prior_variance": 0.081755,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_score": -8.0435,
+      "prior_variance": 0.188023,
+      "prior_n": 15
+    }
+  ]
+}

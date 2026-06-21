@@ -11,6 +11,7 @@ loc_type: city
 longitude: -1.278
 title: Abingdon
 type: location
+score: 0.39
 ---
 
 Abingdon claims, with some justification, to be the oldest continuously inhabited town in England — there was a settlement here before the Romans arrived, and the great Benedictine [abbey](/europe/unitedkingdom/england/south_east/abingdon/abingdon_abbey) that dominated medieval life here was one of the most powerful in the country. The abbey is long gone, dissolved by Henry VIII in 1538, but its ruins and gatehouse survive and are worth a wander.

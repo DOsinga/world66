@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Hunan
 title: Laosicheng
 type: location
+score: 0.39
 ---
 
 Laosicheng, in Yongshun County of western [Hunan](/asia/china/hunan), is the first UNESCO World Heritage Site in the province and one of the most historically significant archaeological sites in central China. The site was the capital of the Peng clan Tusi — hereditary chieftains who governed the Tujia people under a semi-autonomous arrangement with successive Chinese dynasties — for nearly six centuries from 1135 AD until the system was abolished by the Qing in 1724. Construction under the Southern Song was the beginning; at its height the city covered 25 square kilometres and housed a complex of palaces, temples, streets, markets, and administrative buildings that functioned as a state within a state.

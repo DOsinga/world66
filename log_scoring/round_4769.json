@@ -1,0 +1,200 @@
+{
+  "round": 4769,
+  "timestamp": "2026-06-14T00:40:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tokyo",
+      "path": "asia/japan/tokyo",
+      "prior_score": 18.6317,
+      "prior_variance": 1.036769,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Granada",
+      "path": "europe/spain/andalucia/granada",
+      "prior_score": 10.3279,
+      "prior_variance": 0.287186,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Phang Nga Bay",
+      "path": "asia/thailand/phangngabay",
+      "prior_score": 9.4648,
+      "prior_variance": 0.170163,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Merzouga",
+      "path": "africa/morocco/merzouga",
+      "prior_score": 5.5154,
+      "prior_variance": 0.122679,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Persepolis",
+      "path": "asia/iran/persepolis",
+      "prior_score": 5.0761,
+      "prior_variance": 0.120957,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Wudang Mountains",
+      "path": "asia/china/hubei/wudang_mountains",
+      "prior_score": 4.2347,
+      "prior_variance": 0.084074,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Everest Base Camp (Tibet)",
+      "path": "asia/china/tibet/everest_base_camp",
+      "prior_score": 4.5156,
+      "prior_variance": 0.129523,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Akumal",
+      "path": "northamerica/mexico/akumal",
+      "prior_score": 3.9185,
+      "prior_variance": 0.092227,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Bregenz",
+      "path": "europe/austria/bregenz",
+      "prior_score": 2.8226,
+      "prior_variance": 0.083393,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Pipa",
+      "path": "southamerica/brazil/pipa",
+      "prior_score": 2.1951,
+      "prior_variance": 0.090033,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Rivers of the Doubs",
+      "path": "europe/france/east/franchecomte/fabulous_rivers",
+      "prior_score": 1.442,
+      "prior_variance": 0.090817,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Dege",
+      "path": "asia/china/sichuanprovince/dege",
+      "prior_score": -1.3319,
+      "prior_variance": 0.112065,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Anamur",
+      "path": "asia/turkey/anamur",
+      "prior_score": -0.5758,
+      "prior_variance": 0.082562,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Vallorbes",
+      "path": "europe/switzerland/vallorbes",
+      "prior_score": -1.5299,
+      "prior_variance": 0.098482,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Coloane",
+      "path": "asia/china/coloane",
+      "prior_score": -1.1852,
+      "prior_variance": 0.108179,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Ganca",
+      "path": "europe/azerbaijan/ganca",
+      "prior_score": -2.7827,
+      "prior_variance": 0.092576,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "B\u00fckf\u00fcrd\u0151",
+      "path": "europe/hungary/bkfrd",
+      "prior_score": -1.1072,
+      "prior_variance": 0.081323,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Corrientes",
+      "path": "southamerica/argentina/corrientes",
+      "prior_score": -1.0563,
+      "prior_variance": 0.084033,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Mont-Laurier",
+      "path": "northamerica/canada/quebec/montlaurier",
+      "prior_score": -3.3155,
+      "prior_variance": 0.087358,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_score": -0.5152,
+      "prior_variance": 0.083489,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Ko\u0142obrzeg",
+      "path": "europe/poland/koobrzeg",
+      "prior_score": -0.7567,
+      "prior_variance": 0.085723,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Pasto",
+      "path": "southamerica/colombia/pasto",
+      "prior_score": -2.1844,
+      "prior_variance": 0.090127,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Alibag",
+      "path": "asia/india/alibaug",
+      "prior_score": -1.7077,
+      "prior_variance": 0.088538,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Colchester",
+      "path": "europe/unitedkingdom/england/eastern_england/colchester",
+      "prior_score": -0.787,
+      "prior_variance": 0.093168,
+      "prior_n": 16
+    }
+  ]
+}

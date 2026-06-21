@@ -5,7 +5,7 @@ done:
 latitude: 11.323003
 loc_type: city
 longitude: -12.282253
-score: 0.26
+score: 0.2
 title: Labe
 type: location
 image: labe.jpg

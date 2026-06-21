@@ -1,14 +1,14 @@
 ---
 title: Xanthos
-latitude: 36.35590
-longitude: 29.31880
+latitude: 36.3559
+longitude: 29.3188
 type: location
 loc_type: city
-score: 0.4
+score: 0.48
 tags:
-  - ancient_ruins
-  - history
-  - unesco
+- ancient_ruins
+- history
+- unesco
 image: xanthos.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Xanthos_south_of_Decumanus_7230.jpg
 image_license: CC BY-SA 4.0

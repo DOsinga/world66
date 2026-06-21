@@ -5,7 +5,7 @@ done:
 latitude: 37.839979
 loc_type: city
 longitude: -94.708288
-score: 0.33
+score: 0.27
 title: Fort Scott
 type: location
 ---

@@ -4,6 +4,7 @@ type: location
 loc_type: city
 latitude: 17.3297
 longitude: 76.8343
+score: 0.27
 ---
 
 Gulbarga — officially renamed Kalaburagi in 2014, though most people still use the old name — is a city in the arid northern reaches of Karnataka, close to the borders with Andhra Pradesh and Maharashtra. It is not on most tourists' itineraries, but for anyone interested in medieval Islamic architecture in India it is unexpectedly rewarding.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Approaching_Castlebay_-_ge
 latitude: 57.001775
 loc_type: city
 longitude: -7.469685
-score: 0.52
+score: 0.49
 tags:
 - things_to_do
 title: Barra

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:-2025.05_%D0%A2%D0%B0%D1%8
 latitude: 39.328141
 loc_type: city
 longitude: 46.15303
-score: 0.45
+score: 0.4
 title: Syunik
 type: location
 ---

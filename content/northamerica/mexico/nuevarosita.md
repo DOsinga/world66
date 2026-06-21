@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:NuevaRosita.jpg
 latitude: 27.937833
 loc_type: city
 longitude: -101.218748
-score: 0.3
+score: 0.22
 title: Nueva Rosita
 type: location
 ---

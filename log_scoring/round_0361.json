@@ -1,200 +1,200 @@
 {
   "round": 361,
-  "timestamp": "2026-04-12T09:13:24",
+  "timestamp": "2026-06-13T19:31:38",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Niagara Falls",
-      "path": "northamerica/canada/ontario/niagrafalls",
-      "prior_mu": 22.473,
-      "prior_sigma": 5.7309,
+      "title": "Lauterbrunnen",
+      "path": "europe/switzerland/lauterbrunnen",
+      "prior_score": 12.9992,
+      "prior_variance": 8.124448,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Montreal",
-      "path": "northamerica/canada/quebec/montreal",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Puerto Iguaz\u00fa",
+      "path": "southamerica/argentina/puertoiguazu",
+      "prior_score": 14.1855,
+      "prior_variance": 3.248843,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Bordeaux",
-      "path": "europe/france/wine/bordeaux",
-      "prior_mu": 23.615,
-      "prior_sigma": 6.0689,
+      "title": "Koh Lanta",
+      "path": "asia/thailand/kohlanta",
+      "prior_score": 9.5741,
+      "prior_variance": 2.073415,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Bordeaux and the Atlantic Coast",
-      "path": "europe/france/aquitaine",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Talamanca",
+      "path": "northamerica/costarica/talamanca",
+      "prior_score": 2.6984,
+      "prior_variance": 1.990354,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Denali National Park and Preserve",
-      "path": "northamerica/unitedstates/alaska/denali_national_pa",
-      "prior_mu": 23.615,
-      "prior_sigma": 6.0689,
+      "title": "Ixtapa-Zihuatanejo",
+      "path": "northamerica/mexico/ixtapazihuatanejo",
+      "prior_score": 4.2714,
+      "prior_variance": 1.652672,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Cagliari",
-      "path": "europe/italy/sardinia/cagliari",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ajaccio",
+      "path": "europe/france/corsica/ajaccio",
+      "prior_score": 8.1531,
+      "prior_variance": 2.062455,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Chiang Rai",
-      "path": "asia/thailand/chiangrai",
-      "prior_mu": 24.1328,
-      "prior_sigma": 6.0346,
+      "title": "Fuerteventura",
+      "path": "europe/spain/canaryislands/fuerteventura",
+      "prior_score": 10.4403,
+      "prior_variance": 5.195648,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Franz Josef",
-      "path": "australiaandpacific/newzealand/franzjosef",
-      "prior_mu": 22.7443,
-      "prior_sigma": 5.9525,
+      "title": "Boumalne Dad\u00e8s",
+      "path": "africa/morocco/boumalne",
+      "prior_score": 3.0302,
+      "prior_variance": 1.500477,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Blue Mountains",
-      "path": "northamerica/jamaica/bluemountains",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Carthage",
+      "path": "africa/tunisia/carthage",
+      "prior_score": 3.8909,
+      "prior_variance": 1.545649,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "san juan",
-      "path": "northamerica/dominicanrepublic/san_juan",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Saturnia",
+      "path": "europe/italy/tuscany/saturnia",
+      "prior_score": 5.532,
+      "prior_variance": 1.701697,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Setenil de las Bodegas",
-      "path": "europe/spain/andalucia/setenil",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Wuyuan",
+      "path": "asia/china/jiangxi/wuyuan",
+      "prior_score": 1.4865,
+      "prior_variance": 2.515681,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Kerikeri",
-      "path": "australiaandpacific/newzealand/kerikeri",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kalamaki",
+      "path": "europe/greece/zakinthos/kalamaki",
+      "prior_score": 6.7278,
+      "prior_variance": 2.165086,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Midi",
-      "path": "europe/france/midi",
-      "prior_mu": 21.7105,
-      "prior_sigma": 4.7395,
-      "prior_n": 2
+      "title": "Stanley",
+      "path": "southamerica/falklandislands/stanley",
+      "prior_score": 5.9758,
+      "prior_variance": 1.6886,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Bludenz",
-      "path": "europe/austria/bludenz",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Alaminos",
+      "path": "asia/philippines/alaminos",
+      "prior_score": 3.1096,
+      "prior_variance": 1.673789,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Youghal",
-      "path": "europe/ireland/cork/youghal",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Murudeshwar",
+      "path": "asia/india/karnataka/murudeshwar",
+      "prior_score": 0.6845,
+      "prior_variance": 1.569901,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "East Caicos",
-      "path": "northamerica/turksandcaicosislands/eastcaicos",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Yorktown",
+      "path": "northamerica/unitedstates/virginia/yorktown",
+      "prior_score": 0.6947,
+      "prior_variance": 1.739238,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Banjul",
-      "path": "africa/gambia/banjul",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bolsena",
+      "path": "europe/italy/lazio/bolsena",
+      "prior_score": 5.8911,
+      "prior_variance": 1.955777,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Grants Pass",
-      "path": "northamerica/unitedstates/oregon/grantspass",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Monza",
+      "path": "europe/italy/lombardia/monza",
+      "prior_score": 8.0024,
+      "prior_variance": 2.698384,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Haliburton",
-      "path": "northamerica/canada/ontario/haliburton",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Edam",
+      "path": "europe/netherlands/edam",
+      "prior_score": 3.187,
+      "prior_variance": 1.836196,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Grange",
-      "path": "europe/ireland/cork/grange",
-      "prior_mu": 22.7177,
-      "prior_sigma": 5.9493,
+      "title": "Mrljane",
+      "path": "europe/croatia/pasman_island/mrljane",
+      "prior_score": -1.0192,
+      "prior_variance": 1.468125,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Baramulla",
-      "path": "asia/india/jammuandkashmir/baramulla",
-      "prior_mu": 22.2749,
-      "prior_sigma": 5.7837,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swanage",
+      "prior_score": 1.6474,
+      "prior_variance": 1.737099,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Anjalankoski",
-      "path": "europe/finland/anjalankoski",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Chautauqua",
+      "path": "northamerica/unitedstates/newyorkstate/chautauqua",
+      "prior_score": 3.1875,
+      "prior_variance": 1.594256,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Bhera",
-      "path": "asia/pakistan/bhera",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/palo_alto",
+      "prior_score": -1.8185,
+      "prior_variance": 1.48044,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "NAMANPURA",
-      "path": "asia/pakistan/azad_kashmir/bagh/namanpura",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Rumsiskes",
+      "path": "europe/lithuania/rumsiskes",
+      "prior_score": -2.7819,
+      "prior_variance": 2.34583,
+      "prior_n": 1
     }
   ]
 }

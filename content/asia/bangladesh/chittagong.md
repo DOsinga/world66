@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_View_of_Shah_Amanat
 latitude: 22.333778
 loc_type: city
 longitude: 91.834435
-score: 0.32
+score: 0.28
 title: Chittagong
 type: location
 ---

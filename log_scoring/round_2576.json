@@ -1,0 +1,200 @@
+{
+  "round": 2576,
+  "timestamp": "2026-06-13T21:52:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fort Collins",
+      "path": "northamerica/unitedstates/colorado/fortcollins",
+      "prior_score": -0.6315,
+      "prior_variance": 0.174844,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Athens",
+      "path": "northamerica/unitedstates/georgia/athens",
+      "prior_score": -2.5222,
+      "prior_variance": 0.185194,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Thunder Bay",
+      "path": "northamerica/canada/ontario/thunder_bay",
+      "prior_score": -1.4006,
+      "prior_variance": 0.172363,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Plodio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/plodio",
+      "prior_score": -4.4791,
+      "prior_variance": 0.183205,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_score": -3.023,
+      "prior_variance": 0.17449,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Cumbuco",
+      "path": "southamerica/brazil/cumbuco",
+      "prior_score": 0.5065,
+      "prior_variance": 0.170929,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Amizmiz",
+      "path": "africa/morocco/amizmiz",
+      "prior_score": -0.7691,
+      "prior_variance": 0.14445,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Salt",
+      "path": "asia/jordan/salt",
+      "prior_score": -1.6022,
+      "prior_variance": 0.178374,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Sohar",
+      "path": "asia/oman/sohar",
+      "prior_score": -1.767,
+      "prior_variance": 0.155421,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Morondava",
+      "path": "africa/madagascar/morondava",
+      "prior_score": -0.5131,
+      "prior_variance": 0.180178,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Djibouti City",
+      "path": "africa/djibouti/djibouticity",
+      "prior_score": -2.783,
+      "prior_variance": 0.174162,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Kengtung",
+      "path": "asia/myanmar/kengtung",
+      "prior_score": -1.0983,
+      "prior_variance": 0.185084,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Marikina",
+      "path": "asia/philippines/marikina",
+      "prior_score": -5.2925,
+      "prior_variance": 0.193923,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Pasay City",
+      "path": "asia/philippines/pasay_city",
+      "prior_score": -3.7541,
+      "prior_variance": 0.180134,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Jining",
+      "path": "asia/china/shandong_province/jining",
+      "prior_score": -3.6733,
+      "prior_variance": 0.157771,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Fort Smith",
+      "path": "northamerica/unitedstates/arkansas/fortsmith",
+      "prior_score": -3.6034,
+      "prior_variance": 0.162242,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Sedalia",
+      "path": "northamerica/unitedstates/missouri/sedalia",
+      "prior_score": -4.0986,
+      "prior_variance": 0.213408,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Oshogbo",
+      "path": "africa/nigeria/oshogbo",
+      "prior_score": -2.0345,
+      "prior_variance": 0.173408,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Mtera",
+      "path": "africa/tanzania/mtera",
+      "prior_score": -6.948,
+      "prior_variance": 0.221565,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Aska",
+      "path": "asia/india/orissa/aska",
+      "prior_score": -6.4936,
+      "prior_variance": 0.186578,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Ouahigouya",
+      "path": "africa/burkinafaso/ouahigouya",
+      "prior_score": -8.3897,
+      "prior_variance": 0.411007,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Benghazi",
+      "path": "africa/libya/benghazi",
+      "prior_score": -8.2509,
+      "prior_variance": 0.328793,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Eagle Bend",
+      "path": "northamerica/unitedstates/minnesota/eaglebend",
+      "prior_score": -7.7545,
+      "prior_variance": 0.318211,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Prague",
+      "path": "northamerica/unitedstates/oklahoma/prague",
+      "prior_score": -7.2885,
+      "prior_variance": 0.339484,
+      "prior_n": 8
+    }
+  ]
+}

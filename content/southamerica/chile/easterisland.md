@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Easter_Island_5.jpg
 latitude: -27.1127
 loc_type: city
 longitude: -109.3497
-score: 0.76
+score: 0.73
 title: Easter Island
 type: location
 ---

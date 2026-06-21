@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pinot_Noir_wine_fields_in_
 latitude: 34.9531
 loc_type: city
 longitude: -120.4359
-score: 0.4
+score: 0.32
 title: Santa Maria
 type: location
 ---

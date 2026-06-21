@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pia%C8%9Ba_Victoriei_Timi%
 latitude: 45.7538
 loc_type: city
 longitude: 21.2257
-score: 0.53
+score: 0.44
 title: Timisoara
 type: location
 ---

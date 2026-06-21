@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Recanati_veduta_01.jpg
 latitude: 43.403509
 loc_type: city
 longitude: 13.548602
-score: 0.49
+score: 0.42
 title: Recanati
 type: location
 ---

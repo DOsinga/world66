@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Central_Dodoma.JPG
 latitude: -6.179118
 loc_type: city
 longitude: 35.746817
-score: 0.37
+score: 0.3
 title: Dodoma
 type: location
 ---

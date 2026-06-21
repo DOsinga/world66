@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bazaar_de_Kerman,_Ir%C3%A1
 latitude: 30.2839
 loc_type: city
 longitude: 57.0834
-score: 0.43
+score: 0.35
 title: Kerman
 type: location
 ---

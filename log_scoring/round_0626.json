@@ -1,200 +1,200 @@
 {
   "round": 626,
-  "timestamp": "2026-04-12T10:40:27",
+  "timestamp": "2026-06-13T19:45:37",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Poiana Bra\u0219ov",
-      "path": "europe/romania/poiana_brasov",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Jodhpur",
+      "path": "asia/india/rajasthan/jodhpur",
+      "prior_score": 10.1652,
+      "prior_variance": 1.529633,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Brasov",
-      "path": "europe/romania/brasov",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Phnom Penh",
+      "path": "asia/cambodia/phnompenh",
+      "prior_score": 8.6027,
+      "prior_variance": 1.195147,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Sibiu",
-      "path": "europe/romania/sibiu",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lake Khovsgol",
+      "path": "asia/mongolia/lakekhovsgol",
+      "prior_score": 4.9265,
+      "prior_variance": 0.714674,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Bran",
-      "path": "europe/romania/bran",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Harbin",
+      "path": "asia/china/heilongjiang/harbin",
+      "prior_score": 4.912,
+      "prior_variance": 0.959147,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Sinaia",
-      "path": "europe/romania/sinaia",
-      "prior_mu": 24.483,
-      "prior_sigma": 5.8443,
-      "prior_n": 1
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_score": 5.8685,
+      "prior_variance": 0.952625,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Constanta",
-      "path": "europe/romania/constanta",
-      "prior_mu": 22.4607,
-      "prior_sigma": 5.9202,
-      "prior_n": 1
+      "title": "Mount Kenya National Park",
+      "path": "africa/kenya/nationalparksandreserves/mountkenyanp",
+      "prior_score": 6.9842,
+      "prior_variance": 1.136376,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Vama Veche",
-      "path": "europe/romania/vama_veche",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Saba",
+      "path": "northamerica/netherlandsantilles/saba",
+      "prior_score": 6.2698,
+      "prior_variance": 0.982212,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Timisoara",
-      "path": "europe/romania/timisoara",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Blue Mountains",
+      "path": "northamerica/jamaica/bluemountains",
+      "prior_score": 6.1132,
+      "prior_variance": 0.777519,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Oradea",
-      "path": "europe/romania/oradea",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Chiang Dao",
+      "path": "asia/thailand/chiang_dao",
+      "prior_score": 6.1189,
+      "prior_variance": 1.512266,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Vatra Dornei",
-      "path": "europe/romania/vatradornei",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Langmusi",
+      "path": "asia/china/sichuanprovince/langmusi",
+      "prior_score": 6.3301,
+      "prior_variance": 1.277233,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Hunedoara",
-      "path": "europe/romania/hunedoara",
-      "prior_mu": 22.4242,
-      "prior_sigma": 5.9333,
-      "prior_n": 1
+      "title": "Motueka",
+      "path": "australiaandpacific/newzealand/motueka",
+      "prior_score": 4.7575,
+      "prior_variance": 0.908803,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Piatra Neam\u021b",
-      "path": "europe/romania/piatraneamt",
-      "prior_mu": 22.8766,
-      "prior_sigma": 5.9498,
+      "title": "Coral Bay",
+      "path": "australiaandpacific/australia/westernaustralia/coral_bay",
+      "prior_score": 6.4443,
+      "prior_variance": 1.8043,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Deva",
-      "path": "europe/romania/deva",
-      "prior_mu": 21.697,
-      "prior_sigma": 4.543,
-      "prior_n": 2
+      "title": "Silent Valley National Park",
+      "path": "asia/india/kerala/silent_valley_national_park",
+      "prior_score": 5.7345,
+      "prior_variance": 1.480903,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Turda",
-      "path": "europe/romania/turda",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Gythio",
+      "path": "europe/greece/mani/gythio",
+      "prior_score": 6.7136,
+      "prior_variance": 0.83564,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Turda",
-      "path": "europe/romania/transylvania/turda",
-      "prior_mu": 21.5501,
-      "prior_sigma": 4.736,
+      "title": "Llanes",
+      "path": "europe/spain/northernspain/llanes",
+      "prior_score": 5.0777,
+      "prior_variance": 1.005002,
       "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Arad",
-      "path": "europe/romania/arad",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Pe\u00f1\u00edscola",
+      "path": "europe/spain/castellon/peniscola",
+      "prior_score": 6.0925,
+      "prior_variance": 0.66811,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Bistrita",
-      "path": "europe/romania/bistrita",
-      "prior_mu": 22.49,
-      "prior_sigma": 5.9492,
-      "prior_n": 1
+      "title": "Vejer de la Frontera",
+      "path": "europe/spain/andalucia/vejer",
+      "prior_score": 6.3688,
+      "prior_variance": 0.646888,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Targoviste",
-      "path": "europe/romania/targoviste",
-      "prior_mu": 22.0013,
-      "prior_sigma": 5.7834,
-      "prior_n": 1
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bristol",
+      "prior_score": 5.749,
+      "prior_variance": 1.039171,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Galati",
-      "path": "europe/romania/galati",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Laguardia",
+      "path": "europe/spain/basque_country_euskadi/laguardia",
+      "prior_score": 4.8066,
+      "prior_variance": 1.079083,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Buz\u0103u",
-      "path": "europe/romania/buzau",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tiberias",
+      "path": "asia/israel/tiberias",
+      "prior_score": 4.3041,
+      "prior_variance": 0.774015,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Pite\u0219ti",
-      "path": "europe/romania/pitesti",
-      "prior_mu": 21.3651,
-      "prior_sigma": 4.4764,
+      "title": "Phitsanulok",
+      "path": "asia/thailand/phitsanulok",
+      "prior_score": 4.8056,
+      "prior_variance": 0.791805,
       "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Ploiesti",
-      "path": "europe/romania/ploiesti",
-      "prior_mu": 19.2834,
-      "prior_sigma": 5.2463,
+      "title": "Fatima",
+      "path": "europe/portugal/fatima",
+      "prior_score": 5.7109,
+      "prior_variance": 0.887729,
       "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "vascauti",
-      "path": "europe/romania/bucharest/vascauti",
-      "prior_mu": 22.2343,
-      "prior_sigma": 5.8836,
-      "prior_n": 1
+      "title": "Kollam",
+      "path": "asia/india/kerala/kollam",
+      "prior_score": 2.5571,
+      "prior_variance": 0.840495,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Otopeni",
-      "path": "europe/romania/otopeni",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mount Heng",
+      "path": "asia/china/hunan/mount_heng",
+      "prior_score": 4.5217,
+      "prior_variance": 0.701415,
+      "prior_n": 2
     }
   ]
 }

@@ -4,7 +4,7 @@ done:
   location_enrich: '2026-06-04'
 latitude: 47.885981
 longitude: 110.420104
-score: 0.42
+score: 0.33
 title: Khentii
 type: location
 loc_type: city

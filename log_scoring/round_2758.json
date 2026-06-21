@@ -1,0 +1,200 @@
+{
+  "round": 2758,
+  "timestamp": "2026-06-13T22:05:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Fortuna & Arenal Volcano",
+      "path": "northamerica/costarica/lafortunaarenalvolcano",
+      "prior_score": 7.5853,
+      "prior_variance": 0.300244,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Oban",
+      "path": "europe/unitedkingdom/scotland/oban",
+      "prior_score": 4.1383,
+      "prior_variance": 0.178931,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Guimar\u00e3es",
+      "path": "europe/portugal/guimaraes",
+      "prior_score": 4.8358,
+      "prior_variance": 0.179364,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Jingpo Lake",
+      "path": "asia/china/heilongjiang/jingpohu",
+      "prior_score": -0.9854,
+      "prior_variance": 0.167437,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Kalbarri",
+      "path": "australiaandpacific/australia/westernaustralia/kalbarri",
+      "prior_score": 1.7042,
+      "prior_variance": 0.146494,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Beiwudang Mountain",
+      "path": "asia/china/shanxiprovince/beiwudang",
+      "prior_score": -1.0959,
+      "prior_variance": 0.169908,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Freeport",
+      "path": "northamerica/bahamas/freeport",
+      "prior_score": 1.8549,
+      "prior_variance": 0.139011,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Buller",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/buller",
+      "prior_score": 0.3089,
+      "prior_variance": 0.171692,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Winsford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/winsford",
+      "prior_score": -2.4059,
+      "prior_variance": 0.159739,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Ilmenau",
+      "path": "europe/germany/thuringia/ilmenau",
+      "prior_score": -1.8436,
+      "prior_variance": 0.14935,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Portsoy",
+      "path": "europe/unitedkingdom/scotland/portsoy",
+      "prior_score": -0.5948,
+      "prior_variance": 0.165141,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Silay",
+      "path": "asia/philippines/negrosisland/silay",
+      "prior_score": -0.8088,
+      "prior_variance": 0.1566,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Ta\u2019if",
+      "path": "asia/saudiarabia/taif",
+      "prior_score": -1.649,
+      "prior_variance": 0.173305,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Swat",
+      "path": "asia/pakistan/swat",
+      "prior_score": -2.6405,
+      "prior_variance": 0.184341,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Agat",
+      "path": "australiaandpacific/guam/agat",
+      "prior_score": -2.671,
+      "prior_variance": 0.152183,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Knoxville",
+      "path": "northamerica/unitedstates/tennessee/knoxville",
+      "prior_score": -1.9372,
+      "prior_variance": 0.170017,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Ullal Beach",
+      "path": "asia/india/karnataka/ullal_beach",
+      "prior_score": -2.4365,
+      "prior_variance": 0.141831,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_score": -1.6005,
+      "prior_variance": 0.150526,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_score": -1.7982,
+      "prior_variance": 0.14404,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Sorell",
+      "path": "australiaandpacific/australia/tasmania/sorell",
+      "prior_score": -3.6663,
+      "prior_variance": 0.165755,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Quillota",
+      "path": "southamerica/chile/quillota",
+      "prior_score": -2.849,
+      "prior_variance": 0.147932,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Malaita",
+      "path": "australiaandpacific/solomonislands/malaita",
+      "prior_score": -4.2162,
+      "prior_variance": 0.299238,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Alpharetta",
+      "path": "northamerica/unitedstates/georgia/alpharetta",
+      "prior_score": -3.7023,
+      "prior_variance": 0.220747,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Balkh",
+      "path": "asia/afghanistan/balkh",
+      "prior_score": -5.605,
+      "prior_variance": 0.27898,
+      "prior_n": 9
+    }
+  ]
+}

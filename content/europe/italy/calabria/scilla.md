@@ -5,7 +5,7 @@ done:
 latitude: 38.25067
 loc_type: city
 longitude: 15.718993
-score: 0.59
+score: 0.52
 title: Scilla
 type: location
 ---

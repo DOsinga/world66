@@ -5,7 +5,7 @@ latitude: 44.8016
 longitude: -68.7713
 title: Bangor
 type: location
-score: 0.4
+score: 0.34
 loc_type: city
 ---
 

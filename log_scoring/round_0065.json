@@ -1,200 +1,200 @@
 {
   "round": 65,
-  "timestamp": "2026-04-12T08:02:24",
+  "timestamp": "2026-06-13T19:17:55",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Zermatt",
-      "path": "europe/switzerland/zermatt",
-      "prior_mu": 37.29,
-      "prior_sigma": 4.81,
-      "prior_n": 5
+      "title": "Laguna Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunabeach",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Finland",
-      "path": "europe/finland",
-      "prior_mu": 25.64,
-      "prior_sigma": 4.95,
-      "prior_n": 2
+      "title": "Ruaha National Park",
+      "path": "africa/tanzania/ruaha_national_park",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Copper Canyon",
-      "path": "northamerica/mexico/yucatan/coppercanyon",
-      "prior_mu": 27.03,
-      "prior_sigma": 5.35,
-      "prior_n": 2
+      "title": "Fish River Canyon National Park",
+      "path": "africa/namibia/fishrivercanyonnationalpark",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Sark",
-      "path": "europe/channelislands/sark",
-      "prior_mu": 21.94,
-      "prior_sigma": 3.74,
-      "prior_n": 3
+      "title": "Braga",
+      "path": "europe/portugal/braga",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Brighton",
-      "path": "europe/unitedkingdom/england/brighton",
-      "prior_mu": 21.89,
-      "prior_sigma": 4.52,
-      "prior_n": 2
+      "title": "Eger",
+      "path": "europe/hungary/eger",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Richmond",
-      "path": "europe/unitedkingdom/england/leeds_sheffield_a/richmond_yorks",
-      "prior_mu": 22.37,
-      "prior_sigma": 5.46,
-      "prior_n": 1
+      "title": "Ambrym",
+      "path": "australiaandpacific/vanuatu/ambrym",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Umag",
-      "path": "europe/croatia/umag",
-      "prior_mu": 22.13,
-      "prior_sigma": 4.59,
-      "prior_n": 2
+      "title": "M'Hamid el Ghislane",
+      "path": "africa/morocco/mhamid_el_ghislane",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Bibione",
-      "path": "europe/italy/veneto/bibione",
-      "prior_mu": 22.96,
-      "prior_sigma": 5.57,
-      "prior_n": 1
+      "title": "Douz",
+      "path": "africa/tunisia/douz",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Clervaux",
-      "path": "europe/luxembourg/clervaux",
-      "prior_mu": 21.67,
-      "prior_sigma": 4.73,
-      "prior_n": 2
+      "title": "O Grove",
+      "path": "europe/spain/galicia/o_grove",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Shobak",
-      "path": "asia/jordan/shobak",
-      "prior_mu": 21.32,
-      "prior_sigma": 3.65,
-      "prior_n": 3
+      "title": "Arta",
+      "path": "europe/greece/arta",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Sao Filipe",
-      "path": "africa/capeverde/so_filipe",
-      "prior_mu": 21.18,
-      "prior_sigma": 3.44,
-      "prior_n": 4
+      "title": "Bouillon",
+      "path": "europe/belgium/bouillon",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Isla la Blanquilla",
-      "path": "southamerica/venezuela/isla_la_blanquilla",
-      "prior_mu": 21.21,
-      "prior_sigma": 4.13,
-      "prior_n": 2
+      "title": "Bansk\u00e1 Bystrica",
+      "path": "europe/slovakia/banskabystrica",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Sylhet",
-      "path": "asia/bangladesh/sylhet",
-      "prior_mu": 21.09,
-      "prior_sigma": 3.81,
-      "prior_n": 3
+      "title": "Burgas",
+      "path": "europe/bulgaria/burgas",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Randers",
-      "path": "europe/denmark/randers",
-      "prior_mu": 21.1,
-      "prior_sigma": 4.3,
-      "prior_n": 2
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Alen\u00e7on",
-      "path": "europe/france/normandybrittany/alenon",
-      "prior_mu": 22.0,
-      "prior_sigma": 4.64,
-      "prior_n": 2
+      "title": "Machynlleth",
+      "path": "europe/unitedkingdom/wales/machynlleth",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Cumberland",
-      "path": "northamerica/unitedstates/maryland/cumberland",
-      "prior_mu": 21.9,
-      "prior_sigma": 5.39,
-      "prior_n": 1
+      "title": "Guilvinec",
+      "path": "europe/france/normandybrittany/guilvinec",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "James Island",
-      "path": "northamerica/unitedstates/southcarolina/james_island",
-      "prior_mu": 20.87,
-      "prior_sigma": 3.9,
-      "prior_n": 3
+      "title": "Kitale",
+      "path": "africa/kenya/westernkenya/kitale",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Jackson Heights",
-      "path": "northamerica/unitedstates/newyorkstate/jacksonheights",
-      "prior_mu": 21.6,
-      "prior_sigma": 4.74,
-      "prior_n": 2
+      "title": "Thiva",
+      "path": "europe/greece/thiva",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Bou saada",
-      "path": "africa/algeria/bousaada",
-      "prior_mu": 21.26,
-      "prior_sigma": 3.83,
-      "prior_n": 3
+      "title": "Butwal",
+      "path": "asia/nepal/butwal",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Newark",
-      "path": "northamerica/unitedstates/ohio/newark",
-      "prior_mu": 18.11,
-      "prior_sigma": 4.89,
-      "prior_n": 2
+      "title": "Puerto El Cuyo",
+      "path": "northamerica/mexico/puerto_el_cuyo",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Mangalagiri",
-      "path": "asia/india/andhrapradesh/mangalagiri",
-      "prior_mu": 20.95,
-      "prior_sigma": 3.72,
-      "prior_n": 3
+      "title": "N\u00f5va",
+      "path": "europe/estonia/nva",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Chichawatni",
-      "path": "asia/pakistan/chichawatni",
-      "prior_mu": 18.64,
-      "prior_sigma": 4.16,
-      "prior_n": 3
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/eastern_england/thetfordnorfolk",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Pakpattan",
-      "path": "asia/pakistan/pakpattan",
-      "prior_mu": 21.4,
-      "prior_sigma": 4.49,
-      "prior_n": 2
+      "title": "Borj Mokhtar",
+      "path": "africa/algeria/borjmokhtar",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "khatreel",
-      "path": "asia/pakistan/azad_kashmir/mirpur/khatreel",
-      "prior_mu": 17.74,
-      "prior_sigma": 4.76,
-      "prior_n": 2
+      "title": "Niono",
+      "path": "africa/mali/niono",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

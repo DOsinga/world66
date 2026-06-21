@@ -5,7 +5,7 @@ latitude: 37.7422
 longitude: -83.5753
 title: Red River Gorge
 type: location
-score: 0.55
+score: 0.47
 loc_type: feature
 ---
 

@@ -5,7 +5,7 @@ latitude: 43.879403
 longitude: -103.459805
 title: Mount Rushmore
 type: location
-score: 0.63
+score: 0.53
 loc_type: feature
 ---
 

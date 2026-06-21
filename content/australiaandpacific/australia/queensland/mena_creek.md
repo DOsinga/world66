@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Paronella_park_2004.jpg
 latitude: -17.65487
 loc_type: city
 longitude: 145.956352
-score: 0.41
+score: 0.33
 title: Mena Creek
 type: location
 ---

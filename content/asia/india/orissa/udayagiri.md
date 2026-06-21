@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Udayagiri_Caves_-_Ganesha_
 latitude: 20.6
 loc_type: city
 longitude: 86.0333
-score: 0.36
+score: 0.27
 title: Udayagiri
 type: location
 ---

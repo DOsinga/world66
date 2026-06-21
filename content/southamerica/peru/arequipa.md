@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_Arequipa,_Peru.jp
 latitude: -16.409
 loc_type: city
 longitude: -71.5375
-score: 0.69
+score: 0.58
 title: Arequipa
 type: location
 ---

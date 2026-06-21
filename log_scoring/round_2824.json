@@ -1,0 +1,200 @@
+{
+  "round": 2824,
+  "timestamp": "2026-06-13T22:09:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fl\u00e5m",
+      "path": "europe/norway/flm",
+      "prior_score": 9.0008,
+      "prior_variance": 0.478636,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Saariselk\u00e4",
+      "path": "europe/finland/saariselk",
+      "prior_score": 3.0806,
+      "prior_variance": 0.145499,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Baguio",
+      "path": "asia/philippines/baguio",
+      "prior_score": 2.0446,
+      "prior_variance": 0.18099,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Lake Balaton",
+      "path": "europe/hungary/lakebalaton",
+      "prior_score": 2.7902,
+      "prior_variance": 0.143237,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Quepos",
+      "path": "northamerica/costarica/quepos",
+      "prior_score": 2.5755,
+      "prior_variance": 0.180178,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Mui Ne - Phan Thiet",
+      "path": "asia/vietnam/muine__phan_thiet",
+      "prior_score": 3.9116,
+      "prior_variance": 0.166688,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Nagahama",
+      "path": "asia/japan/honshu/nagahama",
+      "prior_score": 1.5963,
+      "prior_variance": 0.159045,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Mystic",
+      "path": "northamerica/unitedstates/connecticut/mystic",
+      "prior_score": 1.6092,
+      "prior_variance": 0.131345,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_score": 0.8583,
+      "prior_variance": 0.154324,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Lake Victoria",
+      "path": "africa/kenya/lakes/lakevictoria",
+      "prior_score": 0.9901,
+      "prior_variance": 0.150178,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Niteroi",
+      "path": "southamerica/brazil/niteroi",
+      "prior_score": -0.167,
+      "prior_variance": 0.154051,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Qaqortoq",
+      "path": "northamerica/greenland/qaqortoq",
+      "prior_score": -0.3362,
+      "prior_variance": 0.202574,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Ons Islands",
+      "path": "europe/spain/galicia/ons_islands",
+      "prior_score": 2.5829,
+      "prior_variance": 0.14181,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Melrose",
+      "path": "europe/unitedkingdom/scotland/melrose",
+      "prior_score": 1.1904,
+      "prior_variance": 0.140537,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Pano Platres",
+      "path": "asia/cyprus/troodosmountains/pano_platres",
+      "prior_score": 1.6877,
+      "prior_variance": 0.142362,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Kelso",
+      "path": "europe/unitedkingdom/scotland/kelso",
+      "prior_score": 0.0382,
+      "prior_variance": 0.168069,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Ujjain",
+      "path": "asia/india/madhyapradesh/ujjain",
+      "prior_score": 1.8231,
+      "prior_variance": 0.139697,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Borkum",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/borkum",
+      "prior_score": 0.5026,
+      "prior_variance": 0.13701,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Koszeg",
+      "path": "europe/hungary/koszeg",
+      "prior_score": 1.1338,
+      "prior_variance": 0.141016,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "\u201cTacoma\u201d",
+      "path": "northamerica/unitedstates/washington/tacoma",
+      "prior_score": -2.4617,
+      "prior_variance": 0.146097,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "R\u00f6ttingen",
+      "path": "europe/germany/bavaria/romanticroad/rttingen",
+      "prior_score": 0.6397,
+      "prior_variance": 0.149856,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Sandanski",
+      "path": "europe/bulgaria/sandanski",
+      "prior_score": -0.9756,
+      "prior_variance": 0.167846,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Recanati",
+      "path": "europe/italy/marche/recanati",
+      "prior_score": -0.1591,
+      "prior_variance": 0.155132,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Ruins of Le\u00f3n Viejo",
+      "path": "northamerica/nicaragua/ruins_of_len_vie",
+      "prior_score": -0.4689,
+      "prior_variance": 0.181247,
+      "prior_n": 9
+    }
+  ]
+}

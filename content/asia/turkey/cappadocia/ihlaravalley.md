@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/133979500@N03/26397760180
 latitude: 38.2521
 loc_type: city
 longitude: 34.2918
-score: 0.69
+score: 0.56
 title: Ihlara Valley
 type: location
 ---

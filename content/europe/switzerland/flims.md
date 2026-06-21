@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/42477684@N08/37008054284
 latitude: 46.833244
 loc_type: city
 longitude: 9.283456
-score: 0.63
+score: 0.54
 title: Flims
 type: location
 ---

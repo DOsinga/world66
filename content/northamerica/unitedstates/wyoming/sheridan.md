@@ -5,7 +5,7 @@ done:
 latitude: 44.7972
 loc_type: city
 longitude: -106.9562
-score: 0.47
+score: 0.37
 title: Sheridan
 type: location
 ---

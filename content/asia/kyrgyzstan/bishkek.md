@@ -5,7 +5,7 @@ done:
 latitude: 42.876142
 loc_type: city
 longitude: 74.603672
-score: 0.46
+score: 0.4
 title: Bishkek
 type: location
 ---

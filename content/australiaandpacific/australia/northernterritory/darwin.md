@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:DarwinOct172024_02.jpg
 latitude: -12.46044
 loc_type: city
 longitude: 130.841047
-score: 0.53
+score: 0.45
 title: Darwin
 type: location
 ---

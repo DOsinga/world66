@@ -1,200 +1,200 @@
 {
   "round": 541,
-  "timestamp": "2026-04-12T10:36:45",
+  "timestamp": "2026-06-13T19:41:22",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Uluru-Kata Tjuta National Park",
-      "path": "australiaandpacific/australia/northernterritory/ulurukata_tjuta_n",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
-      "prior_n": 1
-    },
-    {
-      "rank": 2,
-      "title": "Bondi Beach",
-      "path": "australiaandpacific/australia/newsouthwales/sydney/bondibeach",
-      "prior_mu": 27.8891,
-      "prior_sigma": 5.7191,
+      "title": "Cerveteri",
+      "path": "europe/italy/lazio/cerveteri",
+      "prior_score": -3.0272,
+      "prior_variance": 1.219667,
       "prior_n": 2
     },
     {
-      "rank": 3,
-      "title": "Noosa Heads",
-      "path": "australiaandpacific/australia/queensland/noosaheads",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 4,
-      "title": "Port Douglas",
-      "path": "australiaandpacific/australia/queensland/port_douglas",
-      "prior_mu": 23.0881,
-      "prior_sigma": 5.7662,
+      "rank": 2,
+      "title": "Luoyang",
+      "path": "asia/china/henan_province/luoyang",
+      "prior_score": -2.0187,
+      "prior_variance": 1.516584,
       "prior_n": 1
     },
     {
+      "rank": 3,
+      "title": "Chishui",
+      "path": "asia/china/guizhou/chishui",
+      "prior_score": -3.9727,
+      "prior_variance": 0.789903,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Palanga",
+      "path": "europe/lithuania/palanga",
+      "prior_score": -2.4017,
+      "prior_variance": 0.912411,
+      "prior_n": 2
+    },
+    {
       "rank": 5,
-      "title": "Launceston",
-      "path": "australiaandpacific/australia/tasmania/launceston",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Blumenau",
+      "path": "southamerica/brazil/blumenal",
+      "prior_score": -4.2062,
+      "prior_variance": 0.846488,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Fremantle",
-      "path": "australiaandpacific/australia/westernaustralia/fremantle",
-      "prior_mu": 22.3512,
-      "prior_sigma": 4.7112,
+      "title": "Vlissingen",
+      "path": "europe/netherlands/vlissingen",
+      "prior_score": -3.5306,
+      "prior_variance": 0.855699,
       "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Canberra",
-      "path": "australiaandpacific/australia/australiancapitalterritory/canberra",
-      "prior_mu": 22.3591,
-      "prior_sigma": 5.9499,
+      "title": "Vitebsk",
+      "path": "europe/belarus/vitebsk",
+      "prior_score": -4.7998,
+      "prior_variance": 1.459112,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Mooloolaba",
-      "path": "australiaandpacific/australia/queensland/mooloolaba",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Gandhinagar",
+      "path": "asia/india/gujarat/gandhinagar",
+      "prior_score": -6.3033,
+      "prior_variance": 0.779214,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Magnetic Island",
-      "path": "australiaandpacific/australia/queensland/magnetic_island",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bellevue",
+      "path": "northamerica/unitedstates/washington/bellevue",
+      "prior_score": -6.4129,
+      "prior_variance": 1.942193,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Caloundra",
-      "path": "australiaandpacific/australia/queensland/caloundra",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Diever",
+      "path": "europe/netherlands/diever",
+      "prior_score": -4.6921,
+      "prior_variance": 0.816109,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Warrnambool",
-      "path": "australiaandpacific/australia/victoria/warrnambool",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Quillota",
+      "path": "southamerica/chile/quillota",
+      "prior_score": -4.7054,
+      "prior_variance": 1.407932,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Bowral",
-      "path": "australiaandpacific/australia/newsouthwales/bowral",
-      "prior_mu": 21.8261,
-      "prior_sigma": 4.6686,
+      "title": "Digha",
+      "path": "asia/india/westbengal/digha",
+      "prior_score": -6.6346,
+      "prior_variance": 0.719109,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Narooma",
-      "path": "australiaandpacific/australia/newsouthwales/narooma",
-      "prior_mu": 22.546,
-      "prior_sigma": 5.9161,
+      "title": "Maidstone",
+      "path": "europe/unitedkingdom/england/south_east/maidstone",
+      "prior_score": -5.378,
+      "prior_variance": 1.556172,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Longreach",
-      "path": "australiaandpacific/australia/queensland/longreach",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Three Forks",
+      "path": "northamerica/unitedstates/montana/three_forks",
+      "prior_score": -8.0696,
+      "prior_variance": 1.53524,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Mount Gambier",
-      "path": "australiaandpacific/australia/southaustralia/mount_gambier",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Zhanjiang",
+      "path": "asia/china/guangdong/zhanjiang",
+      "prior_score": -3.8666,
+      "prior_variance": 1.301876,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "West Coast",
-      "path": "australiaandpacific/australia/tasmania/westcoast",
-      "prior_mu": 21.8009,
-      "prior_sigma": 4.7229,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/northcarolina/marion",
+      "prior_score": -6.8581,
+      "prior_variance": 1.662706,
       "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Queensland",
-      "path": "australiaandpacific/australia/queensland",
-      "prior_mu": 29.0322,
-      "prior_sigma": 6.8827,
-      "prior_n": 1
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/wyoming/saratoga",
+      "prior_score": -6.6691,
+      "prior_variance": 0.981891,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Broke",
-      "path": "australiaandpacific/australia/newsouthwales/broke",
-      "prior_mu": 22.5101,
-      "prior_sigma": 5.6331,
-      "prior_n": 1
+      "title": "Queensbury",
+      "path": "northamerica/unitedstates/newyorkstate/queensbury",
+      "prior_score": -6.0802,
+      "prior_variance": 0.77863,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Penguin",
-      "path": "australiaandpacific/australia/tasmania/northwest/penguin",
-      "prior_mu": 22.3462,
-      "prior_sigma": 5.9389,
-      "prior_n": 1
+      "title": "Piscataway",
+      "path": "northamerica/unitedstates/newjersey/piscataway",
+      "prior_score": -9.708,
+      "prior_variance": 9.640717,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Sandgate",
-      "path": "australiaandpacific/australia/queensland/sandgate",
-      "prior_mu": 22.6088,
-      "prior_sigma": 5.5962,
-      "prior_n": 1
+      "title": "Mzuzu",
+      "path": "africa/malawi/mzuzu",
+      "prior_score": -7.6362,
+      "prior_variance": 1.09315,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Sorell",
-      "path": "australiaandpacific/australia/tasmania/sorell",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Isiolo",
+      "path": "africa/kenya/centralhighlands/isiolo",
+      "prior_score": -6.9235,
+      "prior_variance": 1.111225,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Elanora",
-      "path": "australiaandpacific/australia/queensland/elanora",
-      "prior_mu": 21.5842,
-      "prior_sigma": 4.5286,
+      "title": "Uzgen",
+      "path": "asia/kyrgyzstan/uzgen",
+      "prior_score": -6.127,
+      "prior_variance": 1.270719,
       "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Morayfield",
-      "path": "australiaandpacific/australia/queensland/morayfield",
-      "prior_mu": 22.5818,
-      "prior_sigma": 5.5616,
-      "prior_n": 1
+      "title": "Senafe",
+      "path": "africa/eritrea/senafe",
+      "prior_score": -8.8251,
+      "prior_variance": 1.200096,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Morwell",
-      "path": "australiaandpacific/australia/victoria/morwell",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Acalayong",
+      "path": "africa/equatorialguinea/riomuni/acalayong",
+      "prior_score": -11.828,
+      "prior_variance": 7.99453,
+      "prior_n": 2
     }
   ]
 }

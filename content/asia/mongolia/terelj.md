@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-15'
 latitude: 47.8057
 longitude: 107.4181
-score: 0.59
+score: 0.49
 title: Terelj
 type: location
 loc_type: feature

@@ -4,7 +4,7 @@ done:
 latitude: 24.589722
 loc_type: feature
 longitude: 117.062222
-score: 0.6
+score: 0.54
 title: Fujian Tulou
 type: location
 image: tulou.jpg

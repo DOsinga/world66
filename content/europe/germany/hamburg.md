@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hamburg,_Landungsbr%C3%BCc
 latitude: 53.5511
 loc_type: city
 longitude: 9.9937
-score: 0.67
+score: 0.52
 title: Hamburg
 type: location
 ---

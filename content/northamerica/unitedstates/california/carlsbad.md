@@ -5,7 +5,7 @@ done:
 latitude: 33.1581
 loc_type: city
 longitude: -117.3506
-score: 0.51
+score: 0.44
 title: Carlsbad
 type: location
 image: carlsbad.jpg

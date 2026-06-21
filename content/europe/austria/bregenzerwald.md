@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dam%C3%BClserMittagspitze3
 latitude: 47.387029
 loc_type: city
 longitude: 9.956064
-score: 0.58
+score: 0.5
 title: Bregenzerwald
 type: location
 ---

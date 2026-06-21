@@ -5,7 +5,7 @@ done:
 latitude: 43.05
 loc_type: city
 longitude: 16.0869
-score: 0.65
+score: 0.55
 title: Komiza, Vis island
 type: location
 ---

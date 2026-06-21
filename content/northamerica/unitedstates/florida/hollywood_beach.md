@@ -5,7 +5,7 @@ done:
 latitude: 26.0195
 loc_type: city
 longitude: -80.1221
-score: 0.48
+score: 0.45
 title: Hollywood Beach
 type: location
 ---

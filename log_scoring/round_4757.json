@@ -1,0 +1,200 @@
+{
+  "round": 4757,
+  "timestamp": "2026-06-14T00:39:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vienna",
+      "path": "europe/austria/vienna",
+      "prior_score": 10.5127,
+      "prior_variance": 0.218873,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Uyuni",
+      "path": "southamerica/bolivia/uyuni",
+      "prior_score": 7.0002,
+      "prior_variance": 0.151356,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Belize Barrier Reef",
+      "path": "northamerica/belize/barrierreef",
+      "prior_score": 8.1267,
+      "prior_variance": 0.13544,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Denali National Park and Preserve",
+      "path": "northamerica/unitedstates/alaska/denali_national_park_and_preserve",
+      "prior_score": 8.1792,
+      "prior_variance": 0.136735,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Nazca",
+      "path": "southamerica/peru/nazca",
+      "prior_score": 5.0598,
+      "prior_variance": 0.106305,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Karlovy Vary",
+      "path": "europe/czechrepublic/karlovyvary",
+      "prior_score": 4.4688,
+      "prior_variance": 0.083818,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Chianciano Terme",
+      "path": "europe/italy/tuscany/chianciano_terme",
+      "prior_score": 0.8876,
+      "prior_variance": 0.088622,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Asian Side (Kad\u0131k\u00f6y)",
+      "path": "asia/turkey/asianpart",
+      "prior_score": 2.8633,
+      "prior_variance": 0.088791,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Bitola",
+      "path": "europe/macedonia/bitola",
+      "prior_score": 0.3907,
+      "prior_variance": 0.07888,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Sergiev Posad",
+      "path": "europe/russia/sergievposad",
+      "prior_score": 1.1121,
+      "prior_variance": 0.082932,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Amberd",
+      "path": "europe/armenia/amberd_1",
+      "prior_score": 0.6402,
+      "prior_variance": 0.089653,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "San Antonio",
+      "path": "northamerica/unitedstates/texas/sanantonio",
+      "prior_score": 2.2562,
+      "prior_variance": 0.10263,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_score": -1.6031,
+      "prior_variance": 0.092617,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Buffalo River",
+      "path": "northamerica/unitedstates/arkansas/buffaloriver",
+      "prior_score": -0.6593,
+      "prior_variance": 0.099353,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Sylvan Lake",
+      "path": "northamerica/canada/alberta/sylvan_lake",
+      "prior_score": -2.0789,
+      "prior_variance": 0.088126,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_score": -0.1465,
+      "prior_variance": 0.083916,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Kayseri",
+      "path": "asia/turkey/kayseri",
+      "prior_score": -0.1062,
+      "prior_variance": 0.084516,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Imphal",
+      "path": "asia/india/manipur/imphal",
+      "prior_score": -2.911,
+      "prior_variance": 0.097099,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Warrington",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/warrington",
+      "prior_score": -3.6379,
+      "prior_variance": 0.114295,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Hinunangan",
+      "path": "asia/philippines/southern_leyte/hinunangan",
+      "prior_score": -3.4952,
+      "prior_variance": 0.084405,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Vemulawada",
+      "path": "asia/india/andhrapradesh/vemulawada",
+      "prior_score": -4.9879,
+      "prior_variance": 0.100784,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Ciudad Obreg\u00f3n",
+      "path": "northamerica/mexico/ciudad_obregn",
+      "prior_score": -5.1519,
+      "prior_variance": 0.116884,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Lawton",
+      "path": "northamerica/unitedstates/oklahoma/lawton",
+      "prior_score": -5.5095,
+      "prior_variance": 0.120948,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Wynnewood",
+      "path": "northamerica/unitedstates/oklahoma/wynnewood",
+      "prior_score": -6.8661,
+      "prior_variance": 0.125244,
+      "prior_n": 15
+    }
+  ]
+}

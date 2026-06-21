@@ -1,0 +1,200 @@
+{
+  "round": 4613,
+  "timestamp": "2026-06-14T00:27:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Khasab",
+      "path": "asia/oman/musandampeninsula/khasab",
+      "prior_score": 3.2773,
+      "prior_variance": 0.097112,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Dambulla",
+      "path": "asia/srilanka/dambulla",
+      "prior_score": 3.888,
+      "prior_variance": 0.104729,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Izumo",
+      "path": "asia/japan/honshu/izumo",
+      "prior_score": 3.0301,
+      "prior_variance": 0.093716,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Mystic",
+      "path": "northamerica/unitedstates/connecticut/mystic",
+      "prior_score": 1.5292,
+      "prior_variance": 0.086498,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Karlskrona",
+      "path": "europe/sweden/karlskrona",
+      "prior_score": 1.6384,
+      "prior_variance": 0.090863,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Baden bei Wien",
+      "path": "europe/austria/baden",
+      "prior_score": 1.4707,
+      "prior_variance": 0.10184,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Postup",
+      "path": "europe/croatia/postup_the_villag",
+      "prior_score": 1.5284,
+      "prior_variance": 0.098964,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Gradac",
+      "path": "europe/croatia/makarskariviera/gradac",
+      "prior_score": 3.2516,
+      "prior_variance": 0.093978,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Pamplemousse",
+      "path": "africa/mauritius/pamplemousse",
+      "prior_score": 2.0777,
+      "prior_variance": 0.105369,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Apolonia",
+      "path": "europe/albania/apolonia",
+      "prior_score": 1.062,
+      "prior_variance": 0.093902,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Xanthi",
+      "path": "europe/greece/xanthi",
+      "prior_score": 0.7834,
+      "prior_variance": 0.094752,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Ramsgate",
+      "path": "europe/unitedkingdom/england/south_east/ramsgate",
+      "prior_score": -0.9585,
+      "prior_variance": 0.08599,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Nastved",
+      "path": "europe/denmark/nastved",
+      "prior_score": -2.0189,
+      "prior_variance": 0.083514,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Kengtung",
+      "path": "asia/myanmar/kengtung",
+      "prior_score": -1.1132,
+      "prior_variance": 0.09385,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Hu\u00e1nuco",
+      "path": "southamerica/peru/huanuco",
+      "prior_score": -1.6126,
+      "prior_variance": 0.091756,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Aburi",
+      "path": "africa/ghana/aburi",
+      "prior_score": -1.714,
+      "prior_variance": 0.090455,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Lome",
+      "path": "africa/togo/lome",
+      "prior_score": -3.116,
+      "prior_variance": 0.098005,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Rinc\u00f3n del Mar",
+      "path": "southamerica/colombia/rincon_del_mar",
+      "prior_score": -1.3326,
+      "prior_variance": 0.098098,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Wia Wia Reserve",
+      "path": "southamerica/suriname/wiawiareserve",
+      "prior_score": -2.9033,
+      "prior_variance": 0.095406,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Payyanur",
+      "path": "asia/india/kerala/payyanur",
+      "prior_score": -4.1368,
+      "prior_variance": 0.101533,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Karaikudi",
+      "path": "asia/india/tamilnadu/karaikudi",
+      "prior_score": -2.5222,
+      "prior_variance": 0.102983,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Adrar",
+      "path": "africa/algeria/adrar",
+      "prior_score": -6.8882,
+      "prior_variance": 0.129896,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_score": -7.1276,
+      "prior_variance": 0.126177,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Barking",
+      "path": "europe/unitedkingdom/england/south_east/barking",
+      "prior_score": -6.6844,
+      "prior_variance": 0.160279,
+      "prior_n": 15
+    }
+  ]
+}

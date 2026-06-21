@@ -1,0 +1,200 @@
+{
+  "round": 3282,
+  "timestamp": "2026-06-13T22:42:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sete Cidades",
+      "path": "europe/portugal/theazores/so_miguel/sete_cidades",
+      "prior_score": 6.0046,
+      "prior_variance": 0.158267,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Pictured Rocks",
+      "path": "northamerica/unitedstates/michigan/picturedrock",
+      "prior_score": 4.2357,
+      "prior_variance": 0.132354,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Tsomgo Lake",
+      "path": "asia/india/sikkim/chaggutsomgolake",
+      "prior_score": 2.1741,
+      "prior_variance": 0.141609,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Khajjiar",
+      "path": "asia/india/himachalpradesh/khajjiar",
+      "prior_score": 2.3956,
+      "prior_variance": 0.123441,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Chebika",
+      "path": "africa/tunisia/chebika",
+      "prior_score": 1.7951,
+      "prior_variance": 0.12677,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Hill of Crosses",
+      "path": "europe/lithuania/hill_of_crosses",
+      "prior_score": 2.4742,
+      "prior_variance": 0.131525,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Mulanje Mountains",
+      "path": "africa/malawi/mulanje_mountains",
+      "prior_score": 1.0408,
+      "prior_variance": 0.132493,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Tokushima",
+      "path": "asia/japan/shikoku/tokushima",
+      "prior_score": 2.7748,
+      "prior_variance": 0.119786,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Nazar\u00e9",
+      "path": "europe/portugal/nazare",
+      "prior_score": 4.6759,
+      "prior_variance": 0.150809,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Cabarete",
+      "path": "northamerica/dominicanrepublic/puertoplata/cabarete",
+      "prior_score": 2.7739,
+      "prior_variance": 0.131401,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Andorra la Vella",
+      "path": "europe/andorra/andorralavella",
+      "prior_score": 2.6354,
+      "prior_variance": 0.131539,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Matheran",
+      "path": "asia/india/maharashtra/matheran",
+      "prior_score": 1.0227,
+      "prior_variance": 0.125183,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Mombasa",
+      "path": "africa/kenya/thecoast/mombasa",
+      "prior_score": 3.9487,
+      "prior_variance": 0.153997,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Colombo",
+      "path": "asia/srilanka/colombo",
+      "prior_score": 2.2453,
+      "prior_variance": 0.147082,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Patan",
+      "path": "asia/india/gujarat/patan",
+      "prior_score": -1.2244,
+      "prior_variance": 0.120261,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Ardenica",
+      "path": "europe/albania/ardenica",
+      "prior_score": -1.3298,
+      "prior_variance": 0.121381,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Providence",
+      "path": "northamerica/unitedstates/rhodeisland/providence",
+      "prior_score": 0.1089,
+      "prior_variance": 0.134501,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Teramo",
+      "path": "europe/italy/abruzzo/teramo",
+      "prior_score": -0.0635,
+      "prior_variance": 0.138479,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Kuantan",
+      "path": "asia/malaysia/kuantan",
+      "prior_score": -0.3474,
+      "prior_variance": 0.119961,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_score": -0.6259,
+      "prior_variance": 0.118383,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Weilburg",
+      "path": "europe/germany/hesse/weilburg",
+      "prior_score": -0.7223,
+      "prior_variance": 0.123993,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Rehoboth Beach",
+      "path": "northamerica/unitedstates/delaware/rehobothbeach",
+      "prior_score": 0.8748,
+      "prior_variance": 0.114554,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/sheffield",
+      "prior_score": -0.9705,
+      "prior_variance": 0.144102,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Naraj",
+      "path": "asia/india/orissa/naraj",
+      "prior_score": -5.3306,
+      "prior_variance": 0.13965,
+      "prior_n": 10
+    }
+  ]
+}

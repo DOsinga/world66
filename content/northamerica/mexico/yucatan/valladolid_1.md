@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Katedrala_u_Valladolidu.jp
 latitude: 20.690251
 loc_type: city
 longitude: -88.2017
-score: 0.65
+score: 0.55
 title: Valladolid
 type: location
 ---

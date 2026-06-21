@@ -5,7 +5,7 @@ done:
 latitude: 42.253239
 loc_type: city
 longitude: 11.759175
-score: 0.57
+score: 0.48
 title: Tarquinia
 type: location
 image: tarquinia.jpg

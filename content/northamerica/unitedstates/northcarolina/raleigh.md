@@ -9,7 +9,7 @@ image_attribution: Farragutful
 latitude: 35.780398
 loc_type: city
 longitude: -78.639099
-score: 0.42
+score: 0.37
 title: Raleigh
 type: location
 ---

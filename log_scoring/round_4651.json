@@ -1,0 +1,200 @@
+{
+  "round": 4651,
+  "timestamp": "2026-06-14T00:30:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marrakesh",
+      "path": "africa/morocco/marrakesh",
+      "prior_score": 9.9613,
+      "prior_variance": 0.228675,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Potosi",
+      "path": "southamerica/bolivia/potosi",
+      "prior_score": 3.3411,
+      "prior_variance": 0.093502,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Voyageurs National Park",
+      "path": "northamerica/unitedstates/minnesota/voyageurs",
+      "prior_score": 2.4288,
+      "prior_variance": 0.097692,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Mount Abu",
+      "path": "asia/india/rajasthan/mount_abu",
+      "prior_score": 1.3842,
+      "prior_variance": 0.110934,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Konya",
+      "path": "asia/turkey/konya",
+      "prior_score": 1.3769,
+      "prior_variance": 0.087582,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "L\u00fcneburg",
+      "path": "europe/germany/lowersaxony/luneburg",
+      "prior_score": 1.7116,
+      "prior_variance": 0.091169,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "R\u00eda de Vigo",
+      "path": "europe/spain/galicia/ria_of_vigo",
+      "prior_score": 2.4094,
+      "prior_variance": 0.084903,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Benic\u00e0ssim",
+      "path": "europe/spain/castellon/benicssim",
+      "prior_score": 0.7493,
+      "prior_variance": 0.095761,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Shobak",
+      "path": "asia/jordan/shobak",
+      "prior_score": -0.7592,
+      "prior_variance": 0.156931,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Sur",
+      "path": "asia/oman/sur",
+      "prior_score": 1.4213,
+      "prior_variance": 0.094773,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Petite Martinique",
+      "path": "northamerica/thecaribbean/grenada/petitmartinique",
+      "prior_score": -0.5717,
+      "prior_variance": 0.101669,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Novgorod",
+      "path": "europe/russia/novgorod",
+      "prior_score": -0.0241,
+      "prior_variance": 0.101705,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Banyumulek",
+      "path": "asia/indonesia/lombok/banyumulek",
+      "prior_score": -1.8442,
+      "prior_variance": 0.092949,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Guimaras",
+      "path": "asia/philippines/guimaras",
+      "prior_score": 0.3765,
+      "prior_variance": 0.099597,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Strumica",
+      "path": "europe/macedonia/strumica",
+      "prior_score": -1.562,
+      "prior_variance": 0.088293,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Bhadarwah",
+      "path": "asia/india/jammuandkashmir/bhadarwah",
+      "prior_score": -2.5657,
+      "prior_variance": 0.104552,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Tamale",
+      "path": "africa/ghana/tamale",
+      "prior_score": -3.6937,
+      "prior_variance": 0.094659,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Nakhchivan City",
+      "path": "europe/azerbaijan/naxcivan/nakhchivan_city",
+      "prior_score": -2.9258,
+      "prior_variance": 0.097267,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Panev\u0117\u017eys",
+      "path": "europe/lithuania/panevezys",
+      "prior_score": -3.7429,
+      "prior_variance": 0.093447,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Chantaburi",
+      "path": "asia/thailand/chantaburi/chanta_buri",
+      "prior_score": -0.6894,
+      "prior_variance": 0.087298,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Harrisonburg",
+      "path": "northamerica/unitedstates/virginia/harrisonburg",
+      "prior_score": -2.3947,
+      "prior_variance": 0.114948,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Chillicothe",
+      "path": "northamerica/unitedstates/ohio/chillicothe",
+      "prior_score": -4.0158,
+      "prior_variance": 0.105211,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Danbury",
+      "path": "northamerica/unitedstates/connecticut/danbury",
+      "prior_score": -4.5227,
+      "prior_variance": 0.127459,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Shizuishan",
+      "path": "asia/china/ningxia/shizuishan",
+      "prior_score": -6.3432,
+      "prior_variance": 0.109353,
+      "prior_n": 15
+    }
+  ]
+}

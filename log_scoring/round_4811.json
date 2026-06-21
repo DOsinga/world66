@@ -1,0 +1,200 @@
+{
+  "round": 4811,
+  "timestamp": "2026-06-14T00:43:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Valle de la Luna",
+      "path": "southamerica/chile/atacamadesert/valledelaluna",
+      "prior_score": 6.5284,
+      "prior_variance": 0.123176,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Arequipa",
+      "path": "southamerica/peru/arequipa",
+      "prior_score": 5.291,
+      "prior_variance": 0.110741,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Ellora",
+      "path": "asia/india/maharashtra/ellora",
+      "prior_score": 6.3355,
+      "prior_variance": 0.108233,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Bodnath",
+      "path": "asia/nepal/bodnath",
+      "prior_score": 4.7165,
+      "prior_variance": 0.100676,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Hardangervidda National Park",
+      "path": "europe/norway/hardangerviddanationalpark",
+      "prior_score": 4.5,
+      "prior_variance": 0.10323,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Tagbilaran",
+      "path": "asia/philippines/bohol/tagbilaran",
+      "prior_score": 2.8702,
+      "prior_variance": 0.113219,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Gotland",
+      "path": "europe/sweden/gotland",
+      "prior_score": 4.2915,
+      "prior_variance": 0.102317,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Kaohsiung",
+      "path": "asia/taiwan/kaohsiung",
+      "prior_score": 2.7169,
+      "prior_variance": 0.093164,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_score": 1.9781,
+      "prior_variance": 0.097334,
+      "prior_n": 17
+    },
+    {
+      "rank": 10,
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_score": 2.6624,
+      "prior_variance": 0.088172,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Coober Pedy",
+      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
+      "prior_score": 0.3012,
+      "prior_variance": 0.104561,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Sun Valley",
+      "path": "northamerica/unitedstates/idaho/sunvalley",
+      "prior_score": 2.5727,
+      "prior_variance": 0.095514,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "La Granja",
+      "path": "europe/spain/centralspain/lagranja",
+      "prior_score": 0.4163,
+      "prior_variance": 0.086821,
+      "prior_n": 17
+    },
+    {
+      "rank": 14,
+      "title": "Srirangam",
+      "path": "asia/india/tamilnadu/srirangam",
+      "prior_score": 1.705,
+      "prior_variance": 0.104222,
+      "prior_n": 17
+    },
+    {
+      "rank": 15,
+      "title": "Imst",
+      "path": "europe/austria/imst",
+      "prior_score": 0.7779,
+      "prior_variance": 0.086657,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Saint-\u00c9tienne",
+      "path": "europe/france/alpes/stetienne",
+      "prior_score": -1.1702,
+      "prior_variance": 0.093487,
+      "prior_n": 17
+    },
+    {
+      "rank": 17,
+      "title": "Canberra",
+      "path": "australiaandpacific/australia/australiancapitalterritory/canberra",
+      "prior_score": 0.9273,
+      "prior_variance": 0.080486,
+      "prior_n": 17
+    },
+    {
+      "rank": 18,
+      "title": "Rakvere",
+      "path": "europe/estonia/rakvere",
+      "prior_score": -0.7028,
+      "prior_variance": 0.07985,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_score": 0.965,
+      "prior_variance": 0.085884,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Hahndorf",
+      "path": "australiaandpacific/australia/southaustralia/handorf",
+      "prior_score": 0.9724,
+      "prior_variance": 0.080949,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Magaliesburg",
+      "path": "africa/southafrica/gauteng/magaliesburg",
+      "prior_score": -0.3607,
+      "prior_variance": 0.080869,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_score": 0.6894,
+      "prior_variance": 0.080625,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Thrissur",
+      "path": "asia/india/kerala/thrissur",
+      "prior_score": 0.1993,
+      "prior_variance": 0.081978,
+      "prior_n": 17
+    },
+    {
+      "rank": 24,
+      "title": "Nashik",
+      "path": "asia/india/maharashtra/nashik",
+      "prior_score": -0.9591,
+      "prior_variance": 0.095582,
+      "prior_n": 16
+    }
+  ]
+}

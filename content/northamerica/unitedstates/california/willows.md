@@ -6,7 +6,7 @@ latitude: 39.5243
 longitude: -122.1914
 title: Willows
 type: location
-score: 0.3
+score: 0.24
 loc_type: city
 ---
 

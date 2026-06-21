@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nanumanga_STS51B.jpg
 latitude: -6.287145
 loc_type: city
 longitude: 176.319991
-score: 0.38
+score: 0.35
 title: Nanumanga island
 type: location
 ---

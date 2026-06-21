@@ -1,200 +1,200 @@
 {
   "round": 66,
-  "timestamp": "2026-04-12T08:02:26",
+  "timestamp": "2026-06-13T19:17:57",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "The Gal\u00e1pagos Islands",
-      "path": "southamerica/ecuador/galapagosislands/theislands",
-      "prior_mu": 34.09,
-      "prior_sigma": 5.77,
-      "prior_n": 2
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Kilimanjaro",
-      "path": "africa/tanzania/kilimanjaro",
-      "prior_mu": 28.13,
-      "prior_sigma": 4.32,
-      "prior_n": 3
+      "title": "Bimini",
+      "path": "northamerica/bahamas/bimini",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Bryce Canyon",
-      "path": "northamerica/unitedstates/utah/bryce_canyon",
-      "prior_mu": 35.04,
-      "prior_sigma": 5.67,
-      "prior_n": 3
+      "title": "Tsilivi",
+      "path": "europe/greece/zakinthos/tsilivi",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Luxor",
-      "path": "africa/egypt/luxor",
-      "prior_mu": 34.11,
-      "prior_sigma": 5.48,
-      "prior_n": 3
+      "title": "The New Forest",
+      "path": "europe/unitedkingdom/england/south_east/the_new_forest",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Costa Rica",
-      "path": "northamerica/costarica",
-      "prior_mu": 35.58,
-      "prior_sigma": 5.14,
-      "prior_n": 5
+      "title": "Jerba",
+      "path": "africa/tunisia/jerba",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Tupiza",
-      "path": "southamerica/bolivia/tupiza",
-      "prior_mu": 20.9,
-      "prior_sigma": 3.83,
-      "prior_n": 3
+      "title": "Punta Ala",
+      "path": "europe/italy/tuscany/punta_ala",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Praia",
-      "path": "africa/capeverde/saotiago/praia",
-      "prior_mu": 21.53,
-      "prior_sigma": 4.34,
-      "prior_n": 2
+      "title": "Vaduz",
+      "path": "europe/liechtenstein/vaduz",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Essaouira",
-      "path": "africa/morocco/essaouira",
-      "prior_mu": 23.67,
-      "prior_sigma": 4.73,
-      "prior_n": 2
+      "title": "Murchison Falls",
+      "path": "africa/uganda/rakai_district/murchison_falls",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Tsumeb, Gateway to the North and Etosha",
-      "path": "africa/namibia/tsumeb_gateway_to",
-      "prior_mu": 21.15,
-      "prior_sigma": 3.41,
-      "prior_n": 4
+      "title": "O Grove",
+      "path": "europe/spain/galicia/o_grove",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Ulm",
-      "path": "europe/germany/badenwrttemberg/ulm",
-      "prior_mu": 22.46,
-      "prior_sigma": 5.5,
-      "prior_n": 1
+      "title": "Tewkesbury",
+      "path": "europe/unitedkingdom/england/gloucestershire/tewkesbury",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Hinunangan",
-      "path": "asia/philippines/southern_leyte/hinunangan",
-      "prior_mu": 20.74,
-      "prior_sigma": 3.86,
-      "prior_n": 3
+      "title": "Dunster",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dunster",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Calbayog",
-      "path": "asia/philippines/samarisland/calbayog",
-      "prior_mu": 21.91,
-      "prior_sigma": 5.42,
-      "prior_n": 1
+      "title": "Tidore",
+      "path": "asia/indonesia/maluku/tidore",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Strumica",
-      "path": "europe/macedonia/strumica",
-      "prior_mu": 21.77,
-      "prior_sigma": 5.3,
-      "prior_n": 1
+      "title": "Kerinci",
+      "path": "asia/indonesia/sumatra/kerinci",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Dulverton",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/dulverton",
-      "prior_mu": 21.27,
-      "prior_sigma": 3.64,
-      "prior_n": 3
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Sacramento",
-      "path": "northamerica/unitedstates/california/goldcountry/sacramento",
-      "prior_mu": 20.66,
-      "prior_sigma": 4.49,
-      "prior_n": 2
+      "title": "Vezzi Portio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vezziportio",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Green Bay",
-      "path": "northamerica/unitedstates/wisconsin/greenbay",
-      "prior_mu": 22.41,
-      "prior_sigma": 5.56,
-      "prior_n": 1
+      "title": "Utique",
+      "path": "africa/tunisia/utique",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Rutland",
-      "path": "northamerica/unitedstates/vermont/rutland",
-      "prior_mu": 20.66,
-      "prior_sigma": 2.75,
-      "prior_n": 6
+      "title": "La Plata",
+      "path": "southamerica/argentina/laplata",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Maidstone",
-      "path": "europe/unitedkingdom/england/maidstone",
-      "prior_mu": 21.15,
-      "prior_sigma": 3.85,
-      "prior_n": 3
+      "title": "Bobo-dioulasso",
+      "path": "africa/burkinafaso/bobodioulasso",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Witten",
-      "path": "europe/germany/northrhinewestphalia/witten",
-      "prior_mu": 22.47,
-      "prior_sigma": 5.91,
-      "prior_n": 1
+      "title": "Genk",
+      "path": "europe/belgium/genk",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Belmar",
-      "path": "northamerica/unitedstates/newjersey/belmar",
-      "prior_mu": 20.53,
-      "prior_sigma": 3.87,
-      "prior_n": 3
+      "title": "Maseru",
+      "path": "africa/lesotho/maseru",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Bhagalpur",
-      "path": "asia/india/bihar/bhagalpur",
-      "prior_mu": 20.36,
-      "prior_sigma": 3.72,
-      "prior_n": 3
+      "title": "Gen. Trias",
+      "path": "asia/philippines/gentrias",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Rensselaer",
-      "path": "northamerica/unitedstates/indiana/rensselaer",
-      "prior_mu": 19.14,
-      "prior_sigma": 4.53,
-      "prior_n": 2
+      "title": "Sainte-Livrade-sur-Lot",
+      "path": "europe/france/midi/dordogne/stlivrade",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Weiser",
-      "path": "northamerica/unitedstates/idaho/weiser",
-      "prior_mu": 20.94,
-      "prior_sigma": 3.33,
-      "prior_n": 4
+      "title": "Okanogan",
+      "path": "northamerica/unitedstates/washington/okanogan",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "chakwal",
-      "path": "asia/pakistan/soon_valley/chakwal",
-      "prior_mu": 21.34,
-      "prior_sigma": 3.97,
-      "prior_n": 3
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/indiana/franklin",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

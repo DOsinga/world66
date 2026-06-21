@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lethbridge,_Alberta,_Canad
 latitude: 49.6946
 loc_type: city
 longitude: -112.8331
-score: 0.39
+score: 0.33
 title: Lethbridge
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Balai_Pemuda.jpg
 latitude: -7.2463
 loc_type: city
 longitude: 112.7378
-score: 0.47
+score: 0.4
 title: Surabaya
 type: location
 ---

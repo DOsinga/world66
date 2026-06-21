@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Quinte_West_view_from_the_
 latitude: 44.098825
 loc_type: city
 longitude: -77.574855
-score: 0.34
+score: 0.3
 title: Quinte West
 type: location
 ---

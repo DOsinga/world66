@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20160729_-_Taungthaman_Lak
 latitude: 21.903139
 loc_type: city
 longitude: 96.049483
-score: 0.51
+score: 0.43
 title: “Amarapura”
 type: location
 ---

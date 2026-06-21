@@ -5,7 +5,7 @@ done:
 latitude: 42.493662
 loc_type: city
 longitude: 27.472128
-score: 0.53
+score: 0.45
 title: Burgas
 type: location
 ---

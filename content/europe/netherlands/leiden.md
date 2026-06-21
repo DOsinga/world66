@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_1865_Leiden_-_Netherlan
 latitude: 52.159475
 loc_type: city
 longitude: 4.490884
-score: 0.62
+score: 0.54
 title: Leiden
 type: location
 ---

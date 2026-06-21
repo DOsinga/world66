@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Praia_da_Luz_(4000954897).
 latitude: 37.0868
 loc_type: city
 longitude: -8.7255
-score: 0.58
+score: 0.52
 title: Praia da Luz
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Malvarrosa_Beach,_Valencia
 latitude: 39.4697
 loc_type: city
 longitude: -0.3763
-score: 0.71
+score: 0.63
 sources:
 - https://en.wikipedia.org/wiki/Valencia
 - https://en.wikivoyage.org/wiki/Valencia

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Neues_Schloss_Schlossplatz
 latitude: 48.778449
 loc_type: city
 longitude: 9.180013
-score: 0.55
+score: 0.47
 title: Stuttgart
 type: location
 ---

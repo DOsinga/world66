@@ -1,0 +1,200 @@
+{
+  "round": 3044,
+  "timestamp": "2026-06-13T22:24:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dolomites",
+      "path": "europe/italy/dolomites",
+      "prior_score": 12.2956,
+      "prior_variance": 0.377346,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Hakone",
+      "path": "asia/japan/honshu/hakone",
+      "prior_score": 10.3695,
+      "prior_variance": 0.32016,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Neuschwanstein",
+      "path": "europe/germany/bavaria/neuschwanstein",
+      "prior_score": 10.0246,
+      "prior_variance": 0.300642,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Fl\u00e5m",
+      "path": "europe/norway/flm",
+      "prior_score": 8.9017,
+      "prior_variance": 0.460396,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Colmar",
+      "path": "europe/france/east/alsace/colmar",
+      "prior_score": 9.1921,
+      "prior_variance": 0.223596,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_score": 5.1796,
+      "prior_variance": 0.176048,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Bilbao",
+      "path": "europe/spain/basque_country_euskadi/bilbao",
+      "prior_score": 6.5893,
+      "prior_variance": 0.215721,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Santa Cruz",
+      "path": "northamerica/costarica/santacruz",
+      "prior_score": -0.2429,
+      "prior_variance": 0.133341,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Port Adelaide",
+      "path": "australiaandpacific/australia/southaustralia/portadelaide",
+      "prior_score": -2.9568,
+      "prior_variance": 0.128052,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Kitsap County",
+      "path": "northamerica/unitedstates/washington/kitsap_county",
+      "prior_score": -2.9303,
+      "prior_variance": 0.13929,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/indiana/bloomington",
+      "prior_score": -2.4506,
+      "prior_variance": 0.141678,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/illinois/springfield",
+      "prior_score": -2.3417,
+      "prior_variance": 0.163067,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Arlon",
+      "path": "europe/belgium/arlon",
+      "prior_score": -1.6086,
+      "prior_variance": 0.11637,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Brigham City",
+      "path": "northamerica/unitedstates/utah/brigham_city",
+      "prior_score": -3.7997,
+      "prior_variance": 0.14183,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Sheboygan",
+      "path": "northamerica/unitedstates/wisconsin/sheboygan",
+      "prior_score": -3.1971,
+      "prior_variance": 0.143078,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Dover-Foxcroft",
+      "path": "northamerica/unitedstates/maine/doverfoxcroft",
+      "prior_score": -3.3891,
+      "prior_variance": 0.140584,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Los Banos",
+      "path": "asia/philippines/losbanos",
+      "prior_score": -3.6296,
+      "prior_variance": 0.142286,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Sohar",
+      "path": "asia/oman/sohar",
+      "prior_score": -1.6471,
+      "prior_variance": 0.138152,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Yuncheng",
+      "path": "asia/china/shanxiprovince/yuncheng",
+      "prior_score": -2.9399,
+      "prior_variance": 0.154089,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Puerto la Cruz",
+      "path": "southamerica/venezuela/puertolacruz",
+      "prior_score": -3.5787,
+      "prior_variance": 0.146846,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Prince Albert",
+      "path": "northamerica/canada/saskatchewan/prince_albert",
+      "prior_score": -4.1601,
+      "prior_variance": 0.141767,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Kara",
+      "path": "africa/togo/kara",
+      "prior_score": -4.7743,
+      "prior_variance": 0.142517,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Darkhan",
+      "path": "asia/mongolia/darkhan",
+      "prior_score": -5.5689,
+      "prior_variance": 0.161592,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Nurek",
+      "path": "asia/tajikistan/nurek",
+      "prior_score": -5.2396,
+      "prior_variance": 0.183796,
+      "prior_n": 10
+    }
+  ]
+}

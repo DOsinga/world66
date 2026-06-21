@@ -5,7 +5,7 @@ latitude: -4.883
 longitude: 29.6227
 title: Lake Tanganyika
 type: location
-score: 0.53
+score: 0.46
 loc_type: feature
 ---
 

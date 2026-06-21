@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Corn_agricultural_terraces
 latitude: -15.622076
 loc_type: city
 longitude: -71.98087
-score: 0.59
+score: 0.58
 title: Cabanaconde
 type: location
 ---

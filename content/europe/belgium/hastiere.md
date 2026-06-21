@@ -5,7 +5,7 @@ done:
 latitude: 50.2158
 loc_type: city
 longitude: 4.826825
-score: 0.38
+score: 0.35
 title: Hastière
 type: location
 ---

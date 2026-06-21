@@ -5,7 +5,7 @@ latitude: 31.5106
 longitude: -5.9583
 title: Dades Gorge
 type: location
-score: 0.66
+score: 0.55
 loc_type: feature
 ---
 

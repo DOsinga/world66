@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:G%C3%A1sadalur_(5125649164
 latitude: 62.109738
 loc_type: city
 longitude: -7.436009
-score: 0.6
+score: 0.55
 title: Gasadalur
 type: location
 ---

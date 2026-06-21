@@ -1,0 +1,200 @@
+{
+  "round": 3482,
+  "timestamp": "2026-06-13T22:57:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ishigaki Island",
+      "path": "asia/japan/ryukyuislands/ishigakiisland",
+      "prior_score": 7.2192,
+      "prior_variance": 0.163299,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Nevis",
+      "path": "northamerica/saintkittsandnevis/nevis",
+      "prior_score": 4.0177,
+      "prior_variance": 0.158664,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "St. Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews1",
+      "prior_score": 5.8343,
+      "prior_variance": 0.138154,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Lessinia",
+      "path": "europe/italy/veneto/lessinia",
+      "prior_score": 2.1202,
+      "prior_variance": 0.125065,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Kakheti",
+      "path": "europe/georgia/kakheti",
+      "prior_score": 2.8521,
+      "prior_variance": 0.146602,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Ayia Napa",
+      "path": "asia/cyprus/ayianapa",
+      "prior_score": 2.5366,
+      "prior_variance": 0.138354,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Famagusta (Gazima\u011fusa)",
+      "path": "asia/cyprus/northerncyprus/famagustagazimaguza",
+      "prior_score": 2.2694,
+      "prior_variance": 0.120582,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Lake Naivasha",
+      "path": "africa/kenya/lakes/lakenaivasha",
+      "prior_score": 3.1338,
+      "prior_variance": 0.139537,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Kyaiktiyo",
+      "path": "asia/myanmar/kyaiktiyo",
+      "prior_score": 0.9326,
+      "prior_variance": 0.152514,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "St. John's",
+      "path": "northamerica/canada/newfoundland/stjohns",
+      "prior_score": 0.9918,
+      "prior_variance": 0.129509,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Sisters",
+      "path": "northamerica/unitedstates/oregon/sisters",
+      "prior_score": 0.3327,
+      "prior_variance": 0.112214,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Waterloo",
+      "path": "europe/belgium/waterloo",
+      "prior_score": 1.6126,
+      "prior_variance": 0.112671,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Llanes",
+      "path": "europe/spain/northernspain/llanes",
+      "prior_score": 2.3305,
+      "prior_variance": 0.120877,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Gij\u00f3n",
+      "path": "europe/spain/northernspain/gijon",
+      "prior_score": 1.9535,
+      "prior_variance": 0.120914,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_score": -0.1865,
+      "prior_variance": 0.114944,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Stratford",
+      "path": "northamerica/canada/ontario/stratford",
+      "prior_score": 0.1706,
+      "prior_variance": 0.117768,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Playa de las Am\u00e9ricas",
+      "path": "europe/spain/spanishcostas/lasamericas",
+      "prior_score": 1.3282,
+      "prior_variance": 0.155831,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo_city",
+      "prior_score": 1.446,
+      "prior_variance": 0.123769,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Cavalcante",
+      "path": "southamerica/brazil/cavalcante",
+      "prior_score": -2.4466,
+      "prior_variance": 0.116541,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Bury St Edmunds",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/bury",
+      "prior_score": -2.3426,
+      "prior_variance": 0.121269,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Algiers",
+      "path": "africa/algeria/algiers",
+      "prior_score": -0.8213,
+      "prior_variance": 0.123143,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Villahermosa",
+      "path": "northamerica/mexico/villahermosa",
+      "prior_score": -1.9864,
+      "prior_variance": 0.127742,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Kitwe",
+      "path": "africa/zambia/kitwe",
+      "prior_score": -5.4435,
+      "prior_variance": 0.137341,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Lake Chad",
+      "path": "africa/chad/lakechad",
+      "prior_score": -5.6817,
+      "prior_variance": 0.211342,
+      "prior_n": 11
+    }
+  ]
+}

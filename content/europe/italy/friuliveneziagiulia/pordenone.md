@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chiesa_della_Santissima_Tr
 latitude: 45.95625
 loc_type: city
 longitude: 12.65972
-score: 0.46
+score: 0.42
 title: Pordenone
 type: location
 ---

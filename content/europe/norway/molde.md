@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:From_Varden,_Molde,_Norway
 latitude: 62.6016
 loc_type: city
 longitude: 8.1386
-score: 0.54
+score: 0.48
 title: Molde
 type: location
 ---

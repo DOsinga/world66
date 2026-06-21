@@ -5,7 +5,7 @@ done:
 latitude: 32.726313
 loc_type: city
 longitude: -2.644627
-score: 0.44
+score: 0.36
 title: Figuig
 type: location
 ---

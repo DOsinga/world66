@@ -10,6 +10,7 @@ loc_type: city
 longitude: -74.9253
 title: Cooperstown
 type: location
+score: 0.46
 ---
 
 Cooperstown is a small village of about 1,800 at the southern end of Otsego Lake in central New York, and it is famous for two things: baseball and James Fenimore Cooper. The [National Baseball Hall of Fame and Museum](/northamerica/unitedstates/newyorkstate/cooperstown/baseball_hall_of_fame) draws half a million visitors a year to a village that could fit inside a large city park. In July, during Hall of Fame induction weekend, the population multiplies by an order of magnitude and every hotel room within 50 kilometers is booked months in advance.

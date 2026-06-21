@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Castillo-Fortaleza.jpg
 latitude: 11.0181
 loc_type: city
 longitude: -84.4031
-score: 0.45
+score: 0.41
 title: El Castillo
 type: location
 ---

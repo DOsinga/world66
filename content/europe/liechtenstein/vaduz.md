@@ -7,7 +7,7 @@ done:
 latitude: 47.139286
 loc_type: city
 longitude: 9.522796
-score: 0.54
+score: 0.49
 title: Vaduz
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/79721788@N00/30375715864
 latitude: 30.495237
 loc_type: city
 longitude: 47.809098
-score: 0.27
+score: 0.19
 title: Basra
 type: location
 ---

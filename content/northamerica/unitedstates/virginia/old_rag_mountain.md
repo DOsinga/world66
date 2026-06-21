@@ -9,7 +9,7 @@ image: old_rag_mountain.jpg
 image_source: https://www.flickr.com/photos/94702226@N00/3797469350
 image_license: CC BY-SA 2.0
 image_attribution: Chapman A. on Flickr
-score: 0.53
+score: 0.44
 loc_type: feature
 ---
 

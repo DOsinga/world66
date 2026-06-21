@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Facades_of_Handelskade,_Wi
 latitude: 12.1696
 loc_type: city
 longitude: -68.99
-score: 0.62
+score: 0.58
 title: Willemstad
 type: location
 ---

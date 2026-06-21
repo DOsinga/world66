@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alice_Springs,_2015_(01).J
 latitude: -23.698
 loc_type: city
 longitude: 133.8807
-score: 0.53
+score: 0.47
 title: Alice Springs
 type: location
 ---

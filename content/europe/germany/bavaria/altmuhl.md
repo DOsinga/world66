@@ -5,7 +5,7 @@ done:
 latitude: 48.9351
 loc_type: city
 longitude: 10.9762
-score: 0.58
+score: 0.51
 title: Altmühl Valley
 type: location
 ---

@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Universidad-Alcala-180819_
 latitude: 40.482
 loc_type: city
 longitude: -3.364
-score: 0.57
+score: 0.51
 title: Alcalá de Henares
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:150124_Gion_Kyoto_Japan01s
 latitude: 35.011575
 loc_type: city
 longitude: 135.768144
-score: 0.97
+score: 1.0
 title: Kyoto
 type: location
 ---

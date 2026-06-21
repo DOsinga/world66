@@ -5,7 +5,7 @@ done:
 latitude: 17.668802
 loc_type: city
 longitude: 80.894008
-score: 0.31
+score: 0.29
 title: Bhadrachalam
 type: location
 image: bhadrachalam.jpg

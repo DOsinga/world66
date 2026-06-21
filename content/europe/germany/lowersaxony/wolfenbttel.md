@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:August_II-Marktplatz_Wolfe
 latitude: 52.1625
 loc_type: city
 longitude: 10.5348
-score: 0.45
+score: 0.4
 title: Wolfenbüttel
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sant%27Andrea_Apostolo_(Pl
 latitude: 44.3512
 loc_type: city
 longitude: 8.2565
-score: 0.32
+score: 0.3
 title: Plodio
 type: location
 ---

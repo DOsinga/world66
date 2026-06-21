@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Atardecer_frente_a_San_Fra
 latitude: -16.4955
 loc_type: city
 longitude: -68.1336
-score: 0.61
+score: 0.53
 title: La Paz
 type: location
 ---

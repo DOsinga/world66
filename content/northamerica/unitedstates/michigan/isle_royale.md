@@ -5,7 +5,7 @@ latitude: 48.007382
 longitude: -88.828987
 title: Isle Royale
 type: location
-score: 0.53
+score: 0.47
 loc_type: feature
 ---
 

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kreta_sitia_hafen.jpg
 latitude: 35.206218
 loc_type: city
 longitude: 26.101482
-score: 0.61
+score: 0.51
 title: Sitia
 type: location
 ---

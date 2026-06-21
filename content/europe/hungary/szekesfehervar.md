@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Orb_and_Bishop%27s_Palace,
 latitude: 47.191017
 loc_type: city
 longitude: 18.410811
-score: 0.47
+score: 0.4
 title: Székesfehérvár
 type: location
 ---

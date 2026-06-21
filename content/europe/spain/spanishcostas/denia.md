@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Denia_desde_el_Montg%C3%B3
 latitude: 38.840838
 loc_type: city
 longitude: 0.10611
-score: 0.57
+score: 0.51
 title: Dénia
 type: location
 ---

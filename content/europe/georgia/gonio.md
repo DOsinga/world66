@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_gate_of_the_Gonio_cast
 latitude: 41.559165
 loc_type: city
 longitude: 41.569467
-score: 0.48
+score: 0.41
 title: Gonio
 type: location
 ---

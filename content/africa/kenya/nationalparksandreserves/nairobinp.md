@@ -5,7 +5,7 @@ latitude: -1.327609
 longitude: 36.893877
 title: Nairobi National Park
 type: location
-score: 0.65
+score: 0.53
 loc_type: feature
 ---
 

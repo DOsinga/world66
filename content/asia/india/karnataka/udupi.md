@@ -1,9 +1,10 @@
 ---
-title: "Udupi"
+title: Udupi
 type: location
 loc_type: city
 latitude: 13.3409
 longitude: 74.7421
+score: 0.41
 ---
 
 Udupi is a coastal town in [Karnataka](/asia/india/karnataka), about 55 km north of [Mangalore](/asia/india/karnataka/mangalore) on India's Konkan coast. It is best known across India not for its beaches or temples but for its cuisine — Udupi cooking, with its emphasis on vegetable preparations, coconut, and rice, is one of the most influential regional cuisines in the country, and the "Udupi restaurant" is a standard fixture in every major Indian city.

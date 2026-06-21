@@ -1,0 +1,200 @@
+{
+  "round": 4707,
+  "timestamp": "2026-06-14T00:34:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cousin Island",
+      "path": "africa/seychelles/cousinisland",
+      "prior_score": 3.6549,
+      "prior_variance": 0.120371,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Arlberg",
+      "path": "europe/austria/arlberg",
+      "prior_score": 4.1939,
+      "prior_variance": 0.093267,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Selcuk",
+      "path": "asia/turkey/selcuk",
+      "prior_score": 4.6481,
+      "prior_variance": 0.125214,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Moray",
+      "path": "southamerica/peru/moray",
+      "prior_score": 2.9782,
+      "prior_variance": 0.111395,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "P\u00e9cs",
+      "path": "europe/hungary/pecs",
+      "prior_score": 3.1656,
+      "prior_variance": 0.101885,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Siljan area",
+      "path": "europe/sweden/siljan_area",
+      "prior_score": 1.6926,
+      "prior_variance": 0.087803,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Petchburi",
+      "path": "asia/thailand/petchburi",
+      "prior_score": 0.8629,
+      "prior_variance": 0.082917,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Kozhikode",
+      "path": "asia/india/kerala/kozhikode",
+      "prior_score": 0.646,
+      "prior_variance": 0.09845,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Gniezno",
+      "path": "europe/poland/gniezno",
+      "prior_score": -1.1613,
+      "prior_variance": 0.082876,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Ojo Caliente",
+      "path": "northamerica/unitedstates/newmexico/ojo_caliente",
+      "prior_score": -0.057,
+      "prior_variance": 0.093067,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Sonora",
+      "path": "northamerica/unitedstates/california/goldcountry/sonora",
+      "prior_score": -0.9079,
+      "prior_variance": 0.078864,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Kurukshetra",
+      "path": "asia/india/haryana/kurukshetra",
+      "prior_score": -1.0523,
+      "prior_variance": 0.095679,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Jigongshan",
+      "path": "asia/china/henan_province/jigongshan",
+      "prior_score": -2.0639,
+      "prior_variance": 0.094801,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Foumban",
+      "path": "africa/cameroon/foumban",
+      "prior_score": -1.2971,
+      "prior_variance": 0.080289,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Apeldoorn",
+      "path": "europe/netherlands/apeldoorn",
+      "prior_score": -0.0032,
+      "prior_variance": 0.08128,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Abeokuta",
+      "path": "africa/nigeria/abeokuta",
+      "prior_score": -3.5301,
+      "prior_variance": 0.091822,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Hope",
+      "path": "northamerica/canada/britishcolumbia/hope",
+      "prior_score": -1.732,
+      "prior_variance": 0.085967,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Basso Veronese",
+      "path": "europe/italy/veneto/bassoveronese",
+      "prior_score": -1.7155,
+      "prior_variance": 0.097184,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_score": -2.1034,
+      "prior_variance": 0.092167,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Pointe-Claire",
+      "path": "northamerica/canada/quebec/pointeclaire",
+      "prior_score": -3.525,
+      "prior_variance": 0.091233,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Campinas",
+      "path": "southamerica/brazil/campinas",
+      "prior_score": -3.526,
+      "prior_variance": 0.094935,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Galati",
+      "path": "europe/romania/galati",
+      "prior_score": -3.2852,
+      "prior_variance": 0.085188,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/utah/wendover",
+      "prior_score": -6.0342,
+      "prior_variance": 0.152357,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Dhenkanal",
+      "path": "asia/india/orissa/dhenkanal",
+      "prior_score": -5.5373,
+      "prior_variance": 0.100645,
+      "prior_n": 15
+    }
+  ]
+}

@@ -6,7 +6,7 @@ longitude: -85.7594
 done:
   location_cleanup: 2026-04-06
   location_enrich: '2026-05-29'
-score: 0.49
+score: 0.45
 loc_type: city
 image: louisville.jpg
 image_source: https://www.flickr.com/photos/27119975@N00/21535469791

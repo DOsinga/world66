@@ -10,7 +10,7 @@ latitude: 44.3273
 longitude: 8.2754
 title: Pallare
 type: location
-score: 0.4
+score: 0.31
 loc_type: city
 ---
 

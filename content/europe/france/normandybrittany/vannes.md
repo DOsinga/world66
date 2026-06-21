@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vannes_Remparts_3.jpg
 latitude: 47.658677
 loc_type: city
 longitude: -2.759908
-score: 0.59
+score: 0.53
 title: Vannes
 type: location
 ---

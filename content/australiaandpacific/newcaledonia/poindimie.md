@@ -10,6 +10,7 @@ loc_type: city
 longitude: 165.3293
 title: Poindimié
 type: location
+score: 0.4
 ---
 
 Poindimié is the largest town on Grande Terre's east coast, roughly halfway between Nouméa and [Hienghène](/australiaandpacific/newcaledonia/hienghene) on the long, slow RT3 coastal road. It is essentially a one-street settlement strung along the lagoon, with the central [marché communal](/australiaandpacific/newcaledonia/poindimie/marche_communal) doubling as the social heart of the surrounding tribal communities.

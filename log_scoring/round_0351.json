@@ -1,200 +1,200 @@
 {
   "round": 351,
-  "timestamp": "2026-04-12T09:12:57",
+  "timestamp": "2026-06-13T19:31:06",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Cefal\u00f9",
-      "path": "europe/italy/sicily/cefalu",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Train des Pignes",
+      "path": "europe/france/midi/southern_alps/train_des_pignes",
+      "prior_score": 4.9293,
+      "prior_variance": 2.828511,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Mantua",
-      "path": "europe/italy/lombardia/mantua",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Egerszal\u00f3k",
+      "path": "europe/hungary/egerszalok",
+      "prior_score": -1.0042,
+      "prior_variance": 1.853564,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Kowloon",
-      "path": "asia/china/hongkong/kowloon",
-      "prior_mu": 23.8686,
-      "prior_sigma": 6.0977,
+      "title": "Mehring",
+      "path": "europe/germany/rhinelandpalatinate/mosel/mehring",
+      "prior_score": 0.5681,
+      "prior_variance": 1.980535,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Tbilisi",
-      "path": "europe/georgia/tbilisi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_score": -1.1818,
+      "prior_variance": 1.726018,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Waitomo",
-      "path": "australiaandpacific/newzealand/waikato/waitomo",
-      "prior_mu": 22.7171,
-      "prior_sigma": 5.949,
+      "title": "Chagford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/chagford",
+      "prior_score": -0.4699,
+      "prior_variance": 1.620644,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Butrint",
-      "path": "europe/albania/butrint",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Pankisi Gorge",
+      "path": "europe/georgia/pankisi",
+      "prior_score": -6.0311,
+      "prior_variance": 1.509574,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Mayreau",
-      "path": "northamerica/saintvincentandthegrenadines/mayreau",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mitiaro",
+      "path": "australiaandpacific/cookislands/mitiaro",
+      "prior_score": -1.8892,
+      "prior_variance": 1.691972,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Mendocino",
-      "path": "northamerica/unitedstates/california/northcoast/mendocino",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Semarang",
+      "path": "asia/indonesia/java/semarang",
+      "prior_score": -3.1714,
+      "prior_variance": 1.885193,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Uz\u00e8s",
-      "path": "europe/france/midi/ardeche/uzes",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Safi",
+      "path": "africa/morocco/safi",
+      "prior_score": -4.2573,
+      "prior_variance": 1.92108,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "North of Mombasa",
-      "path": "africa/kenya/thecoast/northofmombasa",
-      "prior_mu": 22.7239,
-      "prior_sigma": 5.95,
+      "title": "Nizhny Novgorod",
+      "path": "europe/russia/nizhnynovgorod",
+      "prior_score": -1.4073,
+      "prior_variance": 1.409505,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Yap",
-      "path": "australiaandpacific/micronesiafederatedstatesof/yap",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Boleslawiec",
+      "path": "europe/poland/boleslawiec",
+      "prior_score": -4.0831,
+      "prior_variance": 1.920379,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Pampatar",
-      "path": "southamerica/venezuela/margaritaisland/pampatar",
-      "prior_mu": 22.4726,
-      "prior_sigma": 5.9045,
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_score": -4.4418,
+      "prior_variance": 1.597408,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Mehring",
-      "path": "europe/germany/rhinelandpalatinate/mosel/mehring",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "McCloud",
+      "path": "northamerica/unitedstates/california/shastacascade/mccloud",
+      "prior_score": -7.3278,
+      "prior_variance": 1.685262,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Lafayette",
-      "path": "northamerica/unitedstates/louisiana/lafayette",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Carlisle",
+      "path": "northamerica/unitedstates/pennsylvania/carlisle",
+      "prior_score": -12.0251,
+      "prior_variance": 2.230399,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Dun Laoghaire",
-      "path": "europe/ireland/dun_laoghaire",
-      "prior_mu": 22.7267,
-      "prior_sigma": 5.9504,
+      "title": "Ciudad Bol\u00edvar",
+      "path": "southamerica/venezuela/ciudadbolivar",
+      "prior_score": -3.1818,
+      "prior_variance": 1.615283,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Belo Horizonte",
-      "path": "southamerica/brazil/belohorizonte",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Embu",
+      "path": "africa/kenya/centralhighlands/embu",
+      "prior_score": -6.0719,
+      "prior_variance": 1.904281,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Alega",
-      "path": "australiaandpacific/americansamoa/alega",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Digha",
+      "path": "asia/india/westbengal/digha",
+      "prior_score": -6.4434,
+      "prior_variance": 2.031333,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Montespertoli",
-      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Gold River",
+      "path": "northamerica/canada/britishcolumbia/gold_river_britis",
+      "prior_score": -6.8171,
+      "prior_variance": 2.412418,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Grand erg",
-      "path": "africa/algeria/granderg",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Rajshahi",
+      "path": "asia/bangladesh/rajshahi",
+      "prior_score": -7.969,
+      "prior_variance": 2.245684,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Maadi",
-      "path": "africa/egypt/maadi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Linden",
+      "path": "southamerica/guyana/linden",
+      "prior_score": -11.5109,
+      "prior_variance": 3.317137,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Harrisburg",
-      "path": "northamerica/unitedstates/pennsylvania/harrisburg",
-      "prior_mu": 22.7225,
-      "prior_sigma": 5.9499,
+      "title": "Panpur",
+      "path": "asia/india/assam/panpur",
+      "prior_score": -12.6445,
+      "prior_variance": 7.961743,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Moclips",
-      "path": "northamerica/unitedstates/washington/moclips",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Narsaq",
+      "path": "northamerica/greenland/narsaq",
+      "prior_score": -2.3288,
+      "prior_variance": 1.840089,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Asansol",
-      "path": "asia/india/westbengal/asansol",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Currie",
+      "path": "northamerica/unitedstates/northcarolina/currie",
+      "prior_score": -9.0412,
+      "prior_variance": 3.73083,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Crewkerne",
-      "path": "europe/unitedkingdom/england/crewkerne",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Flint",
+      "path": "northamerica/unitedstates/michigan/flint",
+      "prior_score": -13.1921,
+      "prior_variance": 7.676883,
+      "prior_n": 1
     }
   ]
 }

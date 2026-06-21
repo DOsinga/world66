@@ -6,7 +6,7 @@ latitude: 36.715
 longitude: -110.2461
 title: Kayenta
 type: location
-score: 0.47
+score: 0.43
 loc_type: city
 ---
 

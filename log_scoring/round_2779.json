@@ -1,0 +1,200 @@
+{
+  "round": 2779,
+  "timestamp": "2026-06-13T22:06:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puno",
+      "path": "southamerica/peru/laketiticacaarea/puno",
+      "prior_score": 5.0996,
+      "prior_variance": 0.187948,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/lancaster",
+      "prior_score": -0.8123,
+      "prior_variance": 0.13771,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Gentofte",
+      "path": "europe/denmark/gentofte",
+      "prior_score": -3.6813,
+      "prior_variance": 0.262012,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Tupelo",
+      "path": "northamerica/unitedstates/mississippi/tupelo",
+      "prior_score": -2.623,
+      "prior_variance": 0.162942,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Hope",
+      "path": "northamerica/canada/britishcolumbia/hope",
+      "prior_score": -2.038,
+      "prior_variance": 0.131066,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Port Clinton",
+      "path": "northamerica/unitedstates/ohio/port_clinton",
+      "prior_score": -3.8927,
+      "prior_variance": 0.161687,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Lu\u010denec",
+      "path": "europe/slovakia/luenec",
+      "prior_score": -4.3544,
+      "prior_variance": 0.166145,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Ely",
+      "path": "northamerica/unitedstates/nevada/ely",
+      "prior_score": -4.0721,
+      "prior_variance": 0.223174,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Red Bluff",
+      "path": "northamerica/unitedstates/california/shastacascade/redbluff",
+      "prior_score": -4.5047,
+      "prior_variance": 0.168855,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Tucumcari",
+      "path": "northamerica/unitedstates/newmexico/tucumcari",
+      "prior_score": -4.1767,
+      "prior_variance": 0.169199,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Wudalianchi",
+      "path": "asia/china/heilongjiang/wudalianchi",
+      "prior_score": -2.6597,
+      "prior_variance": 0.164904,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Zamboanga",
+      "path": "asia/philippines/zamboanga",
+      "prior_score": -3.1226,
+      "prior_variance": 0.14513,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_score": -4.2902,
+      "prior_variance": 0.174932,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Anantnag",
+      "path": "asia/india/jammuandkashmir/anantnag",
+      "prior_score": -3.1296,
+      "prior_variance": 0.155861,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Iroquois Falls",
+      "path": "northamerica/canada/ontario/iroquoisfalls",
+      "prior_score": -5.0893,
+      "prior_variance": 0.172486,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Sivakasi",
+      "path": "asia/india/tamilnadu/sivakasi",
+      "prior_score": -6.3124,
+      "prior_variance": 0.190277,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Nagore",
+      "path": "asia/india/tamilnadu/nagore",
+      "prior_score": -3.9718,
+      "prior_variance": 0.155016,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_score": -4.6976,
+      "prior_variance": 0.167657,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Sanmenxia",
+      "path": "asia/china/henan_province/sanmenxia",
+      "prior_score": -5.6422,
+      "prior_variance": 0.183425,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Jid Hafs",
+      "path": "asia/bahrain/jid_hafs",
+      "prior_score": -5.8629,
+      "prior_variance": 0.181498,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Port Harcourt",
+      "path": "africa/nigeria/portharcourt",
+      "prior_score": -6.356,
+      "prior_variance": 0.225919,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_score": -7.6504,
+      "prior_variance": 0.228834,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Bo",
+      "path": "africa/sierraleone/bo",
+      "prior_score": -6.8225,
+      "prior_variance": 0.21247,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "In Salah",
+      "path": "africa/algeria/insalah",
+      "prior_score": -7.0402,
+      "prior_variance": 0.193705,
+      "prior_n": 9
+    }
+  ]
+}

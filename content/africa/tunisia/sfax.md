@@ -5,7 +5,7 @@ done:
 latitude: 34.739436
 loc_type: city
 longitude: 10.760402
-score: 0.37
+score: 0.31
 title: Sfax
 type: location
 image: sfax.jpg

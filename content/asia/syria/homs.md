@@ -4,6 +4,7 @@ type: location
 loc_type: city
 latitude: 34.7271
 longitude: 36.7117
+score: 0.09
 ---
 
 Homs, Syria's third-largest city, sits at a strategic crossroads between Damascus and the coast, in a wide plain watered by the Orontes River. For centuries it was a trading hub; the old city's souks, mosques, and ancient quarters reflect layers of Phoenician, Roman, Byzantine, and Ottoman presence.

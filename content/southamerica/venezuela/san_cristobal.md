@@ -5,7 +5,7 @@ done:
 latitude: 7.775666
 loc_type: city
 longitude: -72.221415
-score: 0.34
+score: 0.27
 title: San Cristóbal
 type: location
 image: san_cristobal.jpg

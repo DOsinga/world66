@@ -1,199 +1,199 @@
 {
   "round": 425,
-  "timestamp": "2026-04-12T09:30:19",
+  "timestamp": "2026-06-13T19:34:47",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Geirangerfjord",
-      "path": "europe/norway/geirangerfjord",
-      "prior_mu": 29.0908,
-      "prior_sigma": 6.9863,
+      "title": "Williamsburg",
+      "path": "northamerica/unitedstates/virginia/williamsburg",
+      "prior_score": 4.3336,
+      "prior_variance": 2.047734,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Moskenes",
-      "path": "europe/norway/lofotenislands/moskenes",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "San Ignacio",
+      "path": "northamerica/belize/sanignacio",
+      "prior_score": 4.0505,
+      "prior_variance": 2.009731,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Spitsbergen",
-      "path": "europe/norway/spitsbergen",
-      "prior_mu": 23.9296,
-      "prior_sigma": 6.0223,
+      "title": "Mistra",
+      "path": "europe/greece/mistra",
+      "prior_score": 5.2398,
+      "prior_variance": 1.759237,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "North Cape",
-      "path": "europe/norway/northcape",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Esztergom",
+      "path": "europe/hungary/esztergom",
+      "prior_score": 2.7067,
+      "prior_variance": 1.442465,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "\u00c5lesund",
-      "path": "europe/norway/lesund",
-      "prior_mu": 24.5728,
-      "prior_sigma": 5.6964,
+      "title": "Quedlinburg",
+      "path": "europe/germany/saxonyanhalt/quedlinburg",
+      "prior_score": 2.612,
+      "prior_variance": 1.333029,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Kabelv\u00e5g",
-      "path": "europe/norway/lofotenislands/kabelvg",
-      "prior_mu": 23.2432,
-      "prior_sigma": 5.5723,
+      "title": "Ajmer",
+      "path": "asia/india/rajasthan/ajmer",
+      "prior_score": 2.845,
+      "prior_variance": 2.63877,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Flakstad",
-      "path": "europe/norway/lofotenislands/flakstad",
-      "prior_mu": 23.1024,
-      "prior_sigma": 5.7154,
+      "title": "Ouirgane",
+      "path": "africa/morocco/ouirgane",
+      "prior_score": 1.8693,
+      "prior_variance": 1.920773,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "R\u00f8st",
-      "path": "europe/norway/lofotenislands/rost",
-      "prior_mu": 22.5436,
-      "prior_sigma": 5.5129,
+      "title": "Chaozhou",
+      "path": "asia/china/guangdong/chaozhou",
+      "prior_score": 3.2331,
+      "prior_variance": 1.398088,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Oslo",
-      "path": "europe/norway/oslo",
-      "prior_mu": 21.9511,
-      "prior_sigma": 4.5561,
-      "prior_n": 2
+      "title": "Kalispell",
+      "path": "northamerica/unitedstates/montana/kalispell",
+      "prior_score": 1.3918,
+      "prior_variance": 1.392821,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Nybyen",
-      "path": "europe/norway/spitsbergen/nybyen",
-      "prior_mu": 21.5725,
-      "prior_sigma": 4.1725,
-      "prior_n": 3
+      "title": "Broadford",
+      "path": "europe/unitedkingdom/scotland/skye/broadford",
+      "prior_score": 3.4882,
+      "prior_variance": 1.820174,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Alta",
-      "path": "europe/norway/alta",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Condado",
+      "path": "northamerica/thecaribbean/puertorico/condado",
+      "prior_score": 3.9809,
+      "prior_variance": 2.395525,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Arendal",
-      "path": "europe/norway/arendal",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Punkaharju",
+      "path": "europe/finland/punkaharju",
+      "prior_score": 3.348,
+      "prior_variance": 1.646721,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Harstad",
-      "path": "europe/norway/harstad",
-      "prior_mu": 22.778,
-      "prior_sigma": 5.9565,
+      "title": "Tianzhu Mountain",
+      "path": "asia/china/anhui/tianzhu_mountain",
+      "prior_score": 2.2355,
+      "prior_variance": 2.238976,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Kirkenes",
-      "path": "europe/norway/kirkenes",
-      "prior_mu": 22.6752,
-      "prior_sigma": 5.944,
+      "title": "Billund",
+      "path": "europe/denmark/billund",
+      "prior_score": -0.931,
+      "prior_variance": 1.506511,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Sandefjord",
-      "path": "europe/norway/sandefjord",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is",
+      "prior_score": 1.9561,
+      "prior_variance": 1.851687,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Tretten",
-      "path": "europe/norway/tretten",
-      "prior_mu": 22.8693,
-      "prior_sigma": 5.7201,
+      "title": "Jinggangshan",
+      "path": "asia/china/jiangxi/jinggangshan",
+      "prior_score": 0.355,
+      "prior_variance": 2.156003,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Stjordal",
-      "path": "europe/norway/stjordal",
-      "prior_mu": 22.7877,
-      "prior_sigma": 5.7124,
+      "title": "Zamboanga",
+      "path": "asia/philippines/zamboanga",
+      "prior_score": 0.5001,
+      "prior_variance": 1.471797,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Porsgrunn",
-      "path": "europe/norway/porsgrunn",
-      "prior_mu": 22.1792,
-      "prior_sigma": 5.7713,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_score": 2.8409,
+      "prior_variance": 1.579763,
       "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Tonstad",
-      "path": "europe/norway/tonstad",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Coyote Buttes South",
+      "path": "northamerica/unitedstates/utah/south_coyote_butte",
+      "prior_score": 3.562,
+      "prior_variance": 1.887332,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Surnadal",
-      "path": "europe/norway/surnadal",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/weymouth",
+      "prior_score": 1.8162,
+      "prior_variance": 1.644652,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Straume",
-      "path": "europe/norway/straume",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mannheim",
+      "path": "europe/germany/badenwrttemberg/mannheim",
+      "prior_score": 2.8441,
+      "prior_variance": 1.708322,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Bardufoss",
-      "path": "europe/norway/bardufoss",
-      "prior_mu": 22.2002,
-      "prior_sigma": 5.7737,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/newmexico/san_rafael",
+      "prior_score": -0.8169,
+      "prior_variance": 1.8067,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "CqoEEEHbAlhJ",
-      "path": "europe/norway/kongsberg/cqoeeehbalhj",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Twickenham",
+      "path": "europe/unitedkingdom/england/south_east/twickenham",
+      "prior_score": 2.6101,
+      "prior_variance": 1.767373,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Norway",
-      "path": "europe/norway",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Yell",
+      "path": "europe/unitedkingdom/scotland/shetland/yell",
+      "prior_score": 6.1072,
+      "prior_variance": 1.614851,
       "prior_n": 1
     }
   ]

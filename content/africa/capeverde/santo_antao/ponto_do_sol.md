@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ponta_do_Sol,_Santo_Antao,
 latitude: 17.2023
 loc_type: city
 longitude: -25.0929
-score: 0.49
+score: 0.43
 title: Ponta do Sol
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Paarl_Rock.jpg
 latitude: -33.734
 loc_type: city
 longitude: 18.9726
-score: 0.5
+score: 0.43
 title: Paarl
 type: location
 ---

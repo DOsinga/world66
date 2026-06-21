@@ -5,7 +5,7 @@ done:
 latitude: 11.532544
 loc_type: city
 longitude: -10.672727
-score: 0.26
+score: 0.19
 title: Dinguiraye
 type: location
 ---

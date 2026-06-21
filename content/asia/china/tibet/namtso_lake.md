@@ -5,7 +5,7 @@ latitude: 30.7165
 longitude: 90.5889
 title: Namtso Lake
 type: location
-score: 0.63
+score: 0.56
 loc_type: feature
 ---
 

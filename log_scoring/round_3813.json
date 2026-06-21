@@ -1,0 +1,200 @@
+{
+  "round": 3813,
+  "timestamp": "2026-06-13T23:22:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kobe",
+      "path": "asia/japan/honshu/kobe",
+      "prior_score": 6.3666,
+      "prior_variance": 0.14034,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "San Miguel de Allende",
+      "path": "northamerica/mexico/sanmigueldeallende",
+      "prior_score": 7.3948,
+      "prior_variance": 0.168624,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/centralcoast/santabarbara",
+      "prior_score": 5.8013,
+      "prior_variance": 0.116976,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Besan\u00e7on",
+      "path": "europe/france/east/franchecomte/besancon",
+      "prior_score": 2.1876,
+      "prior_variance": 0.105682,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Voss",
+      "path": "europe/norway/voss",
+      "prior_score": 4.0378,
+      "prior_variance": 0.13342,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Ballarat",
+      "path": "australiaandpacific/australia/victoria/ballarat",
+      "prior_score": 1.4954,
+      "prior_variance": 0.107311,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Tashkent",
+      "path": "asia/uzbekistan/tashkent",
+      "prior_score": 0.6186,
+      "prior_variance": 0.186114,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Trancoso",
+      "path": "southamerica/brazil/trancoso",
+      "prior_score": 2.8171,
+      "prior_variance": 0.130428,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Diksmuide",
+      "path": "europe/belgium/diksmuide",
+      "prior_score": -0.7863,
+      "prior_variance": 0.112,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/chile/concepcion",
+      "prior_score": -2.5882,
+      "prior_variance": 0.123884,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_score": -1.3197,
+      "prior_variance": 0.108981,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Tinian",
+      "path": "australiaandpacific/northernmarianaislands/tinian",
+      "prior_score": -1.2949,
+      "prior_variance": 0.127699,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Iowa City",
+      "path": "northamerica/unitedstates/iowa/iowacity",
+      "prior_score": -3.0019,
+      "prior_variance": 0.118191,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Vanadzor",
+      "path": "europe/armenia/vanadzor",
+      "prior_score": -3.3055,
+      "prior_variance": 0.109447,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Oss",
+      "path": "europe/netherlands/oss",
+      "prior_score": -4.8996,
+      "prior_variance": 0.142668,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Bigfork",
+      "path": "northamerica/unitedstates/montana/bigfork",
+      "prior_score": -0.6099,
+      "prior_variance": 0.099101,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Rissani",
+      "path": "africa/morocco/rissani",
+      "prior_score": -0.1963,
+      "prior_variance": 0.122885,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Heihe",
+      "path": "asia/china/heilongjiang/heihe",
+      "prior_score": -4.681,
+      "prior_variance": 0.122149,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Montecristo National Park",
+      "path": "northamerica/elsalvador/montecristonationalpark",
+      "prior_score": -0.5757,
+      "prior_variance": 0.117112,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Sost",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/sost",
+      "prior_score": -4.7108,
+      "prior_variance": 0.219832,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Bluefield",
+      "path": "northamerica/unitedstates/westvirginia/bluefield_wv",
+      "prior_score": -5.4878,
+      "prior_variance": 0.115616,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Ocotepeque",
+      "path": "northamerica/honduras/ocotepeque",
+      "prior_score": -4.3644,
+      "prior_variance": 0.108585,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Mattawa",
+      "path": "northamerica/canada/ontario/mattawa",
+      "prior_score": -5.2833,
+      "prior_variance": 0.134232,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Maradi",
+      "path": "africa/niger/maradi",
+      "prior_score": -7.9207,
+      "prior_variance": 0.270117,
+      "prior_n": 12
+    }
+  ]
+}

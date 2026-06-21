@@ -5,7 +5,7 @@ done:
 latitude: 42.193936
 loc_type: city
 longitude: -73.362773
-score: 0.46
+score: 0.42
 title: Great Barrington
 type: location
 ---

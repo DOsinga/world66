@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:FiesoleDec102023_15.jpg
 latitude: 43.806669
 loc_type: city
 longitude: 11.293074
-score: 0.63
+score: 0.56
 title: Fiesole
 type: location
 ---

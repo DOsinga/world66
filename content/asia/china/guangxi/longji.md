@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:China_-_Longji_Dragon-back
 latitude: 25.7975
 loc_type: feature
 longitude: 110.004722
-score: 0.65
+score: 0.58
 title: Longji Rice Terraces
 type: location
 ---

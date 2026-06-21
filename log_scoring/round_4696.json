@@ -1,0 +1,200 @@
+{
+  "round": 4696,
+  "timestamp": "2026-06-14T00:33:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Phong Nha - Ke Bang",
+      "path": "asia/vietnam/phong_nha__ke_ban",
+      "prior_score": 6.7462,
+      "prior_variance": 0.122448,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Snowmass Village",
+      "path": "northamerica/unitedstates/colorado/snowmass_village",
+      "prior_score": 3.2713,
+      "prior_variance": 0.109811,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Sion",
+      "path": "europe/switzerland/sion",
+      "prior_score": 2.9326,
+      "prior_variance": 0.086766,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Asolo",
+      "path": "europe/italy/veneto/asolo",
+      "prior_score": 4.0205,
+      "prior_variance": 0.086221,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Broads",
+      "path": "europe/unitedkingdom/england/eastern_england/broads",
+      "prior_score": 1.1507,
+      "prior_variance": 0.088039,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Sanl\u00facar de Barrameda",
+      "path": "europe/spain/andalucia/sanlcar",
+      "prior_score": 2.1347,
+      "prior_variance": 0.098968,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Forres",
+      "path": "europe/unitedkingdom/scotland/forres",
+      "prior_score": -0.8908,
+      "prior_variance": 0.092957,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Boumalne Dad\u00e8s",
+      "path": "africa/morocco/boumalne",
+      "prior_score": 1.8067,
+      "prior_variance": 0.098292,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Beiteddine",
+      "path": "asia/lebanon/beiteddine",
+      "prior_score": 1.2999,
+      "prior_variance": 0.090666,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Colombo",
+      "path": "asia/srilanka/colombo",
+      "prior_score": 1.9836,
+      "prior_variance": 0.103058,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Playa Herradura",
+      "path": "northamerica/costarica/playa_herradura",
+      "prior_score": 0.912,
+      "prior_variance": 0.091876,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Matmata",
+      "path": "africa/tunisia/matmata",
+      "prior_score": 1.373,
+      "prior_variance": 0.086287,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Cody",
+      "path": "northamerica/unitedstates/wyoming/cody",
+      "prior_score": 1.7038,
+      "prior_variance": 0.103481,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Sevanavank",
+      "path": "europe/armenia/sevanavank",
+      "prior_score": 1.7291,
+      "prior_variance": 0.083431,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Debrecen",
+      "path": "europe/hungary/debrecen",
+      "prior_score": -0.0005,
+      "prior_variance": 0.085355,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Clermont-Ferrand",
+      "path": "europe/france/centre/auvergne/clermontferrant",
+      "prior_score": 0.8502,
+      "prior_variance": 0.090162,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Golfito",
+      "path": "northamerica/costarica/golfito",
+      "prior_score": 0.3555,
+      "prior_variance": 0.090203,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Mariehamn",
+      "path": "europe/finland/alandislands/mariehamn",
+      "prior_score": 0.9508,
+      "prior_variance": 0.085995,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Taierzhuang",
+      "path": "asia/china/shandong_province/taierzhuang",
+      "prior_score": -0.4771,
+      "prior_variance": 0.085262,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Brest",
+      "path": "europe/belarus/brest",
+      "prior_score": -2.8645,
+      "prior_variance": 0.093683,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Courth\u00e9zon",
+      "path": "europe/france/alpes/courthezon",
+      "prior_score": -2.8069,
+      "prior_variance": 0.099891,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Winneba",
+      "path": "africa/ghana/winneba",
+      "prior_score": -3.4823,
+      "prior_variance": 0.086766,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Mitiaro",
+      "path": "australiaandpacific/cookislands/mitiaro",
+      "prior_score": -1.6088,
+      "prior_variance": 0.111169,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Nushki",
+      "path": "asia/pakistan/nushki",
+      "prior_score": -8.3172,
+      "prior_variance": 0.155907,
+      "prior_n": 15
+    }
+  ]
+}

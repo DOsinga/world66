@@ -5,7 +5,7 @@ done:
 latitude: 61.985446
 loc_type: city
 longitude: -6.653137
-score: 0.51
+score: 0.41
 title: Nólsoy
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 7.3833
 loc_type: city
 longitude: -7.4333
-score: 0.23
+score: 0.17
 title: Fakobly
 type: location
 ---

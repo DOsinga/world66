@@ -5,7 +5,7 @@ done:
 latitude: 54.328448
 loc_type: city
 longitude: -2.746468
-score: 0.43
+score: 0.38
 title: Kendal
 type: location
 ---

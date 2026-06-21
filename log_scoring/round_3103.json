@@ -1,0 +1,200 @@
+{
+  "round": 3103,
+  "timestamp": "2026-06-13T22:29:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Beijing",
+      "path": "asia/china/beijing",
+      "prior_score": 9.1963,
+      "prior_variance": 0.304234,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Chefchaouen",
+      "path": "africa/morocco/chaouen",
+      "prior_score": 8.5013,
+      "prior_variance": 0.232776,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Scottsdale",
+      "path": "northamerica/unitedstates/arizona/scottsdale",
+      "prior_score": 2.6155,
+      "prior_variance": 0.142092,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Baliem Valley",
+      "path": "asia/indonesia/irianjaya/baliemvalley",
+      "prior_score": 0.8585,
+      "prior_variance": 0.138193,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Tsomgo Lake",
+      "path": "asia/india/sikkim/chaggutsomgolake",
+      "prior_score": 2.0733,
+      "prior_variance": 0.155803,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Ferghana Valley",
+      "path": "asia/uzbekistan/ferghanavalley",
+      "prior_score": -0.6994,
+      "prior_variance": 0.131878,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Tozeur",
+      "path": "africa/tunisia/tozeur",
+      "prior_score": 2.7356,
+      "prior_variance": 0.136713,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Bahariya Oasis",
+      "path": "africa/egypt/bahariyaoasis",
+      "prior_score": -0.921,
+      "prior_variance": 0.216858,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Perak",
+      "path": "asia/malaysia/perak",
+      "prior_score": -0.0119,
+      "prior_variance": 0.11513,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Diyarbakir",
+      "path": "asia/turkey/diyarbakir",
+      "prior_score": -0.1063,
+      "prior_variance": 0.146301,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Prespa",
+      "path": "europe/greece/prespa",
+      "prior_score": 1.1492,
+      "prior_variance": 0.129054,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Cerveteri",
+      "path": "europe/italy/lazio/cerveteri",
+      "prior_score": 0.9214,
+      "prior_variance": 0.162901,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Cahors",
+      "path": "europe/france/midi/dordogne/cahors",
+      "prior_score": 1.8772,
+      "prior_variance": 0.147191,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Certaldo",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/certaldo",
+      "prior_score": 0.611,
+      "prior_variance": 0.154544,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Alta",
+      "path": "europe/norway/alta",
+      "prior_score": 2.6257,
+      "prior_variance": 0.162141,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Sosua",
+      "path": "northamerica/dominicanrepublic/puertoplata/sosua",
+      "prior_score": 0.411,
+      "prior_variance": 0.129709,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Seaside",
+      "path": "northamerica/unitedstates/oregon/seaside",
+      "prior_score": 0.1758,
+      "prior_variance": 0.121013,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Lincoln",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/lincoln",
+      "prior_score": 0.45,
+      "prior_variance": 0.160273,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "P\u00f3voa de Varzim",
+      "path": "europe/portugal/pvoa_de_varzim",
+      "prior_score": 0.258,
+      "prior_variance": 0.131808,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_score": 0.5648,
+      "prior_variance": 0.118129,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Dalkey",
+      "path": "europe/ireland/dalkey",
+      "prior_score": 1.2568,
+      "prior_variance": 0.144232,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Kolovai Beach",
+      "path": "australiaandpacific/tonga/tongatapu/kolovaibeach",
+      "prior_score": -0.5385,
+      "prior_variance": 0.129009,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Kavaratti",
+      "path": "asia/india/lakshadweep/kavaratti",
+      "prior_score": 0.4763,
+      "prior_variance": 0.137896,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Traunstein",
+      "path": "europe/germany/bavaria/traunstein",
+      "prior_score": -1.0021,
+      "prior_variance": 0.123241,
+      "prior_n": 10
+    }
+  ]
+}

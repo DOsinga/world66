@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Billionth_Barrel_Monument_
 latitude: 4.614159
 loc_type: city
 longitude: 114.330183
-score: 0.31
+score: 0.26
 title: Seria
 type: location
 ---

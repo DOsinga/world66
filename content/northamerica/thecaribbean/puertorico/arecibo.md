@@ -5,7 +5,7 @@ done:
   location_enrich: '2026-05-23'
 latitude: 18.4725
 longitude: -66.7156
-score: 0.49
+score: 0.42
 title: Arecibo
 type: location
 loc_type: city

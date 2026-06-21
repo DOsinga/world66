@@ -5,7 +5,7 @@ latitude: 33.8847
 longitude: -118.4109
 title: Manhattan Beach
 type: location
-score: 0.52
+score: 0.42
 loc_type: city
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fore_Street,_Dulverton_(ge
 latitude: 51.0401
 loc_type: city
 longitude: -3.5502
-score: 0.48
+score: 0.43
 title: Dulverton
 type: location
 ---

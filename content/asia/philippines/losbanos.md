@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baker_hall.jpg
 latitude: 14.17909
 loc_type: city
 longitude: 121.221791
-score: 0.37
+score: 0.3
 title: Los Banos
 type: location
 ---

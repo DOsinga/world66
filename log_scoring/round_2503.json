@@ -1,0 +1,200 @@
+{
+  "round": 2503,
+  "timestamp": "2026-06-13T21:47:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/chichenitza",
+      "prior_score": 11.7163,
+      "prior_variance": 0.414036,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Hong Kong",
+      "path": "asia/china/hongkong",
+      "prior_score": 11.117,
+      "prior_variance": 0.336011,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Prague",
+      "path": "europe/czechrepublic/prague",
+      "prior_score": 11.1066,
+      "prior_variance": 0.46377,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey/bigsur",
+      "prior_score": 9.586,
+      "prior_variance": 0.280927,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Volterra",
+      "path": "europe/italy/tuscany/volterra",
+      "prior_score": 6.2309,
+      "prior_variance": 0.203342,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Trogir",
+      "path": "europe/croatia/trogir",
+      "prior_score": 7.3442,
+      "prior_variance": 0.263213,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_score": 5.6192,
+      "prior_variance": 0.201602,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Laax",
+      "path": "europe/switzerland/laax",
+      "prior_score": 4.2522,
+      "prior_variance": 0.15267,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Jerez de la Frontera",
+      "path": "europe/spain/andalucia/jerezdelafrontera",
+      "prior_score": 3.8997,
+      "prior_variance": 0.174146,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Pontevedra",
+      "path": "europe/spain/galicia/pontevedra",
+      "prior_score": 4.0628,
+      "prior_variance": 0.180316,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Coniston",
+      "path": "europe/unitedkingdom/england/lakedistrict/coniston_1",
+      "prior_score": 1.964,
+      "prior_variance": 0.170808,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Rennes",
+      "path": "europe/france/normandybrittany/rennes",
+      "prior_score": 3.5057,
+      "prior_variance": 0.173955,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Bursa",
+      "path": "asia/turkey/bursa",
+      "prior_score": 3.5851,
+      "prior_variance": 0.179883,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "G\u00f6rlitz",
+      "path": "europe/germany/saxony/grlitz",
+      "prior_score": 3.1704,
+      "prior_variance": 0.181671,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Nevis",
+      "path": "northamerica/saintkittsandnevis/nevis",
+      "prior_score": 4.5323,
+      "prior_variance": 0.249524,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Udine",
+      "path": "europe/italy/friuliveneziagiulia/udine",
+      "prior_score": 2.7744,
+      "prior_variance": 0.177614,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Falaise",
+      "path": "europe/france/normandybrittany/falaise",
+      "prior_score": 1.8534,
+      "prior_variance": 0.16029,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "R\u00eda de Vigo",
+      "path": "europe/spain/galicia/ria_of_vigo",
+      "prior_score": 3.0477,
+      "prior_variance": 0.162001,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Gallinara Island Regional Park",
+      "path": "europe/italy/liguria/gallinarapark",
+      "prior_score": 0.2384,
+      "prior_variance": 0.233356,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Dilijan",
+      "path": "europe/armenia/tavush_marz/dilijan",
+      "prior_score": 0.6592,
+      "prior_variance": 0.157268,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Ilh\u00e9us",
+      "path": "southamerica/brazil/lheus",
+      "prior_score": 0.8038,
+      "prior_variance": 0.170452,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "San Juan Capistrano",
+      "path": "northamerica/unitedstates/california/orangecounty/san_juan_capistrano",
+      "prior_score": 0.8554,
+      "prior_variance": 0.188919,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Danakil Depression",
+      "path": "africa/ethiopia/danakilsdepression",
+      "prior_score": -1.0391,
+      "prior_variance": 0.206157,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Tarlac",
+      "path": "asia/philippines/tarlac",
+      "prior_score": -4.7263,
+      "prior_variance": 0.180231,
+      "prior_n": 8
+    }
+  ]
+}

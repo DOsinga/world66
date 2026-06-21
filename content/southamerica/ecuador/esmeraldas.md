@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Las_Palmas.JPG
 latitude: 0.734362
 loc_type: city
 longitude: -79.385887
-score: 0.4
+score: 0.3
 title: Esmeraldas
 type: location
 ---

@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tewkesbury_Abbey_and_Mill_
 latitude: 51.993786
 loc_type: city
 longitude: -2.154957
-score: 0.51
+score: 0.45
 title: Tewkesbury
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/47290943@N03/22583928510
 latitude: 54.004603
 loc_type: city
 longitude: -6.400888
-score: 0.4
+score: 0.33
 title: Dundalk
 type: location
 ---

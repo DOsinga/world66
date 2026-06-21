@@ -5,7 +5,7 @@ done:
 latitude: 52.310214
 loc_type: city
 longitude: -114.097415
-score: 0.4
+score: 0.36
 title: Sylvan Lake
 type: location
 ---

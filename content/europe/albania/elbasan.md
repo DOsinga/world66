@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Elbasan_alb.jpg
 latitude: 41.1127
 loc_type: city
 longitude: 20.0822
-score: 0.38
+score: 0.34
 title: Elbasan
 type: location
 ---

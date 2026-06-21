@@ -1,0 +1,200 @@
+{
+  "round": 4202,
+  "timestamp": "2026-06-13T23:53:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jomtien Beach",
+      "path": "asia/thailand/jomtien_beach",
+      "prior_score": 2.6926,
+      "prior_variance": 0.104182,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Pampatar",
+      "path": "southamerica/venezuela/margaritaisland/pampatar",
+      "prior_score": -0.5905,
+      "prior_variance": 0.101087,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Kottayam",
+      "path": "asia/india/kerala/kottayam",
+      "prior_score": -1.3675,
+      "prior_variance": 0.092747,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Arras",
+      "path": "europe/france/nord/arras",
+      "prior_score": 0.4449,
+      "prior_variance": 0.104309,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Steyr",
+      "path": "europe/austria/steyr",
+      "prior_score": 2.1621,
+      "prior_variance": 0.099695,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Ravensburg",
+      "path": "europe/germany/badenwrttemberg/ravensburg",
+      "prior_score": 1.0266,
+      "prior_variance": 0.091222,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Recanati",
+      "path": "europe/italy/marche/recanati",
+      "prior_score": -0.1009,
+      "prior_variance": 0.099028,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_score": 0.1953,
+      "prior_variance": 0.0983,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_score": -0.7548,
+      "prior_variance": 0.13093,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Banjul",
+      "path": "africa/gambia/banjul",
+      "prior_score": -1.8059,
+      "prior_variance": 0.118495,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "St-Pons-de-Thomi\u00e8res",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomieres",
+      "prior_score": -0.6325,
+      "prior_variance": 0.094446,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Empoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/empoli",
+      "prior_score": -1.6065,
+      "prior_variance": 0.105666,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Grimstad",
+      "path": "europe/norway/grimstad",
+      "prior_score": -0.0097,
+      "prior_variance": 0.092024,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Barnstaple",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/barnstaple",
+      "prior_score": -0.5449,
+      "prior_variance": 0.090616,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/scotland/crieff",
+      "prior_score": 0.1283,
+      "prior_variance": 0.098785,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Vila Nova Sintra",
+      "path": "africa/capeverde/brava/vila_nova_sintra",
+      "prior_score": -0.9904,
+      "prior_variance": 0.093897,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Iraq al-Amir",
+      "path": "asia/jordan/iraqalamir",
+      "prior_score": -0.4847,
+      "prior_variance": 0.086043,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_score": -1.9704,
+      "prior_variance": 0.122261,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Preston",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/preston",
+      "prior_score": -3.2917,
+      "prior_variance": 0.105934,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Mauke",
+      "path": "australiaandpacific/cookislands/mauke",
+      "prior_score": -0.6068,
+      "prior_variance": 0.099365,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Urbana-Champaign",
+      "path": "northamerica/unitedstates/illinois/urbanachampaign",
+      "prior_score": -3.6668,
+      "prior_variance": 0.118055,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "P\u00e4lk\u00e4ne",
+      "path": "europe/finland/plkne",
+      "prior_score": -2.5103,
+      "prior_variance": 0.093945,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/utah/huntsville",
+      "prior_score": -3.0463,
+      "prior_variance": 0.102096,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Ramadugu",
+      "path": "asia/india/andhrapradesh/ramadugu",
+      "prior_score": -8.4619,
+      "prior_variance": 0.175602,
+      "prior_n": 13
+    }
+  ]
+}

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tanunda.jpg
 latitude: -34.600905
 loc_type: city
 longitude: 138.890809
-score: 0.58
+score: 0.53
 title: Barossa Valley
 type: location
 ---

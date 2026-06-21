@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Uwajima_Bay.JPG
 latitude: 33.223231
 loc_type: city
 longitude: 132.560651
-score: 0.52
+score: 0.43
 title: Uwajima
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castle_Square_(22346p).jpg
 latitude: 52.233374
 loc_type: city
 longitude: 21.071149
-score: 0.61
+score: 0.5
 title: Warsaw
 type: location
 ---

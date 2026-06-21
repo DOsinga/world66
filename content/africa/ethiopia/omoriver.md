@@ -5,7 +5,7 @@ latitude: 5.515121
 longitude: 36.176738
 title: Omo River
 type: location
-score: 0.4
+score: 0.35
 loc_type: city
 ---
 

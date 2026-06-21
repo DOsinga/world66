@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Qufu
 title: Qufu
 type: location
+score: 0.48
 ---
 
 Qufu is the hometown of Confucius, and for twenty-five centuries the Kong family — his direct descendants — have lived here in the same mansion, tending the same temple, and burying their dead in the same forest cemetery. The result is one of the strangest and most moving sites in China: a living aristocratic estate that has outlasted every dynasty, every revolution, and every attempt to bury its founder's ideas. The Three Kong Sites — the Temple of Confucius, the Kong Family Mansion, and the Kong Forest — are UNESCO-listed together and genuinely warrant the designation.

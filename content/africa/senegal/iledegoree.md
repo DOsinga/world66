@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:C%C3%B4tes_de_l%27%C3%AEle
 latitude: 14.667205
 loc_type: city
 longitude: -17.398356
-score: 0.61
+score: 0.5
 title: Ile de Gorée
 type: location
 ---

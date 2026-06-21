@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20080507_1708MESZ_Schloss_
 latitude: 47.585965
 loc_type: city
 longitude: 9.142877
-score: 0.57
+score: 0.47
 title: Thurgau
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 12.091893
 loc_type: city
 longitude: 75.195176
-score: 0.35
+score: 0.29
 title: Payyanur
 type: location
 image: payyanur.jpg

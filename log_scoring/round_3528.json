@@ -1,0 +1,200 @@
+{
+  "round": 3528,
+  "timestamp": "2026-06-13T23:00:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Great Barrier Reef",
+      "path": "australiaandpacific/australia/queensland/greatbarrierreef",
+      "prior_score": 12.1815,
+      "prior_variance": 0.37276,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "The Gal\u00e1pagos Islands",
+      "path": "southamerica/ecuador/galapagosislands/theislands",
+      "prior_score": 13.0767,
+      "prior_variance": 0.69788,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Durmitor National Park",
+      "path": "europe/montenegro/dormitor",
+      "prior_score": 5.2919,
+      "prior_variance": 0.129132,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Perast",
+      "path": "europe/montenegro/perast",
+      "prior_score": 6.0859,
+      "prior_variance": 0.15212,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Qaqortoq",
+      "path": "northamerica/greenland/qaqortoq",
+      "prior_score": -0.0404,
+      "prior_variance": 0.159168,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "S'Arenal",
+      "path": "europe/spain/balearicislands/mallorca/arenal",
+      "prior_score": 2.0672,
+      "prior_variance": 0.122409,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Portsmouth",
+      "path": "europe/unitedkingdom/england/south_east/portsmouth",
+      "prior_score": -0.1079,
+      "prior_variance": 0.131011,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Clonmel",
+      "path": "europe/ireland/clonmel",
+      "prior_score": -1.1009,
+      "prior_variance": 0.132377,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Calais",
+      "path": "europe/france/nord/calais",
+      "prior_score": -2.578,
+      "prior_variance": 0.115736,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Neretva",
+      "path": "europe/croatia/neretva",
+      "prior_score": -2.8795,
+      "prior_variance": 0.159535,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Armidale",
+      "path": "australiaandpacific/australia/newsouthwales/armidale",
+      "prior_score": -2.1921,
+      "prior_variance": 0.101425,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Frankenmuth",
+      "path": "northamerica/unitedstates/michigan/frankenmuth",
+      "prior_score": -0.1482,
+      "prior_variance": 0.116923,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Longueuil",
+      "path": "northamerica/canada/quebec/longueuil",
+      "prior_score": -3.2956,
+      "prior_variance": 0.124667,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/maine/augusta",
+      "prior_score": -3.3416,
+      "prior_variance": 0.117812,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/oregon/albany",
+      "prior_score": -4.1762,
+      "prior_variance": 0.119587,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Broken Arrow",
+      "path": "northamerica/unitedstates/oklahoma/broken_arrow",
+      "prior_score": -5.5831,
+      "prior_variance": 0.141659,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/delaware/dover",
+      "prior_score": -3.7697,
+      "prior_variance": 0.142674,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Deogad",
+      "path": "asia/india/maharashtra/konkan/deogad",
+      "prior_score": -4.0236,
+      "prior_variance": 0.124251,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Catarman",
+      "path": "asia/philippines/samarisland/catarman__samar_is",
+      "prior_score": -3.0795,
+      "prior_variance": 0.112736,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Pathankot",
+      "path": "asia/india/punjab/pathankot",
+      "prior_score": -4.3318,
+      "prior_variance": 0.124954,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Arbil",
+      "path": "asia/iraq/arbil",
+      "prior_score": -4.0398,
+      "prior_variance": 0.157846,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Yaound\u00e9",
+      "path": "africa/cameroon/yaound",
+      "prior_score": -3.8022,
+      "prior_variance": 0.10872,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Susanville",
+      "path": "northamerica/unitedstates/california/shastacascade/susanville",
+      "prior_score": -4.8519,
+      "prior_variance": 0.138013,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Chaparral",
+      "path": "northamerica/unitedstates/newmexico/chaparral",
+      "prior_score": -7.5378,
+      "prior_variance": 0.220414,
+      "prior_n": 11
+    }
+  ]
+}

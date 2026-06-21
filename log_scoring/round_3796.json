@@ -1,0 +1,200 @@
+{
+  "round": 3796,
+  "timestamp": "2026-06-13T23:20:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Valley of Flowers",
+      "path": "asia/india/uttaranchal/valley_of_flowers",
+      "prior_score": 4.9747,
+      "prior_variance": 0.129072,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Amorgos",
+      "path": "europe/greece/amorgos",
+      "prior_score": 6.2915,
+      "prior_variance": 0.143258,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Keswick",
+      "path": "europe/unitedkingdom/england/lakedistrict/keswick",
+      "prior_score": 4.9151,
+      "prior_variance": 0.125157,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Arusha",
+      "path": "africa/tanzania/arusha",
+      "prior_score": 3.2442,
+      "prior_variance": 0.114686,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Grand Etang Forest Reserve",
+      "path": "northamerica/thecaribbean/grenada/grandetangforestreserve",
+      "prior_score": 2.0358,
+      "prior_variance": 0.121516,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Castries",
+      "path": "northamerica/saintlucia/castries",
+      "prior_score": 3.6074,
+      "prior_variance": 0.136823,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Tutuila",
+      "path": "australiaandpacific/americansamoa/tutuila",
+      "prior_score": 1.5097,
+      "prior_variance": 0.125093,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Haghpat",
+      "path": "europe/armenia/haghpat",
+      "prior_score": 2.0143,
+      "prior_variance": 0.105472,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "P\u00e9zenas",
+      "path": "europe/france/midi/languedoc/pezenas",
+      "prior_score": 2.3703,
+      "prior_variance": 0.116304,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_score": 0.8225,
+      "prior_variance": 0.11031,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Konya",
+      "path": "asia/turkey/konya",
+      "prior_score": 1.6179,
+      "prior_variance": 0.109175,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Moji",
+      "path": "asia/japan/kyushu/moji",
+      "prior_score": 1.0404,
+      "prior_variance": 0.111312,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Sisters",
+      "path": "northamerica/unitedstates/oregon/sisters",
+      "prior_score": 0.4214,
+      "prior_variance": 0.104219,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Point Pelee and Pelee Island",
+      "path": "northamerica/canada/ontario/point_pelee_and_pelee_island",
+      "prior_score": -0.8696,
+      "prior_variance": 0.126387,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Saranac Lake",
+      "path": "northamerica/unitedstates/newyorkstate/saranac_lake",
+      "prior_score": -1.2641,
+      "prior_variance": 0.114325,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Panama City Beach",
+      "path": "northamerica/unitedstates/florida/panama_city_beach",
+      "prior_score": 1.5735,
+      "prior_variance": 0.112394,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Williams",
+      "path": "northamerica/unitedstates/arizona/williams",
+      "prior_score": -1.0333,
+      "prior_variance": 0.114349,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Belem",
+      "path": "southamerica/brazil/belem",
+      "prior_score": 0.0216,
+      "prior_variance": 0.107106,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Magaluf",
+      "path": "europe/spain/balearicislands/mallorca/magaluf",
+      "prior_score": 0.235,
+      "prior_variance": 0.126682,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Gotska Sand\u00f6n",
+      "path": "europe/sweden/gotska_sandn",
+      "prior_score": -1.2236,
+      "prior_variance": 0.139532,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Makati",
+      "path": "asia/philippines/makati",
+      "prior_score": -1.9784,
+      "prior_variance": 0.110894,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/georgia/augusta",
+      "prior_score": -2.3753,
+      "prior_variance": 0.114474,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Col\u00f3n",
+      "path": "northamerica/panama/colon",
+      "prior_score": -3.9168,
+      "prior_variance": 0.139134,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Pagadian City",
+      "path": "asia/philippines/pagadiancity",
+      "prior_score": -3.5919,
+      "prior_variance": 0.11671,
+      "prior_n": 12
+    }
+  ]
+}

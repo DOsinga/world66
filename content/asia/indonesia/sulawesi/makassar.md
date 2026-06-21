@@ -6,7 +6,7 @@ latitude: -5.1348
 longitude: 119.4124
 title: Makassar
 type: location
-score: 0.46
+score: 0.4
 loc_type: city
 ---
 

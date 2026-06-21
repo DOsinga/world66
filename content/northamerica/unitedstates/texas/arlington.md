@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arlington_June_2020_1_(AT%
 latitude: 32.7356
 loc_type: city
 longitude: -97.1071
-score: 0.37
+score: 0.3
 title: Arlington
 type: location
 ---

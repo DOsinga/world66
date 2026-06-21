@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/127339305@N05/21238823983
 latitude: -19.7092
 loc_type: city
 longitude: 63.4426
-score: 0.62
+score: 0.53
 title: Rodrigues
 type: location
 ---

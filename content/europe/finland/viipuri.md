@@ -5,7 +5,7 @@ done:
 latitude: 60.71
 loc_type: city
 longitude: 28.75
-score: 0.45
+score: 0.41
 title: Viipuri (Vyborg)
 type: location
 image: viipuri.jpg

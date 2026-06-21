@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Liège,_uitzicht_vanaf_Mon
 latitude: 50.6453
 loc_type: city
 longitude: 5.5735
-score: 0.53
+score: 0.44
 title: Liege
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sarnia_Chemical_Valley.JPG
 latitude: 42.974382
 loc_type: city
 longitude: -82.403533
-score: 0.34
+score: 0.3
 title: Sarnia
 type: location
 ---

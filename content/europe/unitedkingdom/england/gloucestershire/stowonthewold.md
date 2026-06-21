@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Market_Square_-_Stow_on_th
 latitude: 51.930343
 loc_type: city
 longitude: -1.723015
-score: 0.62
+score: 0.51
 title: Stow-on-the-Wold
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_Oudtshoorn,_South_
 latitude: -33.590295
 loc_type: city
 longitude: 22.204206
-score: 0.55
+score: 0.45
 title: Oudtshoorn
 type: location
 ---

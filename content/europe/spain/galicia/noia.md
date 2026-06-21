@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Noia_Galicia_Concello_2006
 latitude: 42.7851
 loc_type: city
 longitude: -8.8877
-score: 0.51
+score: 0.43
 title: Noia
 type: location
 ---

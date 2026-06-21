@@ -5,7 +5,7 @@ done:
 latitude: 58.5037
 loc_type: city
 longitude: 13.1576
-score: 0.42
+score: 0.38
 sources:
 - https://en.wikipedia.org/wiki/Lidk%C3%B6ping
 title: Lidköping

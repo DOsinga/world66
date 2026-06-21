@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/8624431@N08/4010220967
 latitude: 30.1798
 loc_type: city
 longitude: 66.975
-score: 0.27
+score: 0.22
 title: Quetta
 type: location
 ---

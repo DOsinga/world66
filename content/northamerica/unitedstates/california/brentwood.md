@@ -5,7 +5,7 @@ done:
 latitude: 37.9318
 loc_type: city
 longitude: -121.696
-score: 0.34
+score: 0.25
 title: Brentwood
 type: location
 image: brentwood.jpg

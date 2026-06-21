@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Heber_Valley_Historic_Rail
 latitude: 40.5065
 loc_type: city
 longitude: -111.4133
-score: 0.48
+score: 0.39
 title: Heber City
 type: location
 ---

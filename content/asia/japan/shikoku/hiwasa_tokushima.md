@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Front_of_the_Hiwasa_statio
 latitude: 33.7284
 loc_type: city
 longitude: 134.5353
-score: 0.51
+score: 0.42
 title: Hiwasa
 type: location
 ---

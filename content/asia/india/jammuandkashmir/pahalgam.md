@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pahalgam_Valley.jpg
 latitude: 34.014486
 loc_type: city
 longitude: 75.328516
-score: 0.6
+score: 0.52
 title: Pahalgam
 type: location
 ---

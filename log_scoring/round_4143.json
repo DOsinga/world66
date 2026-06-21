@@ -1,0 +1,200 @@
+{
+  "round": 4143,
+  "timestamp": "2026-06-13T23:46:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ephesus",
+      "path": "asia/turkey/ephesus",
+      "prior_score": 8.6374,
+      "prior_variance": 0.177946,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Guanajuato",
+      "path": "northamerica/mexico/guanajuato",
+      "prior_score": 8.5218,
+      "prior_variance": 0.192585,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/northeastflorida/staugustine",
+      "prior_score": 2.8027,
+      "prior_variance": 0.170903,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Port Douglas",
+      "path": "australiaandpacific/australia/queensland/port_douglas",
+      "prior_score": 4.4152,
+      "prior_variance": 0.100998,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Springbrook",
+      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
+      "prior_score": 1.8983,
+      "prior_variance": 0.100511,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Shigatse",
+      "path": "asia/china/tibet/shigatse",
+      "prior_score": 2.9365,
+      "prior_variance": 0.112021,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Braunschweig",
+      "path": "europe/germany/lowersaxony/braunschweig",
+      "prior_score": -1.1244,
+      "prior_variance": 0.099013,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_score": 2.1397,
+      "prior_variance": 0.109591,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Weihai",
+      "path": "asia/china/shandong_province/weihai",
+      "prior_score": -1.8826,
+      "prior_variance": 0.09762,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Lethbridge",
+      "path": "northamerica/canada/alberta/lethbridge",
+      "prior_score": -2.8286,
+      "prior_variance": 0.111056,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "The Woodlands",
+      "path": "northamerica/unitedstates/texas/the_woodlands",
+      "prior_score": -4.5032,
+      "prior_variance": 0.103364,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Yanji",
+      "path": "asia/china/jilin/yanji",
+      "prior_score": -3.3995,
+      "prior_variance": 0.094737,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Mattawa",
+      "path": "northamerica/canada/ontario/mattawa",
+      "prior_score": -5.2243,
+      "prior_variance": 0.120554,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Myllykoski",
+      "path": "europe/finland/myllykoski",
+      "prior_score": -6.1008,
+      "prior_variance": 0.15756,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Maykop",
+      "path": "europe/russia/maykop",
+      "prior_score": -4.3114,
+      "prior_variance": 0.107888,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Liaoyuan",
+      "path": "asia/china/jilin/liaoyuan",
+      "prior_score": -6.0212,
+      "prior_variance": 0.141254,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Zvornik",
+      "path": "europe/bosniaandherzegovina/zvornik",
+      "prior_score": -5.0973,
+      "prior_variance": 0.114828,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Brcko District",
+      "path": "europe/bosniaandherzegovina/brcko_district",
+      "prior_score": -3.6008,
+      "prior_variance": 0.120762,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "R\u00edo Branco",
+      "path": "southamerica/uruguay/rio_branco_urugua",
+      "prior_score": -5.9175,
+      "prior_variance": 0.141516,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Blantyre",
+      "path": "africa/malawi/blantyre",
+      "prior_score": -4.4683,
+      "prior_variance": 0.119145,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Bujumbura",
+      "path": "africa/burundi/bujumbura",
+      "prior_score": -4.8691,
+      "prior_variance": 0.137392,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Steubenville",
+      "path": "northamerica/unitedstates/ohio/steubenville",
+      "prior_score": -5.7563,
+      "prior_variance": 0.120589,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Caloocan",
+      "path": "asia/philippines/caloocan",
+      "prior_score": -5.5136,
+      "prior_variance": 0.131713,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Darra Adam Khel",
+      "path": "asia/pakistan/darraadamkhel",
+      "prior_score": -10.4268,
+      "prior_variance": 0.275802,
+      "prior_n": 13
+    }
+  ]
+}

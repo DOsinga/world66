@@ -4,7 +4,7 @@ done:
 latitude: 17.0435
 loc_type: city
 longitude: 73.3561
-score: 0.26
+score: 0.15
 title: Madhegaon Kond
 type: location
 ---

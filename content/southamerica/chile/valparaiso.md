@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Historic_Quarter_of_the_Se
 latitude: -32.597609
 loc_type: city
 longitude: -70.852975
-score: 0.69
+score: 0.57
 title: Valparaiso
 type: location
 ---

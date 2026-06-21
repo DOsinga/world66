@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:PL_-_Sandomierz_-_zamek_-_
 latitude: 50.679307
 loc_type: city
 longitude: 21.749506
-score: 0.53
+score: 0.47
 title: Sandomierz
 type: location
 ---

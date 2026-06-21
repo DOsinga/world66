@@ -1,200 +1,200 @@
 {
   "round": 2325,
-  "timestamp": "2026-04-13T16:31:29",
+  "timestamp": "2026-06-13T21:34:00",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Pensacola Beach",
-      "path": "northamerica/unitedstates/florida/pensacola/pensacola_beach",
-      "prior_score": 1.4747,
-      "prior_variance": 0.229325,
-      "prior_n": 6
+      "title": "Stamsund",
+      "path": "europe/norway/lofotenislands/stamsund",
+      "prior_score": 2.425,
+      "prior_variance": 0.267897,
+      "prior_n": 7
     },
     {
       "rank": 2,
-      "title": "Guam",
-      "path": "australiaandpacific/guam",
-      "prior_score": 1.6981,
-      "prior_variance": 0.2548,
-      "prior_n": 6
+      "title": "Arrecife",
+      "path": "europe/spain/canaryislands/lanzarote/arrecife",
+      "prior_score": 2.8441,
+      "prior_variance": 0.158253,
+      "prior_n": 8
     },
     {
       "rank": 3,
-      "title": "Mission Beach",
-      "path": "australiaandpacific/australia/queensland/missionbeach",
-      "prior_score": 2.2154,
-      "prior_variance": 0.224827,
-      "prior_n": 6
+      "title": "Tasiilaq",
+      "path": "northamerica/greenland/tasiilaq",
+      "prior_score": 1.9273,
+      "prior_variance": 0.202635,
+      "prior_n": 7
     },
     {
       "rank": 4,
-      "title": "Puerto Escondido",
-      "path": "northamerica/mexico/puertoescondido",
-      "prior_score": 4.1048,
-      "prior_variance": 0.25515,
-      "prior_n": 6
+      "title": "Lima",
+      "path": "southamerica/peru/lima",
+      "prior_score": 5.8949,
+      "prior_variance": 0.221696,
+      "prior_n": 7
     },
     {
       "rank": 5,
-      "title": "The New Forest",
-      "path": "europe/unitedkingdom/england/south_east/the_new_forest",
-      "prior_score": 3.0334,
-      "prior_variance": 0.267889,
-      "prior_n": 6
+      "title": "Yellowknife",
+      "path": "northamerica/canada/northwestterritories/yellowknife",
+      "prior_score": 1.1803,
+      "prior_variance": 0.179612,
+      "prior_n": 8
     },
     {
       "rank": 6,
-      "title": "Cork",
-      "path": "europe/ireland/cork",
-      "prior_score": 4.2821,
-      "prior_variance": 0.240823,
-      "prior_n": 6
+      "title": "Michoac\u00e1n",
+      "path": "northamerica/mexico/michoacan",
+      "prior_score": 0.7808,
+      "prior_variance": 0.241214,
+      "prior_n": 7
     },
     {
       "rank": 7,
-      "title": "Negombo",
-      "path": "asia/srilanka/negombo",
-      "prior_score": 2.2528,
-      "prior_variance": 0.265079,
-      "prior_n": 6
+      "title": "Hammerfest",
+      "path": "europe/norway/hammerfest",
+      "prior_score": 2.1551,
+      "prior_variance": 0.183301,
+      "prior_n": 7
     },
     {
       "rank": 8,
-      "title": "Barra De Navidad",
-      "path": "northamerica/mexico/barradenavidad",
-      "prior_score": 2.2794,
-      "prior_variance": 0.225256,
-      "prior_n": 6
+      "title": "Nordingr\u00e5",
+      "path": "europe/sweden/the_high_coast/nordingr",
+      "prior_score": 0.4875,
+      "prior_variance": 0.181924,
+      "prior_n": 7
     },
     {
       "rank": 9,
-      "title": "Cuenca",
-      "path": "europe/spain/la_mancha/cuenca",
-      "prior_score": 4.2617,
-      "prior_variance": 0.265488,
-      "prior_n": 6
+      "title": "Ybor City",
+      "path": "northamerica/unitedstates/florida/tampabayarea/yborcity",
+      "prior_score": -0.7031,
+      "prior_variance": 0.201846,
+      "prior_n": 8
     },
     {
       "rank": 10,
-      "title": "Sopron",
-      "path": "europe/hungary/sopron",
-      "prior_score": 2.2964,
-      "prior_variance": 0.220275,
-      "prior_n": 6
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/vermont/manchester",
+      "prior_score": 0.6853,
+      "prior_variance": 0.156838,
+      "prior_n": 8
     },
     {
       "rank": 11,
-      "title": "Vinci",
-      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/vinci",
-      "prior_score": 2.2763,
-      "prior_variance": 0.225128,
-      "prior_n": 6
+      "title": "Bennington",
+      "path": "northamerica/unitedstates/vermont/bennington",
+      "prior_score": -0.4009,
+      "prior_variance": 0.17665,
+      "prior_n": 8
     },
     {
       "rank": 12,
-      "title": "Middelburg",
-      "path": "europe/netherlands/middelburg",
-      "prior_score": 1.6041,
-      "prior_variance": 0.140469,
-      "prior_n": 11
+      "title": "Val-David",
+      "path": "northamerica/canada/quebec/valdavid",
+      "prior_score": -0.51,
+      "prior_variance": 0.166646,
+      "prior_n": 8
     },
     {
       "rank": 13,
-      "title": "Namur",
-      "path": "europe/belgium/namur",
-      "prior_score": 2.1329,
-      "prior_variance": 0.198255,
+      "title": "Plymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/plymouth",
+      "prior_score": 0.8263,
+      "prior_variance": 0.21328,
       "prior_n": 7
     },
     {
       "rank": 14,
-      "title": "Folgaria",
-      "path": "europe/italy/trentinoaltoadige/folgaria",
-      "prior_score": 0.6308,
-      "prior_variance": 0.245922,
-      "prior_n": 6
+      "title": "\u00d6resund",
+      "path": "europe/sweden/resund",
+      "prior_score": -0.0738,
+      "prior_variance": 0.162446,
+      "prior_n": 8
     },
     {
       "rank": 15,
-      "title": "Nazareth",
-      "path": "asia/israel/nazareth",
-      "prior_score": 2.3007,
-      "prior_variance": 0.244809,
-      "prior_n": 6
+      "title": "Nizhny Novgorod",
+      "path": "europe/russia/nizhnynovgorod",
+      "prior_score": -0.2231,
+      "prior_variance": 0.196373,
+      "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "Ennis",
-      "path": "europe/ireland/ennis",
-      "prior_score": 2.29,
-      "prior_variance": 0.226131,
-      "prior_n": 6
+      "title": "Poprad",
+      "path": "europe/slovakia/poprad",
+      "prior_score": 0.5901,
+      "prior_variance": 0.173906,
+      "prior_n": 8
     },
     {
       "rank": 17,
-      "title": "Corregidor",
-      "path": "asia/philippines/corregidor",
-      "prior_score": 1.6008,
-      "prior_variance": 0.198518,
+      "title": "Benevento",
+      "path": "europe/italy/campania/benevento",
+      "prior_score": 0.7176,
+      "prior_variance": 0.172817,
       "prior_n": 7
     },
     {
       "rank": 18,
-      "title": "Merritt Island National Wildlife Refuge",
-      "path": "northamerica/unitedstates/florida/merritt_island_nat",
-      "prior_score": 1.0584,
-      "prior_variance": 0.239164,
-      "prior_n": 7
+      "title": "Cengio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cengio",
+      "prior_score": -2.1687,
+      "prior_variance": 0.201468,
+      "prior_n": 8
     },
     {
       "rank": 19,
-      "title": "Fyvie",
-      "path": "europe/unitedkingdom/scotland/fyvie",
-      "prior_score": -1.4905,
-      "prior_variance": 0.248903,
-      "prior_n": 6
+      "title": "Paderborn",
+      "path": "europe/germany/northrhinewestphalia/paderborn",
+      "prior_score": -0.9527,
+      "prior_variance": 0.17106,
+      "prior_n": 7
     },
     {
       "rank": 20,
-      "title": "Lido di Metaponto",
-      "path": "europe/italy/basilicata/lido_di_metaponto",
-      "prior_score": -0.9175,
-      "prior_variance": 0.206506,
-      "prior_n": 6
+      "title": "Sonora",
+      "path": "northamerica/unitedstates/california/goldcountry/sonora",
+      "prior_score": -1.0671,
+      "prior_variance": 0.182466,
+      "prior_n": 7
     },
     {
       "rank": 21,
-      "title": "Sedan",
-      "path": "europe/france/east/champagne/sedan",
-      "prior_score": -0.7974,
-      "prior_variance": 0.213384,
-      "prior_n": 6
+      "title": "Yichang",
+      "path": "asia/china/hubei/yichang",
+      "prior_score": -1.4542,
+      "prior_variance": 0.200065,
+      "prior_n": 7
     },
     {
       "rank": 22,
-      "title": "Bhadrachalam",
-      "path": "asia/india/andhrapradesh/bhadrachalam",
-      "prior_score": -5.4956,
-      "prior_variance": 0.208132,
-      "prior_n": 6
+      "title": "Lingshui",
+      "path": "asia/china/hainanisland/lingshui",
+      "prior_score": -2.815,
+      "prior_variance": 0.169223,
+      "prior_n": 8
     },
     {
       "rank": 23,
-      "title": "Baranovichi",
-      "path": "europe/belarus/baranovichi",
-      "prior_score": -6.1513,
-      "prior_variance": 0.250802,
-      "prior_n": 6
+      "title": "Tucuman",
+      "path": "southamerica/argentina/tucuman",
+      "prior_score": -1.2248,
+      "prior_variance": 0.173532,
+      "prior_n": 7
     },
     {
       "rank": 24,
-      "title": "Nuevo Laredo",
-      "path": "northamerica/mexico/nuevolaredo",
-      "prior_score": -5.0349,
-      "prior_variance": 0.307515,
-      "prior_n": 6
+      "title": "Pagadian City",
+      "path": "asia/philippines/pagadiancity",
+      "prior_score": -3.6728,
+      "prior_variance": 0.164098,
+      "prior_n": 8
     }
   ]
 }

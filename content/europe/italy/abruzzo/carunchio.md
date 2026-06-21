@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Carunchio_panorama.png
 latitude: 41.916634
 loc_type: city
 longitude: 14.526722
-score: 0.41
+score: 0.36
 title: Carunchio
 type: location
 ---

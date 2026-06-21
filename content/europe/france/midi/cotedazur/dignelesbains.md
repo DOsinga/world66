@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Digne-les-Bains_Rue_Juiver
 latitude: 44.091758
 loc_type: city
 longitude: 6.234636
-score: 0.5
+score: 0.43
 sources:
 - https://en.wikipedia.org/wiki/Digne-les-Bains
 title: Digne-les-Bains

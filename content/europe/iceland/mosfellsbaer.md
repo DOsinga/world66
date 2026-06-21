@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2014-04-27_12-14-31_Icelan
 latitude: 64.1675
 loc_type: city
 longitude: -21.6971
-score: 0.43
+score: 0.36
 title: Mosfellsbær
 type: location
 ---

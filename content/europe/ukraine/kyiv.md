@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%B4%D0%B8%D
 latitude: 50.45
 loc_type: city
 longitude: 30.5241
-score: 0.55
+score: 0.51
 title: Kyiv
 type: location
 ---

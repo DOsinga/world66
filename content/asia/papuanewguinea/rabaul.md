@@ -5,7 +5,7 @@ done:
 latitude: -4.198459
 loc_type: city
 longitude: 152.172829
-score: 0.48
+score: 0.41
 title: Rabaul
 type: location
 image: rabaul.jpg

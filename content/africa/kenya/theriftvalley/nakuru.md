@@ -7,7 +7,7 @@ done:
 latitude: -0.3031
 loc_type: city
 longitude: 36.08
-score: 0.6
+score: 0.46
 title: Nakuru
 type: location
 ---

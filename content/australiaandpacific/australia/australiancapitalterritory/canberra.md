@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Canberra_panorama_from_Mou
 latitude: -35.297591
 loc_type: city
 longitude: 149.101268
-score: 0.54
+score: 0.44
 title: Canberra
 type: location
 ---

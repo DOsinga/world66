@@ -7,7 +7,7 @@ done:
 latitude: 13.45535
 loc_type: city
 longitude: -16.575646
-score: 0.44
+score: 0.37
 title: Banjul
 type: location
 ---

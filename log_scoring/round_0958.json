@@ -1,199 +1,199 @@
 {
   "round": 958,
-  "timestamp": "2026-04-12T16:09:17",
+  "timestamp": "2026-06-13T20:03:03",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Paris",
-      "path": "europe/france/paris",
-      "prior_rank": 1,
-      "prior_wins": 414,
-      "prior_n": 18
+      "title": "Valgeranna",
+      "path": "europe/estonia/valgeranna",
+      "prior_score": -6.3078,
+      "prior_variance": 0.458074,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Macau",
-      "path": "asia/china/macau",
-      "prior_rank": 1241,
-      "prior_wins": 38,
+      "title": "Ballincollig",
+      "path": "europe/ireland/ballincollig",
+      "prior_score": -6.032,
+      "prior_variance": 0.555348,
       "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Cuba",
-      "path": "northamerica/cuba",
-      "prior_rank": 3412,
-      "prior_wins": 20,
-      "prior_n": 2
+      "title": "Dieppe",
+      "path": "northamerica/canada/newbrunswick/dieppe",
+      "prior_score": -5.6289,
+      "prior_variance": 0.537574,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Christchurch",
-      "path": "australiaandpacific/newzealand/christchurch",
-      "prior_rank": 1763,
-      "prior_wins": 35,
-      "prior_n": 2
+      "title": "Puyallup",
+      "path": "northamerica/unitedstates/washington/puyallup",
+      "prior_score": -5.477,
+      "prior_variance": 0.447783,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "La Rochelle",
-      "path": "europe/france/midi/aquitaine/larochelle",
-      "prior_rank": 607,
-      "prior_wins": 62,
+      "title": "Clarkston",
+      "path": "northamerica/unitedstates/washington/clarkston",
+      "prior_score": -5.4913,
+      "prior_variance": 0.564857,
       "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Oviedo",
-      "path": "europe/spain/northernspain/oviedo",
-      "prior_rank": 2866,
-      "prior_wins": 44,
+      "title": "Guerrero Negro",
+      "path": "northamerica/mexico/guerreronegro",
+      "prior_score": -5.4165,
+      "prior_variance": 0.583859,
       "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Carmona",
-      "path": "europe/spain/andalucia/carmona",
-      "prior_rank": 3382,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Juiz de Fora",
+      "path": "southamerica/brazil/juiz_de_fora",
+      "prior_score": -7.0455,
+      "prior_variance": 0.53091,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Cala Ratjada",
-      "path": "europe/spain/balearicislands/mallorca/calaratjada",
-      "prior_rank": 2122,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "La Palma",
+      "path": "northamerica/elsalvador/lapalma",
+      "prior_score": -5.0835,
+      "prior_variance": 0.774594,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Santa Eulalia",
-      "path": "europe/spain/balearicislands/ibiza/santaeulalia",
-      "prior_rank": 1573,
-      "prior_wins": 36,
-      "prior_n": 2
+      "title": "Tula",
+      "path": "europe/russia/tula",
+      "prior_score": -8.3259,
+      "prior_variance": 0.582628,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Cashel",
-      "path": "europe/ireland/cashel",
-      "prior_rank": 1259,
-      "prior_wins": 38,
-      "prior_n": 2
+      "title": "Foshan",
+      "path": "asia/china/guangdong/foshan",
+      "prior_score": -6.1264,
+      "prior_variance": 0.473236,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Sopot",
-      "path": "europe/poland/sopot",
-      "prior_rank": 1635,
-      "prior_wins": 54,
-      "prior_n": 3
-    },
-    {
-      "rank": 12,
-      "title": "Toraja Highland",
-      "path": "asia/indonesia/sulawesi/toraja_highland",
-      "prior_rank": 1582,
-      "prior_wins": 36,
+      "title": "Charleroi",
+      "path": "europe/belgium/charleroi",
+      "prior_score": -5.9822,
+      "prior_variance": 0.78532,
       "prior_n": 2
     },
     {
-      "rank": 13,
-      "title": "Tawang",
-      "path": "asia/india/arunachalpradesh/tawang",
-      "prior_rank": 533,
-      "prior_wins": 63,
+      "rank": 12,
+      "title": "Pavlodar",
+      "path": "asia/kazakhstan/pavlodar",
+      "prior_score": -7.6095,
+      "prior_variance": 0.581408,
       "prior_n": 3
     },
     {
+      "rank": 13,
+      "title": "Eldoret",
+      "path": "africa/kenya/theriftvalley/eldoret",
+      "prior_score": -9.0707,
+      "prior_variance": 0.910917,
+      "prior_n": 2
+    },
+    {
       "rank": 14,
-      "title": "Talamanca",
-      "path": "northamerica/costarica/talamanca",
-      "prior_rank": 5729,
-      "prior_wins": 7,
-      "prior_n": 1
+      "title": "Dammam",
+      "path": "asia/saudiarabia/dammam",
+      "prior_score": -7.5144,
+      "prior_variance": 0.786845,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Pohnpei",
-      "path": "australiaandpacific/micronesiafederatedstatesof/pohnpei",
-      "prior_rank": 3427,
-      "prior_wins": 13,
-      "prior_n": 1
+      "title": "Modesto",
+      "path": "northamerica/unitedstates/california/centralvalley/modesto",
+      "prior_score": -9.2915,
+      "prior_variance": 0.890321,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Nainital",
-      "path": "asia/india/uttaranchal/nainital",
-      "prior_rank": 1866,
-      "prior_wins": 52,
+      "title": "Dire dawa",
+      "path": "africa/ethiopia/diredawa",
+      "prior_score": -6.6669,
+      "prior_variance": 0.901314,
       "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Nicaragua",
-      "path": "northamerica/nicaragua",
-      "prior_rank": 5880,
-      "prior_wins": 13,
-      "prior_n": 2
+      "title": "Monrovia",
+      "path": "africa/liberia/monrovia",
+      "prior_score": -6.5099,
+      "prior_variance": 0.518671,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Richmond",
-      "path": "northamerica/canada/britishcolumbia/vancouver/richmond",
-      "prior_rank": 3864,
-      "prior_wins": 24,
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_score": -7.7298,
+      "prior_variance": 0.614954,
       "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "St. Louis",
-      "path": "northamerica/unitedstates/missouri/stlouis",
-      "prior_rank": 5068,
-      "prior_wins": 18,
+      "title": "Smara",
+      "path": "africa/morocco/smara",
+      "prior_score": -6.1619,
+      "prior_variance": 0.621002,
       "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Jharkhand",
-      "path": "asia/india/jharkhand",
-      "prior_rank": 6618,
-      "prior_wins": 10,
+      "title": "Kenema",
+      "path": "africa/sierraleone/kenema",
+      "prior_score": -11.7308,
+      "prior_variance": 0.599238,
       "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Bissau",
-      "path": "africa/guineabissau/bissau",
-      "prior_rank": 6931,
-      "prior_wins": 4,
-      "prior_n": 1
-    },
-    {
-      "rank": 22,
-      "title": "Bay View",
-      "path": "northamerica/unitedstates/wisconsin/milwaukee/bayview",
-      "prior_rank": 6482,
-      "prior_wins": 36,
-      "prior_n": 7
-    },
-    {
-      "rank": 23,
-      "title": "Norman",
-      "path": "northamerica/unitedstates/oklahoma/norman",
-      "prior_rank": 5461,
-      "prior_wins": 16,
+      "title": "Bhagalpur",
+      "path": "asia/india/bihar/bhagalpur",
+      "prior_score": -9.9593,
+      "prior_variance": 0.597238,
       "prior_n": 2
     },
     {
+      "rank": 22,
+      "title": "Bargarh",
+      "path": "asia/india/orissa/bargarh",
+      "prior_score": -8.0369,
+      "prior_variance": 0.601012,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Rourkela",
+      "path": "asia/india/orissa/rourkela",
+      "prior_score": -6.8655,
+      "prior_variance": 0.45832,
+      "prior_n": 3
+    },
+    {
       "rank": 24,
-      "title": "Prague",
-      "path": "northamerica/unitedstates/oklahoma/prague",
-      "prior_rank": 6624,
-      "prior_wins": 20,
+      "title": "Business Hours",
+      "path": "southamerica/chile/travelfacts",
+      "prior_score": -11.6375,
+      "prior_variance": 0.544574,
       "prior_n": 4
     }
   ]

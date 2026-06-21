@@ -1,199 +1,199 @@
 {
   "round": 359,
-  "timestamp": "2026-04-12T09:13:20",
+  "timestamp": "2026-06-13T19:31:34",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Kyoto",
-      "path": "asia/japan/honshu/kyoto",
-      "prior_mu": 31.8741,
-      "prior_sigma": 6.3074,
-      "prior_n": 2
+      "title": "Zug",
+      "path": "europe/switzerland/zug",
+      "prior_score": 3.34,
+      "prior_variance": 2.565246,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Canterbury",
-      "path": "europe/unitedkingdom/england/canterbury",
-      "prior_mu": 23.615,
-      "prior_sigma": 6.0689,
+      "title": "Schwerin",
+      "path": "europe/germany/mecklenburgwesternpomerania/schwerin",
+      "prior_score": 2.0671,
+      "prior_variance": 1.836497,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Ramsau / Dachstein",
-      "path": "europe/austria/ramsaudachstein",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Oristano",
+      "path": "europe/italy/sardinia/oristano",
+      "prior_score": 4.6347,
+      "prior_variance": 1.913984,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "San Vito Lo Capo",
-      "path": "europe/italy/sicily/san_vito_lo_capo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Soria",
+      "path": "europe/spain/soria",
+      "prior_score": 1.2453,
+      "prior_variance": 1.572057,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Sanremo",
-      "path": "europe/italy/liguria/italianriviera/sanremo",
-      "prior_mu": 23.0729,
-      "prior_sigma": 5.994,
+      "title": "Nagahama",
+      "path": "asia/japan/honshu/nagahama",
+      "prior_score": -2.6128,
+      "prior_variance": 1.70562,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Kazbegi",
-      "path": "europe/georgia/kazbegi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Gobustan",
+      "path": "europe/azerbaijan/gobustan",
+      "prior_score": 0.63,
+      "prior_variance": 1.883044,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Antarctica",
-      "path": "antarctica",
-      "prior_mu": 26.3099,
-      "prior_sigma": 6.1015,
+      "title": "Walvis Bay",
+      "path": "africa/namibia/walvisbay",
+      "prior_score": -3.0968,
+      "prior_variance": 2.063114,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Puerto Viejo de Talamanca",
-      "path": "northamerica/costarica/puerto_viejo_de_ta",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Andasibe",
+      "path": "africa/madagascar/andasibe",
+      "prior_score": 4.5414,
+      "prior_variance": 2.852339,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Bumthang",
-      "path": "asia/bhutan/bumthang",
-      "prior_mu": 22.7251,
-      "prior_sigma": 5.8352,
+      "title": "Tissamaharama",
+      "path": "asia/srilanka/tissamaharama",
+      "prior_score": 1.0633,
+      "prior_variance": 1.433392,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Hisaronu",
-      "path": "asia/turkey/hisaronu",
-      "prior_mu": 22.7523,
-      "prior_sigma": 5.7074,
+      "title": "Ja\u00e9n",
+      "path": "europe/spain/andalucia/jaen",
+      "prior_score": -1.4368,
+      "prior_variance": 1.946156,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Varna",
-      "path": "europe/bulgaria/varna",
-      "prior_mu": 23.0729,
-      "prior_sigma": 5.994,
+      "title": "Ponte da Barca",
+      "path": "europe/portugal/ponte_da_barca",
+      "prior_score": 4.1114,
+      "prior_variance": 2.254942,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Gobi Desert",
-      "path": "asia/mongolia/gobidesert",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_score": -4.573,
+      "prior_variance": 1.57793,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Arkhangai",
-      "path": "asia/mongolia/arkhangai",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ostrava",
+      "path": "europe/czechrepublic/ostrava",
+      "prior_score": -4.6877,
+      "prior_variance": 2.094899,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Fort de Soto",
-      "path": "northamerica/unitedstates/florida/tampabayarea/fortdesoto",
-      "prior_mu": 22.9348,
-      "prior_sigma": 5.7292,
+      "title": "Lidk\u00f6ping",
+      "path": "europe/sweden/lidkping",
+      "prior_score": -4.4596,
+      "prior_variance": 1.51074,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Heber City",
-      "path": "northamerica/unitedstates/utah/heber_city",
-      "prior_mu": 22.4987,
-      "prior_sigma": 5.5824,
+      "title": "Cheongju City",
+      "path": "asia/southkorea/cheongju_city",
+      "prior_score": -2.095,
+      "prior_variance": 1.438138,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Louisiana",
-      "path": "northamerica/unitedstates/louisiana",
-      "prior_mu": 22.5213,
-      "prior_sigma": 5.9106,
+      "title": "Zhengding",
+      "path": "asia/china/hebei/zhengding",
+      "prior_score": -1.931,
+      "prior_variance": 2.18186,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Hillcrest",
-      "path": "northamerica/unitedstates/california/sandiego/hillcrest",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Zhangzhou",
+      "path": "asia/china/fujianprovince/zhangzhou",
+      "prior_score": 0.021,
+      "prior_variance": 1.53974,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Osnabr\u00fcck",
-      "path": "europe/germany/osnabrck",
-      "prior_mu": 22.7443,
-      "prior_sigma": 5.9525,
+      "title": "Ellsworth",
+      "path": "northamerica/unitedstates/maine/ellsworth",
+      "prior_score": -3.2855,
+      "prior_variance": 1.489223,
       "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Mandaluyong",
-      "path": "asia/philippines/mandaluyong",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Pauri",
+      "path": "asia/india/uttaranchal/pauri",
+      "prior_score": -2.7212,
+      "prior_variance": 1.379679,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Anand",
-      "path": "asia/india/gujarat/anand",
-      "prior_mu": 22.7169,
-      "prior_sigma": 5.9492,
+      "title": "Tangshan",
+      "path": "asia/china/hebei/tangshan",
+      "prior_score": -5.7792,
+      "prior_variance": 2.316604,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Zanesville",
-      "path": "northamerica/unitedstates/ohio/zanesville",
-      "prior_mu": 22.5285,
-      "prior_sigma": 5.9137,
+      "title": "Springer Mountain",
+      "path": "northamerica/unitedstates/georgia/springermountain",
+      "prior_score": -2.0268,
+      "prior_variance": 2.001592,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Bossier City",
-      "path": "northamerica/unitedstates/louisiana/bossiercity",
-      "prior_mu": 22.2891,
-      "prior_sigma": 5.6227,
+      "title": "Meizhou Island",
+      "path": "asia/china/fujianprovince/meizhouisland",
+      "prior_score": -3.5301,
+      "prior_variance": 1.313083,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Nueva Rosita",
-      "path": "northamerica/mexico/nuevarosita",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Neretva",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon/neretva",
+      "prior_score": -0.8934,
+      "prior_variance": 2.212166,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Skenderaj",
-      "path": "europe/serbia/kosovoprovince/skenderaj",
-      "prior_mu": 22.7024,
-      "prior_sigma": 5.9474,
+      "title": "Malaita",
+      "path": "australiaandpacific/solomonislands/malaita",
+      "prior_score": -5.31,
+      "prior_variance": 1.492056,
       "prior_n": 1
     }
   ]

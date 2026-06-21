@@ -1,200 +1,200 @@
 {
   "round": 1915,
-  "timestamp": "2026-04-13T15:53:44",
+  "timestamp": "2026-06-13T21:00:43",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Lijiang",
-      "path": "asia/china/yunnanprovince/lijiang",
-      "prior_score": 6.7698,
-      "prior_variance": 0.353528,
-      "prior_n": 4
+      "title": "Colossi of Memnon",
+      "path": "africa/egypt/colossiofmemnon",
+      "prior_score": 4.2161,
+      "prior_variance": 0.25266,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Harvard Glacier",
-      "path": "northamerica/unitedstates/alaska/harvard_glacier",
-      "prior_score": 1.4009,
-      "prior_variance": 0.300953,
-      "prior_n": 5
+      "title": "Chartres",
+      "path": "europe/france/centre/chartres",
+      "prior_score": 4.9143,
+      "prior_variance": 0.269768,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Lake Assal",
-      "path": "africa/djibouti/lakeassal",
-      "prior_score": -2.1892,
-      "prior_variance": 0.358225,
-      "prior_n": 5
+      "title": "Kolkata",
+      "path": "asia/india/kolkata",
+      "prior_score": 3.0091,
+      "prior_variance": 0.190127,
+      "prior_n": 7
     },
     {
       "rank": 4,
-      "title": "Yalta",
-      "path": "europe/ukraine/crimea/yalta",
-      "prior_score": 0.3692,
-      "prior_variance": 0.294445,
-      "prior_n": 5
+      "title": "Mtskheta",
+      "path": "europe/georgia/mtskheta",
+      "prior_score": 4.1759,
+      "prior_variance": 0.242695,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Kalbarri",
-      "path": "australiaandpacific/australia/westernaustralia/kalbarri",
-      "prior_score": 1.1947,
-      "prior_variance": 0.264747,
-      "prior_n": 5
+      "title": "Bay of Islands",
+      "path": "australiaandpacific/newzealand/north_island/northland/bayofislands",
+      "prior_score": 6.5174,
+      "prior_variance": 0.244861,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Montaione",
-      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montaione",
-      "prior_score": 1.2402,
-      "prior_variance": 0.330797,
-      "prior_n": 5
+      "title": "Taos",
+      "path": "northamerica/unitedstates/newmexico/taos",
+      "prior_score": 5.0992,
+      "prior_variance": 0.235173,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Cambados",
-      "path": "europe/spain/galicia/cambados",
-      "prior_score": 2.548,
-      "prior_variance": 0.25774,
-      "prior_n": 5
+      "title": "Novigrad",
+      "path": "europe/croatia/novigrad",
+      "prior_score": 4.4345,
+      "prior_variance": 0.220898,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Oropesa",
-      "path": "europe/spain/la_mancha/oropesa",
-      "prior_score": -1.0861,
-      "prior_variance": 0.253949,
-      "prior_n": 5
+      "title": "Sikinos",
+      "path": "europe/greece/sikinos",
+      "prior_score": 4.0383,
+      "prior_variance": 0.259906,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Schiermonnikoog",
-      "path": "europe/netherlands/waddenislands/schiermonnikoog_is/schiermonnikoog",
-      "prior_score": 1.4058,
-      "prior_variance": 0.159351,
-      "prior_n": 9
+      "title": "Milazzo",
+      "path": "europe/italy/sicily/milazzo",
+      "prior_score": 2.6047,
+      "prior_variance": 0.246428,
+      "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "Kuressaare",
-      "path": "europe/estonia/kuressaare",
-      "prior_score": 2.2382,
-      "prior_variance": 0.270077,
-      "prior_n": 5
+      "title": "Brindisi",
+      "path": "europe/italy/puglia/brindisi",
+      "prior_score": 1.5198,
+      "prior_variance": 0.225813,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Vard\u00f8",
-      "path": "europe/norway/vardo",
-      "prior_score": -4.9098,
-      "prior_variance": 0.615811,
-      "prior_n": 4
+      "title": "Corbett National Park",
+      "path": "asia/india/uttaranchal/corbett_national_park",
+      "prior_score": 3.3397,
+      "prior_variance": 0.25789,
+      "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Stockbridge",
-      "path": "northamerica/unitedstates/massachusetts/stockbridge",
-      "prior_score": 0.9556,
-      "prior_variance": 0.296521,
-      "prior_n": 4
+      "title": "Derry",
+      "path": "europe/unitedkingdom/northernireland/derry",
+      "prior_score": 2.8494,
+      "prior_variance": 0.250335,
+      "prior_n": 6
     },
     {
       "rank": 13,
-      "title": "Tetonia",
-      "path": "northamerica/unitedstates/idaho/teton_valley/tetonia",
-      "prior_score": -1.0118,
-      "prior_variance": 0.297538,
-      "prior_n": 5
+      "title": "Selfoss",
+      "path": "europe/iceland/selfoss",
+      "prior_score": 1.4016,
+      "prior_variance": 0.235353,
+      "prior_n": 7
     },
     {
       "rank": 14,
-      "title": "Paran\u00e1",
-      "path": "southamerica/argentina/parana",
-      "prior_score": -1.2706,
-      "prior_variance": 0.256483,
-      "prior_n": 5
+      "title": "Hverager\u00f0i",
+      "path": "europe/iceland/hveragerdi",
+      "prior_score": 3.3962,
+      "prior_variance": 0.243601,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Fort de Soto",
-      "path": "northamerica/unitedstates/florida/tampabayarea/fortdesoto",
-      "prior_score": -0.3879,
-      "prior_variance": 0.356096,
-      "prior_n": 5
+      "title": "Semarang",
+      "path": "asia/indonesia/java/semarang",
+      "prior_score": -0.5859,
+      "prior_variance": 0.218915,
+      "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Khujhirt",
-      "path": "asia/mongolia/khujhirt",
-      "prior_score": -2.2163,
-      "prior_variance": 0.344493,
-      "prior_n": 5
+      "title": "Moka",
+      "path": "africa/mauritius/moka",
+      "prior_score": -0.6488,
+      "prior_variance": 0.216316,
+      "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "McDowell County",
-      "path": "northamerica/unitedstates/northcarolina/mcdowell_county",
-      "prior_score": -2.784,
-      "prior_variance": 0.249859,
-      "prior_n": 5
+      "title": "Eureka, CA",
+      "path": "northamerica/unitedstates/california/eureka_ca",
+      "prior_score": -1.6741,
+      "prior_variance": 0.209326,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Dachau",
-      "path": "europe/germany/bavaria/dachau",
-      "prior_score": -1.3382,
-      "prior_variance": 0.252968,
-      "prior_n": 5
+      "title": "Saint-\u00c9tienne",
+      "path": "europe/france/alpes/stetienne",
+      "prior_score": -0.9209,
+      "prior_variance": 0.202676,
+      "prior_n": 7
     },
     {
       "rank": 19,
-      "title": "Crewkerne",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/crewkerne",
-      "prior_score": -2.2549,
-      "prior_variance": 0.374134,
-      "prior_n": 5
+      "title": "Bantayan",
+      "path": "asia/philippines/cebu/bantayan",
+      "prior_score": 0.1912,
+      "prior_variance": 0.303568,
+      "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Manchester",
-      "path": "northamerica/unitedstates/newhampshire/manchester",
-      "prior_score": -3.1488,
-      "prior_variance": 0.327021,
-      "prior_n": 4
+      "title": "Freetown Peninsula",
+      "path": "africa/sierraleone/freetown_peninsula",
+      "prior_score": -1.426,
+      "prior_variance": 0.266594,
+      "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "Osnabr\u00fcck",
-      "path": "europe/germany/lowersaxony/osnabrck",
-      "prior_score": -0.1502,
-      "prior_variance": 0.253024,
-      "prior_n": 5
+      "title": "Gracias",
+      "path": "northamerica/honduras/gracias",
+      "prior_score": -1.4286,
+      "prior_variance": 0.258204,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Viersen",
-      "path": "europe/germany/northrhinewestphalia/viersen",
-      "prior_score": -3.1055,
-      "prior_variance": 0.270225,
+      "title": "Chico",
+      "path": "northamerica/unitedstates/california/shastacascade/chico",
+      "prior_score": -3.5679,
+      "prior_variance": 0.246721,
       "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Ziemia Chojnicka",
-      "path": "europe/poland/ziemia_chojnicka",
-      "prior_score": -3.0771,
-      "prior_variance": 0.330042,
-      "prior_n": 5
+      "title": "Broken Bow",
+      "path": "northamerica/unitedstates/oklahoma/broken_bow",
+      "prior_score": -2.733,
+      "prior_variance": 0.180057,
+      "prior_n": 7
     },
     {
       "rank": 24,
-      "title": "Germany",
-      "path": "europe/germany",
-      "prior_score": -0.0447,
-      "prior_variance": 0.297787,
-      "prior_n": 7
+      "title": "Annobon",
+      "path": "africa/equatorialguinea/annobon",
+      "prior_score": -6.7994,
+      "prior_variance": 0.26974,
+      "prior_n": 6
     }
   ]
 }

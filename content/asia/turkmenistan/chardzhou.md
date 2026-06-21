@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%D0%A6%D0%B5%D0%BD%D1%82%D
 latitude: 39.087278
 loc_type: city
 longitude: 63.572502
-score: 0.24
+score: 0.21
 title: Chardzhou
 type: location
 ---

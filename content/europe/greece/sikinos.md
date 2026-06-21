@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%CE%9D%CE%B1%CF%8C%CF%82_%
 latitude: 36.6756
 loc_type: city
 longitude: 25.1162
-score: 0.62
+score: 0.54
 title: Sikinos
 type: location
 ---

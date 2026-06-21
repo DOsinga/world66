@@ -5,7 +5,7 @@ done:
 latitude: 34.2167
 loc_type: city
 longitude: 7.9667
-score: 0.53
+score: 0.47
 sources:
 - https://en.wikipedia.org/wiki/Chebika
 title: Chebika

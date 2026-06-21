@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kitesurfer_Tarifa_Beach.jp
 latitude: 36.012908
 loc_type: city
 longitude: -5.605021
-score: 0.63
+score: 0.54
 title: Tarifa
 type: location
 ---

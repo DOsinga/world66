@@ -1,200 +1,200 @@
 {
   "round": 298,
-  "timestamp": "2026-04-12T09:10:39",
+  "timestamp": "2026-06-13T19:28:38",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Nepal",
-      "path": "asia/nepal",
-      "prior_mu": 22.861,
-      "prior_sigma": 5.9669,
-      "prior_n": 1
+      "title": "Guilin",
+      "path": "asia/china/guangxi/guilin",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Wyoming",
-      "path": "northamerica/unitedstates/wyoming",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Black Forest",
+      "path": "europe/germany/badenwrttemberg/blackforest",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Sossusvlei",
-      "path": "africa/namibia/sossusvlei",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "R\u00fcgen",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Saint Barth\u00e9lemy",
-      "path": "northamerica/saintbartholomy",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "B\u00fazios",
+      "path": "southamerica/brazil/buzios",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Tarragona",
-      "path": "europe/spain/catalonia/tarragona",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Andong",
+      "path": "asia/southkorea/andong",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "San Marino",
-      "path": "europe/sanmarino",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Wiesbaden",
+      "path": "europe/germany/hessen/wiesbaden",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Colorado National Monument",
-      "path": "northamerica/unitedstates/colorado/colorado_national",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Berkeley",
+      "path": "northamerica/unitedstates/california/berkeley",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Togian Islands",
-      "path": "asia/indonesia/sulawesi/togian_islands",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Zhangzhou",
+      "path": "asia/china/fujianprovince/zhangzhou",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Altm\u00fchl Valley",
-      "path": "europe/germany/bavaria/altmuhl",
-      "prior_mu": 22.7207,
-      "prior_sigma": 5.948,
-      "prior_n": 1
+      "title": "Johor Bahru",
+      "path": "asia/malaysia/johorbahru",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Golan Heights",
-      "path": "asia/israel/golanheights",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Huy",
+      "path": "europe/belgium/huy",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Dieppe",
-      "path": "europe/france/normandybrittany/dieppe",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Alaverdi",
+      "path": "europe/armenia/alaverdi",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Pamilacan Island",
-      "path": "asia/philippines/bohol/pamilacanisland",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Woodinville",
+      "path": "northamerica/unitedstates/washington/woodinville",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Ribe",
-      "path": "europe/denmark/ribe",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/vermont/wilmington",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Quezon Province",
-      "path": "asia/philippines/quezon_province",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Marktl am Inn",
+      "path": "europe/germany/bavaria/marktl_am_inn",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Lake Vico",
-      "path": "europe/italy/lazio/lakevico",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Dixcove",
+      "path": "africa/ghana/dixcove",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Hanko",
-      "path": "europe/finland/hanko",
-      "prior_mu": 22.0999,
-      "prior_sigma": 5.7542,
-      "prior_n": 1
+      "title": "Sarnia",
+      "path": "northamerica/canada/ontario/sarnia",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Antillanca",
-      "path": "southamerica/chile/antillanca",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Aylmer",
+      "path": "northamerica/canada/quebec/aylmer",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Huy",
-      "path": "europe/belgium/huy",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Rainbow",
+      "path": "australiaandpacific/australia/victoria/rainbow",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Naufrage",
-      "path": "northamerica/canada/princeedwardisland/naufrage",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Balangir",
+      "path": "asia/india/orissa/balangir",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Pristina",
-      "path": "europe/serbiaandmontenegro/kosovoprovince/pristina",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Suifenhe",
+      "path": "asia/china/heilongjiang/suifenhe",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Aneho",
-      "path": "africa/togo/aneho",
-      "prior_mu": 22.7218,
-      "prior_sigma": 5.9498,
-      "prior_n": 1
+      "title": "Stockton",
+      "path": "northamerica/unitedstates/california/centralvalley/stockton",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Cabinda",
-      "path": "africa/angola/cabinda",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Tindouf",
+      "path": "africa/algeria/tindouf",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Hanumangarh",
-      "path": "asia/india/rajasthan/hanumangarh",
-      "prior_mu": 22.7087,
-      "prior_sigma": 5.9482,
-      "prior_n": 1
+      "title": "Mahdishar",
+      "path": "asia/iran/mahdishar",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Sebha",
-      "path": "africa/libya/sebha",
-      "prior_mu": 19.1859,
-      "prior_sigma": 5.2586,
-      "prior_n": 2
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

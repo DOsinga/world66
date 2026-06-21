@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Hermosillo_y_K
 latitude: 29.094821
 loc_type: city
 longitude: -110.96922
-score: 0.36
+score: 0.31
 title: Hermosillo
 type: location
 ---

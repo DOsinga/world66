@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Balneario_de_las_monjas_en
 latitude: 37.820004
 loc_type: city
 longitude: -0.786599
-score: 0.49
+score: 0.4
 title: Lo Pagán
 type: location
 ---

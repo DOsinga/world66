@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/43405950@N07/52810330019
 latitude: 51.7855
 loc_type: city
 longitude: 11.152
-score: 0.59
+score: 0.51
 title: Quedlinburg
 type: location
 ---

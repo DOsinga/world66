@@ -5,7 +5,7 @@ latitude: 13.5214
 longitude: 120.9734
 title: Sabang Beach
 type: location
-score: 0.54
+score: 0.52
 loc_type: feature
 ---
 

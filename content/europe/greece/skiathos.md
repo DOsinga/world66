@@ -8,13 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Skiathos_10_-_panoramio.jp
 latitude: 39.169298
 loc_type: city
 longitude: 23.455251
-score: 0.74
+score: 0.62
 sources:
-  - https://en.wikipedia.org/wiki/Skiathos
-  - https://en.wikipedia.org/wiki/Skiathos_(town)
-  - https://en.wikipedia.org/wiki/Skiathos_Castle
-  - https://en.wikipedia.org/wiki/Evangelistria_Monastery,_Skiathos
-  - https://en.wikipedia.org/wiki/Koukounaries
+- https://en.wikipedia.org/wiki/Skiathos
+- https://en.wikipedia.org/wiki/Skiathos_(town)
+- https://en.wikipedia.org/wiki/Skiathos_Castle
+- https://en.wikipedia.org/wiki/Evangelistria_Monastery,_Skiathos
+- https://en.wikipedia.org/wiki/Koukounaries
 title: Skiathos
 type: location
 ---

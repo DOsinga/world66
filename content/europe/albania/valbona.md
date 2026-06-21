@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Valbona_Valley_National_Park
 title: Valbona Valley
 type: location
+score: 0.5
 ---
 
 The Valbona Valley is Albania's most spectacular mountain landscape: a long, glacier-carved trough in the Albanian Alps (the Accursed Mountains) that cuts between walls of grey limestone several hundred metres high. The valley floor runs along the turquoise Valbona River, flanked by beech and pine forest, with permanent snow visible on the peaks above until well into summer. It is, by any measure, extraordinary — and until recently almost entirely unknown outside the Balkans.

@@ -5,7 +5,7 @@ latitude: 45.9033
 longitude: 8.5319
 title: Borromean Islands
 type: location
-score: 0.69
+score: 0.6
 loc_type: feature
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_Prince%27s_Street,_Truro
 latitude: 50.263335
 loc_type: city
 longitude: -5.051078
-score: 0.55
+score: 0.45
 sources:
 - https://en.wikipedia.org/wiki/Truro
 - https://en.wikipedia.org/wiki/Truro_Cathedral

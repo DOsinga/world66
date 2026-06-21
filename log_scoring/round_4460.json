@@ -1,0 +1,200 @@
+{
+  "round": 4460,
+  "timestamp": "2026-06-14T00:14:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Plovdiv",
+      "path": "europe/bulgaria/plovdiv",
+      "prior_score": 4.5555,
+      "prior_variance": 0.098797,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Cabo Rojo",
+      "path": "northamerica/thecaribbean/puertorico/caborojo",
+      "prior_score": 2.8477,
+      "prior_variance": 0.105394,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Messina",
+      "path": "europe/italy/sicily/messina",
+      "prior_score": 1.152,
+      "prior_variance": 0.096391,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Hot Springs",
+      "path": "northamerica/unitedstates/arkansas/hotsprings",
+      "prior_score": 0.8716,
+      "prior_variance": 0.088181,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Bright",
+      "path": "australiaandpacific/australia/victoria/bright",
+      "prior_score": 1.899,
+      "prior_variance": 0.094101,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Ystad",
+      "path": "europe/sweden/ystad",
+      "prior_score": 1.5498,
+      "prior_variance": 0.096776,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Roenne",
+      "path": "europe/denmark/roenne",
+      "prior_score": 0.1022,
+      "prior_variance": 0.092357,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Zandvoort",
+      "path": "europe/netherlands/zandvoort",
+      "prior_score": 0.6312,
+      "prior_variance": 0.0874,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Bjelasica",
+      "path": "europe/montenegro/bjelasica",
+      "prior_score": 0.7484,
+      "prior_variance": 0.084341,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Certaldo",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/certaldo",
+      "prior_score": 1.0335,
+      "prior_variance": 0.099842,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_score": 1.0453,
+      "prior_variance": 0.088549,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "El Jadida",
+      "path": "africa/morocco/eljadida",
+      "prior_score": 0.8796,
+      "prior_variance": 0.0916,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Moganshan",
+      "path": "asia/china/zhejiang/moganshan",
+      "prior_score": 0.5897,
+      "prior_variance": 0.086954,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Rottweil",
+      "path": "europe/germany/badenwrttemberg/rottweil",
+      "prior_score": -0.5094,
+      "prior_variance": 0.106649,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/birmingham",
+      "prior_score": -1.123,
+      "prior_variance": 0.108282,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Burg Stargard",
+      "path": "europe/germany/mecklenburgwesternpomerania/burgstargard",
+      "prior_score": -2.8016,
+      "prior_variance": 0.094206,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Riedstadt",
+      "path": "europe/germany/hessen/riedstadt",
+      "prior_score": -6.8105,
+      "prior_variance": 0.15555,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Embrun",
+      "path": "northamerica/canada/ontario/embrun",
+      "prior_score": -6.8548,
+      "prior_variance": 0.16041,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Adama",
+      "path": "africa/ethiopia/adama",
+      "prior_score": -5.1642,
+      "prior_variance": 0.106171,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Aska",
+      "path": "asia/india/orissa/aska",
+      "prior_score": -6.2244,
+      "prior_variance": 0.117135,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Ada",
+      "path": "northamerica/unitedstates/oklahoma/ada",
+      "prior_score": -5.7743,
+      "prior_variance": 0.106497,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Nema",
+      "path": "africa/mauritania/nema",
+      "prior_score": -8.51,
+      "prior_variance": 0.172899,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Assab",
+      "path": "africa/eritrea/assab",
+      "prior_score": -7.7238,
+      "prior_variance": 0.153806,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Agdam",
+      "path": "europe/azerbaijan/agdam",
+      "prior_score": -8.408,
+      "prior_variance": 0.207596,
+      "prior_n": 14
+    }
+  ]
+}

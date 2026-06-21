@@ -1,0 +1,200 @@
+{
+  "round": 3070,
+  "timestamp": "2026-06-13T22:26:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hoi An",
+      "path": "asia/vietnam/hoian",
+      "prior_score": 10.3367,
+      "prior_variance": 0.406441,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Mexico City",
+      "path": "northamerica/mexico/mexicocity",
+      "prior_score": 7.0834,
+      "prior_variance": 0.452182,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington/wellington",
+      "prior_score": 4.5847,
+      "prior_variance": 0.138573,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagne",
+      "prior_score": 2.4262,
+      "prior_variance": 0.133271,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Vulcano",
+      "path": "europe/italy/sicily/aeolianislands/vulcano",
+      "prior_score": 5.6505,
+      "prior_variance": 0.147716,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_score": 1.3032,
+      "prior_variance": 0.121239,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Ripon",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ripon",
+      "prior_score": 0.5622,
+      "prior_variance": 0.156969,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Silkeborg",
+      "path": "europe/denmark/silkeborg",
+      "prior_score": 0.9261,
+      "prior_variance": 0.157527,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "J\u00f6nk\u00f6ping",
+      "path": "europe/sweden/jnkping",
+      "prior_score": -1.1982,
+      "prior_variance": 0.124099,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Teres\u00f3polis",
+      "path": "southamerica/brazil/teresopolis",
+      "prior_score": 0.546,
+      "prior_variance": 0.142765,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Poprad",
+      "path": "europe/slovakia/poprad",
+      "prior_score": 0.4557,
+      "prior_variance": 0.130969,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Vama Veche",
+      "path": "europe/romania/vama_veche",
+      "prior_score": -0.9425,
+      "prior_variance": 0.132426,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Nova Gorica",
+      "path": "europe/slovenia/nova_gorica",
+      "prior_score": -0.2526,
+      "prior_variance": 0.123609,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Sint-Truiden",
+      "path": "europe/belgium/sinttruiden",
+      "prior_score": -1.0339,
+      "prior_variance": 0.145375,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Turda",
+      "path": "europe/romania/turda",
+      "prior_score": 0.2408,
+      "prior_variance": 0.15328,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Cheongju City",
+      "path": "asia/southkorea/cheongju_city",
+      "prior_score": -1.7224,
+      "prior_variance": 0.131231,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Sharjah",
+      "path": "asia/unitedarabemirates/sharjah",
+      "prior_score": -1.1191,
+      "prior_variance": 0.151998,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Sioux Falls",
+      "path": "northamerica/unitedstates/southdakota/siouxfalls",
+      "prior_score": -1.5,
+      "prior_variance": 0.16268,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Algiers",
+      "path": "africa/algeria/algiers",
+      "prior_score": -0.6067,
+      "prior_variance": 0.142819,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_score": -3.2162,
+      "prior_variance": 0.16386,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Metula",
+      "path": "asia/israel/metula",
+      "prior_score": -3.7423,
+      "prior_variance": 0.156743,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Barrow",
+      "path": "northamerica/unitedstates/alaska/barrow",
+      "prior_score": -3.9894,
+      "prior_variance": 0.152556,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Sivakasi",
+      "path": "asia/india/tamilnadu/sivakasi",
+      "prior_score": -6.0974,
+      "prior_variance": 0.167241,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "New London",
+      "path": "northamerica/unitedstates/wisconsin/new_london",
+      "prior_score": -5.7492,
+      "prior_variance": 0.162688,
+      "prior_n": 9
+    }
+  ]
+}

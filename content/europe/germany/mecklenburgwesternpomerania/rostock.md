@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2018_-_Petrikirche_-_Rosto
 latitude: 54.088671
 loc_type: city
 longitude: 12.140021
-score: 0.52
+score: 0.43
 title: Rostock
 type: location
 ---

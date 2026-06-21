@@ -1,200 +1,200 @@
 {
   "round": 2244,
-  "timestamp": "2026-04-13T16:23:52",
+  "timestamp": "2026-06-13T21:28:33",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Lake Tahoe",
-      "path": "northamerica/unitedstates/california/highsierra/laketahoe",
-      "prior_score": 6.5826,
-      "prior_variance": 0.289091,
-      "prior_n": 6
+      "title": "Manchester",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/manchester",
+      "prior_score": -0.2027,
+      "prior_variance": 0.247912,
+      "prior_n": 7
     },
     {
       "rank": 2,
-      "title": "New York State",
-      "path": "northamerica/unitedstates/newyorkstate",
-      "prior_score": 5.5333,
-      "prior_variance": 0.24993,
-      "prior_n": 6
+      "title": "Whangarei",
+      "path": "australiaandpacific/newzealand/whangarei",
+      "prior_score": 0.5641,
+      "prior_variance": 0.183753,
+      "prior_n": 7
     },
     {
       "rank": 3,
-      "title": "Glendalough",
-      "path": "europe/ireland/glendalough",
-      "prior_score": 5.1069,
-      "prior_variance": 0.262385,
-      "prior_n": 5
+      "title": "Haliburton",
+      "path": "northamerica/canada/ontario/haliburton",
+      "prior_score": -0.8691,
+      "prior_variance": 0.172518,
+      "prior_n": 8
     },
     {
       "rank": 4,
-      "title": "Hamilton",
-      "path": "northamerica/bermuda/hamilton_capital",
-      "prior_score": 5.0086,
-      "prior_variance": 0.250869,
-      "prior_n": 5
+      "title": "Cape Croker",
+      "path": "northamerica/canada/ontario/capecrokerfirst",
+      "prior_score": -2.4036,
+      "prior_variance": 0.191272,
+      "prior_n": 7
     },
     {
       "rank": 5,
-      "title": "Molokai",
-      "path": "northamerica/unitedstates/hawaii/molokai",
-      "prior_score": 2.058,
-      "prior_variance": 0.210635,
+      "title": "Kimberley",
+      "path": "africa/southafrica/kimberley",
+      "prior_score": -0.2705,
+      "prior_variance": 0.163099,
       "prior_n": 8
     },
     {
       "rank": 6,
-      "title": "Asheville",
-      "path": "northamerica/unitedstates/northcarolina/asheville",
-      "prior_score": 4.5992,
-      "prior_variance": 0.361633,
-      "prior_n": 5
+      "title": "Snagov Lake",
+      "path": "europe/romania/snagovlake",
+      "prior_score": -1.5041,
+      "prior_variance": 0.21739,
+      "prior_n": 7
     },
     {
       "rank": 7,
-      "title": "Izmir",
-      "path": "asia/turkey/izmir",
-      "prior_score": 5.3274,
-      "prior_variance": 0.278929,
-      "prior_n": 6
+      "title": "Khor Virap",
+      "path": "europe/armenia/khorvirap",
+      "prior_score": 2.5922,
+      "prior_variance": 0.181423,
+      "prior_n": 7
     },
     {
       "rank": 8,
-      "title": "Yazd",
-      "path": "asia/iran/yazd",
-      "prior_score": 3.9488,
-      "prior_variance": 0.271578,
-      "prior_n": 6
+      "title": "Sihanoukville",
+      "path": "asia/cambodia/sihanoukville",
+      "prior_score": -2.7603,
+      "prior_variance": 0.17244,
+      "prior_n": 8
     },
     {
       "rank": 9,
-      "title": "High Atlas",
-      "path": "africa/morocco/high_atlas",
-      "prior_score": 4.1884,
-      "prior_variance": 0.237253,
-      "prior_n": 6
+      "title": "Atlantic City",
+      "path": "northamerica/unitedstates/newjersey/atlanticcity",
+      "prior_score": -0.8773,
+      "prior_variance": 0.210832,
+      "prior_n": 7
     },
     {
       "rank": 10,
-      "title": "East Frisian Islands",
-      "path": "europe/germany/lowersaxony/east_frisian_islan",
-      "prior_score": 1.8366,
-      "prior_variance": 0.221558,
-      "prior_n": 6
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_score": -1.818,
+      "prior_variance": 0.224748,
+      "prior_n": 7
     },
     {
       "rank": 11,
-      "title": "Baliem Valley",
-      "path": "asia/indonesia/irianjaya/baliemvalley",
-      "prior_score": 2.5342,
-      "prior_variance": 0.309764,
-      "prior_n": 6
+      "title": "Talavera de la Reina",
+      "path": "europe/spain/centralspain/talaveradelareina",
+      "prior_score": -2.4202,
+      "prior_variance": 0.179854,
+      "prior_n": 8
     },
     {
       "rank": 12,
-      "title": "Modhera",
-      "path": "asia/india/gujarat/modhera",
-      "prior_score": -0.8397,
-      "prior_variance": 0.229975,
-      "prior_n": 6
+      "title": "Bemidji",
+      "path": "northamerica/unitedstates/minnesota/bemidji",
+      "prior_score": -2.8051,
+      "prior_variance": 0.177735,
+      "prior_n": 7
     },
     {
       "rank": 13,
-      "title": "Thuburbo majus",
-      "path": "africa/tunisia/thuburbomajus",
-      "prior_score": -1.674,
-      "prior_variance": 0.266073,
-      "prior_n": 6
+      "title": "Valledupar",
+      "path": "southamerica/colombia/valledupar",
+      "prior_score": -1.8681,
+      "prior_variance": 0.182442,
+      "prior_n": 7
     },
     {
       "rank": 14,
-      "title": "Gonarezhou",
-      "path": "africa/zimbabwe/gonarezhou",
-      "prior_score": 0.6602,
-      "prior_variance": 0.289674,
-      "prior_n": 6
+      "title": "Armenia",
+      "path": "southamerica/colombia/armenia",
+      "prior_score": -1.7118,
+      "prior_variance": 0.191627,
+      "prior_n": 8
     },
     {
       "rank": 15,
-      "title": "Corumb\u00e1",
-      "path": "southamerica/brazil/corumb",
-      "prior_score": -1.6604,
-      "prior_variance": 0.269771,
-      "prior_n": 5
+      "title": "Holwerd",
+      "path": "europe/netherlands/friesland/holwerd",
+      "prior_score": -2.498,
+      "prior_variance": 0.190683,
+      "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "Chisinau",
-      "path": "europe/moldova/chisinau",
-      "prior_score": -1.8335,
-      "prior_variance": 0.209685,
-      "prior_n": 6
+      "title": "Ayabaca",
+      "path": "southamerica/peru/ayabaca",
+      "prior_score": -2.1647,
+      "prior_variance": 0.181929,
+      "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "Itapema",
-      "path": "southamerica/brazil/itapema",
-      "prior_score": -0.1435,
-      "prior_variance": 0.219114,
-      "prior_n": 6
+      "title": "Tingambato",
+      "path": "northamerica/mexico/tingambato",
+      "prior_score": -3.4201,
+      "prior_variance": 0.189807,
+      "prior_n": 7
     },
     {
       "rank": 18,
-      "title": "Manawatu",
-      "path": "australiaandpacific/newzealand/north_island/manawatu",
-      "prior_score": -2.1091,
-      "prior_variance": 0.202655,
-      "prior_n": 6
+      "title": "Failaka Island",
+      "path": "asia/kuwait/failaka",
+      "prior_score": -2.6862,
+      "prior_variance": 0.222511,
+      "prior_n": 7
     },
     {
       "rank": 19,
-      "title": "North-West",
-      "path": "australiaandpacific/australia/tasmania/northwest",
-      "prior_score": 0.2054,
-      "prior_variance": 0.229586,
-      "prior_n": 5
+      "title": "Jimma",
+      "path": "africa/ethiopia/jimma",
+      "prior_score": -4.7869,
+      "prior_variance": 0.235988,
+      "prior_n": 7
     },
     {
       "rank": 20,
-      "title": "Marion",
-      "path": "australiaandpacific/australia/southaustralia/marion",
-      "prior_score": -4.6405,
-      "prior_variance": 0.327839,
-      "prior_n": 5
+      "title": "Vinh",
+      "path": "asia/vietnam/vinh",
+      "prior_score": -4.632,
+      "prior_variance": 0.186306,
+      "prior_n": 7
     },
     {
       "rank": 21,
-      "title": "Arnun",
-      "path": "asia/lebanon/arnun",
-      "prior_score": -6.7875,
-      "prior_variance": 0.300449,
-      "prior_n": 6
+      "title": "North Platte",
+      "path": "northamerica/unitedstates/nebraska/northplatte",
+      "prior_score": -5.4926,
+      "prior_variance": 0.191942,
+      "prior_n": 7
     },
     {
       "rank": 22,
-      "title": "Killeen",
-      "path": "northamerica/unitedstates/texas/killeen",
-      "prior_score": -5.591,
-      "prior_variance": 0.368557,
-      "prior_n": 6
+      "title": "Hefei",
+      "path": "asia/china/anhui/hefei",
+      "prior_score": -3.6395,
+      "prior_variance": 0.199061,
+      "prior_n": 7
     },
     {
       "rank": 23,
-      "title": "Watonga",
-      "path": "northamerica/unitedstates/oklahoma/watonga",
-      "prior_score": -6.212,
-      "prior_variance": 0.272529,
-      "prior_n": 5
+      "title": "Huaihua",
+      "path": "asia/china/hunan/huaihua",
+      "prior_score": -4.5897,
+      "prior_variance": 0.190355,
+      "prior_n": 8
     },
     {
       "rank": 24,
-      "title": "Acalayong",
-      "path": "africa/equatorialguinea/riomuni/acalayong",
-      "prior_score": -9.2932,
-      "prior_variance": 0.436356,
-      "prior_n": 5
+      "title": "Linfen",
+      "path": "asia/china/shanxiprovince/linfen",
+      "prior_score": -6.9102,
+      "prior_variance": 0.311945,
+      "prior_n": 7
     }
   ]
 }

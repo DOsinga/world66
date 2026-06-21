@@ -1,0 +1,200 @@
+{
+  "round": 3040,
+  "timestamp": "2026-06-13T22:24:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Fuji",
+      "path": "asia/japan/honshu/mount_fuji",
+      "prior_score": 11.3094,
+      "prior_variance": 0.528089,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "The Bosphorus",
+      "path": "asia/turkey/istanbul/thebosphorus",
+      "prior_score": 10.8258,
+      "prior_variance": 0.295428,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Ubud",
+      "path": "asia/indonesia/bali/ubud",
+      "prior_score": 11.6229,
+      "prior_variance": 0.393195,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Amman",
+      "path": "asia/jordan/amman",
+      "prior_score": 4.1926,
+      "prior_variance": 0.172534,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Monopoli",
+      "path": "europe/italy/puglia/monopoli",
+      "prior_score": 3.453,
+      "prior_variance": 0.166162,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Manali",
+      "path": "asia/india/himachalpradesh/manali",
+      "prior_score": 4.356,
+      "prior_variance": 0.157732,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Mae Hong Son",
+      "path": "asia/thailand/maehongson",
+      "prior_score": 3.3957,
+      "prior_variance": 0.153333,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Kabelv\u00e5g",
+      "path": "europe/norway/lofotenislands/kabelvg",
+      "prior_score": 6.072,
+      "prior_variance": 0.168552,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Mount Ijen",
+      "path": "asia/indonesia/java/mountijen",
+      "prior_score": 4.1332,
+      "prior_variance": 0.153008,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Matemwe",
+      "path": "africa/tanzania/zanzibar/matemwe",
+      "prior_score": 2.9298,
+      "prior_variance": 0.225063,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Huacachina",
+      "path": "southamerica/peru/huacachina",
+      "prior_score": 5.8588,
+      "prior_variance": 0.181707,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "M'Hamid",
+      "path": "africa/morocco/mhamid",
+      "prior_score": 1.5313,
+      "prior_variance": 0.152026,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Villandry",
+      "path": "europe/france/centre/loirevalley/villandry",
+      "prior_score": 5.3732,
+      "prior_variance": 0.178119,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Kolkata",
+      "path": "asia/india/kolkata",
+      "prior_score": 2.8979,
+      "prior_variance": 0.133825,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Kuching",
+      "path": "asia/malaysia/kuching",
+      "prior_score": 4.7888,
+      "prior_variance": 0.170653,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Harz Mountains",
+      "path": "europe/germany/lowersaxony/harz_mountains",
+      "prior_score": 3.6145,
+      "prior_variance": 0.143397,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Kars & Ani",
+      "path": "asia/turkey/kars__ani",
+      "prior_score": 2.1804,
+      "prior_variance": 0.122638,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_score": 0.3878,
+      "prior_variance": 0.143111,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Chetumal",
+      "path": "northamerica/mexico/chetumal",
+      "prior_score": -1.5106,
+      "prior_variance": 0.132508,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "La Toja/A Toxa Island",
+      "path": "europe/spain/galicia/la_tojaa_toxa_island",
+      "prior_score": 2.3399,
+      "prior_variance": 0.136099,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Panama City Beach",
+      "path": "northamerica/unitedstates/florida/panama_city_beach",
+      "prior_score": 1.571,
+      "prior_variance": 0.147299,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Lincoln",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/lincoln",
+      "prior_score": 0.5563,
+      "prior_variance": 0.168887,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/alabama/florence",
+      "prior_score": -3.4455,
+      "prior_variance": 0.160846,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Pinellas Trail",
+      "path": "northamerica/unitedstates/florida/tampabayarea/pinellastrail",
+      "prior_score": -2.3347,
+      "prior_variance": 0.129516,
+      "prior_n": 10
+    }
+  ]
+}

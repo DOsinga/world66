@@ -5,7 +5,7 @@ done:
 latitude: 36.98636
 loc_type: city
 longitude: 35.325286
-score: 0.43
+score: 0.37
 title: Adana
 type: location
 ---

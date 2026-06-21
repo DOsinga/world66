@@ -1,0 +1,200 @@
+{
+  "round": 4670,
+  "timestamp": "2026-06-14T00:31:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ios",
+      "path": "europe/greece/ios",
+      "prior_score": 5.8227,
+      "prior_variance": 0.10856,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/italianriviera/finaleligure",
+      "prior_score": 3.9341,
+      "prior_variance": 0.098802,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Provins",
+      "path": "europe/france/east/champagne/provins",
+      "prior_score": 3.9537,
+      "prior_variance": 0.090033,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Los Gigantes",
+      "path": "europe/spain/spanishcostas/losgigantes",
+      "prior_score": 2.6864,
+      "prior_variance": 0.08725,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Drumnadrochit",
+      "path": "europe/unitedkingdom/scotland/drumnadrochit",
+      "prior_score": 2.2249,
+      "prior_variance": 0.098254,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Hongcun",
+      "path": "asia/china/anhui/hongcun",
+      "prior_score": 3.972,
+      "prior_variance": 0.101906,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Puebla",
+      "path": "northamerica/mexico/puebla",
+      "prior_score": 3.9237,
+      "prior_variance": 0.101294,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Madurai",
+      "path": "asia/india/tamilnadu/madurai",
+      "prior_score": 2.6533,
+      "prior_variance": 0.111137,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Xanthos",
+      "path": "asia/turkey/xanthos",
+      "prior_score": 1.9989,
+      "prior_variance": 0.082096,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Madaba",
+      "path": "asia/jordan/madaba",
+      "prior_score": 1.999,
+      "prior_variance": 0.08768,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Kelowna",
+      "path": "northamerica/canada/britishcolumbia/kelowna",
+      "prior_score": 2.3148,
+      "prior_variance": 0.096578,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Ch\u00e2teau de Val",
+      "path": "europe/france/centre/limousin/chateaudeval",
+      "prior_score": 1.0426,
+      "prior_variance": 0.097031,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Tequila",
+      "path": "northamerica/mexico/tequila",
+      "prior_score": 1.6219,
+      "prior_variance": 0.111148,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Beit Shean",
+      "path": "asia/israel/beitshean",
+      "prior_score": 0.9531,
+      "prior_variance": 0.094687,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Jingpo Lake",
+      "path": "asia/china/heilongjiang/jingpohu",
+      "prior_score": -0.3431,
+      "prior_variance": 0.102474,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "St Lucia",
+      "path": "africa/southafrica/stlucia",
+      "prior_score": 1.1273,
+      "prior_variance": 0.097662,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Belgrade Lakes",
+      "path": "northamerica/unitedstates/maine/belgrade_lakes",
+      "prior_score": -1.6944,
+      "prior_variance": 0.087475,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Vladimir",
+      "path": "europe/russia/vladimir",
+      "prior_score": -0.2579,
+      "prior_variance": 0.106439,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Houston",
+      "path": "northamerica/unitedstates/texas/houston",
+      "prior_score": -1.0465,
+      "prior_variance": 0.116586,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Lahaska",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/lahaska",
+      "prior_score": -1.792,
+      "prior_variance": 0.091132,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Newry",
+      "path": "europe/unitedkingdom/northernireland/newry",
+      "prior_score": -1.6702,
+      "prior_variance": 0.087046,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Londrina",
+      "path": "southamerica/brazil/londrina",
+      "prior_score": -2.6496,
+      "prior_variance": 0.09179,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Tirunelveli",
+      "path": "asia/india/tamilnadu/tirunelveli",
+      "prior_score": -3.5348,
+      "prior_variance": 0.101476,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Damascus",
+      "path": "asia/syria/damascus",
+      "prior_score": -8.8029,
+      "prior_variance": 0.278056,
+      "prior_n": 15
+    }
+  ]
+}

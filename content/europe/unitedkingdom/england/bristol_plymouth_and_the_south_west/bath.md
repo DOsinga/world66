@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bath_Abbey_2024_01.jpg
 latitude: 51.381386
 loc_type: city
 longitude: -2.359696
-score: 0.73
+score: 0.58
 title: Bath
 type: location
 ---

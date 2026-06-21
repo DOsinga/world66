@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/29680252@N05/2787770344
 latitude: 61.8348
 loc_type: city
 longitude: -6.8176
-score: 0.5
+score: 0.42
 title: Sandur
 type: location
 ---

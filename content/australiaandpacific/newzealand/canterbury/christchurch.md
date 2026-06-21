@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%22Everything_is_Going_to_
 latitude: -43.5321
 loc_type: city
 longitude: 172.6362
-score: 0.64
+score: 0.53
 title: Christchurch
 type: location
 ---

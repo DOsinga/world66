@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brandenburg_Gate_-_Branden
 latitude: 52.517389
 loc_type: city
 longitude: 13.395131
-score: 0.75
+score: 0.65
 title: Berlin
 type: location
 ---

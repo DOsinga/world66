@@ -1,0 +1,200 @@
+{
+  "round": 4337,
+  "timestamp": "2026-06-14T00:04:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seoul",
+      "path": "asia/southkorea/seoul",
+      "prior_score": 10.7965,
+      "prior_variance": 0.353604,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Melbourne",
+      "path": "australiaandpacific/australia/victoria/melbourne",
+      "prior_score": 7.8161,
+      "prior_variance": 0.152945,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Stratford-upon-Avon",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/stratforduponavon",
+      "prior_score": 4.9627,
+      "prior_variance": 0.119533,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/amboseli",
+      "prior_score": 8.1814,
+      "prior_variance": 0.207717,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Aarhus",
+      "path": "europe/denmark/aarhus",
+      "prior_score": 1.9639,
+      "prior_variance": 0.12326,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Aegina",
+      "path": "europe/greece/aegina",
+      "prior_score": 4.6109,
+      "prior_variance": 0.10434,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Bandhavgarh",
+      "path": "asia/india/madhyapradesh/bandhavgarh",
+      "prior_score": 2.158,
+      "prior_variance": 0.098667,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Auli",
+      "path": "asia/india/uttaranchal/auli",
+      "prior_score": 1.5815,
+      "prior_variance": 0.097627,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Akaroa",
+      "path": "australiaandpacific/newzealand/canterbury/akaroa",
+      "prior_score": 3.7976,
+      "prior_variance": 0.103907,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Koper",
+      "path": "europe/slovenia/koper",
+      "prior_score": 2.0727,
+      "prior_variance": 0.097091,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Amarante",
+      "path": "europe/portugal/amarante",
+      "prior_score": 1.7525,
+      "prior_variance": 0.093566,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "R\u00fcdesheim",
+      "path": "europe/germany/hessen/rudesheim",
+      "prior_score": 3.0286,
+      "prior_variance": 0.097053,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Aberystwyth",
+      "path": "europe/unitedkingdom/wales/aberystwyth",
+      "prior_score": 1.2536,
+      "prior_variance": 0.089323,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Aracena",
+      "path": "europe/spain/andalucia/aracena",
+      "prior_score": 2.0598,
+      "prior_variance": 0.094888,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Jablanac",
+      "path": "europe/croatia/jablanac",
+      "prior_score": 1.2607,
+      "prior_variance": 0.099436,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Malvan",
+      "path": "asia/india/maharashtra/malvan",
+      "prior_score": -1.2771,
+      "prior_variance": 0.087305,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Moji",
+      "path": "asia/japan/kyushu/moji",
+      "prior_score": 1.0683,
+      "prior_variance": 0.101886,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Ripon",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ripon",
+      "prior_score": 0.6807,
+      "prior_variance": 0.108041,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Dodona",
+      "path": "europe/greece/dodona",
+      "prior_score": 1.7682,
+      "prior_variance": 0.106308,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Yell",
+      "path": "europe/unitedkingdom/scotland/shetland/yell",
+      "prior_score": -1.3722,
+      "prior_variance": 0.11604,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Oregon City",
+      "path": "northamerica/unitedstates/oregon/oregoncity",
+      "prior_score": -2.1089,
+      "prior_variance": 0.102638,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Cordoba",
+      "path": "southamerica/argentina/cordoba",
+      "prior_score": 2.0161,
+      "prior_variance": 0.11894,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Pomerode",
+      "path": "southamerica/brazil/pomerode",
+      "prior_score": -0.4102,
+      "prior_variance": 0.098024,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Baoji",
+      "path": "asia/china/shaanxi/baoji",
+      "prior_score": -3.7618,
+      "prior_variance": 0.095685,
+      "prior_n": 14
+    }
+  ]
+}

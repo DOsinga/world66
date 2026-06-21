@@ -5,7 +5,7 @@ done:
 latitude: -41.234862
 loc_type: city
 longitude: 173.306509
-score: 0.62
+score: 0.56
 title: Nelson Bays
 type: location
 ---

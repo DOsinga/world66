@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/120459374@N07/22228583835
 latitude: 10.4496
 loc_type: city
 longitude: -64.1578
-score: 0.34
+score: 0.28
 title: Cumaná
 type: location
 ---

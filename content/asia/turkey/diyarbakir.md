@@ -5,14 +5,14 @@ done:
   location_enrich: '2026-06-03'
 latitude: 37.9162
 longitude: 40.2363
-score: 0.48
+score: 0.42
 title: Diyarbakir
 type: location
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Diyarbak%C4%B1r
-  - https://en.wikipedia.org/wiki/Fortifications_of_Diyarbak%C4%B1r
-  - https://en.wikipedia.org/wiki/Hevsel_Gardens
+- https://en.wikipedia.org/wiki/Diyarbak%C4%B1r
+- https://en.wikipedia.org/wiki/Fortifications_of_Diyarbak%C4%B1r
+- https://en.wikipedia.org/wiki/Hevsel_Gardens
 ---
 
 Diyarbakır is defined by its walls — a nearly continuous 6km circuit of black basalt built by the Romans and extended by successive rulers over two millennia. Walk stretches of the top for views over the old city rooftops, the Tigris valley below, and the flat steppe stretching south toward Syria. The walls were inscribed as a UNESCO World Heritage Site in 2015, together with the hevsel bahçeleri — seven hundred hectares of market gardens in the flood plain below the walls, cultivated since the Neolithic.

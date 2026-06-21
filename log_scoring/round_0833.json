@@ -1,200 +1,200 @@
 {
   "round": 833,
-  "timestamp": "2026-04-12T14:36:15",
+  "timestamp": "2026-06-13T19:56:12",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Tuscany",
-      "path": "europe/italy/tuscany",
-      "prior_score": 11.965,
-      "prior_variance": 8.67485,
-      "prior_n": 1
+      "title": "Le Blanc",
+      "path": "europe/france/centre/loirevalley/le_blanc",
+      "prior_score": -8.5439,
+      "prior_variance": 0.911984,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "San Crist\u00f3bal Island",
-      "path": "southamerica/ecuador/galapagosislands/san_cristobal_isla",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Sinnamary",
+      "path": "southamerica/frenchguiana/sinnamary",
+      "prior_score": -9.5795,
+      "prior_variance": 1.246466,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Vanuatu",
-      "path": "australiaandpacific/vanuatu",
-      "prior_score": 4.7008,
-      "prior_variance": 1.965898,
+      "title": "Oualata",
+      "path": "africa/mauritania/oulata",
+      "prior_score": -9.2461,
+      "prior_variance": 0.646711,
       "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Grand Turk",
-      "path": "northamerica/turksandcaicosislands/grandturk",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Bah\u00eda Blanca",
+      "path": "southamerica/argentina/bahiablanca",
+      "prior_score": -6.0332,
+      "prior_variance": 0.587218,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "St Maarten",
-      "path": "northamerica/netherlandsantilles/stmaarten",
-      "prior_score": 10.7371,
-      "prior_variance": 2.645507,
-      "prior_n": 1
+      "title": "Vushtrri",
+      "path": "europe/serbia/kosovoprovince/vushtrri",
+      "prior_score": -9.5773,
+      "prior_variance": 0.880702,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Windward",
-      "path": "northamerica/grenada/carriacou/windward",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Shahbuz",
+      "path": "europe/azerbaijan/naxcivan/shahbuz",
+      "prior_score": -10.0432,
+      "prior_variance": 1.088404,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Acitrezza",
-      "path": "europe/italy/sicily/acitrezza",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Kintampo",
+      "path": "africa/ghana/kintampo",
+      "prior_score": -9.3287,
+      "prior_variance": 0.805384,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Shakhrisabz",
-      "path": "asia/uzbekistan/shakhrisabz",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Harper",
+      "path": "africa/liberia/harper",
+      "prior_score": -9.8679,
+      "prior_variance": 0.72034,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Andorra",
-      "path": "europe/andorra",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Porto Amboim",
+      "path": "africa/angola/porto_amboim",
+      "prior_score": -9.6935,
+      "prior_variance": 1.142748,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Whitefish",
-      "path": "northamerica/unitedstates/montana/whitefish",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/missouri/bowling_green",
+      "prior_score": -9.0631,
+      "prior_variance": 0.914278,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Rio Lagartos",
-      "path": "northamerica/mexico/yucatan/rio_lagartos",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Elk City",
+      "path": "northamerica/unitedstates/oklahoma/elk_city",
+      "prior_score": -10.5695,
+      "prior_variance": 0.800269,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Potrero",
-      "path": "northamerica/costarica/potrero",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/illinois/wheeling",
+      "prior_score": -10.4391,
+      "prior_variance": 1.571912,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Freetown Peninsula",
-      "path": "africa/sierraleone/freetown_peninsula",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Willows",
+      "path": "northamerica/unitedstates/california/willows",
+      "prior_score": -9.7591,
+      "prior_variance": 1.156896,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Tavush Marz",
-      "path": "europe/armenia/tavush_marz",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Manteca",
+      "path": "northamerica/unitedstates/california/centralvalley/manteca",
+      "prior_score": -10.4427,
+      "prior_variance": 1.178323,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Kampong Cham",
-      "path": "asia/cambodia/kampongcham",
-      "prior_score": -3.9118,
-      "prior_variance": 2.170686,
-      "prior_n": 1
+      "title": "Del City",
+      "path": "northamerica/unitedstates/oklahoma/del_city",
+      "prior_score": -10.9628,
+      "prior_variance": 1.179814,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Vejle",
-      "path": "europe/denmark/vejle",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Consett",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/consett",
+      "prior_score": -10.7146,
+      "prior_variance": 1.465396,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Crimea",
-      "path": "europe/ukraine/crimea",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Kitwe",
+      "path": "africa/zambia/kitwe",
+      "prior_score": -10.4294,
+      "prior_variance": 0.752832,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Oruro",
-      "path": "southamerica/bolivia/oruro",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Meerut",
+      "path": "asia/india/uttarpradesh/meerut",
+      "prior_score": -9.9918,
+      "prior_variance": 1.045913,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Spokane",
-      "path": "northamerica/unitedstates/washington/spokane",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Jharsuguda",
+      "path": "asia/india/orissa/jharsuguda",
+      "prior_score": -10.7992,
+      "prior_variance": 0.811555,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Paradeep",
-      "path": "asia/india/orissa/paradeep",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Navoi",
+      "path": "asia/uzbekistan/navoi",
+      "prior_score": -10.4321,
+      "prior_variance": 0.860462,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "San Giorgio Lucano",
-      "path": "europe/italy/basilicata/san_giorgio_lucano",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Tangshan",
+      "path": "asia/china/hebei/tangshan",
+      "prior_score": -4.8956,
+      "prior_variance": 0.913878,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Wasserbillig",
-      "path": "europe/luxembourg/wasserbillig",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Cherepovets",
+      "path": "europe/russia/cherepovets",
+      "prior_score": -11.1492,
+      "prior_variance": 1.114738,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Chone",
-      "path": "southamerica/ecuador/chone",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Culiacan",
+      "path": "northamerica/mexico/culiacan",
+      "prior_score": -11.6392,
+      "prior_variance": 0.773932,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Gran chaco",
-      "path": "southamerica/paraguay/granchaco",
-      "prior_score": -0.0,
-      "prior_variance": 100.0,
-      "prior_n": 0
+      "title": "Ciudad Ju\u00e1rez",
+      "path": "northamerica/mexico/ciudadjuarez",
+      "prior_score": -10.8722,
+      "prior_variance": 0.811719,
+      "prior_n": 2
     }
   ]
 }

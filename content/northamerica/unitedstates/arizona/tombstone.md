@@ -5,11 +5,11 @@ done:
 latitude: 31.7129
 loc_type: city
 longitude: -110.0676
-score: 0.52
+score: 0.45
 sources:
-  - https://en.wikipedia.org/wiki/Tombstone,_Arizona
-  - https://en.wikipedia.org/wiki/Gunfight_at_the_O.K._Corral
-  - https://en.wikipedia.org/wiki/Tombstone_Historic_District
+- https://en.wikipedia.org/wiki/Tombstone,_Arizona
+- https://en.wikipedia.org/wiki/Gunfight_at_the_O.K._Corral
+- https://en.wikipedia.org/wiki/Tombstone_Historic_District
 title: Tombstone
 type: location
 ---

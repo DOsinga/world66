@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/94098640@N00/31247047891
 latitude: -20.162452
 loc_type: city
 longitude: 57.502804
-score: 0.57
+score: 0.5
 title: Port Louis
 type: location
 ---

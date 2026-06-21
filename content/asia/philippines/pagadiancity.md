@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pagadian_City_Hall_2024.jp
 latitude: 7.824972
 loc_type: city
 longitude: 123.436582
-score: 0.35
+score: 0.3
 title: Pagadian City
 type: location
 ---

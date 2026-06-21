@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cascais._Portugal.jpg
 latitude: 38.696892
 loc_type: city
 longitude: -9.42045
-score: 0.64
+score: 0.58
 title: Cascais
 type: location
 ---

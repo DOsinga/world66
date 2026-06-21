@@ -5,7 +5,7 @@ done:
 latitude: 20.273892
 loc_type: city
 longitude: 100.436584
-score: 0.48
+score: 0.39
 title: Huay Xai
 type: location
 ---

@@ -6,7 +6,7 @@ latitude: 18.3321
 longitude: -64.731
 title: St. John
 type: location
-score: 0.7
+score: 0.63
 loc_type: city
 ---
 

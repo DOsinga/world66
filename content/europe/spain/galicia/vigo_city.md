@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2018_Vigo_Galiza._Galicia-
 latitude: 42.2314
 loc_type: city
 longitude: -8.7227
-score: 0.56
+score: 0.45
 title: Vigo
 type: location
 ---

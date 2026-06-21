@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:London_Bridge,_Lake_Havasu
 latitude: 34.4779
 loc_type: city
 longitude: -114.338
-score: 0.42
+score: 0.37
 title: Lake Havasu City
 type: location
 ---

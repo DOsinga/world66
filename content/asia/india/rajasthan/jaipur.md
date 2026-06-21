@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jai
 latitude: 26.9154
 loc_type: city
 longitude: 75.819
-score: 0.7
+score: 0.68
 title: Jaipur
 type: location
 ---

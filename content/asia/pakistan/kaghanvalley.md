@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/25183035@N03/7452937734
 latitude: 34.9072
 loc_type: city
 longitude: 73.6509
-score: 0.48
+score: 0.43
 title: Kaghan Valley
 type: location
 ---

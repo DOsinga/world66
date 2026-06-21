@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Langeais._
 latitude: 47.323934
 loc_type: city
 longitude: 0.407296
-score: 0.54
+score: 0.51
 title: Langeais
 type: location
 ---

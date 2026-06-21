@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_of_the_Ozarks_Missour
 latitude: 38.1444
 loc_type: city
 longitude: -92.6595
-score: 0.42
+score: 0.37
 sources:
 - https://en.wikipedia.org/wiki/Lake_of_the_Ozarks
 - https://en.wikipedia.org/wiki/Bagnell_Dam

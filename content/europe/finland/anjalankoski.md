@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Anjalankosken_kaupungintal
 latitude: 60.697933
 loc_type: city
 longitude: 26.815071
-score: 0.35
+score: 0.24
 title: Anjalankoski
 type: location
 ---

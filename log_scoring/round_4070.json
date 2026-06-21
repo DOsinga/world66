@@ -1,0 +1,200 @@
+{
+  "round": 4070,
+  "timestamp": "2026-06-13T23:41:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Songpan",
+      "path": "asia/china/sichuanprovince/songpan",
+      "prior_score": 2.396,
+      "prior_variance": 0.09835,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Hawkshead",
+      "path": "europe/unitedkingdom/england/lakedistrict/hawkshead",
+      "prior_score": 2.3183,
+      "prior_variance": 0.110991,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Meta di Sorrento",
+      "path": "europe/italy/campania/meta_di_sorrento",
+      "prior_score": 4.3554,
+      "prior_variance": 0.103236,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Bhitarkanika National Park",
+      "path": "asia/india/orissa/bhitarkanika",
+      "prior_score": -0.3584,
+      "prior_variance": 0.111539,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Bardejov",
+      "path": "europe/slovakia/bardejov",
+      "prior_score": 1.336,
+      "prior_variance": 0.101032,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Dilijan",
+      "path": "europe/armenia/tavush_marz/dilijan",
+      "prior_score": 0.6841,
+      "prior_variance": 0.102402,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Tamanrasset",
+      "path": "africa/algeria/tamanrasset",
+      "prior_score": -2.9888,
+      "prior_variance": 0.112596,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Nora",
+      "path": "europe/sweden/nora",
+      "prior_score": -0.3234,
+      "prior_variance": 0.103591,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_score": -0.8354,
+      "prior_variance": 0.094191,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Heber City",
+      "path": "northamerica/unitedstates/utah/heber_city",
+      "prior_score": -0.9186,
+      "prior_variance": 0.093469,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Kernville",
+      "path": "northamerica/unitedstates/california/centralvalley/kernville",
+      "prior_score": -1.5595,
+      "prior_variance": 0.093291,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Hiengh\u00e8ne",
+      "path": "australiaandpacific/newcaledonia/hienghene",
+      "prior_score": 1.0845,
+      "prior_variance": 0.121464,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Datia",
+      "path": "asia/india/madhyapradesh/datia",
+      "prior_score": -3.3269,
+      "prior_variance": 0.112617,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Arbo",
+      "path": "europe/spain/galicia/arbo",
+      "prior_score": -1.3465,
+      "prior_variance": 0.094265,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Ontinyent",
+      "path": "europe/spain/ontinyent",
+      "prior_score": -1.6944,
+      "prior_variance": 0.088384,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Kielce",
+      "path": "europe/poland/kielce",
+      "prior_score": -2.322,
+      "prior_variance": 0.109147,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_score": -2.5378,
+      "prior_variance": 0.110639,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Lusaka",
+      "path": "africa/zambia/lusaka",
+      "prior_score": -3.3295,
+      "prior_variance": 0.120431,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Altena",
+      "path": "europe/germany/northrhinewestphalia/altena",
+      "prior_score": -2.4057,
+      "prior_variance": 0.105546,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Burg Stargard",
+      "path": "europe/germany/mecklenburgwesternpomerania/burgstargard",
+      "prior_score": -2.8573,
+      "prior_variance": 0.110306,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanjose",
+      "prior_score": -2.3335,
+      "prior_variance": 0.125123,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Metairie",
+      "path": "northamerica/unitedstates/louisiana/metairie",
+      "prior_score": -4.9591,
+      "prior_variance": 0.131314,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Oakdale",
+      "path": "northamerica/unitedstates/california/oakdale",
+      "prior_score": -4.6886,
+      "prior_variance": 0.134874,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Pedro Bernardo",
+      "path": "europe/spain/centralspain/pedro_bernardo",
+      "prior_score": -4.3378,
+      "prior_variance": 0.120607,
+      "prior_n": 13
+    }
+  ]
+}

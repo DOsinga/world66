@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/103413003@N02/10151632736
 latitude: 10.132506
 loc_type: city
 longitude: 124.838515
-score: 0.4
+score: 0.31
 title: Maasin City
 type: location
 ---

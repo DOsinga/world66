@@ -5,7 +5,7 @@ done:
 latitude: -23.013228
 loc_type: city
 longitude: -43.319711
-score: 0.47
+score: 0.4
 title: Barra de Tijuca
 type: location
 ---

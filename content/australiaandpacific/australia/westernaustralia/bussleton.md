@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BusseltonJetty1_gobeirne.j
 latitude: -33.6445
 loc_type: city
 longitude: 115.3487
-score: 0.49
+score: 0.43
 title: Busselton
 type: location
 ---

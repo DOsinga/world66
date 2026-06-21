@@ -5,7 +5,7 @@ done:
 latitude: 50.673136
 loc_type: city
 longitude: -3.840229
-score: 0.49
+score: 0.45
 title: Chagford
 type: location
 ---

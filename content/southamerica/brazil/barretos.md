@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vista_parcial_de_Barretos_
 latitude: -20.553144
 loc_type: city
 longitude: -48.569751
-score: 0.34
+score: 0.29
 title: Barretos
 type: location
 ---

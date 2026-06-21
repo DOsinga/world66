@@ -9,7 +9,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Ellora,_Aurangabad,_Maharashtra.jpg
 title: Ellora
 type: location
-score: 0.65
+score: 0.61
 loc_type: feature
 ---
 

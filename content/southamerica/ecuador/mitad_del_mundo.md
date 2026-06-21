@@ -5,7 +5,7 @@ latitude: -1.260787
 longitude: -78.609882
 title: Mitad del Mundo
 type: location
-score: 0.59
+score: 0.5
 loc_type: feature
 ---
 

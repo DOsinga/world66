@@ -5,7 +5,7 @@ done:
 latitude: 45.373343
 loc_type: city
 longitude: -84.95533
-score: 0.49
+score: 0.39
 title: Petoskey
 type: location
 ---

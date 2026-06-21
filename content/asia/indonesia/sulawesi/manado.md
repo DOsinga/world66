@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Soekarno_bridge_sunset.jpg
 latitude: 1.4748
 loc_type: city
 longitude: 124.8421
-score: 0.55
+score: 0.47
 title: Manado
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panauti_Core_Settlement.jp
 latitude: 27.580735
 loc_type: city
 longitude: 85.522857
-score: 0.47
+score: 0.43
 sources:
 - https://en.wikipedia.org/wiki/Panauti
 title: Panauti

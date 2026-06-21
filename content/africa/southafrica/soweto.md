@@ -5,7 +5,7 @@ done:
 latitude: -26.222778
 loc_type: city
 longitude: 27.89
-score: 0.42
+score: 0.4
 title: Soweto
 type: location
 image: soweto.jpg

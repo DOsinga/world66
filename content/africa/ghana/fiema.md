@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cercopithecus_mona,_Boaben
 latitude: 7.719088
 loc_type: city
 longitude: -1.693715
-score: 0.36
+score: 0.25
 sources:
 - https://en.wikipedia.org/wiki/Boabeng-Fiema_Monkey_Sanctuary
 title: Fiema

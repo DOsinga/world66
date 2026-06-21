@@ -1,14 +1,14 @@
 ---
 title: Demre (Myra)
-latitude: 36.24890
-longitude: 29.97920
+latitude: 36.2489
+longitude: 29.9792
 type: location
 loc_type: city
-score: 0.45
+score: 0.48
 tags:
-  - ancient_ruins
-  - history
-  - religion
+- ancient_ruins
+- history
+- religion
 image: demre.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Myra_View_from_high_in_2012_Panorama_1.jpg
 image_license: CC BY-SA 4.0

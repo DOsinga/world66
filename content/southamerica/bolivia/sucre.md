@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sucre_Ciudad_Bolivia.jpg
 latitude: -19.047725
 loc_type: city
 longitude: -65.259431
-score: 0.6
+score: 0.52
 title: Sucre
 type: location
 ---

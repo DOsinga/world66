@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lago_di_Osiglia_-_panorami
 latitude: 44.2826
 loc_type: city
 longitude: 8.2021
-score: 0.39
+score: 0.37
 title: Osiglia
 todo_location_cleanup: done
 type: location

@@ -5,7 +5,7 @@ latitude: -2.842033
 longitude: 38.818984
 title: Tsavo East
 type: location
-score: 0.64
+score: 0.54
 loc_type: feature
 ---
 

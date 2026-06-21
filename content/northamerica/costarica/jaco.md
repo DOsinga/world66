@@ -4,6 +4,7 @@ type: location
 loc_type: city
 latitude: 9.6167
 longitude: -84.6333
+score: 0.5
 ---
 
 Jacó is Costa Rica's most accessible Pacific beach town, about 100 kilometres southwest of San José on the central Pacific coast. The drive takes around 90 minutes, which makes it the default weekend escape for the capital and a popular first stop for international visitors who want sand without a long journey.

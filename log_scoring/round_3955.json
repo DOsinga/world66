@@ -1,0 +1,200 @@
+{
+  "round": 3955,
+  "timestamp": "2026-06-13T23:32:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Geirangerfjord",
+      "path": "europe/norway/geirangerfjord",
+      "prior_score": 11.3533,
+      "prior_variance": 0.301,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Hakone",
+      "path": "asia/japan/honshu/hakone",
+      "prior_score": 10.0349,
+      "prior_variance": 0.254987,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Hailuogou Glacier Park",
+      "path": "asia/china/sichuanprovince/hailuogou",
+      "prior_score": 3.9939,
+      "prior_variance": 0.103531,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "San Juan",
+      "path": "northamerica/thecaribbean/puertorico/sanjuan",
+      "prior_score": 5.7404,
+      "prior_variance": 0.12848,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Champaner-Pavagadh",
+      "path": "asia/india/gujarat/champaner",
+      "prior_score": 0.9746,
+      "prior_variance": 0.126826,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Kuroshima",
+      "path": "asia/japan/ryukyuislands/kuroshima",
+      "prior_score": 1.3379,
+      "prior_variance": 0.11969,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Sarajevo",
+      "path": "europe/bosniaandherzegovina/sarajevo",
+      "prior_score": 5.9914,
+      "prior_variance": 0.14218,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Borgarnes",
+      "path": "europe/iceland/borgarnes",
+      "prior_score": 1.2988,
+      "prior_variance": 0.112454,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Bojnice",
+      "path": "europe/slovakia/bojnice",
+      "prior_score": 2.0452,
+      "prior_variance": 0.105392,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Ile de Gor\u00e9e",
+      "path": "africa/senegal/iledegoree",
+      "prior_score": 3.361,
+      "prior_variance": 0.108993,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Kingston",
+      "path": "northamerica/jamaica/kingston",
+      "prior_score": 1.5478,
+      "prior_variance": 0.123394,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Punta Gorda",
+      "path": "northamerica/belize/puntagorda",
+      "prior_score": -0.4093,
+      "prior_variance": 0.126275,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Manila",
+      "path": "asia/philippines/manila",
+      "prior_score": -0.6285,
+      "prior_variance": 0.154967,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Monnickendam",
+      "path": "europe/netherlands/monickendam",
+      "prior_score": 0.7286,
+      "prior_variance": 0.092338,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Alhama de Granada",
+      "path": "europe/spain/andalucia/alhama_de_granada",
+      "prior_score": 0.4648,
+      "prior_variance": 0.100112,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Chemainus",
+      "path": "northamerica/canada/britishcolumbia/chemainus",
+      "prior_score": 0.2518,
+      "prior_variance": 0.093719,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Lambertville",
+      "path": "northamerica/unitedstates/newjersey/lambertville",
+      "prior_score": -0.6969,
+      "prior_variance": 0.101387,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/buxton",
+      "prior_score": -0.5813,
+      "prior_variance": 0.106651,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+      "path": "europe/hungary/szekesfehervar",
+      "prior_score": -0.8102,
+      "prior_variance": 0.106292,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Isiolo",
+      "path": "africa/kenya/centralhighlands/isiolo",
+      "prior_score": -4.8433,
+      "prior_variance": 0.12513,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Homosassa",
+      "path": "northamerica/unitedstates/florida/homosassa",
+      "prior_score": -1.4528,
+      "prior_variance": 0.099883,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Galveston Island",
+      "path": "northamerica/unitedstates/texas/houston/galvestonisland",
+      "prior_score": -0.3265,
+      "prior_variance": 0.124789,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Little Rock",
+      "path": "northamerica/unitedstates/arkansas/littlerock",
+      "prior_score": -3.1731,
+      "prior_variance": 0.120423,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Muskogee",
+      "path": "northamerica/unitedstates/oklahoma/muskogee",
+      "prior_score": -4.8406,
+      "prior_variance": 0.125871,
+      "prior_n": 13
+    }
+  ]
+}

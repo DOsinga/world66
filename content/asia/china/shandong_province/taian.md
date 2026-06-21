@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20200127_%E6%B3%B0%E5%AE%8
 latitude: 36.200297
 loc_type: city
 longitude: 117.080932
-score: 0.57
+score: 0.46
 title: Tai'an
 type: location
 ---

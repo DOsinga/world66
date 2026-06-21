@@ -1,0 +1,200 @@
+{
+  "round": 2839,
+  "timestamp": "2026-06-13T22:10:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Annapurna Region",
+      "path": "asia/nepal/annapurna",
+      "prior_score": 11.4679,
+      "prior_variance": 0.881839,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Denali National Park",
+      "path": "northamerica/unitedstates/alaska/denalipark",
+      "prior_score": 8.8904,
+      "prior_variance": 0.247918,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Rasdhoo",
+      "path": "asia/maldives/ari_atoll/rasdhoo",
+      "prior_score": 7.1338,
+      "prior_variance": 0.192234,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Tulum",
+      "path": "northamerica/mexico/tulum",
+      "prior_score": 9.023,
+      "prior_variance": 0.251763,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Lipari",
+      "path": "europe/italy/sicily/aeolianislands/lipari",
+      "prior_score": 6.7548,
+      "prior_variance": 0.171499,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Siargao",
+      "path": "asia/philippines/siargao",
+      "prior_score": 7.1373,
+      "prior_variance": 0.192375,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Spoleto",
+      "path": "europe/italy/umbria/spoleto",
+      "prior_score": 5.2218,
+      "prior_variance": 0.208926,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Saint Malo",
+      "path": "europe/france/normandybrittany/saintmalo",
+      "prior_score": 6.2762,
+      "prior_variance": 0.198001,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Lyon",
+      "path": "europe/france/alpes/lyon",
+      "prior_score": 6.5732,
+      "prior_variance": 0.188559,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Pic du Midi",
+      "path": "europe/france/midi/pyrenees/picdumidi",
+      "prior_score": 4.7152,
+      "prior_variance": 0.147244,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Coimbra",
+      "path": "europe/portugal/coimbra",
+      "prior_score": 5.6544,
+      "prior_variance": 0.220912,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Skagway",
+      "path": "northamerica/unitedstates/alaska/skagway",
+      "prior_score": 4.2766,
+      "prior_variance": 0.1815,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Addo Elephant National Park",
+      "path": "africa/southafrica/addo_elephant_national_park",
+      "prior_score": 5.4053,
+      "prior_variance": 0.189414,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Ninh Binh",
+      "path": "asia/vietnam/ninh_binh",
+      "prior_score": 4.8478,
+      "prior_variance": 0.173983,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Ocho Rios",
+      "path": "northamerica/jamaica/ochorios",
+      "prior_score": 5.7625,
+      "prior_variance": 0.172673,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Alicante",
+      "path": "europe/spain/spanishcostas/alicante",
+      "prior_score": 4.8502,
+      "prior_variance": 0.208357,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/coppercanyon",
+      "prior_score": 4.8572,
+      "prior_variance": 0.176216,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Konark",
+      "path": "asia/india/orissa/konark",
+      "prior_score": 2.0674,
+      "prior_variance": 0.145563,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Punta Gorda",
+      "path": "northamerica/belize/puntagorda",
+      "prior_score": -0.7197,
+      "prior_variance": 0.187185,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Efate",
+      "path": "australiaandpacific/vanuatu/efate",
+      "prior_score": 1.1212,
+      "prior_variance": 0.145195,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Agat",
+      "path": "australiaandpacific/guam/agat",
+      "prior_score": -2.5807,
+      "prior_variance": 0.135596,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Port Said",
+      "path": "africa/egypt/portsaid",
+      "prior_score": -1.8641,
+      "prior_variance": 0.157356,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Bibala",
+      "path": "africa/angola/bibala",
+      "prior_score": -7.8286,
+      "prior_variance": 0.220012,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Kabul",
+      "path": "asia/afghanistan/kabul",
+      "prior_score": -10.3496,
+      "prior_variance": 0.357996,
+      "prior_n": 9
+    }
+  ]
+}

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ennis_01.jpg
 latitude: 52.843515
 loc_type: city
 longitude: -8.983747
-score: 0.54
+score: 0.46
 title: Ennis
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vama_Veche_2005_(243624713
 latitude: 43.7525
 loc_type: city
 longitude: 28.5722
-score: 0.47
+score: 0.39
 title: Vama Veche
 type: location
 ---

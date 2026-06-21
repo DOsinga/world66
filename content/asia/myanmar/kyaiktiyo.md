@@ -5,7 +5,7 @@ latitude: 17.467913
 longitude: 97.098275
 title: Kyaiktiyo
 type: location
-score: 0.54
+score: 0.46
 loc_type: feature
 ---
 

@@ -4,7 +4,7 @@ done:
 latitude: 44.941747
 loc_type: city
 longitude: 26.02365
-score: 0.33
+score: 0.3
 title: Ploiești
 type: location
 image: ploiesti.jpg

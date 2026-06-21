@@ -10,7 +10,7 @@ loc_type: city
 longitude: -9.37761
 score: 0.52
 snippet: Tiny Clare coast village where the Burren meets the Atlantic near the Cliffs
-  of Moher
+  of Moher.
 title: Doolin
 type: location
 ---

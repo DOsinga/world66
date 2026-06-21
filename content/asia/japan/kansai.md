@@ -10,7 +10,7 @@ latitude: 34.434205
 loc_type: region
 longitude: 135.222523
 score: 0.81
-snippet: Japanese cultural heartland containing Kyoto, Osaka, Nara, Kobe, and Himeji
+snippet: Japanese cultural heartland containing Kyoto, Osaka, Nara, Kobe, and Himeji.
 title: Kansai
 type: location
 ---

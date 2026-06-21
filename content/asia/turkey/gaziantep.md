@@ -10,7 +10,7 @@ loc_type: city
 longitude: 37.3754
 score: 0.51
 snippet: Southeastern Turkish city known for its food culture, especially baklava,
-  pistachios, and kebabs
+  pistachios, and kebabs.
 sources:
 - https://en.wikipedia.org/wiki/Gaziantep
 - https://en.wikivoyage.org/wiki/Gaziantep

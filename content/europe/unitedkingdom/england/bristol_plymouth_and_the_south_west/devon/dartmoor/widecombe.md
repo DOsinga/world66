@@ -11,7 +11,7 @@ loc_type: city
 longitude: -3.812579
 score: 0.44
 snippet: Granite Dartmoor village known for Widecombe Fair and the tall-towered St
-  Pancras church
+  Pancras church.
 title: Widecombe-in-the-Moor
 type: location
 ---

@@ -11,7 +11,7 @@ loc_type: city
 longitude: -104.820246
 score: 0.36
 snippet: Wyoming capital on the Great Plains edge, known for rail history and western
-  heritage
+  heritage.
 title: Cheyenne
 type: location
 ---

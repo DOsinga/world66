@@ -4,7 +4,7 @@ loc_type: city
 longitude: -73.454
 score: 0.28
 snippet: Western Connecticut city once called the Hat City for its American hat-making
-  industry
+  industry.
 title: Danbury
 type: location
 ---

@@ -6,7 +6,7 @@ loc_type: region
 longitude: -1.743866
 score: 0.43
 snippet: Central England region anchored by Birmingham, with canals, museums, parks,
-  and nearby historic towns
+  and nearby historic towns.
 title: Birmingham and West Midlands
 type: location
 ---

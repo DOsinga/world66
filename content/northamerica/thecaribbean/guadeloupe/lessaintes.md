@@ -11,7 +11,7 @@ loc_type: city
 longitude: -61.5833
 score: 0.58
 snippet: Small Guadeloupe archipelago where Terre-de-Haut surrounds a turquoise bay
-  below Fort Napoléon
+  below Fort Napoléon.
 title: Les Saintes
 type: location
 ---

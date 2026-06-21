@@ -11,7 +11,7 @@ loc_type: city
 longitude: 3.081943
 score: 0.44
 snippet: Auvergne city built from dark Volvic lava stone beside the volcanic Chaîne
-  des Puys
+  des Puys.
 title: Clermont-Ferrand
 type: location
 ---

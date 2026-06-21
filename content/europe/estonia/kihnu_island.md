@@ -11,7 +11,7 @@ loc_type: city
 longitude: 23.985261
 score: 0.41
 snippet: Small Estonian island known for a distinctive living culture of folk songs,
-  crafts, and seafaring
+  crafts, and seafaring.
 title: Kihnu Island
 type: location
 ---

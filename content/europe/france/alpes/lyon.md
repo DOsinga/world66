@@ -12,7 +12,7 @@ loc_type: city
 longitude: 4.832011
 score: 0.59
 snippet: French city at the Rhône-Saône confluence, known for Roman roots and a UNESCO-listed
-  historic centre
+  historic centre.
 title: Lyon
 type: location
 ---

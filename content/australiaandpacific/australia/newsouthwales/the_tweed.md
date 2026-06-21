@@ -6,7 +6,7 @@ latitude: -28.177643
 loc_type: region
 longitude: 153.544623
 score: 0.49
-snippet: Far northeastern New South Wales shire between the Gold Coast and Byron Shire
+snippet: Far northeastern New South Wales shire between the Gold Coast and Byron Shire.
 sources:
 - https://en.wikipedia.org/wiki/Tweed_Shire
 - https://en.wikipedia.org/wiki/Tweed_Heads

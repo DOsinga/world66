@@ -10,7 +10,7 @@ loc_type: city
 longitude: 25.8556
 score: 0.55
 snippet: Zambian town beside Victoria Falls, founded in 1905 as a British South Africa
-  Company hub
+  Company hub.
 sources:
 - https://en.wikipedia.org/wiki/Livingstone,_Zambia
 - https://en.wikivoyage.org/wiki/Livingstone

@@ -11,7 +11,7 @@ loc_type: city
 longitude: -1.785432
 score: 0.31
 snippet: Wiltshire railway town shaped by the Great Western Railway works and the
-  STEAM Museum
+  STEAM Museum.
 title: Swindon
 type: location
 ---

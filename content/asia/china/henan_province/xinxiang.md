@@ -10,7 +10,7 @@ loc_type: city
 longitude: 113.8852
 score: 0.25
 snippet: Northern Henan city near the Taihang Mountains, with scenic canyons and cliff
-  roads nearby
+  roads nearby.
 sources:
 - https://en.wikivoyage.org/wiki/Xinxiang
 title: Xinxiang

@@ -11,7 +11,7 @@ loc_type: city
 longitude: -117.64843
 score: 0.24
 snippet: Inland Empire city east of Los Angeles, grown from citrus groves around Euclid
-  Avenue
+  Avenue.
 title: Ontario
 type: location
 ---

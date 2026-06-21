@@ -10,7 +10,7 @@ latitude: -31.5
 loc_type: region
 longitude: 138.5
 snippet: South Australian inland mountain range of ancient geology, red gorges, and
-  Wilpena Pound
+  Wilpena Pound.
 sources:
 - https://en.wikipedia.org/wiki/Flinders_Ranges
 - https://en.wikipedia.org/wiki/Ikara-Flinders_Ranges_National_Park

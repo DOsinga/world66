@@ -6,7 +6,7 @@ latitude: 50.59556
 loc_type: city
 longitude: 36.587339
 score: 0.2
-snippet: Southwestern Russian city on chalk hills above the Seversky Donets River
+snippet: Southwestern Russian city on chalk hills above the Seversky Donets River.
 sources:
 - https://en.wikipedia.org/wiki/Belgorod
 - https://en.wikipedia.org/wiki/Battle_of_Prokhorovka

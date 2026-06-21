@@ -6,7 +6,7 @@ loc_type: region
 longitude: 41.673
 score: 0.54
 snippet: Georgia's subtropical Black Sea coastline, anchored by Batumi and its seafront
-  boulevard
+  boulevard.
 title: Black Sea Coast
 type: location
 ---

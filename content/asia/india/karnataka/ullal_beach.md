@@ -11,7 +11,7 @@ loc_type: city
 longitude: 74.840728
 score: 0.35
 snippet: Coastal town south of Mangalore, known for a long beach and the Madani Dargah
-  shrine
+  shrine.
 title: Ullal Beach
 type: location
 ---

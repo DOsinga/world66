@@ -11,7 +11,7 @@ loc_type: city
 longitude: 110.3453
 score: 0.54
 snippet: Sarawak's riverside capital, shaped by Brooke-era history and Malay, Chinese,
-  and Dayak cultures
+  and Dayak cultures.
 title: Kuching
 type: location
 ---

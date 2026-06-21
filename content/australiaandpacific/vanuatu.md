@@ -15,7 +15,7 @@ quick_facts:
   Population: 320,000
 score: 0.52
 snippet: South West Pacific archipelago of 83 islands with Melanesian kastom culture
-  and colonial New Hebrides history
+  and colonial New Hebrides history.
 title: Vanuatu
 type: location
 ---

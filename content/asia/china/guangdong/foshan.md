@@ -10,7 +10,7 @@ loc_type: city
 longitude: 113.1056
 score: 0.31
 snippet: Pearl River city historically known for ceramics, metalwork, textiles, and
-  the long-running Shiwan kilns
+  the long-running Shiwan kilns.
 sources:
 - https://en.wikivoyage.org/wiki/Foshan
 title: Foshan

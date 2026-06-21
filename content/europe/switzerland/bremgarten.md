@@ -11,7 +11,7 @@ loc_type: city
 longitude: 8.3336
 score: 0.4
 snippet: Medieval Aargau town wrapped by the Reuss River, with half-timbered houses
-  and a covered bridge
+  and a covered bridge.
 title: Bremgarten
 type: location
 ---

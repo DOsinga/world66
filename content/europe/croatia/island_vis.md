@@ -7,7 +7,7 @@ loc_type: city
 longitude: 16.165472
 score: 0.56
 snippet: Remote Croatian Adriatic island once closed as a Yugoslav military base,
-  with Vis town and Komiža
+  with Vis town and Komiža.
 title: Island Vis
 type: location
 ---

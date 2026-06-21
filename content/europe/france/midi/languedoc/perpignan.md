@@ -11,7 +11,7 @@ loc_type: city
 longitude: 2.8948
 score: 0.46
 snippet: Roussillon city near the Mediterranean and Spanish border, with a strong
-  Catalan identity
+  Catalan identity.
 title: Perpignan
 type: location
 ---

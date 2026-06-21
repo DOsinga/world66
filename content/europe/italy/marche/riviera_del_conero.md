@@ -11,7 +11,7 @@ loc_type: city
 longitude: 13.467505
 score: 0.51
 snippet: Adriatic coastline south of Ancona where Monte Conero drops steeply to beaches
-  and coves
+  and coves.
 title: Riviera del Conero
 type: location
 ---

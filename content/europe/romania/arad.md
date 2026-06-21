@@ -7,7 +7,7 @@ loc_type: city
 longitude: 21.319634
 score: 0.37
 snippet: Western Romanian city on the Mures River, with Austro-Hungarian boulevards
-  and the Arad Fortress
+  and the Arad Fortress.
 title: Arad
 type: location
 ---

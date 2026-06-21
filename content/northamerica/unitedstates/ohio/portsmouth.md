@@ -11,7 +11,7 @@ loc_type: city
 longitude: -82.9977
 score: 0.22
 snippet: Southern Ohio river city known for floodwall murals at the Scioto and Ohio
-  confluence
+  confluence.
 title: Portsmouth
 type: location
 ---

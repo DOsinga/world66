@@ -9,7 +9,7 @@ latitude: 28.7452
 loc_type: city
 longitude: 109.9406
 score: 0.38
-snippet: Ancient town in northwestern Hunan, built above a waterfall on the You River
+snippet: Ancient town in northwestern Hunan, built above a waterfall on the You River.
 sources:
 - https://en.wikivoyage.org/wiki/Hunan
 title: Furong

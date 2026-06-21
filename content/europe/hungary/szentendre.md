@@ -11,7 +11,7 @@ loc_type: city
 longitude: 19.076047
 score: 0.5
 snippet: Baroque Danube Bend town north of Budapest, shaped by Serbian Orthodox refugees
-  and artists
+  and artists.
 title: Szentendre
 type: location
 ---

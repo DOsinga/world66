@@ -11,7 +11,7 @@ loc_type: city
 longitude: 11.805849
 score: 0.56
 snippet: Northern Italian university city near Venice, known for Giotto's frescoes
-  and broad arcaded streets
+  and broad arcaded streets.
 title: Padova
 type: location
 ---

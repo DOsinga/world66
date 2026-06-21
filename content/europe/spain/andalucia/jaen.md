@@ -11,7 +11,7 @@ loc_type: city
 longitude: -3.7902
 score: 0.43
 snippet: Andalusian provincial capital beneath Santa Catalina castle, surrounded by
-  extensive olive groves
+  extensive olive groves.
 title: Jaén
 type: location
 ---

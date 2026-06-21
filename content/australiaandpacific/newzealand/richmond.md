@@ -7,7 +7,7 @@ loc_type: city
 longitude: 173.187226
 score: 0.36
 snippet: Tasman District city near Nelson, set between the Waimea Estuary and surrounding
-  orchards
+  orchards.
 title: Richmond
 type: location
 ---

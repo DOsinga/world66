@@ -3,7 +3,7 @@ latitude: 43.72
 loc_type: region
 longitude: 11.0
 snippet: Southwestern Florentine district along the Arno and Elsa valleys, including
-  Vinci, Leonardo da Vinci's birthplace
+  Vinci, Leonardo da Vinci's birthplace.
 title: Empolese Valdelsa
 type: location
 ---

@@ -10,7 +10,7 @@ loc_type: city
 longitude: -72.6856
 score: 0.53
 snippet: Green Mountains village below Mount Mansfield, known for skiing, foliage,
-  and the Stowe Recreation Path
+  and the Stowe Recreation Path.
 title: Stowe
 type: location
 ---

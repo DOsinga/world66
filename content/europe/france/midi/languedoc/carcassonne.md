@@ -9,7 +9,7 @@ latitude: 43.213
 loc_type: city
 longitude: 2.3491
 score: 0.65
-snippet: Medieval walled city above the River Aude, with 52 towers and double ramparts
+snippet: Medieval walled city above the River Aude, with 52 towers and double ramparts.
 title: Carcassonne
 type: location
 ---

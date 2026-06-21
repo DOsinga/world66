@@ -8,7 +8,7 @@ loc_type: region
 longitude: 44.120832
 score: 0.43
 snippet: Northern Armenian region along the Georgian border, shaped by Vanadzor valley
-  and the Debed River gorge
+  and the Debed River gorge.
 title: Lori Marz
 type: location
 ---

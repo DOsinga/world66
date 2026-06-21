@@ -11,7 +11,7 @@ loc_type: city
 longitude: 11.406354
 score: 0.55
 snippet: Veneto city at the foot of the Berici mountains, closely tied to architect
-  Andrea Palladio
+  Andrea Palladio.
 title: Vicenza
 type: location
 ---

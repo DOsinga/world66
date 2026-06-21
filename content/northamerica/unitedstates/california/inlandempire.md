@@ -6,7 +6,7 @@ loc_type: region
 longitude: -117.437968
 score: 0.34
 snippet: Southern California inland region spanning San Bernardino and Riverside counties
-  east of Los Angeles
+  east of Los Angeles.
 title: Inland Empire
 type: location
 ---

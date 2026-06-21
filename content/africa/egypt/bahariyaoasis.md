@@ -11,7 +11,7 @@ loc_type: feature
 longitude: 28.8629
 score: 0.42
 snippet: Northern Western Desert oasis southwest of Cairo, centred on springs, palm
-  groves, and Bawiti
+  groves, and Bawiti.
 sources:
 - https://en.wikipedia.org/wiki/Bahariya_Oasis
 title: Bahariya Oasis

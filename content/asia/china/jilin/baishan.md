@@ -10,7 +10,7 @@ loc_type: city
 longitude: 126.4179
 score: 0.29
 snippet: Mountain city in southern Jilin near the Yalu River and Changbai Mountain
-  landscapes
+  landscapes.
 sources:
 - https://en.wikivoyage.org/wiki/Baishan
 title: Baishan

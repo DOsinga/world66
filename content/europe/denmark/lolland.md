@@ -1,8 +1,8 @@
 ---
-latitude: 54.7700
-longitude: 11.4900
+latitude: 54.77
 loc_type: feature
-score: 0.52
+longitude: 11.49
+score: 0.44
 title: Lolland
 type: location
 ---

@@ -2,7 +2,7 @@
 latitude: 54.9396
 loc_type: city
 longitude: 10.2562
-score: 6.0
+score: 0.36
 tags:
 - things_to_do
 - sight

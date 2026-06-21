@@ -1,8 +1,8 @@
 ---
-latitude: 54.8300
-longitude: 10.8000
+latitude: 54.83
 loc_type: feature
-score: 0.50
+longitude: 10.8
+score: 0.47
 title: Langeland
 type: location
 ---

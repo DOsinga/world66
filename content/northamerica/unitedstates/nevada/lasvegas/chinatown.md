@@ -3,10 +3,14 @@ title: Chinatown
 type: neighbourhood
 latitude: 36.1257
 longitude: -115.2031
-snippet: "Spring Mountain Road's Asian strip — restaurants, mahjong, late-night noodles"
+snippet: Spring Mountain Road's Asian strip — restaurants, mahjong, late-night noodles
 tags:
 - things_to_do
 - neighbourhood
+image: chinatown.jpg
+image_source: https://commons.wikimedia.org/wiki/File:20140629-0024_Atlantic_Times_Square.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Nandaro
 ---
 
 Las Vegas's Chinatown is not a tight historic neighbourhood like San Francisco's or New York's — it is a three-mile commercial strip along Spring Mountain Road, west of the Strip, packed with mini-malls and free parking. What it lacks in walkable charm it more than makes up for in food: this is genuinely one of the best places to eat in Las Vegas, full stop.

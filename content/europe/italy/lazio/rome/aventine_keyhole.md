@@ -4,18 +4,19 @@ admission: Free
 latitude: 41.8823
 longitude: 12.4777
 opening_hours: Always accessible (exterior only)
+score: 7.6
 snippet: A keyhole perfectly framing St. Peter's dome in a secret-society garden
 story: The hole through which you look belongs to the gate of the Priory of the Knights
-  of Malta, a sovereign entity independent of both Italy and Vatican City. As you peer
-  through, you are technically looking through three different sovereign territories
+  of Malta, a sovereign entity independent of both Italy and Vatican City. As you
+  peer through, you are technically looking through three different sovereign territories
   — Italy, the Knights of Malta enclave, and then Vatican City — all aligned in a
   perfect vista down the avenue of the garden.
 tags:
 - things_to_do
 - sight
+- aventino
 title: Aventine Keyhole
 type: poi
-score: 7.6
 ---
 
 On the Aventine Hill, a wrought-iron keyhole in the gate of the Knights of Malta priory frames a perfectly aligned view of St. Peter's dome at the end of a long garden avenue. The effect is precise and strange: the dome appears to hover exactly centred in the hole, the trees forming a natural tunnel toward it. Locals and visitors queue patiently for their turn to look.

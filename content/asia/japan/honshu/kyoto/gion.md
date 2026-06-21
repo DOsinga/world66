@@ -1,7 +1,8 @@
 ---
-latitude: 35.0030
+latitude: 35.003
 longitude: 135.7755
-snippet: Kyoto's most famous geisha district, north and south of Shijō-dōri east of the Kamo
+snippet: Kyoto's most famous geisha district, north and south of Shijō-dōri east of
+  the Kamo
 tags:
 - things_to_do
 - neighbourhood
@@ -9,6 +10,10 @@ tags:
 - sight
 title: Gion
 type: neighbourhood
+image: gion.jpg
+image_source: https://commons.wikimedia.org/wiki/File:150124_Gion_Kyoto_Japan01s3.jpg
+image_license: CC BY 2.5
+image_attribution: 663highland
 ---
 
 Gion is Kyoto's most famous *hanamachi* (geisha district), occupying the streets immediately east of the Kamo River around the Shijō-dōri shopping axis. The northern half centres on the willow-lined canal of Shirakawa; the southern half centres on Hanamikōji, the lantern-lit lane lined with wooden tea houses. The district has been the home of the city's *geiko* and *maiko* tradition since the seventeenth century, and roughly two hundred women still live and train as professional entertainers in the surrounding *okiya* houses.

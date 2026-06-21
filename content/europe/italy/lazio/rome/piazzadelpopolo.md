@@ -3,15 +3,16 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 41.910748
 longitude: 12.476361
+score: 7.9
 snippet: Rome's grand northern gateway with twin churches and an Egyptian obelisk
 tags:
 - things_to_do
 - church
 - monument
 - square
+- pantheon_navona
 title: Piazza del Popolo
 type: poi
-score: 7.9
 ---
 
 The grand oval piazza at Rome's northern gate, entered through the Porta del Popolo from what was once the Via Flaminia — the main road from the north. At the centre stands an Egyptian obelisk that Augustus brought back from Heliopolis, over 3,000 years old. The southern end is framed by two near-identical baroque churches, Santa Maria in Montesanto and Santa Maria dei Miracoli, which create a theatrical symmetry as you enter the city.

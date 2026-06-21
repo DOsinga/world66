@@ -5,14 +5,14 @@ done:
 latitude: 55.950774
 longitude: -3.182425
 phone: 0131 556 4481
+score: 6.8
 snippet: Unpretentious Royal Mile pub with live folk and comedy in the basement
 tags:
 - bars_and_cafes
-- old_town
+- oldtown
 - bar
 title: Canon's Gait
 type: poi
-score: 6.8
 ---
 
 A reliable Royal Mile pub at the Canongate end with a basement music room that hosts local bands, comedy and folk sessions most nights. Good range of Scottish ales on tap and an unpretentious crowd of locals — rare on this stretch of the Royal Mile.

@@ -3,15 +3,16 @@ address: '3500 Las Vegas Blvd S # R05'
 latitude: 36.077863
 longitude: -115.172264
 phone: (702) 792-9222
+score: 6.8
 tags:
 - eating_out
 - restaurant
 - palace
 - beach
 - bar
+- the_strip
 title: Joe's Seafood Prime Steak & Stone Crabs
 type: poi
-score: 6.8
 ---
 
 From their famous home in Miami Beach, the crabs have arrived in Vegas!

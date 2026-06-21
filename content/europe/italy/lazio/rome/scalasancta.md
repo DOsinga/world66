@@ -6,13 +6,14 @@ done:
 latitude: 41.9015
 longitude: 12.4589
 opening_hours: Daily 06:00–13:30, 15:00–18:30
+score: 6.6
 snippet: Holy stairs climbed on knees, said to be from Pilate's palace
 tags:
 - things_to_do
 - church
+- prati
 title: Scala Sancta
 type: poi
-score: 6.6
 ---
 
 Twenty-eight marble steps said to be those Christ climbed to face Pontius Pilate in Jerusalem, brought to Rome by St. Helena (mother of Constantine) in the 4th century. The marble is protected under wooden boards; the faithful ascend on their knees — the only way the steps may be climbed. At the top is the Sancta Sanctorum, the pope's private chapel containing medieval relics.

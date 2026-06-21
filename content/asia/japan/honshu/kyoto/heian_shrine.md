@@ -1,14 +1,16 @@
 ---
 latitude: 35.0163
 longitude: 135.7825
-snippet: Vermilion 1895 shrine with one of Kyoto's largest torii gates and a notable strolling garden
+score: 6.9
+snippet: Vermilion 1895 shrine with one of Kyoto's largest torii gates and a notable
+  strolling garden
 tags:
 - things_to_do
 - shrine
 - sight
+- philosophers_walk
 title: Heian Shrine
 type: poi
-score: 6.9
 ---
 
 Heian Shrine was built in 1895 to mark the eleven-hundredth anniversary of the founding of Kyoto. The main buildings are a five-eighths scale reconstruction of the original eighth-century Imperial Palace, in brilliant vermilion-and-green imperial colours that come as a shock if you arrive expecting weathered cypress. The enormous concrete *otorii* on the approach road — twenty-four metres tall, painted vermilion — is the unmistakable landmark of the surrounding museum district.

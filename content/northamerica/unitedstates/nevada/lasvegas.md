@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-11'
+  major_city_neighborhoods: '2026-06-14'
   poi_cleanup: '2026-04-21'
 image: lasvegas.jpg
 image_attribution: King of Hearts

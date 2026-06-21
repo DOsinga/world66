@@ -1,16 +1,20 @@
 ---
-title: High Roller
-type: poi
 address: 3545 S Las Vegas Blvd
 latitude: 36.1177
 longitude: -115.1682
-snippet: "550-foot observation wheel at The LINQ Promenade"
+score: 6.8
+snippet: 550-foot observation wheel at The LINQ Promenade
+story: 'At 550 feet, the High Roller was the tallest observation wheel in the world
+  from its 2014 opening until Dubai''s Ain Dubai overtook it in 2021. Each cabin holds
+  up to 40 people; a single revolution takes 30 minutes.
+
+  '
 tags:
 - things_to_do
 - sight
-story: >
-  At 550 feet, the High Roller was the tallest observation wheel in the world from its 2014 opening until Dubai's Ain Dubai overtook it in 2021. Each cabin holds up to 40 people; a single revolution takes 30 minutes.
-score: 6.8
+- the_strip
+title: High Roller
+type: poi
 ---
 
 The High Roller is the giant observation wheel rising over the LINQ Promenade, between The LINQ and Flamingo casinos. The 28 glass cabins are large enough to walk around in — each can hold 40 passengers — and the half-hour ride circles slowly enough that you can take in the whole Strip at a leisurely pace.

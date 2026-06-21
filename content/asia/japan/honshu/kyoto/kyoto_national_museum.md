@@ -1,14 +1,15 @@
 ---
 latitude: 34.9905
 longitude: 135.7728
+score: 8.8
 snippet: The principal museum for Kyoto's pre-modern art and Buddhist heritage
 tags:
 - things_to_do
 - museum
 - sight
+- higashiyama
 title: Kyoto National Museum
 type: poi
-score: 8.8
 ---
 
 The Kyoto National Museum opened in 1897 in a red-brick French-Renaissance pavilion designed by Tokuma Katayama — the same architect who built the Akasaka Detached Palace in Tokyo — and was joined in 2014 by a sleek glass-and-steel extension by Yoshio Taniguchi. The combined museum houses the foremost public collection of pre-modern Japanese art outside Tokyo, with particular strength in Buddhist sculpture and painting drawn from temples in and around Kyoto.

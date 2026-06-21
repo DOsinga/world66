@@ -1,15 +1,18 @@
 ---
-latitude: 35.0080
+latitude: 35.008
 longitude: 135.7711
-snippet: Narrow geisha-quarter alley along the Kamo River, lined with restaurants and tea houses
+score: 7.7
+snippet: Narrow geisha-quarter alley along the Kamo River, lined with restaurants
+  and tea houses
 tags:
 - things_to_do
 - gion
 - nightlife
 - sight
+- eating_out
+- bars_and_cafes
 title: Pontochō
 type: poi
-score: 7.7
 ---
 
 Pontochō is a single five-block-long alley running parallel to the western bank of the Kamo River between Sanjō and Shijō. It is one of Kyoto's five remaining *hanamachi* (geisha quarters), and from late spring through autumn many of its riverside restaurants extend wooden platforms — *kawayuka* — out over the river bank for open-air dining.

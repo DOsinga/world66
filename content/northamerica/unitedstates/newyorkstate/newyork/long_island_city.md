@@ -6,6 +6,10 @@ tags:
 - day_trips
 title: Long Island City
 type: neighbourhood
+image: long_island_city.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Long_Island_City_New_York_May_2015_panorama_3.jpg
+image_license: CC BY-SA 3.0
+image_attribution: King of Hearts
 ---
 
 Long Island City was its own independent city until it merged into New York in 1898, and it still feels like a distinct place. Sitting in western Queens just one stop from Midtown on the 7 train, LIC has become one of the city’s best neighborhoods for art and waterfront views.

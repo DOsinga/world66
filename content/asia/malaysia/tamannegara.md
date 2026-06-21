@@ -9,6 +9,8 @@ latitude: 4.3833
 loc_type: city
 longitude: 102.3833
 score: 0.53
+snippet: Ancient Malaysian rainforest national park entered from Kuala Tahan, with
+  canopy walks, rivers, and jungle trails.
 title: Taman Negara
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 39.342
 loc_type: city
 longitude: -91.1952
 score: 0.22
+snippet: Pike County seat in northeastern Missouri, tied to Champ Clark and a courthouse-square
+  civic history.
 title: Bowling Green
 type: location
 ---

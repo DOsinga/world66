@@ -9,6 +9,8 @@ latitude: 42.8534
 loc_type: city
 longitude: 13.5747
 score: 0.52
+snippet: Travertine-built Marche city between two rivers, ringed by mountains and
+  anchored by elegant Piazza del Popolo.
 title: Ascoli Piceno
 type: location
 ---

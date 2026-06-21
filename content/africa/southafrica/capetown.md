@@ -10,6 +10,8 @@ latitude: -33.92883
 loc_type: city
 longitude: 18.41722
 score: 0.8
+snippet: South African coastal city beneath Table Mountain, blending beaches, vineyards,
+  colonial history, and post-apartheid complexity.
 title: Cape Town
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 47.6835
 loc_type: city
 longitude: 17.6343
 score: 0.44
+snippet: Baroque Hungarian city at three rivers, with a compact old town between Budapest
+  and Vienna.
 title: Győr
 type: location
 ---

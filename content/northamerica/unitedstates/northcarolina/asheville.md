@@ -10,6 +10,8 @@ latitude: 35.595363
 loc_type: city
 longitude: -82.550841
 score: 0.55
+snippet: Blue Ridge mountain city with an independent arts scene, craft breweries,
+  and the sprawling Biltmore Estate nearby.
 title: Asheville
 type: location
 ---

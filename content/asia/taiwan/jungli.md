@@ -10,6 +10,8 @@ latitude: 24.954964
 loc_type: city
 longitude: 121.236332
 score: 0.3
+snippet: Taoyuan city near Taipei, distinguished by Southeast Asian market streets
+  around Zhongli railway station.
 title: Zhongli
 type: location
 ---

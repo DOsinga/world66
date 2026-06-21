@@ -10,6 +10,8 @@ latitude: 4.977
 loc_type: city
 longitude: -2.737
 score: 0.39
+snippet: Ghanaian stilt village on Lake Tadane, reached by canoe through papyrus channels
+  near Côte d'Ivoire.
 title: Nzulezu
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 37.950848
 loc_type: city
 longitude: -86.769701
 score: 0.26
+snippet: Ohio River town in southern Indiana, founded by Swiss settlers and still
+  marked by Alpine heritage.
 title: Tell City
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 39.225189
 loc_type: city
 longitude: -106.001952
 score: 0.35
+snippet: High Colorado town in South Park, linked to mining history, mountain passes,
+  and a famous animated namesake.
 title: Fairplay
 type: location
 ---

@@ -8,6 +8,8 @@ latitude: 42.1428
 loc_type: city
 longitude: -77.0547
 score: 0.38
+snippet: Finger Lakes city known for glassmaking, the Corning Museum of Glass, and
+  restored Market Street.
 title: Corning
 type: location
 ---

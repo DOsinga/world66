@@ -9,6 +9,8 @@ latitude: 25.277989
 loc_type: city
 longitude: 110.291062
 score: 0.66
+snippet: Guangxi karst city where limestone peaks rise from rivers and rice fields
+  like classical Chinese paintings.
 title: Guilin
 type: location
 ---

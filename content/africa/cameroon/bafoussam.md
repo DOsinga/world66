@@ -10,6 +10,8 @@ latitude: 5.4759
 loc_type: city
 longitude: 10.4218
 score: 0.28
+snippet: Cameroonian highland city and Bamiléké cultural centre, set in the cool Bamboutos
+  Mountains.
 sources:
 - https://en.wikipedia.org/wiki/Bafoussam
 - https://fr.wikivoyage.org/wiki/Bafoussam

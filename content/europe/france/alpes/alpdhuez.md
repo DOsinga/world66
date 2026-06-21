@@ -10,6 +10,8 @@ latitude: 45.092
 loc_type: city
 longitude: 6.068
 score: 0.53
+snippet: Alpine resort village where Tour de France hairpins climb to a major ski
+  area above Bourg-d'Oisans.
 title: Alpe d'Huez
 type: location
 ---

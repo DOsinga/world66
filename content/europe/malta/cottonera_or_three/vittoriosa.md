@@ -8,6 +8,8 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Birgu-Vittoriosa_-_Malta.jpg
 latitude: 35.8881
 loc_type: city
+snippet: Grand Harbour fortified town, Birgu to locals, and the Knights of St. John's
+  first Maltese seat
 longitude: 14.5238
 score: 0.5
 title: Vittoriosa

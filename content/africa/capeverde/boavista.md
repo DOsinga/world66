@@ -7,6 +7,8 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Praia_de_Santa_M%C3%B3nica_Boa_Vista_Cape_Verde.jpg
 latitude: 16.099509
 loc_type: city
+snippet: Cape Verde island of desert flats, dune fields, and long white beaches beyond
+  the resorts
 longitude: -22.800941
 score: 0.48
 sources:

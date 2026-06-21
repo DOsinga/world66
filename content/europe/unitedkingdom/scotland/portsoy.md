@@ -2,6 +2,8 @@
 title: Portsoy
 type: location
 loc_type: city
+snippet: Moray Firth fishing village with twin harbours, Portsoy marble, and 17th-century
+  stone lanes
 latitude: 57.6844
 longitude: -2.6918
 score: 0.4

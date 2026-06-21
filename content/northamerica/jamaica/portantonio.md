@@ -8,6 +8,8 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Frenchman%27s_cove1.JPG
 latitude: 18.175
 loc_type: city
+snippet: Northeastern Jamaican harbour town backed by lush hills, Victorian architecture,
+  and rain-fed beaches
 longitude: -76.4525
 score: 0.51
 title: Port Antonio

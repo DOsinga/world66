@@ -8,6 +8,8 @@ done:
   location_enrich: '2026-05-21'
 score: 0.42
 loc_type: city
+snippet: Dolenjska town wrapped by a horseshoe bend of the Krka River, with a compact
+  medieval core
 ---
 
 Novo Mesto — "New Town" — is the largest town in the Dolenjska region of south-eastern Slovenia, roughly an hour's drive from Ljubljana on the way to the Croatian border. It sits in a loop of the [Krka River](/europe/slovenia/novo_mesto/krka_river), which curls around the medieval old town in a near-perfect horseshoe, and the skyline is dominated by the twin spires of [St Nicholas's Cathedral](/europe/slovenia/novo_mesto/novo_mesto_cathedral) on its bluff above the water. The name is misleading: the town was founded by the Habsburg Duke Rudolf IV in 1365, which makes it over six and a half centuries old — new only by Slovenian standards.

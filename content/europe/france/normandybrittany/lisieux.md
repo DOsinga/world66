@@ -8,6 +8,8 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Basilique_Sainte-Th%C3%A9r%C3%A8se_de_Lisieux-2876.jpg
 latitude: 49.146083
 loc_type: city
+snippet: Normandy pilgrimage city devoted to Saint Thérèse, with a vast basilica above
+  the town
 longitude: 0.225517
 score: 0.44
 title: Lisieux

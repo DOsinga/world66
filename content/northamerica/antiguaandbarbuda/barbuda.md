@@ -4,6 +4,8 @@ done:
   location_enrich: '2026-05-23'
 latitude: 17.6266
 loc_type: city
+snippet: Quiet Caribbean island north of Antigua, known for lagoons, pink sand, and
+  a single main village
 longitude: -61.7713
 score: 0.54
 title: Barbuda

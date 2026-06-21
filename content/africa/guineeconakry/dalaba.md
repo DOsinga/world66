@@ -4,6 +4,8 @@ done:
   location_enrich: '2026-05-21'
 latitude: 10.962459
 loc_type: city
+snippet: Guinean highland town in the Fouta Djallon, a cool base for waterfalls and
+  guided hikes
 longitude: -9.192616
 score: 0.28
 sources:

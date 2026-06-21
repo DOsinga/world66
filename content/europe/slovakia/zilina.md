@@ -8,6 +8,8 @@ done:
   location_enrich: '2026-05-29'
 score: 0.38
 loc_type: city
+snippet: Northwestern Slovak city where the Váh and Kysuca rivers meet beneath the
+  Malá Fatra mountains
 image: zilina.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Budat%C3%ADn_hrad_-_by_Pudelek.jpg
 image_license: CC BY-SA 4.0

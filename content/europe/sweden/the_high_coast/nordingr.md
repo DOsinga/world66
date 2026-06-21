@@ -8,6 +8,8 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Nordingr%C3%A5_kyrka_05.jpg
 latitude: 62.8459
 loc_type: city
+snippet: High Coast church village surrounded by red granite cliffs, fishing harbours,
+  and post-glacial shoreline
 longitude: 18.6227
 score: 0.43
 title: Nordingrå

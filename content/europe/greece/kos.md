@@ -8,6 +8,8 @@ image_license: CC BY-SA 3.0 de
 image_source: https://commons.wikimedia.org/wiki/File:Greece_kos_city.jpg
 latitude: 36.8939
 loc_type: city
+snippet: Dodecanese island town with a Knights' castle, ancient ruins, beaches, and
+  Hippocrates legends
 longitude: 27.2882
 score: 0.59
 title: Kos

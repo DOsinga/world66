@@ -8,6 +8,8 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Wickenberg_-Frontier_Street.jpg
 latitude: 33.9686
 loc_type: city
+snippet: Arizona desert town with gold-rush history, dude ranches, and the Vulture
+  Mine in its backstory
 longitude: -112.7299
 score: 0.34
 title: Wickenburg

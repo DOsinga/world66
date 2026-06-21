@@ -353,64 +353,8 @@
 {% endif %}
 {% endblock %}
 
-{% block feedback %}
-<div class="footer-feedback">
-  <a href="#" id="feedback-btn" class="footer-feedback-link">Suggest an edit</a>
-  <div id="feedback-form" class="footer-feedback-form" hidden>
-    <form id="feedback-submit-form">
-      <input type="hidden" name="page_path" value="{{ page.path }}">
-      <textarea name="feedback" maxlength="2000" rows="3"
-        placeholder="What would you like to suggest? Corrections, additions, new places..."></textarea>
-      <div class="footer-feedback-actions">
-        <button type="submit">File on GitHub</button>
-        <button type="button" id="feedback-cancel">Cancel</button>
-      </div>
-      <div id="feedback-status" class="footer-feedback-status" hidden></div>
-    </form>
-  </div>
-</div>
-{% endblock %}
-
 {% block extra_js %}
 <script>
-(function() {
-  var fbBtn = document.getElementById('feedback-btn');
-  var fbForm = document.getElementById('feedback-form');
-  var fbCancel = document.getElementById('feedback-cancel');
-  var fbSubmit = document.getElementById('feedback-submit-form');
-  if (fbBtn && fbForm) {
-    fbBtn.addEventListener('click', function(e) { e.preventDefault(); fbForm.hidden = false; fbBtn.hidden = true; });
-    fbCancel.addEventListener('click', function() { fbForm.hidden = true; fbBtn.hidden = false; });
-    fbSubmit.addEventListener('submit', function(e) {
-      e.preventDefault();
-      var status = document.getElementById('feedback-status');
-      var textarea = fbSubmit.querySelector('textarea');
-      var feedback = textarea.value.trim();
-      var pagePath = fbSubmit.querySelector('input[name="page_path"]').value;
-      if (!feedback) {
-        status.hidden = false;
-        status.textContent = 'Please enter a suggestion first.';
-        return;
-      }
-      var body = [
-        '**Page:** `' + pagePath + '`',
-        '**URL:** ' + window.location.href,
-        '',
-        '---',
-        '',
-        feedback
-      ].join('\n');
-      var params = new URLSearchParams({
-        title: 'Feedback: ' + pagePath,
-        body: body,
-        labels: 'feedback'
-      });
-      status.hidden = false;
-      status.textContent = 'Opening GitHub...';
-      window.open('https://github.com/DOsinga/world66/issues/new?' + params.toString(), '_blank', 'noopener');
-    });
-  }
-})();
 (function() {
   {% if is_continent %}
   initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {{ continent_bounds }});

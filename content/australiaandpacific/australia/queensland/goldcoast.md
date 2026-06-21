@@ -2,10 +2,16 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-05'
+image: goldcoast.jpg
+image_attribution: lix-
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Gold_Coast_Australia_beach.jpg
 latitude: -28.002373
 loc_type: region
 longitude: 153.414599
 score: 0.63
+snippet: Queensland beach region of surf breaks, high-rise resorts, theme parks, and
+  rainforest hinterland.
 tags:
 - things_to_do
 - beach
@@ -13,10 +19,6 @@ tags:
 - beaches
 title: Gold Coast
 type: location
-image: goldcoast.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Gold_Coast_Australia_beach.jpg
-image_license: CC BY 2.0
-image_attribution: lix-
 ---
 
 The Gold Coast stretches for about 40 kilometres of white sand beach from [Coolangatta](/australiaandpacific/australia/queensland/goldcoast/coolangatta) in the south to South Stradbroke Island in the north, backed by high-rise towers, theme parks, and some of Australia's best surfing breaks. It has been popular since the early 20th century, and the strip around [Surfers Paradise](/australiaandpacific/australia/queensland/goldcoast/surfers_paradise) in particular has turned into a full-blown resort city — hotels, restaurants, nightclubs, and tourist operators crowd every block. The [SkyPoint Observation Deck](/australiaandpacific/australia/queensland/goldcoast/skypoint) at the top of the Q1 Tower gives the best overview of the strip.

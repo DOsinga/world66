@@ -10,6 +10,8 @@ latitude: -32.879997
 loc_type: city
 longitude: -71.247355
 score: 0.33
+snippet: Valparaíso agricultural city in the Aconcagua valley, surrounded by avocado
+  and cherimoya farmland.
 title: Quillota
 type: location
 ---

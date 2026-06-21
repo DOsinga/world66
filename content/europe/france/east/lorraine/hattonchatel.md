@@ -7,6 +7,8 @@ latitude: 48.994407
 loc_type: city
 longitude: 5.677904
 score: 0.39
+snippet: Fortified Lorraine village restored after World War I, overlooking the Woëvre
+  plain from a rocky promontory.
 sources:
 - https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Hattonch%C3%A2tel
 - https://en.wikipedia.org/wiki/L%27%C3%89tanche_Abbey,_Lorraine

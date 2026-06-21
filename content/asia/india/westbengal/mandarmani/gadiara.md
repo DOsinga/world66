@@ -10,6 +10,8 @@ latitude: 22.222494
 loc_type: city
 longitude: 88.047416
 score: 0.27
+snippet: Hooghly-Rupnarayan riverside village near Kolkata, used for picnics and small
+  boat trips.
 title: Gadiara
 type: location
 ---

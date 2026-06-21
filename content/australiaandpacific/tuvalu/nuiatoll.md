@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: -7.238
+loc_type: region
 longitude: 177.148
+score: 0.35
+snippet: Isolated Tuvaluan atoll with an I-Kiribati-related dialect and a small lagoon-side
+  community.
 title: Nui Atoll
 type: location
-score: 0.35
-loc_type: region
 ---
 
 Nui is one of Tuvalu's nine atolls, located roughly in the centre of the island chain. It is among the more isolated of the group, with a small population spread across a few islets around the lagoon. The main community is the village of Tanrake.

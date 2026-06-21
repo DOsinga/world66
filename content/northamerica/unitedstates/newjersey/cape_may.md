@@ -9,6 +9,8 @@ latitude: 39.176539
 loc_type: city
 longitude: -74.801212
 score: 0.47
+snippet: Victorian seaside resort at New Jersey's southern tip, with landmark houses
+  and broad Atlantic beaches.
 title: Cape May
 type: location
 ---

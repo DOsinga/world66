@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:China_Jilin_City_Zhuquesha
 latitude: 43.8461
 loc_type: city
 longitude: 126.5616
+score: 0.31
+snippet: Northeast Chinese river city famed for winter rime ice along the Songhua
+  River.
 sources:
 - https://en.wikivoyage.org/wiki/Jilin_(city)
 title: Jilin City
 type: location
-score: 0.31
 ---
 
 Jilin City shares its province's name, which causes some confusion, but the city has a distinct identity firmly rooted in the Songhua River that bisects it. The river matters here in a way that rivers rarely do in modern Chinese cities: it flows through the urban core, it shapes the winter microclimate, and it is the reason the city became famous for one of northeast China's genuinely spectacular natural events. When the temperature drops in December and January, warm water released from the Fengman hydroelectric dam upstream keeps the river from fully freezing, and the resulting moisture meets the frigid air to coat the riverside trees in thick white [rime ice](/asia/china/jilin/jilin_city/songhua_river_rime_ice) — crystalline formations that can last for weeks and turn the [riverside promenade](/asia/china/jilin/jilin_city/jilin_city_riverfront) into something from a fairytale. Jilin's rimmed trees are counted among China's four major natural wonders, and this is not mere civic boasting: people do come specifically to see them.

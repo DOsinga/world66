@@ -10,6 +10,8 @@ latitude: -33.64445
 loc_type: city
 longitude: -78.826224
 score: 0.48
+snippet: Remote volcanic island in the Juan Fernandez archipelago, linked to Alexander
+  Selkirk and Defoe's castaway tale.
 title: Robinson Crusoe Island
 type: location
 ---

@@ -12,6 +12,8 @@ latitude: 50.8276
 loc_type: city
 longitude: 3.266
 score: 0.4
+snippet: Flemish river city with medieval towers, linen history, and the Battle of
+  the Golden Spurs.
 title: Kortrijk
 type: location
 ---

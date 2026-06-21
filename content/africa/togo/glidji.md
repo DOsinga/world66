@@ -4,9 +4,11 @@ done:
 latitude: 6.2361
 loc_type: city
 longitude: 1.6022
+score: 0.21
+snippet: Guin spiritual town near Aného, centered on the Epe-Ekpe festival and its
+  sacred forest.
 title: Glidji
 type: location
-score: 0.21
 ---
 
 Glidji is a small town a few kilometres inland from [Aného](/africa/togo/aneho) on the coast of [Togo](/africa/togo), and it is the spiritual centre of the Guin (Mina) people. For most of the year, Glidji is a quiet farming settlement of compounds, mango trees and a handful of dusty streets. For one weekend each September, however, it is the centre of the Togolese religious calendar: the **[Epe-Ekpe festival](/africa/togo/glidji/epe_ekpe_festival)**, the Guin New Year and one of West Africa's most distinctive traditional ceremonies, draws tens of thousands of pilgrims to the sacred forest on the town's edge.

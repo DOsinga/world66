@@ -10,6 +10,8 @@ latitude: 52.6638
 loc_type: city
 longitude: -8.6267
 score: 0.47
+snippet: Shannon-side Irish city with a restored medieval core and a confident student-and-food
+  scene.
 title: Limerick
 type: location
 ---

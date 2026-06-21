@@ -1,9 +1,11 @@
 ---
+latitude: -19.0
+loc_type: region
+longitude: 32.7
+snippet: Zimbabwean mountain region along the Mozambique border, with misty valleys,
+  forested peaks, and cool highland ecosystems.
 title: Eastern Highlands
 type: location
-loc_type: region
-latitude: -19.0
-longitude: 32.7
 ---
 
 The Eastern Highlands are Zimbabwe's most dramatic landscape — a chain of mountain ranges running along the Mozambique border from Nyanga in the north to Chimanimani in the south. After the flat bushveld that covers most of the country, the sudden rise of forested peaks, mist-draped valleys and rushing streams comes as a genuine surprise. Altitude brings cooler temperatures and higher rainfall, which together produce ecosystems found nowhere else in Zimbabwe.

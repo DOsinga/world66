@@ -9,6 +9,8 @@ latitude: 51.1282
 loc_type: city
 longitude: 71.4307
 score: 0.39
+snippet: Purpose-built Kazakh capital on the steppe, defined by monumental architecture
+  along the Ishim River.
 title: Astana
 type: location
 ---

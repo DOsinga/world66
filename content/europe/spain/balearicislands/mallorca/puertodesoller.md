@@ -10,6 +10,8 @@ latitude: 39.7938
 loc_type: city
 longitude: 2.6937
 score: 0.58
+snippet: Mallorcan port village on a circular bay, reached by vintage rail and tram
+  through Sóller.
 title: Puerto de Soller
 type: location
 ---

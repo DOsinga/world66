@@ -9,6 +9,8 @@ latitude: 39.703014
 loc_type: city
 longitude: 21.62536
 score: 0.64
+snippet: Thessaly town beneath Meteora's sandstone pinnacles, where cliff-top monasteries
+  rise above the plain.
 title: Kalambaka
 type: location
 ---

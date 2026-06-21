@@ -15,6 +15,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 6.2
 ---
 
 The bronze statue in front of the Adil Shah Palace catches Abbé Faria mid-trance — he leans forward over a kneeling woman, his hand extended, in the moment of inducing what he called *sommeil lucide* or "lucid sleep." The pose is theatrical and unmistakable; the statue is one of the most photographed monuments in central Panaji.

@@ -15,6 +15,7 @@ story: >
   show the whole medieval world in miniature: saints and sinners, monsters and
   musicians, biblical scenes and scenes of daily life, carved into the misericords
   and canopy work with extraordinary craft.
+score: 8.7
 ---
 
 Chester Cathedral occupies the northeast corner of the city within the walls, a large sandstone building that has been in continuous religious use for nearly a thousand years. The current structure is mostly fourteenth-century Gothic, though elements of the original Norman building survive in the north transept.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Cathedral square — the social and architectural centre of Jaén."
+score: 6.5
 ---
 
 The Plaza de Santa María is the heart of Jaén — a broad open space squeezed between the south facade of the cathedral and the old episcopal palace. The plaza was opened up only in the 17th century, when several blocks of medieval housing were demolished to make room for the cathedral's monumental presence.

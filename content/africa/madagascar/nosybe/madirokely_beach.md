@@ -9,6 +9,7 @@ tags:
   - sight
   - beach
   - neighbourhood
+score: 6.1
 ---
 
 The strip of beach running from Madirokely south to Ambatoloaka is where most of Nosy Be's tourism is concentrated. The sand is decent rather than spectacular, but the row of restaurants, dive shops and small hotels facing the sea is the most convenient base on the island. Pirogues for day trips set out from here.

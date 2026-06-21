@@ -8,6 +8,7 @@ latitude: 32.6865
 longitude: -117.1583
 sources:
   - https://en.wikipedia.org/wiki/San_Diego%E2%80%93Coronado_Bridge
+score: 7.5
 ---
 
 The Coronado Bridge is one of the more striking pieces of infrastructure in California. Opened in 1969, it arcs 2.1 miles across San Diego Bay on a graceful curve — the curve was an engineering necessity to fit within the available land at each end, but it produces a structure that looks designed rather than merely built. The roadway rises to 200 feet at its highest point, giving drivers a sweeping view of downtown San Diego to the north and the open bay to the south.

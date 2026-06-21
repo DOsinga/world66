@@ -6,6 +6,7 @@ longitude: 98.2964
 tags:
   - bars_and_cafes
   - bar
+score: 4.2
 ---
 
 A long-running Irish pub on Beach Road, more relaxed than the Bangla Road circus a block inland. Wooden interior, Guinness on tap, a covered terrace looking at the sea across the road, and live cover bands every night from around 9pm playing decent rock and pop standards.

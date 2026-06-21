@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic
+score: 6.8
 ---
 
 The Vječna vatra (Eternal Fire) is a flame burning in an octagonal enclosure on Ferhadija Street in the centre of Sarajevo, lit on 6 April 1946 — the first anniversary of the city's liberation from Nazi occupation. It has burned continuously since, a memorial to the victims of World War II and the Partisan resistance.

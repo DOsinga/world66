@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.80431
 longitude: 2.12222
+score: 6.6
 ---
 
 The Grille Royale is the gilded iron gate that separates the Cour d'Honneur from the Place d'Armes. The original gate was built under Louis XIV but was melted down during the Revolution — along with most of the palace's gilded metalwork — for the metal. The current gate is a restoration completed in 2008, based on 18th-century drawings and surviving fragments, using traditional ironwork and gold leaf.

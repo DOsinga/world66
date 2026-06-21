@@ -9,6 +9,7 @@ latitude: 18.3442
 longitude: -66.7528
 story: >
   The observatory's most famous moment may have been in 1974, when scientists used the dish to beam the Arecibo Message — a binary-encoded picture of a human, the solar system, and a DNA helix — toward a star cluster 25,000 light-years away. It was the most powerful broadcast ever deliberately aimed at the stars. No reply has been received. The dish collapsed in December 2020 after a series of cable failures, ending 57 years of continuous operation.
+score: 8.0
 ---
 
 The Arecibo Observatory was the world's largest single-dish radio telescope for over fifty years, its 305-metre reflector nestled into a natural sinkhole in the karst hills south of Arecibo. It featured in the films GoldenEye and Contact, detected the first binary pulsar, and was central to the Search for Extraterrestrial Intelligence project. The dish collapsed in December 2020 after cable failures, and the main telescope is no longer operational.

@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Biete_Golgotha_Mikael
 story: >
   Biete Golgotha houses what is claimed to be the tomb of King Lalibela himself — a feature unique among the eleven churches. The tomb is housed in the sanctuary beyond the altar screen and is normally off-limits to visitors, but priests occasionally allow respectful access. Women are not permitted to enter Biete Golgotha at all, a restriction that applies here more strictly than at any other church in the complex.
+score: 8.1
 ---
 
 Biete Golgotha — the House of Golgotha — takes its name from the hill outside Jerusalem where Christ was crucified, making it the most overtly Jerusalem-referencing of the Lalibela churches. It is paired with the smaller Biete Mikael next door and the two share a common entrance; together they are sometimes counted as a single unit in the standard eleven. Biete Golgotha is the more important of the two, containing a series of carved reliefs of the apostles and saints along the nave walls — some of the finest sculptural work in the entire complex.

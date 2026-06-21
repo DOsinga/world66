@@ -10,6 +10,7 @@ address: "2 Place de Sardaigne, Carouge"
 opening_hours: "Tue–Sun 2pm–6pm; closed Mon"
 sources:
   - https://en.wikipedia.org/wiki/Carouge
+score: 7.4
 ---
 
 A small municipal museum in a restored 18th-century house, covering the history of Carouge from its founding by the King of Sardinia in 1772 to the present. The collection includes scale models of the original planned town, ceramics from Carouge's once-thriving pottery industry, and rotating exhibitions of contemporary local art.

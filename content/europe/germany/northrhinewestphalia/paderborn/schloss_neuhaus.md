@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.7453
 longitude: 8.7111
+score: 6.9
 ---
 
 Schloss Neuhaus is a Renaissance water castle on the northwestern edge of Paderborn, set in a formal park beside the confluence of the Lippe and Alme rivers. Built in the sixteenth century as the residence of the Prince-Bishops of Paderborn, it is one of the most important Renaissance buildings in Westphalia.

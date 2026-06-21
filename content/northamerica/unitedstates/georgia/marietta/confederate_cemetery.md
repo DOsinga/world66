@@ -7,6 +7,7 @@ tags:
 latitude: 33.9543
 longitude: -84.5491
 snippet: Resting place of over 3,000 Confederate soldiers killed in the Atlanta Campaign
+score: 5.8
 ---
 
 The Marietta Confederate Cemetery, a short walk from the square, holds the remains of more than 3,000 Confederate soldiers who died during the Atlanta Campaign of 1864. Many were casualties of the fighting at Kennesaw Mountain and the broader series of engagements as Sherman pressed south toward Atlanta. The graves are arranged by state of origin, with separate sections for Georgia, Texas, Alabama, and other Confederate states.

@@ -12,6 +12,7 @@ story: >
   out from the galleries see the same landscape that the artists inside were
   painting. The architecture won a National Honor Award from the American
   Institute of Architects in 1997.
+score: 7.7
 ---
 
 The National Museum of Wildlife Art sits on a hillside overlooking the National Elk Refuge on the north side of Jackson, and it is one of the best art museums in the American West. The collection of 5,000 works focuses on paintings, sculpture, and mixed-media works depicting wildlife and the natural world, spanning from ancient carvings to contemporary pieces. The permanent collection is strong on Western American painters — Carl Rungius, Albert Bierstadt, and Georgia O'Keeffe are represented — and on European wildlife art.

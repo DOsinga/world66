@@ -6,6 +6,7 @@ longitude: 178.4386
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 The 91st operating temple of the Church of Jesus Christ of Latter-day Saints, dedicated in 2000 by Gordon B. Hinckley. The building sits on a low ridge in the suburb of Tamavua, north of the centre, and is recognisable by its pale stone and the single golden statue of the Angel Moroni on the spire.

@@ -10,6 +10,7 @@ tags:
 - market
 title: Shanbeh Bazar
 type: poi
+score: 5.8
 ---
 
 A weekly open-air market in the centre of Bandar-e Anzali, held every Saturday. Vendors sell fresh Caspian fish, fruit, vegetables, clothing, and household goods. One of the oldest and liveliest markets on the Gilan coast.

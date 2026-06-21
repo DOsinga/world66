@@ -9,6 +9,7 @@ snippet: Heritage-listed Surry Hills pub with craft beers on tap
 tags:
 - bars_and_cafes
 - bar
+score: 5.8
 ---
 
 A heritage-listed corner pub on Cleveland Street in Surry Hills with plenty of character. The building dates from the late 19th century and keeps much of its original tilework and timber. The tap list leans toward Australian craft brewers, and the atmosphere is firmly local — more neighbourhood regular than cocktail bar. A good spot to settle in for the evening without pretense.

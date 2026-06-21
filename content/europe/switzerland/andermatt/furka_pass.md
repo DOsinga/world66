@@ -8,6 +8,7 @@ latitude: 46.5729
 longitude: 8.4154
 snippet: Dramatic high alpine pass at 2429m, featured in the James Bond film Goldfinger
 story: "The Furka Pass appeared in the 1964 Bond film Goldfinger — Aston Martin versus Rolls-Royce on an empty mountain road — and the scenery looks exactly as dramatic now as it did then. The road and the hotel at the summit are essentially unchanged."
+score: 8.8
 ---
 
 The Furka Pass (2429m) is one of the three great alpine passes that converge at Andermatt, and the most spectacular to drive. The road winds up from Andermatt through a series of hairpins to a high, bare plateau with views of the Rhone Glacier on the south side — a glacier that has receded dramatically in recent decades, leaving a series of information markers showing where the ice stood in different years.

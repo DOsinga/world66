@@ -12,6 +12,7 @@ story: >
   that was impossible by hand. The hydraulic hammers were powered by the
   Eresma river running below — an industrial revolution three centuries before
   the term existed.
+score: 8.0
 ---
 
 The Casa de la Moneda (Coining House) below the Alcázar is one of Segovia's most overlooked monuments — a 16th-century royal mint built by Philip II that was the first mechanised factory in Spain. The building sits on the banks of the Eresma river, which powered its hydraulic coin-stamping hammers. It produced standardised gold and silver currency for the Spanish Empire at scale, and it operated continuously for over two centuries.

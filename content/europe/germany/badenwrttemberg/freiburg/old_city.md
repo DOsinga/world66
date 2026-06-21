@@ -8,6 +8,7 @@ tags:
 snippet: "Freiburg's compact medieval centre, mostly pedestrianised"
 latitude: 47.99472
 longitude: 7.85000
+score: 9.0
 ---
 
 The Altstadt — the old city — is the area within the line of the long-vanished medieval walls, now traced by a ring road. It is small enough to walk across in fifteen minutes and most of it is closed to traffic. Cobbled lanes, half-timbered houses, three squares, two surviving gate towers, the cathedral, and the famous Bächle running everywhere along the streets.

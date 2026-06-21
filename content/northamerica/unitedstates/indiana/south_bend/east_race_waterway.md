@@ -11,6 +11,7 @@ story: >
   opened in 1977. Engineers diverted the St. Joseph River through a 1,900-foot concrete channel
   downtown, creating class III-IV rapids that have hosted national kayaking competitions —
   an unlikely piece of Olympic-calibre infrastructure sitting in the middle of Indiana.
+score: 7.0
 ---
 
 The East Race Waterway is a 1,900-foot artificial whitewater course cut from the St. Joseph River through downtown South Bend. When the water is running — typically from late spring through summer on weekends — you can rent a kayak or raft and ride the rapids, which reach class III-IV difficulty. Spectators line the walkways along both banks for free.

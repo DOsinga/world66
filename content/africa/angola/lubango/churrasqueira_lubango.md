@@ -6,6 +6,7 @@ longitude: 13.4955
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 The churrascaria is the default canteen of the Angolan city, and Churrasqueira do Plateau does the format correctly: half a frango grelhado — grilled chicken split and cooked over charcoal — served with a fierce peri-peri sauce, chips, and rice. It is the meal that sustains truck drivers, construction workers, and travellers across the country, and in the right hands it is genuinely very good. The chicken here is properly charred on the outside and still juicy through, and the peri-peri has real heat.

@@ -9,6 +9,7 @@ longitude: -116.8589759
 story: "Many of the animals here came to the zoo as injured wildlife that couldn't be released — the bald eagles, black bears, and mountain lions on display are ones that would not have survived in the wild. It's a conservation centre as much as an attraction."
 sources:
   - https://en.wikipedia.org/wiki/Big_Bear_Alpine_Zoo
+score: 6.7
 ---
 
 The Big Bear Alpine Zoo is Southern California's highest-elevation zoo, sitting at around 7,000 feet in the San Bernardino Mountains. Its focus is on North American wildlife native to the region — black bears, mountain lions, bobcats, coyotes, wolves, and raptors including bald eagles and great horned owls. Most residents arrived as orphaned or injured animals that had been rehabilitated but could no longer survive independently in the wild.

@@ -9,6 +9,7 @@ story: Harriet Tubman lived in St. Catharines from about 1851 to 1862, the years
 tags:
 - things_to_do
 - sight
+score: 7.5
 ---
 
 Salem Chapel, the British Methodist Episcopal Church on Geneva Street, was founded in the 1820s by African Americans who had fled slavery in the United States and made it across the Niagara River to freedom. Harriet Tubman lived in St. Catharines from about 1851 to 1862, the most active years of her Underground Railroad work, and Salem Chapel was her home church.

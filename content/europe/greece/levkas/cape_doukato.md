@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 story: "According to the ancient Greek tradition, the poet Sappho leapt to her death from this cliff after being rejected by the ferryman Phaon. The cape became a kind of ritual suicide spot in classical antiquity; the priests of the nearby temple of Apollo Leukatas would even throw condemned criminals from the cliff, sometimes with feathers attached to break their fall."
+score: 7.8
 ---
 
 The southwesternmost point of Lefkada — a stark white limestone cliff dropping 70 m to a tossing sea, with a modern lighthouse and the bare remains of a temple of Apollo. The cape is associated in classical legend with the death of the poet Sappho, and gave the island its name: Lefkada meaning "white" in Greek.

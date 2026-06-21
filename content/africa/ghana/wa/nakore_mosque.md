@@ -9,6 +9,7 @@ latitude: 10.06027777777778
 longitude: -2.51
 story: >
   The Nakore Mosque is one of several mud mosques around Wa that date to the era when Mande traders brought Islam north through present-day Ghana in the 17th and 18th centuries. The building is replastered by hand each year before Ramadan — a community act that is as much ritual as maintenance, keeping the mosque structurally sound and the tradition alive simultaneously.
+score: 8.0
 ---
 
 The Nakore Mosque sits in the village of Nakore, a short ride southwest of Wa, and represents the Sudanese mud-brick tradition at its most purely architectural. The building's tapered buttresses rise like organic fingers from the ground, and the wooden toron poles jutting from the walls serve both as handholds for annual replastering and as a visual signature of the style that links this corner of Ghana to the great mosques of Mali and Burkina Faso.

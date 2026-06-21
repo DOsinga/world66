@@ -6,6 +6,7 @@ longitude: 115.7460
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 The Swan River winds for fifteen kilometres between Fremantle and Perth, past mansions in Mosman Park, sheer limestone cliffs in Mosman Bay, and the open Perth Water below Kings Park. A regular river ferry — operated by Captain Cook Cruises and others — runs from Pier 3 in Fremantle to Barrack Street Jetty in Perth, taking around 90 minutes one way.

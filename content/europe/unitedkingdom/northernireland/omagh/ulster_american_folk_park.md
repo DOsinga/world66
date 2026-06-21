@@ -9,6 +9,7 @@ latitude: 54.659
 longitude: -7.334
 story: >
   The park grew from a single thatched cottage — the ancestral home of the Mellon family, who emigrated to Pennsylvania in 1818. Thomas Mellon became a judge and financier; his son Andrew Mellon became US Secretary of the Treasury. The family funded the original museum as a memorial to their roots, which is why one of the world's great banking dynasties is commemorated in a field outside Omagh.
+score: 8.8
 ---
 
 The Ulster American Folk Park, a few kilometres north of Omagh on the road to Gortin, is the most compelling heritage attraction in County Tyrone. It tells the story of Irish emigration to America — one of the defining movements of the 19th century — through a landscape of reconstructed buildings that visitors walk through in sequence.

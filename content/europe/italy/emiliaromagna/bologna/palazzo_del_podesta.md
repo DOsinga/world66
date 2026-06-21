@@ -7,6 +7,7 @@ snippet: Romanesque civic palace with a whispering-gallery vault below
 tags:
 - things_to_do
 - sight
+score: 7.0
 ---
 
 Built in 1200 as the seat of the chief magistrate (*podestà*), this is the oldest of the palaces around Piazza Maggiore. The Voltone del Podestà — the great vaulted passage cutting through the building — has a peculiar acoustic quirk: stand in one corner and whisper into the stone and a friend in the diagonal corner can hear you clearly, while anyone in the middle hears nothing.

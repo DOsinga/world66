@@ -9,6 +9,7 @@ tags:
 - sport
 title: Water Sports
 type: poi
+score: 7.4
 ---
 
 Hilton Head Island sits where tidal creeks, brackish estuaries, and the open Atlantic converge, making it one of the better spots on the South Carolina coast for getting on the water. Harbour Town, Shelter Cove Marina, and Palmetto Bay Marina all charter boats and rent equipment.

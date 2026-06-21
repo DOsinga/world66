@@ -17,6 +17,7 @@ story: >
   diplomatic, and commercial. Its architecture reflects that dual role: clearly
   Tibetan in form but incorporating elements that acknowledged the Chinese imperial
   presence.
+score: 8.1
 ---
 
 Nanwu Monastery, the largest and oldest in Kangding, sits on the western edge of town about 2 kilometres from the centre. Founded in the seventeenth century, it belongs to the Nyingma school of Tibetan Buddhism and has been the principal religious institution of the Kangding valley through centuries of political change. The main assembly hall is substantial, with a collection of large gilded Buddhas and well-preserved murals in the Kham style. The outer walls bear carved mani stones accumulated over centuries.

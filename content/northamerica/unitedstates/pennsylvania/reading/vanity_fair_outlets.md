@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 40.3342
 longitude: -75.9469
+score: 4.3
 ---
 
 West Reading's Vanity Fair Outlets complex was the anchor of Reading's long run as the "Outlet Capital of the World" — a title the city promoted enthusiastically from the 1980s onward, when the conversion of former factory buildings into discount retail centres became a regional industry. At peak, there were enough outlet centres in and around Reading to fill a weekend.

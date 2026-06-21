@@ -6,6 +6,7 @@ tags:
 - books
 title: The Practical Guide To Croatia's Archaeological Sites
 type: poi
+score: 5.9
 ---
 
 *By Ante Susnjara*

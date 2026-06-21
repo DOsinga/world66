@@ -8,6 +8,7 @@ latitude: 31.9800
 longitude: 120.8900
 story: >
   The abacus — suanpan in Chinese — was the central computing tool of Chinese commerce, administration, and daily life for over a thousand years. The specific style of abacus calculation that developed in China (using a different bead arrangement from the Japanese soroban) remained in widespread practical use in Chinese markets and shops well into the 1980s, when electronic calculators finally displaced it.
+score: 7.2
 ---
 
 The China Nantong Abacus Museum is dedicated entirely to the history and culture of the abacus — a narrow focus that sounds eccentric but reveals itself as surprisingly rich. The collection of over a thousand abaci spans from Neolithic counting tools through classical Chinese examples in various regional styles to modern decorative and collectors' pieces. The progression makes visible how a single calculating device evolved across three millennia of Chinese commercial and intellectual history.

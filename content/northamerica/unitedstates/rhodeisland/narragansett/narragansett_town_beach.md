@@ -8,6 +8,7 @@ tags:
 - beach
 title: Narragansett Town Beach
 type: poi
+score: 8.0
 ---
 
 The 19-acre Narragansett Town Beach sits right in the middle of town, a short walk from The Towers, with parking at both ends and a long boardwalk-style pavilion in between. It is the busiest stretch of sand in Washington County, with consistent waves that draw surfers in every season — Rhode Island's surf industry effectively began here in the 1960s. Lifeguards work from late June through Labor Day; entry fees (cash or card) apply in season and there are bathhouses and concessions.

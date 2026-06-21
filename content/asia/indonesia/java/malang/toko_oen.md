@@ -7,6 +7,7 @@ tags:
   - restaurant
 title: Toko Oen
 type: poi
+score: 7.8
 ---
 
 A legendary Dutch colonial-era restaurant and ice cream parlour that has operated on the same central Malang address since 1930. The interior is unchanged in spirit — ceiling fans, rattan chairs, waitresses in traditional dress, old photographs on the walls, wooden display cases — and the menu still centres on the ice cream that made Toko Oen's reputation: classic flavours served in metal coupes with the quiet formality of a colonial-era institution.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.5
 ---
 
 The shrine of Shah Nematollah Vali, in the small town of Mahan thirty-five kilometres southeast of Kerman, is the tomb of the founder of the Nematollahi Sufi order, who died in 1431. The complex grew up around the original tomb over four centuries, with two large iwans, a tiled dome over the burial chamber, and a set of seven turquoise minarets — added piecemeal in the Safavid, Qajar, and Pahlavi eras.

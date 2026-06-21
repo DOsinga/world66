@@ -9,6 +9,7 @@ latitude: 34.0810
 longitude: -118.3830
 sources:
   - https://en.wikipedia.org/wiki/Pacific_Design_Center
+score: 7.1
 ---
 
 The Pacific Design Center is three enormous buildings on Melrose Avenue, each a different colour and each by Cesar Pelli: the Blue Whale (1975), the Green Building (1988), and the Red Building (2012). The Blue building — cobalt glass, a shape like an aircraft carrier — was so shocking when it was completed that locals immediately nicknamed it the Blue Whale, a name that stuck.

@@ -10,6 +10,7 @@ story: >
   disturb the water. The canal system threads through private gardens and under 52 wooden bridges,
   giving you views that are impossible to get on foot. Every hire company offers essentially the same
   boats at similar prices, so the choice of operator matters less than just going.
+score: 9.2
 ---
 
 Hiring a whisper boat is not optional in Giethoorn — it is the whole point of being here. The boats are electric-powered and near-silent, small enough to navigate the narrowest channels, and simple enough that no prior boating experience is needed. You pick up a map with the rental, and from there you are on your own to explore at whatever pace you like.

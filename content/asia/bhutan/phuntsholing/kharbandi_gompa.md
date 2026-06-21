@@ -16,6 +16,7 @@ story: >
   on Rinchending hill — the name Kharbandi means "precious hill" in Dzongkha.
   The gompa is believed to bless infertile couples who come to pray here, and
   pilgrims make the journey up the hill specifically for this purpose.
+score: 6.1
 ---
 
 Kharbandi Gompa sits on the edge of Rinchending hill, about three kilometres north of Phuntsholing on the road to Thimphu, at around 400 metres above sea level. The views from here are remarkable — on a clear day you look out over the broad floodplain of the Torsa river, the rooftops of Phuntsholing and Jaigaon below, and the flat Indian plains stretching south as far as the eye can see.

@@ -6,6 +6,7 @@ longitude: 9.5429
 tags:
   - things_to_do
   - sport
+score: 5.5
 ---
 
 Robert Trent Jones Sr designed the Pevero course in 1972 on a strip of granite, macchia, and pink-flowering oleander between Cala di Volpe and the Pevero bay. The result is consistently rated among the most beautiful golf courses in Europe and one of the harder ones in Italy — narrow fairways thread between rocks, the wind off the gulf can pick up sharply by midday, and several holes finish with the sea as backdrop.

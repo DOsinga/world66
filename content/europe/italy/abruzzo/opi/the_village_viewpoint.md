@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Dutch artist M.C. Escher visited Opi in 1929 and made a lithograph of the village perched on its rocky spur. The view that captivated him — the impossible-looking cluster of stone houses balanced on bare rock — is essentially unchanged nearly a century later.
+score: 7.4
 ---
 
 Opi's most striking feature is the village itself, seen from below. The classic view is from the SS83 as you approach from the direction of Pescasseroli: a tight cluster of stone and plaster houses sitting on a narrow rocky promontory, mountains rising behind, the Sangro valley dropping away on either side. It is the kind of scene that looks arranged for a photograph but is entirely real.

@@ -7,6 +7,7 @@ tags:
 latitude: 54.79
 longitude: 9.435
 story: "The Flensburg Firth (Flensburger Förde) is the westernmost inlet of the Baltic Sea — a narrow fjord-like body of water that marks the border between Germany and Denmark for much of its length. Ships heading for Flensburg pass through Danish waters before crossing into German jurisdiction, a geographic fact that shaped the city's commercial history for centuries. During the Cold War, the Firth was a NATO boundary monitoring zone."
+score: 8.3
 ---
 
 The Flensburg Firth stretches about 40 km from the city to the open Baltic, with the German and Danish coastlines running parallel on either side. The water is calm and relatively shallow, making it ideal for sailing, kayaking, and windsurfing. Several beaches on both the German and Danish shores are reachable by boat or by short drives from the city.

@@ -9,6 +9,7 @@ latitude: 59.3280
 longitude: 18.0914
 story: >
   The Vasa sank on 10 August 1628, just 1,300 metres into her maiden voyage, in full view of the Stockholm waterfront. She was top-heavy — the gun ports were too close to the water line — and heeled over in a gust of wind and went down in minutes. Around 30 of the 150 crew drowned. The wreck sat in the harbour mud for 333 years, preserved by the cold, low-salinity water of the Baltic, before being salvaged in 1961.
+score: 9.6
 ---
 
 The Vasa Museum is the most visited museum in Scandinavia, and it deserves its reputation. At the centre of the purpose-built hall sits the warship Vasa herself — a near-complete 17th-century warship, 69 metres long, bristling with 64 carved and gilded cannons, and startlingly intact after 333 years on the harbour floor. The preservation is extraordinary: around 98 percent of the original ship survives, including the elaborate carved decorations that covered virtually every surface.

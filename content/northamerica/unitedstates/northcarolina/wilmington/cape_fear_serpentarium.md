@@ -10,6 +10,7 @@ title: Cape Fear Serpentarium
 type: poi
 story: >
   The Serpentarium's founder, Dean Ripa, is one of the world's foremost experts on the bushmaster, a large venomous pit viper from Central and South America. He has been bitten by venomous snakes multiple times in the course of his work and survived. The Serpentarium holds the largest collection of live bushmasters in captivity. Ripa has also written fiction — he was a friend of William S. Burroughs and has published in literary magazines — making him one of the more unusual figures in American herpetology.
+score: 7.1
 ---
 
 The Cape Fear Serpentarium is a private reptile facility housing one of the most diverse collections of venomous snakes in the United States. In a downtown Wilmington storefront, Gaboon vipers, black mambas, king cobras, and a remarkable array of other species live in custom-built enclosures that allow close viewing. The collection is unusual enough to draw herpetologists from across the country.

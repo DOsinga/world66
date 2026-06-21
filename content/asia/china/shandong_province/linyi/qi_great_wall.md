@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.4500
 longitude: 118.2000
+score: 8.1
 ---
 
 Long before the more famous northern defensive walls were built, the state of Qi constructed a wall across the Shandong hills to defend against the states of Chu and Lu to the south and west. Built from the Spring and Autumn period through the Warring States period (roughly 7th–3rd centuries BCE), the Qi Great Wall runs about 618 kilometres through the Yimeng and Tai Shan ranges — predating the Qin-era northern wall by several centuries.

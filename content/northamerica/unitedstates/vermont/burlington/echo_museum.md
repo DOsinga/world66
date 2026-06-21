@@ -7,6 +7,7 @@ longitude: -73.2211
 snippet: Science and nature museum on the waterfront with live lake species and interactive exhibits
 story: >
   Lake Champlain has its own monster. Champ — Vermont's answer to Nessie — has been reported by witnesses since the 17th century, when Samuel de Champlain himself may have noted something unusual in the water (though historians debate what he actually saw). ECHO takes Champ seriously enough to maintain a dedicated exhibit, including a 30-foot model of a plesiosaur, even while contextualising the legend within the real paleontology of the lake basin.
+score: 7.7
 ---
 
 On the Burlington waterfront at the foot of College Street, ECHO sits on a 2.2-acre campus at the edge of Lake Champlain and manages to be genuinely good both as a science museum and as an introduction to the ecology of the lake. The building has floor-to-ceiling windows facing the water, and Vermont's largest aquarium fills three floors with sturgeon, muskellunge, and other native species alongside over 50 live lake animals.

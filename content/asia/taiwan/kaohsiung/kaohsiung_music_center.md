@@ -8,6 +8,7 @@ tags:
 latitude: 22.6093
 longitude: 120.3142
 snippet: Whale-shaped music venue on the harbour, opened 2021
+score: 7.8
 ---
 
 A cluster of striking concrete buildings on the eastern shore of the harbour, finished in 2021. The largest, called The Whale, is the main 12,000-seat outdoor concert venue and has become a Kaohsiung landmark in its own right. Other buildings house smaller halls, a music museum, recording studios and a public library.

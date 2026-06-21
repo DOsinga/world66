@@ -16,6 +16,7 @@ story: >
   both intact and ready when the revolution happened, and the new government
   simply repurposed the square for its own mass gatherings. Fidel Castro
   gave his marathon speeches here to crowds of up to a million people.
+score: 6.5
 ---
 
 Plaza de la Revolución is the vast civic square where the Cuban government has staged its most important ceremonies and political gatherings for over sixty years. The plaza is enormous — capable of holding a million people — and deliberately overwhelming in scale. The José Martí Memorial rises 137 metres in its centre, the third-tallest structure in Cuba.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The courthouse on the square is the third one Bedford has built. The first, a brick building completed in 1830, served the county for over forty years before being torn down to make way for a grander stone replacement."
+score: 7.8
 ---
 
 The courthouse square is the heart of downtown Bedford and a showcase for the local stone industry. The Lawrence County Courthouse, completed in 1931, is a heavy limestone block in restrained Art Deco style — a fitting centerpiece for a town that has supplied limestone to half the great buildings of the United States.

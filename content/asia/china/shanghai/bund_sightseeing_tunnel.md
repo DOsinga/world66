@@ -9,6 +9,7 @@ tags:
   - sight
 story: "The tunnel was built in 2000 to connect the Bund and Pudong by foot — but rather than a simple walkway, the engineers decided on a pod train running through a tunnel lit by ever-changing fibre-optic light shows, with random Chinese narration like 'cosmic universe', 'meteor shower' and 'magma'. The result is one of the strangest tourist attractions in Asia."
 snippet: "Kitsch fibre-optic light show in a tube under the Huangpu River"
+score: 5.8
 ---
 
 Five minutes of pure bizarre — a small driverless pod-train running through a tunnel under the Huangpu, walls and ceiling pulsing with fibre-optic light shows while an English-Chinese voiceover announces "magma!" and "meteor shower!" at random. It is the slowest way to cross the river and by far the most expensive.

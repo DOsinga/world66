@@ -8,6 +8,7 @@ latitude: 44.2275
 longitude: 17.6660
 story: >
   Andrić received the Nobel Prize for Literature in 1961 — the only Nobel laureate from the former Yugoslavia. His acceptance speech declared that "a writer's homeland is his language." He was born in Travnik in 1892 but raised in Višegrad, the setting of "The Bridge on the Drina." "Travnik Chronicles," his portrait of the town during the Napoleonic-era Ottoman period, remains his most intimate work.
+score: 7.4
 ---
 
 The house where Ivo Andrić was born in 1892 has been converted into a small museum dedicated to the Nobel Prize-winning author, the most celebrated writer of the former Yugoslavia. The museum displays personal effects, manuscripts, editions of his works in many languages, and photographs tracing his life from Travnik through Vienna, diplomatic service, and wartime Belgrade.

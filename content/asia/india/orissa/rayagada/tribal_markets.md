@@ -9,6 +9,7 @@ tags:
 latitude: 19.1700
 longitude: 83.4200
 story: "The Dongria Kondh of the Niyamgiri hills are perhaps best known internationally for their 2010 victory over a Vedanta bauxite mine that would have torn open their sacred mountain. The legal precedent — recognising tribal rights over a corporate land claim — was the first of its kind in India and is still cited in Indian environmental case law."
+score: 8.7
 ---
 
 The weekly haats held in villages around Rayagada are among the most fascinating cultural experiences in eastern India and the main reason most travellers come. The Dongria Kondh, Kutia Kondh, and other Adivasi communities walk down from the hills to sell turmeric, wild honey, rice beer, and produce, and to buy salt, kerosene and cloth. Women still wear traditional jewellery — nose rings, hair clips, beaded necklaces — and trade in the same languages their grandparents used.

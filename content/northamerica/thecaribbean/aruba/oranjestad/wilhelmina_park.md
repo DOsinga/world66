@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.1
 ---
 
 Wilhelmina Park is a small seaside park on L.G. Smith Boulevard, just east of the town square, named after Queen Wilhelmina of the Netherlands who reigned from 1890 to 1948. The park has well-maintained tropical gardens with mature trees providing shade, and a statue of the Queen Mother stands near the waterfront. It is one of the few genuinely green public spaces in the city centre.

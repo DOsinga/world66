@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.5333
 longitude: 13.6500
+score: 5.8
 ---
 
 The main yacht marina, on the western side of the old town. Around 700 berths, a mix of charter boats and private yachts, and a curving promenade that is one of the better evening walks in town. From the breakwater at the far end you can look back across the harbour to the church tower and the cluster of pastel houses behind.

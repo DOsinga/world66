@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 snippet: 1920 vaudeville-and-cinema theatre still operating as a community arts venue
+score: 7.0
 ---
 
 Built in 1919–20, the Lyceum is the older of Clovis's two restored historic theatres — it predates the Art Deco State Theater by sixteen years — and was originally a combined vaudeville stage and cinema. The brick façade and modest cornice are unchanged; inside, the original proscenium and balcony have been restored.

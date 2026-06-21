@@ -9,6 +9,7 @@ neighbourhood: Bab Touma
 latitude: 33.5104
 longitude: 36.3150
 snippet: Greek Orthodox cathedral in the Christian quarter
+score: 6.9
 ---
 
 The Greek Orthodox Cathedral of Saint George in the Bab Touma quarter, smaller and less central than the Mariamite Cathedral but with a long history. The interior is rich with carved wooden iconostasis, gilded icons and silver lamps in the Byzantine style.

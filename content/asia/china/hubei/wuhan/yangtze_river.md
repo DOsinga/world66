@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - river
+score: 8.5
 ---
 
 The Yangtze runs straight through the middle of Wuhan, separating Wuchang from Hankou, and there is no real way of understanding the city without spending time on or beside it. The river is wide and tea-coloured here, busy with barges, ferries, and tourist boats; the air smells of diesel and silt and water.

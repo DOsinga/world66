@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 34.9394
 longitude: -79.7715
+score: 6.8
 ---
 
 The Richmond County Courthouse anchors the small downtown on Hancock Street and is the most architecturally distinguished building in Rockingham. The current courthouse dates from the early 20th century and sits in a modest but intact town square surrounded by commercial buildings from the same era — a downtown that hasn't been dramatically altered or revitalized, which gives it an authentic if somewhat sleepy character.

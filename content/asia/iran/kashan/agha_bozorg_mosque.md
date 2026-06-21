@@ -9,6 +9,7 @@ latitude: 33.9786
 longitude: 51.4453
 sources:
   - https://en.wikipedia.org/wiki/Agha_Bozorg_Mosque
+score: 8.6
 ---
 
 The Agha Bozorg Mosque is one of the most architecturally accomplished religious buildings in Iran, constructed in the late 18th century by the master builder Ustad Haj Sa'ban-Ali. Unlike most Iranian mosques, it is built into the ground rather than above it — the main courtyard sits several metres below street level, creating an effect of extraordinary calm when you descend into it from the bustle of the bazaar nearby.

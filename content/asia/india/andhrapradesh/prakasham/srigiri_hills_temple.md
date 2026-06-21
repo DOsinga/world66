@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 15.41
 longitude: 80.02
+score: 6.2
 ---
 
 A hilltop Venkateswara shrine perched above the coastal plain south of Ongole. The temple is a local pilgrimage site, popular for the views from the top as much as for the worship. The walk up is short but steep in places; sandals are fine, but cover your head if the sun is high.

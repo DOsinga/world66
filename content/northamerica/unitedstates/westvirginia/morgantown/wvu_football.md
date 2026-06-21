@@ -9,6 +9,7 @@ latitude: 39.6500
 longitude: -79.9541
 sources:
   - https://en.wikipedia.org/wiki/Mountaineer_Field_at_Milan_Puskar_Stadium
+score: 7.1
 ---
 
 WVU Mountaineers football is not just a sporting event — it is what happens to Morgantown on fall Saturdays. The city's population of 33,000 gets a stadium that seats over 60,000, and on game days the streets fill with tailgaters, gold-and-blue flags, and the smell of charcoal from dawn. The whole city is, functionally, a tailgate.

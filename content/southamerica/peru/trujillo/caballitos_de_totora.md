@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -8.0820
 longitude: -79.1179
+score: 7.8
 ---
 
 The caballito de totora is a narrow, spindle-shaped boat made from bundled totora reeds, used by fishermen at Huanchaco since at least the time of the Moche culture 2,000 years ago. The name — "little horse of the reed" — refers to the way the fisherman kneels or crouches on the boat and appears to ride it like a horse through the waves.

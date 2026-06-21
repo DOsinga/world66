@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - gallery
+score: 6.7
 ---
 
 The town's public art gallery occupies the former pump house at the eastern end of the river park. The permanent collection is small, but the rotating exhibitions tend to be good — a mix of Canadian contemporary work and shows tied to the theatre season.

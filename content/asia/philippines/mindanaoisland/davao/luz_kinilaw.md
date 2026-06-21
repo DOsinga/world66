@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Luz Kinilaw
 type: poi
+score: 6.3
 ---
 
 Luz Kinilaw is authentic Davao cuisine! It's a seaside restaurant

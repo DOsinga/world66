@@ -6,6 +6,7 @@ longitude: -80.9820
 tags:
   - bars_and_cafes
   - bar
+score: 5.0
 ---
 
 A small downtown brewpub with a tap list of half a dozen house beers, the strongest being a hoppy English-style bitter and a porter. They sometimes do tastings before evening performances; the small room behind the bar shows local art.

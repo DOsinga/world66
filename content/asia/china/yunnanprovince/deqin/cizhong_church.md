@@ -12,6 +12,7 @@ story: >
   villagers liked the grapes and kept growing them, and the local wine tradition has survived
   every disruption since. A bottle of Cizhong red, made from grapes descended from those
   original French cuttings, is one of the stranger things you can buy in northwestern Yunnan.
+score: 7.9
 ---
 
 Cizhong Catholic Church stands in a Tibetan village south of Deqin along the Mekong, an improbable Franco-Gothic building in the middle of a Tibetan Buddhist landscape. The original church was built by French missionaries of the Paris Foreign Missions in the late nineteenth century and destroyed in anti-Christian violence in 1905. It was rebuilt in 1911, and the restored building — with its Chinese-style pavilion tower added atop the belfry — has survived intact ever since. A small Tibetan Catholic community still uses it.

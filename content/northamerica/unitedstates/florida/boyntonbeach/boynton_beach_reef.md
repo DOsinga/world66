@@ -12,6 +12,7 @@ story: >
   clear blue Stream water meeting the greener coastal water right from the beach.
   Freedivers from Miami used to say that Boynton was where you could be in 90
   feet of water five minutes after leaving the dock — rare on the US Atlantic coast.
+score: 8.8
 ---
 
 Boynton Beach sits at one of the best drift-diving spots on Florida's Atlantic coast. The Boynton Ledges — a system of parallel rocky outcroppings in 65 to 90 feet of water — sit close enough to shore that morning charters are back at the dock by noon. The Gulf Stream's proximity means fast drift dives, warm water (typically 78–84°F), and excellent visibility. You'll see nurse sharks, loggerhead turtles, goliath grouper, moray eels, and dense schools of reef fish on most dives.

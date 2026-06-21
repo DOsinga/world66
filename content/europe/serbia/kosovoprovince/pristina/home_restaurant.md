@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 42.6625
 longitude: 21.1615
+score: 5.8
 ---
 
 Home is one of Pristina's most consistently recommended restaurants, known for its interpretation of traditional Albanian and Kosovar cooking in a comfortable setting without the tourist-trap feel of some city-centre options. The kitchen takes local ingredients seriously — seasonal vegetables, local dairy, and meat from the surrounding hills — and produces food that is straightforwardly good rather than showy.

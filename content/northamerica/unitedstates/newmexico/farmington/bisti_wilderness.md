@@ -13,6 +13,7 @@ story: >
   unsettlingly organic: mushroom shapes, alien eggs, stacked discs. The area
   has been used as a film location for science fiction productions that needed
   a genuinely otherworldly landscape.
+score: 9.2
 ---
 
 About 35 miles south of Farmington, the Bisti Badlands are among the most surreal landscapes in the American Southwest. The wilderness covers roughly 60 square miles of eroded badlands — a maze of pale, crumbly formations in yellows, greys, and ochres, punctuated by the occasional petrified wood and dinosaur bone fragment. There are no trails and almost no facilities: you simply park at the trailhead and walk into the labyrinth.

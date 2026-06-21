@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.7600
 longitude: 112.4600
+score: 6.7
 ---
 
 Liuhuigou is a narrow gorge in the western hills above Taiyuan, carved by a tributary of the Fen River through limestone and sandstone, that offers a half-day hiking route through wild canyon scenery close to the city. The trail follows the stream bed through sections of tight canyon — some requiring scrambling over boulders — before opening onto a higher valley with views back toward Taiyuan. The contrast between the industrial city visible from the ridge and the wild canyon below it is striking.

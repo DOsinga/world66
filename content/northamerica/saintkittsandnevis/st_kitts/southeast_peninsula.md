@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.6
 ---
 
 The long, slim tail of land that drops south-east from Basseterre, all dry savannah and lava-rubble hills with the Caribbean on one side and the Atlantic on the other. Until 1989 it was virtually inaccessible; the Dr. Kennedy Simmonds Highway, paid for largely by USAID, opened it up and turned it into the resort coast of the island.

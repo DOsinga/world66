@@ -13,7 +13,7 @@ quick_facts:
   Currency: Euro (€)
   Forest Cover: "Over 50% of the country"
   E-Residency: "First country to offer digital citizenship to non-residents"
-score: 0.39
+score: 0.65
 title: Estonia
 type: location
 loc_type: country

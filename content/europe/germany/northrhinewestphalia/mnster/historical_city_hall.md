@@ -14,6 +14,7 @@ story: >
   religious and dynastic conflict. The treaty signed here is often cited as the foundation
   of the modern system of sovereign nation-states and the principle of non-interference in
   each other's affairs.
+score: 8.7
 ---
 
 The Rathaus on the Prinzipalmarkt is one of the finest Gothic civic buildings in Westphalia — an elegant structure of pinnacles and tracery that was almost completely destroyed in the war and meticulously rebuilt in the 1950s. The interior, particularly the Friedenssaal (Peace Hall), is open to visitors; the original 17th-century panelling, portraits, and furnishings survived the war and were reinstalled in the reconstruction. Standing in the room where the Peace of Westphalia was signed in 1648 is a genuinely affecting experience.

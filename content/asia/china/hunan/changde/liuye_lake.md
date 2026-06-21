@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 29.0600
 longitude: 111.7200
+score: 5.9
 ---
 
 Liuye Lake (Willow Leaf Lake) is a reservoir on the eastern edge of Changde, sometimes compared to West Lake in Hangzhou for its willow-lined banks and calm water — a comparison that flatters it, but the setting is genuinely pleasant. Boat trips across the lake operate from several landing points; cycling paths circle the shoreline. The park is primarily used by residents for morning exercise and weekend recreation, which gives it an authentic local character that larger tourist sites lack.

@@ -15,6 +15,7 @@ story: >
   and the conservation work carried out in its buffer zones.
 sources:
   - https://en.wikipedia.org/wiki/Cross_River_National_Park
+score: 7.9
 ---
 
 Cross River National Park, reached via Ikom about three to four hours from Calabar, is one of the last refuges of the Cross River gorilla — the world's rarest great ape. The park covers some 4,000 square kilometres of lowland and montane rainforest split into two divisions, Oban and Okwangwo, protecting 16 primate species, over 350 bird species, forest elephants, and chimpanzees alongside the gorillas.

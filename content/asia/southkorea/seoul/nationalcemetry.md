@@ -10,6 +10,7 @@ tags:
 - sight
 title: Seoul National Cemetery
 type: poi
+score: 6.4
 ---
 
 Seoul National Cemetery spreads across a wooded hillside south of the Han River, honouring more than 170,000 soldiers and civilians who died in service of the country. The grounds are immaculately kept -- rows of identical headstones set among pine trees, with views across the river to the high-rises of Gangnam.

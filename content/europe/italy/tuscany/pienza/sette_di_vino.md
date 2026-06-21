@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 43.0771
 longitude: 11.6789
+score: 5.9
 ---
 
 A tiny wine bar and trattoria on Piazza di Spagna, the small square at the eastern end of Corso Rossellino. The menu is short and seasonal: pecorino flights, hand-cut pici, soup of the day, a Tuscan beef carpaccio with truffle in season. The wine list runs to about a hundred mostly Tuscan labels.

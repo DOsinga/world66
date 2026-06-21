@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Caves of Nerja
 type: poi
+score: 9.2
 ---
 
 A spectacular system of caverns 4 km east of Nerja, discovered in 1959 by five local boys hunting bats. The chambers are huge — the Sala del Cataclismo contains what is reckoned to be the world's longest stalactite, a single column 32 metres tall. Lighting and walkways have been installed to allow visitors through a generous loop of the show cave.

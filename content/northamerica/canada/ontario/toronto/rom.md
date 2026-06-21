@@ -9,6 +9,7 @@ tags:
 title: Royal Ontario Museum
 type: poi
 url: https://www.rom.on.ca
+score: 9.1
 ---
 
 The Royal Ontario Museum — universally shortened to the ROM — is Canada's largest museum and one of Toronto's essential stops. The collection spans natural history, world cultures, and decorative arts, with particular strengths in ancient Egypt, East Asian art, and Canadian natural history. The dinosaur galleries are outstanding, with full articulated skeletons including a Barosaurus and a rare juvenile Tyrannosaurus rex.

@@ -11,6 +11,7 @@ tags:
 title: Oneida Shores
 type: poi
 url: onondagacountyparks.com
+score: 5.3
 ---
 
 A county park on the southern shore of Oneida Lake, the largest inland lake entirely within New York State. The park has a sandy swimming beach, picnic areas, a boat launch, and campgrounds. It's a popular summer spot for families from the Syracuse area, and the lake itself is well known for walleye and bass fishing. In winter the park stays open for cross-country skiing and snowshoeing.

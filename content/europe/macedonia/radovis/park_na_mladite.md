@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.6411
 longitude: 22.4603
+score: 5.7
 ---
 
 Park na Mladite (Парк на Младите — Youth Park) is the main green space in the centre of Radoviš, a shaded promenade with benches, tall trees, and a relaxed evening atmosphere. It is where the town goes to walk, sit, and talk — the korzo tradition is alive here, with families and teenagers doing circuits of the paths in the late afternoon.

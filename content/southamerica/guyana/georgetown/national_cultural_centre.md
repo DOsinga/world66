@@ -7,6 +7,7 @@ tags:
 latitude: 6.80261
 longitude: -58.14002
 snippet: "Guyana's main concert and theatre venue, built in the 1970s"
+score: 6.4
 ---
 
 A purpose-built theatre and concert hall on Mandela Avenue, the National Cultural Centre is the venue for most of Georgetown's major performing arts events — plays, classical concerts, the annual Mashramani celebrations, and visiting international acts. It seats around 2,000 and was built in 1976 with technical assistance from the United Kingdom.

@@ -9,6 +9,7 @@ latitude: 35.2489
 longitude: -112.1919
 story: >
   Williams was the last town on the original Route 66 to be bypassed by Interstate 40, in October 1984. When the bypass opened, the old highway's main purpose was gone. Rather than fading away, the town rebuilt itself around Route 66 nostalgia — an early and successful example of what many Route 66 communities would later attempt. Bobby Troup, who wrote the song "Get Your Kicks on Route 66," attended the bypass ceremony in person to mark the end of the road's continuous function.
+score: 7.8
 ---
 
 Williams's main street is one of the most intact examples of Route 66 commercial architecture anywhere on the old highway. The buildings date from the 1920s through the 1960s and include classic neon-signed motels, diners, and service stations in various states of preservation. The Historic Business District is listed on the National Register of Historic Places.

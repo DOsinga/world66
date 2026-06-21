@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "In the Battle of Consuegra in 1097, the Knights Hospitaller defending the castle for King Alfonso VI of León were nearly wiped out by the Almoravids. Among the dead was Diego Rodríguez, the only son of the legendary Spanish hero El Cid — a loss the chronicles say his father never recovered from."
+score: 8.7
 ---
 
 At the northern end of the windmill ridge, the **Castillo de la Muela** is one of the most dramatically sited castles in central Spain. Built on the foundations of a Roman watchtower, expanded by the Moors, and reconstructed by the Knights of the Order of Saint John (the Knights Hospitaller) after the Reconquista, it has crenellated walls, three round towers, and a vaulted Romanesque chapel inside.

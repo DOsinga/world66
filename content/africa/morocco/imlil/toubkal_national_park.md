@@ -12,6 +12,7 @@ tags:
 - sight
 title: Toubkal National Park
 type: poi
+score: 8.0
 ---
 
 Toubkal National Park covers 380 square kilometres of the western High Atlas, with Imlil near its northern gateway. Established in 1942, it protects a landscape of extraordinary vertical range: from walnut orchards and terraced wheat fields at 1,700 metres to the bare scree and permanent snowfields above 4,000 metres. Within that range the vegetation shifts from Mediterranean scrub through juniper and cedar forests to alpine meadows and the near-barren high summit zone.

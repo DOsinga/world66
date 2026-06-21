@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.9036
 longitude: 99.8308
+score: 5.8
 ---
 
 The Kok River runs through Chiang Rai from west to east before joining the Mekong further north. In town it is a pleasant place to walk in the early morning, when fishermen are out in long-tail boats and the mist sits on the water. The riverside path near the boat pier is one of the quieter spots in the city.

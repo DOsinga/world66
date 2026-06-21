@@ -9,6 +9,7 @@ tags:
   - sight
 latitude: 16.0428
 longitude: 73.4601
+score: 8.9
 ---
 
 Constructed by Shivaji in 1664 on a rocky island he personally selected, Sindhudurg Fort is an extraordinary feat of engineering. Over 4,000 mounds of iron were used for casting, and the foundation stones were set firmly in lead — all transported across choppy waters through a narrow channel past a rocky reef.

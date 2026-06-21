@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 40.6405
 longitude: 17.9467
+score: 6.8
 ---
 
 One of the most reliable spots for fish in the old town, the Grande Osteria del Porto is a no-frills trattoria near the waterfront that serves whatever came in that morning. The menu changes daily and is usually recited rather than written down: expect whole grilled fish, fried mixed seafood, and pasta dressed with sea urchin (ricci di mare) when it's in season between October and April.

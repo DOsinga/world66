@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Dolphin shows and the starting point for dolphin-watching boat trips"
+score: 4.3
 ---
 
 The Dolphin Park on the north shore is both a performing dolphin facility and the departure point for boat trips into the Gulf to watch wild dolphins. The shows operate several times a day and are popular with Iranian families; the boat trips offer a better experience for travellers who'd rather see dolphins in open water.

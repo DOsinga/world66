@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.6219
 longitude: 109.8708
+score: 6.1
 ---
 
 The Ordos International Circuit, about 10 kilometres east of Kangbashi, was built in 2011 to host Formula 1 and other international motor racing events. The circuit hosted a Chinese Touring Car Championship round and various domestic racing events before the racing programme contracted; the original plan for Formula 1 did not materialise. The track itself — designed by the same firm responsible for Shanghai's F1 circuit — is genuinely impressive, with a challenging layout that winds through the desert landscape.

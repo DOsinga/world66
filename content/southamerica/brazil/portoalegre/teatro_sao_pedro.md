@@ -5,9 +5,10 @@ snippet: Porto Alegre's 19th-century opera house, still performing after nearly 
 tags:
 - things_to_do
 - sight
-story: The Teatro São Pedro opened in 1858 and has had a turbulent history: it was nearly demolished twice, served as a warehouse during lean periods, and was finally restored in the 1980s to something approaching its original grandeur. The restoration revealed original frescoes that had been painted over, including a ceiling that nobody had seen for generations.
+story: "The Teatro São Pedro opened in 1858 and has had a turbulent history: it was nearly demolished twice, served as a warehouse during lean periods, and was finally restored in the 1980s to something approaching its original grandeur. The restoration revealed original frescoes that had been painted over, including a ceiling that nobody had seen for generations."
 title: Teatro São Pedro
 type: poi
+score: 8.6
 ---
 
 The Teatro São Pedro is Porto Alegre's oldest and most beautiful performing arts venue, a stately Italian-neoclassical building facing Praça da Matriz that has anchored the city's cultural life since 1858. The main auditorium seats around 700 people in a horseshoe of red-velvet boxes and balconies; the acoustics are excellent and the sight lines were designed by someone who understood that seeing the stage matters as much as hearing the music. The theatre hosts opera, classical music, ballet, and theatre from local companies and occasional international visitors.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 9.3112
 longitude: 42.1278
+score: 4.7
 ---
 
 Café Rimbaud is one of the better-known eating spots in the old city, trading on Harar's most famous European resident while serving a straightforward menu of Ethiopian and Western dishes. It sits in a reasonably atmospheric old building not far from the house museum.

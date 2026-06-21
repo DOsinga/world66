@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 55.4644
 longitude: 8.4506
+score: 7.3
 ---
 
 Esbjerg Kunstmuseum holds one of Denmark's better regional collections of twentieth-century art, with strong showings of the COBRA painters (Asger Jorn, Carl-Henning Pedersen) and a long line of post-war Danish concretists and conceptualists. The museum is independently funded — unusual in Denmark, where most art museums are state-supported — and the curatorial style is correspondingly idiosyncratic, with rotating thematic hangs rather than a fixed chronological gallery.

@@ -7,6 +7,7 @@ tags:
 title: North York Moors
 type: poi
 snippet: "Moorland, heather, ancient stone crosses, and a steam railway — the national park begins 20 miles from York"
+score: 8.4
 ---
 
 The North York Moors National Park lies to the east and northeast of York, with the moor plateau beginning in earnest around Helmsley, about 25 miles from the city. In late summer, when the heather blooms, the high moor turns a distinctive purple that is visible from considerable distances. The landscape is open and wide, with stone crosses marking ancient routes across the tops, villages tucked into dales, and a coastline of cliffs and fishing harbours to the east. The park covers 554 square miles and takes most of a day to cross by road.

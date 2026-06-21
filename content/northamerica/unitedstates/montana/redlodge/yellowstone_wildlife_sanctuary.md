@@ -9,6 +9,7 @@ longitude: -109.2618
 address: "615 Two Mile Bridge Rd, Red Lodge, MT 59068"
 admission: "$12 adult, $6 child"
 opening_hours: "Mid-May to mid-October, daily 10:00–18:00"
+score: 6.2
 ---
 
 The sanctuary on the west edge of town is a refuge for wild animals — wolves, bears, mountain lions, bald eagles — that cannot be returned to the wild because of injury or human imprinting. A self-guided trail loops past the enclosures, each with a sign explaining the individual animal and how they ended up here. Most have been here for years.

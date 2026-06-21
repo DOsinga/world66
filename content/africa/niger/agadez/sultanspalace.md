@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Sultan's Palace
 type: poi
+score: 6.8
 ---
 
 The Sultan of Agadez is one of the oldest traditional titles in the Sahara, dating back to the founding of the Sultanate in the 15th century. The palace itself is not open to visitors, but the Sultan receives guests in one of the outer courts. His guards will expect a small tip for arranging the audience.

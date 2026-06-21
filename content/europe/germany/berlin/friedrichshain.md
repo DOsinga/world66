@@ -2,9 +2,16 @@
 done:
   city_tag_migration: '2026-04-14'
   location_cleanup: 2026-04-05
+image: friedrichshain.jpg
+image_attribution: A.Savin
+image_license: FAL
+image_source: https://commons.wikimedia.org/wiki/File:Berlin_M%C3%A4rchenbrunnen_asv2023-06_img1.jpg
 latitude: 52.51229
 longitude: 13.45452
 score: 0.55
+tags:
+- things_to_do
+- neighbourhood
 title: Friedrichshain
 type: neighbourhood
 ---

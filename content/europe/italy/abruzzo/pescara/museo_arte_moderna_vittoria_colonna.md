@@ -8,6 +8,7 @@ latitude: 42.4723
 longitude: 14.2123
 sources:
   - https://en.wikipedia.org/wiki/Museo_d%27Arte_Moderna_Vittoria_Colonna
+score: 6.8
 ---
 
 The Museo d'Arte Moderna Vittoria Colonna, named after the 16th-century noblewoman and poet who was born in Marino near Rome and had connections to Abruzzo, is Pescara's principal modern art gallery. The collection focuses on 20th-century Italian art and includes works by regional Abruzzese artists alongside pieces by figures of national significance. It is housed in the northern part of the city, away from the main tourist circuit, and receives fewer visitors than its quality warrants.

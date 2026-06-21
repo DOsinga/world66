@@ -11,6 +11,7 @@ story: >
   Pompey eventually cleared them out in 67 BCE. The city later joined the Lycian League and, much
   later, became a Genoese trading post before being abandoned in the 15th century.
 snippet: "Lycian–Roman ruins scattered through a wooded canyon down to the sea"
+score: 8.8
 ---
 
 The ancient city of Olympos lies in pieces along a stream that runs down a deep, forested canyon to

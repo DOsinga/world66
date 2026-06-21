@@ -8,6 +8,7 @@ tags:
 title: Restaurant Number 7
 type: poi
 snippet: "Reliable Ville Nouvelle restaurant with a full Moroccan menu and no tourist fuss"
+score: 5.9
 ---
 
 A dependable and unpretentious restaurant in the Ville Nouvelle, popular with local families and business travellers who want proper Moroccan food without the palace-restaurant theatrics. The menu covers standard Fassi territory: tagines of lamb, chicken, or kefta; couscous on Fridays; a decent harira to start. Everything is cooked to order rather than sitting in a bain-marie.

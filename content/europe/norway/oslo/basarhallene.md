@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: Basarhallene
 type: poi
+score: 6.8
 ---
 
 Basarhallene is a pair of curved brick arcades from 1858, built to ring the eastern side of the cathedral. The two-storey horseshoe-shaped halls once housed the city's food market; today the ground-floor arcades are occupied by craft shops and small cafes. The building sits at the corner of Dronningensgate and Karl Johans Gate, Oslo's main pedestrian boulevard, and its red-brick arches and cloister-like walkways make it one of the more distinctive pieces of 19th-century architecture in the centre of town.

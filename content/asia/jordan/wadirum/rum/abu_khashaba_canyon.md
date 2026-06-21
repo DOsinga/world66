@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.4935
 longitude: 35.4704
+score: 8.4
 ---
 
 A narrow canyon in the southern part of Wadi Rum that surprises visitors with an unexpected splash of green. Where water seeps through the rock, hardy plants cling to the walls, creating a vivid contrast of red sandstone and bright vegetation that looks almost tropical.

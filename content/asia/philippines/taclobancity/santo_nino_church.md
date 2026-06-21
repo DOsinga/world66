@@ -7,6 +7,7 @@ tags:
 - religion
 title: Santo Niño Church
 type: poi
+score: 7.7
 ---
 
 The Archdiocesan Shrine of Santo Niño, locally just "Sto. Niño Church", stands at the heart of downtown Tacloban — a cream-coloured baroque-revival church with a single bell tower whose origins go back to the Spanish era. The image of the Holy Child enshrined inside is the focus of the city's Sangyaw festival every June, when streets fill with dancers, drum corps and costumed parades.

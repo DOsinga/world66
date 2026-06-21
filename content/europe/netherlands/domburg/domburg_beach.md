@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, swimming]
 latitude: 51.5680
 longitude: 3.4890
+score: 8.5
 ---
 
 Domburg's beach is wide, clean, and backed by substantial dunes that shelter the town from the North Sea winds. The sand is fine and pale, and at low tide the beach extends a long way — there is real room to spread out even in summer, though August weekends bring considerable crowds from the Dutch Randstad.

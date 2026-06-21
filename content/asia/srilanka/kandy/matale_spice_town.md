@@ -13,6 +13,7 @@ story: >
   and British both recognized Matale's position on the trade routes north and built forts
   here. The old Dutch fort at Matale is mostly ruined but the trading character of the town
   has persisted across three colonial administrations and independence.
+score: 6.9
 ---
 
 Matale, 26 km north of Kandy, is the spice capital of the hill country. The market district around the bus stand sells cinnamon bark, pepper, cardamom, cloves, and dried chillies in quantities that perfume several streets around it. It is a genuine working market rather than a tourist attraction, though visitors are welcome and prices are good.

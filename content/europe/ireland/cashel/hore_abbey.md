@@ -9,6 +9,7 @@ latitude: 52.5186
 longitude: -7.8979
 story: >
   Hore Abbey was transferred from the Benedictines to the Cistercians in 1272 in dramatic circumstances: the Archbishop of Cashel, David Mac Cearbaill, is said to have dreamed that the Benedictine monks would murder him. He expelled them the next morning and handed the monastery to the Cistercians from Mellifont, who built the current structure over the following decades. Whether the dream was genuine or a convenient excuse, no one has ever been sure.
+score: 8.4
 ---
 
 Hore Abbey is a ruined 13th-century Cistercian monastery in the meadow directly below the Rock of Cashel, about 500 metres from the entrance to the Rock. It is free to visit and open at all times — unlike the Rock itself, which charges admission and closes each day. The ruins are extensive and atmospheric: the nave and transepts of the church are largely intact to wall height, and the cloister arcade gives a sense of the monastery's original scale.

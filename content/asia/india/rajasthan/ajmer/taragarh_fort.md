@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - castle
+score: 8.1
 ---
 
 High above Ajmer on the Nag Pahar hills, Taragarh — the Star Fort — was one of the oldest hill forts in Rajasthan, founded in the 8th century by the Chauhan dynasty. Most of it is ruined now: long stretches of crenellated wall, fragments of bastions, a deep stepwell, and the dargah of Miran Sahib at the summit.

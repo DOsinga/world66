@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - garden
+score: 7.3
 ---
 
 A serious botanical garden, not a public park: the Kunming Botanical Garden is the research garden of the Kunming Institute of Botany, established in 1938 and now holding around 8,000 species of plants. The collection is especially strong on the flora of southwest China, which is the most botanically diverse part of the country — Yunnan alone has more plant species than the whole of Europe.

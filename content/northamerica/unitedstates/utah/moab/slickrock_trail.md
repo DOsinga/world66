@@ -8,6 +8,7 @@ latitude: 38.5602
 longitude: -109.5134
 story: >
   The Slickrock Trail was not built for mountain bikes — it was developed in the late 1960s for motorbikes, and mountain bikers arrived in the early 1980s and found that the rough surface of Navajo sandstone gave bicycle tyres extraordinary grip. The trail helped make Moab the mountain biking destination it became, and helped establish mountain biking as a serious sport in the US.
+score: 8.5
 ---
 
 The Slickrock Trail is one of the most famous mountain bike rides in the world and the route that put Moab on the map for two-wheeled travel. It is 10.5 miles of technical riding over bare Navajo sandstone — the "slickrock" is actually extraordinarily grippy under rubber tyres, allowing riders to ascend angles that would be impossible on any other surface.

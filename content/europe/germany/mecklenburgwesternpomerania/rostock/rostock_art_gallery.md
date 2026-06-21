@@ -10,6 +10,7 @@ address: "Hamburger Straße 40, 18069 Rostock"
 opening_hours: "Tue–Sun 11:00–18:00; closed Mon"
 admission: "€7 adults, €4 reduced"
 url: "www.kunsthalle-rostock.de"
+score: 6.8
 ---
 
 Rostock's main contemporary and modern art museum, housed in a striking circular building completed in 1969 on the shores of the Stadthafen (city harbour). The permanent collection concentrates on 20th-century German and international art, with particular strength in works from the GDR period — an interesting lens on art made under political constraint.

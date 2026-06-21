@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The original gold-rush town of Kernville sat downstream from here and was deliberately drowned when the Lake Isabella dam was completed in 1953. The current town — most of its older buildings relocated up the river — is technically the second Kernville."
+score: 6.7
 ---
 
 The little grid of streets around Circle Park is what passes for downtown Kernville: a couple of blocks of old wooden facades, art galleries, an outdoor outfitter or two, a coffee shop and the kind of small-town hardware store you forget still exists. The wild-west character is partly real — Kernville's roots are in 1860s gold mining — and partly built for the tourists.

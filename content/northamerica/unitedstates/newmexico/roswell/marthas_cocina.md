@@ -9,6 +9,7 @@ address: "2008 S Main St, Roswell, NM"
 phone: "+1 575-622-1148"
 latitude: 33.3736
 longitude: -104.5234
+score: 5.9
 ---
 
 A long-running family-run restaurant on South Main, popular with locals for the green chile chicken enchiladas, the breakfast burritos, and the homemade sopaipillas served warm with honey. Plain interior, plastic booths, big portions.

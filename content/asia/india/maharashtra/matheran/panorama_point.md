@@ -9,6 +9,7 @@ latitude: 18.9930
 longitude: 73.2750
 sources:
   - https://en.wikipedia.org/wiki/Matheran
+score: 7.9
 ---
 
 The most popular viewpoint in Matheran, Panorama Point sits at the northern edge of the plateau and looks out over a wide sweep of the Sahyadri hills toward the Ulhas River valley and Mumbai on the horizon. On clear days — which means October through February — the view extends for 50 km or more.

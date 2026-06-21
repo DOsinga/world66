@@ -11,6 +11,7 @@ tags:
   - sight
   - architecture
 snippet: "12th–14th century cathedral combining Romanesque and Gothic — built on the foundations of the Roman provincial temple"
+score: 8.8
 ---
 
 A grand cathedral on the highest point of the old town, begun in 1171 in Romanesque style and finished in Gothic in the 14th century — the transition is visible in the change from rounded to pointed arches as you move from the eastern end to the western. The cathedral sits directly on the foundations of the Roman **Temple of Augustus**, the most important religious building of Roman Hispania; the medieval builders reused Roman columns and capitals throughout the structure.

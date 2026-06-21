@@ -13,6 +13,7 @@ tags:
 - museum
 title: Coca Museum
 type: poi
+score: 7.9
 ---
 
 The Coca Museum (Museo de la Coca) is on Calle Linares in the market district, squeezed into a narrow building that opens up more than you expect. The displays cover the deep history of coca use in Andean cultures — ritual, medicinal, social — and the botany of the plant itself, and then move into the modern political history: how the United States pressured Andean governments to eradicate coca cultivation as part of the war on drugs, how Bolivia under Evo Morales (himself a former coca grower) pushed back, and the ongoing tension between a plant that has been central to Andean life for millennia and an international drug control framework that conflates it with cocaine. The museum is small but well-researched and takes a clear position, which makes it more interesting than a neutral presentation would be.

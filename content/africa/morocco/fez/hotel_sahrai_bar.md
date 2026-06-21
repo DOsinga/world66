@@ -7,6 +7,7 @@ tags:
 title: Hotel Sahrai Rooftop Bar
 type: poi
 snippet: "The most spectacular bar terrace in Fez, overlooking the medina from the hillside"
+score: 6.8
 ---
 
 The Hotel Sahrai is built into the hillside above Fes el-Bali, and its rooftop terrace bar has what is probably the best view of the medina available from any licensed premises. The medina spreads below you, green rooftops and white walls and minarets, with the Merinid Tombs visible on the ridge above. Cocktails are priced at upmarket hotel rates; the view justifies at least one drink.

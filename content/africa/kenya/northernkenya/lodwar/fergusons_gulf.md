@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 3.5500
 longitude: 35.8800
+score: 7.8
 ---
 
 A shallow bay on the western shore of Lake Turkana, about 70 km east of Lodwar along a rough track that becomes impassable in heavy rain. This is the most accessible part of the lake from the Lodwar side, and the natural base for camping on the shore.

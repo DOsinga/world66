@@ -8,6 +8,7 @@ latitude: 26.6800
 longitude: 101.7200
 sources:
   - https://en.wikipedia.org/wiki/Panzhihua
+score: 6.2
 ---
 
 The Hongge Hot Springs are located in a river valley about 30 km north of Panzhihua city centre, at the confluence of several small mountain streams. The springs feed a series of developed bathing pools that are popular with local residents, particularly in the cooler months when the warm water is most appealing. The springs vary in temperature, with some reaching above 40°C.

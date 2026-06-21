@@ -13,6 +13,7 @@ story: >
   the locks became one of the most important industrial sites in Sweden — and the falls
   were progressively tamed, diverted, and eventually harnessed entirely for hydroelectric
   power, leaving the gorge dry for most of the year.
+score: 7.9
 ---
 
 The Trollhättan Falls are the reason the town exists — a point where the Göta River once dropped 32 metres through a narrow rocky gorge in one of the most powerful waterfalls in northern Europe. Today the river is almost entirely diverted through the adjacent hydroelectric power station, and the gorge runs dry for most of the year. The exception is the annual "waterfall days" (Fallens Dagar), usually held in July, when the sluices are opened and the full flow returns — a genuinely spectacular event that draws visitors from across western Sweden.

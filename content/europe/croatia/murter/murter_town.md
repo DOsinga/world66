@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 43.815
 longitude: 15.585
+score: 6.8
 ---
 
 Murter is the island's administrative centre, sitting on the north-west coast and looking directly out toward the Kornati. It is a working village more than a resort — a small harbour, a parish church, a fish market that opens before dawn, and a handful of seafront restaurants — and most of the boats that take visitors into the national park leave from its long quay.

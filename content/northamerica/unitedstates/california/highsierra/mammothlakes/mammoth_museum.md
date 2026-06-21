@@ -5,6 +5,7 @@ tags: [things_to_do, museum]
 latitude: 37.6385
 longitude: -118.9705
 story: The museum occupies the Hayden Cabin, a log building that is one of the oldest surviving structures in Mammoth Lakes, built in the 1920s when the town was still more mining camp than ski resort.
+score: 6.2
 ---
 
 The Mammoth Museum is a small local history museum housed in a historic log cabin on Sherwin Creek Road, covering the mining and ranching past of the region before skiing transformed the economy. The collection focuses on the late 19th and early 20th centuries, when gold and silver prospectors worked the surrounding hills and cattlemen drove stock across the high passes.

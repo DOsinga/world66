@@ -7,6 +7,7 @@ tags:
 - downtown_dubai
 title: Dubai Fountain
 type: poi
+score: 8.1
 ---
 
 The Dubai Fountain sits in the 30-acre artificial lake at the base of the Burj Khalifa, and on paper it reads as tourist kitsch. In practice it is genuinely spectacular: 900 lights, 25 colour projectors, and 6,600 WATERlights illuminate a choreographed performance of jets that shoot water up to 150 metres into the air, set to Arabic, Hindi, and Western music.

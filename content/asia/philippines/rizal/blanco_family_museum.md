@@ -7,6 +7,7 @@ tags:
 snippet: Three-storey gallery of paintings by a single Angono family
 latitude: 14.5275
 longitude: 121.1561
+score: 6.8
 ---
 
 The Blanco family of Angono have produced painters for three generations, and their museum is essentially a 200-piece exhibition of their own work, organised by family member. Patriarch Jose Blanco, his wife Loreto, and their seven children have each been productive artists; the museum displays family portraits, village scenes, and a fair amount of self-referential portraiture (paintings of paintings, family members at their easels).

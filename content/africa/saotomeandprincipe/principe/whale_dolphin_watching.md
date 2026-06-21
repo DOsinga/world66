@@ -8,6 +8,7 @@ latitude: 1.6139
 longitude: 7.4057
 sources:
   - https://www.saotomeexpert.pt/en/sao-tome-principe-island-fauna-wildlife-biodiversity/
+score: 7.5
 ---
 
 The waters around Príncipe lie in a stretch of the Gulf of Guinea that supports year-round cetacean populations. Humpback whales pass through between July and October, when they gather in the warm Gulf of Guinea waters. Spinner dolphins and bottlenose dolphins are present throughout the year and are often encountered on boat trips between the island's beaches.

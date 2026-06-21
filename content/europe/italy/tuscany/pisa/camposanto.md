@@ -10,6 +10,7 @@ longitude: 10.3950
 address: "Piazza del Duomo, 56126 Pisa"
 admission: "Combined Opera del Duomo ticket"
 story: "On 27 July 1944 an American incendiary shell hit the roof; molten lead dripped from the burning beams onto the frescoes, destroying or damaging most of them. Conservators have spent eighty years detaching, restoring, and remounting the surviving fragments. The famous Triumph of Death by Buonamico Buffalmacco, recently restored, is back on its original wall."
+score: 8.8
 ---
 
 The cloister at the north edge of the Campo dei Miracoli is the fourth of the great buildings, completed in 1464. It was built around earth that Crusaders had reportedly brought back from Calvary, supposedly so that the buried Pisans would rest in holy ground. Sixty Gothic arches frame a long rectangular court lined with ancient Roman sarcophagi, repurposed as tombs for wealthy medieval Pisans.

@@ -9,6 +9,7 @@ tags:
 - waterfront
 title: Museum of Liverpool
 type: poi
+score: 8.7
 ---
 
 A striking modern building on the Pier Head waterfront, opened in 2011, dedicated to the social, urban and cultural history of Liverpool. The galleries cover everything from the city's pre-industrial fishing village origins to the rise of the port, the music and football of the 20th century, and the contemporary city.

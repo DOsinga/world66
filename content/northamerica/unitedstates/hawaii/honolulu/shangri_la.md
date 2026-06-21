@@ -8,6 +8,7 @@ tags:
 title: Shangri La
 type: poi
 story: "Doris Duke, the tobacco heiress, built Shangri La in 1937 after a world tour that included five months in the Middle East. She met her husband on a surfing beach in Honolulu and decided to build her home there, designing it around the Islamic art she had been collecting since her travels. She acquired work continuously until her death in 1993, never intending the house to become a museum — it became one anyway, opened to the public in 2002 and described as one of the finest Islamic art collections in private hands."
+score: 9.0
 ---
 
 Shangri La is Doris Duke's extraordinary estate on the Kahala peninsula, a clifftop compound built in 1937 and filled over six decades with more than 4,500 objects of Islamic art — tiles, textiles, metalwork, ceramics, architectural elements, and paintings from Morocco to Iran to India. The setting alone is remarkable: a Moghul-inspired pleasure palace perched above the Pacific.

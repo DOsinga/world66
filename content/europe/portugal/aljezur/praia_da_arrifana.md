@@ -7,6 +7,7 @@ tags:
 latitude: 37.2921
 longitude: -8.8655
 snippet: Wide surf beach beneath dramatic cliffs, with a ruined clifftop fort
+score: 8.5
 ---
 
 Arrifana is the best known of Aljezur's beaches and the most dramatic — a wide crescent of sand enclosed by high dark cliffs that drop almost vertically into the sea. The beach faces northwest directly into the Atlantic swell, which makes it a reliable and popular surf spot. Several surf schools operate here, and the waves work for beginners in the mornings when the wind is lighter, picking up more force by afternoon.

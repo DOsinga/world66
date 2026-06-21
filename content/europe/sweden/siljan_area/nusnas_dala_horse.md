@@ -15,6 +15,7 @@ story: >
   within a generation.
 sources:
   - https://en.wikipedia.org/wiki/Dala_horse
+score: 7.8
 ---
 
 The village of Nusnäs, about 12 km south of Mora, is the centre of Dala horse production, and visitors can watch the entire process in the workshops of the two main producers: Nils Olsson Hemslöjd and Grannas A. Olsson. The carving, sanding, painting, and decorating are all done by hand, and the workshops welcome visitors during working hours.

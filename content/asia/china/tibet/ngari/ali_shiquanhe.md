@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.4930
 longitude: 80.1017
+score: 5.7
 ---
 
 Ali — known in Tibetan as Senge Tsangpo, in Chinese as Shiquanhe — is the administrative capital of Ngari Prefecture and the only proper town in western Tibet. At 4,270 metres, it is a harsh frontier city of Chinese-built blocks and wide dusty streets, not pretty, but absolutely essential as a logistics base for everything in the region. Here you sort out permits, hire vehicles, resupply, and sleep in something more comfortable than a trekking tent before or after the long journeys to Kailash, Guge, or the border areas.

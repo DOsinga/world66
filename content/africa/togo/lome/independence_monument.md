@@ -8,6 +8,7 @@ tags:
 latitude: 6.1300
 longitude: 1.2160
 story: "The monument was inaugurated on 27 April 1960, the day Togo became independent under Sylvanus Olympio. Olympio was assassinated less than three years later in the first successful military coup in post-colonial sub-Saharan Africa, a few hundred metres from this spot."
+score: 6.2
 ---
 
 The Monument de l'Indépendance is a tall whitewashed pylon at the centre of Place de l'Indépendance, the broad ceremonial square on which the national museum and the old single-party headquarters also stand. It marks the date — 27 April 1960 — when Togo became the first French sub-Saharan colony to gain independence in the postwar wave.

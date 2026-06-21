@@ -8,6 +8,7 @@ latitude: 48.4026
 longitude: 11.7481
 sources:
   - https://en.wikipedia.org/wiki/Freising
+score: 6.5
 ---
 
 Freising's Marktplatz is the flat, lively centre of the lower town — a broad pedestrian street rather than a formal square, lined with 17th and 18th-century townhouses, cafes, and independent shops. It lacks the grandeur of Munich's central spaces, but it has the scale and pace of a working Bavarian market town, which is what Freising actually is.

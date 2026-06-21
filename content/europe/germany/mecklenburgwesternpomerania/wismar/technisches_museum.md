@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 53.8939
 longitude: 11.431
+score: 6.8
 ---
 
 The Technisches Landesmuseum Mecklenburg-Vorpommern sits west of the old town in a former industrial complex and covers the technological and industrial history of the region. The collection ranges from agricultural machinery and steam engines to shipbuilding tools and telecommunications equipment — a reasonably broad interpretation of "technology" that reflects the mixed economy of a region that has been in turn a Hanseatic trading hub, a Swedish province, an agricultural landscape, a GDR industrial zone, and a post-reunification service economy.

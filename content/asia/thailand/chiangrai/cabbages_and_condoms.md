@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 19.9100
 longitude: 99.8310
+score: 5.0
 ---
 
 Cabbages and Condoms is the Chiang Rai branch of the restaurant chain founded by Mechai Viravaidya, whose Population and Community Development Association used the same irreverent approach to normalise family planning and HIV/AIDS education across Thailand in the 1980s and 1990s. The name is the point — a deliberate provocation to open conversation about public health. Profits go to the association's rural development and education programmes.

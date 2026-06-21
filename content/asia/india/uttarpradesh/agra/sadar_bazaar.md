@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 5.6
 ---
 
 Sadar Bazaar is the modern shopping street in the Cantonment area south of the fort, with western-style cafes, leather goods shops, restaurants, and a busy evening street life. It is where most travellers staying in the southern hotel district end up for dinner.

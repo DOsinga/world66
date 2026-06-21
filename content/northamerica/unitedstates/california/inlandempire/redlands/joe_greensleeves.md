@@ -7,6 +7,7 @@ longitude: -117.1825
 tags:
   - eating_out
   - restaurant
+score: 5.7
 ---
 
 Joe Greensleeves is the upscale-dinner option in downtown Redlands — game-heavy menu (elk, buffalo, wild boar), a serious wine list, white tablecloths in a former bank building with high ceilings and brick walls. Service is old-school in the best way; portions are generous.

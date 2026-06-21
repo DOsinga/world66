@@ -11,6 +11,7 @@ story: >
   skyline directly across the water. On clear days you can see the Cíes Islands
   in the mouth of the estuary — the same view the Romans had from their settlement
   here two thousand years ago.
+score: 6.2
 ---
 
 Rodeira is Cangas's main town beach, located just at the entrance to town near the ferry dock. It is a wide, gently curved strand with calm water sheltered by the ría — good for families, easy to reach on foot from the town centre, and well-serviced in summer with cafes and beach showers.

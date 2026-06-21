@@ -13,6 +13,7 @@ story: >
   experience with cultural recovery. The lights were explicitly positioned in the
   area around the old foreign settlement and the former City Hall as a symbol of
   Kobe's intention to rebuild and return to itself.
+score: 7.3
 ---
 
 The Kobe Luminarie is an annual light installation held each December in the streets of central Kobe, originally as a memorial to the victims of the 1995 Great Hanshin Earthquake and a celebration of the city's recovery. Italian lighting designers create elaborate archways and tunnel structures from tens of thousands of illuminated bulbs, transforming the streets around the old foreign settlement into something from a fairy tale.

@@ -14,6 +14,7 @@ story: >
   love that lies behind all things." His wife Zhang Zhaohe, who had been the
   inspiration for a famous series of love letters when they were young, is
   buried beside him.
+score: 7.7
 ---
 
 Shen Congwen's grave is on a hillside path fifteen to twenty minutes' walk from the old town, accessible via a trail that follows the river before ascending through woodland to a quiet clearing. The grave is simply made: a rough natural stone bearing the inscription Shen chose for himself, set in a small cleared space among trees and wildflowers. The location is fitting — close to the landscape he wrote about, away from the commercial old town that has grown up around his literary reputation.

@@ -12,6 +12,7 @@ story: >
   Unlike the flat sheets of the Rub' al Khali to the south, the Nafud dunes are
   crescent-shaped and mobile, some of them more than 100 metres high — formed by
   prevailing northerly winds that have been reshaping the landscape for millennia.
+score: 8.3
 ---
 
 The Great Nafud begins almost at Ha'il's doorstep, its red dunes rising to the north and east of the city in a landscape that looks unlike anywhere else in Arabia. This is not the flat, featureless desert of stereotype but a dynamic sea of crescent dunes, some towering more than 100 metres, separated by broad corridors of pale desert floor. The red colour — unusual among Arabian sand seas — comes from iron oxide in the grains.

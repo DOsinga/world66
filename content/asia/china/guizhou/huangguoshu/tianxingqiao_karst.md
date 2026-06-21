@@ -8,6 +8,7 @@ latitude: 25.9880
 longitude: 105.6100
 story: >
   The natural stone bridges at Tianxingqiao are remnants of cave roofs that collapsed over thousands of years as underground rivers dissolved the limestone beneath. The sections that didn't collapse became bridges spanning dry gorges or active streams. The karst surface here was once a continuous cave system; what you walk through now is the skeleton of that underground world, exposed to the sky.
+score: 8.3
 ---
 
 Tianxingqiao (Celestial Star Bridge) is the karst landscape section of the Huangguoshu Scenic Area, 6 kilometres downstream from the main falls. Where the main falls experience is about volume and drama, Tianxingqiao is about texture: natural stone bridges, shallow pools overgrown with aquatic plants, limestone formations at human scale, and a boardwalk route through a landscape so densely botanical it reads as a garden rather than a wilderness.

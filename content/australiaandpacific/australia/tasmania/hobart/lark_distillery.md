@@ -14,6 +14,7 @@ tags:
 snippet: "The distillery that started Tasmanian whisky in 1992 — cellar door tastings on the waterfront"
 story: >
   Tasmanian whisky distillation had been illegal since 1839, when an early colonial governor banned it to protect the wool industry's labour supply. In 1992 Bill Lark — a Hobart surveyor — successfully lobbied to have the law changed, and immediately founded what was the first new Australian whisky distillery in 153 years. Tasmania now has more than 30 distilleries; Lark is the original, and Bill Lark himself has been inducted into the Whisky Hall of Fame.
+score: 7.0
 ---
 
 The cellar door of the distillery that single-handedly revived Australian whisky, in a converted warehouse on Davey Street directly across from the waterfront. The bar serves flights of Lark's own single malts — the **Cask Strength**, the **Symphony No 1**, and a constantly-rotating series of cask-aged limited releases — and visiting whiskies from other Tasmanian producers. The flagship single malt won the World Whisky of the Year title in 2014 (the first Australian whisky to do so).

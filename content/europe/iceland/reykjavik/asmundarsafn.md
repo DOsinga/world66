@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: White-domed sculptor's house-museum east of the centre, with a free outdoor garden
+score: 7.2
 ---
 
 The third of the Reykjavík Art Museum's three sites, Ásmundarsafn is the studio-house of the sculptor Ásmundur Sveinsson — a striking white-domed building of his own design, surrounded by a garden of his sculptures, on a quiet street east of the centre.

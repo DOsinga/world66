@@ -10,6 +10,7 @@ latitude: -22.3700
 longitude: -43.0500
 story: >
   The traverse crosses ridgelines that separate two imperial cities: Teresópolis, named for Empress Teresa Cristina, and Petrópolis, the summer capital built by Emperor Pedro II. The route runs through some of the last large remnants of Atlantic Forest in the Rio de Janeiro state — a biome that once covered 15 percent of Brazil and now survives on only about 12 percent of its original area.
+score: 8.9
 ---
 
 The Travessia Teresópolis–Petrópolis is one of Brazil's great classic multi-day hikes, a 35-kilometre ridge traverse through the heart of the Parque Nacional da Serra dos Órgãos. The trail connects the two park entrances — from Teresópolis in the north to Petrópolis in the south — crossing dramatic exposed ridgelines, granite domes, and dense Atlantic Forest over two to three days. It is the most popular long trek in southeastern Brazil and deservedly so.

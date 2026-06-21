@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.2335
 longitude: -111.6580
+score: 6.1
 ---
 
 Beneath downtown Provo, a network of century-old tunnels — originally constructed for utilities — has been repurposed as a quirky arts and small-business district. Artists, makers, and a few restaurants have set up in the arched brick spaces, creating one of the more unusual commercial districts in Utah. The tunnels are accessible from street-level entrances near Center Street.

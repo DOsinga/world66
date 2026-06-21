@@ -7,6 +7,7 @@ tags:
 latitude: 43.5833
 longitude: 11.3167
 story: "The piazza's unusual triangular shape was not a medieval accident but a deliberate design: it follows the outline of the old market enclosure where Chianti farmers came to sell wine, oil and grain. The statue at the narrow end is of Giovanni da Verrazzano, the Florentine explorer who in 1524 became the first European to enter New York Bay — he was born in the nearby castle that bears his name."
+score: 7.3
 ---
 
 Piazza Matteotti is the heart of Greve and one of Tuscany's most distinctive town squares. Unlike the broad rectangular piazze of most Tuscan towns, this one is long and triangular, its sides lined continuously with arcaded buildings. Wine shops, enotecas, butchers, and cafes occupy the ground floors; apartments fill the floors above.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The pier was built in the late 1990s to offload fuel for the Indonesian-Portuguese oil company Pertamina. Within a decade of the company's withdrawal, the pilings had grown a coral garden dense enough to draw divers from across Southeast Asia."
+score: 8.7
 ---
 
 Pertamina Pier, on the western edge of Dili Bay, is one of the more remarkable shore dives in Asia: a working fuel pier whose concrete pilings are encrusted with soft corals, gorgonians, and a dense population of macro life. You walk in from the beach a few metres west of the pier and swim out along the pilings.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 17.5333
 longitude: 80.7833
+score: 7.2
 ---
 
 About 35 km south of Bhadrachalam, through tribal villages and paddy fields with the Godavari glinting in the background, Parnasala is the site traditionally identified with the forest hermitage where Rama, Lakshmana, and Sita lived during their exile — and where Ravana, the demon king of Lanka, abducted Sita. The name means "leaf hut" in Sanskrit, referring to the simple shelter where they lived.

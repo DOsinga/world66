@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Bayonne_Cathedral
 story: >
   Construction of the cathedral began in the 13th century and was not completed until the 19th — a span of nearly 700 years. It served as a cathedral, then a mosque briefly under Moorish influence, then a cathedral again. The two Gothic spires that now define the Bayonne skyline were added only in 1878.
+score: 8.9
 ---
 
 The Cathedral of Saint Mary of Bayonne is the dominant building of the old town — a magnificent Gothic structure that rises above the narrow medieval streets with authority. Work began in the 13th century, and the cathedral draws on French Gothic style, particularly Soissons, more than on any Spanish or Basque influence. The result is one of the finest Gothic churches in southwest France.

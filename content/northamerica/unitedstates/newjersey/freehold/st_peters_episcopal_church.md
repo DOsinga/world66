@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: One of New Jersey's oldest parishes, with a handsome 1835 Greek Revival church on Church Street
+score: 7.0
 ---
 
 St. Peter's Episcopal Church has been a presence in Freehold since 1702, making it one of the oldest parishes in New Jersey. The current building, completed in 1835, is a restrained Greek Revival structure — white clapboard with a colonnaded portico and a modest steeple — that fits naturally into the character of the old town. The graveyard contains graves dating to the colonial era, and several soldiers from the Battle of Monmouth are buried here.

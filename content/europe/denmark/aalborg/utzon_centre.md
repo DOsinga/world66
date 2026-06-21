@@ -13,6 +13,7 @@ story: >
   was born in Aalborg in 1918. The Utzon Centre was his last project — he worked on the
   design in his late eighties and died in 2008, the year the building opened. He never saw
   the completed structure.
+score: 7.5
 ---
 
 The Utzon Centre sits on Aalborg's Limfjord waterfront and was the final architectural project of Jørn Utzon, the Danish architect who designed the Sydney Opera House. Born in Aalborg in 1918, Utzon designed the centre in his late eighties as a gift to his home city. The building opened in 2008, the year of his death.

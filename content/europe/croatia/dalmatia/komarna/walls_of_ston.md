@@ -12,6 +12,7 @@ story: >
   built by the Republic of Ragusa from 1333 onwards to protect the
   salt-pans that lay between Ston and Mali Ston, the richest source of
   revenue for the medieval city-state of Dubrovnik.
+score: 8.4
 ---
 
 The walls of Ston climb the steep hillside above the village in a long zig-zag, linking Ston with the smaller settlement of Mali Ston on the opposite side of the peninsula. The full circuit takes about an hour and a half and is best done in the cooler parts of the day; the climb is steep, the path uneven, and there is no shade at the top.

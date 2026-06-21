@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The museum was founded in 1901 by Edward Drummond Libbey, owner of the Libbey Glass Company, which moved its operations from Massachusetts to Toledo in 1888 to chase cheap natural gas. Libbey believed a city without an art museum was unfit to be lived in. The Glass Pavilion across the street — a fluid, transparent box of curved walls completed in 2006 — was designed by Tokyo firm SANAA and is the building most architects will come to Toledo to see."
+score: 9.5
 ---
 
 The Toledo Museum of Art is the single best reason to be in the city, and one of the half-dozen most important regional art museums in the United States. The collection holds works by Rembrandt, El Greco, Goya, Cézanne, Picasso and Monet alongside an outstanding ancient Greek and Roman gallery and pre-Columbian, Asian and Islamic wings. The European paintings hang in the neoclassical 1912 main building.

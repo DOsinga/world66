@@ -8,6 +8,7 @@ tags:
 latitude: 39.9396
 longitude: -75.1488
 snippet: "Isaiah Zagar's sprawling mosaic universe on South Street — one of the city's most joyful spaces"
+score: 7.9
 ---
 
 Isaiah Zagar spent decades covering a stretch of South Street with mosaic — covering building facades, outdoor courtyards, and indoor galleries with an intricate web of mirrors, tiles, bicycle wheels, bottles, and found objects. The result is Philadelphia's Magic Gardens, a half-block labyrinth that is simultaneously a folk art masterpiece, an outsider art landmark, and one of the most genuinely strange and wonderful places in the city.

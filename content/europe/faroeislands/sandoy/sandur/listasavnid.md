@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 61.8348
 longitude: -6.8176
+score: 7.2
 ---
 
 The Listasavnið á Sandoyggj is a small art museum dedicated to Faroese visual art, housed in the village of Sandur. The collection focuses on works by Faroese artists and provides one of the better introductions to the modern art tradition that has developed in these islands over the past century — a tradition remarkable for its quality given the scale of the population.

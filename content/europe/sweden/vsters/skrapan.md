@@ -11,6 +11,7 @@ story: >
   — in a city of low-rise brick buildings, it looked like it was scraping the sky.
   It is not particularly beautiful, but it has become an affectionate local landmark,
   and the view from the upper floors is the best in the city.
+score: 5.7
 ---
 
 Skrapan — "The Scraper" — is the only skyscraper in Västerås and has been a local fixture since 1958. Standing sixteen storeys in the city centre, it was built as a modernist statement at a time when Sweden was reinventing its cities with Functionalist architecture. Today it houses offices and apartments.

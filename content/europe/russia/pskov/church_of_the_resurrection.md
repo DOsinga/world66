@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 57.8200
 longitude: 28.3320
+score: 7.3
 ---
 
 The Church of the Resurrection (Voskresenskaya tserkov) at the Stairway is one of the most charming of Pskov's many medieval churches — a small, whitewashed cube with a single cupola and the characteristic Pskovian belfry added to one side. It dates from the late 15th or early 16th century and stands on a slight rise near the river, visible against the sky from the embankment.

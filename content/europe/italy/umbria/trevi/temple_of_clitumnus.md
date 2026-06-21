@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Temple_of_Clitumnus
 story: >
   Goethe stopped here in 1786 and recorded the Tempietto in his Italian Journey. For centuries travellers assumed it was a genuine Roman temple; it was only in the 20th century that scholars recognised the early Christian additions and revised the dating. It is now a UNESCO World Heritage Site as part of the Lombards in Italy group.
+score: 8.7
 ---
 
 Just south of Trevi, along the Via Flaminia near Campello sul Clitunno, stands one of the most unusual early Christian buildings in Italy. The Tempietto del Clitunno looks, at first glance, like a small Roman temple: a classical pediment, four columns, a carved frieze. It is in fact a small church dating from the late 5th or early 6th century AD, built using ancient Roman stonework and decorative elements cannibalized from earlier structures on the same site.

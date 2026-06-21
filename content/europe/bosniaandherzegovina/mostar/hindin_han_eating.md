@@ -5,6 +5,7 @@ snippet: Riverside terrace restaurant serving classic Bosnian grills with a view
 tags: [eating_out, restaurant, bosnian]
 latitude: 43.3373
 longitude: 17.8141
+score: 6.6
 ---
 
 Hindin Han occupies an Ottoman-era inn building right beside the Radobolja and looks straight across at the Kriva Ćuprija. The terrace, propped on wooden beams above the rushing water, is one of the most agreeable places in town to eat in summer.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight, theatre]
 latitude: 37.0177
 longitude: -7.9344
 snippet: "Pocket-sized 19th-century Italianate theatre"
+score: 7.2
 ---
 
 A jewel-box Italian-style theatre carved out of the 16th-century Jesuit College building on Rua de Portugal. Opened in 1845, the three-tiered horseshoe auditorium holds only about 350 seats and feels like a miniature La Scala — gilt boxes, red velvet, a painted ceiling.

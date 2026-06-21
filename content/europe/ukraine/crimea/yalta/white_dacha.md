@@ -6,6 +6,7 @@ latitude: 44.491111
 longitude: 34.141666
 story: >
   Chekhov moved to Yalta in 1899 on medical advice — his tuberculosis needed dry air — and grumbled about it for the rest of his life. He called the dacha his "warm Siberia" and complained that he could not work properly away from Moscow. Yet it was here, in the small study on the upper floor, that he wrote both The Cherry Orchard and Three Sisters, two of the greatest plays in any language.
+score: 8.4
 ---
 
 Anton Chekhov built this neat white house on the hillside above Yalta in 1899 when tuberculosis forced him to leave Moscow's damp winters. He lived here until 1904, the year of his death, returning to Russia only briefly. The house has been preserved largely as he left it.

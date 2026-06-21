@@ -8,6 +8,7 @@ tags:
 - sight
 title: Giazza
 type: poi
+score: 7.4
 ---
 
 A small grey-stone village at the head of the Val d'Illasi, on the eastern edge of the plateau. Giazza is the last place in the Lessinia where Cimbrian, a medieval German dialect brought by Bavarian settlers, is still spoken as a community language. The setting is austere: a single street climbing past slate-roofed houses to a baroque church, with the cliffs of Monte Zevola rising directly behind.

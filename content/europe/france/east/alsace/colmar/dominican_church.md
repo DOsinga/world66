@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 story: "Martin Schongauer painted the Virgin of the Rose Bush in 1473, and the painting hung in St. Martin's church until it was stolen in 1972. It was recovered thirteen months later in Lyon's main railway station, badly damaged, and after restoration was rehoused in the better-protected Dominican Church across town — where it has stayed ever since."
+score: 7.7
 ---
 
 The Gothic Dominican Church, a few minutes' walk from St. Martin's, is worth visiting for a single masterpiece: Martin Schongauer's Virgin of the Rose Bush, painted in 1473. The Virgin sits in a thicket of roses with the infant Christ on her lap; the detail of the petals and leaves was unmatched in northern European painting at the time, and the work directly influenced Albrecht Dürer.

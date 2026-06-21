@@ -10,6 +10,7 @@ tags:
   - wildlife
 title: China Conservation and Research Center for Giant Panda (Dujiangyan)
 type: poi
+score: 7.3
 ---
 
 The Dujiangyan facility of the China Conservation and Research Center for Giant Panda is a different operation from the well-known Chengdu Research Base. Where Chengdu is a polished tourist attraction with large crowds and a fixed viewing circuit, Dujiangyan is primarily a research and rewilding centre where pandas live in larger, wilder enclosures and some are being trained to return to nature. The tourist infrastructure is intentionally modest.

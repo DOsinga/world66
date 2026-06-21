@@ -7,6 +7,7 @@ tags:
 - sight
 type: poi
 snippet: Europe's leading boat show, held at the old port every October
+score: 6.9
 ---
 
 The Salone Nautico di Genova, held every October at the Porto Antico, is one of the largest and most important boat shows in the world. Over 200,000 visitors attend the week-long event, which covers everything from superyachts to inflatable kayaks, from traditional Ligurian fishing boats to the latest racing designs. If you have any interest in boats and happen to be in Genoa in October, it is unmissable.

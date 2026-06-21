@@ -14,6 +14,7 @@ story: >
   in the central throne hall, where it still hangs. The same throne hall has a painted ceiling
   30 metres high. Atatürk died here on 10 November 1938, in a small bedroom on the upper floor;
   all the clocks in the palace are stopped at 9:05, the minute of his death.
+score: 8.5
 ---
 
 Dolmabahçe Palace replaced Topkapı as the sultan's principal residence in 1856, and its scale and ambition were clearly designed to make European monarchs feel at home — or outclassed. The building stretches 600 metres along the Bosphorus waterfront, with 285 rooms and 46 reception halls, decorated in a European Baroque, Neoclassical, and Rococo style that feels entirely at odds with the Ottoman past yet somehow also entirely Ottoman.

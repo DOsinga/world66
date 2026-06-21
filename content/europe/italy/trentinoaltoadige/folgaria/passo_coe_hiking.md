@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.9167
 longitude: 11.1833
+score: 8.1
 ---
 
 Passo Coe, a few kilometres southeast of Folgaria at around 1,600 metres, is the gateway to the best walking on the plateau. From here, a network of waymarked trails spreads across open highland terrain: south toward Lavarone and its lake, north toward the ridge overlooking the Adige valley, and east into the quieter meadows around Serrada.

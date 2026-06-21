@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Ounianga_K%C3%A9bir_(town)
   - https://en.wikipedia.org/wiki/Lake_Yoa
   - https://en.wikipedia.org/wiki/Lake_Katam
+score: 9.1
 ---
 
 The larger of the two lake groups, Ounianga Kébir sits adjacent to the main settlement and contains the most visually dramatic water of the entire system. The group includes around a dozen lakes in close proximity, with water chemistry ranging from mildly brackish to intensely hypersaline.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.6078
 longitude: 14.0671
+score: 8.3
 ---
 
 Pineto's defining feature is the strip of umbrella pine forest that backs the entire beach — planted in the 1920s at the initiative of Luigi Filiani, who envisioned a resort town shaded by thousands of pines. The beach itself holds a Blue Flag designation for water quality, and the sand is clean and wide. The combination of pine-scented shade and clear Adriatic water is genuinely pleasant, which is why Italian families have been coming here for generations.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Old-school wax museum on Central Avenue, open since 1962"
+score: 5.8
 ---
 
 A classic American roadside wax museum, opened in 1962 and run with the same matter-of-fact

@@ -14,6 +14,7 @@ story: >
   thousands of Chinese residents. Today it is one of Japan's three great Chinatowns —
   the others are in Yokohama and Nagasaki — and one of the most visited tourist
   destinations in Kobe.
+score: 7.2
 ---
 
 Nankin-machi is Kobe's Chinatown, a compact district south of Motomachi station with red-and-gold gates, Chinese restaurants, and a plaza where food stalls sell steamed buns and dim sum to eat standing up. It is one of Japan's three great Chinatowns and considerably more colourful than most Japanese shopping districts.

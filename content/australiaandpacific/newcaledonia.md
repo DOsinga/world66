@@ -14,7 +14,7 @@ quick_facts:
   Language: "French — limited English outside resorts"
   Coral Lagoon: UNESCO-listed, one of world's largest
   Nickel Reserves: "~25% of world's known supply"
-score: 0.62
+score: 0.57
 loc_type: country
 ---
 

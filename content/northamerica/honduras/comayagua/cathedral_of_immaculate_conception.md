@@ -8,6 +8,7 @@ tags:
 title: Cathedral of the Immaculate Conception
 type: poi
 story: "The clock in the cathedral's tower is one of the oldest functioning clocks in the Americas — built in Moorish style for the Alhambra in Granada around 1100 AD, then donated to the church in Comayagua by the Spanish Crown in 1636. It was kept wound and operational for nearly four centuries. The cathedral itself took 107 years to build, from 1608 to 1715."
+score: 9.0
 ---
 
 Comayagua's cathedral is the finest colonial church in Honduras and one of the most important in Central America. Completed in 1715 after more than a century of construction, it dominates the central plaza with a massive baroque facade of volcanic stone. The interior contains colonial-era paintings, gilded altarpieces, and a collection of religious art accumulated over four centuries.

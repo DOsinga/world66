@@ -5,6 +5,7 @@ tags: [things_to_do, architecture, sight]
 latitude: -9.4363
 longitude: 159.9635
 story: "The cathedral was built in the 1950s and its architecture deliberately incorporates traditional Melanesian motifs — the carvings on the wooden doors and screens show figures and patterns drawn from Solomon Islands craft traditions, a deliberate fusion by the Anglican mission that has a long history in the islands going back to Bishop Patteson, who was killed by islanders in 1871 in a revenge attack for blackbirding raids by European labour recruiters."
+score: 6.9
 ---
 
 The Holy Cross Cathedral is the Roman Catholic cathedral of the Archdiocese of Honiara, located east of the city centre. It is one of the more architecturally interesting buildings in Honiara — a substantial concrete structure whose interior incorporates traditional Melanesian carving and decoration alongside conventional Catholic iconography.

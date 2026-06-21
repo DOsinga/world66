@@ -14,6 +14,7 @@ story: >
   Aegean in summer — head-on, generating consistent conditions that professional
   riders seek out. During competition weeks in August, the beach fills with the
   colourful sails of riders from fifty-odd countries.
+score: 7.7
 ---
 
 Golden Beach (Chrysi Akti) is a long stretch of fine sand on the southeast coast, and the top windsurfing destination on Paros. Several schools operate here, from beginner sessions to advanced coaching, and equipment hire is available. In summer the meltemi wind arrives reliably in the afternoon, making mornings calm enough for swimming and afternoons good for sailing.

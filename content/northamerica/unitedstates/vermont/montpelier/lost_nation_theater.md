@@ -7,6 +7,7 @@ address: 39 Main Street, Montpelier, VT
 tags:
   - things_to_do
   - theatre
+score: 6.9
 ---
 
 Lost Nation has been running professional theatre out of Montpelier City Hall for over forty years — an unusual survival for a town of this size. The season runs spring through autumn, with a mix of contemporary American work, Shakespeare, and the occasional musical.

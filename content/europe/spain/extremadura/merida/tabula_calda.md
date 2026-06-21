@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 38.9168
 longitude: -6.3445
+score: 6.2
 ---
 
 Tábula Calda has been one of Mérida's reliable old town tables for years. The concept is Roman — recipes loosely reconstructed from Apicius and other classical sources, served in a stone-walled cellar dining room a few steps from the Plaza de España. It can sound gimmicky and is in fact done seriously: lamb with honey and fish sauce, garum-laced sauces, sweet-savoury combinations that turn out to be entirely modern in their appeal.

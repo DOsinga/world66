@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Andina
 type: poi
+score: 6.2
 ---
 
 Peruvian restaurant in the Pearl District. Good ceviche and traditional Andean dishes in a lively space.

@@ -12,6 +12,7 @@ tags:
 - sight
 title: Gerdab-e Sangi
 type: poi
+score: 6.8
 ---
 
 A remarkable natural feature in the centre of Khorramabad: a series of stone pools carved by the Khorramabad River into the bedrock over centuries, exploited during the Sassanid period as a mill site. The circular erosion patterns in the rock give the feature its name — "stone whirlpool."

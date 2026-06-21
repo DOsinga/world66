@@ -7,6 +7,7 @@ tags:
 snippet: Hilltop park with panoramic views over Metro Manila
 latitude: 14.6500
 longitude: 121.2150
+score: 6.9
 ---
 
 A short, well-marked viewpoint hike on a hill above the town of Antipolo, with sweeping views over Metro Manila to the west and the Sierra Madre ranges to the east. The trail is paved most of the way and accessible to walkers of all abilities; allow 30–40 minutes up.

@@ -8,6 +8,7 @@ tags:
 title: Mojari
 type: poi
 url: www.mojari.com
+score: 5.5
 ---
 
 A Rajasthan government emporium selling traditional Rajasthani mojari (leather shoes with embroidered uppers). The quality is reliable and prices are fixed, which makes it a good alternative to bargaining in the bazaars. Located centrally, a short walk from the old city.

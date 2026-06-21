@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.7
 ---
 
 The Parker through-truss bridge over the San Juan was built in 1937 as part of the WPA-era expansion of US 491. It carried all of the town's north–south traffic for sixty years; in 1997 a new concrete bridge took the through traffic and the old steel structure was kept for local use.

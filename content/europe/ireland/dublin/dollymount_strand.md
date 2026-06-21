@@ -10,6 +10,7 @@ tags:
 - sight
 title: Dollymount Strand
 type: poi
+score: 6.8
 ---
 
 A long stretch of sand on Bull Island, a man-made island in Dublin Bay created by the build-up of sediment behind the North Bull Wall. The beach has Blue Flag status and is popular with walkers, kite surfers, and families on sunny days, though the tide goes out a long way so swimming can be hit or miss. At the northern tip you'll find a nature reserve that's home to wintering waders, Brent geese, and a small seal colony.

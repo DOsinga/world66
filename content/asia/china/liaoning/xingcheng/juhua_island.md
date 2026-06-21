@@ -8,6 +8,7 @@ latitude: 40.5167
 longitude: 120.8333
 story: >
   Juhua Island's name means Chrysanthemum Island, a reference to the yellow chrysanthemums that bloom on the hillsides in autumn. The island has supported Buddhist communities since the Tang Dynasty, and the temples that survive from the Liao and Ming periods make it one of the oldest continuously inhabited religious sites on the Bohai coast.
+score: 7.2
 ---
 
 Juhua Island sits about fifteen kilometres off the Xingcheng coast, accessible by a forty-minute ferry from Xingcheng Port. The island is small — about fifteen kilometres in circumference — but carries a disproportionate density of historical monuments: Buddhist temples from the Liao and Ming dynasties, a lighthouse, and several miles of beach that get crowded with domestic tourists in summer but are reliably quiet from October through May.

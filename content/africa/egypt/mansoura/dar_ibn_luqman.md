@@ -9,6 +9,7 @@ tags:
 title: Dar Ibn Luqman
 type: poi
 story: "In February 1250, the Seventh Crusade ended not in Jerusalem but in a house in Mansoura, where Louis IX of France sat in chains after his army was destroyed on the Nile. The Egyptian commander Shajar al-Durr — a woman, a former slave, who would shortly become the first female sultan of Egypt — negotiated his ransom personally. Louis paid 400,000 livres tournois and never returned to Egypt."
+score: 8.4
 ---
 
 The house where Louis IX of France was imprisoned in 1250 after the Seventh Crusade was crushed at the battle of Mansoura. Nearly 800 years later it still stands, now a small museum with the chains, coins, weapons and personal effects of the captured king and his court. The building is one of the oldest surviving domestic structures in the Delta — a plain medieval townhouse that was already old when the Crusaders arrived.

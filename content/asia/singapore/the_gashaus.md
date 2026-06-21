@@ -2,9 +2,11 @@
 address: 114 Middle Rd, Bugis
 latitude: 1.2988
 longitude: 103.8554
+score: 5.9
 snippet: Indie music venue and bar in the Bugis neighbourhood
 tags:
 - bars_and_cafes
+- bugis
 title: The Gashaus
 type: poi
 ---

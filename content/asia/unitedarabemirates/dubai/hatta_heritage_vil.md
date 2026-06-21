@@ -8,6 +8,7 @@ tags:
 latitude: 24.8053
 longitude: 56.1156
 phone: 04-8521374
+score: 6.6
 ---
 
 A restored 16th-century village set among the Hajjar mountains, about 130 km southeast of Dubai city. Stone and mud-brick houses, two watchtowers, a mosque, and the imposing Hatta Fort give a sense of what life looked like in the mountains before oil transformed the region. The setting is striking -- a green oasis surrounded by rocky peaks, far removed from the glass towers of the coast.

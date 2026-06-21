@@ -5,6 +5,7 @@ snippet: "Influential Islamic academy in Tarim, drawing students from across the
 tags: [things_to_do, sight, religious]
 latitude: 16.0504
 longitude: 48.9754
+score: 6.7
 ---
 
 Dar al-Mustafa was founded in the 1990s by Habib Umar bin Hafiz and has grown into one of the most internationally influential Islamic seminaries of recent decades. It teaches a Shafi'i, Sufi-inflected curriculum rooted in the Hadrami scholarly tradition, and has produced graduates now serving as imams and teachers from Indonesia to the United States.

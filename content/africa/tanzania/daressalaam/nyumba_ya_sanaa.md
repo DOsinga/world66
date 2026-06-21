@@ -8,6 +8,7 @@ tags:
 - posta
 title: Nyumba ya Sanaa
 type: poi
+score: 6.6
 ---
 
 The "House of Art" was founded in 1972 by an Italian missionary, Sister Jean Pruitt, as a workshop and gallery for Tanzanian artists who could not afford studio space. Half a century later it still operates from a low compound off Ohio Street in the city centre, with painters, batik-makers, ceramicists, and a sculpture yard all visible from a quiet internal courtyard.

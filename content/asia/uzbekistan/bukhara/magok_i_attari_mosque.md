@@ -6,6 +6,7 @@ latitude: 39.7732
 longitude: 64.4183
 story: >
   "Magok" means "pit" in Uzbek, and the name reflects the mosque's strange archaeological situation: it was built atop a pre-Islamic fire temple and Zoroastrian shrine, and centuries of accumulated rubble have buried its lower stories underground. Archaeologists excavating the site in the 20th century found the original 9th-century foundations seven metres below the current street level, along with traces of the earlier temple it replaced.
+score: 8.3
 ---
 
 The Magok-i-Attari Mosque — "the mosque in the pit of the spice sellers" — is the oldest surviving mosque in Bukhara and one of the oldest in Central Asia, with its southern facade dating to the 12th century. It sits several metres below street level, hemmed in by the surrounding bazaar, and the approach down a short flight of steps adds to its sunken, ancient atmosphere.

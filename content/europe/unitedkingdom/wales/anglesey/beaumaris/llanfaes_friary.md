@@ -8,6 +8,7 @@ tags:
   - ruin
 sources:
   - https://en.wikipedia.org/wiki/Llanfaes_Friary
+score: 4.8
 ---
 
 The Franciscan friary of Llanfaes was founded in 1237 by Llywelyn the Great in memory of his wife Joan, who is buried in St Mary's, Beaumaris. It became one of the wealthiest Franciscan houses in Wales and the burial place of several members of the Welsh royal house of Gwynedd.

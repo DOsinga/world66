@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 48.8073
 longitude: 2.1082
+score: 6.2
 ---
 
 La Flottille is a restaurant on the northern arm of the Grand Canal, the only proper restaurant within the palace grounds themselves. The location is genuinely beautiful: tables look out over the water, with swans and occasional rowing boats passing, and the perspective back toward the palace is excellent.

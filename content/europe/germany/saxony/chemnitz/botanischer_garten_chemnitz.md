@@ -7,6 +7,7 @@ tags:
 latitude: 50.84949
 longitude: 12.889045
 snippet: A 10-hectare botanical garden in the northern city, free to enter
+score: 5.8
 ---
 
 The Botanical Garden covers about 10 hectares in the Bernsdorf district, north of the centre, and has been open since 1945. It's a working scientific collection as well as a public park, with around 10,000 plant species from across the world. The greenhouses hold tropical and succulent collections; the outdoor beds are organized by geography and by plant family.

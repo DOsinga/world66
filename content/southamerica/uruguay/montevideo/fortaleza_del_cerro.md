@@ -12,6 +12,7 @@ story: >
   disputed etymology — was the landmark that Portuguese sailors used to navigate the Río de la 
   Plata. The fort that crowns it appears on Uruguay's coat of arms and national flag: the fortress 
   silhouette with a rising sun behind it is the icon of the republic.
+score: 8.3
 ---
 
 The Cerro — a 139-metre hill on the western side of the bay — offers the best views of Montevideo and the Río de la Plata from its summit. The fortress at the top, built in 1811 and completed under various armies over the following decades, is now a military museum (Museo Militar) with exhibits on Uruguayan military history and the history of the fortress itself.

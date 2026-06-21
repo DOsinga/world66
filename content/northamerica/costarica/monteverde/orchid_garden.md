@@ -5,6 +5,7 @@ snippet: Small specialist garden displaying hundreds of native orchid species, m
 tags: [things_to_do, sight, garden]
 latitude: 10.3142
 longitude: -84.8202
+score: 7.3
 ---
 
 A research-and-display garden tucked behind the main road in Santa Elena, the Monteverde Orchid Garden grows hundreds of species — many of them collected from local cloud forest. Around half flower at any time of year, which means there is always something to see.

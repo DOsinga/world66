@@ -14,6 +14,7 @@ story: >
   is in the United States, the plunge pool in Canada. The park was created in 1989
   on land donated by the Grand Portage Band of Lake Superior Chippewa, and it remains
   the only Minnesota state park managed in cooperation with a tribe.
+score: 8.7
 ---
 
 The High Falls of the Pigeon River, at 120 feet, are the tallest waterfall in Minnesota and the reason for the original portage that gave the area its name — voyageurs could not paddle the lower Pigeon and instead carried their canoes and goods overland for 8.5 miles to bypass the falls and the rapids above them.

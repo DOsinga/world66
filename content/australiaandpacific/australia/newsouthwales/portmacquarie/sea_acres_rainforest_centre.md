@@ -12,6 +12,7 @@ snippet: Coastal rainforest boardwalk through one of NSW's last remaining subtro
 story: >
   This patch of rainforest is a remnant of the subtropical forest that once blanketed the mid-north coast before European settlement.
   It survived because the land was too waterlogged for timber-getting — the same soils that made the rainforest impractical to clear also preserved it when everything around was felled.
+score: 8.0
 ---
 
 Sea Acres is a 72-hectare coastal rainforest sitting between the Pacific Ocean and Shelly Beach. The entry fee gives you access to a 1.3-kilometre elevated boardwalk that winds through the canopy, keeping you dry underfoot and at eye level with ferns, strangler figs, and the birds that live among them. Brush turkeys wander the forest floor below; overhead, rainbow lorikeets and king parrots work through the flowering trees.

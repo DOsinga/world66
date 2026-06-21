@@ -7,6 +7,7 @@ tags:
 latitude: 42.494
 longitude: -8.865
 snippet: Peninsula seafood capital with some of the finest fish restaurants on the Rías Baixas coast
+score: 6.9
 ---
 
 O Grove sits at the tip of a peninsula that juts into the Ría de Arousa, 15km west of Cambados. The town has little in the way of architecture or history, but it has an exceptional relationship with the sea: the surrounding waters produce some of the finest mussels, oysters, clams, and percebes in Spain, and the fish restaurants that line the main street exist specifically to cook them well. This is not a destination for sightseeing — it is a destination for lunch.

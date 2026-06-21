@@ -8,6 +8,7 @@ latitude: 67.9458
 longitude: 13.133
 sources:
   - https://en.wikipedia.org/wiki/Hamn%C3%B8ya
+score: 7.3
 ---
 
 Hamnøya is the northernmost village in Moskenes municipality, reached first when driving south from Flakstad. A small island connected to the main road by a low bridge, it is less visited than Reine but offers similar rorbu-on-the-water scenery with fewer people competing for viewpoints. The fishing harbour is still working; in winter and early spring, cod racks line the hillsides.

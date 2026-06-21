@@ -11,6 +11,7 @@ tags:
 neighbourhood: Hollerich
 title: Didjeridoo
 type: poi
+score: 5.2
 ---
 
 One of the city's older clubs and still going. The crowd is mixed in age and the music keeps current. Open Wednesdays, Fridays, and Saturdays.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -23.038
 longitude: -70.46
+score: 6.7
 ---
 
 Juan López is a small fishing village and beach about 38 kilometres north of Antofagasta, popular with Antofagastinos as a weekend escape and a base for water sports along the coast. The sheltered bay offers calmer waters than the open coast south of the city, and the consistent onshore winds make it one of the better spots for windsurfing and kitesurfing in northern Chile.

@@ -7,6 +7,7 @@ tags:
   - shopping
 latitude: 31.7378
 longitude: -106.4841
+score: 6.8
 ---
 
 The Mercado Juárez is the city's main traditional market, a covered two-storey building within walking distance of the cathedral. The market has long catered to both locals and visitors crossing from El Paso — it is well-stocked with crafts from across Chihuahua state and the wider north: Tarahumara-woven baskets, serapes, leather goods, silver jewellery, pottery, and Ojos de Dios.

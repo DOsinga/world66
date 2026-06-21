@@ -7,6 +7,7 @@ tags:
   - sight
 title: Castillo de Santa María de la Cabeza
 type: poi
+score: 6.7
 ---
 
 The Castillo de Santa María de la Cabeza is the smaller of Cumaná's two surviving colonial forts. Built in the early 1700s to defend the mouth of the Manzanares River and to back up the larger Castillo de San Antonio above it, it sits low on a small rise just inland from the river.

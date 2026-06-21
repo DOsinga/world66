@@ -1,18 +1,23 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-03'
+image: broome.jpg
+image_attribution: Martin Kraft
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:MK-07628-33_Gantheaume_Point_(Broome).jpg
 latitude: -17.956691
+loc_type: city
 longitude: 122.224018
+score: 0.58
 title: Broome
 type: location
-score: 0.58
-loc_type: city
 ---
 
-Far out in the north-west of Western Australia lies Broome. Once isolated, it has now been discovered as a great getaway with beautiful sandy beaches and a relaxed atmosphere. The best time to visit is between April and September, when the heat is still within acceptable ranges.
+Far out in the north-west of Western Australia lies Broome — 2,046 km north of Perth, on the edge of the Kimberley. Once genuinely isolated, it has been discovered as a destination for good reason: [Cable Beach](/australiaandpacific/australia/westernaustralia/broome/cable_beach) is one of the finest stretches of sand in Australia, the light in the dry season is extraordinary, and the town has a multicultural history unlike anywhere else in the country. The best time to visit is between April and September, when the heat is manageable and the sea swimmable.
 
-Broome once thrived on its pearling industry. 80% of the world's mother-of-pearl came from Broome's 400 pearling luggers. Most of the divers for pearl were from various Asian countries, and the town is still noted for its Chinatown. After the introduction of the plastic button, the mother-of-pearl industry collapsed, and today only a few boats still operate. You can visit some of the old, restored pearl boats and hear former pearl divers talk about their trade at Pearl Luggers (Dampier Terrace, tel.: 9192 2059). The Broome Historical Society Museum (Saville Street) also gives information on the historical pearling industry.
+Broome once thrived on its pearling industry. Eighty per cent of the world's mother-of-pearl came from Broome's 400 pearling luggers at the industry's peak, with crews drawn from Japan, China, the Philippines, Malaysia, and Aboriginal Australia. After the introduction of the plastic button in the 1950s the industry collapsed, but the multicultural legacy it left is still visible in the town's Chinatown, the [Broome Japanese Cemetery](/australiaandpacific/australia/westernaustralia/broome/broome_japanese_cemetery), and at the [Pearl Luggers](/australiaandpacific/australia/westernaustralia/broome/pearl_luggers) museum, where restored boats and former divers tell the story. The [Broome Historical Society Museum](/australiaandpacific/australia/westernaustralia/broome/broome_historical_museum) on Saville Street covers the wider history, including the Japanese attack on the town in 1942.
 
-One of the more entrancing sights in Broome is the Staircase to the Moon. On a cloudless night you can see the full moon reflected in the rippling mud flats, which creates a beautiful golden stairway effect. This effect is most dramatic a few days after the full moon, when the sky has a chance to darken before the moon rises. The local tourist office will know the best dates and times to view this enchanting phenomenon.
+The [Staircase to the Moon](/australiaandpacific/australia/westernaustralia/broome/staircase_to_the_moon) is one of those natural phenomena that actually lives up to the hype: on full-moon nights during the dry season, the moon's reflection in the Roebuck Bay mudflats creates a shimmering golden staircase effect. It happens on perhaps three or four nights per month — check the exact dates with the visitor centre. Out on the southern edge of town, [Gantheaume Point](/australiaandpacific/australia/westernaustralia/broome/gantheaume_point) offers dinosaur footprints, dramatic red cliffs, and excellent sunset light.
 
-Between May and November, Broome hosts a wide variety of festivals. There is the Fringe Arts Festival, with alternative arts and performers in early June, the Stompen Festival of Kimberly Aboriginal art and music in early October, the Dragon Boat Classic in early April, and many more. The largest annual festival is the week-long Shinju Matsuri (Festival of the Pearl) somewhere in the second half of August, commemorating the pearling past and celebrating the town's multicultural heritage. It features street parades, dragon boat races, and many traditional Japanese ceremonies. It is a very popular festival, so be sure to book your accommodation well in advance if you plan to visit Broome during this time.
+[Sun Picture Gardens](/australiaandpacific/australia/westernaustralia/broome/sun_pictures) on Carnarvon Street is the world's oldest continuously operating outdoor cinema — open since 1916, still showing current films under the stars. Between May and November, Broome hosts several festivals, the largest being the week-long Shinju Matsuri (Festival of the Pearl) in August, which celebrates the town's multicultural heritage with parades and traditional ceremonies.

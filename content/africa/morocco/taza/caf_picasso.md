@@ -5,6 +5,7 @@ tags:
 - eating_out
 title: Café Picasso
 type: poi
+score: 5.2
 ---
 
 If you are looking for a place to breakfast ouside the hotel, the "*Café Picasso*" is a good choice. Unlike most other cafés it is not exclusively frequented by men, so you can feel very comfortable as a woman. The service in this little café is very good.

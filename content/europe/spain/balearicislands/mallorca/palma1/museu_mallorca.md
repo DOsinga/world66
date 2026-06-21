@@ -9,6 +9,7 @@ latitude: 39.5688
 longitude: 2.6510
 story: >
   The museum's prehistoric collection includes the Talayotic bronze warriors found at the sanctuary of Son Corró — stiff, abstract figures that predate classical Greek sculpture and represent a uniquely Balearic artistic tradition with no direct parallel elsewhere in the Mediterranean.
+score: 7.8
 ---
 
 The Museu de Mallorca occupies the Can Aiamans palace, a seventeenth-century Baroque mansion in the La Calatrava quarter, and covers the island's history from prehistoric times through to the twentieth century. The prehistoric and protohistoric rooms are the most distinctive: they contain artefacts from the Talayotic culture that flourished on the Balearic Islands between roughly 1000 and 100 BC, a Bronze Age civilization that left towers, navetas (collective burial chambers), and bronze figurines found nowhere else.

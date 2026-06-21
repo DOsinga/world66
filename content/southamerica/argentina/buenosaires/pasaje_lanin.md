@@ -8,6 +8,7 @@ tags:
 latitude: -34.6360
 longitude: -58.3858
 address: Pasaje Lanín, Barracas
+score: 6.5
 ---
 
 A short alleyway in the Barracas neighbourhood (just south of San Telmo) where the artist Marino Santa María has spent three decades covering the houses on both sides with mosaic tiles. The effect is total: every wall, doorframe, step, and surface is encrusted with coloured ceramic pieces in abstract and figurative patterns. The residents of the alley have participated in the decoration of their own homes.

@@ -15,6 +15,7 @@ story: >
   scholars began reconstructing it in the nineteenth century, they had to start from
   scratch. Much of what is now known about the Tangut language was worked out using
   bilingual Tangut-Chinese texts found at Wuwei.
+score: 8.1
 ---
 
 The Wuwei Xixia Museum is the only museum in China outside Yinchuan dedicated specifically to Western Xia culture, the Tangut kingdom that controlled much of the northwest from the late tenth to early thirteenth century. The Western Xia left a distinctive material culture — its own script, its own Buddhist iconography, pottery styles that blend Chinese and Central Asian elements — and this free museum covers it intelligently and in depth.

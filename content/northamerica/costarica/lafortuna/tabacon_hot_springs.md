@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.4880
 longitude: -84.7224
+score: 7.8
 ---
 
 Tabacón is the most famous hot spring resort near La Fortuna, located 12 km northwest of town along the road to Nuevo Arenal. The thermal pools here are fed by water naturally heated deep in the Arenal volcanic system, ranging in temperature from warm to genuinely hot. The resort has several pools at different temperatures, waterfalls, and a swimup bar, with the volcano looming on the hillside above.

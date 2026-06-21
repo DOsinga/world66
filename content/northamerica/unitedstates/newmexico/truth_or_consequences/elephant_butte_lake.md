@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.1872
 longitude: -107.2203
+score: 8.0
 ---
 
 New Mexico's largest lake sits just four miles north of town and feels completely incongruous in this dry Chihuahuan Desert landscape — a broad expanse of blue water stretching 40 miles through red canyon country, lined with beaches and dotted with boats. The reservoir was created in 1916 when Elephant Butte Dam was completed across the Rio Grande, and the namesake butte (an ancient volcanic core shaped vaguely like an elephant) rises from the water near the dam.

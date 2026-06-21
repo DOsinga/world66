@@ -9,6 +9,7 @@ longitude: 5.5347
 address: Europa-Esplanade 1, 3600 Genk
 opening_hours: Tue-Sun 13:30-22:00; booking required for shows
 snippet: Public observatory and planetarium with regular stargazing programs and dome shows
+score: 6.7
 ---
 
 The Europlanetarium is one of Belgium's main public observatories — a planetarium with a dome theater for astronomy shows and a rooftop telescope facility for actual stargazing on clear nights. Evening programs combine a dome projection of the night sky with telescope sessions; booking ahead is strongly recommended as they fill up quickly.

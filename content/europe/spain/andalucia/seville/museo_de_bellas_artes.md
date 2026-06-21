@@ -14,6 +14,7 @@ story: >
   Seville's most celebrated painter, is buried in the church of Santa Cruz nearby — but his greatest
   works are here, including The Vision of Fray Lauterio and The Virgin of the Napkin, which he painted
   specifically for a Sevillian convent and which never left the city.
+score: 8.9
 ---
 
 The Museum of Fine Arts is one of the most important art museums in Spain and the best place to see the Sevillian Golden Age painters in depth. The collection is housed in a gorgeous 17th-century former monastery with a baroque church at its centre, and the setting alone would justify a visit. The permanent collection is built around Bartolomé Esteban Murillo and Francisco de Zurbarán — both were born near Seville and both are represented here with outstanding works.

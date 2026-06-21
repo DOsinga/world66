@@ -7,6 +7,7 @@ snippet: Pedestrianised street through the central cafe district
 tags:
   - bars_and_cafes
   - bar
+score: 6.5
 ---
 
 Hamamyolu means "Hammam Road" — it once led to the city's main public bath — and the pedestrianisation project of the late 2010s turned it into Eskişehir's main promenade. Trees, fountains, and a long string of cafes, ice-cream parlours, and casual restaurants line both sides of the street, and on warm evenings the whole thing fills with students, families, and the occasional busker.

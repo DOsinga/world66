@@ -5,6 +5,7 @@ tags:
 - shopping
 title: Villagio
 type: poi
+score: 4.6
 ---
 
 One of the prettiest malls in Qatar

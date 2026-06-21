@@ -6,6 +6,7 @@ longitude: 115.7558
 tags:
   - sight
   - ruin
+score: 7.5
 ---
 
 The South Fremantle Power Station, on the coast at North Coogee five kilometres south of central Fremantle, ran from 1951 to 1985 and has stood empty ever since. The vast Art Deco hall — pale brick, arched windows, six tall stacks — is one of the most spectacular industrial ruins in Australia.

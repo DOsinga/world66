@@ -6,6 +6,7 @@ longitude: 7.0208
 tags:
   - things_to_do
   - museum
+score: 5.8
 ---
 
 A small local museum housed in the village, where longtime owner Alois Heid has assembled a collection of objects documenting the everyday life, farming traditions, and wine history of Lieser and the surrounding Mosel valley. The exhibits cover cooperage tools, old vine-cultivation equipment, local handicrafts, and archival photographs of the village through the 19th and 20th centuries.

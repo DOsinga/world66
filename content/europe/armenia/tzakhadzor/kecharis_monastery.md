@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Kecharis_Monastery
 story: >
   The monastery takes its name from a now-lost Armenian word whose meaning is debated — one theory links it to the word for "pine trees," matching the forested hillside setting. The complex was severely damaged by a Mongol raid in 1254, but survived and continued to function as a monastic centre for centuries. The dome of the Grigor Magistros church still bears traces of its original fresco programme, making it rare among medieval Armenian interiors.
+score: 8.8
 ---
 
 Kecharis Monastery stands at the edge of Tsaghkadzor, its ochre-coloured tufa walls rising against the pine-covered hillside at the foot of the ski slopes. The complex dates from the 11th to 13th centuries and is one of the best-preserved medieval Armenian monasteries in the Kotayk Province. It was founded by Prince Grigor Magistros Pahlavuni and expanded over the following two centuries with the addition of two more churches and a gavit (an Armenian narthex-hall used for assembly).

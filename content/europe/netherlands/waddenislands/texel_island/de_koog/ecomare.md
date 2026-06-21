@@ -13,6 +13,7 @@ story: >
   seals being fed from a viewing platform above their outdoor pool.
 sources:
   - https://en.wikipedia.org/wiki/EcoMare
+score: 8.2
 ---
 
 EcoMare is Texel's main indoor attraction — part marine rescue centre, part natural history museum, and entirely worth an hour or two. The ground floor covers the geology, ecology, and wildlife of the Wadden Sea and the North Sea dunes with clear, well-designed displays; the seal rehabilitation pools behind the building are the real draw.

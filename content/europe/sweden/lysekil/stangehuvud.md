@@ -9,6 +9,7 @@ tags:
 - nature_reserve
 title: Stångehuvud
 type: poi
+score: 8.8
 ---
 
 Stångehuvud is the pink-granite knob that closes the western end of Lysekil, sloping straight into the Skagerrak. The rock is unusually smooth, sculpted by glaciers, and the surface is patterned with shallow round basins called jättegrytor (giant's kettles), drilled by sand and meltwater during the last ice age. There are no buildings — only a network of marked paths winding between rock domes, juniper, and small wind-bent pines.

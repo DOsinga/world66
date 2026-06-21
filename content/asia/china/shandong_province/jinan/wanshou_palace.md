@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6600
 longitude: 116.9870
+score: 7.4
 ---
 
 Wanshou Palace (Ten Thousand Longevity Palace) is a Taoist temple complex in the old city west of the spring district, associated with the Quanzhen sect of Taoism and dating in its current form from the Qing Dynasty. The complex includes the main hall, several auxiliary buildings, and a courtyard with ancient ginkgo trees that are thought to be several hundred years old.

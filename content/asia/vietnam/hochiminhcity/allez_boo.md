@@ -1,10 +1,13 @@
 ---
 latitude: 10.768515
 longitude: 106.693216
-snippet: Long-running backpacker bar on Pham Ngu Lao
+score: 4.7
+snippet: Long-running backpacker bar on Pham Ngu Lao with cheap drinks and a mixed
+  local and tourist crowd
 tags:
 - bars_and_cafes
 - bar
+- pham_ngu_lao
 title: Allez Boo
 type: poi
 ---

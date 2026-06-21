@@ -5,6 +5,7 @@ tags: [things_to_do, amusement_park]
 snippet: Charity-owned hilltop amusement park with the city's best wooden rollercoaster
 latitude: 60.187778
 longitude: 24.940556
+score: 6.5
 ---
 
 Helsinki's traditional amusement park, on a hilltop just north of the centre. Open since 1950 and owned by a foundation that channels all profits to Finnish children's welfare charities — a Finnish twist that makes the whole place feel slightly more virtuous than a normal funfair.

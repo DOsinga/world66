@@ -6,6 +6,7 @@ longitude: 21.2870
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The thing that makes Awjila visible from a hundred kilometres away is the deep green smudge of its palm groves against the otherwise unbroken gravel and sand of the Sahara. The oasis grows more than thirty distinct varieties of date, the most prized being the soft, honey-sweet *taghyat* that traders once carried across the desert to the Mediterranean coast. Each grove is owned and worked by an extended family, with individual trees passed down by inheritance.

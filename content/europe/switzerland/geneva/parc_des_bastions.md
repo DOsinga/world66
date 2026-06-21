@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.9
 ---
 
 Parc des Bastions occupies the space between the old town fortifications and the university, a pleasant green strip running along the south side of the Vieille Ville. The park's two main draws are the Reformation Wall — the hundred-metre bas-relief depicting the leaders of the Protestant Reformation — and the oversized outdoor chess boards, where games are played on warm days with wooden pieces the height of a three-year-old child.

@@ -8,6 +8,7 @@ tags:
 title: Kırkpınar Stadium (Sarayiçi)
 type: poi
 story: "The founding legend holds that in 1362 a group of Ottoman soldiers camped near Edirne and began wrestling for sport. Two of them, evenly matched, wrestled through the night and into the next day without either yielding. Both died of exhaustion where they lay. When their companions returned to the site the following year to mark the anniversary, they found forty springs — kırk pınar — had appeared. The tournament has been held there, or as close to there as geography allows, every year since. UNESCO inscribed Kırkpınar on its Intangible Cultural Heritage list in 2010."
+score: 6.8
 ---
 
 Sarayiçi — meaning 'inside the palace' — is the island on the Meriç river where the Kırkpınar oil wrestling festival has been held for more than six centuries, making it the site of the oldest continuously held sporting competition in the world. The stadium here was built to host the event properly, with grandstands and a grass field, but outside of festival season it is a quiet, slightly melancholy place — green turf, empty stands, the river visible through the trees on either side.

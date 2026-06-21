@@ -8,6 +8,7 @@ latitude: 51.9079
 longitude: -2.0617
 story: >
   The Cheltenham Gold Cup, held in March, is the most coveted prize in jump racing — more so, many would argue, than the Grand National. When Arkle won it three years running in the 1960s, the crowds treated the horse like royalty. He received fan mail. When he died in 1970, his skeleton was preserved and put on display at the Irish Horse Museum.
+score: 7.9
 ---
 
 The home of National Hunt racing, set at the foot of Cleeve Hill with the Cotswold escarpment as a dramatic backdrop. The course hosts seventeen race days a year, with the Cheltenham Festival in March the undisputed highlight — four days of the highest-quality jump racing in the world, attended by around 250,000 people and watched by millions on television.

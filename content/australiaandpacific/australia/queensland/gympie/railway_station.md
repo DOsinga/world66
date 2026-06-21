@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.5
 ---
 
 The handsome timber and brick station of 1913 sits on what used to be the main North Coast railway between Brisbane and Cairns. Mainline services have moved to Gympie North since 1989, but the old station survives as the southern terminus of the Mary Valley Rattler — a restored steam train that runs heritage excursions up the Mary Valley to Amamoor.

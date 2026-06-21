@@ -10,6 +10,7 @@ latitude: 42.4183
 longitude: 0.1372
 sources:
   - https://en.wikipedia.org/wiki/A%C3%ADnsa
+score: 7.4
 ---
 
 The Romanesque church at the east end of the Plaza Mayor was consecrated in 1181, though construction began earlier in the 11th century. The bell tower — square, solid, and taller than the nave — is the visual anchor of the old town and visible from the valley floor below.

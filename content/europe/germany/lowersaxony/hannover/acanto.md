@@ -12,6 +12,7 @@ tags:
 - bar
 title: Acanto
 type: poi
+score: 5.7
 ---
 
 Set in the vaulted cellars of a former riding stable, the Acanto trades on Spanish-style opulence: heavy curtains, gilded mirrors, chandeliers, candles and elaborate fruit-and-flower arrangements. The dress code is unspoken but real — leave the trainers at home. The drinks list is long and not cheap, but the atmosphere justifies it. Weekend disco from 23:00.

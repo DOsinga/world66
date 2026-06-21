@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 36.88500
 longitude: 30.70800
+score: 7.8
 ---
 
 The Suna & İnan Kıraç Kaleiçi Museum occupies two beautifully restored Ottoman houses in the heart of the old town. The collection focuses on Anatolian and Ottoman domestic life — ceramics, metalwork, textiles, and furniture — displayed in rooms recreated to show how wealthy Antalya families lived in the 18th and 19th centuries.

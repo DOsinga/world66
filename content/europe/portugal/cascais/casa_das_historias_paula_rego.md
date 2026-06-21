@@ -6,6 +6,7 @@ latitude: 38.6904
 longitude: -9.4213
 snippet: "Striking red-pyramid museum dedicated to the Portuguese artist Paula Rego"
 story: "Paula Rego (1935–2022) is one of the most important Portuguese artists of the twentieth century, and the museum was built during her lifetime — unusual for a Portuguese painter. She insisted that the building be 'red, like a great old kiln', and Souto de Moura designed the two angular pyramidal towers to match the shape of the chimneys of old country houses in the area."
+score: 8.8
 ---
 
 A short walk south of central Cascais, the Casa das Histórias is a museum dedicated entirely to the work of the Portuguese painter, printmaker and illustrator Paula Rego. The building, completed in 2009, was designed by the Pritzker-prize-winning architect Eduardo Souto de Moura — two ochre-red pyramidal towers rising from a low concrete plinth, inspired by old Portuguese chimneys and surrounded by pines.

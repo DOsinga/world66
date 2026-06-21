@@ -15,6 +15,7 @@ story: >
   also enduring the worst years of the Great Leap Forward famine. The canal
   brought reliable water to a county that had suffered severe drought for
   centuries.
+score: 8.7
 ---
 
 The Red Flag Canal, about 60 kilometres northwest of Anyang in Linzhou, is one of the most extraordinary engineering projects of the Maoist era — and unlike many such projects, it genuinely worked. The county of Linzhou had suffered chronic water shortages for generations; in the 1960s, tens of thousands of local workers, organised into brigades, spent a decade diverting water from the Zhang River by cutting channels through the sheer rock faces of the Taihang Mountains. The main aqueduct clings to cliff faces in a way that seems impossible until you are standing on it.

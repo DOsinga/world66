@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 30.2849
 longitude: -97.7341
+score: 9.2
 ---
 
 The University of Texas at Austin occupies a large campus immediately north of the State Capitol, and its 51,000-student population shapes the character of the entire north-central part of the city. The campus is worth exploring for its architecture and collections: the Tower (a 1937 Art Deco landmark visible from much of Austin), the Blanton Museum of Art, the Harry Ransom Center, the Texas Memorial Museum, and the LBJ Presidential Library are all on or immediately adjacent to campus.

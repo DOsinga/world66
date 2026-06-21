@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 story: "Raketa is named for the Soviet brand of carbon-rod razors once given as workplace prizes. The interior is a deliberately curated collection of 1970s Bulgarian kitsch — Pelikan typewriters, propaganda posters, a working Crystal radio set — assembled by the owners from flea markets across the country."
+score: 7.3
 ---
 
 A small, dimly-lit basement bar specialising in rakia — the Bulgarian fruit brandy — with over a hundred varieties on the list, from plum to grape to pear, mostly from small distillers. The food menu is short and Bulgarian, designed to be eaten in small plates between sips.

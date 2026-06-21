@@ -10,6 +10,7 @@ tags:
 - sight
 title: Victoria House
 type: poi
+score: 6.8
 ---
 
 The Victoriahuset is a tropical greenhouse in the Bergianska botanical garden, part of Stockholm University's Frescati campus. It takes its name from the giant Victoria water lilies that float in the central pool, their round leaves growing up to two meters across.

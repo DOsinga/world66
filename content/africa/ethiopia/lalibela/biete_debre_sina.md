@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Biete_Debre_Sina
 story: >
   Biete Debre Sina is dedicated to Mount Sinai — an unusual dedication in a Christian church, but one that reflects the Ethiopian Orthodox tradition's deep connection to the Old Testament. The name links the church to Moses and the giving of the Law, and Ethiopian Christians regard themselves as direct inheritors of the Mosaic covenant through their belief that the original Ark of the Covenant was brought to Axum by Menelik I. In this reading, Lalibela is not just a New Jerusalem but a New Sinai as well.
+score: 7.5
 ---
 
 Biete Debre Sina — the House of Mount Sinai, also known as Biete Mikael — is one of the eleven rock-hewn churches of the northern group at Lalibela and one of the largest in that cluster. It is carved from the same red volcanic tufa as its neighbours and shares a courtyard with Biete Maryam, to which it is connected by a short passage. The church is dedicated jointly to Mount Sinai and the archangel Michael, and it holds particular significance during the feast of Saint Michael, which occurs monthly in the Ethiopian calendar.

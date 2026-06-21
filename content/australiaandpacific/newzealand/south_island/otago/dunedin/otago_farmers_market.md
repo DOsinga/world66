@@ -7,6 +7,7 @@ tags:
 - market
 title: Otago Farmers Market
 type: poi
+score: 7.1
 ---
 
 Every Saturday morning, the area outside Dunedin Railway Station fills with 50 to 75 stalls from local producers. The market has been repeatedly voted New Zealand's best, and the quality is genuine — Central Otago cherries and apricots in summer, lamb from local farms, artisan cheeses, fresh-caught fish, craft chocolate, honey, and bakeries producing serious bread and pastries.

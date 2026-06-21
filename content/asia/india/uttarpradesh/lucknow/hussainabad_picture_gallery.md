@@ -7,6 +7,7 @@ tags:
   - hussainabad
 latitude: 26.8744
 longitude: 80.9078
+score: 7.4
 ---
 
 The Hussainabad Picture Gallery is a small but unmissable museum housed in a 1838 Nawabi pavilion overlooking the reservoir between the Chota Imambara and the Clock Tower. The collection consists almost entirely of life-size oil portraits of the Nawabs of Awadh — twelve of them — painted by European and Indian artists in the 19th century in a curious hybrid style that combines Mughal frontality with European chiaroscuro.

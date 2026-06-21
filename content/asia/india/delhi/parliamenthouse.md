@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Parliament House
 type: poi
+score: 5.9
 ---
 
 A striking piece of Lutyens architecture — the circular colonnaded building near Rashtrapati Bhavan that houses India's parliament. The structure is nearly a kilometre in circumference and topped with a broad dome. Security restrictions mean you can only admire it from outside the perimeter, but the scale is impressive even from a distance, especially when parliament is in session and the area hums with activity.

@@ -10,6 +10,7 @@ tags:
   - neighbourhood
 title: Cathedral Close and Mol's Coffee House
 type: poi
+score: 7.8
 ---
 
 The Cathedral Close is the precinct surrounding Exeter Cathedral — a quiet green space enclosed by medieval, Tudor, and Georgian buildings that has changed remarkably little in character over five centuries. The south side is dominated by the cathedral itself; the north side faces onto the High Street and contains some of the most interesting buildings.

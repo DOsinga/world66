@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Hervormde Kerk Blaricum
 type: poi
+score: 6.8
 ---
 
 The Dutch Reformed church in the centre of Blaricum is a medieval building with a simple Romanesque form, substantially unchanged in its exterior since the 14th century. It stands at the highest point of the village, visible from across the surrounding heathland.

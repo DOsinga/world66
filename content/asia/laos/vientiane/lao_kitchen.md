@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Lao Kitchen
 type: poi
+score: 6.6
 ---
 
 Lao Kitchen is the easiest introduction to Lao food in Vientiane. The menu is in English with photographs, the staff explain dishes if you ask, and prices are mid-range without being touristy. The room itself is bright and informal — a wooden townhouse near the centre, usually packed with a mix of travellers and locals.

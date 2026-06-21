@@ -7,6 +7,7 @@ tags:
 latitude: 53.289863
 longitude: -6.128735
 story: "The park's Sunday food market, running since 2010, helped revive the local food scene and is now one of the better farmers' markets in the Dublin area — a mix of artisan bread, cheese, smoked fish, and prepared food from a rotating cast of producers."
+score: 6.4
 ---
 
 A neat Victorian park one block from the seafront, with bandstands, flowerbeds, and a good amount of sitting space. It's popular with families and the after-church Sunday crowd. The trees are mature and the park feels genuinely old in a way that the tidied-up seafront does not.

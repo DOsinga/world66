@@ -7,6 +7,7 @@ tags:
 - sight
 title: Place Jean Jaurès
 type: poi
+score: 6.4
 ---
 
 A leafy rectangular square in the middle of the medieval Écusson, named for the socialist politician assassinated on the eve of the First World War. Half a dozen cafés and brasseries take up most of the ground floor of the surrounding buildings, and the terraces are full from morning to past midnight in the warmer months.

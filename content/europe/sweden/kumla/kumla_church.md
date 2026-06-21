@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 59.1185
 longitude: 15.1267
+score: 6.7
 ---
 
 Kumla's medieval church is the oldest significant building in town, with origins in the 12th century and a distinctive round tower that is unusual for Swedish Närke churches of this era. The interior has been altered over the centuries but retains some medieval vaulting and older decorative elements.

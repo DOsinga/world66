@@ -14,6 +14,7 @@ story: >
   them, and within a year the fort was abandoned. The site was rediscovered and excavated in
   the 1970s, and the current reconstruction is based on that archaeological evidence rather
   than guesswork.
+score: 7.3
 ---
 
 About seven kilometres west of the city centre at the original Red Deer Crossing, Fort Normandeau is a reconstructed fur-trade and military post that tells the story of the 1885 North-West Rebellion from the perspective of central Alberta settlers. The site includes a log stockade, a period-furnished blockhouse, and exhibits on the Métis uprising and the Indigenous peoples of the region.

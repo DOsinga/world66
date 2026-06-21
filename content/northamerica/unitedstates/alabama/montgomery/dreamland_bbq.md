@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, barbecue]
 latitude: 32.3756
 longitude: -86.2989
+score: 5.9
 ---
 
 The Montgomery outpost of the Tuscaloosa-born Dreamland chain — ribs cooked over hickory, white bread, sauce, banana pudding, no apologies and no fuss. The menu is short by design.

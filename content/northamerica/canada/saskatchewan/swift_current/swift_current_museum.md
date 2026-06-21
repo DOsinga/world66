@@ -10,6 +10,7 @@ story: "Among the museum's most startling exhibits is a 72 million-year-old Tylo
 sources:
   - https://en.wikipedia.org/wiki/Swift_Current
   - https://www.tourismsaskatchewan.com/listings/882/swift-current-museum--visitor-centre
+score: 6.9
 ---
 
 The Swift Current Museum occupies a handsome building in Riverside Park beside Swift Current Creek, telling the story of the region from its deep geological past through the settlement era and into the present. The museum's permanent collection covers the post-glacial history of the southwest Saskatchewan landscape, the indigenous cultures that have lived here for thousands of years, and the waves of European settlers who arrived by CPR rail from the 1880s onward.

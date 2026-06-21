@@ -12,6 +12,7 @@ tags:
 title: Junibacken
 type: poi
 url: www.junibacken.se
+score: 6.8
 ---
 
 A family museum on Djurgården devoted to the worlds of Astrid Lindgren — creator of Pippi Longstocking, Karlsson-on-the-Roof, and the Brothers Lionheart. The centrepiece is the Story Train, a ride through scenes from Lindgren's books that works surprisingly well for adults too. Downstairs there are interactive play areas for smaller children. The café has good views over the water, and the bookshop is one of the best-stocked children's bookshops in Sweden, with plenty of titles in English and other languages.

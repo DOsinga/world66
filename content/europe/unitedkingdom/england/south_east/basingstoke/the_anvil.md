@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.2
 ---
 
 The Anvil is Basingstoke's principal concert hall, a striking late-1990s building beside the railway station. Its sloping copper-clad roof is meant to suggest the silhouette of a blacksmith's anvil — particularly when seen from the western approach — and the acoustics inside are widely considered some of the best of any regional UK venue.

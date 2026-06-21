@@ -9,6 +9,7 @@ tags:
 snippet: "Wooded inner-city hill with the best view over the harbour, reached by funicular"
 latitude: 54.5172
 longitude: 18.5435
+score: 7.6
 ---
 
 Kamienna Góra is the wooded hill that rises immediately south of the city centre — 54 metres above sea level, capped by a steel cross visible from far out at sea, and laced with the streets of one of Gdynia's most attractive residential districts. The villas date from the 1920s and 30s, when the new city's wealthier residents built modernist houses on the slope.

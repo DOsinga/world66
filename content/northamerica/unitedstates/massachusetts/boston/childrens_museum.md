@@ -12,6 +12,7 @@ tags:
 title: Children's Museum
 type: poi
 url: www.bostonchildrensmuseum.org
+score: 6.9
 ---
 
 Boston's Children's Museum sits on the Fort Point Channel waterfront and is one of the oldest and best children's museums in the United States. Interactive exhibits range from a full-scale cut-away city street where kids can play at road-digging to a Japanese house transplanted from Kyoto and hands-on explorations of science, art, and music. The "How Does an Orchestra Work?" exhibit is a perennial favourite.

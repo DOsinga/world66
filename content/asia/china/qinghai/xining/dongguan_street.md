@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.6170
 longitude: 101.7970
+score: 8.1
 ---
 
 The streets around the Dongguan Mosque form Xining's Muslim quarter — the centre of a large Hui community that has lived in this part of the city for centuries. The neighbourhood is dense with the specific texture of Muslim Chinese urban life: open-fronted noodle restaurants with men hand-pulling dough, spice merchants with sacks of cumin and chilli piled on the pavement, dried fruit vendors selling the raisins and apricots that come up from Xinjiang, and small teahouses where men sit over cups of eight-treasure tea (ba bao cha) for hours at a time.

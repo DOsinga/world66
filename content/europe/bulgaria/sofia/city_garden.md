@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.4
 ---
 
 Sofia's oldest public garden, laid out in 1872 in front of the Ivan Vazov National Theatre. A patch of plane trees, fountains, and chess players that has been the city's central meeting place for 150 years.

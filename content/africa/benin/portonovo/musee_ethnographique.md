@@ -7,6 +7,7 @@ tags:
 - museum
 title: Musée Ethnographique de Porto-Novo
 type: poi
+score: 7.2
 ---
 
 This municipal ethnographic museum retraces the history of Porto-Novo and holds one of the better collections of Yoruba ceremonial masks in the region, alongside traditional costumes and everyday objects from the area's communities. Explanatory panels are in French.

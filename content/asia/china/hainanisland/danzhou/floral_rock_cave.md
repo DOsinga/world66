@@ -12,6 +12,7 @@ story: >
   cave with stalactites hanging overhead and dark water below, lit by shafts of daylight
   where the ceiling has collapsed. It is one of those caves where the combination
   of darkness and reflected light makes it feel genuinely other-worldly.
+score: 7.8
 ---
 
 The Floral Rock Cave Geopark is a cave system a few kilometres outside Danzhou that is partly flooded by an underground lake, explored by boat rather than on foot. Visitors board small boats at the entrance and drift through chambers where stalactites and stalagmites rise from the dark water, lit by occasional natural skylights through the cave ceiling and by artificial lighting positioned to emphasise the formations. The combination of rock formations above and reflective water below creates a distinctive atmosphere.

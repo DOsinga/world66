@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
 snippet: Short, steep hike with the best view on the North Shore
+score: 7.8
 ---
 
 The trailhead is on County Road 17 about three miles north of the village. The path climbs roughly 700 feet in just over a mile to a bare basalt knob at 1,277 feet, with a panoramic view east to Isle Royale, north up the Pigeon River valley into Ontario, and south down the Minnesota coast as far as the eye can see in clear weather.

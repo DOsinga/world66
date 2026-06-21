@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, bar]
 latitude: 45.73720
 longitude: 7.32030
+score: 5.8
 ---
 
 The arcaded buildings on Piazza Chanoux shelter several cafés that serve as the social centre of Aosta through the day and into the evening. In the morning the clientele is local — office workers, tradespeople, and shoppers stopping for an espresso at the bar before continuing their day. By late morning the first tourists arrive, and by aperitivo hour (from around 6pm) the outdoor tables facing the square fill with a mixed crowd.

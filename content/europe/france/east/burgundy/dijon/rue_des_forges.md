@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.0
 ---
 
 The Rue des Forges is the best surviving stretch of late-medieval and Renaissance Dijon. Number 38, the Hôtel Aubriot, was the birthplace of Hugues Aubriot, the 14th-century provost of Paris who built the Bastille. Number 40, the Maison Milsand, is one of the most ornate Renaissance facades in Burgundy. Number 34, the Maison Maillard, has a sequence of carved panels of saints and angels.

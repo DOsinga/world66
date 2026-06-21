@@ -9,6 +9,7 @@ tags:
   - museum
   - odunpazari
 neighbourhood: Odunpazarı
+score: 5.6
 ---
 
 Yılmaz Büyükerşen, the long-serving former mayor of Eskişehir, sculpted most of the figures here himself — a peculiar second career on top of his political one. The result is one of the largest wax museums in Europe, with several hundred lifelike figures arranged in themed halls: Turkish writers and politicians, world leaders, fairy-tale characters, and a hall of historical Ottoman sultans.

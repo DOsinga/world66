@@ -9,6 +9,7 @@ latitude: 39.4575
 longitude: -6.3709
 story: >
   In 2018, a team of researchers published a study in Science magazine announcing that the hand stencils in Maltravieso were at least 66,700 years old — making them too old to have been made by Homo sapiens, who had not yet arrived in Europe. The conclusion was that the art was made by Neanderthals, making Maltravieso one of the first confirmed examples of Neanderthal cave art in the world. It transformed the status of a regional curiosity into a site of global significance.
+score: 7.6
 ---
 
 The Cave of Maltravieso lies on the western edge of Cáceres, discovered in 1951 during construction work and found to contain some of the most significant prehistoric art in Spain. The cave contains over 70 individual artworks — hand stencils, animal figures, and geometric signs — dating back at least 66,000 years. The age determination came from uranium-thorium dating of the calcite crust overlying the paintings, which gives a minimum age rather than the age of the art itself.

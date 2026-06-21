@@ -9,6 +9,7 @@ latitude: 48.0074
 longitude: 0.1973
 sources:
   - https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville,_Le_Mans
+score: 5.9
 ---
 
 The Hôtel de Ville (town hall) of Le Mans occupies the site of the Palace of the Counts of Maine within the old city walls, incorporating medieval towers and masonry into a building that was largely rebuilt in the 17th and 18th centuries. The result is an interesting palimpsest: you can see where Renaissance additions were grafted onto medieval stonework.

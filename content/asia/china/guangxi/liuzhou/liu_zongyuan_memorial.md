@@ -15,6 +15,7 @@ story: >
   style that combined precise observation of landscape with philosophical
   meditation. He planted hundreds of trees in Liuzhou and reformed local
   practices he found unjust — both acts that outlasted his short tenure.
+score: 7.2
 ---
 
 The memorial park on the site associated with Liu Zongyuan, the great Tang dynasty poet-official who was exiled to Liuzhou in 815, provides a quiet counterpoint to the city's industrial character. Liu Zongyuan is one of the Tang Eight Prose Masters — a group of writers credited with reforming classical Chinese prose — and his Liuzhou period, though experienced as a form of punishment, produced work that has been read continuously for 1,200 years.

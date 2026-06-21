@@ -9,6 +9,7 @@ tags:
   - old_san_juan
 neighbourhood: Old San Juan
 story: "On a cell wall in the dungeon, an unknown Spanish soldier scratched detailed drawings of three sailing ships — galleons in full rig, anchors, rigging, all to scale. The graffiti is now under glass and is one of the rare surviving pieces of folk art by the colonial garrison."
+score: 9.5
 ---
 
 San Cristóbal is the larger of the two San Juan forts — 27 acres of walls, tunnels, and outworks defending the landward approach to the old city. The Spanish built it in the seventeenth and eighteenth centuries on a system of stepped batteries so that if one level fell, the next could fire down on it. Like El Morro it is a UNESCO site and is managed by the US National Park Service.

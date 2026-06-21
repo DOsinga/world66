@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
 story: "Octopussy, the 1983 James Bond film, made the Lake Palace famous to the West — Roger Moore arrived by hovercraft and the palace stood in for the home of a rogue prince. The cast and crew effectively rented the entire hotel for the shoot. The film still plays in nightly loops in every rooftop cafe in town."
+score: 8.3
 ---
 
 The **Lake Palace** — properly called Jag Niwas — appears to float on Lake Pichola, a confection of white marble and Rajput arches built by Maharana Jagat Singh II in 1746 as his summer pleasure palace. Today it is a luxury hotel run by the Taj group; non-guests can only admire it from boats or from the City Palace ramparts opposite.

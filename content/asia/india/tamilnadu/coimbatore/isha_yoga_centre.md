@@ -8,6 +8,7 @@ latitude: 10.9244
 longitude: 76.9077
 story: >
   The 34-metre Adiyogi statue on the grounds — a face of Shiva in brushed steel — was recognised by Guinness World Records in 2017 as the largest bust sculpture in the world. It was conceived as a tool for "inner wellbeing" rather than worship, and its sheer scale against the forest and hills makes it startling even for those with no interest in yoga.
+score: 7.2
 ---
 
 The Isha Yoga Centre, founded by Sadhguru Jaggi Vasudev, occupies a forested campus at the foot of the Velliangiri Hills, 30 km south of Coimbatore. It is one of India's largest spiritual centres, drawing visitors and participants from across the world for yoga programmes, meditation retreats, and volunteer work. The campus includes temples, meditation halls, and residential facilities in a well-landscaped setting.

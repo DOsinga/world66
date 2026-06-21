@@ -8,6 +8,7 @@ tags:
 title: Parc de la Ciutadella
 type: poi
 snippet: "Barcelona's central park on a former fortress site"
+score: 7.8
 ---
 
 This is one of the greenest zones in the city. Parc de la Ciutadella was the first public park in Barcelona, built on the site of an 18th-century military fortress that was demolished in the 19th century.

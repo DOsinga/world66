@@ -8,6 +8,7 @@ latitude: 49.4547
 longitude: -2.5364
 story: >
   The Town Church contains a large royal arms of King George III, painted in 1822, but the building's most unusual feature is its Royal Peculiar status — it falls directly under the British Crown rather than any bishop, a legacy of the Channel Islands' constitutional position as Crown dependencies that are neither part of the United Kingdom nor of the European Union.
+score: 6.8
 ---
 
 The Town Church — officially the Parish Church of St Peter Port — is one of the oldest buildings in Guernsey, with parts of the structure dating to the 11th century. It sits at the waterfront end of the High Street, a solid granite building that has watched the harbour for nearly a thousand years. It is the parish church of the town and one of the most historically layered buildings in the Channel Islands.

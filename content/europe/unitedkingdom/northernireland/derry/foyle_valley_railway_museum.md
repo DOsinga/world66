@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 54.9920
 longitude: -7.3215
+score: 6.3
 ---
 
 The Foyle Valley Railway Museum, near the Craigavon Bridge on the west bank, preserves the history of the narrow-gauge railways that served County Londonderry. The Londonderry and Lough Swilly Railway and the County Donegal Railways are both represented, with locomotives, rolling stock, and memorabilia from what was once an extensive network of narrow-gauge lines connecting the city to the Donegal hinterland.

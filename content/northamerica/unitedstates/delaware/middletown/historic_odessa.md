@@ -13,6 +13,7 @@ story: >
   short-lived — the Chesapeake and Delaware Canal bypassed the town in
   the 1820s, cutting off its trade and freezing it in time. That
   accidental preservation is what makes it so valuable today.
+score: 8.5
 ---
 
 Historic Odessa, about 10 km east of Middletown, is one of the best-preserved 18th-century villages in Delaware and one of the most rewarding small historic sites on the Delmarva Peninsula. Four historic houses and a Quaker meeting house are maintained by Winterthur Museum and are open to visitors, presenting an unusually complete picture of life in a prosperous colonial port community.

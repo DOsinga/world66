@@ -10,6 +10,7 @@ title: Musical Instrument Museum
 type: poi
 url: mim.org
 story: "The museum's founder, former Target CEO Bob Ulrich, sent collectors to over 200 countries to acquire instruments. The Artist Gallery includes John Lennon's piano, Carlos Santana's guitar, and a costume worn by Elvis."
+score: 9.1
 ---
 
 The Musical Instrument Museum, known locally as the MIM, is one of the most surprising things in Phoenix. Tucked into a quiet corner of north Phoenix, it houses around 8,000 instruments from every country in the world, displayed in geographic galleries that take you continent by continent. Each exhibit comes with video footage of the instruments being played, and the wireless headphones automatically sync as you walk up to each display. The effect is genuinely mesmerising.

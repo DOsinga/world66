@@ -10,6 +10,7 @@ longitude: -1.9100
 sources:
   - https://en.wikipedia.org/wiki/Tano_River
   - https://en.wikipedia.org/wiki/Bono_people
+score: 7.4
 ---
 
 The Tano River — which runs 400 km from central Ghana into the sea along the Ghana-Côte d'Ivoire border — has its source at Traa, a suburb just north of Techiman. In Bono cosmology, this is among the most sacred spots on earth: Taakora, the highest of the Bono gods, is said to dwell at the river's source. The grove surrounding the source has been maintained as a ritual space for centuries.

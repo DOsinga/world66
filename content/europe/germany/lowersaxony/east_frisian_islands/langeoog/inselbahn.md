@@ -12,6 +12,7 @@ story: >
   locomotives replaced the horses in 1903. Today diesel traction does the
   work, but the railway's single track, narrow gauge, and leisurely pace
   remain unchanged — a deliberate preservation of island character.
+score: 6.6
 ---
 
 The Inselbahn is the only motorised transport on Langeoog, connecting the ferry landing to the village in about seven minutes. It is not merely a utility — riding it is part of the Langeoog experience, the first and last act of any island visit. The small locomotives haul open-sided carriages in summer, with passengers and luggage loaded together.

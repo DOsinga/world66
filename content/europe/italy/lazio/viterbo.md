@@ -1,21 +1,28 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-06-01'
 image: viterbo.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Palazzo_dei_Papi_Viterbo.jpg
-latitude: 42.493
+latitude: 42.4167
 loc_type: city
-longitude: 11.9488
+longitude: 12.1
 score: 0.56
+sources:
+  - https://en.wikipedia.org/wiki/Viterbo
+  - https://en.wikipedia.org/wiki/Palace_of_the_Popes_in_Viterbo
+  - https://en.wikipedia.org/wiki/Viterbo_Cathedral
 title: Viterbo
 type: location
 ---
 
-Viterbo is an ancient walled city about 100 km northwest of [Rome](/europe/italy/lazio/rome), set between the lakes of Bolsena and Vico. It was once the administrative capital of Upper Latium and, for a turbulent stretch in the 13th century, the seat of the papacy itself.
+Viterbo is a medieval walled city about 100 km northwest of [Rome](/europe/italy/lazio/rome), perched on a volcanic plateau between the lakes of Bolsena and Vico. For a turbulent stretch in the 13th century it was literally the seat of the papacy — popes fled Rome's factions and held court here, conducting five conclaves within its walls. That history gave Viterbo the title it still wears proudly: the City of Popes.
 
-Although heavy Allied bombing shattered sections of the city walls, the medieval character of the town survives almost perfectly in the San Pellegrino quarter at the centre. This is one of the best-preserved medieval districts in Italy — narrow streets, external staircases, arched walkways, and stone towers. The gothic Palazzo degli Alessandri, built in the first half of the 13th century, sets the tone. The 11th-century San Pellegrino church stands in a small square of the same name, and nearby is the Ospedale dei Pellegrini, a pilgrim hospice founded around 1150.
+The medieval character survives almost intact in the San Pellegrino quarter, one of the finest preserved medieval districts in all of Italy. Stone towers, external staircases, arched walkways across the street, and dark narrow lanes converging on intimate piazzas — it looks much as it did in the 13th century. The Gothic Palazzo degli Alessandri sets the tone from the main square; the 11th-century San Pellegrino church and the old Ospedale dei Pellegrini pilgrim hospice crowd in nearby.
 
-The highlight is the Papal Palace, completed in 1266 to receive the papal court when it fled the turbulence of Rome. Five conclaves were held here, including one that dragged on for 33 months before finally electing Gregory X in 1271 — the townspeople, losing patience, reportedly removed the roof and cut the cardinals' rations to bread and water.
+The absolute centrepiece is the Papal Palace, the Palazzo dei Papi, completed in 1266 to house the relocated papal court. The open Gothic loggia overlooking the valley is one of the most beautiful architectural achievements of medieval Italy. It was here that the cardinals convened after the death of Clement IV in 1268 — and then failed to agree for 33 months. Exasperated, the Viterbese locked the prelates in, removed the roof, and cut their rations to bread and water until Gregory X was finally elected in 1271. The episode gave the world the word "conclave" (from Latin *cum clave*, "with a key").
 
-Beyond the palace, Viterbo has the Rocca Albornoz fortress (now home to the national museum), the Church of Santa Maria della Verità with its frescoed cloister, and numerous fountains — the finest being the Fontana Grande. On the Via Cassia outside the walls, the remains of the ancient Camillario bridge hint at how important this road was in Roman times.
+Beyond the Papal Palace, the city rewards exploration: the Romanesque Cathedral of San Lorenzo beside it, the Rocca Albornoz fortress housing the national museum, the Church of Santa Maria della Verità with its beautifully frescoed cloister, and a network of medieval fountains of which the Fontana Grande is the grandest. Viterbo also sits at the edge of Etruscan territory — the surrounding countryside holds necropolises and ancient roads that predate Rome itself.
+
+The thermal baths at Terme dei Papi, just outside the walls, have been in use since antiquity; you can still soak in the same sulphurous hot springs that medieval pilgrims used to relieve their aching feet.

@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 35.2058
 longitude: -97.4425
+score: 7.1
 ---
 
 Home of the Oklahoma Sooners football team and one of the great college-football venues in America. The stadium opened in 1923 with a capacity of 16,000; it now seats 80,126, and on home Saturdays it becomes the third-largest "city" in Oklahoma. The bowl is brick on the outside, painted Sooner crimson on the inside, with an open east end that frames a view of the Bizzell Library tower.

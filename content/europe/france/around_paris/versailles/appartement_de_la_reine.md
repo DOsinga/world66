@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.80450
 longitude: 2.12100
+score: 8.8
 ---
 
 The Appartement de la Reine is the suite of rooms on the south side of the palace that served the queens of France from Marie-Thérèse, wife of Louis XIV, through Marie Antoinette, who lived here until 1789. The rooms are largely presented as they appeared under Marie Antoinette, with much of the original furniture restored or reconstructed after Revolutionary dispersal.

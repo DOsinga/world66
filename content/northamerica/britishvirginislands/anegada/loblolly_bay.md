@@ -13,6 +13,7 @@ story: >
   for a hundred metres — then the reef drops away. The wrecks that dot Horseshoe Reef 
   beyond are mostly too deep for casual snorkellers, but the inshore reef at Loblolly 
   is accessible to anyone comfortable in the water.
+score: 8.8
 ---
 
 Loblolly Bay is the finest stretch of beach on Anegada's north shore — a long crescent of white sand with a small reef close to shore that makes it the best snorkelling spot on the island. The water is turquoise and shallow, the sand powdery, and on most days the only sounds are waves and wind.

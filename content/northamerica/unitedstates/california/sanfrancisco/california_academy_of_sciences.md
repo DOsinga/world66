@@ -9,6 +9,7 @@ tags:
 - museum
 title: California Academy of Sciences
 type: poi
+score: 8.7
 ---
 
 The California Academy of Sciences packs an aquarium, a planetarium, a four-storey rainforest dome, and a natural history museum under one spectacular living roof. Renzo Piano's 2008 building is itself a marvel -- the undulating green roof is planted with 1.7 million California native plants and modeled on the city's hills, and a central glass atrium opens automatically to ventilate the building.

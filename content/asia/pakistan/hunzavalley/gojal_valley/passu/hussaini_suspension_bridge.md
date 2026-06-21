@@ -13,6 +13,7 @@ story: >
   looking down. For visitors used to Swiss engineering standards, the experience is rather different.
 sources:
   - https://en.wikipedia.org/wiki/Hussaini_Suspension_Bridge
+score: 8.4
 ---
 
 The Hussaini Suspension Bridge crosses the Hunza River near the village of Hussaini, about four kilometres south of Passu. It is famous as one of the most precarious pedestrian bridges in the world — not because it is dangerous per se, but because the wide gaps between the wooden planks, the sway of the cables under foot traffic, and the roaring river visible far below make it genuinely alarming for anyone who looks down.

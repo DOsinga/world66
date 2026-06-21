@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Abbey of Saint-Père-en-Vallée
 type: poi
+score: 6.9
 ---
 
 The Abbey of Saint-Père-en-Vallée was a Benedictine monastery just outside the old city walls, founded in the 7th century and rebuilt repeatedly over the medieval period. The Gothic church that survives — now the parish church of Saint-Pierre-en-Vallée — dates largely from the 13th to 15th centuries and has fine stained glass of its own, older than the cathedral's but less celebrated.

@@ -6,6 +6,7 @@ tags:
 - landmark
 title: Five Points South Fountain
 type: poi
+score: 5.4
 ---
 
 The bronze fountain at the center of the Five Points South roundabout is a Birmingham landmark. Designed by sculptor Frank Fleming and installed in 1993, it depicts a ram surrounded by whimsical woodland figures — goats, fish, and human forms — in the style of European fountain sculpture. The fountain has become the unofficial symbol of the Five Points neighborhood and a useful orientation point.

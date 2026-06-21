@@ -21,6 +21,7 @@ story: >
   of the fourteen leaders executed here. The British government's decision to shoot
   the wounded man in a chair is often cited as the act that turned Irish public
   opinion decisively toward the republican cause.
+score: 9.1
 ---
 
 Kilmainham Gaol operated from 1796 to 1924, and its history runs parallel to the entire arc of Ireland's struggle for independence. The leaders of the 1798 Rebellion were held here. Robert Emmet, hanged in 1803, was imprisoned here the night before his execution. The Fenian prisoners of 1867 were held here. And in May 1916, in the Stonebreakers' Yard, the British Army shot fourteen leaders of the Easter Rising — including Patrick Pearse, James Connolly, and Thomas Clarke — an act that transformed the failed rebellion into a founding myth of the Irish state.

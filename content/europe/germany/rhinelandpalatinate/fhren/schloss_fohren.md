@@ -10,6 +10,7 @@ title: Schloss Föhren
 type: poi
 story: >
   Schloss Föhren was rebuilt in the Baroque style in the eighteenth century after an earlier fortified structure was destroyed during the wars of Louis XIV. The estate has remained in private hands ever since and is not open to visitors, but its yellow-ochre façade and formal gates make it the most photographed building in the village.
+score: 5.4
 ---
 
 Schloss Föhren stands at the northern edge of the village, its Baroque frontage rising unexpectedly from the surrounding farmland. The estate is private and cannot be visited inside, but the gates and the outer walls are visible from the road, and the manor makes a handsome backdrop for a walk through the vineyards.

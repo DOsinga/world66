@@ -9,6 +9,7 @@ latitude: 31.7391
 longitude: -106.4862
 story: >
   This building served as the customs house through which the terms of the Mexican Revolution's peace treaties were negotiated in 1911. Francisco Madero and Porfirio Díaz's representatives met here, and the treaties signed that week are why modern Mexico looks the way it does.
+score: 8.3
 ---
 
 The former Customs House (Aduana) is one of the most historically significant buildings in northern Mexico. Built in the nineteenth century to process the enormous cross-border trade along the Paso del Norte route, it was here that the Treaties of Ciudad Juárez were negotiated in May 1911 — the agreements that ended the Díaz dictatorship and ushered in the Mexican Revolution's political phase.

@@ -1,5 +1,0 @@
-asia/turkey/bursa
-africa/niger/agadez
-africa/southafrica/pretoria
-asia/india/maharashtra/mahabaleshwar
-northamerica/unitedstates/mississippi/hattiesburg

@@ -8,6 +8,7 @@ tags:
 title: Coney Island Hot Dogs
 type: poi
 snippet: A Worcester landmark since 1918 for steamed hot dogs and chilli sauce
+score: 7.2
 ---
 
 Coney Island Hot Dogs has been on Southbridge Street since 1918, run by four generations of the same Greek-American family. The neon sign out front — a giant hand holding a hot dog — has barely changed. Inside, the small dining room is unchanged in spirit too: tile floor, wood booths, a counter facing the steam table.

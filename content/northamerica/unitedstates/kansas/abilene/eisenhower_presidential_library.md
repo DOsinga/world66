@@ -9,6 +9,7 @@ tags:
   - sight
 snippet: The presidential complex covering Ike's life from cattle-town childhood to the Oval Office
 story: "When the Eisenhower family moved to this small frame house in 1898, the future Supreme Allied Commander shared a bed with his brother Edgar and earned spending money picking sweetcorn. The house was kept by his mother Ida exactly as the boys had known it; on his visits home as president, Ike asked her not to change anything."
+score: 8.9
 ---
 
 The Eisenhower Presidential Center is the reason most travellers stop in Abilene, and it deserves the time. The complex occupies a green campus on the south side of town and contains five separate buildings: the modest white **Boyhood Home** where Dwight grew up with his five brothers between 1898 and 1911; the **Museum** with permanent galleries on his military and presidential careers (including a complete cross-section of his D-Day planning); the limestone **Library** that holds his presidential papers; the **Place of Meditation** chapel where he, his wife Mamie and their infant son David are buried; and a visitor centre at the entrance.

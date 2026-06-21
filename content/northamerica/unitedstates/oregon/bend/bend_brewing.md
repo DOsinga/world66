@@ -9,6 +9,7 @@ longitude: -121.3138
 snippet: "Brew pub on Mirror Pond with a patio overlooking the water"
 sources:
   - https://en.wikipedia.org/wiki/Bend_Brewing_Company
+score: 6.4
 ---
 
 Bend Brewing Company sits right on the edge of Mirror Pond in Drake Park, with a patio that may be the best outdoor drinking spot in central Oregon. On a summer afternoon with the Cascades in the background and the Deschutes River running below, it is hard to argue with the setting.

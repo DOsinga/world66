@@ -12,6 +12,7 @@ story: >
   river crossing. San Francisco was built to serve both the permanent population and the constant
   flow of travellers and merchants passing through — it saw more of colonial Colombia's commerce and
   drama than almost any other church outside the major cities.
+score: 7.4
 ---
 
 The Iglesia de San Francisco is Honda's principal colonial church, a solid whitewashed structure on a quiet street a block from the main plaza. Like many colonial churches in provincial Colombian towns, it wears its age visibly: the walls are thick and slightly uneven, the bell tower is a little lopsided, and the interior has the cool, dim quality that comes from walls half a metre deep.

@@ -8,6 +8,7 @@ tags:
   - bar
   - old_portsmouth
 neighbourhood: Old Portsmouth
+score: 5.2
 ---
 
 A traditional Whitbread Fuller's pub at the corner of Pembroke Road and the Old Portsmouth glacis, with a small front terrace and a quiet interior of dark wood and brass. Real ales, a short food menu of pub classics, and an older, navy-leaning clientele.

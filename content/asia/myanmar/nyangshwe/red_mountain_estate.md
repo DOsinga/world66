@@ -7,6 +7,7 @@ tags:
 snippet: One of Myanmar's two wineries, on the hills above Nyangshwe
 latitude: 20.6444
 longitude: 96.9494
+score: 6.1
 ---
 
 Improbable but real: a working vineyard on the hill east of Nyangshwe. Red Mountain Estate was founded in 2002 with French and German consultants and produces shiraz, sauvignon blanc, and a passable rosé from terraced slopes at around 1,300 metres. It is one of two wineries in the country.

@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 52.9117
 longitude: -117.9950
+score: 7.8
 ---
 
 The largest of the lakes on the Pyramid Lake Road north of Jasper townsite, Pyramid Lake sits in a cirque below the perfectly triangular peak of Pyramid Mountain — one of the most satisfying natural reflections in the park when conditions are right. The island in the lake is connected to the shore by a short wooden bridge and makes a good destination for a walk.

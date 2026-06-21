@@ -8,6 +8,7 @@ latitude: 37.7890
 longitude: 20.8985
 story: >
   When the 1953 earthquake destroyed most of Zakynthos Town, rescue teams made a point of salvaging the icons and carved wooden iconostases from ruined churches before clearing the rubble. Many of these pieces ended up here, making the museum an inadvertent beneficiary of the disaster. Some of the rescued works date to the 14th century and would otherwise have been lost entirely.
+score: 8.3
 ---
 
 The Byzantine Museum on Solomos Square is one of the most important collections of post-Byzantine and Ionian school art in Greece. Its holdings come largely from the churches of Zakynthos that were damaged or destroyed in the catastrophic 1953 earthquake, and the collection reflects the island's particular artistic tradition — a blend of Byzantine iconographic conventions with Renaissance naturalism, the result of Venetian rule from 1484 to 1797.

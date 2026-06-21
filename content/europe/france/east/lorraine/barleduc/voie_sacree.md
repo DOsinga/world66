@@ -15,6 +15,7 @@ story: >
   called it the Voie Sacrée (Sacred Way). Over the course of the battle, more than
   12,000 trucks carried approximately 12,000 tonnes of supplies per week along its
   72 kilometres.
+score: 7.1
 ---
 
 The Voie Sacrée — the road from Bar-le-Duc to Verdun — was the lifeline of one of the deadliest battles in history. When the German offensive at Verdun began in February 1916, Bar-le-Duc became the rear base of the French defensive effort. The single road northward was kept open by an extraordinary logistical operation, with road repair crews working continuously to keep the surface passable under the weight of constant truck traffic.

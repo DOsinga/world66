@@ -8,6 +8,7 @@ tags:
   - monastic_zone
 latitude: 27.4807
 longitude: 83.2725
+score: 7.4
 ---
 
 A vast white stupa with intricate Tibetan-style wall murals, built by the **Tara Foundation** of Germany and inaugurated in 2010. It is one of the most architecturally ambitious monasteries in the Monastic Zone — bigger, taller, and more elaborately decorated than its neighbours.

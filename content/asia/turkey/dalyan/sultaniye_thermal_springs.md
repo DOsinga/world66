@@ -7,6 +7,7 @@ tags:
 - sight
 title: Sultaniye Thermal Springs
 type: poi
+score: 7.3
 ---
 
 The Sultaniye springs sit on the western shore of Köyceğiz Lake, a short boat ride or drive north of the mud baths. The waters here are hot — around 39°C — and rich in sulphur, chlorine, and minerals. The site has been used since Roman times; remnants of older bathhouses are still visible in the masonry around the modern pool.

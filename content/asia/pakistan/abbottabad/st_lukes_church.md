@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Anglican church from 1864, the oldest in the cantonment
+score: 6.9
 ---
 
 The oldest surviving British building in Abbottabad — an Anglican church consecrated in 1864, eleven years after the cantonment was founded. The building is a modest stone Gothic Revival design, the kind of thing the Public Works Department produced in dozens of British hill stations across the subcontinent, but the proportions and the wooded setting make it memorable.

@@ -6,6 +6,7 @@ longitude: 109.6845
 tags:
   - things_to_do
   - sight
+score: 4.9
 ---
 
 The Yalong Bay Centre Plaza sits at the geographic centre of the bay strip, an open paved square dominated by a 27-metre granite totem column carved with motifs from China's mythological cosmology — sun, moon, dragons, the cardinal directions. The column is the bay's set-piece monument, intended as a kind of formal entry to the resort zone.

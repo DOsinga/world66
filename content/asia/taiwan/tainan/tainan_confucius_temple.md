@@ -9,6 +9,7 @@ longitude: 120.2042
 story: "The temple was founded in 1665 by Zheng Jing, the son of Koxinga, making it the oldest Confucian temple in Taiwan. The compound originally functioned as both a temple and the island's first government-sponsored school — a combined institution the Qing later called the 'National University' (Taixue). For much of the Qing period this was where Taiwanese scholars studied for the imperial examinations, making it the intellectual heart of the island."
 sources:
   - https://en.wikipedia.org/wiki/Tainan_Confucian_Temple
+score: 8.9
 ---
 
 The Tainan Confucius Temple is the oldest in Taiwan, founded in 1665 by Zheng Jing, the son of Koxinga, in the early decades of the Zheng family's rule over the island. For centuries, the compound served not only as a place of worship but as the island's premier educational institution — Taiwan's equivalent of a national academy. The architecture is classical southern Chinese, with sweeping rooflines, a central courtyard, and the serene, uncluttered aesthetic typical of Confucian temples as opposed to the more colourful Taiwanese folk religion temples.

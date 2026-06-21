@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 44.8275
 longitude: 1.1870
+score: 6.3
 ---
 
 The Château de la Malartrie stands at the eastern end of La Roque-Gageac and is one of the most photographed elements of the village — its golden turrets and crenellated towers rising against the cliff face in a composition that looks almost too perfect to be real. The building is in fact a 19th-century reconstruction, built in neo-Gothic style on the site of an older structure, which explains why it looks so much like a fairy-tale castle while the genuine medieval fortresses nearby look more worn and pragmatic.

@@ -14,6 +14,7 @@ story: >
   whose nearest cousins live in the Ituri rainforest of the Congo basin, a
   thousand kilometres to the west, with nothing of the same character in the
   whole space between. The forest is a living echo of the older, wetter Africa.
+score: 9.0
 ---
 
 The Kakamega Forest reserve covers about 240 square kilometres of dense canopy, broken into northern and southern blocks by a strip of farmland. It is small as African rainforests go — the Congo basin runs to hundreds of thousands of square kilometres — but in Kenya it is unique: a hot, humid, multi-storied evergreen forest in a country otherwise dominated by savannah and acacia bush. The biological accounting is dramatic. Over 380 species of bird have been recorded. There are seven primate species, including the eastern black-and-white colobus, the blue monkey, and the de Brazza's monkey. Butterflies have been recorded in the hundreds of species — more than in most national parks ten times the size.

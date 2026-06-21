@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Singleton Park
 type: poi
+score: 6.8
 ---
 
 Swansea's largest city park, a 100-hectare stretch of lawns, woodland, and ornamental ponds on the western edge of the centre. It contains the Swansea Botanical Gardens with glasshouses, a boating lake, and a large ornamental flower garden. Popular with Swansea University students, whose campus borders the park.

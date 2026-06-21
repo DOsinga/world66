@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Pizzeria Traudi
 type: poi
+score: 3.9
 ---
 
 Swiss chef Urs Beutler runs this unlikely wood-fired pizza joint a ten-minute walk from the bus station. Pizzas start at RM 25, spaghetti from RM 18, and there is a daily set lunch for RM 15. No alcohol is served, but you can bring your own. Open Monday to Saturday, 6.30pm to midnight, with lunch service Wednesday to Friday.

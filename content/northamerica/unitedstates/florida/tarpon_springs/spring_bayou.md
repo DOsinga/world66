@@ -8,6 +8,7 @@ tags:
 latitude: 28.1446
 longitude: -82.7540
 snippet: Scenic freshwater bayou where the Epiphany ceremony is held each January
+score: 7.3
 ---
 
 Spring Bayou is a small freshwater inlet a short walk inland from the Sponge Docks, surrounded by old houses and oak trees draped in Spanish moss. It is one of the most pleasant spots in Tarpon Springs — quiet on most days, with egrets and herons working the shallows and the occasional manatee drifting through in winter.

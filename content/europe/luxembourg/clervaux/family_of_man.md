@@ -10,6 +10,7 @@ tags:
 title: The Family of Man
 type: poi
 url: www.steichencollections.lu
+score: 9.3
 ---
 
 In 1955, Edward Steichen — Luxembourg-born director of photography at the Museum of Modern Art — opened "The Family of Man" at MoMA. The 503 black-and-white photographs by 273 photographers from 68 countries (Cartier-Bresson, Bourke-White, Capa, Dorothea Lange, August Sander, and many lesser-knowns) were arranged in thematic sequences — birth, work, play, love, death — to make a single sweeping humanist argument that all human beings share a common condition.

@@ -6,6 +6,7 @@ longitude: -6.964
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 The headland west of Hvalba, also called Fiskieiði, is one of the more dramatic stretches of coast on Suðuroy. Sea cliffs drop sharply to the Atlantic, and on a clear day you can see sea stacks, gulls wheeling in the updraft, and the long Atlantic swell breaking against the rock.

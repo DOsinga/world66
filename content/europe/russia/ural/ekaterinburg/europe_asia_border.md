@@ -13,6 +13,7 @@ story: >
   authorities at different times. There are several monuments claiming to mark the exact line
   near the city. The most commonly visited is about 40 km west of the centre, but there is
   also a smaller obelisk right within the city limits for those who cannot make the drive.
+score: 5.9
 ---
 
 Standing with one foot in Europe and the other in Asia has a certain appeal that transcends the geographic imprecision of the exercise. The main Europe-Asia border obelisk sits about 40 kilometres west of Ekaterinburg on the old Siberian Highway, at the point where the Ural Mountains watershed is crossed. The monument — a pillar with "Europe" on one side and "Asia" on the other — has been a traditional photo stop for travellers crossing Russia since the 19th century.

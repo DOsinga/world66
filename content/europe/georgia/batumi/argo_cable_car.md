@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Argo Cable Car
 type: poi
+score: 7.6
 ---
 
 The Argo Cable Car runs from the edge of the old town up to the top of Anuria Hill, climbing about 250 metres over a ten-minute ride. From the upper station there is a wide view of the whole of Batumi: the boulevard, the port, the modern skyline, and the green hills rolling inland toward the Lesser Caucasus.

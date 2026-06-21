@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The building was Barquisimeto's main hospital from the late 19th century until 1956 — a long, single-storey ward block laid out around courtyards. When the hospital moved the city converted it into a museum, leaving much of the original structure intact."
+score: 7.5
 ---
 
 The city museum occupies the old San Juan de Dios hospital, an attractive late-19th-century complex of arcaded courtyards and tiled corridors. The permanent collection covers the history of Lara state and Barquisimeto specifically — pre-Columbian ceramics, colonial-era religious art, photographs and ephemera from the city's growth in the 20th century.

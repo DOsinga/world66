@@ -5,6 +5,7 @@ latitude: -6.1625
 longitude: 39.1900
 snippet: Five hundred carved wooden doors hidden in the alleys
 tags: [things_to_do, sight, architecture]
+score: 8.3
 ---
 
 The carved doors of Stone Town are an architectural feature in their own right and a category of sight worth tracking down deliberately. Roughly five hundred survive in the old town, divided between two distinct styles. **Omani doors** are rectangular, sober, with floral and geometric carving on the lintel and frame and Quranic inscriptions across the top. **Indian doors** are taller, brass-studded — the bosses were originally designed to stop elephants from breaking down doors in Gujarat — and often arch-topped, with carved chains and pineapples around the edges.

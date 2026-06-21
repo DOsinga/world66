@@ -9,6 +9,7 @@ tags:
 snippet: "The principal mosque of the Anatolian Seljuks, on top of the ancient citadel"
 story: >
   The mosque sits on what was the inner citadel of Konya, in turn built on a tell — the buried mound of more than four thousand years of earlier settlement, going back to the Bronze Age. Eight Seljuk sultans are buried in the small dynastic mausoleum (türbe) attached to the mosque, including Alâeddin Keykubad I, who completed the building in 1221 and is considered the greatest of the Seljuk rulers of Rum.
+score: 8.5
 ---
 
 The Alâeddin Mosque is the principal Seljuk mosque of Konya and the oldest important building still standing in the city. It was begun in the mid-twelfth century under Sultan Mesud I and completed in 1221 by Alâeddin Keykubad I, who gave it his name. The mosque sits on top of Alaeddin Hill, the ancient citadel mound at the heart of the old town, with sweeping views in every direction.

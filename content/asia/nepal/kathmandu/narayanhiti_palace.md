@@ -15,6 +15,7 @@ story: >
   effectively ended Nepal's monarchy — his uncle Gyanendra, who inherited the throne, lost
   it to republican revolution in 2008. The billiard room where the shootings occurred is
   part of the museum tour.
+score: 7.7
 ---
 
 The Narayanhiti Palace was the royal residence of Nepal's Shah dynasty until the monarchy was abolished in 2008. It now operates as a public museum, opening the state rooms, throne room, and royal apartments to visitors. The palace is a mix of architectural styles — the main hall and formal rooms follow a neo-classical design, with later additions including a traditional Nepali pagoda roof.

@@ -7,6 +7,7 @@ tags:
 - drink
 snippet: The Charente's own apéritif — unfermented grape juice blended with cognac
 type: poi
+score: 6.8
 ---
 
 Before you tour the cognac houses, try Pineau des Charentes, the local apéritif that almost nobody outside the region knows. It is made by blending unfermented grape must with cognac, stopping the fermentation and leaving a sweet, mellow drink that runs between 16 and 22% alcohol. Served chilled with oysters or foie gras, it is one of those regionally specific pleasures that rarely survives the journey home.

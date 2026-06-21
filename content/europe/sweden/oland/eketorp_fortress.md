@@ -11,6 +11,7 @@ tags:
 - sight
 title: Eketorp Fortress
 type: poi
+score: 8.4
 ---
 
 A reconstructed Iron Age ring fort in the southern part of the island, Eketorp is one of the best places in Sweden to get a feel for early medieval life. The circular stone walls enclose reconstructed longhouses, and in summer the site runs living-history demonstrations — smithing, cooking, archery — that are genuinely engaging rather than cheesy. The surrounding alvar landscape, flat and open in every direction, makes the fort feel appropriately exposed and defensible.

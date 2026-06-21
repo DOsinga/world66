@@ -8,6 +8,7 @@ latitude: 49.3028
 longitude: 10.5733
 sources:
   - https://en.wikipedia.org/wiki/St._Gumbertus,_Ansbach
+score: 8.0
 ---
 
 St. Gumbertus is the principal church of Ansbach and one of the most important in Franconia. The building dates from the 15th century, though it incorporates elements from an earlier Romanesque structure. The interior is outstanding: a late Gothic choir of exceptional quality, with slender pillars and star-vaulted ceilings, and the Swan Knight Chapel (Schwanenritterkapelle), which contains the armour and tombs of the Brandenburg-Ansbach Margraves of the House of Hohenzollern.

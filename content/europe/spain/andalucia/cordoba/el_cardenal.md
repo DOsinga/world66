@@ -8,8 +8,10 @@ phone: 957 48 31 12
 snippet: Established flamenco tablao in a 16th-century house by the Mezquita
 tags:
 - bars_and_cafes
+- bar
 title: Tablao Flamenco El Cardenal
 type: poi
+score: 6.8
 ---
 
 The most established flamenco tablao in Cordoba, in a 16th-century house directly opposite the Mezquita. Nightly shows of around an hour and a quarter — cante, baile and guitar — with a drink included. Tickets around €23. Touristy by definition, but the artists are serious and the venue is the real thing.

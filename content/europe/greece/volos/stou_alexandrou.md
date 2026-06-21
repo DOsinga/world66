@@ -7,6 +7,7 @@ tags:
 latitude: 39.3628
 longitude: 22.9395
 snippet: "Classic seafront tsipouradiko with no menu and no decisions to make"
+score: 6.5
 ---
 
 Stou Alexandrou is one of the established tsipouradika along the Volos waterfront, occupying a corner spot with outdoor seating facing the gulf. The format is the city's standard: you sit down, tell the waiter whether you want seafood, meat, or a mix, and the plates start arriving. Fried octopus, grilled sardines, shrimp saganaki, horta dressed with lemon, a wedge of feta, maybe a plate of taramosalata to start. Another tsipouro appears and the process continues.

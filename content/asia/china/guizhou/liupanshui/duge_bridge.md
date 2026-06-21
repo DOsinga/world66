@@ -9,6 +9,7 @@ latitude: 26.3866
 longitude: 104.6760
 story: >
   The Duge Bridge held the record for the world's highest bridge from its opening in December 2016 until September 2025, when the Huajiang Canyon Bridge nearby surpassed it. The two highest bridges in the world are thus within 60 kilometres of each other in the same Guizhou canyon landscape. The region's topography — deep river gorges cutting through a high plateau — makes it an almost unavoidable engineering challenge for any east-west road, which is why so many extraordinary bridges accumulate here.
+score: 8.1
 ---
 
 The Duge Beipan River Bridge carries the Hangzhou–Ruili Expressway across the Beipan River canyon on the border between Guizhou and Yunnan, rising 565 metres above the river below. Until late 2025, when a nearby new bridge took the title, it held the Guinness World Record for the highest bridge in the world. The towers reach 269 metres — taller than the Eiffel Tower — and the main span is 720 metres, making the bridge impressive by any measure beyond its raw height above the gorge.

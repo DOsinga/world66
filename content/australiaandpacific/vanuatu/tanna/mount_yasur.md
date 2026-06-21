@@ -9,6 +9,7 @@ latitude: -19.5283
 longitude: 169.4483
 story: >
   Yasur has been erupting continuously for at least 800 years — Captain James Cook noted the glow from the ship in 1774 and correctly identified it as a volcano. It erupts multiple times per hour, and the pattern of eruptions is almost rhythmic: a deep rumble builds, the ground shakes, and then a fountain of incandescent lava bombs shoots into the air from the crater below. At night the glow is visible from 30 km away. The rim walk takes you to the very edge of this ongoing spectacle.
+score: 9.8
 ---
 
 Mount Yasur is one of the most accessible active volcanoes in the world — you can drive most of the way up in a 4WD and walk the final 20 minutes to the rim. At the top, you stand at the edge of an active crater looking down into glowing vents that erupt continuously. The explosions project lava bombs into the air, often above the crater rim, and the noise is felt as much as heard.

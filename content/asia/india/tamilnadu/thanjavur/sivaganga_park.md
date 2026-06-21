@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.7858
 longitude: 79.1310
+score: 5.8
 ---
 
 Sivaganga Park surrounds the large Sivaganga Tank adjacent to the Brihadisvara Temple — the sacred tank that has served the temple complex for over a thousand years. The tank itself is substantial: roughly rectangular, faced with stone steps on all four sides, and large enough that the vimana tower of the Brihadisvara is reflected in the water on still mornings. It is one of the best vantage points for photographing the temple from the east, especially in the early morning light.

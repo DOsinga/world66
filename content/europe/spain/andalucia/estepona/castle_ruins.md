@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 36.4285
 longitude: -5.1486
 snippet: "15th-century Moorish castle ruins with views over the town and coast"
+score: 5.9
 ---
 
 The ruins of Estepona's Moorish castle stand on the hill above the old town. The fortification dates from the 15th century and was built during the period of the Nasrid Kingdom of Granada; it was taken by the forces of Ferdinand and Isabella during the Reconquista in 1456. The walls and a single tower survive, along with a small collection of archaeological finds displayed nearby.

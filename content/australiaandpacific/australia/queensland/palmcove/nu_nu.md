@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: -16.7465
 longitude: 145.6657
+score: 6.8
 ---
 
 Nu Nu has been Palm Cove's best restaurant for a long time. It sits right on the esplanade, open to the beach breeze, with a kitchen that takes tropical produce seriously. The cooking is modern Australian with strong Asian influences — expect coconut-cured fish, Daintree tea-smoked meats, and desserts that use ingredients most southern Australian kitchens haven't heard of.

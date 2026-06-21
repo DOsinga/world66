@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 23.2250
 longitude: 56.5160
+score: 7.4
 ---
 
 The Ibri souq is the real thing — a working market serving the town and surrounding agricultural communities, rather than a tourist-facing imitation. The morning hours (before 11am) are the most active, with traders selling Omani dates (Ibri is in one of the country's date-growing regions), fresh produce, silver jewellery, halwa (the sticky local sweet made with saffron and rose water), and frankincense resins.

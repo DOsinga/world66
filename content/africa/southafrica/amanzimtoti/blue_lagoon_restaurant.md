@@ -7,6 +7,7 @@ tags:
 latitude: -30.0490
 longitude: 30.8907
 snippet: "Beachfront restaurant on the promenade with sea views"
+score: 5.2
 ---
 
 A long-running beachfront restaurant on the Amanzimtoti promenade, Blue Lagoon serves the standard South African coastal menu — seafood platters, calamari, line fish of the day, plus burgers, salads, and pizzas. The setting is the draw: a wide terrace looking straight onto the Indian Ocean, breezy and pleasant on warm evenings.

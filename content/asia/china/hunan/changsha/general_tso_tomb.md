@@ -16,6 +16,7 @@ story: >
   concrete dome on the southern outskirts of Changsha. The tomb attracts
   a steady stream of curious visitors, many of them expecting something
   more elaborate.
+score: 6.8
 ---
 
 The tomb of Zuo Zongtang (General Tso) sits in a park on the southern outskirts of Changsha, about 14 kilometres from the city centre. Zuo was one of the most capable military commanders of the Qing dynasty's troubled nineteenth century — a key figure in suppressing the Taiping Rebellion, the Muslim rebellions in northwestern China, and the reconquest of Xinjiang from Yakub Beg in 1876-77 — and his tomb is a notable pilgrimage for students of Chinese military history. The structure itself is a large concrete dome in a grove of trees, built during the Republican period.

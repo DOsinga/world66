@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 30.2530
 longitude: -88.1180
+score: 5.8
 ---
 
 Barnacle Bill's at the marina is the longtime local institution on Dauphin Island — a fried seafood restaurant with the unflashy confidence of a place that doesn't need to try too hard. The platters come piled high with Gulf shrimp, fish, scallops, and hushpuppies. The decor is old-fashioned comfort: big waterfront windows, a retro feel, and the smell of frying oil that hits you before you reach the door.

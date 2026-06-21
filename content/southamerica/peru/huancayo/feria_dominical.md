@@ -12,6 +12,7 @@ story: >
   Spanish established a formal market here in the 16th century, and the Sunday tradition has
   never stopped. What stretches along Jirón Huancavelica today is a direct continuation of
   two thousand years of highland commerce.
+score: 8.8
 ---
 
 The Sunday market is the reason many travellers make the journey to Huancayo. It fills Jirón Huancavelica and several surrounding streets from early morning until mid-afternoon, with an almost bewildering range of goods: woven textiles, alpaca jumpers, ceramic pots, carved gourds from the nearby village of Cochas, silver jewellery, fruit, vegetables, live animals, and everything in between.

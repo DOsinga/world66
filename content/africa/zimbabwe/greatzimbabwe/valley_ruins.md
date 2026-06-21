@@ -7,6 +7,7 @@ longitude: 30.9331
 tags:
 - things_to_do
 - sight
+score: 9.7
 ---
 
 Between the Hill Complex and the Great Enclosure lie the Valley Ruins — a sprawling area of smaller stone enclosures that were the residential and administrative buildings of the city's population. At its height in the 14th century, Great Zimbabwe may have housed up to 18,000 people, and the valley floor would have been densely occupied.

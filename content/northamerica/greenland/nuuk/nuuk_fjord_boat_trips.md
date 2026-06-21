@@ -13,6 +13,7 @@ story: >
   areas near the city. The combination of icebergs, whales (humpback and fin whales are
   seasonal), and the surrounding mountains creates a landscape that is genuinely extraordinary
   and completely unlike anything visible from the city streets.
+score: 8.8
 ---
 
 The fjord system surrounding Nuuk is, by any standard, spectacular. Day trips by boat take you into a landscape of dramatic mountains, deep water channels, and floating ice, with good chances of whale sightings in July and August when humpback and fin whales are seasonally present. Several operators run day trips from the Nuuk harbour, ranging from three-hour excursions to full-day trips that reach the uninhabited outer islands.

@@ -9,6 +9,7 @@ longitude: 35.6464
 story: "The castle was built in the 12th century by the Crusaders using stones quarried from the ruins of the ancient Phoenician and Roman city around them. Look carefully at the castle walls and you can see inscribed column bases, sarcophagus fragments, and architectural elements from Roman and earlier buildings embedded in the masonry — the Crusaders recycled antiquity wholesale. The Embriaco family, Genoese lords who controlled Byblos for centuries, are buried here."
 sources:
   - https://en.wikipedia.org/wiki/Byblos_Castle
+score: 8.9
 ---
 
 The Crusader castle dominates the Byblos archaeological site, built in the 12th century from the recycled stones of the ancient city around it. Its towers provide an elevated view over the entire archaeological area — a perspective that makes the spatial logic of the ancient city legible in a way that ground-level exploration doesn't achieve. The castle is partially intact, with accessible ramparts and interior spaces that give a sense of its original scale.

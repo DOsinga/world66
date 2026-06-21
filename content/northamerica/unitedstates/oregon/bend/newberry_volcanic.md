@@ -16,6 +16,7 @@ story: >
   into tools by people who lived here long before European contact.
 sources:
   - https://en.wikipedia.org/wiki/Newberry_National_Volcanic_Monument
+score: 8.6
 ---
 
 Newberry National Volcanic Monument preserves the slopes and caldera of Newberry Volcano, one of the largest shield volcanoes in the contiguous United States. The monument is about 25 miles south of Bend and covers 54,000 acres of volcanic terrain — lava fields, cinder cones, obsidian flows, lava tubes, and two crater lakes that sit inside the caldera.

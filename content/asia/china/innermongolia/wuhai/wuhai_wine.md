@@ -6,6 +6,7 @@ tags:
   - eating_out
 latitude: 39.6700
 longitude: 106.8200
+score: 6.3
 ---
 
 Wuhai has developed a small but serious wine industry since the 1990s, exploiting the combination of high solar radiation, low humidity, large diurnal temperature variation, and the mineral-rich alluvial soil of the Yellow River terraces to grow wine grapes of unusual quality. The Helan Mountain Winery and several smaller producers in the Haibowan District have established vineyards on the desert margins where irrigation from the Yellow River makes viticulture possible.

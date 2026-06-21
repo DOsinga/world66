@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: 2,000-metre sandstone peak directly above the park entrance
+score: 7.8
 ---
 
 The Watchman is the most photographed peak in the park, the great red mass that closes the southern end of Zion Canyon and dominates the view from the visitor centre. It is also one of the easier serious hikes in the park: a three-mile round trip from the visitor centre that climbs about 350 feet up the north flank to a viewpoint, with no scrambling required.

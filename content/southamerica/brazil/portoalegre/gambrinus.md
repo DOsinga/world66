@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Gambrinus
 type: poi
+score: 7.6
 ---
 
 Gambrinus has been operating inside the Mercado Público Central since 1889, making it one of the oldest restaurants in Brazil and certainly the most historically significant in Porto Alegre. The setting alone is worth visiting for: the restaurant occupies a large space inside the market building, its tables filling one of the main corridors, and the atmosphere is one of those genuinely old-fashioned restaurant experiences — a proper menu, professional service, the hum of a working institution — that is becoming rare everywhere.

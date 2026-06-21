@@ -11,6 +11,7 @@ story: >
   rubble pile dumped between two lobes of the last Wisconsin glaciation about
   12,000 years ago. The result is a 120-mile band of hills, kettle ponds, and
   eskers cutting diagonally across an otherwise pancake-flat state.
+score: 8.2
 ---
 
 The Northern Unit of the Kettle Moraine State Forest begins just a few miles northeast of Kewaskum and covers nearly 30,000 acres of glacial terrain. The Henry S. Reuss Ice Age Visitor Center on Highway 67 (about 15 minutes from the village) is the obvious starting point, with displays on the glacial geology and a panoramic view across a kettle.

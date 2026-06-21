@@ -15,6 +15,7 @@ story: >
   high on one wall; this, and the cell's underground position, saved his life. He survived for
   four days before rescuers heard him calling from the rubble. He later toured with Barnum &
   Bailey's circus, billed as "the only living object that survived in the 'Silent City of Death.'"
+score: 7.3
 ---
 
 The dungeon of Auguste Cyparis is one of Saint-Pierre's most visited sites and one of its strangest stories. In a town where virtually everyone died in the first minutes of the 8 May 1902 eruption, Cyparis — a young man imprisoned for a fight at a dance — survived because his cell was built like a stone box with only a small opening near the ceiling. The pyroclastic surge that killed 30,000 people outside scorched him badly through that grate but did not kill him.

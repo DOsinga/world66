@@ -7,6 +7,7 @@ snippet: The Saluhallen fish bar, Uppsala's reliable lunch spot for seafood
 tags:
   - eating_out
   - restaurant
+score: 6.4
 ---
 
 Hambergs operates the fish counter inside Saluhallen and a small lunch room behind it. The kitchen does one thing — Swedish fish cookery — and does it well. The fiskgryta (a creamy fish stew thick with potatoes and dill) is the signature dish, served with rye bread and aioli; the gravlax plate and the smoked salmon sandwich are equally reliable.

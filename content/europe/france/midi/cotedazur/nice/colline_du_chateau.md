@@ -9,6 +9,7 @@ latitude: 43.6949
 longitude: 7.2804
 story: >
   The castle on this hill was demolished by Louis XIV in 1706 as punishment for Nice's resistance — he ordered it razed so thoroughly that not a single wall remained standing. The park was laid out in the 19th century on the rubble, and the ruins you see today are partly reconstructed. The artificial waterfall cascading down the hillside has no natural source; it is fed by a pump.
+score: 9.0
 ---
 
 Colline du Château rises 92 metres above the seafront at the eastern end of the old town and offers the best panoramic view in Nice — the full sweep of the Baie des Anges, the red rooftops of Vieux Nice, and the mountains inland. A lift cut into the cliff face carries you up from the Quai des États-Unis (free), or you can climb the 300 steps from the old town side.

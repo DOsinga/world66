@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Soviet warships sat in the river off Haiphong during the war, and U.S. bombing of the port in 1972 came close to damaging the opera house. The wooden balconies inside are original to the 1904 building, although the silk seats were destroyed in the 1960s and replaced with utility upholstery."
+score: 7.8
 ---
 
 The Haiphong Opera House is the city's most photographed building and its symbolic centre. Built between 1904 and 1912 in a French neo-classical style, with a yellow-and-white facade, a sweeping front staircase, and a heavy red-tile roof, it is a smaller and slightly less ornate sibling of the Hanoi Opera House.

@@ -17,6 +17,7 @@ tags:
 - sight
 title: IJzer Tower (Ijzertoren)
 type: poi
+score: 8.2
 ---
 
 At 84 metres, the IJzer Tower is the tallest peace monument in Europe and a striking presence above the flat polder landscape. It was built on the site of a wartime cemetery where Flemish soldiers who died on this stretch of the front are buried. The tower carries the letters AVV-VVK (Alles Voor Vlaanderen, Vlaanderen Voor Kristus — All for Flanders, Flanders for Christ), making it as much a monument to Flemish identity as to peace. The museum inside gives a thorough account of WWI on the IJzer front and the Flemish Movement that grew from it. The view from the top across the polders and toward the coast is worth the climb.

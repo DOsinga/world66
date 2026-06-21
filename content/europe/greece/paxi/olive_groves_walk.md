@@ -7,6 +7,7 @@ tags:
 latitude: 39.2150
 longitude: 20.1700
 story: "The Paxos olive trees are unusually old — many are 500 years or more, with trunks pulled into knots and spirals by centuries of selective pruning. Some of the older trees are believed to date from the Venetian period."
+score: 7.3
 ---
 
 The whole interior of Paxi is olive grove — perhaps 250,000 trees in all, planted in close stands and rising over old dry-stone terracing. A network of paths and unsealed tracks runs between them, much of it well marked, and the cool of the trees makes walking pleasant even in summer.

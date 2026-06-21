@@ -7,6 +7,7 @@ tags:
 latitude: 6.82125
 longitude: -58.15044
 snippet: "Urban park near the seawall with jogging paths and a small zoo"
+score: 6.2
 ---
 
 Despite its grand name, this is an urban park rather than a national park in the conservation sense. Opened in 1965 in the presence of Queen Elizabeth II, it sits between Camp Road and Carifesta Avenue near the seawall and is the largest open green space in the city after the Botanic Gardens. Joggers, cyclists, and families fill it in the early morning and at dusk.

@@ -6,6 +6,7 @@ longitude: -61.0100
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 A late nineteenth-century British coastal battery on the headland west of Castries, La Toc was part of the chain of fortifications guarding the approaches to the harbour. The gun emplacements, magazines, and tunnels are mostly intact and have been preserved by the Saint Lucia National Trust, who run occasional guided tours.

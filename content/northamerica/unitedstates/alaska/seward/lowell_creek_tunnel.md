@@ -12,6 +12,7 @@ story: >
   unusual solution: blast a tunnel through the mountain to divert the creek directly into the sea,
   bypassing the town entirely. The 246-meter tunnel was completed in 1939 and has protected Seward
   from flood damage ever since — one of the more creative pieces of civil engineering in Alaska.
+score: 5.8
 ---
 
 The Lowell Creek Diversion Tunnel is an oddity worth seeking out. Built in the 1930s to prevent flooding, the tunnel carries Lowell Creek through the mountain and sends it shooting out through a concrete flume directly into Resurrection Bay. You can walk to the outlet, a short hike from the south end of town, where the creek emerges in a powerful cascade visible from the bay.

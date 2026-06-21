@@ -10,6 +10,7 @@ snippet: "Roman shipwreck and port history in a striking harbour-island building
 tags:
 - things_to_do
 - museum
+score: 6.9
 ---
 
 Housed in a striking contemporary building on a small island in the harbour, this museum documents Olbia's long history as one of the most important ports in the western Mediterranean. Exhibits cover the Phoenician foundation, the Roman period (when Olbia was a major commercial hub), Byzantine occupation, and the medieval town. The centrepiece is the wreck of a 3rd-century Roman transport ship found beneath the city during construction works.

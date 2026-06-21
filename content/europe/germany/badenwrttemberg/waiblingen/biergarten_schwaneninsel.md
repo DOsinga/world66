@@ -5,6 +5,7 @@ snippet: River-island beer garden under the trees, open in fine weather from spr
 tags: [bars_and_cafes, beer_garden]
 latitude: 48.8345
 longitude: 9.3144
+score: 5.9
 ---
 
 The Biergarten Schwaneninsel occupies a small park island in the Rems just outside the old town, reached by footbridge from Winnender Straße. Picnic-style benches under chestnut trees, the usual line-up of half-litre Maß glasses of local beer, big plates of Maultaschen (Swabian ravioli) and Wurstsalat.

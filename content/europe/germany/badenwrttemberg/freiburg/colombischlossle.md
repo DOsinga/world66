@@ -7,6 +7,7 @@ tags:
 snippet: "Pre-history of the Upper Rhine in a small 19th-century palace"
 latitude: 47.99774
 longitude: 7.84618
+score: 6.9
 ---
 
 The Colombischlössle is a small neo-Gothic mansion built in 1859 for Countess Maria von Zea-Bermudez Colombi, an exiled Spanish noblewoman. It sits at the northwest corner of the old town, surrounded by a tidy public park, and now houses the city's archaeological collection.

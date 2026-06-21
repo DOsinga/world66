@@ -8,6 +8,7 @@ tags:
 - experience
 title: Sundial Trail
 type: poi
+score: 6.8
 ---
 
 Röttingen calls itself a "Sundial Town" and has installed roughly 25 sundials around the streets, on house walls, and along the riverside. Together they make up a short walking trail that takes about an hour to complete and gives you an excuse to see every corner of the medieval centre.

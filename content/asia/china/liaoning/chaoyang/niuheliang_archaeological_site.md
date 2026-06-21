@@ -9,6 +9,7 @@ latitude: 41.3167
 longitude: 119.5333
 story: >
   The Goddess Temple at Niuheliang contained fragments of a life-sized clay female figure with inlaid jade eyes — the oldest known sculptural representation of a human face in China. Excavated in the 1980s, the figure is believed to represent a deity of the Hongshan culture, a civilisation that flourished in this region five thousand years ago, predating both the Yellow River cultures and the Indus Valley civilisation by centuries.
+score: 8.8
 ---
 
 Niuheliang is a Hongshan culture ceremonial complex dating to approximately 3500–3000 BCE, located about 130 kilometres southwest of Chaoyang city in the hills of Jianping County. It is one of the most significant Neolithic archaeological sites in China: a network of stone-built altars, burial mounds, and what appears to be a ritual precinct that operated for centuries before being deliberately sealed and abandoned.

@@ -16,6 +16,7 @@ story: >
   national figures with varying degrees of subtlety since the Habsburg era —
   gave the event a reputation for irreverence that it has maintained
   across all subsequent political regimes.
+score: 7.6
 ---
 
 The Villacher Fasching is Austria's most celebrated carnival, held each year in the weeks before Lent. The festivities centre on elaborate masked processions through the old town, outdoor concerts, and balls that fill every venue in the city. The main procession typically draws tens of thousands of spectators and involves decorated floats, brass bands, and participants in elaborate traditional costumes alongside more satirical contemporary disguises.

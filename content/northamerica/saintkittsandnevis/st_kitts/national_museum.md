@@ -8,6 +8,7 @@ tags:
   - museum
   - basseterre
 neighbourhood: Basseterre
+score: 7.4
 ---
 
 A small but absorbing museum on the harbour-side of the old Treasury Building, a fine 1894 colonial structure on Bay Road. The collection covers the island's pre-Columbian Kalinago heritage, the brutal sugar economy, the abolition of slavery, and the slow road to independence in 1983. Exhibits are modest but well-curated.

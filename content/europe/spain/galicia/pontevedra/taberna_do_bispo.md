@@ -7,6 +7,7 @@ tags:
 snippet: Stone-walled taberna in the old town with a long wine list and Galician tapas
 latitude: 42.4322
 longitude: -8.6448
+score: 6.1
 ---
 
 This long-established taberna occupies a handsome stone building in the old quarter and draws a mix of locals and visitors for its Galician wine selection and solid traditional cooking. The pimientos de Padrón (small green peppers, flash-fried and salted), the empanada de zamburiña, and the house caldo (a dense broth with turnip greens and potato) are reliable standbys.

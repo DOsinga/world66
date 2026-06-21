@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - neighbourhood
+score: 6.4
 ---
 
 Strahinjića Bana — known to Belgraders simply as "Silicon Valley" for its density of bars and cafes — is the main going-out street of the Dorćol neighbourhood, a short walk from Republic Square. The street runs for a few hundred metres and is lined on both sides with bar terraces, cafe fronts, and occasional restaurant tables that spill onto the pavement from spring through autumn. The crowd skews young and the atmosphere is lively from late afternoon onward.

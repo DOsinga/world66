@@ -6,6 +6,7 @@ longitude: -70.1521
 tags:
   - things_to_do
   - museum
+score: 7.8
 ---
 
 A small but worthwhile regional museum covering the long human story of the Tarapacá coast, from the pre-Columbian Chinchorro mummies — among the oldest deliberately preserved bodies in the world — through the Inca presence, Spanish colonisation, and the nitrate boom. The displays are mostly in Spanish but the objects speak for themselves.

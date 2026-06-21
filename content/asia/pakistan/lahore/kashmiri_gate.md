@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - walled_city
+score: 7.0
 ---
 
 The northern gate of the Walled City — originally called the Akbari Gate, renamed Kashmiri Gate during the Sikh period because the road from here led toward Kashmir. The current structure is largely 19th-century but follows the line of the Mughal original.

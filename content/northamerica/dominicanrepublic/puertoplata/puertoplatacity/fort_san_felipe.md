@@ -14,6 +14,7 @@ story: >
   imprisoned in the fort in 1843 after his revolutionary activities alarmed the Haitian
   government then controlling the island. He was released but eventually exiled, and
   never returned to see the independent republic he had worked to create.
+score: 8.1
 ---
 
 Fortaleza San Felipe stands on a low headland at the western end of the Malecón, its thick coral-stone walls facing the sea as they have since 1564. The Spanish built it as Puerto Plata grew into one of the most important ports on Hispaniola, and the fort was designed specifically to discourage the French and English pirates who regularly raided Caribbean harbours. The walls are up to two metres thick, and the cannon emplacements — a dozen old pieces still point seaward — were positioned to command the approaches from the north and west.

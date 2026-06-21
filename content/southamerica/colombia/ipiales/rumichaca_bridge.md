@@ -10,6 +10,7 @@ story: >
   Rumichaca means "stone bridge" in Quechua — rumi (stone) and chaka (bridge) — and indeed there is a natural stone arch over the Carchi River at this point, which indigenous people used as a crossing long before either Colombia or Ecuador existed. The modern bridge runs alongside it. The international boundary passes through the middle of the water below.
 sources:
   - https://en.wikipedia.org/wiki/Rumichaca_Bridge
+score: 4.8
 ---
 
 The Rumichaca Bridge is the main land border crossing between Colombia and Ecuador, spanning the Carchi River about three kilometres from Ipiales. For most travellers passing through Ipiales, this is the reason they are here: crossing from one country to the other overland. The formalities on both sides are generally efficient, though the border can be very busy on weekends and around holidays.

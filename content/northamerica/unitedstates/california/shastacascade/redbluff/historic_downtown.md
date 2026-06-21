@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture, historic]
 latitude: 40.1767
 longitude: -122.2347
 snippet: Compact downtown with intact late-19th-century brick architecture
+score: 7.8
 ---
 
 Red Bluff has one of the better-preserved 19th-century downtowns in the northern Sacramento Valley, with several blocks of two- and three-storey brick commercial buildings dating from the 1880s and 1890s. Main Street, Walnut Street, and Pine Street between Antelope Boulevard and the river all repay a walk.

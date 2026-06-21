@@ -15,6 +15,7 @@ tags:
 - art
 title: The Singing Ringing Tree
 type: poi
+score: 8.6
 ---
 
 The Singing Ringing Tree is a wind-powered sound sculpture standing on Crown Point above Burnley, with views across the Pennines in all directions. The 3-metre-high steel structure looks like a stylised, geometric tree and produces an eerie, resonant hum as wind passes through its tuned steel pipes — the sound shifts with wind speed and direction, ranging from a gentle moan to something more dramatic.

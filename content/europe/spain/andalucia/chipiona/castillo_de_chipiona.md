@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - history
+score: 5.8
 ---
 
 The remains of Chipiona's old castle — built by the dukes of Medina Sidonia in the fifteenth century — stand at the corner of the Plaza del Castillo, a short walk from the sanctuary. Not much survives: a stretch of curtain wall, a thick tower, and the outline of the inner courtyard, now grassed over. Restoration work in the 2010s opened the site to visitors with information panels in Spanish and English.

@@ -10,6 +10,7 @@ tags:
 title: Papago Park
 type: poi
 story: "During World War II the park held a German POW camp. In December 1944, 25 U-boat sailors tunnelled out and tried to row to Mexico down the Salt River — but the river was dry. The longest-running American escape attempt of the war ended after several days of confused wandering across the desert."
+score: 7.9
 ---
 
 Papago Park is the green heart of east Phoenix, a 1,500-acre desert preserve of red sandstone buttes that hides several of the city's best attractions. The Desert Botanical Garden, the Phoenix Zoo, and the Hall of Flame all sit inside the park boundary. Even without those, the buttes themselves are worth a wander — easy trails wind through saguaro stands and up to the famous Hole-in-the-Rock, a natural sandstone arch with one of the best sunset views in the valley.

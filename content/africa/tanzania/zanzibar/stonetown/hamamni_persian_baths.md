@@ -5,6 +5,7 @@ latitude: -6.1623
 longitude: 39.1910
 snippet: Nineteenth-century Persian-style bathhouse, now a quiet ruin
 tags: [things_to_do, sight, architecture]
+score: 7.2
 ---
 
 The Hamamni Baths were built in the 1870s by Sultan Barghash on the model of a Persian hammam, with hot and cold rooms, steam chambers, an under-floor furnace, and barrel-vaulted ceilings pierced with star-shaped openings to let in dappled light. They were the first public baths in Stone Town and ran until 1920.

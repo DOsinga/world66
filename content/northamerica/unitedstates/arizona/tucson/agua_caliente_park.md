@@ -7,6 +7,7 @@ address: "12325 E. Roger Road, Tucson, AZ"
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 A 100-acre desert park on the city's northeast edge, surrounding a series of small spring-fed ponds where hot water once bubbled up — hence the name. The hot springs themselves have cooled, but the ponds remain, fringed by palms and cottonwoods that look out of place in the desert.

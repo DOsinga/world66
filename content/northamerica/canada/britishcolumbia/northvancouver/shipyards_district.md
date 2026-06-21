@@ -13,6 +13,7 @@ story: >-
   produced in Canada in the 1939–1945 period. The skeleton of the original
   ship-launching gantry still stands at the edge of the redeveloped
   district, reused as a heated public seating shelter.
+score: 7.2
 ---
 
 The Shipyards District is the redeveloped public waterfront immediately east of Lonsdale Quay — the site of the old Burrard Dry Dock and Pacific Coast Shipyard, which built Victory ships and Bangor-class minesweepers during the Second World War. The yards closed in 1992; redevelopment took nearly thirty years and was completed in 2019 with a public plaza, a covered ice rink in winter that becomes a water-feature in summer, restored shipyard cranes used as kinetic sculptures, and a row of restaurants in renovated industrial buildings.

@@ -8,6 +8,7 @@ latitude: 44.05361
 longitude: -70.71444
 sources:
   - https://en.wikipedia.org/wiki/Soldiers%27_Monument_(Bridgton,_Maine)
+score: 6.3
 ---
 
 At the western end of downtown, where Main Hill levels off before descending toward the lake, stands Bridgton's Civil War memorial. The 36-foot monument was dedicated on July 21, 1910, drawing some 3,000 people — many of them arriving by the narrow-gauge railroad that connected the town to the national network. A bronze soldier stands atop a granite pedestal built by the Hallowell Granite Works; at the dedication ceremony, a flag furled in the soldier's hand was released and unfurled as the band struck up a patriotic anthem.

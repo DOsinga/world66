@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Tibetan refugee village on the south side of Pokhara, near Davis Falls
+score: 6.6
 ---
 
 The closest of the four Pokhara Tibetan refugee settlements to Lakeside, just down the road from [Davis Falls](/asia/nepal/pokhara/davis_falls). About 700 Tibetans live in Tashiling, working the carpet looms, raising chickens, and running a handful of small handicraft shops along the entry road.

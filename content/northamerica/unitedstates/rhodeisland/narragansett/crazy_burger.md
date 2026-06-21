@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Crazy Burger Cafe & Juice Bar
 type: poi
+score: 5.6
 ---
 
 Crazy Burger has been a Narragansett fixture on Boon Street since the 1990s, known for big tofu and meat burgers, generous brunches and a queue out the door every summer weekend. The interior is small and quirky — handwritten chalkboards, mismatched chairs — and the menu rewards reading: oddly named house specials with avocado, eggs, salmon, all over a thick patty.

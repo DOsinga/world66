@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Mus%C3%A9e_Bonnat-Helleu
 story: >
   Léon Bonnat, born in Bayonne in 1833, became one of the most successful portrait painters in Europe, painting popes, presidents, and Victor Hugo. He left his entire personal collection — including Old Masters and his own drawings — to his hometown. The museum opened in 1901 and remains one of the richest provincial art museums in France.
+score: 8.3
 ---
 
 The Musée Bonnat-Helleu is consistently rated among the best small art museums in France, and with good reason. The core of the collection is the bequest of Léon Bonnat, a Bayonne-born painter who acquired an extraordinary group of works — Rubens, Goya, El Greco, Rembrandt, Van Dyck, Dürer — over his long career. The collection includes around 4,000 paintings, sculptures, drawings, and decorative arts items.

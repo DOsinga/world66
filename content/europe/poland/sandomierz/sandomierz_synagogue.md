@@ -14,6 +14,7 @@ story: >
   extermination camp in 1942. The synagogue, built in the 17th century and rebuilt after 
   fires, was used as a storehouse during the occupation. It is now one of the few material 
   traces of a community that shaped the town for five centuries.
+score: 6.9
 ---
 
 The Sandomierz Synagogue is a 17th-century building on Żydowska Street (Jewish Street), now functioning as a cultural and exhibition space. The building retains its basic structure from the Baroque period, though much of the original interior was lost during the war.

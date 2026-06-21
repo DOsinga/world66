@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The cathedral's spire — at 247 feet, the tallest in Yorkshire — is older than the cathedral itself. It dates from the early fifteenth century, when this was still a parish church; Wakefield only became a cathedral city in 1888."
+score: 7.8
 ---
 
 Wakefield Cathedral, the Church of All Saints, stands on a low rise in the centre of the city — a substantial Perpendicular Gothic church with the tallest spire in Yorkshire and a sequence of fine stained-glass windows added by the Victorian designer Charles Eamer Kempe. Most of the present building dates from the fifteenth century, though parts of the foundations go back to the Saxon era.

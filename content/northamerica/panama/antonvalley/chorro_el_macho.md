@@ -9,6 +9,7 @@ latitude: 8.6111
 longitude: -80.1267
 story: >
   The waterfall sits in a privately-owned patch of rainforest, and the owners have kept it almost entirely undeveloped — no kiosks, no railings beyond what safety demands. The result is one of the few places in Panama where you can swim in the pool below a major waterfall without a crowd.
+score: 7.7
 ---
 
 Chorro El Macho is the easiest waterfall to reach from Anton Valley, a 35-metre cascade that drops into a green pool surrounded by cloud forest. The trail from the village centre takes around thirty minutes, passing through farmland and secondary forest before the roar of the falls announces your arrival.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.4042
 longitude: 8.5025
+score: 7.2
 ---
 
 The parish church of San Martino in the hamlet of the same name is Stella's principal church, containing two significant works of Ligurian baroque art. The wooden statues by Anton Maria Maragliano — the most celebrated Genoese sculptor of the late Baroque period, who worked in the last decades of the 17th and early 18th centuries — are among the finest examples of his polychrome wood sculpture outside Genoa itself.

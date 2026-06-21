@@ -7,6 +7,7 @@ latitude: 62.8700
 longitude: 27.7000
 story: >
   Kuopio sits on a peninsula surrounded by Lake Kallavesi, which is part of the vast Saimaa lake system — the largest in Finland and one of the largest in Europe. The lake connects to hundreds of others through a web of channels and waterways. In summer, passenger steamships still operate on some of these routes, continuing a tradition that dates back to the 19th century.
+score: 8.1
 ---
 
 Lake Kallavesi wraps around three sides of Kuopio's peninsula and is inseparable from the character of the city. The lake is large — about 470 square kilometres — and the forested islands and inlets visible from the city's edges give a sense of the vast Finnish lake district extending in all directions.

@@ -10,6 +10,7 @@ tags:
 - museum
 title: Country Music Hall of Fame and Museum
 type: poi
+score: 9.5
 ---
 
 The definitive museum of country music history, housed in a purpose-built building just south of downtown. The collection spans Elvis's gold Cadillac, Hank Williams's stage suits, handwritten lyrics, instruments, and thousands of recordings. The permanent exhibition traces the genre from its Appalachian and blues roots through to contemporary country-pop.

@@ -6,6 +6,7 @@ longitude: 106.6850
 tags:
   - things_to_do
   - neighbourhood
+score: 8.2
 ---
 
 The French Quarter spreads west and north from the Opera House along Tran Phu, Dien Bien Phu, and Quang Trung streets. It was laid out by the French colonial administration in the early twentieth century and has the wide pavements, planted boulevards, and ochre stucco villas typical of Indochinese colonial planning.

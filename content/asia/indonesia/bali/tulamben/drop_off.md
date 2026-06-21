@@ -7,6 +7,7 @@ tags:
   - diving
 latitude: -8.2749
 longitude: 115.5915
+score: 8.1
 ---
 
 A short swim from the Tulamben beachfront, the Drop Off is a sheer volcanic wall that begins at 3 metres and falls away to beyond 40. The wall is encrusted with sea fans, hard corals, and soft corals, and the blue water alongside it is patrolled by trevally, barracuda, and occasional reef sharks.

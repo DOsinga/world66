@@ -8,6 +8,7 @@ tags:
 - sight
 title: Ait Benhaddou
 type: poi
+score: 9.3
 ---
 
 Ait Benhaddou is a UNESCO World Heritage ksar (fortified village) built of earth, straw, and wood in the traditional style of southern Morocco. The cluster of towers and high defensive walls rising above the Ounila River is one of the most photographed sights in Africa and has stood in for ancient Jerusalem, Rome, Egypt, and the Middle East in dozens of films including Lawrence of Arabia, Jesus of Nazareth, Gladiator, and the television series Game of Thrones. A small community still lives within the walls. The site is 32 km from Ouarzazate on the road to Marrakech.

@@ -7,9 +7,9 @@ Punta Cana's beaches stretch for about 50 km along the eastern coast, with fine 
 
 **Punta Cana Beach**
 
-The Punta Cana Beach is a very long beach that covers a total distance of about 30 miles. It is the most popular beach in Punta Cana, because it has very clean and white sand and a wide range of amenities. It is lined with well-known resorts that offer excellent [accommodation](/northamerica/dominicanrepublic/punta_cana/accommodation) as well as [entertainment centers](/northamerica/dominicanrepublic/punta_cana/things_to_do). The Punta Cana Beach is arguably the most beautiful beach in the Dominican Republic, and it is the center of tourist activities in Punta Cana.
+The Punta Cana Beach is a very long beach that covers a total distance of about 30 miles. It is the most popular beach in Punta Cana, because it has very clean and white sand and a wide range of amenities. It is lined with large resort hotels and is the centre of tourist activity in Punta Cana.
 
-The Punta Cana Beach area is divided into 6 different sections, which are the Arena Gorda Beach, Macao Beach, El Cortecito, Uvero Alto, Cabeza de Toro and Bavaro Beach. The Bavaro Beach is definitely worth a visit, because it is a great place for swimming and snorkeling. The beach is surrounded by a [coral reef](/northamerica/dominicanrepublic/punta_cana/sights), which forms a turquoise-colored natural swimming pool that reveals an impressive underwater world.
+The beach strip is divided into sections from north to south: Uvero Alto, Macao, El Cortecito, Arena Gorda, Cabeza de Toro, and [Bávaro](/northamerica/dominicanrepublic/punta_cana/bavaro_beach). Bávaro Beach is the most celebrated section — a great place for swimming and snorkelling, protected by the offshore coral reef that forms a natural turquoise pool close to shore.
 
 **Dominicus Beach**
 

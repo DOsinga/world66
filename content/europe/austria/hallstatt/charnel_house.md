@@ -13,6 +13,7 @@ story: >
   or roses, painted by a member of the family. The youngest skull was
   painted in 1995, of a woman who died in 1983 and had specifically requested
   the tradition continue.
+score: 9.0
 ---
 
 The Beinhaus, or bone house, sits in a small chapel beside the parish church at the top of the village, and is one of the strangest and most affecting sights in Austria. It holds the painted skulls and stacked long bones of more than 1,200 villagers, exhumed from the cemetery over five centuries because the rocky lakeside site offered no room to expand.

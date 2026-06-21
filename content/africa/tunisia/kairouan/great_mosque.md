@@ -9,6 +9,7 @@ tags:
   - medina
 story: >
   The Great Mosque's prayer hall contains 414 columns recycled from Roman and Byzantine ruins scattered across North Africa. No two columns are identical — different marbles, different capitals, different proportions — yet the forest of pillars produces a hypnotic unity. The early Muslim builders understood something about improvisation that later, more orthodox mosque builders sometimes lost.
+score: 9.8
 ---
 
 The Mosque of Uqba is one of the oldest mosques in the world still in continuous use, founded by Uqba ibn Nafi in 670 AD when he established Kairouan as the Arab capital of North Africa. What you see today is largely the 9th-century reconstruction under the Aghlabid dynasty, though the core has been rebuilt and extended many times.

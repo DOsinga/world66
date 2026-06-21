@@ -9,6 +9,7 @@ latitude: 18.9304
 longitude: -99.2220
 sources:
   - https://en.wikipedia.org/wiki/Teopanzolco
+score: 7.5
 ---
 
 Teopanzolco is an Aztec archaeological site sitting within the urban limits of Cuernavaca, a few kilometres from the central plaza. The name means "in the old or abandoned temple" in Nahuatl, and the site was already disused when the Spanish arrived. The main structure is a double pyramid with two temples at the summit — a design that mirrors the great Templo Mayor in Tenochtitlán, dedicated to Tláloc and Huitzilopochtli.

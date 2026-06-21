@@ -8,6 +8,7 @@ tags:
 latitude: 29.2033
 longitude: 25.5191
 story: "Shali was built around 1203 from kershef, a mix of salt rock and mud that hardens like cement in the desert sun but dissolves in water. A freak three-day rainstorm in 1926 melted the upper storeys, and most residents abandoned the citadel for low-rise houses below — leaving the ruin you see today."
+score: 8.8
 ---
 
 Shali rises in the centre of Siwa like a crumbling sandcastle. Its walls are made of *kershef*, a local mix of salt-laden mud that turns rock-hard in dry weather and collapses in rain. The original fortress was a single dense knot of houses stacked vertically to save space within the walls, with narrow tunnels for streets.

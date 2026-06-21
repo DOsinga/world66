@@ -9,6 +9,7 @@ latitude: 31.77732
 longitude: 119.96027
 story: >
   The wisteria that gives the museum its name is a vine believed to have been planted by Su Dongpo himself in the eleventh century. Whether or not the attribution is accurate, it is a venerable plant — gnarled, enormous, and still flowering each spring over the courtyard where it grows.
+score: 6.9
 ---
 
 This small museum occupies the house where the Song dynasty poet Su Shi (Su Dongpo) is believed to have spent his final years in Changzhou. The museum is modest in scale but carefully maintained, with historical exhibits about Su Dongpo's relationship with the city and examples of his calligraphy and poetry displayed in print. The building itself is genuinely old, with a courtyard setting that conveys the domestic scale of literati life in the Song period.

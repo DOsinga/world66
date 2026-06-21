@@ -6,6 +6,7 @@ tags:
 - eating_out
 title: Caribou Restaurant and Wine Bar
 type: poi
+score: 5.8
 ---
 
 One of Thunder Bay's better restaurants, with a menu that leans on locally sourced ingredients and changes with the seasons. The salmon dishes are reliable, and there is a solid wine list by northern Ontario standards. The room is warm and the service is good. On the waterfront strip in the Port Arthur area.

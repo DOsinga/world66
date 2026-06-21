@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - shopping
+score: 5.5
 ---
 
 The Great India Place, known to locals as GIP, is the most popular shopping mall in Noida and one of the most-visited malls in north India. Opened in 2007, the vast complex has more than 250 stores spread over four levels, anchored by a multiplex cinema, a food court of more than 30 restaurants, and a children's entertainment zone connected to the adjoining Worlds of Wonder amusement park.

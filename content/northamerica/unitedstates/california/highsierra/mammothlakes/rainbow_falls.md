@@ -5,6 +5,7 @@ tags: [things_to_do, sight, waterfall, hike]
 latitude: 37.6108
 longitude: -119.0799
 story: The rainbow visible in the mist at Rainbow Falls appears most reliably around midday in summer, when the sun is high enough to catch the spray at the right angle — experienced hikers time their visit accordingly.
+score: 8.4
 ---
 
 Rainbow Falls drops 101 feet into a red-volcanic-rock canyon on the Middle Fork of the San Joaquin River, making it one of the largest waterfalls in the Sierra Nevada. The red cliff walls, fed by springs and glacial melt from above, create a permanent mist at the base that refracts sunlight into a rainbow when conditions are right — which is most clear summer mornings.

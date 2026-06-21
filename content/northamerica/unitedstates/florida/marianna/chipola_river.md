@@ -7,6 +7,7 @@ tags:
 latitude: 30.8123
 longitude: -85.2323
 snippet: A clear spring-fed river for canoeing, kayaking, and fishing in the Florida Panhandle
+score: 7.6
 ---
 
 The Chipola River flows north to south through Jackson County, passing through Florida Caverns State Park before eventually joining the Apalachicola River. It is a classic Florida spring-run river — remarkably clear water fed by underground springs, a constant cool temperature, and banks lined with limestone bluffs, cypress trees, and bottomland hardwoods.

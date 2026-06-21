@@ -7,6 +7,7 @@ tags:
 latitude: 47.7831
 longitude: 9.6115
 snippet: The historic main square, ringed by medieval buildings and the Blaserturm clock tower
+score: 7.8
 ---
 
 Marienplatz is the heart of Ravensburg's old town, an elongated square lined with historic buildings that have changed relatively little since the medieval trading days when the Great Ravensburg Trading Society made this one of the most commercially active towns in southern Germany. The Society dealt in linen, fustian, and spices across Europe from around 1380 until it liquidated in 1530, and the prosperous streetscape it helped create is still largely intact.

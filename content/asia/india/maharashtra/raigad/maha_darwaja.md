@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The Great Gate of Raigad, set between two massive bastions
+score: 7.9
 ---
 
 Maha Darwaja — the Great Gate — is the main approach to the upper fort, flanked by two enormous bastions and built so that no straight run of attackers could ever charge it. Cannonball marks are still visible on the inner walls. The gate sits about two-thirds of the way up the climb from the base, and the path narrows here to a single file under the gaze of the bastions above.

@@ -6,6 +6,7 @@ longitude: 5.0420
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 The semicircular square in front of the Palace of the Dukes, designed by Jules Hardouin-Mansart in the 1680s, originally housed an equestrian statue of Louis XIV that was melted down during the Revolution. The plinth is now an open square paved in pale stone, with stepping-stone fountains that run flush with the ground in summer — children play in them, the city's young couples sit on the edges.

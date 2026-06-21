@@ -10,6 +10,7 @@ story: >
   central hydroelectric power station. Thomas Edison himself had launched
   the idea, and the Vulcan Street Plant down on the river provided the
   power. The family could read after dark without candles or gas fumes.
+score: 8.6
 ---
 
 The Hearthstone Historic House Museum is a beautifully preserved Queen Anne mansion from 1882 that claims a genuinely significant place in technological history. When it was built, its owner Henry Rogers commissioned the first residential electric lighting system in the world, powered by the nearby Vulcan Street hydroelectric plant.

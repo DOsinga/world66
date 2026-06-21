@@ -9,6 +9,7 @@ tags:
 - wildlife
 title: Manatee Lagoon
 type: poi
+score: 7.0
 ---
 
 Manatee Lagoon is an unusual hybrid: a free environmental education centre run by Florida Power and Light, built next to the warm-water outflow of their Riviera Beach plant, which manatees treat as a winter shelter. From December to March hundreds of West Indian manatees gather in the lagoon below the centre's observation deck.

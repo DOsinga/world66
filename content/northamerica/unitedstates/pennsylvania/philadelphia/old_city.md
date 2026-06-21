@@ -7,6 +7,7 @@ tags:
 latitude: 39.9530
 longitude: -75.1440
 snippet: "Philadelphia's historic core — colonial landmarks, First Fridays galleries, and some of the city's best eating and drinking"
+score: 8.8
 ---
 
 Old City is the compact, walkable neighborhood east of the historic district where Philadelphia's colonial past and contemporary creative life coexist with unusual comfort. The blocks between the Delaware River and 6th Street, north of Walnut and south of Race, contain more American history per square meter than almost anywhere else in the country — Independence Hall, the Liberty Bell, Christ Church, Elfreth's Alley, the African American Museum — all within a fifteen-minute walk of each other.

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-02'
 image: bellaria.jpg
 image_license: Attribution
 image_source: https://commons.wikimedia.org/wiki/File:Bellaria_chiesa.JPG
@@ -8,6 +9,8 @@ latitude: 44.145
 loc_type: city
 longitude: 12.468
 score: 0.52
+sources:
+- https://en.wikipedia.org/wiki/Bellaria-Igea_Marina
 title: Bellaria
 type: location
 ---

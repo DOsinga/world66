@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - rock_art
+score: 8.4
 ---
 
 About 30 miles east of Green River, off I-70 near Thompson Springs, Sego Canyon contains three superimposed styles of rock art: Barrier Canyon pictographs of tall, hollow-eyed figures; Fremont petroglyphs with horned headdresses; and later Ute scenes showing men on horses, painted after Spanish contact brought horses to the plateau.

@@ -12,6 +12,7 @@ tags:
 title: Lyle's
 type: poi
 url: www.lyleslondon.com
+score: 8.2
 ---
 
 James Lowe's restaurant in the Tea Building is one of the definitive expressions of modern British cooking — hyper-seasonal, ingredient-led, with a sourcing philosophy that means the menu changes completely from week to week. Lunch is a set menu of around four courses at excellent value; dinner is a longer tasting menu.

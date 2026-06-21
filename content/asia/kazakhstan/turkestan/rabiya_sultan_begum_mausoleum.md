@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.2972
 longitude: 68.2705
+score: 7.3
 ---
 
 Just beside the main Yasawi mausoleum stands the smaller tomb of Rabiya Sultan Begum, a Timurid princess and granddaughter of Timur. The mausoleum was built in the early 15th century and retains some of its original tilework, making it a worthwhile complement to the grand structure next door. While the Yasawi mausoleum impresses through scale and the density of its decoration, Rabiya's tomb is intimate and somewhat easier to absorb.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, market]
 latitude: 59.7456
 longitude: 10.2057
+score: 5.2
 ---
 
 Bragernes Torg is the main square on the north bank of the river, dominated by the yellow-brick tower of [Bragernes Church](/europe/norway/drammen/bragernes_church). It is the heart of commercial life in central Drammen — the main pedestrian shopping streets radiate from here, and a weekly market fills the square on Saturdays with local produce, flowers, and household goods.

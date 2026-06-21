@@ -9,6 +9,7 @@ snippet: Archaeology and natural history museum with a genuine Easter Island moa
 latitude: -33.0231
 longitude: -71.5481
 story: "The moai standing in the museum's garden is one of only a handful that have ever left Rapa Nui. It was brought to Chile in 1951 on a navy ship and given to the museum, and is the easiest way for most travellers to see a moai without making the four-and-a-half-hour flight to Easter Island."
+score: 7.9
 ---
 
 The Francisco Fonck Society Museum on Calle 4 Norte is a small but unusually rich collection of pre-Columbian and Mapuche material from across Chile, with a particular focus on Easter Island. The displays include carved tablets, weapons, jewellery, mummified remains, and an extensive Mapuche silver collection.

@@ -6,6 +6,7 @@ tags:
   - fairhaven
 latitude: 48.7199
 longitude: -122.5097
+score: 7.6
 ---
 
 Village Books in Fairhaven is the kind of independent bookstore that makes people move to a city. Operating since 1980, it occupies a handsome historic building on Fairhaven's Village Green and stocks an excellent selection of Pacific Northwest titles, fiction, history, and children's books alongside the usual range. The staff recommendations are thoughtful and the events programme — author readings, book clubs, community discussions — is genuinely active.

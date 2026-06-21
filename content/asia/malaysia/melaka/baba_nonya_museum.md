@@ -7,6 +7,7 @@ tags:
 - museum
 title: Baba Nonya Heritage Museum
 type: poi
+score: 8.7
 ---
 
 Three connected 19th-century townhouses on Jalan Tun Tan Cheng Lock, preserved as they were when a wealthy Peranakan (Straits Chinese) family lived in them. The Baba Nonya — the Straits-born Chinese who blended Malay and Chinese culture over centuries — developed a distinctive material culture, and this museum shows it in full: elaborate mother-of-pearl inlaid furniture, antique porcelain, embroidered wedding costumes, and ornate silver ceremonial objects.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Muzee Scheveningen
 type: poi
+score: 6.2
 ---
 
 Muzee Scheveningen is a modest local-history museum dedicated to the old fishing village that Scheveningen was before mass tourism. The exhibits run from model herring drifters and reconstructed cottage interiors to the costumes of the local kraplap women — the traditional white cap and embroidered bib that until the 1960s marked every Scheveningen wife.

@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - cafe
 address: 13 Brook Lane, Warsash
+score: 5.3
 ---
 
 A small village tea room near the clock tower, doing tea, scones, and light lunches in the traditional English style. The kind of place run by people who have been running it for a long time and have no interest in coffee-shop modernity. Soup and a roll, jacket potatoes, cream teas — all reliable and reasonably priced.

@@ -14,6 +14,7 @@ tags:
 snippet: "Hobart's social high point — 300 stalls under the plane trees every Saturday since 1972"
 story: >
   The market was started in 1972 by a group of Battery Point locals who wanted to revive the run-down Salamanca warehouses. It began with around 12 stalls. Today it draws 25,000 visitors on a peak summer Saturday and the city centre population effectively doubles for the morning. The stallholder regulations are notoriously strict — all goods sold must be Tasmanian, designed in Tasmania, or grown in Tasmania.
+score: 8.7
 ---
 
 Held every Saturday morning along Salamanca Place, this is the social fixture of Hobart and the single thing visitors are most likely to remember. Around 300 stalls run the length of the sandstone warehouses — Tasmanian produce (apples, berries, leatherwood honey, smoked salmon, oysters), local cheese, woodwork from rainforest timbers (Huon pine, sassafras, myrtle), woollens, jewellery, handmade ceramics, and street food cooked on the spot. There's a band playing on the grass behind Salamanca, kids running around, and the conversation tends to spill into the surrounding pubs by mid-morning.

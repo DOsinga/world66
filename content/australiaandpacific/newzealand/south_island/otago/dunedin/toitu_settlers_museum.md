@@ -7,6 +7,7 @@ tags:
 - museum
 title: Toitū Otago Settlers Museum
 type: poi
+score: 7.9
 ---
 
 The Settlers Museum tells the story of Otago from its Maori roots through the gold rush that turned Dunedin into New Zealand's wealthiest city in the 1860s, and on through the Scottish Presbyterian settlement that gave the city its character. The displays are well-designed and genuinely informative — less dusty than most regional history museums.

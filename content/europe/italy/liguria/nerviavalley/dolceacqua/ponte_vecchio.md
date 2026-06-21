@@ -7,6 +7,7 @@ tags:
 latitude: 43.8505
 longitude: 7.6232
 story: "Claude Monet painted the bridge twice in 1884 during a stay on the Riviera, calling its single arch 'a marvel of lightness'. The paintings now hang in the Sainte-Croix Museum in Poitiers and in private collections; Dolceacqua keeps a copy of one in the tourist office."
+score: 8.7
 ---
 
 The single-arch medieval bridge over the Nervia is the postcard image of Dolceacqua, and the reason most visitors come. Built in the fifteenth century to connect the older hillside quarter — the Terra — with the newer Borgo on the opposite bank, it has a span of about 33 metres in pale grey stone, the curve rising elegantly over the brown river water. Monet painted it twice in 1884.

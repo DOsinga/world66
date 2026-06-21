@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 story: "The Shrimp Buster — butterflied shrimp pounded thin, breaded, fried, served on French bread with the house red sauce — was invented at Herby-K's in 1945 and has been the house signature ever since. Most other Shreveport seafood joints serve a version, but the original is here."
+score: 7.4
 ---
 
 A tiny old shotgun shack on Pierre Avenue, Herby-K's has been serving the same menu for nearly eighty years and has the photographs and faded clippings on the walls to prove it. Beyond the Shrimp Buster, get the gumbo, the oyster po-boy, and a cold beer.

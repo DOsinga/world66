@@ -7,6 +7,7 @@ snippet: "Closest white-sand beach to the city centre"
 tags:
 - things_to_do
 - beach
+score: 6.6
 ---
 
 Bagacay Beach is the easiest white-sand beach to reach from downtown Calbayog — about ten minutes by tricycle or jeepney. The strand is short but properly white, the water clear and cold even in midday heat, and tall coconut palms line the back of the beach. The atmosphere is more local than touristed; expect family groups on weekends and a handful of cottage rentals available for the day.

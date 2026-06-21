@@ -8,6 +8,7 @@ tags:
   - diving
 latitude: -8.2780
 longitude: 115.5935
+score: 7.4
 ---
 
 The Coral Garden sits between the USAT Liberty wreck and the main beach, in shallow water that rarely exceeds 15 metres. This makes it the most approachable site in Tulamben for snorkellers and novice divers, and it is often used for check-out dives before heading to the wreck.

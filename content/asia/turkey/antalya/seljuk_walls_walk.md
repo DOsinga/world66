@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 36.88400
 longitude: 30.70700
+score: 7.6
 ---
 
 Kaleiçi rewards aimless wandering more than structured sightseeing. The most rewarding route enters through Hadrian's Gate, winds through the lanes past the Yivli Minaret and Tekeli Mehmet Paşa Mosque, descends to the harbour, then follows the cliff walk south through Karaalioğlu Park to the Hıdırlık Tower. The whole circuit takes about 90 minutes without stops.

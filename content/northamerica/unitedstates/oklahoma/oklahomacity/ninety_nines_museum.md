@@ -7,6 +7,7 @@ tags:
 latitude: 35.4081
 longitude: -97.6029
 story: "The Ninety-Nines were founded in 1929 by ninety-nine licensed women pilots — Amelia Earhart was their first elected president — to support each other in a profession that had not yet decided it was male. The museum holds her flying jacket, her log book pages from the 1932 transatlantic solo flight, and a number of her smaller personal possessions, almost all donated by family."
+score: 7.1
 ---
 
 Tucked inside the headquarters of the Ninety-Nines International Organization of Women Pilots at Will Rogers World Airport, this small museum is the only one in the world dedicated to women aviators. The collection runs from the earliest women fliers — Bessie Coleman, Pancho Barnes, Jacqueline Cochran — through the WASPs of the Second World War and on to contemporary commercial and military pilots.

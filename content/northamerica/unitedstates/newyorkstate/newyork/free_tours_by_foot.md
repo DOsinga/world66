@@ -12,6 +12,7 @@ tags:
 title: Free Tours by Foot
 type: poi
 url: www.freetoursbyfoot.com
+score: 5.8
 ---
 
 Pay-what-you-wish walking tours covering downtown Manhattan, Brooklyn, Harlem, and other neighborhoods. Guides work for tips, which keeps them sharp — the quality is generally high. A good option for first-time visitors who want to get their bearings with a knowledgeable local.

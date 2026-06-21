@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - street_art
+score: 7.8
 ---
 
 Since 2014 Borås has hosted an annual street-art festival called *No Limit*, which has left the city with one of the strongest collections of large-format murals in Scandinavia. Works are scattered across the central streets and along the river — most within a 15-minute walk of Stora Torget — by artists including Shepard Fairey, Pichi & Avo, Etam Cru, Vhils, and Yash. New pieces are added most years.

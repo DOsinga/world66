@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 51.0635
 longitude: -1.3186
+score: 6.9
 ---
 
 The Westgate is one of only two medieval city gates to survive in Winchester (the other being Kingsgate), and it has served as a debtor's prison, a house of correction, and — for the past century — a small museum. The gate dates from the 12th century in its lower portions, with later medieval additions above. The upper room, used as a prison until the 19th century, still has prisoners' graffiti scratched into the walls.

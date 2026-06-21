@@ -9,6 +9,7 @@ latitude: 24.7830
 longitude: 125.3680
 story: >
   The reef at Yoshino is shallow enough to snorkel without a boat, and close enough to shore that you can wade out and be among sea turtles within minutes of arriving. Turtles feed on the seagrass beds here year-round, making it one of the most reliable places in Japan for an in-water encounter.
+score: 8.6
 ---
 
 Yoshino Beach, on the east coast of Miyako Island, is the island's premier snorkelling spot. The fringing reef starts just metres from shore and the water over it is rarely more than two or three metres deep — ideal for snorkelling without a guide or boat. Giant clams, moorish idols, humphead parrotfish, and sea turtles are all regulars. Visibility on a calm day can exceed 30 metres.

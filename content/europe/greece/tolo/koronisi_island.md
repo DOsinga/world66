@@ -9,6 +9,7 @@ tags:
   - sight
   - swimming
 snippet: "Small uninhabited islets in the bay, reached by water taxi from the harbour"
+score: 6.9
 ---
 
 Three small islands sit in the bay opposite Tolo: tiny Daskalio with its whitewashed chapel, the larger pine-clad Romvi, and Koronisi between them. Caique water-taxis run from the village harbour throughout the day in summer, dropping passengers for an hour or three of swimming from rocks far quieter than the village beach.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.9225
 longitude: 11.5840
+score: 7.2
 ---
 
 The Paradies park runs along the west bank of the Saale river south of the city centre, a long green corridor of old trees, flower beds, and riverside paths. It is Jena's main public park and the place where the city comes to walk, run, and sit on summer evenings. The name (Paradise) is old, predating the city's industrial period, and the park has been maintained with something approaching its original character: shaded, calm, and pleasantly free of the noise of the city above.

@@ -9,6 +9,7 @@ tags:
   - museum
 story: >
   Thassos was founded by Phoenician colonists around 680 BC, according to tradition led by Kadmos in search of Europa. The island's gold mines made it one of the wealthiest poleis in the northern Aegean — the agora bears traces of this prosperity in the scale of its public buildings and the quality of its carved decoration.
+score: 8.2
 ---
 
 The excavated ancient agora in Limenas is one of the largest and best-preserved ancient market squares in the northern Aegean. Sculptures, inscriptions and column bases are still visible across a broad open space that was once the commercial and civic heart of the ancient city. The scale of what remains gives a real sense of how significant Thassos was in antiquity — this was not a minor island outpost but a prosperous polis with the buildings to prove it.

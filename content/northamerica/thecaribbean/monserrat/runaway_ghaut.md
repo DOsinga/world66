@@ -12,6 +12,7 @@ story: >-
   hand-painted sign at the roadside makes the promise explicit, and several
   generations of Montserratians who left during the eruptions say they have
   made a point of stopping here on their first visit back.
+score: 5.4
 ---
 
 A ghaut (pronounced "gut") in Montserrat dialect is a narrow ravine cut by a seasonal stream. Runaway Ghaut is the most famous of them — a small wooded gully crossed by the main north-island road just south of Woodlands, where a year-round spring trickles down to a stone collection basin at the roadside.

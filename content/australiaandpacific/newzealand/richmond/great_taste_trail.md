@@ -12,6 +12,7 @@ story: >
   the route. Several cellar doors along the way welcome cyclists, and the
   trail is designed so you can stop for lunch at a winery and continue
   without needing to be particularly serious about your cycling.
+score: 8.0
 ---
 
 The Great Taste Trail is a 174 km cycle trail that loops through the Tasman District, passing through Richmond and connecting Nelson, Mapua, Motueka, Kaiteriteri, and the Rabbit Island ferry crossing. It is one of New Zealand's Great Rides, meaning it is graded suitable for most reasonably fit riders — the terrain is mostly flat or gently rolling, following old railway corridors and coastal paths.

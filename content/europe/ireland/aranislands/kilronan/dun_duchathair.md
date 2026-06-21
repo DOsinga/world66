@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.1046
 longitude: -9.6876
+score: 8.4
 ---
 
 The Black Fort (Dún Dúchathair) is a promontory fort closer to Kilronan than Dún Aonghasa — closer to the ferry pier, in fact — but far less visited. Its walls run across a headland above the sea, cutting off the promontory from the rest of the island. The clifftop setting is as dramatically exposed as anything on Inis Mór, and the near-total absence of other visitors gives it a quality that Dún Aonghasa, magnificent as it is, cannot match in summer.

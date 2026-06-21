@@ -7,6 +7,7 @@ tags:
   - alsancak
 latitude: 38.4300
 longitude: 27.1390
+score: 7.5
 ---
 
 The First Kordon — Birinci Kordon — is the waterfront boulevard running through Alsancak, lined with palm trees, café terraces, and the continuous spectacle of the gulf. It is the northern extension of the Kordon promenade and has a somewhat more upmarket character than the southern section, with more formal restaurants and wine bars alongside the usual tea houses.

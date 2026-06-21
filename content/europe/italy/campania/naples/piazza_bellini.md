@@ -10,6 +10,7 @@ tags:
 - square
 title: Piazza Bellini Wine Bars
 type: poi
+score: 6.7
 ---
 
 Piazza Bellini is the drinking heart of the historic centre. Tables spill out from the surrounding bars and the atmosphere, especially in summer, is lively without being rowdy. The crowd skews young and local — students from the nearby university, artists, and Neapolitans who've been coming here for years. Order an Aperol spritz or a local wine and settle in.

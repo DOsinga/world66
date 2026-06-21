@@ -16,6 +16,7 @@ story: >
   the shape of the park, which retains the oval outline of the original track.
 sources:
   - https://en.wikipedia.org/wiki/The_Mall,_Armagh
+score: 6.9
 ---
 
 The Mall is Armagh's elegant central park — a long, tree-lined green flanked by Georgian townhouses, a courthouse, and the Royal Irish Fusiliers Museum. It was converted from a racecourse in the 1770s on the orders of Archbishop Richard Robinson, who considered horse racing incompatible with the civic dignity he was trying to give the city.

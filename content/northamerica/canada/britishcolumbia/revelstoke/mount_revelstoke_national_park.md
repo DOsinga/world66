@@ -12,6 +12,7 @@ story: >
   they could see from their front porches. The Meadows in the Sky Parkway was built in the
   1920s partly to give residents access to those meadows by automobile.
 snippet: Alpine national park above Revelstoke with wildflower meadows, old-growth cedar, and panoramic summit views
+score: 9.2
 ---
 
 Mount Revelstoke National Park wraps around the mountain that rises directly behind the town, offering a remarkable transition from Columbia River bottomlands to alpine tundra within a short drive. The park's signature experience is the **Meadows in the Sky Parkway**, a 26-kilometre road that climbs from near the Trans-Canada Highway to the summit ridge at 1,938 metres. In August the meadows are carpeted with alpine wildflowers — columbines, paintbrush, heather — and the views across the Columbia Valley and the Selkirk peaks are exceptional.

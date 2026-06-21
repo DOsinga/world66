@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.5012
 longitude: 97.6264
+score: 7.4
 ---
 
 The northernmost of the pagodas strung along the ridge above Mawlamyaing, Uzina Paya is less visited than Kyaikthanlan but arguably more attractive — a large gilded stupa surrounded by a series of terraced gardens and smaller shrines, with a serene reclining Buddha in one of the pavilions. The compound is well maintained and quietly busy with local worshippers throughout the day.

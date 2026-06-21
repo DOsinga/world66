@@ -11,6 +11,7 @@ tags:
   - bar
   - downtown
 story: "On 22 January 1934, a fire broke out in the third-floor laundry chute and forced two guests to climb down a fire-truck ladder for their luggage. The firemen recognised them from wanted posters: they were members of John Dillinger's gang. Tipped off, Tucson police arrested Dillinger himself that afternoon — the only time the FBI's most wanted bank robber was ever caught alive."
+score: 7.5
 ---
 
 The Hotel Congress is a 1919 railroad hotel across the street from the Amtrak station, and the centre of Tucson nightlife for nearly a century. The downstairs Tap Room and Cup Café have been continuously open since the 1930s; the Club Congress dance floor next door does live music most nights.

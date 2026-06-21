@@ -8,6 +8,7 @@ story: >
   The Saturn V rocket on display at the Space and Rocket Center is one of only three remaining in the world, and the only one displayed horizontally — allowing you to walk its full 363-foot length and look straight into the exhaust nozzles of its F-1 engines. Each of those five engines burned through 6,000 pounds of fuel per second and produced more thrust than all the jet engines in the world combined at the time of launch.
 sources:
   - https://en.wikipedia.org/wiki/U.S._Space_%26_Rocket_Center
+score: 9.6
 ---
 
 The U.S. Space and Rocket Center is the city's undisputed centerpiece and one of the great science museums in America. Built around the Marshall Space Flight Center's hardware collection, it traces the entire arc of the U.S. space program from the early days of Wernher von Braun's German-American rocket team through the Apollo missions, the Space Shuttle era, and current deep-space ambitions. The hardware is genuinely extraordinary — complete rocket engines, spacecraft, space suits, and vehicles you can walk around and touch.

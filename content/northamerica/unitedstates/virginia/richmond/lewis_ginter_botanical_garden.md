@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 37.6203
 longitude: -77.4827
+score: 7.8
 ---
 
 Richmond's finest green space, Lewis Ginter occupies 80 acres north of the city with a conservatory, extensive themed gardens, a children's garden, and a Victorian-era estate at its centre. The main conservatory is one of the largest domed glass conservatories in the eastern United States, housing tropical plants year-round. The seasonal gardens — cherry blossoms in spring, roses in summer, chrysanthemums in fall — draw crowds throughout the year.

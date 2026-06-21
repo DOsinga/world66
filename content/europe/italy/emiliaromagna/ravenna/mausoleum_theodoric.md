@@ -9,6 +9,7 @@ latitude: 44.4256
 longitude: 12.2078
 story: >
   The single slab of Istrian limestone that forms the roof of Theodoric's mausoleum weighs approximately 230 tons and is 10 metres in diameter — the largest monolithic dome in the ancient world. How it was transported from the quarries in Istria and raised into position without cracking is still not fully understood. It cracked eventually anyway: a fissure runs across it that, according to legend, appeared on the night Theodoric died in 526 AD.
+score: 8.4
 ---
 
 The Mausoleum of Theodoric stands on the northern outskirts of Ravenna, slightly removed from the other UNESCO monuments, and is worth the extra effort. Built around 520 AD for the Ostrogothic king who ruled Italy for three decades after the fall of the Western Roman Empire, it is architecturally unlike any other building of its era: a two-storey decagonal structure made entirely of large ashlar blocks of Istrian stone, with no mortar.

@@ -7,6 +7,7 @@ tags:
   - winter
 latitude: 48.105768
 longitude: 8.195194
+score: 6.8
 ---
 
 Schonwald lies within the network of cross-country ski trails that makes the central Black Forest one of the better Nordic skiing destinations in Germany. The village is connected to a broader trail system that extends through the surrounding forest, with prepared tracks when snow conditions allow — typically from December through February, though the season varies considerably from year to year.

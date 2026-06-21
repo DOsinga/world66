@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-03'
 latitude: 5.289
 longitude: -52.584
 title: Devil's Island

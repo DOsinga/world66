@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.0760
 longitude: 14.6758
+score: 7.8
 ---
 
 The eastern edge of the old town drops steeply off the limestone cliff to the sea far below, and the views from the wall-top path are the best in the settlement. On a clear day you can see across the Vinodol Channel to the Croatian mainland mountains, and south along the Kvarner Gulf toward the islands of Cres and Lošinj.

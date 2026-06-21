@@ -9,6 +9,7 @@ latitude: 41.4508
 longitude: 12.6356
 sources:
   - https://en.wikipedia.org/wiki/Paradiso_sul_mare
+score: 7.0
 ---
 
 This extraordinary Art Nouveau building — its name means "Paradise on the Sea" — rises above the Anzio seafront like something from a Symbolist painting. Designed by the Italian architect Cesare Bazzani in the early 20th century, the palace combines organic forms, maritime motifs, and ornate ironwork in a style that looks as if the sea itself had been persuaded to take architectural form.

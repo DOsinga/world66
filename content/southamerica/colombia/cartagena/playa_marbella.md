@@ -7,6 +7,7 @@ tags:
 - beach
 title: Playa Marbella
 type: poi
+score: 5.8
 ---
 
 Playa Marbella sits just north of the city walls on the Caribbean side, roughly 10 minutes on foot from the Las Bóvedas end of the walled city. It's used mainly by locals and is significantly less crowded than Bocagrande. The sand is cleaner and the water calmer than the main tourist beaches. Palms fringe the shore and there are a few simple beach bars selling cold beer and fried fish.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 41.6898
 longitude: -5.9458
+score: 8.4
 ---
 
 The Church of La Magdalena is considered by many architectural historians to be the finest Romanesque church in Zamora — an achievement in a city that has more than twenty. What makes it special is the exceptional quality of its carved decoration: the south portal, with its intricately carved archivolts (concentric mouldings around the door arch), is one of the outstanding pieces of Romanesque stone carving in Spain.

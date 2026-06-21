@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: 44.5100
 longitude: -69.9200
+score: 7.6
 ---
 
 "The Mountain" is the informal local name for a low forested hill on the western shore of Long Pond, set in the Kennebec Highlands conservation lands. A well-marked trail climbs from a small trailhead off Route 27 through hemlock and birch forest to a series of open ledges with views across Long Pond toward the village and beyond to Great Pond.

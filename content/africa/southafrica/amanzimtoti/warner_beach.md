@@ -7,6 +7,7 @@ tags:
 latitude: -30.085
 longitude: 30.862
 snippet: "Quieter swimming beach south of Amanzimtoti with a tidal pool"
+score: 6.4
 ---
 
 A small holiday town just south of Amanzimtoti centred on a sandy beach with a sheltered tidal pool. The atmosphere is more low-key than the main Toti beachfront — old beachfront houses, a few cafes, and a row of fishing rocks at the southern end. Lifeguards in season; the water is generally calm.

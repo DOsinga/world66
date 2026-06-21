@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "The parish church on the main square, rebuilt after fires and pirate raids"
+score: 6.6
 ---
 
 The parish church of Nuestra Señora de Guadalupe dominates the Plaza Mayor and is the oldest religious foundation on Lanzarote, established not long after the Norman conquest of the island in the early fifteenth century. The building you see today is the work of several rebuildings — fires in 1909 and 1939 destroyed the previous structures, and the current interior dates largely from the mid-twentieth century, although the bell tower preserves earlier stonework.

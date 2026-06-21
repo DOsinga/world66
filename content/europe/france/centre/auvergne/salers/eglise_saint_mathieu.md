@@ -11,6 +11,7 @@ story: >
   stone entombment of Christ with six figures surrounding the body. It survived
   the Revolution largely intact, hidden by locals. The Flemish tapestries in the
   nave were brought back by a local nobleman who fought in the Italian Wars.
+score: 7.8
 ---
 
 The collegiate church of Saint-Mathieu dominates the upper end of the village, its Romanesque tower visible from the road approaching town. The interior is more rewarding than the rather plain exterior suggests: the carved choir stalls, the polychrome entombment group, and the Flemish tapestries together make it one of the more interesting small churches in the Cantal.

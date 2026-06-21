@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - cafe
 story: "The basil-flavoured gelato — pale green, made from the local Genoese basil that also goes into the pesto — is the house signature. Alberto first served it in the 1990s as a curiosity and now sells out by mid-afternoon most summer days."
+score: 5.7
 ---
 
 A small gelato counter on Via Fieschi, well-known in the Cinque Terre for its inventive flavours: basil, Sciacchetrà wine, honey-and-walnut, and the standard fruit sorbets made from whatever was bought at the La Spezia market that morning.

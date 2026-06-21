@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: The history of one of France's great ports, in the old tobacco warehouse
+score: 7.8
 ---
 
 The Musée Portuaire occupies a converted 19th-century tobacco warehouse on the inner harbour — an appropriately industrial setting for a museum about the history of Dunkerque as a working port. The collection covers several centuries of maritime trade, from early navigation instruments and ship models to photographs of the great 20th-century industrial expansions that made Dunkerque one of France's three largest commercial ports.

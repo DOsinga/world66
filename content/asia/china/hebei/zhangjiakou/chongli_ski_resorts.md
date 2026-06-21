@@ -12,6 +12,7 @@ story: >
   athletes' village and competition venues were built at a scale that would have
   seemed absurd for a town of 120,000 — and now serve a constant stream of
   weekend skiers from Beijing, three hours away by fast train.
+score: 6.4
 ---
 
 The Chongli district, about ninety minutes northeast of Zhangjiakou city centre, was transformed by the 2022 Beijing Winter Olympics into the most developed ski area in China. Several large resorts operate on the slopes here — Thaiwoo, Genting Snow Park, and the older Fulong and Wanlong resorts — with a combined run count and lift infrastructure that has made Chongli genuinely competitive with mid-tier European destinations.

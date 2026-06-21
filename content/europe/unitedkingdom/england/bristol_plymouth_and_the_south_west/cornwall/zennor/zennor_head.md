@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature]
 latitude: 50.1980
 longitude: -5.5740
 story: Pendour Cove, immediately below Zennor Head, is the cove where the Mermaid of Zennor legend is set — and local fishermen once reported seeing her surface here to call for her lost chorister, a story still taken seriously enough in the 18th century to be recorded in parish records.
+score: 7.9
 ---
 
 Zennor Head is the dramatic promontory above the village, reached by a 20-minute walk along the South West Coast Path. The headland is managed by the National Trust and the path winds through coastal heathland — gorse, heather, sea campion — to the exposed point with sheer granite cliffs dropping to the Atlantic below.

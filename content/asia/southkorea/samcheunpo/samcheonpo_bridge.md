@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Long cable-stayed bridge across the strait to Changseon Island
+score: 7.4
 ---
 
 The Samcheonpo Bridge — actually a chain of five separate bridges connecting Sacheon to Namhae Island via the smaller islands of Choyang, Neukdo, and Changseon — opened in 2003 and is one of South Korea's more dramatic stretches of coastal road. The longest of the five spans is the cable-stayed Changseon-Samcheonpo Bridge, with two pylons rising 100 metres above the strait.

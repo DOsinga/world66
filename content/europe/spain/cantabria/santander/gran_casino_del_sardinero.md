@@ -16,6 +16,7 @@ story: >
   entertainment and dancing in the north, and the ballroom survived largely
   intact — its belle époque excess somewhat at odds with the austerity of the
   dictatorship that surrounded it.
+score: 7.1
 ---
 
 The Gran Casino del Sardinero is the architectural centrepiece of El Sardinero, sitting on a rise above the beach with a theatrical combination of Baroque excess and seaside confidence. Built in its current form in 1930 on the site of an earlier casino, it features an ornate façade, a grand entrance hall, and a first-floor terrace that surveys the full length of the beach. It is still a functioning casino, but it also operates as a theatre and events venue — the main hall hosts concerts and productions through the year.

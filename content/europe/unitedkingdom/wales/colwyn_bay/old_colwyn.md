@@ -7,6 +7,7 @@ tags:
 latitude: 53.2962
 longitude: -3.7077
 snippet: The original village from which the resort grew, now a quieter suburb
+score: 5.5
 ---
 
 Before the railway brought tourists to the bay in the 1860s, the only settlement here was a small farming village inland — Old Colwyn (*Hen Golwyn*). It sits a couple of miles east of the modern town centre, on rising ground above the coast. The high street has a handful of pubs, an antique shop or two and St John's church, an attractive small 19th-century building.

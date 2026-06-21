@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.0978
 longitude: 119.1117
+score: 6.6
 ---
 
 East Beach on Meizhou Island's seaward side is a clean stretch of sand backed by low dunes and facing the open sea. The water is generally calm in summer and the beach sees relatively few visitors compared to the temple — the majority of pilgrims who come to the island never make it this far. This makes it an unexpectedly peaceful place to spend time between visits to the religious complex.

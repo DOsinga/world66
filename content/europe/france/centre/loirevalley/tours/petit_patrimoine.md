@@ -7,6 +7,7 @@ tags:
 - eating_out
 title: Le Petit Patrimoine
 type: poi
+score: 5.9
 ---
 
 A popular dinner spot on rue Colbert, known for solid traditional cooking in a room that fills up quickly. Worth booking.

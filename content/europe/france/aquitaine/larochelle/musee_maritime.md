@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 46.1551
 longitude: -1.1480
+score: 7.7
 ---
 
 The Musée Maritime is not a building but a collection of historic ships moored on the Bassin des Chalutiers, the inner basin south of the Vieux Port. The flagship is the France I, a 1958 weather-station ship that lived for years on station in the North Atlantic. Around it are a 1950s trawler, a tug, a sailing yacht, and several smaller working boats. You can go aboard most of them.

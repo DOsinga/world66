@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.367
 longitude: 6.806
+score: 6.6
 ---
 
 La Grande Casse is the highest summit of the **Vanoise massif** at 3,855 metres, the unmistakable pyramid you can see to the east from the upper Courchevel pistes. It is a serious alpine peak, glaciated on its northern flank, and requires rope, crampons and ideally a guide if you want to climb it.

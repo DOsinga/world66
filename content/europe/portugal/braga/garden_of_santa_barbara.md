@@ -9,6 +9,7 @@ tags:
   - garden
 title: "Garden of Santa Bárbara"
 type: poi
+score: 7.0
 ---
 
 The Garden of Santa Bárbara is a small, formal garden set against the medieval wall of the Archbishop's Palace — one of the most photographed spots in Braga, and deservedly so. Box hedges cut into precise geometric shapes, fountains, and rose beds fill the space between the old stone wall and the road, with a statue of the humanist scholar Diogo de Sousa at the centre.

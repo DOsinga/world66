@@ -7,6 +7,7 @@ tags:
 latitude: 50.7087
 longitude: -119.1383
 snippet: "A volunteer-run cross-country ski and mountain bike area in the hills east of Salmon Arm."
+score: 6.8
 ---
 
 Larch Hills Nordic is a community-run trail network about 20 kilometres east of Salmon Arm, sitting at an elevation that reliably holds snow from December into March. The ski trails are groomed for both classic and skate skiing, and the system is large enough — around 50 kilometres of trail — to keep a competent skier busy for a full day. It's not a resort; there's a warming hut and a small day lodge but no lifts, no rentals, and no snowmaking. Bring your own gear and expect a quiet Nordic experience.

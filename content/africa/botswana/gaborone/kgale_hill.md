@@ -11,6 +11,7 @@ story: >
   The BBC television adaptation of Alexander McCall Smith's The No. 1 Ladies' Detective Agency was filmed at the base of Kgale Hill, and locals took to calling the production set "Kgalewood." The hill's Setswana name, meaning "The Place that Dried Up," contrasts with the surprisingly lush vegetation found in its gullies, where leopards have been spotted resting in the rocky outcrops.
 sources:
   - https://en.wikipedia.org/wiki/Kgale_Hill
+score: 7.0
 ---
 
 Kgale Hill — known locally as the Sleeping Giant — rises to 1,287 metres above sea level at the western edge of Gaborone and is the city's best hiking destination. Three trails lead to the summit, with the main route taking about an hour from the base. The views from the top extend across the city and surrounding savannah, giving a clear sense of how dramatically Gaborone has expanded since independence.

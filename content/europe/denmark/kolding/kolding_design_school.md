@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 55.4863
 longitude: 9.4803
+score: 5.9
 ---
 
 The Kolding School of Design (Designskolen Kolding) is one of Denmark's leading design schools and occupies a striking building near the fjord that reflects the city's investment in design as an identity. The school runs degree programmes in graphic design, fashion, interaction design, and industrial design, and its students and alumni have contributed to Kolding's small but genuine reputation as a place where design matters.

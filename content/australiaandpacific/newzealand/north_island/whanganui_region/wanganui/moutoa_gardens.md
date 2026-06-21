@@ -9,6 +9,7 @@ latitude: -39.93180
 longitude: 175.05680
 story: >
   Moutoa Gardens became the centre of a 79-day occupation by Māori protesters in 1995, who reclaimed the site under its Māori name Pākaitore and disputed its historical significance as a colonial monument rather than a place of Māori history. The occupation drew national attention to Treaty of Waitangi land claims in the region. The memorial to European settlers that stands in the park was the focus of the dispute; a carved pou (post) has since been added to represent the Māori perspective.
+score: 6.8
 ---
 
 Moutoa Gardens (Pākaitore) is a small riverside park in the city centre with layered significance — to Pākehā settlers as a public garden and memorial to an 1864 battle, to local Māori (Whanganui iwi) as a site of deep historical importance that long predates European arrival. The gardens are pleasant to walk through, with large trees and river views.

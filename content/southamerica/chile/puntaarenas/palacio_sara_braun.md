@@ -8,6 +8,7 @@ tags:
   - architecture
   - historic_house
 story: "The marble fireplaces, parquet floors and stained glass were all shipped in pieces from France between 1894 and 1905; the architect, Numa Mayer, never set foot in Patagonia and worked entirely from drawings and letters."
+score: 7.5
 ---
 
 The **Palacio Sara Braun** is the grandest of the merchant palaces, built between 1894 and 1905 for the Russian-born widow of José Nogueira, who at the time was probably the richest woman in Chile. Sara Braun ran the family sheep estancias, shipping lines and import houses for decades after her husband's death, and the house was conceived to make that wealth visible: French Second Empire on the outside, all gilded panelling and marble inside.

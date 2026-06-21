@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -43.2915
 longitude: -65.4983
+score: 7.3
 ---
 
 The Chubut River valley around Gaiman is surprisingly green given the arid steppe that surrounds it. The irrigated valley floor supports willows, poplars, and smallholdings that look entirely out of place in the Patagonian context — which was, of course, the point. The settlers chose the valley specifically because it could be irrigated from the river.

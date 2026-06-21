@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.9605
 longitude: 14.3404
+score: 6.1
 ---
 
 A small steep-sided cove on the west of the Marfa peninsula, Anchor Bay is dominated by the wooden buildings of Popeye Village climbing up one side. The bay itself is pretty in its own right — a narrow inlet between cliffs, with clear deep water and a small pebble beach.

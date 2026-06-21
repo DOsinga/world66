@@ -15,6 +15,7 @@ story: >
   produce each sound — making Hangeul one of the most linguistically scientific
   writing systems ever created. Officials of the Joseon court resisted it for
   decades, seeing it as a threat to the learned elite's monopoly on writing.
+score: 7.4
 ---
 
 The National Hangeul Museum near the National Museum of Korea tells the story of Korea's unique writing system: its invention by King Sejong in the fifteenth century, its suppression during the Japanese colonial period, and its development into the modern alphabet used by 80 million people. The permanent collection includes manuscript examples, printing blocks, and interactive displays explaining the phonological principles behind the alphabet's design.

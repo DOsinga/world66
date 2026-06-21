@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 15.2969
 longitude: -61.3880
+score: 6.4
 ---
 
 The Bayfront, also called Dame Eugenia Charles Boulevard, is the long waterfront strip that runs along the western edge of central Roseau. The promenade was rebuilt after Hurricane Maria with a new sea wall, low railings, palms, and a row of benches looking out across the Caribbean — a pleasant 15-minute walk that takes in the Cruise Berth, the Dominica Museum, the Old Market and Fort Young.

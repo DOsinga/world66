@@ -8,6 +8,7 @@ latitude: 33.6414
 longitude: -117.8855
 story: >
   Upper Newport Bay is one of the last remaining coastal wetlands in Southern California — most of the others were filled and developed in the 20th century. It survived because a coalition of conservationists fought a proposed marina development in the 1960s and 1970s. It is now one of the most important stops on the Pacific Flyway, hosting over 200 species of birds.
+score: 8.2
 ---
 
 Upper Newport Bay is a large coastal wetland estuary on the southern edge of Costa Mesa, separated from the developed Newport Harbor by a narrow channel. It is a significant nature reserve and one of the best birdwatching spots in Southern California. The surrounding bluffs and marshes attract migrating shorebirds, ducks, and raptors throughout the year.

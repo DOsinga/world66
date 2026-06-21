@@ -8,6 +8,7 @@ latitude: 67.8833
 longitude: 12.9833
 sources:
   - https://en.wikipedia.org/wiki/Lofoten_Stockfish_Museum
+score: 7.7
 ---
 
 The Lofoten Tørrfiskmuseum in Å tells the story of stockfish — cod hung and dried on outdoor wooden racks (hjell) in the cold, steady Arctic wind — from the Viking age to the present day. The process sounds simple but it takes months and requires the right combination of temperature and air movement that only the Lofoten winter reliably provides.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.8700
 longitude: -122.2700
+score: 9.1
 ---
 
 The Berkeley Art Museum and Pacific Film Archive occupies a striking 2016 building on Center Street, designed by Diller Scofidio + Renfro. It combines an art museum with a repertory cinema and one of the most significant film archives in the world — the Pacific Film Archive holds around 18,000 films and videos, including the largest collection of Japanese cinema outside Japan.

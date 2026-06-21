@@ -7,6 +7,7 @@ tags:
 latitude: 50.9375
 longitude: 6.9553
 snippet: Major art museum with European paintings from the medieval period to the early 20th century
+score: 8.8
 ---
 
 The Wallraf-Richartz-Museum is the oldest museum in Cologne and houses one of Germany's finest collections of European painting, spanning from the medieval Cologne School of the 14th century through to French Impressionism. The medieval German masters are a particular strength — there are few better collections of Gothic panel painting in the world — but the later rooms hold Rembrandt, Rubens, and a strong group of Impressionist works including pieces by Monet, Renoir, and Cézanne.

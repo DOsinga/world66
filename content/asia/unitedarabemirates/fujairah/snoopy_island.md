@@ -16,6 +16,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Snoopy_Island
   - https://www.dubaicitytourism.com/snoopy-island/
+score: 8.4
 ---
 
 Snoopy Island is a small rocky outcrop in the Gulf of Oman, just 200 metres offshore from Al Aqah Beach in northern Fujairah. It is the best snorkelling spot in the UAE — the waters around the island are clear, relatively deep, and thick with marine life. Reef fish, sea turtles, moray eels, and the occasional small shark are all regularly encountered. The island itself is accessible by a short swim or kayak from the beach.

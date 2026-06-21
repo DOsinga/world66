@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.7667
 longitude: 46.0
+score: 7.2
 ---
 
 The Alazani Valley is the agricultural heart of Kakheti — a broad, flat plain between the Greater Caucasus to the north and the Tsiv-Gombori ridge to the south. In autumn, when the harvest is underway, it is one of the most atmospheric landscapes in Georgia: the vines turn gold and red, the air smells of fermenting grapes, and every village with a winery is in motion.

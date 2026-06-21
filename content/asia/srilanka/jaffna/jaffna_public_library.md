@@ -14,6 +14,7 @@ story: >
   attack and remains one of the defining grievances of the Tamil community. The rebuilt library,
   completed in 2003, is identical in appearance to the original: a pointed white building
   in the Indo-Saracenic style, rising above Jaffna's seafront like a declaration of intent.
+score: 8.4
 ---
 
 The Jaffna Public Library was, before its destruction in 1981, one of the largest libraries in South Asia, housing nearly 100,000 volumes including ancient Tamil manuscripts and irreplaceable colonial records. The 1981 burning was an act of cultural destruction that remains one of the deepest wounds in Sri Lanka's ethnic conflict. The rebuilt library opened in 2003 and looks identical to the original — a white Indo-Saracenic building with a distinctive pointed roof and arched verandahs.

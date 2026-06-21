@@ -12,6 +12,7 @@ story: >
   The Arena of Nîmes was built around 70 AD, roughly the same era as the Colosseum in Rome, but in one important way it outshines its famous cousin: it never stopped being used. After the fall of Rome, Visigoths converted it into a fortress; later a walled town of 700 houses grew up inside the oval, complete with a church. The last residents weren't removed until 1809.
 sources:
   - https://en.wikipedia.org/wiki/Arena_of_N%C3%AEmes
+score: 9.2
 ---
 
 The Arena of Nîmes (*Arènes de Nîmes*) is among the best-preserved Roman amphitheatres in existence — better preserved, in some respects, than the Colosseum itself. Built around 70 AD to seat some 24,000 spectators, it stands at the southern edge of the old town and still functions as an entertainment venue: bullfights (*corridas*) fill it in spring and autumn, and concerts take place through the summer months.

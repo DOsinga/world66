@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.2300
 longitude: 18.9800
+score: 5.9
 ---
 
 The Igrište ski area sits in the hills above Vlasenica, a modest winter sports facility serving the local population and visitors from the surrounding towns. The terrain is gentle by Alpine standards — this is not Jahorina — but it functions as a proper ski centre with lifts and ski runs, and in a good snow year it offers a perfectly reasonable day on skis.

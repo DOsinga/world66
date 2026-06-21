@@ -14,6 +14,7 @@ story: >
   the same form of shelter their ancestors used. The yak-butter tea they offer to visitors is
   an acquired taste — salty, fatty, and more nourishing than refreshing — but refusing it is
   considered impolite.
+score: 6.8
 ---
 
 The Sangke grasslands open out twelve kilometres west of Xiahe, a broad high-altitude pasture at around 3,000 metres where nomadic Tibetan families graze yaks and sheep through the summer months. The landscape is simple and immense — green hills rolling to the horizon, the Daxia River glinting below, the air thin enough that the colours look slightly oversaturated. Horses are available for hire, and a ride into the hills away from the road and the tourist cluster near the entrance gives you access to a much quieter version of the place.

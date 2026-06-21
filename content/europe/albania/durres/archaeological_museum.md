@@ -10,6 +10,7 @@ story: >
   The museum holds a remarkable collection of Illyrian, Greek, and Roman artefacts from the Durrës region. Among the most interesting objects are the Illyrian helmets — a distinctive type developed along this coast, with a characteristic wide brim, that was traded across the Mediterranean and eventually influenced Roman military design.
 sources:
   - https://en.wikipedia.org/wiki/Durr%C3%ABs
+score: 7.8
 ---
 
 The Archaeological Museum of Durrës is one of the better archaeological collections in Albania, holding material from the Greek colonial city of Epidamnos, the Roman city of Dyrrachium, and the Illyrian settlements that preceded both. The collection covers roughly 2,500 years of continuous occupation on this stretch of the Adriatic coast.

@@ -9,6 +9,7 @@ tags:
 - outdoors
 title: Island Activities
 type: poi
+score: 6.4
 ---
 
 Hilton Head is a twelve-mile barrier island with 19 miles of hard-packed sandy beach. Wildlife is part of daily life here — dolphins surface close to shore, alligators sun themselves by lagoons, and the tree canopy of palmetto, live oak, and pine is thick enough to shade most of the roads.

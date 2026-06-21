@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The museum's most famous piece is the Staurothek, a tenth-century Byzantine reliquary in gold and enamel that was looted from Constantinople by crusaders in 1207 and somehow ended up in Limburg, where it has remained for eight hundred years."
+score: 8.1
 ---
 
 The Diözesanmuseum, set in a historic building right next to the cathedral, holds the treasury of the Diocese of Limburg. It is a small museum but punches well above its weight, with reliquaries, illuminated manuscripts and liturgical objects spanning more than a thousand years.

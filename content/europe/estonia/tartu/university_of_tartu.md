@@ -6,6 +6,7 @@ tags:
 - landmark
 title: University of Tartu
 type: poi
+score: 8.7
 ---
 
 Founded in 1632 by Swedish king Gustav II Adolf, the University of Tartu is one of the oldest universities in northern Europe and the intellectual center of Estonia. The main building on Ülikooli Street, built in 1809 in Classicist style, opens to visitors who can see the university art museum, the library, the restored 18th-century lecture hall, and the famous Student Lock-Up in the attic.

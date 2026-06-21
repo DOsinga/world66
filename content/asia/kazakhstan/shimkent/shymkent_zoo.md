@@ -6,6 +6,7 @@ longitude: 69.6281
 tags:
   - things_to_do
   - sight
+score: 5.3
 ---
 
 The largest zoo in the south of Kazakhstan, in the northern suburbs of Shymkent. The collection runs to around 1,500 animals, with the emphasis on Central Asian wildlife — snow leopards, Asian lions, saiga antelope, ibex, vultures — alongside the usual lions, tigers and elephants.

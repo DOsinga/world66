@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.2826
 longitude: -76.5999
+score: 7.5
 ---
 
 Charleston is Baltimore's most celebrated fine dining restaurant, located in the Harbor East neighbourhood at the edge of Fells Point. Chef Cindy Wolf has been cooking Low Country and French-influenced cuisine here since 1997, and the consistency has made it a fixed point in a city where serious restaurants come and go. The tasting menu is the point — seafood-heavy, technique-driven, and about as far from the city's famous no-frills aesthetic as you can get without leaving Maryland.

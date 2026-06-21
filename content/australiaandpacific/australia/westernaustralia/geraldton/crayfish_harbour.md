@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -28.7744
 longitude: 114.6078
+score: 5.8
 ---
 
 Geraldton is the crayfish capital of Western Australia, and during the season — roughly mid-November through June — you can buy live western rock lobsters directly from fishing boats and processing facilities at the harbour for a fraction of what you would pay anywhere else in Australia. The going rate fluctuates with the catch, but a decent-sized cray (around 600-700g) is usually significantly cheaper here than in Perth or Sydney.

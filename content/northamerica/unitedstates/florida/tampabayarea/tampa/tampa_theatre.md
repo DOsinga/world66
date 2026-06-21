@@ -10,6 +10,7 @@ longitude: -82.4589
 snippet: One of the last surviving 1920s movie palaces in the US — a Floridian Moorish-Spanish-Persian dreamscape
 story: >
   The Tampa Theatre was saved from demolition in 1977 when the city of Tampa purchased it for $1.8 million — it had been scheduled for conversion to a parking garage. The Wurlitzer organ installed at the theatre's opening in 1926 still works and is played before screenings. The theatre's founder, John Eberson, designed it as an "atmospheric" cinema — meant to give audiences the feeling of sitting in an open-air Spanish courtyard under a night sky, complete with twinkling stars in the ceiling.
+score: 8.3
 ---
 
 The Tampa Theatre, opened in 1926, is one of the finest surviving movie palaces in the United States and one of Tampa's most extraordinary buildings. The interior is an extravagant confection: ornate plasterwork, Moorish arches, Spanish colonial details, Florentine statuary, gargoyles, and a ceiling painted to simulate a Mediterranean night sky complete with projected stars. The architect John Eberson described his design philosophy as "atmospheric" — creating the illusion of watching a film outdoors in a magical southern European courtyard.

@@ -6,6 +6,7 @@ longitude: 2.9300
 tags:
 - things_to_do
 - architecture
+score: 5.8
 ---
 
 A striking modern building in the Ouled Fayet district, opened in 2016 as a gift from the Chinese government. The design is unmistakably Chinese — sweeping curved rooflines and a massive scale — which makes it one of the more unexpected landmarks in a city otherwise dominated by Ottoman and French colonial architecture.

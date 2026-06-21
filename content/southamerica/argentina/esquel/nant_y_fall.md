@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A chain of seven small waterfalls near Trevelin, on a single forest walking trail
+score: 6.9
 ---
 
 A series of seven waterfalls on the same Welsh-named tributary stream south of [Trevelin](/southamerica/argentina/esquel/trevelin), all linked by a single well-marked trail through native lenga and nire forest. The full loop is about three hours; shorter versions reach the first or third cascade only.

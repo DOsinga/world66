@@ -3,22 +3,6 @@ title: "Getting There"
 type: section
 ---
 
-** Getting away**
+Yangon International Airport (RGN) handles all international flights to and from Myanmar. It lies about 19 km northwest of downtown. A taxi from the airport to central Yangon costs around US$8–12 and takes 30–45 minutes, depending on traffic. Agreed-rate prepaid taxis are available from the arrivals hall. Most international flights connect through Bangkok, Singapore, or Kuala Lumpur.
 
-** To the East / Bago**
-
- The morning train to Bago costs 2 US$ and takes 2 hours. Buy your tickets the day before in the Myanmar Railway booking Office on Bogyoke Aung San street right across 33rd street. From Bago you can get to Golden Rock (see Bago chapter). You can also hire a taxi to Bago for 6 US$ (1.30 hours).
-
-**  Going North / Mandalay
-
- By plane**
-
- The trip costs between 100 and 150 US$ 
-
-** By train**
-
- For the night train you'll pay an incredible 45 US$ including a hard sleeper.
-
-**  By bus**
-
- You can take the night bus with Leo Express company (under the Aung San stadion near upper Pansodan street, tel. 01-249512) to Mandalay. It leaves at 5 pm and arrives at 8-9 am, price is only 6 US$. The bus stops 3 times during the night. food is included in the ticket.
+There are no international rail connections. Bus services run to Mandalay (about 9 hours) and Bagan (12 hours overnight) from the Aung Mingalar Bus Terminal on the eastern edge of the city. Domestic flights to Mandalay, Bagan, Inle Lake, and other destinations are available from Yangon International Airport and are competitive in price with the buses.

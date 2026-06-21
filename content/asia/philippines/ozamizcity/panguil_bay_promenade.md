@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 8.147018
 longitude: 123.845979
+score: 6.2
 ---
 
 The bayfront promenade is where Ozamiz residents go to watch the day end. Panguil Bay stretches north toward the mountains of Lanao del Norte, and on clear evenings the view across the water takes in ridgelines that seem to go on forever. The light at dusk is excellent — the kind of golden hour that photographers chase — and the bay breeze makes the heat bearable.

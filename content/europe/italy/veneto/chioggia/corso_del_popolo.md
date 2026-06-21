@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.2196
 longitude: 12.2789
+score: 8.6
 ---
 
 The Corso del Popolo runs the full length of Chioggia, north to south, between the two arms of the canal that almost ring the old town. It is the city's spine — a wide pedestrianised street lined with cafes, gelaterias, fishmongers, and arcaded ground-floor shops.

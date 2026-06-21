@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 1.0667
 longitude: 9.6500
+score: 6.6
 ---
 
 The primary reason most travellers come to Acalayong is to cross the Muni Estuary into Gabon. Pirogues — dugout canoes, some fitted with outboard motors — make the crossing from Acalayong's shoreline to Cogo on the Gabonese side, and from there onward into northern Gabon. It is one of the more obscure land-border crossings in Central Africa, and the process is informal enough that procedures vary: check with the Equatorial Guinea border officials in town before arranging a boat.

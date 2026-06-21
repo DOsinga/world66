@@ -7,6 +7,7 @@ tags:
   - jabal_al_luweibdeh
 latitude: 31.9560
 longitude: 35.9260
+score: 7.2
 ---
 
 Shams el Balad is one of the best farm-to-table restaurants in Amman, run from a converted stone villa in Luweibdeh and focused on Jordanian ingredients sourced from small local producers. The menu changes with the seasons and emphasises the vegetables, herbs, and grains of the Jordanian highlands and the Jordan Valley — makdous (oil-cured aubergines), muhammar (sweet-spiced rice), regional olive oils, and herb combinations not commonly found on restaurant menus.

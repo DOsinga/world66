@@ -6,6 +6,7 @@ longitude: -98.4866
 tags:
   - eating_out
   - restaurant
+score: 5.1
 ---
 
 The default special-occasion restaurant downtown, Minerva's is a regional South Dakota chain that does a credible job with steaks, chops, and a long list of pastas. The dining room is dark wood and quiet enough for conversation; service is genuinely warm in the local style.

@@ -7,6 +7,7 @@ snippet: Saxon guild and merchant life in a restored 19th-century townhouse
 tags:
 - things_to_do
 - museum
+score: 7.5
 ---
 
 Tucked just off Piata Sfatului, the Muzeul Civilizatiei Urbane occupies a beautifully restored Saxon merchant's house and reconstructs daily life in the city across four centuries. Rooms are set up by period and trade — a pewter-smith's workshop, a 19th-century parlour, a tailor's, an apothecary — using objects from Brasov families and the guilds that ran the town.

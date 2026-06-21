@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 48.6553
 longitude: -122.4886
+score: 8.8
 ---
 
 Larrabee State Park, about 12 km south of Bellingham on Chuckanut Drive, is Washington's first state park — established in 1915 — and still one of the best. It covers nearly 2,500 acres of forested sandstone bluffs dropping directly into Samish Bay, with tide pools, sea caves, two small lakes, and over 20 km of hiking trails ranging from easy waterfront walks to strenuous climbs up the Chuckanut ridge.

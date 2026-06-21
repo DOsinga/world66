@@ -6,6 +6,7 @@ tags: [things_to_do, museum]
 latitude: 54.4854
 longitude: -0.6217
 story: "Among the holdings is the so-called Hand of Glory — a mummified human hand once carried by burglars who believed candles made from a hanged man's fingers would render sleeping householders unable to wake. It is the only confirmed example in Britain."
+score: 8.1
 ---
 
 Whitby Museum has been run by the Whitby Literary and Philosophical Society since 1823 and still has the unreconstructed feel of a Victorian cabinet of curiosities. The collections are an eccentric joy: dinosaur and ichthyosaur fossils from the local Jurassic coast, Captain Cook material, ship models, Whitby jet jewellery, a Roman milestone, and a famous "Hand of Glory" — a real mummified hand once supposedly used by burglars.

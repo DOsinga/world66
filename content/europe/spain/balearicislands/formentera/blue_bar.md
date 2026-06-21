@@ -7,6 +7,7 @@ tags:
 latitude: 38.6809
 longitude: 1.4809
 snippet: "The island's legendary sunset beach bar on Platja de Migjorn, with chill-out music and sea views"
+score: 5.9
 ---
 
 Blue Bar has been operating on Platja de Migjorn long enough to have accumulated a genuine reputation rather than just a social media one. The formula is not complicated: a simple wooden structure on the beach, cold drinks, and a sound system playing ambient and chill-out music as the sun drops toward the horizon. What makes it work is the setting — Migjorn faces west, giving clear sightlines to the sunset, and the bar is positioned to take full advantage of this fact.

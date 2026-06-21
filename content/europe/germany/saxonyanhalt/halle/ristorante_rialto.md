@@ -8,6 +8,7 @@ tags:
 snippet: Italian restaurant on Halle's market square
 title: Ristorante Rialto
 type: poi
+score: 4.7
 ---
 
 Italian restaurant on the Marktplatz with a fine view of Halle's famous five towers. Good for pizza and pasta after a stroll around the market square.

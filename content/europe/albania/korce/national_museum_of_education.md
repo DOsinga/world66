@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The museum occupies the original 1887 building of Mësonjëtorja, the first school in the Albanian language. Until that year, schooling in Ottoman Albania was conducted in Greek, Turkish, or Italian — opening an Albanian-language school was a political act, and the building was raided by Ottoman authorities within months of opening."
+score: 7.7
 ---
 
 A small but historically important museum housed in the original Mësonjëtorja — the first school to teach in the Albanian language, founded in 1887. The building itself is the main exhibit: restored classrooms with period desks, blackboards, and didactic materials.

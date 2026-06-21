@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.8492
 longitude: -4.2049
+score: 7.1
 ---
 
 Glasgow's two football clubs — Celtic and Rangers — define much of the city's social and cultural life in ways that require explanation to outsiders. The Old Firm rivalry between them is one of the most intense in world football, historically loaded with sectarian division (Celtic traditionally Catholic and Irish-descended, Rangers Protestant and unionist) though this dimension has diminished significantly in recent decades.

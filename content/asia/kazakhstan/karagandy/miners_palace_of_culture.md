@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Miners' Palace of Culture
 type: poi
+score: 6.8
 ---
 
 The Miners' Palace of Culture is one of the grandest buildings in Karagandy — a Soviet cultural centre built in the full flush of Stalinist ambition, with a columned facade, high ceilings, and the kind of proportions that were meant to make individuals feel both inspired and small. It was built to provide workers with theatre, cinema, concerts, and lectures; to be the cultural heart of a model Soviet industrial city.

@@ -8,6 +8,7 @@ latitude: 42.4800
 longitude: 44.4800
 sources:
   - https://en.wikipedia.org/wiki/Georgian_Military_Highway
+score: 8.2
 ---
 
 The Georgian Military Highway is the historic road linking Tbilisi to the Russian border through the Greater Caucasus. The 150-kilometre drive from Tbilisi to Kazbegi climbs through increasingly dramatic scenery — the Ananuri reservoir, the ski resort of Gudauri, the Jvari Pass at 2,379 metres, and finally the plunge down into the Terek valley.

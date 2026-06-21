@@ -7,6 +7,7 @@ tags:
 - activities
 title: Elephant Encounters
 type: poi
+score: 4.1
 ---
 
 Chitwan's government-run elephant breeding center at Sauraha offers elephant encounters, and some operators still run elephant-back safaris into the park. Be aware that animal welfare organizations widely discourage riding elephants, and the practice is declining across Nepal. Walking safaris and jeep safaris are better alternatives for wildlife viewing — you'll see just as much, often more, without the ethical baggage.

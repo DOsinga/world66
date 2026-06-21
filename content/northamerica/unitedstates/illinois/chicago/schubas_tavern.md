@@ -8,8 +8,9 @@ latitude: 41.9396
 longitude: -87.6634
 snippet: "Intimate indie music venue in a converted Schlitz brewery"
 tags:
-- nightlife
-- live_music
+- bars_and_cafes
+- bar
+score: 7.0
 ---
 
 A beloved small music venue in a converted Schlitz brewery tied house. The back room hosts singer-songwriters and indie acts in an intimate setting, while the front bar is a neighborhood hangout in its own right. The adjacent Harmony Grill serves a solid weekend brunch.

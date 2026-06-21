@@ -11,6 +11,7 @@ tags:
 - church
 title: Church of Sant'Irene
 type: poi
+score: 7.5
 ---
 
 The Church of Sant'Irene dei Teatini stands just off Piazza Sant'Oronzo, Lecce's central square. Built between 1591 and 1639 by the Theatine order, it served as the city's cathedral before the current one took over. The facade is restrained by Lecce's exuberant standards, but step inside and the interior delivers the full Baroque experience: gilded altars, elaborate side chapels, and carved stone details in the soft local limestone that Lecce is famous for. Look for the large painting of Sant'Irene protecting the city, which dominates the nave.

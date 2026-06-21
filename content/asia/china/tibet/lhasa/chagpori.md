@@ -8,6 +8,7 @@ tags:
 - viewpoint
 title: Chagpori
 type: poi
+score: 7.1
 ---
 
 Chagpori, the "Iron Mountain", is the small rocky hill directly opposite the Potala, separated from it by a saddle now crossed by Beijing Middle Road. Until 1959 the summit was occupied by the Mentsikhang, the Tibetan Medical College founded in 1696 — the building was shelled during the Lhasa uprising and never rebuilt. A radio mast stands in its place.

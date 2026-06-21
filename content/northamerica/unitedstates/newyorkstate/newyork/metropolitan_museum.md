@@ -15,6 +15,7 @@ story: >
   would constitute one of the world's great museums on its own. The Met Cloisters, a separate
   branch in northern Manhattan, holds the medieval European collection in a building assembled
   from actual pieces of French medieval monasteries.
+score: 9.8
 ---
 
 The Metropolitan Museum of Art, on the Upper East Side facing Central Park, is the best general art museum in the United States and among the half-dozen best in the world. Its collection spans 5,000 years of art history from every culture and continent — Egyptian antiquities, Greek and Roman sculpture, Islamic arts, European paintings from the medieval period through the 20th century, American art, arms and armour, musical instruments. The scale is genuinely overwhelming.

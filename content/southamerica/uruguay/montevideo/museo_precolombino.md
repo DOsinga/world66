@@ -7,6 +7,7 @@ tags:
   - ciudad_vieja
 latitude: -34.9075
 longitude: -56.2103
+score: 7.7
 ---
 
 The Museo de Arte Precolombino e Indígena in the Ciudad Vieja holds a strong collection of pre-Columbian and indigenous art covering the Andean civilisations as well as the indigenous peoples of Uruguay and the Rio de la Plata region. It's a small but well-curated museum in a historic building, and it provides useful context for anyone travelling on to Bolivia, Peru, or the Inca sites.

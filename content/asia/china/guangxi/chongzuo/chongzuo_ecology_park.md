@@ -15,6 +15,7 @@ story: >
   The name in Chinese, 白头叶猴, means "white-headed leaf monkey" — the bright
   white cap on an otherwise jet-black body makes the adults immediately
   recognisable.
+score: 7.4
 ---
 
 The Chongzuo Ecology Park, also known as the White-headed Langur Nature Reserve, protects a population of one of China's rarest primates across a series of karst limestone hills covered in subtropical forest. The white-headed leaf monkey — or white-headed langur — is endemic to this corner of Guangxi, with the park holding a significant share of the world population. Morning visits give the best chance of sightings: the monkeys move along the cliff faces in family groups at dawn, more visible against the rock before the heat drives them into the canopy.

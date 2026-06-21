@@ -12,6 +12,7 @@ tags:
 title: Historisch Museum Ede
 type: poi
 url: www.historischmuseumede.nl
+score: 6.3
 ---
 
 Ede's local history museum is housed in the former Ede-Centrum railway station, a small listed building from 1902 that was renovated in 1990. The displays cover the history of the town and the surrounding Veluwe — pre-history, heather-and-sheep farming, and the cavalry barracks that once made Ede a military town — in a modest, pleasant way.

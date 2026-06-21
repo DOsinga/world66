@@ -11,6 +11,7 @@ title: USS North Carolina
 type: poi
 story: >
   The USS North Carolina earned 15 battle stars during World War II — the most of any American battleship — and was called "The Showboat" by her crew for her sleek lines and formidable armament. In September 1942, a Japanese torpedo struck her bow near Guadalcanal; damage control kept her afloat and she was back in action within a month. Japanese propaganda reported her sunk three separate times during the war. She was never sunk.
+score: 8.7
 ---
 
 The battleship USS North Carolina is moored across the Cape Fear River from downtown Wilmington, where she has been permanently berthed as a memorial and museum since 1961. One of the most decorated American warships of World War II, she is a remarkable vessel: 728 feet long, armed with nine 16-inch guns capable of hurling shells 23 miles, and crewed by over 2,000 men.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - sight
+score: 6.2
 ---
 
 The market is the visible heart of Dhuusamarreeb — a row of single-storey shops and stalls along the main road through town, with traders coming in from surrounding nomadic settlements to sell goats, camels, milk, and dried meat. There are also stalls of imported tea, sugar, flour, and the usual plastic kitchenware ferried up the road from Mogadishu.

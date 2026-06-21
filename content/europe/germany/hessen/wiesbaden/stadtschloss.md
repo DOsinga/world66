@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 The City Palace on Schlossplatz was built between 1837 and 1841 as the official residence of Duke Wilhelm of Nassau. Since 1946 it has been the seat of the Hessian State Parliament (Landtag), but the building's late-classical facade and grand interior still announce its origins as a small royal court. The architect, Georg Moller, designed it in a sober Greek revival style that contrasts with the more flamboyant later spa-era buildings nearby.

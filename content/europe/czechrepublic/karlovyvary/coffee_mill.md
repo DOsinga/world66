@@ -6,6 +6,7 @@ tags:
 - bar
 latitude: 50.2252
 longitude: 12.8810
+score: 5.7
 ---
 
 A relaxed café near the Mill Colonnade, Coffee Mill does good coffee — an important qualification in a town where the coffee at many tourist-oriented places is unremarkable — and has a small terrace overlooking the Teplá river. The morning light on the water and the architecture above it makes this a particularly good spot for an early coffee before the day's promenade walking begins.

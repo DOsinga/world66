@@ -8,6 +8,7 @@ tags:
 - sight
 title: Wilmington Historic District
 type: poi
+score: 8.9
 ---
 
 The Wilmington Historic District encompasses much of the downtown area and is one of the largest urban historic districts on the National Register of Historic Places. Walking the tree-lined streets between the riverfront and the residential blocks gives a coherent sense of what a prosperous 19th-century Southern port city looked like — far more complete than most comparable American cities, which sacrificed their historic fabric to urban renewal.

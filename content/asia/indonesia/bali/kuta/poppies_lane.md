@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood_street
+score: 7.8
 ---
 
 The two narrow lanes — Poppies I and Poppies II — running between Jalan Legian and the beach are what is left of old, scruffy, slightly chaotic Kuta. Named after the long-gone Poppies restaurant, they are too tight for cars in most places, lined with cheap guesthouses, surf shops, warungs serving nasi campur for a couple of dollars, tattoo studios, and the small homestays where Australian surfers stayed in the 1980s before the four-star hotels arrived.

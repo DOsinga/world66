@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 26.6667
 longitude: -77.1333
+score: 7.2
 ---
 
 Great Guana Cay is the largest of the barrier cays and has a more spread-out feel than Hope Town or Man-O-War. The village at the northern end is small and low-key; the main draw is Nippers Beach Bar, perched on the Atlantic-side dunes and serving as the social centre of the cay. On Sunday afternoons in season, Nippers runs a pig roast that draws boats from across the Abacos.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Home ground of Stoke City Football Club"
+score: 5.5
 ---
 
 The Bet365 Stadium (formerly the Britannia) has been home to Stoke City since the club moved here from the Victoria Ground in 1997. Stoke is the oldest professional football club still in existence after Notts County, having been founded in 1863. Capacity is around 30,000 and the stadium hosts a stadium tour and matchday experience that goes through the changing rooms, tunnel, and pitchside.

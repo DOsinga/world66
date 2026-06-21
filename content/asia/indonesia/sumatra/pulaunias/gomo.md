@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 0.7833
 longitude: 97.7833
+score: 7.7
 ---
 
 The central highland district of Gomo contains some of the oldest visible monuments on Nias: rough stone seats, menhirs, and ancestor figures carved by the island's first settlers and predating any record of contact with Hinduism, Islam, or Christianity. Several sites are scattered between villages along bumpy back roads — Tundrumbaho, Lahusa, and Idanotae each have surviving megalithic groups.

@@ -8,6 +8,7 @@ tags:
   - restaurant
 sources:
   - https://en.wikipedia.org/wiki/Eilat
+score: 5.5
 ---
 
 An underwater restaurant and bar built six metres below the surface of the Red Sea, reached by a jetty walkway. The structure sits on the seabed off Eilat's southern beach, and the curved windows look directly out onto the coral reef. Rays, reef fish, and the occasional octopus drift past the glass while you eat. The menu focuses on seafood — grilled fish, lobster, and prawns — alongside Israeli classics.

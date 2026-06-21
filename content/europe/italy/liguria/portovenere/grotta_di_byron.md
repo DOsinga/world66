@@ -8,6 +8,7 @@ latitude: 44.0478
 longitude: 9.8322
 sources:
   - https://en.wikipedia.org/wiki/Portovenere
+score: 6.8
 ---
 
 At the foot of the promontory, just below the Church of San Pietro, a sea cave opens into the black rock at water level. The cave is named after Lord Byron, who stayed in Portovenere in 1822 and reportedly swam across the Gulf of La Spezia from this point to visit Percy Shelley, who was living at San Terenzo on the eastern shore — a distance of about eight kilometres. The cave itself is accessible only by boat or by scrambling over the rocks at low tide.

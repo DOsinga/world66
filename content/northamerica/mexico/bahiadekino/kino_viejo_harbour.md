@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 28.8190
 longitude: -111.9360
+score: 7.8
 ---
 
 The working fishing harbour at Kino Viejo is the soul of the old village. Early morning is the best time to visit: pangas returning from night fishing unload their catch on the beach while pelicans and frigatebirds scramble for scraps. Fishermen mend nets in the shade, and the smell of salt, diesel, and fish hangs in the air.

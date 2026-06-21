@@ -14,6 +14,7 @@ story: >
   landscapes barely changed since the 19th century — the Lahn Valley railway
   follows the river but rarely intrudes, and the path along the banks is one of
   the quieter long-distance cycle routes in Germany.
+score: 8.1
 ---
 
 The River Lahn is one of Giessen's best assets. A well-marked cycle path runs along both banks and connects the city to Marburg to the north and Wetzlar to the south-west — both reachable within a half-day's cycling. In summer the riverbanks fill with students; there are several spots where locals swim, particularly downstream from the city centre.

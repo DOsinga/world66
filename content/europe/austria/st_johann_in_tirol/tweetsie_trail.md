@@ -8,6 +8,7 @@ latitude: 47.5450
 longitude: 12.4400
 story: >
   The Wilder Kaiser — the "wild emperor" — is named for its dramatic rocky towers that look, from below, like a crown. The range is a popular rock climbing destination as well as a hiking area, and its north face, rising almost vertically from the valley floor near Ellmau, is one of the most impressive natural walls in the Alps.
+score: 6.8
 ---
 
 The valleys around St. Johann are well set up for cycling, with a network of marked routes ranging from easy valley-floor rides to demanding climbs into the high passes. The most popular route runs east along the Leukental valley toward Kirchdorf and beyond, following the Kitzbüheler Ache river on mostly flat paths through traditional Tyrolean farming villages.

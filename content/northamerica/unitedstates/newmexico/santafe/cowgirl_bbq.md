@@ -8,6 +8,7 @@ tags:
   - eating_out
 latitude: 35.6809
 longitude: -105.9472
+score: 6.8
 ---
 
 A barn-like restaurant and music venue in the Guadalupe district, west of the centre. Live music seven nights a week — country, blues, rockabilly, folk — and a serious smoked-brisket-and-pulled-pork operation in the kitchen. The patio is wide and gets loud and happy in summer.

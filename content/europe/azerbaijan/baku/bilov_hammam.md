@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - icherisheher
+score: 7.5
 ---
 
 Within the Old City there are at least half a dozen surviving medieval hammams, the underground bathhouses recognisable by their squat brick domes poking through the cobbles at street level. The Hajibani Hammam, the Aga Mikhail Hammam, and the Gasim Bey Hammam date from the seventeenth and eighteenth centuries; the Hajibani is still operating in renovated form.

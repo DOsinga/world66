@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 12.1500
 longitude: -86.2650
+score: 6.0
 ---
 
 The Arboretum Nacional is a tree garden and ecological reserve maintained by the National University of Nicaragua on the university campus. It holds a collection of native Nicaraguan tree species as well as introduced tropical species, and provides a shaded, quiet retreat from the noise and heat of the surrounding city.

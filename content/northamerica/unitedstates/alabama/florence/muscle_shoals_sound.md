@@ -10,6 +10,7 @@ address: 3614 Jackson Hwy, Sheffield, AL 35660
 latitude: 34.7572
 longitude: -87.6781
 story: "In four days in December 1969, the Rolling Stones recorded 'Brown Sugar', 'Wild Horses', and 'You Gotta Move' in this building. Keith Richards reportedly said the sound was so good he wanted to bring the studio home. The 'Swampers' — the white house band who played on hits for Aretha Franklin, Wilson Pickett, and Etta James — earned the studio its nickname Muscle Shoals Sound."
+score: 8.9
 ---
 
 The Muscle Shoals Sound Studio, in a small white building on Jackson Highway in Sheffield (just across the Tennessee from Florence), is one of the most influential recording rooms in popular music history. From its founding in 1969 through the 1970s it hosted the Rolling Stones, Bob Dylan, Aretha Franklin, Cher, Paul Simon, Lynyrd Skynyrd, Willie Nelson, and dozens more.

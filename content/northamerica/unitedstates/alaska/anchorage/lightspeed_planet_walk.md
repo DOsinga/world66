@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: Scale model of the solar system you walk at the speed of light
 story: "Conceived in 1996 by an Anchorage high-school student, Justin Smith, who scaled the entire solar system so that walking pace equals the speed of light. The sun is downtown by the Egan Center; Pluto is four miles away in Kincaid Park."
+score: 6.4
 ---
 
 A scale model of the solar system embedded into the city pavements, designed so that a normal walking pace equals the speed of light at the same scale. Start at the sun by the Egan Center on Fifth Avenue; you reach Earth eight minutes' walk later, and Pluto five hours and twenty minutes further on in Kincaid Park. Each planet is marked with a plaque showing its size to scale and a few facts.

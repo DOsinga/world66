@@ -7,6 +7,7 @@ tags:
   - market
 latitude: -4.7858
 longitude: 38.2789
+score: 6.8
 ---
 
 The town market is busy every day but turns into something larger on Thursdays and Sundays, when farmers come down from the surrounding villages with sacks of cabbages, beans, potatoes, plums and the apples that the German colonists introduced and that have been growing here ever since.

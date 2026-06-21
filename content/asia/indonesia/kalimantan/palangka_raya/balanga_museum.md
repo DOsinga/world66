@@ -8,6 +8,7 @@ tags:
 - museum
 title: Balanga Museum
 type: poi
+score: 6.4
 ---
 
 The Balanga Museum (Museum Balanga) is the provincial museum of Central Kalimantan and the place to spend an hour before heading upriver to a Dayak village. Inside are ethnographic exhibits on the region's indigenous peoples — costumes, jewellery, weapons, ritual objects — and outside, in the grounds, are reconstructed traditional buildings.

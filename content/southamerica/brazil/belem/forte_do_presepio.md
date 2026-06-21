@@ -14,6 +14,7 @@ story: >
   more for watching the river than for resisting a serious siege. Inside is a museum of indigenous
   ceramics and early colonial history, including Marajó Island pottery dating back nearly a
   thousand years.
+score: 8.1
 ---
 
 The fort sits at the westernmost tip of Cidade Velha, and the views from the ramparts cover the broad estuary in both directions. In the distance on clear days you can make out the outline of Marajó Island, the world's largest fluvial island, where the Amazon meets the sea.

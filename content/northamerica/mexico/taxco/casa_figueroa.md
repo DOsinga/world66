@@ -13,6 +13,7 @@ story: >
   craftsmen not in money but in forgiven debts they owed to his court. The
   workers wept as they built the house that their own forced labor was
   constructing. Whether the story is literally true or not, the name stuck.
+score: 6.1
 ---
 
 Casa Figueroa is one of Taxco's stranger buildings, a colonial mansion with an uncomfortable history and an architecture that reflects it. The house was built for a colonial-era judge and later became the property of the American artist Guillermo Spratling's circle, then passed through various hands before becoming the gallery and event space it is today. The rooms are stacked vertically on the hillside, connected by steep internal stairs that double back on themselves.

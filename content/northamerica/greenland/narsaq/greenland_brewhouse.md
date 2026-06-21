@@ -8,6 +8,7 @@ latitude: 60.91306
 longitude: -46.05083
 story: >
   The Greenland Brewhouse was founded in 2005, making it Greenland's first commercial brewery. The water used in the brewing comes from glacial ice — some of it over 2,000 years old — collected from icebergs calving into the fjord. The brewery produces a small range of beers and was for many years the only source of locally brewed beer on the island.
+score: 6.2
 ---
 
 The Greenland Brewhouse is a small craft brewery in Narsaq that claims the distinction of being the first brewery ever established in Greenland. It produces a handful of beers using glacial meltwater, and the taproom offers tastings and tours. For such a remote and small community, it is a surprisingly characterful place.

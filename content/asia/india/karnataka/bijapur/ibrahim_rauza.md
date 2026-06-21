@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: The most refined Adil Shahi monument — twin tomb and mosque on a raised plinth
 story: "Built around 1626 by Sultan Ibrahim Adil Shah II for his wife Taj Sultana, who in the end was buried elsewhere. The proportions and detailing influenced Shah Jahan's design of the Taj Mahal — Shah Jahan's chief architect is said to have studied here in his youth."
+score: 9.0
 ---
 
 The most beautiful of the Adil Shahi monuments. A walled garden encloses two buildings on a raised platform — the tomb of Ibrahim Adil Shah II to the west, the mosque to the east, mirrored exactly. Where Gol Gumbaz aimed for vast scale, Ibrahim Rauza aimed for delicacy: finely carved stone screens, minarets balanced precisely against domes, panels of inlaid script as graceful as anything in the Mughal repertoire.

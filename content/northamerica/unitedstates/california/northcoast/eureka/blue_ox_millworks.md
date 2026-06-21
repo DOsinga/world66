@@ -15,6 +15,7 @@ story: >
   himself the old techniques from scraps of documentation and restored period equipment,
   then turned the whole operation into a working demonstration that now supplies
   gingerbread trim to Victorian restorations across the country.
+score: 8.2
 ---
 
 A working Victorian mill at 1st and X Streets that produces hand-crafted gingerbread trim, turned posts, and decorative woodwork using period machinery. The mill offers guided tours of the production floor, a Victorian-era skate park, a brick kiln, and a rose garden. It is an unusual combination — part living history, part functioning workshop — and considerably more interesting than a static museum.

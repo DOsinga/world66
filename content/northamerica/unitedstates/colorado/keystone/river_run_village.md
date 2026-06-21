@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 39.6108
 longitude: -105.9509
+score: 5.9
 ---
 
 River Run Village is the newer of Keystone's two base areas and the more active one. Built in the late 1990s and early 2000s in a deliberate mountain-village style, it clusters restaurants, rental shops, and ski school facilities around the gondola plaza at the base of Dercum Mountain. The gondola itself runs year-round — in summer it carries mountain bikers and hikers to the upper mountain.

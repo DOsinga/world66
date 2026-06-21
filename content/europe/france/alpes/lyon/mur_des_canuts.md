@@ -8,6 +8,7 @@ tags:
 latitude: 45.7739
 longitude: 4.8258
 snippet: One of the largest trompe-l'oeil murals in the world, depicting the Croix-Rousse neighbourhood
+score: 6.6
 ---
 
 Le Mur des Canuts (Wall of the Silk Weavers) at the foot of Croix-Rousse is a 1,200 square-metre trompe-l'oeil mural depicting a street scene from the neighbourhood — complete with people, balconies, traboules, staircases, and even a real door and letterbox integrated into the painted surface. It was first painted in 1987 and has been updated several times since, with local residents appearing among the painted figures.

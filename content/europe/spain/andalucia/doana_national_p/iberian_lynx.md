@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - wildlife
 story: In 2002, the Iberian lynx became the most endangered wild cat species on earth, with fewer than 100 animals surviving in two isolated populations — one of which was in Doñana. By 2024, thanks to captive breeding and reintroduction programmes, the global population had recovered to over 2,000. It is one of the most dramatic conservation turnarounds in European wildlife history.
+score: 6.8
 ---
 
 Doñana is one of the two original strongholds of the Iberian lynx, a spotted, tufted-eared wild cat found nowhere else in the world. At the species' lowest point in the early 2000s, fewer than 100 individuals survived, split between Doñana and the Sierra Morena in Jaén. The park's El Acebuche breeding centre became the heart of a captive breeding and reintroduction programme that is now widely cited as a model for large carnivore conservation. Cubs born in captivity were released across southern Spain and Portugal, establishing new populations in areas where the lynx had been locally extinct for decades.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 12.17
 longitude: 2.42
+score: 7.6
 ---
 
 The hippo pools along the Tapoa and Mekrou rivers are among the most reliably productive wildlife-watching spots in the park. During the dry season, hippos gather in predictable numbers at the shrinking pools, surfacing and snorting in the late afternoon. Dawn and dusk visits are best, when they are most active.

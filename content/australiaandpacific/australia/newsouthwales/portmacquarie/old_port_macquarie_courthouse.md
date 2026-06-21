@@ -9,6 +9,7 @@ latitude: -31.4288
 longitude: 152.9097
 address: Clarence Street, Port Macquarie NSW 2444
 snippet: Heritage-listed 1869 courthouse now operating as a justice and history museum
+score: 7.4
 ---
 
 The Old Port Macquarie Courthouse was built in 1869 and served as the town's court until 1991, making it one of the longest continuously used colonial courthouses in New South Wales. The building is now a museum focused on justice and legal history, with the original courtroom and holding cells preserved and open to visitors.

@@ -6,6 +6,7 @@ longitude: -65.3022
 tags:
   - things_to_do
   - neighbourhood
+score: 6.6
 ---
 
 The only settlement on Culebra, officially Culebra Pueblo but always called Dewey, after a US admiral the locals never wanted to honour. A few streets along the lagoon, a single drawbridge, a handful of shops, restaurants, and rental places. You can walk it end-to-end in fifteen minutes.

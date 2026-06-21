@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.8833
 longitude: -105.7627
+score: 5.8
 ---
 
 The Shed is a local favourite on the main drag in Winter Park, a casual Mexican restaurant that does reliably good burritos, tacos, and margaritas at prices that don't require a ski resort budget. It fills up quickly after the lifts close and the crowd is solidly local — a good sign anywhere.

@@ -12,6 +12,7 @@ story: >
   hundreds of monks. The Persians massacred them in 614 CE and the monastery fell into
   ruin; it was rebuilt by the Crusaders and again by the Greek Orthodox Church in the
   19th century. The mosaic-covered skulls of the original monks are kept in the chapel.
+score: 9.1
 ---
 
 Wadi Qelt is a dramatic canyon that cuts through the Judaean Desert between Jerusalem and Jericho, carrying a permanent stream fed by springs that has made it a lifeline across the desert for thousands of years. The ancient Roman road from Jerusalem to Jericho ran through this canyon, and the walk from the springs at Ein Qelt to Jericho is one of the classic half-day hikes in the West Bank.

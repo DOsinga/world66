@@ -11,6 +11,7 @@ story: >
   The amphitheatre was not discovered until the 1960s, when construction workers stumbled upon it while digging foundations for a new building. Part of the reason it had remained hidden for so long was that medieval and Ottoman buildings had been built directly over it — and some still stand above and around it. When archaeologists excavated a vaulted passageway, they found it had been converted into a Christian chapel sometime in the 5th or 6th century, its walls covered in mosaics of saints.
 sources:
   - https://en.wikipedia.org/wiki/Amphitheatre_of_Durrës
+score: 8.8
 ---
 
 The Amphitheatre of Durrës is one of the largest Roman amphitheatres in the Balkans, with an estimated original capacity of 15,000 to 20,000 spectators. Built in the 2nd century AD when Dyrrachium was an important Roman port city, it was discovered only in the 1960s and is still only partially excavated — a remarkable amount of it lies beneath the surrounding neighbourhood.

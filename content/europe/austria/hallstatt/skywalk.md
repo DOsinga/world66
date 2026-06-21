@@ -6,6 +6,7 @@ longitude: 13.6403
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 The Skywalk is a steel platform jutting twelve metres out into thin air over the village, 360 metres above the lake. It sits at the top of the Salzberg funicular and is free to visit if you have a mine ticket, or accessible separately with a funicular-only fare.

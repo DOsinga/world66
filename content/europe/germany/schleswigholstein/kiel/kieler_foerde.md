@@ -9,6 +9,7 @@ latitude: 54.3700
 longitude: 10.1600
 sources:
   - https://en.wikipedia.org/wiki/Kiel_Fjord
+score: 7.8
 ---
 
 The Kieler Förde — Kiel Fjord in English — is the 17km inlet of the Baltic Sea that defines the city. It runs from the open sea at Laboe in the north down to the inner harbour at the city centre, widening and narrowing as it goes. The city sits on the western bank; the quieter eastern shore holds beaches, fishing villages, and the town of Laboe at the tip.

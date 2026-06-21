@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 53.1247
 longitude: -9.6683
+score: 5.8
 ---
 
 Kilronan (Cill Rónáin) is the main settlement on Inis Mór and the first thing you see when the ferry arrives. It is a small harbour village with a pier, a cluster of pubs, restaurants, craft shops, and the bicycle rental outlets that are essential to exploring the island. Most of the island's accommodation is in or near Kilronan.

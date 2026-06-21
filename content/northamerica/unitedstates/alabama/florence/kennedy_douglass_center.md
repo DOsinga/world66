@@ -8,6 +8,7 @@ tags:
 address: 217 E Tuscaloosa St, Florence, AL 35630
 latitude: 34.7977
 longitude: -87.6783
+score: 6.2
 ---
 
 Housed in a restored 1903 brick home a few blocks from downtown, the Kennedy-Douglass Center is Florence's main visual arts venue. The galleries show rotating exhibitions by regional and visiting artists, and the centre runs classes, evening lectures, and an annual juried show.

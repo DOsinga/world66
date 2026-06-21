@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 snippet: Central market square, the heart of the old town
+score: 6.2
 ---
 
 Torvet is the central market square of Hillerod, halfway between the railway station and the castle. The square is paved in cobbles, ringed by 19th-century townhouses, and centred on a small fountain with a sculpture of King Frederik VII. It is the place to start a walk into the old town — narrow streets of two- and three-storey painted houses radiate outwards in three directions, and the [Frederiksborg Latin School](/europe/denmark/hillerod/frederiksborg_latin_school) and old [Rectory](/europe/denmark/hillerod/hillerod_rectory) are within fifty metres.

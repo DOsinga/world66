@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - monument
+score: 5.6
 ---
 
 A bronze equestrian monument to Baidibek Bi (1356–1419), one of the legendary unifying chieftains of the Kazakhs and a figure of particular importance in the south. The statue stands on a low rise near the citadel and the regional museum, framed by a small plaza.

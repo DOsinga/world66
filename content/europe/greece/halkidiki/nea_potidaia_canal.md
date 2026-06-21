@@ -6,6 +6,7 @@ longitude: 23.3236
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 The narrow neck of land where Kassandra joins the rest of Halkidiki is cut clean across by a short canal at Nea Potidaia — a fact that, technically, makes Kassandra an island. The canal was first dug in antiquity, when the spot was the location of the ancient city of Potidaea, and was reopened in modern form in 1937.

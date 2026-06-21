@@ -14,6 +14,7 @@ story: >
   mountainside rather than been constructed on it. The contrast between the Baroque
   city below and Hadid's crystalline structures above is deliberately theatrical.
 url: https://www.nordkette.com
+score: 9.3
 ---
 
 The Nordkette cable car rises from Innsbruck city centre to the Hafelekar summit at 2,334 metres in a system of three stages — Congress, Hungerburg, Seegrube, Hafelekar. The ride takes about 20 minutes from the city centre and delivers you into an entirely different landscape: alpine meadows in summer, snow-covered slopes in winter, with views across the Inn valley and south toward the Stubaier Alps.

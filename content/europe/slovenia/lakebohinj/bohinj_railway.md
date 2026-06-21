@@ -10,6 +10,7 @@ tags:
   - transport
 snippet: Scenic Habsburg-era railway through the Bohinj Tunnel
 story: "Emperor Franz Joseph opened the line in 1906 to give the new Habsburg port at Trieste a direct route to Vienna and the Czech industrial cities. It was a strategic asset in both World Wars, and trains still rumble through the original 6,327-metre Bohinj Tunnel into the Soca Valley today."
+score: 6.6
 ---
 
 The Bohinj Railway is a single-track Habsburg-era line that connects the Sava and Soca valleys through one of the longest railway tunnels in the Alps. The Bohinj station (Bohinjska Bistrica) is a few kilometres east of the lake and worth visiting in its own right: a handsome stone station building from 1906, more or less unchanged.

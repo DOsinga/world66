@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 title: Jinja Town Centre
 type: poi
+score: 8.0
 ---
 
 Jinja's main commercial area runs along Main Street and the surrounding blocks, where the colonial-era architecture gives the town a different feel from most Ugandan cities. Two- and three-storey buildings with verandas and faded painted facades — many dating from the 1920s and 1930s — house shops, hardware dealers, and the occasional cafe. It's a pleasant place to walk, particularly in the morning before the midday heat sets in.

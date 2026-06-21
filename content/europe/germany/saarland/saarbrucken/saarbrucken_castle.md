@@ -13,6 +13,7 @@ story: >
   forecourt, engraved the names of destroyed Jewish cemeteries on their
   undersides, and replaced them — creating an invisible memorial that could
   only be known about, never seen, called the Monument against Fascism.
+score: 7.1
 ---
 
 Saarbrücken Castle occupies a commanding position above the River Saar, its baroque facade designed by Friedrich Joachim Stengel in the 18th century for the princes of Nassau-Saarbrücken. The interior now houses the Historisches Museum Saar, which covers the history of the Saar region from prehistoric times through the industrial era to the post-war referendums on French or German sovereignty.

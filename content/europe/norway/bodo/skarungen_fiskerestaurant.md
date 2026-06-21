@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 67.2873
 longitude: 14.3840
+score: 5.6
 ---
 
 Skarungen is the go-to address for fish in Bodø, occupying a quayside position near the ferry terminal with a menu built around whatever has come off the boats that morning. Cod and coalfish are the constants; in season the kitchen also handles Arctic char, halibut, and the occasional wolf fish. The cooking is straightforward — this is not a destination restaurant in the Nordic-tasting-menu sense — but the fish is very fresh and the portions are honest.

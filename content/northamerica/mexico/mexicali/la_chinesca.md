@@ -9,6 +9,7 @@ tags:
 - neighbourhood
 story: >
   At its 1920s peak, La Chinesca's Chinese population outnumbered the Mexican residents of Mexicali. A clandestine network of basement tunnels and rooms beneath the district housed gambling halls, opium dens, and homes during a period of anti-Chinese persecution. Several of those tunnels are now open to the public via guided tours.
+score: 8.1
 ---
 
 La Chinesca is the old Chinatown of Mexicali — once the largest Chinese community in Latin America, settled by labourers who came in the 1900s to dig the irrigation canals that turned the Mexicali Valley into farmland. At its peak the district had its own newspapers, schools, gambling halls, and a vast network of basement tunnels.

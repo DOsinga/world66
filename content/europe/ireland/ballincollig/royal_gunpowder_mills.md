@@ -6,6 +6,7 @@ latitude: 51.8930
 longitude: -8.5900
 story: >
   The mills supplied gunpowder for the British army during the Napoleonic Wars and remained in operation until 1903. At their peak they employed over 400 people and produced enough gunpowder to supply the campaigns in Crimea and India. The mills were deliberately sited on the River Lee because the water powered the machinery, diluted any accidental explosions, and provided a transport route — barrels of gunpowder were floated downriver to Cork harbour in flat-bottomed boats.
+score: 8.4
 ---
 
 The Ballincollig Royal Gunpowder Mills are preserved as a regional park along the south bank of the River Lee, with a two-kilometre heritage trail running through the ruins of the 18th-century industrial complex. The site was established in 1794 to supply the British military with gunpowder, and at its height it was one of three Royal Gunpowder factories in the British Isles. The ruins include the incorporating mills (where the ingredients were blended), the magazines, workers' cottages, and the remains of the canal system that connected the site to the river.

@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Piaf
 type: poi
+score: 5.7
 ---
 
 A French restaurant with a romantic atmosphere and live string quartet in the evenings. The menu is simple but well-executed -- think classic bistro dishes rather than haute cuisine. Most mains run $16--30. Closed Sundays.

@@ -6,6 +6,7 @@ longitude: -86.1581
 tags:
   - bars_and_cafes
   - bar
+score: 6.3
 ---
 
 A basement cocktail lounge under Monument Circle that runs strongly to the speakeasy aesthetic — leather booths, dim lighting, jazz on the speakers, and an unhurried bar staff. The classic cocktails are well executed; the bar's signature is the dirty martini.

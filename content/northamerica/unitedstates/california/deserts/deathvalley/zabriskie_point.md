@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Zabriskie Point
 type: poi
+score: 8.7
 ---
 
 The classic Death Valley viewpoint, just a few minutes' drive from Furnace Creek. A short paved path climbs to an overlook above eroded badlands of gold, brown, and ochre — the remains of ancient lake sediments sculpted by millions of years of rain and wind. Sunrise is the best time: the low light turns the ridges copper and the shadows carve the landscape into sharp relief. Come early enough and you may have it to yourself.

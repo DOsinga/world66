@@ -8,6 +8,7 @@ latitude: 27.912
 longitude: -81.582
 story: >
   Local legend attributes the hill's apparent magic to a battle between the Seminole chief Cufcowellax and a giant alligator. The two fought to the death in the lake below, and the chief's restless spirit is said to push cars back up the hill in defiance of gravity. The more prosaic explanation is that the surrounding terrain creates an optical illusion so convincing that even knowing it's an illusion doesn't quite spoil the effect.
+score: 5.8
 ---
 
 Spook Hill is a gravity hill — an optical illusion where the landscape makes it appear that cars are rolling uphill when they are in fact rolling gently downhill. Pull your car to the marked line at the bottom, shift into neutral, and watch it seemingly coast up the slope on its own. The trick is that the surrounding terrain is tilted in a way that scrambles your visual sense of what is level.

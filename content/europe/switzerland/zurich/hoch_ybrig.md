@@ -8,6 +8,7 @@ tags:
 - day_trips
 title: Hoch Ybrig
 type: poi
+score: 5.5
 ---
 
 [Hoch Ybrig](/europe/switzerland/hoch_ybrig) is a ski area close to

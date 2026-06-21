@@ -13,6 +13,7 @@ story: >
   Jay Leno, Conan O'Brien, Jay Leno again, and Jimmy Fallon all hosted from
   Burbank before NBC moved The Tonight Show back to New York in 2014 — a
   relocation that Burbank has not entirely forgiven.
+score: 6.8
 ---
 
 NBC Studios at 3000 W Alameda Ave is one of the most active television production facilities in the country, taping multiple shows throughout the week. The studio complex is closed to general visitors, but free tickets for tapings of shows including The Tonight Show and other NBC productions are available through the NBC website and third-party ticket services — this is worth checking before your visit, as tickets go quickly.

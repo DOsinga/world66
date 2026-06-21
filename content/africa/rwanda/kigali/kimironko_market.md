@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -1.9391
 longitude: 30.0861
+score: 8.2
 ---
 
 Kimironko Market is Kigali's largest and most bustling market, a sprawling complex in the eastern part of the city that sells everything from fresh produce and fish to second-hand clothes and household goods. It is the main market for the city's residents and one of the best places to see the commercial engine of Kigali running at full speed.

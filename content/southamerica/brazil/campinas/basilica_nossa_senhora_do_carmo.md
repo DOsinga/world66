@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -22.9017
 longitude: -47.0603
+score: 6.6
 ---
 
 The Basílica Nossa Senhora do Carmo is Campinas's most prominent church, a substantial neoclassical structure on the edge of the historic centre. Construction began in the 1810s and the church was elevated to a basilica in the 20th century. The twin towers and clean white façade are a landmark in an otherwise dense downtown streetscape.

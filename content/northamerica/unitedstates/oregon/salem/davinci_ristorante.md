@@ -13,6 +13,7 @@ opening_hours: "Tue–Thu 5:00pm–9:00pm, Fri–Sat 5:00pm–10:00pm"
 snippet: "Italian dinner in a historic downtown building with exposed brick and good wine list"
 sources:
   - https://davincisofsalem.com/
+score: 5.2
 ---
 
 DaVinci occupies a handsome old building on High Street with exposed brick walls, stained-glass pendant lights, and the comfortable feel of a restaurant that has been doing the same things well for a long time. The kitchen focuses on Italian-American classics — housemade pasta, well-sourced proteins, a tiramisu that people come back for specifically.

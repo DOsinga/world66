@@ -8,6 +8,7 @@ tags:
 - swimming
 title: Riri Blue Hole
 type: poi
+score: 8.3
 ---
 
 Smaller and more remote than Matevulu, the Riri Blue Hole is reached by a short boat trip through mangrove-lined channels — and the journey through the mangroves is half the appeal. The water is just as startlingly clear and just as vivid in colour as its more famous counterpart. Because it takes more effort to reach, you will almost always find it quieter.

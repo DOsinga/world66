@@ -11,6 +11,7 @@ tags:
 - landmark
 title: Railroad Park
 type: poi
+score: 6.6
 ---
 
 A 19-acre green space downtown with walking trails, a lake, and views of the city skyline. Railroad Park is a pleasant spot for a walk or a break between sightseeing stops, and it has become a gathering place for the city -- food trucks, yoga classes, and concerts in the warmer months.

@@ -7,6 +7,7 @@ tags:
   - jabal_amman
 latitude: 31.9490
 longitude: 35.9295
+score: 6.8
 ---
 
 Beit Sitti — "grandmother's house" in Arabic — is a cooking school and cultural project run from a converted 1940s villa in Jabal Amman. Three Jordanian sisters opened it in honour of their grandmother, a renowned home cook, and it now runs half-day cooking classes teaching traditional Jordanian dishes: mansaf, makloubeh, knafeh, and regional specialities from different parts of the country.

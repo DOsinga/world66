@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.2774
 longitude: 123.8845
+score: 8.2
 ---
 
 The Nakama River drains a large area of the southern half of the island and supports an exceptional mangrove forest — wide, dense, and lined with stilt roots. It is the easiest place on Iriomote to see mangroves at close range.

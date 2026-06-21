@@ -7,6 +7,7 @@ snippet: The county museum, housed in an 18th-century water mill on the Fyris
 tags:
   - things_to_do
   - museum
+score: 7.8
 ---
 
 The Upplandsmuseet is the county museum of Uppland, occupying the old Akademikvarnen — the university's tall yellow water mill on the bank of the Fyris River. The location alone is worth the visit: from the upper floors you look straight out over the rapids and the cathedral.

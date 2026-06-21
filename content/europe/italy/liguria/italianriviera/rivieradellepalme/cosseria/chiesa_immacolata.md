@@ -6,6 +6,7 @@ longitude: 8.2350
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 The parish church, rebuilt between 1656 and 1660 on the foundations of an earlier medieval church and restored in 1831, sits in the centre of the village. The rose window on the facade is the standout feature; the interior is simple but well-kept, with 18th-century altarpieces.

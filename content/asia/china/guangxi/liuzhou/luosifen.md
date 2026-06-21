@@ -14,6 +14,7 @@ story: >
   Liuzhou responded by expanding production to meet demand it had never
   anticipated. The fresh version served in the city's noodle shops is
   considerably more complex than the instant version suggests.
+score: 8.1
 ---
 
 Luosifen is rice noodles in a broth made from river snails, pickled bamboo shoots, vinegar, and chilli, with dried tofu skin, peanuts, and spring onion on top. The snails themselves are typically removed from the broth before serving — their contribution is the gelatinous depth of the stock rather than their presence in the bowl. The pickled bamboo shoots are the element that produces the dish's famous smell: fermented, funky, deeply savoury.

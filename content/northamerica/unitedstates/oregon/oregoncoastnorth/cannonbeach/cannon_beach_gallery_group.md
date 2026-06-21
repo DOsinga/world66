@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.8902
 longitude: -123.9616
+score: 6.8
 ---
 
 Cannon Beach has one of the most concentrated collections of art galleries on the Oregon coast, grouped along and around Hemlock Street in the center of town. The Cannon Beach Gallery Group coordinates the work of around a dozen galleries ranging from cooperative studios to commercial spaces showing established Pacific Northwest artists. The emphasis is on painting, printmaking, ceramics, and glass art inspired by the coast.

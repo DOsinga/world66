@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 36.2916
 longitude: 136.3624
+score: 7.2
 ---
 
 The Kosoyu is the showpiece public bath of Yamashiro Onsen, a careful 2010 recreation of the 1886 Meiji-era bathhouse that once stood on the same spot. The exterior is timber and tile with a tall central skylight; the interior is dim and atmospheric — a single octagonal bathing pool below stained-glass windows, paved with Kutani-ware tiles, with hot water piped from the source in the square outside. Bathers sit on small stone stools to wash, then soak in silence.

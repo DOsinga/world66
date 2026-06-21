@@ -7,6 +7,7 @@ snippet: Vaulted cellar restaurant beside the cathedral, serving Swedish classic
 tags:
   - eating_out
   - restaurant
+score: 6.9
 ---
 
 Domtrappkällaren sits in a medieval vaulted cellar directly across from the south porch of Uppsala Cathedral and has been serving food in some form since the 1960s. The kitchen leans on traditional Swedish cooking — game in autumn, herring and pickled fish at Christmas, the classic toast Skagen as a starter — with serious wine pairings and prices to match.

@@ -12,6 +12,7 @@ story: >
   was the most accurate in the world before the invention of the telescope. He was
   later murdered on the orders of his own son. The mosque in Shakhrisabz is one of the
   few buildings that survives from his reign.
+score: 7.8
 ---
 
 The Kok-Gumbaz, or Blue Dome Mosque, was built in 1437 by Ulugh Beg, the Timurid ruler and celebrated astronomer, as a Friday prayer mosque in honour of his father Shah Rukh. The name is literal: the central dome is clad in the deep blue tilework that defines Timurid architecture across Central Asia.

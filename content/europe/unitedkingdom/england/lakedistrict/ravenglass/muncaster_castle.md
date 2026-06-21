@@ -12,6 +12,7 @@ title: Muncaster Castle
 type: poi
 url: www.muncaster.co.uk
 zipcode: CA18 1RQ
+score: 8.9
 ---
 
 Muncaster Castle has been home to the Pennington family since the 1200s, with the oldest parts of the current building dating from the 14th century. It sits on a hillside above Ravenglass with views across Eskdale to the Scafell range — on a clear day the panorama alone justifies the visit.

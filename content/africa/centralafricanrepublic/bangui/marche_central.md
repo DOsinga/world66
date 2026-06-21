@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 4.3620
 longitude: 18.5590
+score: 8.2
 ---
 
 The Marché Central is Bangui's main market and the city's most animated public space. Several city blocks of densely packed stalls sell everything from bolts of printed fabric (some of the finest in Central Africa) to fresh produce, dried fish, hardware, and Chinese consumer goods. The fabric section is particularly good — the country produces some striking patterns, and traders from across the region sell here.

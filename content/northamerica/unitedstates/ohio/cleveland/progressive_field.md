@@ -8,6 +8,7 @@ snippet: Home of the Cleveland Guardians, opened 1994 and still one of the best 
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 Progressive Field — originally Jacobs Field, opened 1994 — is the home stadium of the Cleveland Guardians baseball team, and one of the early wave of "retro classic" ballparks that helped revive American downtown baseball in the 1990s. The asymmetric outfield, exposed steel beams, and view of the downtown skyline beyond left field have made it a model for stadium design ever since.

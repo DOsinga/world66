@@ -11,6 +11,7 @@ story: >
   The walls were built by the Portuguese in 1471 after they captured Asilah from the Marinids.
   The town changed hands repeatedly over the following centuries — Portuguese, Spanish, Moroccan — and each occupier modified the fortifications.
   The circular bastions at the corners were designed specifically for artillery, making Asilah's walls among the earliest examples of gunpowder-era military architecture in Africa.
+score: 8.5
 ---
 
 The Portuguese ramparts are the defining feature of Asilah's silhouette from the sea — a complete circuit of 15th-century walls enclosing the medina, intact and walkable for most of their length. The walls were built in 1471 when the Portuguese captured the town and used it as a base for Atlantic trade and raids along the North African coast.

@@ -14,6 +14,7 @@ story: >
   the beach is restricted during the season and rangers monitor every nest. The
   museum hatches the eggs and releases hatchlings directly into the sea, part of a
   decades-long programme that has helped slow the local decline.
+score: 7.6
 ---
 
 The Hiwasa Sea Turtle Museum — known locally as Caretta, after the loggerhead's scientific name *Caretta caretta* — is a small but earnest conservation centre on the seafront. The indoor exhibits cover sea turtle biology and the nesting cycle, with displays and video footage mostly in Japanese but comprehensible enough without translation. The real draw is the live animals: indoor tanks hold hatchlings and juveniles, while the outdoor pool contains full-grown loggerheads that move with surprising speed when the keeper approaches with food.

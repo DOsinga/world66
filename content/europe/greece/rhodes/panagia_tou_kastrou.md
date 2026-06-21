@@ -14,6 +14,7 @@ story: >
   restored it in the early twentieth century and removed the Islamic additions.
   It now houses a Byzantine icon collection. Few buildings on the island carry
   the weight of Rhodes's overlapping histories as clearly as this one.
+score: 7.4
 ---
 
 Panagia tou Kastrou — Our Lady of the Castle — stands in the Castello quarter and is one of the most historically layered buildings in the Old Town. The Gothic structure dates primarily from the fourteenth century Knights period, though it incorporates Byzantine fabric, and the exterior shows clearly where different phases of construction and alteration occurred.

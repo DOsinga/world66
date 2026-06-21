@@ -11,6 +11,7 @@ tags:
 - cafe
 title: Harvest Coffee & Book
 type: poi
+score: 5.3
 ---
 
 A smoke-free coffee shop and small bookstore in Nankai District's Hua Yuan residential area. The menu covers coffee, smoothies, Belgian waffles, and even chicken burritos. Staff speaks English and the menu is bilingual.

@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 40.34719
 longitude: -74.65803
+score: 9.2
 ---
 
 The Princeton University Art Museum is one of the great university collections in the United States — about 113,000 objects spanning Chinese antiquity, classical Mediterranean, Renaissance Italy, and modern and contemporary American art. The collection is consistently better than the size of the museum would suggest; the Chinese painting holdings are particularly strong, and the European holdings include a Monet, a Cézanne, and a number of significant Old Masters.

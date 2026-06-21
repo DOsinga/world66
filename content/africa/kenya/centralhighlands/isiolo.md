@@ -5,6 +5,7 @@ title: Isiolo
 type: location
 done:
   location_cleanup: 2026-04-07
+  location_enrich: '2026-06-03'
 score: 0.37
 loc_type: city
 ---

@@ -7,6 +7,7 @@ tags:
 - sight
 title: "Gniezno Locomotive Depot"
 type: poi
+score: 7.1
 ---
 
 Built in the 19th century when the Prussian rail network was pushing through this part of Poland, the Gniezno Locomotive Depot is a protected historical monument and one of the more unusual things to see in the city. The brick roundhouse and associated engine sheds have survived largely intact, and a number of preserved steam locomotives remain on site — the kind of heavy industrial heritage that tends to disappear quietly when it stops being economically useful. Here it didn't.

@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Igreja de Santa Maria de Marvila
 type: poi
+score: 8.8
 ---
 
 The Igreja de Santa Maria de Marvila is arguably the most visually arresting church in Santarém. The interior is covered floor to ceiling with 17th-century azulejo tiles — blue-and-white painted ceramic panels depicting religious scenes and geometric patterns. The effect is overwhelming: the entire surface of the walls is tiled, and the quality of the panels is exceptional.

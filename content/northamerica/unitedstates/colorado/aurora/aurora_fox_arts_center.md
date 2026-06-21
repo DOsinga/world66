@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: 1946 Art Deco cinema turned regional theatre, on East Colfax
+score: 6.6
 ---
 
 The Aurora Fox is a 1946 Streamline Moderne cinema on East Colfax — pink terrazzo lobby, a curved marquee, neon detailing along the cornice — that was converted to a regional theatre in 1985. It now runs a year-round season of plays, musicals and a children's theatre, with most shows priced affordably ($25–$40) and consistently strong reviews.

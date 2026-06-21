@@ -8,6 +8,7 @@ latitude: 35.3115
 longitude: 46.9877
 sources:
   - https://en.wikipedia.org/wiki/Abidar
+score: 7.6
 ---
 
 Abidar is the mountain that rises immediately to the west of Sanandaj, its lower slopes developed as a public park and its upper reaches accessible for hiking. At around 2,100 metres, the summit provides a panorama over the city, the valley, and the Kurdish highlands stretching into Iraq and Turkey. The park on the lower slopes has become a major social gathering point for Sanandaj residents — families picnic here on weekends, and in the evenings it fills with people walking and sitting in the cool air above the city.

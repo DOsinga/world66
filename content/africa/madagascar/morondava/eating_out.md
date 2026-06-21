@@ -8,9 +8,10 @@ price: $ 15.00
 title: Eating Out
 type: poi
 url: www.chezmaggie.com
+score: 5.4
 ---
 
-### [Le Masoandro Restaurant / Chez Maggie Hotel](/africa/madagascar/morondava/eatingout/le_masoandro_resta)
+### Le Masoandro Restaurant / Chez Maggie Hotel
 
 **Le Masoandro Restaurant / Chez Maggie Hotel**
 
@@ -22,7 +23,7 @@ worth it. However the ambience is one of the best to be had if you are
 looking for gently bulging sofas amongst rustling palms.
 
 West-facing and located directly on the beach, Le Masoandro Restaurant
-& Bar [more..](/africa/madagascar/morondava/eatingout/le_masoandro_resta)
+& Bar is also one of the best spots in town to catch the sunset over the Mozambique Channel.
 
 type: Seafood
 

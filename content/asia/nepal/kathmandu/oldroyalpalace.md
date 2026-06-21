@@ -15,6 +15,7 @@ story: >
   but in the newer Narayanhiti Palace. The Tribhuvan Museum within Hanuman Dhoka, however,
   covers the 1951 revolution that ended the Rana oligarchy and restored the Shah dynasty
   — the history of power in Nepal compressed into one palace complex.
+score: 8.6
 ---
 
 Hanuman Dhoka is the old royal palace of Kathmandu, a complex of courtyards, towers, and temples at the centre of Durbar Square that was the residence of the Malla and later Shah kings until the 19th century. The name comes from the statue of Hanuman at the main gate, draped in a red cloth and umbrella. Several museums are housed in the palace, covering Nepalese royal history, coins, costumes, and the life of King Tribhuvan.

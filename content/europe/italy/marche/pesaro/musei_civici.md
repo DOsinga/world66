@@ -14,6 +14,7 @@ story: >
   this one survived because the French general reportedly couldn't figure out
   how to remove it from its frame without damaging it. It has been in the museum
   ever since.
+score: 8.3
 ---
 
 The Musei Civici in Palazzo Mosca contains two collections that justify a visit on their own terms. The picture gallery on the upper floor holds Giovanni Bellini's magnificent Coronation of the Virgin altarpiece from 1474 — a rich, complex work full of landscape detail — alongside other Venetian and Marchigian paintings.

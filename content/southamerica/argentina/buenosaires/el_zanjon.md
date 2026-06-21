@@ -12,6 +12,7 @@ address: Defensa 755, San Telmo
 url: elzanjon.com.ar
 story: >
   The tunnels were discovered in the 1980s when the owner of the building above began renovations and broke through into a vaulted brick passage below. Excavation revealed that the site had been the location of Buenos Aires' first colonial settlement — the original rancho (settlement) of Juan de Garay's 1580 founding was here. The maps and artefacts found in the tunnels rewrote part of Buenos Aires' founding history.
+score: 8.8
 ---
 
 Beneath a 19th-century colonial house in San Telmo, a network of tunnels dating from the 18th century runs under the old city. El Zanjón is a private archaeological site and restored museum — the tunnels follow the course of the Zanjón de Granados creek that was channelled underground as the city grew, and they pass through and under structures from four centuries of Buenos Aires history.

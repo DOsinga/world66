@@ -10,6 +10,7 @@ tags:
 title: Old South Meeting House
 type: poi
 url: revolutionaryspaces.org
+score: 8.2
 ---
 
 On 16 December 1773, more than 5,000 Bostonians crammed into this church to hear Samuel Adams declare that "this meeting can do nothing more to save the country." It was the pre-arranged signal: men dressed as Mohawks slipped out the door, marched to Griffin's Wharf, and dumped 342 chests of East India Company tea into the harbor. The Boston Tea Party — and the spiral toward open war — began here.

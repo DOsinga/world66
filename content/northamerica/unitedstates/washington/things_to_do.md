@@ -7,6 +7,7 @@ price: Like the menu bar on your computer, the Menu Bar Cafe &
 title: Things to do
 type: poi
 url: www.interisland.net
+score: 2.0
 ---
 
 There are many things to do in Washington.
@@ -14,7 +15,7 @@ There are many things to do in Washington.
 **Contributors**
 July 25, 2007
 
-### [Menu Bar Internet Cafe](/northamerica/unitedstates/washington/things_to_do/menubarinternetcafe)
+### Menu Bar Internet Cafe
 
 NOT Washington, DC. This is in Washington State.
 

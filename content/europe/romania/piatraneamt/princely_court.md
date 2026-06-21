@@ -14,6 +14,7 @@ tags:
   - sight
 title: Princely Court
 type: poi
+score: 7.8
 ---
 
 The Curtea Domnească (Princely Court) is a 15th-century royal complex at the heart of Piatra Neamț's old town. The complex includes the Church of Saint John the Baptist, built by Ștefan cel Mare in 1497–1498, and the Princely Tower (Turnul lui Ștefan), a belfry tower from the same period. Both are among the best-preserved examples of Moldavian medieval architecture.

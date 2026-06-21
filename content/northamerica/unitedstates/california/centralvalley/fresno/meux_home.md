@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Meux_Home
 story: >
   Thomas Richard Meux built this house in 1889 when Fresno was barely a decade old. He was a Confederate Army surgeon who settled in California after the Civil War and became one of the city's founding citizens. The house he built was the most elaborate in early Fresno — its preservation gives the city a rare anchor to its origins as an agricultural boomtown.
+score: 6.9
 ---
 
 The Meux Home, at Tulare and R Streets in downtown Fresno, is an 1889 Queen Anne Victorian that stands as one of the best-preserved examples of late 19th-century domestic architecture in California's Central Valley. The house was built for Thomas Meux, a Confederate Army surgeon turned California pioneer, and remained in the family for decades before being donated to the city as a museum.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Sid Williams Theatre
 type: poi
+score: 6.1
 ---
 
 The 530-seat art-deco theatre on Cliffe Avenue began life in 1935 as the Bickle Theatre, a small-town movie palace. After near-demolition in the 1990s it was bought by the city and restored as a live-performance venue, named after the long-serving Courtenay mayor and theatre champion Sid Williams.

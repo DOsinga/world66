@@ -9,6 +9,7 @@ tags:
 title: KSL City Shopping Mall
 type: poi
 url: www.kslcity.com.my
+score: 4.6
 ---
 
 KSL City is a large shopping mall conveniently located near the Johor Bahru CIQ immigration checkpoint, making it a popular stop for day-trippers coming from Singapore. A taxi from the checkpoint costs around RM10, and direct public buses stop at the front entrance.

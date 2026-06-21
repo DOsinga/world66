@@ -5,6 +5,7 @@ tags: [things_to_do, museum]
 snippet: "Ferrari's official museum in Maranello, 15km from Modena — the full history of the racing legend"
 latitude: 44.5298
 longitude: 10.8649
+score: 7.7
 ---
 
 The Galleria Ferrari in Maranello is the official museum of Ferrari and contains the most comprehensive collection of Ferrari racing and road cars anywhere in the world. Unlike the Museo Enzo Ferrari in Modena, which focuses on the founder's life, the Galleria is about the cars themselves — Formula 1 championship-winning single-seaters, prototype endurance racers, and road cars spanning eight decades.

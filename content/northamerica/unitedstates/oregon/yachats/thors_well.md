@@ -9,6 +9,7 @@ type: poi
 snippet: "A basalt sinkhole on the Cape Perpetua shoreline that appears to drain the sea"
 story: >
   Thor's Well is not actually bottomless — it is a sea cave whose roof has collapsed, creating a roughly circular pit about twenty feet across. At high tide, waves surge in through an underwater opening, fill the pit, and then drain back with a dramatic sucking sound. The optical illusion at the right moment — waves pouring into the hole as if vanishing into the earth — is genuinely unsettling.
+score: 8.4
 ---
 
 Thor's Well is a collapsed sea cave in the basalt shoreline south of the Cape Perpetua visitor centre, and it produces one of the most striking natural spectacles on the Oregon coast. At high tide, particularly during surge conditions, the ocean pours into the pit from below, fills it, and then reverses — giving the strong impression of a drain swallowing the sea. The effect is best seen during the last two hours before high tide when wave energy is high enough to produce the surge without completely submerging the feature.

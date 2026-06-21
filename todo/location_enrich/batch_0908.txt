@@ -1,5 +1,0 @@
-northamerica/unitedstates/northcarolina/gastonia
-australiaandpacific/australia/newsouthwales/goulburn
-australiaandpacific/australia/northernterritory/alicesprings
-europe/italy/tuscany/lucca
-europe/spain/palencia

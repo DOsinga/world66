@@ -7,6 +7,7 @@ latitude: 51.7599
 longitude: 14.3345
 story: >
   The Sorbs are the only Slavic minority native to Germany, numbering around 60,000 people in the Lusatia region. Their language, Lower Sorbian, is closer to Polish and Czech than to German, and every street sign in central Cottbus appears in both languages. The community maintains its traditions actively — Sorbian Easter customs and folk costumes are still practised.
+score: 7.6
 ---
 
 The Wendisches Museum occupies a historic building near the Altmarkt and is the primary museum dedicated to the culture, history, and language of the Sorbs, the only Slavic people indigenous to Germany. The Sorbs have lived in the Lusatia region for over a thousand years, and Cottbus is the unofficial capital of Lower Sorbian culture.

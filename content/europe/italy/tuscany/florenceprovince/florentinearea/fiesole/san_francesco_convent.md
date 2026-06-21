@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.808028
 longitude: 11.289972
+score: 7.7
 ---
 
 The Convent of San Francesco sits at the top of the hill above Piazza Mino, reached by a steep lane that winds past the old Etruscan walls. Franciscan friars have been here since the early 15th century, and the small church retains a quiet, unrestored atmosphere quite different from the polished museums below. The convent is still active; visit respectfully and outside service hours.

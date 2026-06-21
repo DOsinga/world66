@@ -7,6 +7,7 @@ tags:
 latitude: 36.0195
 longitude: -95.9571
 snippet: "Pedestrian-friendly waterfront development next to the aquarium, with river views and outdoor dining"
+score: 5.8
 ---
 
 Riverwalk Crossing grew up alongside the Oklahoma Aquarium in the years after 2003, turning a stretch of the Arkansas River bank into a compact mixed-use development with restaurants, shops, a small amphitheater, and a paved riverwalk. It's not a grand waterfront — the Arkansas is a wide, shallow, sandy river at this point, and the development is modest in scale — but it's a pleasant place to walk before or after an aquarium visit.

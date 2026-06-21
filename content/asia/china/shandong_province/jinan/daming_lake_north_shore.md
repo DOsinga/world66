@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 36.6796
 longitude: 117.0008
+score: 7.8
 ---
 
 The north shore of Daming Lake has the most elaborate historic architecture in the lake park: the Huibo Tower (Meeting Waves Tower) projects on a platform over the water, its three-storied wooden structure with curved roofs and painted beams reflected in the lake below. The adjacent Beiji Temple and the small island pavilions in the lake create a scene that has been reproduced in Chinese ink paintings since the Tang Dynasty.

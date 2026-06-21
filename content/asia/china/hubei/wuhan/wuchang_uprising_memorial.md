@@ -8,6 +8,7 @@ tags:
   - museum
   - wuchang
 neighbourhood: Wuchang
+score: 7.8
 ---
 
 The Wuchang Uprising Memorial Museum, housed in the red-brick Hubei Military Government Building (the Hong Lou or Red House), commemorates the events of 10 October 1911 — the soldiers' mutiny in Wuchang that triggered the collapse of the Qing dynasty and the founding of the Republic of China. The building itself was the headquarters of the New Army units that started the uprising and later the seat of the provisional revolutionary government.

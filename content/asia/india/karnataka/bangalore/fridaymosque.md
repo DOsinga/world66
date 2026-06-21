@@ -6,6 +6,7 @@ tags:
 - sight
 title: Jumma Masjid
 type: poi
+score: 7.1
 ---
 
 The Jumma Masjid — Bangalore's Friday Mosque — is one of the oldest mosques in the city, and stands as an imposing presence in the old city area near the Bangalore Fort. Tall granite pillars support an elevated prayer hall, and the proportions of the structure give it a gravity that newer buildings in the neighbourhood cannot match. The mosque was built during Hyder Ali's rule in the 18th century and has been an active centre of Muslim worship ever since.

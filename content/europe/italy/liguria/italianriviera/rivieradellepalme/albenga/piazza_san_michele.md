@@ -7,6 +7,7 @@ tags:
 latitude: 44.0494
 longitude: 8.2133
 snippet: The civic and religious heart of Albenga's medieval centre
+score: 7.8
 ---
 
 Piazza San Michele is the main square of Albenga's old town, flanked by the cathedral on one side and the medieval civic buildings on the other. The square has served as the social and commercial centre of the town for over a thousand years. The adjacent Piazzetta dei Leoni — named for three stone lions brought from Rome — opens to the north of the main piazza and contains the Palazzo Vecchio del Comune with its base of black stone.

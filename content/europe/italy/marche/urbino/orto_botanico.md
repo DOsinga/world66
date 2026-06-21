@@ -9,6 +9,7 @@ tags:
 address: "Via Bramante 28, Urbino"
 latitude: 43.7275
 longitude: 12.6367
+score: 6.0
 ---
 
 The University of Urbino's botanical garden was established in 1809 in the cloister of a suppressed Carmelite convent. Just 2,200 square metres but densely planted, with formal beds of medicinal herbs at the centre and shaded paths around the perimeter. A 19th-century glasshouse holds tropical species.

@@ -7,6 +7,7 @@ snippet: A lakeshore park west of downtown, with the best city beach
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 Edgewater Park is the largest of the Cleveland Metroparks lakefront properties — a 130-acre stretch of bluffs and beach a few minutes west of downtown. The Upper Edgewater area has the skyline view that ends up in nearly every Cleveland postcard; Lower Edgewater is the city beach, a 900-foot crescent of sand that gets jammed on summer weekends but is otherwise underused.

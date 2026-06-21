@@ -8,6 +8,7 @@ tags:
   - museum
 story: >
   The museum is housed in a former sawmill, one of many that once dotted these valleys when timber was the main livelihood. The building itself is part of the exhibit — you can still see the old machinery and follow the process from felled tree to finished plank.
+score: 6.7
 ---
 
 This small museum at the entrance to Val Fondillo tells the story of the relationship between the people of Opi and the forests that surrounded them. Housed in a converted sawmill, it documents the hard lives of the woodcutters and muleteers who worked these mountains, with tools, photographs, and reconstructed scenes of daily labour. It is modest in scale but genuinely interesting, particularly if you are about to walk into the valley whose trees were the raw material.

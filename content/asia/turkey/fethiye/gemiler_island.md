@@ -8,6 +8,7 @@ snippet: Byzantine island ruins with churches, mosaics, and a possible link to S
 latitude: 36.5534
 longitude: 29.0694
 story: "Some scholars believe Gemiler Island was the original burial site of St Nicholas — the historical figure behind Santa Claus — before his remains were moved to Myra and later stolen by Italian merchants. The evidence is debated, but the island's Byzantine churches and covered processional way suggest it was an important pilgrimage site."
+score: 7.8
 ---
 
 Gemiler Island (also called St Nicholas Island) lies just off the coast between Fethiye and Ölüdeniz. The small island is covered with the ruins of Byzantine churches, rock-cut tombs, and a remarkable covered processional way that runs the length of the ridge. The mosaics in the churches are fragmentary but beautiful, and the views from the summit take in the whole coastline.

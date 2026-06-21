@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6652
 longitude: 116.9877
+score: 7.9
 ---
 
 Jinan's Great Mosque on Libei Street is one of the oldest mosques in Shandong, serving the city's Hui Muslim community that has been present here for several centuries. The mosque complex combines a Chinese courtyard layout with Islamic religious function — a pattern common to mosque architecture in inland China, where mosques were built to Chinese aesthetic standards while serving Islamic rites. The main prayer hall has a green-tiled roof in Chinese temple style.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "In July 1918, after the Romanovs were killed, the bodies were trucked into the forest north of the city and dumped down an abandoned mine shaft at Ganina Yama. Local geology defeated the cover-up — the shaft did not collapse — and the remains were retrieved and moved. The remains were not properly identified until DNA analysis in the 1990s. The Romanovs were canonised as passion-bearers in 2000."
+score: 7.9
 ---
 
 The Monastery of the Holy Royal Martyrs sits in the forest north of Yekaterinburg, marking the spot where the Romanov bodies were first taken after the execution. Seven wooden churches — one for each member of the murdered family — stand in a clearing of pines.

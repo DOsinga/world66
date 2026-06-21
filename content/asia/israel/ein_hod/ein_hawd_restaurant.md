@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 32.6922
 longitude: 35.0003
+score: 5.6
 ---
 
 A short drive up the hillside from Ein Hod brings you to Ein Hawd, the unrecognised Arab village that spent decades off the official map before eventually gaining legal status. The family restaurant run by the Abu Yahia family is the reason most visitors make the detour. It is a proper home-cooking operation: mezze plates of hummus, mutabbal, and tabbouleh arrive in quantity, followed by slow-roasted meats and fresh flatbread from the outdoor oven.

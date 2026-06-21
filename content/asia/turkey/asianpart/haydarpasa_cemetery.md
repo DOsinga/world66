@@ -8,6 +8,7 @@ latitude: 41.0
 longitude: 29.0194
 story: >
   The cemetery was established in 1854 for British soldiers who died during the Crimean War, many of them treated at the Selimiye Barracks hospital nearby. The graves include those of men who survived battle only to die of cholera or typhus in the hospital wards — the same wards where Florence Nightingale was fighting to reduce exactly these deaths. The cemetery is maintained by the Commonwealth War Graves Commission and is immaculately kept.
+score: 7.3
 ---
 
 The Haydarpaşa Cemetery is the British military cemetery established during the Crimean War, where soldiers who died at the Üsküdar hospitals are buried alongside later British and Commonwealth casualties from World War I. The cemetery is run by the Commonwealth War Graves Commission and is kept in exemplary order.

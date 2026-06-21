@@ -6,6 +6,7 @@ longitude: -86.952
 tags:
   - eating_out
   - restaurant
+score: 6.4
 ---
 
 La Choza is a family-run Yucatec restaurant a few streets back from the waterfront — popular with locals, dive instructors, and the few tourists who venture beyond the malecón. The cooking is traditional Mexican home-style with an emphasis on Yucatec specialities: cochinita pibil, sopa de lima, poc chuc, and chicken in mole.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 14.6672
 longitude: -17.3984
+score: 8.8
 ---
 
 There are no cars on Gorée — the island is small enough to walk end to end in twenty minutes — and the lanes between the old colonial houses are one of the great pleasures of the visit. Ochre, pink, and ultramarine stone walls drip with bougainvillea, doors are painted in bright greens and blues, and goats and children share the alleys with the occasional tourist.

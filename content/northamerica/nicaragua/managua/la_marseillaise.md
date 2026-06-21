@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 12.1132
 longitude: -86.2622
+score: 5.7
 ---
 
 La Marseillaise is Managua's best-known upscale restaurant, a French bistro that has been operating for decades in the Altamira neighbourhood and is the kind of place that survives political upheaval and economic crisis because there is always someone who needs a good meal. The menu is classical French with some Central American influences — expect duck confit, steak au poivre, and the occasional Nicaraguan ingredient done in a French style.

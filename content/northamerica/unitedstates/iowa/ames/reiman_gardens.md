@@ -10,6 +10,7 @@ tags:
 snippet: 17-acre botanical garden with a tropical butterfly wing on the south edge of Iowa State campus.
 story: >
   The garden's mascot is Elwood, a 15-foot concrete garden gnome that holds the Guinness World Record for the tallest concrete gnome on earth — installed in 2009 after the previous record-holder in Pennsylvania was demoted.
+score: 8.3
 ---
 
 Reiman Gardens sits at the south edge of the Iowa State University campus, just across University Boulevard from Jack Trice Stadium. The 17-acre botanical garden was established in 1995 and has grown into one of the larger public gardens in the Upper Midwest. It includes a rose garden, a herb garden, a children's garden, and extensive seasonal plantings, but the headline attraction is the Christina Reiman Butterfly Wing — a 2,500-square-foot tropical conservatory with hundreds of free-flying butterflies from around the world.

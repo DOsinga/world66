@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - outdoor
 snippet: Paddle between the inner lagoon islands and visit remote villages
+score: 7.3
 ---
 
 The calm, protected waters of the inner lagoon make Chuuk an excellent destination for sea kayaking. The distances between the inner high islands — Weno, Dublon (Tonoas), Fefan, Uman, and others — are manageable in a day, and the route passes over the clearest water in the Pacific. You can look straight down through 10–15 metres of water and see the reef below.

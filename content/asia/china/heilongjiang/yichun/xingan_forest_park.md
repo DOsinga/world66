@@ -12,6 +12,7 @@ story: >
   in the Xiaoxing'anling are among the largest remaining in Asia after extensive logging 
   in the 20th century. The 1990s logging ban came just in time — the forest coverage rate in 
   Yichun's administrative area still exceeds 80 percent, one of the highest in China.
+score: 7.5
 ---
 
 The Xing'an Forest Park on the edge of Yichun city is the most accessible introduction to the Korean pine forest of the Lesser Khingan Range. The park is free to enter, occupies a genuine old-growth section of the forest, and has walking trails that penetrate deep enough into the trees to give a real sense of the scale and age of the forest. The Korean pines — tall, straight-trunked, with a high canopy that filters the light into something cathedral-like — are unlike the managed pine plantations you encounter elsewhere in China.

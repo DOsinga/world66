@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 40.7124
 longitude: -89.5699
+score: 7.6
 ---
 
 Springdale Cemetery is Peoria's historic Victorian garden cemetery, established in 1855 on the bluffs north of the city. Like many American rural cemeteries of the period, it was designed as a landscaped park rather than a simple burial ground, with winding paths, mature trees, and monuments ranging from modest headstones to elaborate family mausoleums. It is the resting place of many of Peoria's prominent 19th and early 20th century citizens, and the monuments reflect the architectural ambitions of the city's industrial-era elite.

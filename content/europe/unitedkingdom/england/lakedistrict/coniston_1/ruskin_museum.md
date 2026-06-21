@@ -14,6 +14,7 @@ story: >
   and personal effects alongside the world speed record boats of Donald
   Campbell — an unlikely pairing that somehow captures the dual character of
   Coniston's legacy.
+score: 7.8
 ---
 
 The Ruskin Museum in the centre of Coniston village holds the most accessible collection of John Ruskin's work outside major galleries. Watercolours, drawings, letters, and personal objects are displayed alongside material about the geological and social history of the Coniston area. Ruskin is a more interesting figure than his reputation as a Victorian sage suggests — his ideas about art, labour, and economics were centuries ahead of their time, and the museum does him reasonable justice.

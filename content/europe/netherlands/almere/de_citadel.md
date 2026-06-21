@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 52.3698
 longitude: 5.2195
+score: 7.4
 ---
 
 **De Citadel** is the most distinctive building in Almere's centre — a colourful, sculpted mixed-use block by the French architect **Christian de Portzamparc**, finished in 2006. It sits on the edge of the Stadshart and contains shops on the ground floor, offices above, and a row of apartments on the top. The façades are a deliberate jumble of materials — coloured render, glass, terracotta, zinc — broken into a series of separate "houses" that step and tilt against each other.

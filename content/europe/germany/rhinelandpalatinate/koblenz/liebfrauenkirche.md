@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.3603
 longitude: 7.5984
+score: 8.1
 ---
 
 The high point of the Koblenz Altstadt — a twelfth-century Romanesque basilica with a Gothic choir and a pair of twin onion-domed Baroque towers. Built on the foundations of a Roman temple and then a Carolingian church, the building has been rebuilt and reskinned every two or three centuries since.

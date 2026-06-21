@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -3.3849
 longitude: 29.3658
+score: 7.4
 ---
 
 The Central Market is the commercial heart of Bujumbura, a sprawling covered market in the city centre where you can find almost anything. Fresh produce, dried fish, spices, fabrics, second-hand clothes, electronics, and household goods all have their sections. The fish market in the morning is particularly lively, with Lake Tanganyika cichlids and dagaa (small dried fish) among the most common offerings.

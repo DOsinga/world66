@@ -8,6 +8,7 @@ tags:
   - museum
 title: "Dom Diogo de Sousa Museum of Archaeology"
 type: poi
+score: 7.9
 ---
 
 Braga stands on the ruins of Bracara Augusta, founded by the Romans around 16 BC and eventually one of the four capitals of Roman Hispania. This museum, housed in a purpose-built modern building, holds the best surviving collection from those excavations: altars, inscriptions, mosaic fragments, coins, and sculpture pulled from the ground beneath the city.

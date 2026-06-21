@@ -7,6 +7,7 @@ tags:
 latitude: 55.45700
 longitude: 12.18210
 story: "The church tower was used as a lighthouse for ships entering Køge Bay — a common arrangement for coastal Danish churches, where the tower served the living as much as the dead. Inside, look for the carved epitaphs on the walls, which read like a compressed social history of the town's merchant families across three centuries."
+score: 7.2
 ---
 
 The parish church of Køge has stood on this spot since the 13th century, though most of what you see dates from the 15th and 16th centuries. It sits just north of the main square, its west gable facing Kirkestræde. The tower is a solid red-brick presence that anchors the whole medieval streetscape.

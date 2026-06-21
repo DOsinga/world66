@@ -10,6 +10,7 @@ story: >
   The Hippodrome opened in 1903 and is one of only two surviving purpose-built circus buildings in Britain. It was designed with a water tank beneath the ring that could be flooded for aquatic spectacles — a feature still used in the summer shows. The building has never been substantially altered, which is why it feels so genuinely Victorian.
 sources:
   - https://en.wikipedia.org/wiki/Great_Yarmouth_Hippodrome
+score: 7.3
 ---
 
 The Great Yarmouth Hippodrome is one of the last functioning Victorian circus buildings in Britain, and it has been running circus and variety shows since it opened in 1903. The interior is beautiful in the way that only a space designed entirely around spectacle can be — tiered seating curving around a sawdust ring, a painted roof, and the particular smell of a building that has seen a century of performance.

@@ -10,6 +10,7 @@ story: >
   Kemijärvi is the northernmost station on the Finnish passenger rail network — the very end of the line from Helsinki. In the era of Soviet détente, Cold War planners noted that the rail line terminated conveniently close to the Soviet border, though Finnish neutrality meant it was never used militarily.
 sources:
   - https://en.wikipedia.org/wiki/Kemij%C3%A4rvi_railway_station
+score: 5.9
 ---
 
 Kemijärvi railway station is the northernmost regular passenger station on the Finnish rail network — the end of the line from Helsinki. The station building is modest, dating from the post-war era, but arriving here by overnight sleeper from the capital carries a genuine sense of having reached somewhere. Step off the train in the morning and you are as far north as scheduled trains will take you in Finland.

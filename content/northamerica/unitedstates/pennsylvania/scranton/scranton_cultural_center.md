@@ -8,6 +8,7 @@ tags:
   - historic
 latitude: 41.4108
 longitude: -75.6606
+score: 8.1
 ---
 
 The Scranton Cultural Center is the city's largest theatre, housed in a former Masonic Temple from 1930. The building is a masterpiece of Art Deco architecture, with a striking white limestone facade, ornate plaster ceilings inside, and a 1700-seat auditorium that hosts touring Broadway shows, classical concerts, and the Scranton Philharmonic.

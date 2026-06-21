@@ -7,6 +7,7 @@ tags:
 latitude: 31.2167
 longitude: -7.3833
 story: "The Tizi n'Tichka road was built by the French Protectorate in the 1930s, replacing the old caravan route over the Tizi n'Test further west. Before the road, crossing the High Atlas took days by mule; now the pass is crossed by hundreds of vehicles daily in summer."
+score: 6.4
 ---
 
 The Tizi n'Tichka at 2,260 metres is the highest road pass in Morocco and the main route connecting Marrakech to the Saharan south. The road climbs from the Haouz plain in a series of broad switchbacks, passing through Berber villages where roadside traders sell rose quartz, fossils, and ammonites collected from the surrounding hills. The summit is marked by a cluster of souvenir stalls and a café with wide views south toward the desert.

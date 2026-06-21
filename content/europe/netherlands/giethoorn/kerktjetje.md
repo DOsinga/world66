@@ -5,6 +5,7 @@ latitude: 52.7400
 longitude: 6.0757
 snippet: "The small wooden church in the old village, surrounded by water on three sides"
 tags: [things_to_do, sight]
+score: 7.5
 ---
 
 The Kerktjetje — "little church" in local dialect — is a small wooden church in the oldest part of the village, surrounded by water on three sides and accessible only by a narrow wooden bridge. It is one of the most photographed spots in Giethoorn, and justifiably so: the combination of the thatched surroundings, the water, and the modest scale of the building makes it a picture that reads as quintessentially Dutch.

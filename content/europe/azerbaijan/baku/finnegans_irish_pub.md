@@ -6,6 +6,7 @@ longitude: 49.8385
 tags:
   - bars_and_cafes
   - bar
+score: 4.8
 ---
 
 Finnegan's, on A. Alizade Street, is the oldest of Baku's expat pubs and still one of the busiest. The interior is the familiar Irish pub kit — dark wood panelling, Guinness signs, big screens — but the place is well-run, the food is decent, and the crowd is a slice of the international oil business.

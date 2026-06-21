@@ -8,6 +8,7 @@ latitude: 29.0499
 longitude: 110.4789
 story: >
   The Heaven Gate Cave — Tianmen's defining feature — formed in 263 AD when the back wall of a cliff cave collapsed, leaving a hole about 130 metres high. The collapse was considered a divine omen by the local population; the hole has been visible from Zhangjiajie's predecessor settlement ever since. Chinese poets have been writing about it for seventeen centuries, and the cliff face below the cave was the site where wingsuit pilots flew through it in various record attempts from 2006 onward.
+score: 9.2
 ---
 
 Tianmen Mountain rises directly behind Zhangjiajie city, accessible by a cable car that runs from the central Suoxi Road station all the way to the summit — a 7.5-kilometre journey that claims to be the world's longest alpine passenger cableway and takes about 30 minutes. The view from the gondola covers the city, its surrounding hills, and then transitions to the high cliffs and forest of the mountain itself.

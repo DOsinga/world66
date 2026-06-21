@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+  location_enrich: '2026-06-02'
   poi_cleanup: '2026-04-20'
 image: lugo.jpg
 image_license: CC BY-SA 4.0
@@ -22,12 +23,15 @@ top of the wall, with views stretching over the Miño river valley and the hills
 Ancares, is reason enough to come.
 
 Inside the walls, the city is an unhurried Galician capital. The 12th-century Romanesque
-cathedral holds a centuries-old privilege of perpetual Eucharistic exposition. The Provincial
-Museum, free to enter, traces the region's story from prehistoric gold through Roman mosaics
-to the medieval period. Beneath a shopping mall nearby, a section of Roman road sits
-uncovered in the basement — discovered when builders dug the foundations.
+[cathedral](/europe/spain/galicia/lugo/cathedral) holds a centuries-old privilege of perpetual Eucharistic exposition. The [Provincial
+Museum](/europe/spain/galicia/lugo/provincial_museum), free to enter, traces the region's story from prehistoric gold through Roman mosaics
+to the medieval period. The nearby [Domus do Mitreo](/europe/spain/galicia/lugo/domus_do_mitreo) museum occupies a building constructed
+around an excavated Roman house that was later converted into a Mithraeum — a find unique in Galicia.
+Down by the Miño river, the [Roman bridge](/europe/spain/galicia/lugo/roman_bridge) built in the first century AD still carries
+pedestrians across the water.
 
-Lugo is also serious about eating. The old town's tapas bars — concentrated around Plaza
-del Campo, Rúa da Cruz and Rúa Nova — serve generous free tapas with every drink, a
-Galician custom that feels genuinely lavish. The local wine of choice is Ribeiro, though
-Mencía reds from the nearby Ribeira Sacra valley are worth seeking out.
+Lugo is also serious about eating. The old town's tapas bars — concentrated around [Praza do Campo](/europe/spain/galicia/lugo/praza_do_campo),
+Rúa da Cruz and Rúa Nova — serve generous free tapas with every drink, a Galician custom that feels
+genuinely lavish. The local wine of choice is Ribeiro, though Mencía reds from the nearby Ribeira Sacra
+valley are worth seeking out. In late June, the [Arde Lucus](/europe/spain/galicia/lugo/arde_lucus) festival fills the walled city with
+Roman legionaries, Celtic warriors, chariot races, and hundreds of thousands of visitors.

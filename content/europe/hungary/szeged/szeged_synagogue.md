@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Szeged_Synagogue
 story: >
   The Szeged Synagogue was designed by Lipót Baumhorn, who went on to become the most prolific synagogue architect in history, designing or renovating over two dozen synagogues across Central Europe. Szeged, completed in 1903, is considered his masterpiece. Baumhorn developed a distinctive style blending Moorish and Art Nouveau elements — visible here in the turquoise and gold dome, the ornate ironwork, and the extraordinary stained glass — that became enormously influential in the region.
+score: 9.2
 ---
 
 The Szeged Synagogue is one of the most beautiful synagogues in Europe and one of Hungary's most remarkable pieces of architecture. Built in 1903 for the prosperous Neolog Jewish community, it seats around 1,200 and was designed on a grand scale — the dome rises 48.5 metres and is visible from across the inner city. The exterior blends Moorish arches with Art Nouveau ornament in a combination that sounds incoherent in description but is wholly convincing in person.

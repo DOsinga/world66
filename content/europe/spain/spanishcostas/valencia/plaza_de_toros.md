@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 39.4667
 longitude: -0.3763
+score: 6.2
 ---
 
 Valencia's neoclassical bullring, modelled on the Roman arenas at Nîmes and Arles, was completed in 1860 next to the Estació del Nord. Fights are held mostly during the Fallas in March, the July fair, and the October feria, and the rest of the year the ring hosts concerts, motor shows, and a small bullfighting museum.

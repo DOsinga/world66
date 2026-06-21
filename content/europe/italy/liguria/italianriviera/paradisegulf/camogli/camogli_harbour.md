@@ -9,6 +9,7 @@ title: Camogli Harbour
 type: poi
 story: >
   The tall, elaborately painted facades on the harbour front are not purely decorative — the tradition of trompe-l'oeil painting arose partly as a form of competitive display among fishing families, and partly from practical necessity. At a time when pigments and fresco plasterwork were expensive, painting false windows, pediments, and balustrades was a way to suggest a grander building than you could actually afford. The results, accumulated over centuries, created something more interesting than the real thing.
+score: 9.3
 ---
 
 Camogli's harbour is a small, perfectly formed affair: a curved mole enclosing a basin of fishing boats, backed by a row of immensely tall, narrow palazzi painted in terracotta, yellow, and sage green, with trompe-l'oeil decorations imitating columns, cornices, and shuttered windows. The whole ensemble reflects in the water on calm mornings. It is the image most people carry away from the Italian Riviera, more than Portofino's yachts or the clifftop villages of the Cinque Terre.

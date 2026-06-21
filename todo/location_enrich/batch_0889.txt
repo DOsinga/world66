@@ -1,5 +1,0 @@
-asia/china/tianjin
-northamerica/unitedstates/ohio/port_clinton
-europe/sweden/oland
-asia/iran/hormuz_island
-northamerica/unitedstates/massachusetts/lowell

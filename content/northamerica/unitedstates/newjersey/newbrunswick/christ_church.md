@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 7.1
 ---
 
 Christ Church is the historic Episcopal church on the corner of Church and Neilson Streets, dating from 1742 — one of the oldest church buildings still in use in New Jersey. The current Gothic Revival structure replaced the colonial original after a fire; the bell tower and adjoining cemetery are the heart of New Brunswick's small surviving colonial-era streetscape.

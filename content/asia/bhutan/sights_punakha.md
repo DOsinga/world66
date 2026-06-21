@@ -6,6 +6,7 @@ tags:
 - sights
 title: Punakha Dzong
 type: poi
+score: 6.7
 ---
 
 Punakha Dzong sits at the confluence of the Pho Chhu and Mo Chhu rivers — the "male" and "female" rivers — an hour's drive east of Thimphu over the Dochula Pass. It's consistently named the most beautiful dzong in the country, and the setting earns it: whitewashed walls and gilded rooflines against the river junction, with jacaranda trees in purple bloom around the complex in spring.

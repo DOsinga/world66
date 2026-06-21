@@ -7,6 +7,7 @@ url: "skycenter.arizona.edu"
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The Mount Lemmon SkyCenter is a University of Arizona astronomy outpost at 9,150 feet on the summit of the Santa Catalinas — an hour's drive from downtown but a world away. The SkyNights program runs four to five evenings a week year-round: dinner, a tour, and several hours at one of the larger public-access telescopes in the country.

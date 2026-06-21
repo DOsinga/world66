@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 30.2469
 longitude: 120.1442
+score: 7.4
 ---
 
 The West Lake District (Xihu Qu) is the heart of old Hangzhou — the green crescent of lakeshore, hillside, and heritage buildings that stretches from Lingyin Temple in the northwest to the Qiantang River in the south. The lake and its surrounding landscape were inscribed as a UNESCO World Heritage Site in 2011, the citation noting that West Lake has profoundly influenced garden design across East Asia over a thousand years.

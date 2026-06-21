@@ -9,6 +9,7 @@ tags:
   - lake
   - swimming
   - park
+score: 7.4
 ---
 
 A long, warm lake fifteen kilometres south of Terrace, with the best sandy beaches in northwestern BC. Lakelse Lake Provincial Park covers most of the southern shore — Furlong Bay has the main day-use beach and a popular campground, while Gruchy's Beach on the eastern shore is the quieter alternative.

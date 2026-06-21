@@ -7,6 +7,7 @@ snippet: Old postal route over the mountain to the neighbouring fjord village
 tags:
 - things_to_do
 - hike
+score: 8.4
 ---
 
 Before the road, the way out of Saksun was on foot over the ridge to Tjørnuvík on the next fjord. The old postal route is still walkable and is one of the most rewarding day hikes in the Faroes. It is about 7 km one way, climbs steadily to around 600 m, and takes four to five hours with photo stops.

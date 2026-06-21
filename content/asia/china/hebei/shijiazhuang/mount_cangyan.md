@@ -12,6 +12,7 @@ story: >
   Bridge connecting two rock faces above a forested ravine, with the Cangyan
   Temple perched on a ledge beside it, the choice becomes obvious — the
   geography looks like something from a painting that someone then built into.
+score: 8.8
 ---
 
 Mount Cangyan in Jingxing County, about 50 kilometres southwest of Shijiazhuang, is one of those places where the natural landscape and the built environment have conspired to produce something genuinely extraordinary. Temples and halls have been cantilevered from cliff faces, inserted into cave openings, and connected to each other by bridges spanning gorges. The Rainbow Bridge, crossing between two rock faces above a steep forested ravine, is the most photographed element, but the whole complex rewards exploration.

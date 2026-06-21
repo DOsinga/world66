@@ -7,6 +7,7 @@ tags:
 - sight
 title: Caunos Theatre
 type: poi
+score: 7.2
 ---
 
 The theatre at Caunos is the most photographed structure on the site — a Hellenistic-style semicircle cut into the southern slope of the acropolis, with a clear view down to what was once the city's harbour (now silted into marshland).

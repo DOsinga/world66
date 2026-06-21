@@ -12,6 +12,7 @@ story: >
   for centuries were required to leave, though some returned and today live in the protected area under special
   arrangements, guiding visitors and running simple camps. Their camel trails through the area predate any
   tourist infrastructure by many generations.
+score: 8.8
 ---
 
 Ras Abu Galum is a coastal nature reserve about 15 kilometres north of Dahab, accessible by camel, on foot, or by boat. The terrain is dramatic — cliffs descending straight into the sea, narrow beaches of coarse sand, and crystal-clear water that is among the best for snorkelling in all of Sinai. The area is completely undeveloped, with no permanent roads and only simple Bedouin camps.

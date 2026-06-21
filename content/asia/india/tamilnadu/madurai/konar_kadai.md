@@ -8,6 +8,7 @@ longitude: 78.1255
 tags:
 - eating_out
 - restaurant
+score: 6.7
 ---
 
 Konar Kadai is the most famous of the Simmakkal-area street stalls that come alive after 8pm. The signature dish is "kothu parotta" — shredded flatbread tossed on a hot griddle with egg, mutton and a fiery dark salna gravy — and the rhythmic clang of the chefs' metal spatulas hitting the griddle is part of the experience.

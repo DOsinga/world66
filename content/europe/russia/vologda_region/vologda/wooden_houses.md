@@ -9,6 +9,7 @@ latitude: 59.2215
 longitude: 39.8938
 story: >
   The carved wooden window frames of Vologda are a local tradition with no exact parallel elsewhere in Russia. The decorative vocabulary — sunbursts, stylised flowers, interlocking geometric patterns — appears to derive from both pagan Slavic and later Christian iconographic sources. The craftsmen who made them were typically not carpenters but specialist carvers hired by house owners for the window surround alone, which might take a week to complete for a single window.
+score: 8.7
 ---
 
 One of the most distinctive things about Vologda is the concentration of 19th-century wooden domestic architecture still standing in the residential streets north and east of the Kremlin. These are not grand buildings — they are two- and three-storey wooden houses of the provincial merchant and artisan class — but they are decorated with carved window frames, eave boards, and porch details of a quality and intricacy that makes them collectively one of the best examples of the Russian wooden building tradition.

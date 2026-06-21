@@ -8,6 +8,7 @@ tags:
 - sight
 title: Clematis Street
 type: poi
+score: 6.8
 ---
 
 Clematis Street runs west from Flagler Drive and the waterfront into the heart of downtown West Palm Beach. It is the city's oldest commercial street and still its liveliest: a six-block strip of restaurants, bars, music venues, and the occasional historic building that survived the post-war reinventions. The eastern end opens onto the waterfront and the small Centennial Square, where summer concerts run on Thursday evenings.

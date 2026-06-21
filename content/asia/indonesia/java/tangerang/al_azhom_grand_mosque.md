@@ -13,6 +13,7 @@ story: >
   creating something that doesn't quite look like anything else in the country. The mosque was
   inaugurated in 2003 and can hold 15,000 worshippers — making it the largest mosque in Banten
   province by a significant margin.
+score: 6.3
 ---
 
 The Al-Azhom Grand Mosque sits in the civic centre of Tangerang and is impossible to miss — its domed silhouette and crenellated walls dominate the surrounding area. Built between 1997 and 2003, it was conceived as a landmark building for a city that was growing rapidly and wanted a religious centrepiece to match its ambitions.

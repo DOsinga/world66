@@ -10,6 +10,7 @@ tags:
 - museum
 story: >
   Dr. Edward Livingston Trudeau came to Saranac Lake in 1873 expecting to die of tuberculosis. He instead recovered, opened a sanatorium, and built this laboratory in 1894 — the first in the U.S. dedicated to studying a single disease. The work done here helped lay the foundations for modern infectious-disease research, and the building is now a National Historic Landmark.
+score: 8.2
 ---
 
 The Saranac Laboratory was the first U.S. research lab built to study tuberculosis, founded in 1894 by Dr. Edward Livingston Trudeau as part of his Adirondack Cottage Sanitarium. The exhibits cover the development of the cure-cottage approach, the medical breakthroughs that eventually produced effective TB drugs, and the village's century-long transformation from health resort to research community.

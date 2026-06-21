@@ -7,6 +7,7 @@ tags:
   - church
 latitude: 51.6705
 longitude: -1.2811
+score: 7.1
 ---
 
 St Nicolas was originally the abbey's chapel for lay folk — the abbey itself was off-limits to ordinary parishioners — and sits hard against the Abbey Gateway on the north side of the market square. The west tower and parts of the nave date to the twelfth century, which makes it the oldest standing structure in central Abingdon.

@@ -9,6 +9,7 @@ latitude: 53.8699
 longitude: -2.3972
 story: >
   Holmes Mill opened as a textile mill in 1854 and ran as one of Clitheroe's industrial anchors for well over a century before closing. When developers converted it, they kept the full length of the weaving shed intact and turned it into the bar — which at 200 metres is believed to be the longest single bar in the United Kingdom. The conversion won several architectural awards for sensitive industrial reuse.
+score: 6.5
 ---
 
 Holmes Mill is a converted Victorian textile mill that now houses a brewery, hotel, restaurant, beer hall, and what is claimed to be the longest bar in the United Kingdom. The mill building dates from 1854 and the conversion preserved much of its industrial structure, including the original beam engine that drove the looms. The Bowland Brewery, based here, produces several ales that are available on tap throughout the complex.

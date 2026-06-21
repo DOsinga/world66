@@ -9,6 +9,7 @@ tags:
 latitude: 38.1922
 longitude: 15.5554
 story: "The astronomical clock on the cathedral's campanile is one of the most elaborate in the world — a 60-metre tower of moving figures and astronomical dials that performs a full automated show at noon, with golden figures processing and a roaring lion striking the hours. Built in 1933 by the Ungerer firm of Strasbourg, it replaced the original clock destroyed in the 1908 earthquake along with most of the rest of Messina. The noon show draws a small crowd every day, locals and tourists alike, and even if you know it's coming the scale and intricacy of it catches you off guard."
+score: 8.4
 ---
 
 The Cathedral of Messina is a Norman foundation from the 12th century, but the building you see today is largely a reconstruction. The 1908 earthquake destroyed the city, and what fire and rubble spared, World War II bombing finished. The current cathedral was painstakingly rebuilt using original stonework where it survived, and the facade has the distinctive alternating patterns of Norman-Arab architecture. Inside, the apse mosaics are genuine medieval work, miraculously preserved.

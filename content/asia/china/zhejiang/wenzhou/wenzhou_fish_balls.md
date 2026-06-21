@@ -7,6 +7,7 @@ tags:
 latitude: 27.9938
 longitude: 120.6993
 snippet: "The city's defining street food — elastic, flavourful fish balls served in clear broth at stalls throughout Wenzhou"
+score: 5.8
 ---
 
 Fish balls (鱼丸, yúwán) are the signature street food of Wenzhou, made from ground yellow croaker fish mixed with starch and hand-pounded into a smooth, elastic paste. The Wenzhou version is considered distinct from fish balls elsewhere in China: the texture is firmer, the fish flavour cleaner, and the cooking is typically simple — served in a light clear broth with spring onion and white pepper, without heavy seasoning that would mask the seafood quality.

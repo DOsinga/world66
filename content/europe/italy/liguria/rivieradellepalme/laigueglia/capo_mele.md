@@ -8,6 +8,7 @@ tags:
 - historical_site
 title: Capo Mele Lighthouse
 type: poi
+score: 6.9
 ---
 
 Capo Mele is the rocky promontory that closes the southern end of the bay below Laigueglia, and the lighthouse at its tip — a slim, white-and-red striped tower from 1923 — is one of the most photographed features of this stretch of the Riviera. The walk out from the eastern end of the Laigueglia seafront takes about half an hour along the coastal path, with the sea on one side and Aleppo pines and prickly pears scrambling up the slope above.

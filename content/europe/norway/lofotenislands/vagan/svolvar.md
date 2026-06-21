@@ -7,6 +7,7 @@ tags:
 latitude: 68.2353
 longitude: 14.5636
 story: "Until the railway extended north in the 1960s, Svolvær was a working fishing port best known for the spring cod season (the Lofotfiske), when tens of thousands of seasonal fishermen and traders descended on the islands. The population of Lofoten quadrupled every March; it still does, though now it's tourists rather than fishermen who arrive."
+score: 7.3
 ---
 
 Lofoten's de facto capital and main entry point — population around 4,500, a sheltered harbour ringed by 1,000-metre granite peaks, and the busiest hub for ferry, express boat, and air arrivals. The town centre is compact and walkable: a couple of quays, a string of restaurants and gear shops, and the cube-shaped Magic Ice ice bar / art gallery on the waterfront for those who like that sort of thing.

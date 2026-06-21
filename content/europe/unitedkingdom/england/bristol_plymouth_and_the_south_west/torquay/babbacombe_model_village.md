@@ -8,6 +8,7 @@ tags:
 snippet: "Four acres of miniature England with 13,000 tiny inhabitants"
 latitude: 50.4827
 longitude: -3.5205
+score: 7.4
 ---
 
 A model village on a scale that takes itself seriously. Four acres of meticulously built miniature landscapes, with thousands of one-inch figures going about their business — football matches, fires being put up, weddings, traffic jams, a beach scene complete with topless sunbathers. It has been a Torquay fixture since the early 1960s and is the sort of attraction that sounds twee on paper and turns out to be hugely entertaining in person.

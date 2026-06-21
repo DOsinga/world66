@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -36.7285
 longitude: 146.9590
+score: 5.9
 ---
 
 Ginger Baker is one of Bright's best-regarded cafes, occupying a heritage building on the main street and serving breakfast and lunch with an emphasis on produce from the Ovens and King valleys. The menu changes with the season — stone fruit in summer, game and root vegetables in autumn — and the baking is notably good.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 20.6889
 longitude: -103.4667
+score: 6.3
 ---
 
 The Estadio Akron — home of Club Deportivo Guadalajara, universally known as Chivas — is one of the finest football stadiums in Mexico. Built in 2010 with a capacity of around 49,000, it is distinctive for its shape (designed to look like a traditional sombrero from above) and for being entirely privately funded and owned. Chivas is the most popular team in Mexico by fan base, and the stadium is nearly always sold out for important matches.

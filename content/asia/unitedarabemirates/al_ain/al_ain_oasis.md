@@ -6,6 +6,7 @@ longitude: 55.762
 snippet: "147,000 date palms irrigated by a 3,000-year-old water system — the green heart of the UAE."
 tags: [things_to_do, sight, nature]
 story: "This UNESCO World Heritage Site is one of the oldest continuously cultivated landscapes in the world. The ancient falaj channels that feed it were first dug around 1000 BC and still carry water from underground aquifers to the roots of 147,000 date palms today. Walking under the canopy here on a hot afternoon is one of the most genuinely restorative experiences in the Emirates — the temperature drops perceptibly the moment you step through the perimeter wall."
+score: 9.3
 ---
 
 The Al Ain Oasis sits in the heart of the city and is easily the most important single place to visit in Al Ain. It is one of six oases inscribed as a UNESCO World Heritage Site in 2011, recognised for the exceptional preservation of its traditional *falaj* irrigation system. The falaj — a network of underground and surface channels that tap into the water table and distribute water by gravity — is one of the oldest agricultural technologies in the Arabian Peninsula, and Al Ain is where you can see it working at its most impressive scale.

@@ -10,6 +10,7 @@ longitude: 23.6700
 snippet: The river forming the Swedish-Finnish border, famous for salmon fishing and midnight sun
 story: >
   The Torne River is one of the few major European rivers that has never been dammed for hydropower — an extraordinary fact for a waterway of its size. The agreement to protect it was driven partly by the need to preserve the salmon run, which has been a food source for the Tornedalen communities for centuries. In Mikael Niemi's novel Popular Music from Vittula, the river is almost a character in itself — the boundary that simultaneously separates and connects Sweden and Finland, where boys from both sides meet in the middle.
+score: 7.6
 ---
 
 The Torne River runs along the Swedish-Finnish border at Pajala, one of the longest undammed rivers in northern Europe and one of the best salmon rivers in Scandinavia. The river is wide and cold here — this far north it carries water from the fells of Finnish Lapland — and in summer the banks come alive with fishing activity, particularly during the salmon run.

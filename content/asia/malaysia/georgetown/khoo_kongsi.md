@@ -9,6 +9,7 @@ tags:
 - sight
 - architecture
 story: "The original clan temple, completed in 1894, burned down in 1901. Local lore says the building was simply too grand for a clan house — it rivalled the homes of the local deities — and a fire-spirit was offended. The rebuilt version, finished in 1906 and still standing, was deliberately scaled back. It is still the most lavish Chinese clan house in Southeast Asia."
+score: 9.3
 ---
 
 The Leong San Tong Khoo Kongsi is the grandest of Georgetown's clan kongsi — the temples and meeting halls built by Hokkien immigrants from Fujian to maintain family ties, settle disputes and worship ancestors. It sits at the centre of Cannon Square, a walled enclave of shophouses, a clan theatre and the family cemetery, all built by the Khoo family from the 1850s onward.

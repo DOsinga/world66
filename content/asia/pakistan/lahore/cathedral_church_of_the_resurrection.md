@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 The Cathedral Church of the Resurrection — usually called Lahore Cathedral — is the principal Anglican (now United Protestant) cathedral of Pakistan, built between 1883 and 1887 to a Gothic Revival design. The pink Indian sandstone walls and the rose window above the west door give it the closest thing in Pakistan to a English country cathedral.

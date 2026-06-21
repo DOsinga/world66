@@ -9,6 +9,7 @@ tags:
 - sight
 title: Chippewa Square
 type: poi
+score: 7.6
 ---
 
 One of the most visited of Savannah's 22 historic squares, Chippewa Square is dominated by a bronze statue of James Oglethorpe, Georgia's founder, looking south toward the Spanish settlements he spent his career fighting back. The square is well-proportioned and surrounded by handsome Federal-era buildings.

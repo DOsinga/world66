@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Priluki_Monastery
 story: >
   The monastery was founded in 1371 by the monk Dimitry Priliutsky, a close associate of Sergius of Radonezh — the founder of the Trinity Lavra, the most important monastery in Russia. During the Time of Troubles in the early 17th century, Spaso-Prilutsky served as a supply point for the armies resisting the Polish-Lithuanian intervention; local tradition credits the monastery with significant donations to Minin and Pozharsky's liberation campaign. A large stone wall, built after the Polish raids, still encircles the complex.
+score: 9.0
 ---
 
 A fortified monastery about five kilometres north of the city centre, on a bend of the Vologda River — founded in 1371 and still functioning as an active Orthodox monastery. The main structures date from the 16th and 17th centuries: the Cathedral of the Saviour (1537), the Gate Church, the bell tower, and the substantial stone walls built to defend against raids during the Time of Troubles.

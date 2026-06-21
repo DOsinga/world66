@@ -10,6 +10,7 @@ longitude: -122.7146
 sources:
   - https://en.wikipedia.org/wiki/Mount_Ashland_Ski_Area
   - https://en.wikipedia.org/wiki/Mount_Ashland
+score: 7.4
 ---
 
 Mount Ashland rises to 2,296 metres at the crest of the Siskiyou Mountains, about 24 kilometres south of Ashland on a spur road off Interstate 5. The ski area is small — 44 runs across 200 acres — but the mountain's position at the southern end of the Cascades means reliable snow from December through April, with no crowds to speak of. On a clear day the summit views reach south into California and north toward Crater Lake.

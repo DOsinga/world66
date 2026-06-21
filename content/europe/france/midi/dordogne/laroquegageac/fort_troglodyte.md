@@ -9,6 +9,7 @@ latitude: 44.8272
 longitude: 1.1833
 story: >
   The fort was built in the 12th century by the Bishop of Sarlat and carved directly into the cliff face using the natural overhangs of the limestone. During the Hundred Years' War it served as a refuge for villagers fleeing English forces — the rocky overhang and the sheer drop made it virtually impregnable.
+score: 8.4
 ---
 
 Above the village rooftops, cut directly into the overhanging limestone cliff, the Fort Troglodyte is the most dramatic thing to see in La Roque-Gageac and the one that most people walk straight past without realising it exists. A steep path climbs from the village street up through the rock to reach the hollowed-out chambers and defensive walls that form the fort, with extraordinary views over the Dordogne River and the surrounding valley.

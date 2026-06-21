@@ -10,6 +10,7 @@ tags:
 - mosque
 - architecture
 - little_india
+score: 8.2
 ---
 
 The Kapitan Keling Mosque is Georgetown's principal mosque and the spiritual heart of its long-established Indian Muslim community. The name refers to Caudeer Mohuddeen, the leader (kapitan) of the South Indian Muslim community in early 19th-century Penang who funded the original mosque on this site in 1801; "Keling" is the older Malay word for Indians of the subcontinent. The current building, mostly dating from a 1916 reconstruction, has a Mughal-influenced form: white-and-cream walls, ogee arches, slender minarets, a large dome over the prayer hall and four smaller ones over the corners.

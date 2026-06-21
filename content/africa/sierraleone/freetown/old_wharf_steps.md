@@ -9,6 +9,7 @@ tags:
 latitude: 8.4860
 longitude: -13.2330
 story: "The steps were built in 1818 to handle landings from the slave ships intercepted by the Royal Navy in the Atlantic. Liberated Africans were unloaded here and walked up to the King's Yard for registration. The slope down which they walked is the same one the steps still climb today."
+score: 7.6
 ---
 
 A flight of stone steps running down to the water at the eastern edge of the central waterfront, used in the early 19th century as the landing place for freed Africans brought in by the Royal Navy. The steps are among the oldest surviving brick structures in Freetown and have been recognised by UNESCO as a site of memory.

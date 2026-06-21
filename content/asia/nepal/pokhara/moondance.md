@@ -9,6 +9,7 @@ tags:
   - lakeside
 neighbourhood: Lakeside
 snippet: A long-running Lakeside favourite for Nepali, Continental and woodfired pizza
+score: 5.8
 ---
 
 A Lakeside institution that has been feeding trekkers for over two decades. The menu is the standard upmarket-traveller mix — wood-fired pizzas, steaks, pasta, Nepali thali, and the inevitable "yak burger" — but the kitchen is consistent and the staff are excellent. The interior is high-beamed with timber and stone, with a small garden out the back; live music most nights in season.

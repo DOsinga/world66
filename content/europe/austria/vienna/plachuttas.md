@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - innere_stadt
+score: 7.1
 ---
 
 Plachutta has popularised Tafelspitz — boiled beef in clear broth, served in a copper pot with marrow bones and root vegetables — as Vienna's other defining dish after the schnitzel. The Wollzeile branch near Stephansdom is the original. The whole production comes to the table in stages: first the broth with marrow on toast, then the meat with horseradish and apple-and-chive sauces.

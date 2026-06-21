@@ -7,6 +7,7 @@ tags:
   - snorkelling
 latitude: 13.32
 longitude: 121.93
+score: 7.9
 ---
 
 The Tres Reyes — Three Kings — are three small islands off Marinduque's southern coast named for the biblical Magi: Gaspar, Melchor, and Baltazar. They sit in clear water with coral reefs in reasonable condition, and the snorkelling around all three is among the best accessible reef diving in this part of the Philippines. The fish life is varied and the visibility is typically good outside monsoon season.

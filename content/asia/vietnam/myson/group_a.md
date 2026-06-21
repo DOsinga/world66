@@ -8,6 +8,7 @@ title: Group A (Bombed Temple)
 type: poi
 story: >
   In August 1969, a single week of American B-52 bombing raids destroyed what French scholars had described as the most important temple at My Son — Kalan A1, "the great temple," dedicated to Sambhu-Bhadresvara, with majestic proportions, great antiquity, and rich decoration. The bombing was a military action targeting North Vietnamese Army units sheltering in the ruins. The craters are still visible. Unexploded ordnance remains in the surrounding jungle.
+score: 8.1
 ---
 
 Group A was once the grandest complex at My Son — the sacred centre of the Champa kingdom's religious life, built around the great kalan A1, which French archaeologists described as the finest Cham temple on the site. It was dedicated to Sambhu-Bhadresvara, the composite deity linking the historical king Bhadravarman I with Shiva, and it stood at the heart of a walled complex with subsidiary towers and enclosing walls.

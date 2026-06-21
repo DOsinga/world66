@@ -14,6 +14,7 @@ story: >
   when Kingston was briefly the capital of the Province of Canada — the scale and grandeur
   were meant to signal permanence. The capital moved to Montreal in 1844, the same year the
   building was completed.
+score: 8.1
 ---
 
 Kingston City Hall is one of the finest examples of neoclassical civic architecture in Canada. Designed by architect George Browne and completed in 1844, it sits on a full city block facing Lake Ontario at the foot of the Market Square — a location that makes it the visual centrepiece of downtown Kingston. The domed building in pale limestone, with its colonnaded facade and prominent position, was built to befit a national capital, which Kingston briefly was.

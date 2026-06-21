@@ -8,6 +8,7 @@ tags:
   - sight
   - temple
   - taoist
+score: 8.8
 ---
 
 On the wooded slopes of Mingfeng Hill, eight kilometres northeast of central Kunming, the Golden Temple is the largest surviving bronze building in China. Cast in 1671 on the orders of the Ming-loyalist general Wu Sangui, it is a perfect small copy of a traditional wooden temple — beams, brackets, lattices, and tiles all in bronze, weighing some 250 tonnes in total. The bronze has darkened over time but flashes gold in low afternoon light, which is where the name comes from.

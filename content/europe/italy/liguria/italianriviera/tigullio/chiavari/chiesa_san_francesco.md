@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Chiesa di San Francesco
 type: poi
+score: 5.9
 ---
 
 A seventeenth-century church in Matteotti square, rebuilt in 1630 by Francesco Bianco. The church marks the eastern edge of the old town and is notable for its simple, severe facade — a contrast to the more ornate churches elsewhere in Chiavari.

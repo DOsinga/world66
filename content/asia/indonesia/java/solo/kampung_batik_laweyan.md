@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -7.5714
 longitude: 110.7926
+score: 8.1
 ---
 
 Laweyan is the oldest batik-producing neighbourhood in Solo, its history stretching back to the 16th century when it was a centre of the Javanese textile trade. The kampung retains much of its historic fabric — old merchant houses with high walls, ornate gates, and the layout of traditional Javanese production workshops where the batik is made in the compounds behind the street fronts.

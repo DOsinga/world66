@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - lagos_island
+score: 7.3
 ---
 
 Originally called Independence Square, this small open plaza on Broad Street is one of the few breathing spaces in the dense commercial centre of Lagos Island. The square is named after Madam Efunroye Tinubu, the 19th-century Yoruba merchant who was one of the most powerful businesswomen on the Atlantic coast in her time. The Memorial of Independence — a tall granite obelisk — was put up after independence; the surrounding buildings include some of the few surviving Brazilian-style 19th-century townhouses in Lagos.

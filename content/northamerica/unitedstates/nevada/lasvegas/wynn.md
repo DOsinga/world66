@@ -11,6 +11,7 @@ tags:
 - center_strip
 story: >
   Wynn Las Vegas was built on the former Desert Inn site, which Steve Wynn purchased and imploded in 2001. The new property opened in 2005 and pioneered a deliberately understated approach for Vegas — no themed exterior, no signage on the building, just the curving bronze tower.
+score: 7.5
 ---
 
 Steve Wynn's namesake property and its 2008 sister tower Encore sit at the north end of the central Strip and represent the high end of Vegas luxury. The curving bronze glass exteriors deliberately avoid the themed gimmicks of older neighbours; the experience is instead about the interior, with marble, fresh flowers everywhere, and a Wynn-curated art collection in the public spaces.

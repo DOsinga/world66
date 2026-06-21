@@ -10,6 +10,7 @@ tags:
 - sight
 title: Jacinta
 type: poi
+score: 6.1
 ---
 
 Excellent restaurant in the heart of the bohemian Palermo neighbourhood serving Uruguayan and Latin American dishes. The venue occupies an old house with a large internal patio — a relaxed setting for an evening out, with live music and open skies overhead. English and French spoken.

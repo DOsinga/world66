@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Plato Restaurant
 type: poi
+score: 4.0
 ---
 
 Italian and French food in Mohandiseen, with karaoke at weekends. Lively and informal — a good spot if you want dinner and entertainment in one place.

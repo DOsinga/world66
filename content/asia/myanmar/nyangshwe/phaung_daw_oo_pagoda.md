@@ -8,6 +8,7 @@ snippet: Inle Lake's most sacred pagoda, home to five much-gilded Buddha images
 latitude: 20.5667
 longitude: 96.8889
 story: "The five small Buddha images at Phaung Daw Oo have been completely smothered in gold leaf by pilgrims — they now look like featureless lumps and are barely recognisable as figures. In the annual festival, four of them are paraded around the lake on a gilded barge for eighteen days; one stays at the pagoda to keep watch."
+score: 8.0
 ---
 
 Phaung Daw Oo is the most important Buddhist site on Inle Lake. The whitewashed pagoda houses five small Buddha images, said to have been brought from Cambodia by King Alaungsithu in the twelfth century. Over the centuries pilgrims have applied so much gold leaf that the figures are now unrecognisable.

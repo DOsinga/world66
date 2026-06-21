@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 11.5740
 longitude: 103.0670
+score: 4.9
 ---
 
 A 25,000-hectare protected mangrove estuary on the coast east of Koh Kong, threaded by tidal channels and dotted with stilted Khmer fishing villages. The mangroves shelter monkeys, crab-eating macaques, otters, kingfishers, and Irrawaddy dolphins in the deeper channels — though dolphin sightings are rare.

@@ -8,6 +8,7 @@ tags:
 - church
 title: Stadtpfarrkirche Mariä Himmelfahrt
 type: poi
+score: 7.9
 ---
 
 The Parish Church of the Assumption, just behind the Hauptplatz, is a tall late-Gothic hall church begun in 1458 by Matthäus von Ensingen — the same architect family responsible for Bern and Strasbourg cathedrals. The exterior is severe red brick with a green copper steeple; the interior is a different story, with three centuries of accumulated baroque and rococo fittings filling the Gothic shell.

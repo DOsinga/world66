@@ -9,6 +9,7 @@ tags:
 - berlinmitte
 title: Café Bar Mitte
 type: poi
+score: 5.8
 ---
 
 One of the more fun spots at the lower end of Oranienburger Straße, which is otherwise heavily tourist-facing. Young crowd, low prices, dancing at weekends. Gets crowded quickly after midnight on Fridays and Saturdays.

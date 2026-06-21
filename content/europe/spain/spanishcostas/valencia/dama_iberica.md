@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.4683
 longitude: -0.3537
+score: 5.7
 ---
 
 An eighteen-metre-high sculpture of an Iberian woman, made up of 22,000 small ceramic bricks arranged to form the silhouette of the famous Lady of Elche — a 5th-century BC Iberian bust that remains one of the great Spanish archaeological mysteries. The monumental version stands beside the Turia gardens near the Palau de la Música.

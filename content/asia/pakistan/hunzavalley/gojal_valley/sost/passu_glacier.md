@@ -6,6 +6,7 @@ longitude: 74.8800
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The blue ice of the Passu Glacier descends from the Batura Muztagh range and reaches almost to the Karakoram Highway near Passu village. A rough trail leads from the road up to the glacier's snout in about an hour and a half; it climbs through moraine debris with the dirty front of the ice ahead.

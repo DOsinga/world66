@@ -12,6 +12,7 @@ tags:
   - bar
   - sullivans_cove
 snippet: "Glass-walled cocktail bar on the waterfront — Hobart's most photographed view, glass in hand"
+score: 6.6
 ---
 
 A glass-walled cocktail bar wrapped around the upper level of Brooke Street Pier, with views straight up the harbour to Mount Wellington. The cocktail list is creative and well-executed, with a long section dedicated to Tasmanian spirits — Lark and Sullivans Cove single malts, Hartshorn vodka, McHenry gin. Snacks (oysters, charcuterie, smoked fish) come from the pier's produce hall below.

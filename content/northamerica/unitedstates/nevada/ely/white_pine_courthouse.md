@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 39.2478
 longitude: -114.8881
+score: 6.5
 ---
 
 A handsome 1908 Neoclassical Revival courthouse of cream-coloured brick, dominating the south end of downtown Ely. Designed by Reno architect Frederic DeLongchamps — who designed half a dozen Nevada courthouses in the same period — it sits behind a small grass square with a war memorial.

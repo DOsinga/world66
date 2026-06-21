@@ -14,6 +14,7 @@ story: >
   local museum as an exhibit. The international protests that followed forced the museum
   to quietly put "El Negro de Banyoles" in storage — he was eventually returned to
   Botswana and buried in 2000.
+score: 8.3
 ---
 
 The Estany de Banyoles is one of the largest natural lakes in Catalonia, fed by underground karst springs and strikingly clear. The lakeside promenade is lined with plane trees and rowing clubs, and the route around the lake — about 7 km — makes for a fine morning walk with views of the water, the reed beds, and the low hills beyond.

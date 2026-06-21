@@ -10,6 +10,7 @@ latitude: 44.05417
 longitude: -70.70944
 sources:
   - https://en.wikipedia.org/wiki/John_and_Maria_Webb_House
+score: 5.9
 ---
 
 The John and Maria Webb House at 121 Main Street is one of the few surviving Federal-period buildings in Bridgton. Built in 1841–42, it is a 2½-story wood-frame house with Greek Revival details — a recessed entry flanked by sidelights and decorative pilasters, a gabled roof, and a granite foundation. It was listed on the National Register of Historic Places in 2013.

@@ -10,6 +10,7 @@ tags:
 title: Michele's Ristorante
 type: poi
 url: michelesristorante.com
+score: 3.7
 ---
 
 Michele's Ristorante in Etobicoke, ON serves authentic Italian cuisine at affordable prices. An Etobicoke restaurant with incredible decor and great food, it's the perfect place to enjoy a night of fine dining and live entertainment with friends.

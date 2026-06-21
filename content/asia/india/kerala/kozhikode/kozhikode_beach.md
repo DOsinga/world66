@@ -8,6 +8,7 @@ longitude: 75.7694
 tags:
 - things_to_do
 - sight
+score: 7.4
 ---
 
 The Kozhikode (Calicut) beach is a long arc of brown sand on the western edge of the city, lined for two kilometres by promenading families and pushcart snack vendors. Two crumbling wooden-and-iron piers stretch out into the Arabian Sea — what is left of the colonial-era Calicut Port, once busy with spice clippers and now used mostly by fishermen and selfie-takers.

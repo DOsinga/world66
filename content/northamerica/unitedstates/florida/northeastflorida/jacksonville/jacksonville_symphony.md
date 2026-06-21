@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.3250
 longitude: -81.6622
+score: 7.3
 ---
 
 The Jacksonville Symphony Orchestra performs a regular season of classical, pops, and chamber concerts from September through April at Jacoby Symphony Hall in the Jacksonville Center for the Performing Arts. Founded in 1949, the Symphony is one of the anchor cultural institutions of the city, and its programming covers the standard orchestral repertoire alongside less familiar works and educational concerts for schools.

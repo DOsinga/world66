@@ -10,6 +10,7 @@ latitude: 39.2252
 longitude: 20.1598
 address: "Waterfront, Loggos"
 neighbourhood: Loggos
+score: 5.6
 ---
 
 A reliable seafood taverna on the harbour at Loggos. Tables on the quayside almost touch the boats; the day's catch is laid out on ice at the entrance and you pick what you want. Whole fish are charged by the kilo and grilled simply over coals.

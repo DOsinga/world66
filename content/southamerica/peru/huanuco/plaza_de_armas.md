@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -9.9287
 longitude: -76.2396
+score: 6.8
 ---
 
 Huánuco's Plaza de Armas is one of the more attractive main squares in Peru's highland cities — well-kept, lined with colonial arcades, and animated in the evenings when locals come out to walk and talk. The central gardens are immaculate, with flowering shrubs and shade trees that provide relief during the warm afternoons. The square is flanked on one side by the Cathedral of the Lord of Burgos, a 17th-century church with a relatively plain façade that conceals a more elaborate interior with colonial-era religious paintings and gilded altarpieces.

@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: 'Battlefield where the Creek War ended in 1814, preserving 2,040 acres of history along the Tallapoosa River.'
 story: 'On March 27, 1814, over 800 Red Stick Creek warriors died defending a fortified bend in the Tallapoosa River against Andrew Jackson''s combined force of militia, regulars, and Cherokee allies. The defeat forced the Creek Nation to cede nearly 20 million acres -- roughly half of present-day Alabama -- and launched Jackson toward the White House.'
+score: 8.8
 ---
 
 The 2,040-acre park sits about 12 miles north of Dadeville along State Route 49, centered on the horseshoe-shaped bend in the Tallapoosa River where the Red Sticks made their last stand. Start at the visitor center, which has a small but well-curated museum with weapons, maps, and a fiber-optic battle map that walks you through the engagement step by step. A 20-minute film provides context on the Creek War and the broader conflict between the U.S. and indigenous nations during the War of 1812 era.

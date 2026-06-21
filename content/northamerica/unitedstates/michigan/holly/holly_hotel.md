@@ -8,6 +8,7 @@ tags:
 title: Holly Hotel
 type: poi
 story: "Carrie Nation, the hatchet-wielding temperance crusader, stormed into the hotel saloon in 1908 and smashed the bar. A photograph of her in mid-rampage hangs in the lobby — and the Carry Nation Festival in August reenacts the visit each year."
+score: 7.1
 ---
 
 The Holly Hotel on Battle Alley is the heart of the town. Built in 1891, it survived two devastating fires (in 1913 and 1978) and now does triple duty as a fine-dining restaurant, basement comedy club, and one of the most reliably haunted buildings in Michigan. Staff and guests over the decades have reported the smell of cigar smoke, doors that won't stay shut, and a piano that plays itself.

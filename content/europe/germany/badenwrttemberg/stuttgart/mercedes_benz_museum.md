@@ -18,6 +18,7 @@ story: >
   gasoline-powered automobile in the same year.
 sources:
   - https://en.wikipedia.org/wiki/Mercedes-Benz_Museum
+score: 9.4
 ---
 
 The Mercedes-Benz Museum in Stuttgart-Bad Cannstatt is one of the most spectacular automotive museums in the world, housed in a dramatic double-helix building that opened in 2006. The collection spans the entire history of the automobile — from Carl Benz's 1886 Patent-Motorwagen, the first true gasoline-powered car, through the great racing cars of the 1930s, to current Formula 1 machines.

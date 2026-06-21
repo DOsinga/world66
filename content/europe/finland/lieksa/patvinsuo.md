@@ -9,6 +9,7 @@ tags:
   - park
   - wildlife
   - hiking
+score: 7.8
 ---
 
 A wilderness of bog, lake, and forest about 50 kilometres south-east of Lieksa, established as a national park in 1982. Boardwalks cross some of the largest unspoiled mires in eastern Finland, and the park is one of the few places south of Lapland where you have a real chance of seeing brown bear tracks, wolverines, and migrating cranes.

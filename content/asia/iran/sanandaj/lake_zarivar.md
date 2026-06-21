@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5280
 longitude: 46.1786
+score: 7.8
 ---
 
 Lake Zarivar, near the city of Marivan about 100 km southwest of Sanandaj, is one of the most beautiful lakes in western Iran. At 1,285 metres elevation, the lake is a freshwater wetland surrounded by reeds, willows, and the oak forest typical of the Zagros mountains. Migrating birds use it as a rest stop, and the birdlife — herons, pelicans, ducks, and wading birds — is exceptional in spring and autumn.

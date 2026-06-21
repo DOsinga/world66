@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -34.9228
 longitude: -57.9563
+score: 8.4
 ---
 
 The neo-Gothic cathedral on Plaza Moreno is one of the largest churches in the Americas and one of the great unfinished stories in Argentine architecture. Construction began in 1884, the year La Plata was founded, and the original design called for two enormous towers flanking the entrance. The towers were finally completed — in 1999, 115 years later — making this one of the longest construction projects of any cathedral in the Western Hemisphere.

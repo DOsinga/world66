@@ -8,6 +8,7 @@ story: >
   The Von Braun Center is named for Wernher von Braun, the German rocket engineer who directed the team at Redstone Arsenal that developed the Jupiter-C rocket — and later the Saturn V. Von Braun became a controversial but celebrated figure in Huntsville, deeply embedded in local civic life. When the city's main convention and entertainment complex opened in 1975, naming it after him was, for most residents, simply a tribute to the man who put their city on the map.
 sources:
   - https://en.wikipedia.org/wiki/Von_Braun_Center
+score: 5.6
 ---
 
 The Von Braun Center is Huntsville's main entertainment and convention complex, anchoring the southwest corner of Big Spring Park. It contains a 9,000-seat arena, a concert hall, a playhouse, a smaller music venue, and extensive exhibition space. Most major concerts, sporting events, and conventions in north Alabama pass through here — if something big is happening in Huntsville, it is almost certainly at the Von Braun Center.

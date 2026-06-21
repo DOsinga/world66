@@ -10,6 +10,7 @@ tags:
 - nightlife_and_entertainment
 title: Sonderbar
 type: poi
+score: 4.3
 ---
 
 A relaxed neighborhood bar on Rothebühlstrasse in Stuttgart's Mitte district. Sonderbar draws a mixed local crowd with its unpretentious atmosphere, decent drinks selection, and reasonable prices. A good spot for a casual evening drink away from the more tourist-oriented places in the city center.

@@ -7,6 +7,7 @@ snippet: "Medieval castle on the Italian side, ten minutes' walk across the bord
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The castle that gave both Gorizia and Nova Gorica their names sits on a low hill in the centre of Italian Gorizia, a fifteen-minute walk from Trg Evrope. The earliest castle here dates from the 11th century, when it was the seat of the Counts of Gorizia; the present walls and bastions are mostly 15th- and 16th-century. The Italian state restored it after wartime damage and it now contains a small museum of medieval Gorizia.

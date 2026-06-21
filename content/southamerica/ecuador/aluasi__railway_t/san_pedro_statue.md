@@ -7,6 +7,7 @@ tags:
 - sight
 title: Statue of San Pedro
 type: poi
+score: 6.5
 ---
 
 A large statue of St Peter stands on the hill above Alausi, reachable by a short climb from the town centre. The patron saint of the town looks out over the Chanchan River valley and the deep gorge the railway descends into. On a clear day the view extends to the snowy flanks of Chimborazo, Ecuador's highest peak.

@@ -7,6 +7,7 @@ tags:
 snippet: "The old town's main shopping street, running through the medieval gates"
 latitude: 47.99460
 longitude: 7.84970
+score: 6.4
 ---
 
 The Kaiser-Joseph-Strasse — called "Kajo" by locals — runs straight through the old town from the Siegesdenkmal in the north down to the Martinstor in the south, a kilometre of department stores, cafés, and pavement musicians. It is fully pedestrianised apart from the trams that run down the middle.

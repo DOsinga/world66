@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 34.41598
 longitude: 8.78717
+score: 7.3
 ---
 
 The Regional Museum of Gafsa holds a collection that punches above what you might expect from a provincial phosphate city. The standout pieces are the Roman mosaics, several of which were recovered from local villas and retain vivid color — hunting scenes, geometric borders, a fish-and-water composition that reflects how the Romans thought about this oasis in the middle of the steppe. The display is modest in scale but well-curated, and the labels provide enough context to understand why each piece matters.

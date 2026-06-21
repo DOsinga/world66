@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 40.9982
 longitude: 16.6798
+score: 6.2
 ---
 
 The parish church of Sant'Anna sits at the centre of the old town, a sober white-stone facade looking onto the small piazza that doubles as Toritto's living room. The current building dates to the eighteenth century, replacing an earlier mediaeval church on the same spot, and its single nave holds a handful of baroque altars and a wooden statue of Saint Anne carried in procession during the July feast.

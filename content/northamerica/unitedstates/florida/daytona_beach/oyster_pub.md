@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: The Oyster Pub
 type: poi
+score: 5.6
 ---
 
 A Daytona Beach landmark since 1983, The Oyster Pub is part raw bar, part sports pub, and full to overflowing on race weekends. The half-shell oysters are the draw — they come at a fair price from a long horseshoe bar where the shuckers keep up with a steady stream of orders — along with peel-and-eat shrimp and steamed mussels.

@@ -2,6 +2,7 @@
 title: King Crab House
 type: poi
 tags: [eating_out, restaurant]
+score: 6.8
 ---
 
 The King Crab House in Skarsvåg offers the most direct experience of what the Barents Sea produces: live king crab caught in pots a short distance from the village, cooked simply and served in a room overlooking the cove. The crabs are enormous — legs can span a metre — and the meat is sweet, dense, and needs almost nothing added to it beyond drawn butter and bread.

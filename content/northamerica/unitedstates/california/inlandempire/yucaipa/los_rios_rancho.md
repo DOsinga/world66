@@ -8,6 +8,7 @@ tags:
   - restaurant
 latitude: 34.0398
 longitude: -116.9408
+score: 6.8
 ---
 
 Los Rios Rancho is the largest of the family apple farms strung along Oak Glen Road and the one most worth driving up to from Yucaipa. The 100-acre ranch has been growing apples here since the 1900s — twenty heritage varieties, almost none of which you will see in a supermarket — and runs a substantial farm shop with pies, jams, hot cider, and a working bakery.

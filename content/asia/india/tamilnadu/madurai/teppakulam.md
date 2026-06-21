@@ -8,6 +8,7 @@ longitude: 78.1408
 tags:
 - things_to_do
 - sight
+score: 5.8
 ---
 
 The Vandiyur Mariamman Teppakulam is a huge square temple tank — roughly 300 metres on a side — with a small island shrine at its centre. The tank dates to the 17th century and was excavated to supply the bricks used in the construction of the Thirumalai Nayak Palace nearby.

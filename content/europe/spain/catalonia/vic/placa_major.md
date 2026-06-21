@@ -11,6 +11,7 @@ story: >
   than a thousand years — one of the longest-running weekly markets in Catalonia.
   In winter, the square fills with stalls selling the local fuet and llonganissa
   sausages, and the smell of grilled meats drifts through the porticoed arcades.
+score: 8.1
 ---
 
 The Plaça Major is the social and commercial heart of Vic, ringed by medieval arcades under which townspeople and visitors have traded, argued, and eaten for centuries. It is one of the finest porticoed squares in Catalonia, and on market days — Tuesday and Saturday — it fills with stalls selling local produce, cured meats, cheeses, and artisan goods.

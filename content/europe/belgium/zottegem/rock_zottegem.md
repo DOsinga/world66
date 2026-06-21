@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.8675
 longitude: 3.8294
+score: 6.7
 ---
 
 The annual rock festival held every July in Zottegem, drawing 20,000–30,000 fans for a long weekend of mostly Belgian and Dutch rock and indie bands with the occasional international headliner. The festival has run since 1976 and is one of the older and more relaxed events of its kind in Flanders.

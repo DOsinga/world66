@@ -14,6 +14,7 @@ story: >
   then returned south to teach at Nanhua for thirty-seven years. His mummified body
   has sat in this temple since 713 AD — over thirteen centuries of continuous
   veneration at the place where he died.
+score: 9.2
 ---
 
 Nanhua Temple, about 25 kilometres south of the city in a narrow river valley, is one of the most important Buddhist sites in China. It was the home monastery of Huineng, the sixth and most influential patriarch of Chan Buddhism — the tradition that became Zen in Japan. Huineng's teaching that enlightenment could be sudden and direct rather than gradual and scholarly transformed Buddhist practice across East Asia, and this is where he lived and taught for the last decades of his life.

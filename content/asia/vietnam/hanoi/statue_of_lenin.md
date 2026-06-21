@@ -7,6 +7,7 @@ tags:
 latitude: 21.0269
 longitude: 105.8378
 snippet: "Five-metre bronze Lenin at the center of a small triangular park — still immaculate"
+score: 5.6
 ---
 
 The 5.2-metre bronze statue of Vladimir Lenin stands at the center of Lenin Park, a small triangular green space at the junction of Dien Bien Phu and Tran Phu streets, directly opposite the Vietnam Military History Museum. The statue was a gift from the Soviet Union and was unveiled in 1985, a few years before the Soviet Union itself began to come apart. It has remained in excellent condition, repainted and maintained by the city authorities as a matter of political continuity — Vietnam's Communist Party has not engaged in the monument removal that followed the Soviet collapse elsewhere.

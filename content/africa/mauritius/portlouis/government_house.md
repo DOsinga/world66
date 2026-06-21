@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.0
 ---
 
 Government House stands at the inland end of Place d'Armes, a long, two-storey colonial building that has served as the seat of administration since the French period. The original structure was built in 1738 by Mahé de Labourdonnais and has been added to and rebuilt many times since.

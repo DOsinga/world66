@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Scandinavian Bakery
 type: poi
+score: 5.4
 ---
 
 A fixture on the Nam Phu fountain square for over twenty years, the Scandinavian Bakery is where expats and travellers go for a familiar breakfast. The bread is real, the croissants are flaky, and the coffee is reliable — none of which are guaranteed in Laos.

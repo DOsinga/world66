@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - diving
 snippet: A tanker with an intact engine room and extraordinary coral growth
+score: 9.2
 ---
 
 The Shinkoku Maru is a 10,000-ton fleet oiler that many consider to be Truk Lagoon's most spectacular dive, particularly for photographers. The ship sits at 12–40 metres, its upper deck accessible to recreational divers and its enormous engine room largely intact.

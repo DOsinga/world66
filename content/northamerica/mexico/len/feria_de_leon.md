@@ -8,6 +8,7 @@ tags:
 latitude: 21.1155
 longitude: -101.6561
 story: "The Feria de León is one of the oldest continuing state fairs in Mexico, held since the 17th century in honor of the feast day of Our Lady of the Light. What began as a religious celebration gradually absorbed the commercial fair that traded livestock and leather goods, and today it is the largest fair in Mexico and one of the largest in Latin America."
+score: 7.0
 ---
 
 The Feria de León is an enormous annual fair that runs for three weeks from January into February, centred on the Polifórum León fairground complex on the eastern edge of the city. It is one of Mexico's biggest events — drawing millions of visitors — and combines an agricultural show, a commercial exhibition, concerts, rodeos (charreadas), bullfights, and an amusement park into something that essentially takes over the city.

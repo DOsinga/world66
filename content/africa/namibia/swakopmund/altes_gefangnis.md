@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
 snippet: Formidable 1909 colonial prison — one of Swakopmund's most striking German buildings
+score: 7.1
 ---
 
 The Old Prison is one of the most striking pieces of German colonial architecture in Swakopmund, which is saying something in a town full of it. Built in 1909 in the German Imperial style, it presents a massive, turreted facade to the street that looks more like a Bavarian castle than a correctional facility. It is a national monument and is still in use as a correctional services facility, which means you cannot go inside — but the exterior, especially the main gate tower with its battlements and arrow slits, is worth seeking out.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, gallery]
 latitude: 51.6171
 longitude: 7.2028
+score: 6.9
 ---
 
 The Kunsthalle Recklinghausen is a modern and contemporary art gallery that has been running changing exhibitions since the 1950s. It sits in a functional post-war building not far from the city centre, and its programme tends toward German and international contemporary art with occasional retrospectives of lesser-known 20th-century figures.

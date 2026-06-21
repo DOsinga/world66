@@ -8,6 +8,7 @@ tags:
 - landmark
 title: University of Kisangani
 type: poi
+score: 6.4
 ---
 
 Founded as the Free University of the Congo in 1963 and now one of the largest universities in the Democratic Republic of the Congo, with around 15,000 students. The campus, west of the city centre, has the spread-out feel of a late-colonial university, with brick buildings in landscaped grounds.

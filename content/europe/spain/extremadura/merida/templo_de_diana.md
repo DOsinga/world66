@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.9168
 longitude: -6.3438
+score: 8.2
 ---
 
 Misleadingly named — it was never dedicated to Diana but was the city's imperial cult temple, dating from the late first century BC. The mistake is the fault of seventeenth-century historians; the temple itself stands more or less where the Romans built it, in a small archaeological square a couple of blocks from the Plaza de España. Its complete granite peristyle of fluted columns and Corinthian capitals is one of the most photogenic Roman remains in Spain.

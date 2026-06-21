@@ -8,6 +8,7 @@ latitude: 39.8586
 longitude: -4.0244
 story: >
   Medieval chroniclers claimed the Cave of Hercules was built by Hercules himself and contained a sealed room full of treasure and prophecy. When the Visigoths broke open the room, they allegedly found paintings of Arab warriors — foretelling the Moorish conquest of 711. King Rodrigo's decision to open the room was blamed for bringing disaster on Spain. The prophecy story appears in chronicles written centuries after the fact, but the cave itself is real and Roman.
+score: 6.8
 ---
 
 Beneath Toledo's old city runs a network of Roman cisterns and tunnels, the most famous of which is the Cave of Hercules — a vaulted underground space dating to Roman times, located in the alley of San Ginés. For medieval Toledans, it was a place of mystery and legend; Arab geographers mentioned it, Christian chroniclers elaborated the stories, and the cave accumulated a mythology far larger than its modest dimensions.

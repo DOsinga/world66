@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.2997
 longitude: 144.6606
+score: 6.2
 ---
 
 The Umatac Outdoor Library is an unusual bit of local history: an open-air reading space built in 1933 by Francisco Quinata Sanchez and a group of village volunteers, constructed from local materials and intended to bring books to a community without a formal library building. The structure — a simple roofed enclosure open on the sides — is listed on the National Register of Historic Places, which makes it one of Guam's few officially recognised historic structures outside of the Spanish colonial fortifications.

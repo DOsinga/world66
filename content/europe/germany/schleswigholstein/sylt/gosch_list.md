@@ -8,6 +8,7 @@ tags:
   - restaurant
   - list
 snippet: The original of the Gosch fish-smokehouse chain, on the harbour at List
+score: 5.9
 ---
 
 Gosch is now a chain with branches across Germany, but the original is the weather-boarded fish smokehouse on the harbour at List — a slightly chaotic complex of bar, restaurant, takeaway counter, and shop, all looking out over the fishing boats. The famous claim to be "Germany's northernmost fish stand" is technically true, since List is Germany's northernmost municipality.

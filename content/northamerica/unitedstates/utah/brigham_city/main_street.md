@@ -7,6 +7,7 @@ tags:
 snippet: Classic small-town American Main Street with historic buildings and the Peach Days arch
 latitude: 41.5102
 longitude: -112.0153
+score: 6.7
 ---
 
 Brigham City's Main Street is one of those small-town American main streets that feels like it has barely changed in decades. The brick commercial buildings house a mix of antique shops, a bookstore, a few cafes, and the usual small-town necessities. The famous Peach Days arch spans the street — a nod to the annual September festival celebrating the local peach harvest, which has been running since 1904.

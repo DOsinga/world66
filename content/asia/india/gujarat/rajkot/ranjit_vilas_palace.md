@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - architecture
 snippet: Former royal residence of the Rajkot State, built 1865, still partly owned by the family
+score: 7.2
 ---
 
 The official residence of the former rulers of Rajkot State, completed in 1865 and a mix of European-Italianate and traditional Gujarati architectural styles. The palace is set in landscaped grounds with deer and peacocks, and includes the family's private collection of period furniture, paintings, hunting trophies and royal vehicles. Parts of the building remain a private residence; the public sections operate as a small heritage museum on a limited schedule.

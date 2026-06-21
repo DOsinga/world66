@@ -7,6 +7,7 @@ tags:
 title: Dresden Transport Museum
 type: poi
 story: "The museum occupies the Johanneum, a former royal stable from the 17th century that Augustus the Strong converted into a porcelain gallery. The building itself — with its long, arcaded ground floor — is as interesting as the exhibits, and the courtyard it faces, the Neumarkt, gives it a setting that few transport museums anywhere can match."
+score: 7.6
 ---
 
 The Saxon State Transport Museum (Verkehrsmuseum Dresden) fills the Johanneum at the corner of Neumarkt and Augustusstrasse, a long Renaissance building that has served as stables, a porcelain gallery, and — since 1956 — one of the better regional transport collections in Germany. The exhibits cover rail, road, air, and water transport with a particular focus on Saxon and East German engineering history. There are locomotives, vintage automobiles, bicycles, and aircraft, alongside documentation of the industrial development that made Saxony one of the most productive regions in nineteenth-century Europe.

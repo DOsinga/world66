@@ -9,6 +9,7 @@ tags:
 title: Mrs. Balbir's
 type: poi
 snippet: "Beloved North Indian home cooking with a charismatic host"
+score: 6.3
 ---
 
 Famous for authentic North Indian home-style cooking. The vegetarian dishes, Tandoori chicken, and nan breads are all superb. Mrs. Balbir herself is a wonderful host -- chatty, genuine, and entertaining. One of those restaurants where you come for the food but stay for the personality. Widely considered one of the best Indian restaurants in Bangkok.

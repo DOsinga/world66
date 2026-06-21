@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, shopping, market]
 latitude: 45.7372
 longitude: 7.3203
+score: 6.9
 ---
 
 Piazza Chanoux is the main square of Aosta — the Roman forum in a different era — and it holds a regular food and produce market where the agricultural produce of the valley comes directly to the city. Valle d'Aosta is one of Italy's smallest regions but has an unusually strong tradition of small-scale cheese and charcuterie production, much of it from farms in the side valleys that are effectively inaccessible for most of the year.

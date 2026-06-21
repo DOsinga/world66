@@ -3,8 +3,6 @@ title: 'Day Trips'
 type: section
 ---
 
-Detroit sits within easy striking distance of some excellent day trips in both Michigan and Ohio.
+Detroit sits within easy striking distance of excellent day trips in both Michigan and Ohio.
 
-**Cedar Point, Sandusky** is about two hours south in Ohio and home to one of America's greatest amusement parks, famous for its record-breaking roller coasters. Take the Ohio Turnpike to exit 118 and follow the signs.
-
-**[Frankenmuth](/northamerica/unitedstates/michigan/frankenmuth)** is a little Bavaria in Michigan, about 90 minutes north via I-75. The buildings are distinctly German, the chicken dinners at the Bavarian Inn and Zehnder's are legendary, and Bronner's Christmas Wonderland keeps the holiday spirit alive year-round.
+[Ann Arbor](/northamerica/unitedstates/michigan/annarbor) is the quickest escape — 45 minutes west on I-94, a lively university town with a great art museum, good bookshops, and one of the most impressive college football stadiums in the country. [Frankenmuth](/northamerica/unitedstates/michigan/detroit/frankenmuth_day_trip), about 90 minutes north on I-75, is Michigan's Little Bavaria: half-timbered streets, legendary all-you-can-eat chicken dinners at Zehnder's and the Bavarian Inn, and Bronner's Christmas Wonderland. [Cedar Point](/northamerica/unitedstates/michigan/detroit/cedar_point) in Sandusky, Ohio is two hours south via the Ohio Turnpike and holds more record-breaking roller coasters than any other park in the world.

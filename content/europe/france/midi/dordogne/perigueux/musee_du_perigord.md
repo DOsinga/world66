@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 45.1860
 longitude: 0.7237
+score: 8.0
 ---
 
 The Musée d'Art et d'Archéologie du Périgord — usually shortened to Musée du Périgord — pulls together finds from across the Dordogne, a region with more important prehistoric sites per square kilometre than almost anywhere on earth. The Palaeolithic galleries are the highlight, with carved stones, ornaments and tools from Les Eyzies, La Madeleine and other regional sites.

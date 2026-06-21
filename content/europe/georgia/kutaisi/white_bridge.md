@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.2687
 longitude: 42.7033
+score: 7.4
 ---
 
 The White Bridge (Tetri Khidi) crossing the Rioni River is one of the most photographed spots in Kutaisi, particularly from the hill near Bagrati Cathedral, where the bridge and the city centre form a clean panorama with the mountains behind. The bridge itself dates to the Soviet era but the setting is natural.

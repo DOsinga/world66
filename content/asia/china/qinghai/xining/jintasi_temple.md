@@ -8,6 +8,7 @@ latitude: 36.6350
 longitude: 101.7500
 story: >
   Jintasi was founded in 1390 — one of the earliest of the Kumbum branch monasteries in the Xining area. It survived the Qing dynasty, the Republican period, and even the Cultural Revolution (which severely damaged but did not destroy it) to function today as an active Buddhist institution in the middle of a city of 2.4 million people. The monks here hold prayers in the original assembly hall on a schedule largely unchanged for six centuries.
+score: 6.7
 ---
 
 Jintasi Temple — officially Dusum Nyiwo Monastery — is a Tibetan Buddhist temple founded in 1390 in what was then a rural setting north of the original Xining town. The city has long since swallowed the surrounding landscape, but the temple continues to function as an active monastery with resident monks, sitting in a courtyard enclosed by apartment buildings on all sides.

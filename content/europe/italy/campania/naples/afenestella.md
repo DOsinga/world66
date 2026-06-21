@@ -10,6 +10,7 @@ tags:
 title: Ristorante A' Fenestella
 type: poi
 url: www.afenestella.it
+score: 6.7
 ---
 
 Perched at the foot of the Posillipo hill above the sea at Marechiaro, this restaurant is a Neapolitan institution. The setting is extraordinary; the food is classic seafood and pasta from the Naples tradition. Not cheap, but the experience goes beyond the meal.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.4128
 longitude: -97.4503
+score: 7.9
 ---
 
 The only skeleton museum in the United States open to the public, attached to Skulls Unlimited International — the world's leading supplier of cleaned osteological specimens to universities and other museums. The displays cover over three hundred animals, from a sperm whale skeleton suspended from the ceiling to comparative galleries of skulls grouped by family.

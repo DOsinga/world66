@@ -8,6 +8,7 @@ tags:
 - history
 title: Coastal Fort
 type: poi
+score: 5.8
 ---
 
 A 17th-century fort sits at the western end of the beach, built as part of Portugal's coastal defence network at a time when Algarve villages were vulnerable to pirate raids. The fort has been converted into a restaurant but the exterior and its position above the beach are worth a look. The low, squat tower and the cannon platforms give a sense of how the coastline was once watched and defended.

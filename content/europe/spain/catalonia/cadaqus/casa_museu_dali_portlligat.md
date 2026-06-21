@@ -9,6 +9,7 @@ latitude: 42.2931
 longitude: 3.2862
 story: >
   Dalí lived at Portlligat almost continuously from 1930 until his wife Gala's death in 1982. He bought the original fisherman's hut in 1930 and spent decades expanding it room by room until the compound had grown into a labyrinthine cluster of whitewashed structures connected by narrow passages and unexpected patios. The house still contains the giant stuffed polar bear that Gala used as a coat rack, the bed from which Dalí could see the sea without sitting up, and the egg-topped studio where he worked for fifty years.
+score: 8.8
 ---
 
 The Casa Museu Dalí at Portlligat, a ten-minute walk around the bay from Cadaqués, is the most personal of the three Dalí museums in Catalonia. This was where he actually lived and worked, and the house retains the accumulated oddities of a long creative life: unusual furniture, taxidermy, mirrors positioned to capture specific views of the Cap de Creus headland, a swimming pool shaped like a telephone receiver.

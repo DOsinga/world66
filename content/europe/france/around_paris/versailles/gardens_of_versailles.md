@@ -10,6 +10,7 @@ story: >
   Le Nôtre designed the gardens so that all major vistas converge on the King's
   bedroom window — every tree, path, and fountain axis points back to Louis XIV.
   The gardens are not a setting for the palace; the palace is an incident in the gardens.
+score: 9.9
 ---
 
 The gardens of Versailles are among the greatest feats of landscape design in history. André Le Nôtre laid them out for Louis XIV from the 1660s onwards, imposing a rigorous geometry on what was originally swampy, unpromising ground. The result — clipped hedges, flat parterres, radiating allées, fountains and sculpture at every node — stretches for 800 hectares west of the palace and could absorb a full day of walking.

@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
 story: "The Sentiero Azzurro is one of the oldest waymarked footpaths in Italy — it was first signed by the Italian Alpine Club in 1893, long before the railway opened and back when the trail was the only way to move between the five villages other than by boat."
+score: 8.6
 ---
 
 The Blue Trail is the coastal footpath that links the five villages of the Cinque Terre, and the section through Corniglia is the central one. To the south, the path drops through vineyards down to Manarola in around an hour; to the north, the harder stretch climbs through the macchia and pine woods to Vernazza in around 90 minutes. Both segments give you the views that postcards are made of.

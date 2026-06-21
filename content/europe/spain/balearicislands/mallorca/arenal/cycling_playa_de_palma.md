@@ -7,6 +7,7 @@ tags:
   - cycling
 latitude: 39.5178
 longitude: 2.7426
+score: 7.1
 ---
 
 The flat promenade connecting S'Arenal to Ca'n Pastilla — and continuing into Palma itself — is one of the best cycling routes on the island for non-cyclists. The path is traffic-free for most of its length, completely flat, and runs along the waterfront for around seven kilometres. Bike hire is available from several shops on the promenade and from a cycle share scheme with docking stations along the route.

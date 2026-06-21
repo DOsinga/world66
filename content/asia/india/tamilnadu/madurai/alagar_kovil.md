@@ -8,6 +8,7 @@ longitude: 78.2167
 tags:
 - things_to_do
 - sight
+score: 7.5
 ---
 
 Alagar Kovil, 21 kilometres north-east of Madurai, is the home temple of Alagar (Vishnu) in the local tradition — and the place from which Alagar sets out each year during the Chithirai festival to attend his sister Meenakshi's wedding in the city. The temple sits at the foot of a sacred wooded hill and feels much more rural and quiet than the great urban temples.

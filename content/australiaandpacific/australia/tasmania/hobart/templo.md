@@ -11,6 +11,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Tiny 20-seat Italian restaurant in a converted house — the best small-format dining in Hobart"
+score: 7.2
 ---
 
 A 20-seat, no-choice Italian set-menu restaurant in a converted weatherboard cottage on Patrick Street, on the western edge of the CBD. Chef Matt Breen and Ali Currey-Voumard cook a single four-course menu each night, mostly Italian and mostly from Tasmanian produce — handmade pasta, a wood-fired meat or fish, vegetable dishes that taste of the day's market. The room is plain, the service is informal, and the cooking is exceptionally good.

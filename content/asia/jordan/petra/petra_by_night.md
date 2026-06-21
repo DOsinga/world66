@@ -7,6 +7,7 @@ tags:
 latitude: 30.3225
 longitude: 35.4516
 story: "The candle holders are paper bags weighted with sand. The local team lights more than 1,500 of them along the Siq three times a week — a job that takes most of the afternoon."
+score: 6.8
 ---
 
 Three nights a week, the Siq and the area in front of the Treasury are lit by 1,500 candles in paper bags, and visitors walk down in silence. At the Treasury, a Bedouin musician plays an oud or rebab, mint tea is served, and a short narration of Bedouin tales follows.

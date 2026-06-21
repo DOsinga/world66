@@ -3,6 +3,4 @@ title: "Bars and Cafes"
 type: section
 ---
 
-WHEATSHEAF PUB< PAPHOS, CYPRUS
-
-Just spent two weeks in Paphos, george at the Wheatsheaf Pub made us very welcome, good Bar, good Music, Karoke Pub over 50.000 songs cheap drinks 2-4-1 all night, definatly be going back in the summer
+Bar life clusters in two places: the seafront strip in Kato Paphos, which is loud and aimed squarely at package tourists, and the old town up the hill in Ktima, which is quieter and frequented by locals. For something in between, the cafes around Kennedy Square are good for an afternoon coffee.

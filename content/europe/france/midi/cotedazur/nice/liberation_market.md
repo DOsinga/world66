@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 43.7094
 longitude: 7.2622
+score: 7.7
 ---
 
 The Marché du Libération runs every morning (except Mondays) in Place du Général de Gaulle in the Libération quarter, north of the city centre. It is Nice's most local market — primarily fresh produce, fish, and cheese, aimed at residents rather than tourists, with prices to match. The quality of the fruits and vegetables, supplied mostly from the Var and the hills behind Nice, is excellent.

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 36.6536
 longitude: 116.9928
+score: 6.8
 ---
 
 Jinan rose cakes (meigui bing) are a traditional pastry unique to the city, made from a flaky pastry shell filled with a sweet paste of dried rose petals, red bean, and sesame. The rose variety used is a deeply colored Shandong species with an intense fragrance, and the best cakes use flowers that are sun-dried rather than chemically preserved. The pastry should be buttery and shattering, the filling aromatic but not cloying.

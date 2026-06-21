@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -16.4847
 longitude: 145.4640
+score: 5.9
 ---
 
 Salsa Bar and Grill is one of Port Douglas's most established restaurants, running for years on Wharf Street and reliably delivering the kind of menu that makes sense in a tropical Queensland resort: fresh barramundi, mud crab, prawn dishes, and decent steaks. The cocktail menu is extensive and the atmosphere is casual without being slouchy.

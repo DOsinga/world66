@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 38.6815
 longitude: -90.2330
+score: 8.7
 ---
 
 Bellefontaine Cemetery, opened in 1849 north of downtown, was the first rural cemetery west of the Mississippi — laid out as a landscaped park as well as a burial ground, with winding roads and specimen trees. It is now one of the great open-air museums of St Louis civic history.

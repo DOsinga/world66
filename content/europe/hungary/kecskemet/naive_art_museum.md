@@ -6,6 +6,7 @@ longitude: 19.6929
 tags:
   - things_to_do
   - museum
+score: 8.1
 ---
 
 The Hungarian Naïve Art Museum is the only museum in the world dedicated entirely to naïve and self-taught art, and is one of Kecskemét's quiet surprises. It occupies the 18th-century Stork House, a Baroque mansion two minutes' walk from the main square, with its rooms hung floor-to-ceiling with the strange and vivid paintings of Hungarian peasant artists from the early 20th century onwards.

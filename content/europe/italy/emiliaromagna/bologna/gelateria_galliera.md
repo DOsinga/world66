@@ -7,6 +7,7 @@ address: Piazza Cavour 1/D
 snippet: One of Bologna's best artisanal gelaterias, in a calm square south of the centre
 tags:
 - bars_and_cafes
+score: 6.5
 ---
 
 Cremeria Funivia (and its sibling shops scattered around Bologna) is the standard against which other gelaterie in the city are measured. The pistachio is made from Bronte pistachios and tastes of it; the chocolate is dense and dark; the fruit flavours are clean and seasonal.

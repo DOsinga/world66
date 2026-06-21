@@ -9,6 +9,7 @@ longitude: 5.6674
 snippet: The restaurant inside Hotel de Wereld — history with your dinner
 sources:
   - https://en.wikipedia.org/wiki/O_Mundo
+score: 6.4
 ---
 
 **O Mundo** is the restaurant housed inside [Hotel de Wereld](/europe/netherlands/wageningen/hotel_de_wereld), the hotel where Germany signed the Dutch surrender in 1945. The name — Portuguese for "The World" — mirrors the hotel's name. The menu focuses on international dishes with Dutch seasonal ingredients, reflecting the cosmopolitan character of the university town around it.

@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Restaurant Ratsherrenklause
 type: poi
+score: 5.5
 ---
 
 In the heart of the old town, this restaurant in an old vaulted cellar serves plain German dishes in a traditional atmosphere. The menu leans toward hearty Saale-region fare — schnitzel, sauerbraten, and seasonal game — at reasonable prices. The setting does the heavy lifting: stone arches, dim lighting, and the feeling of having stumbled into something genuinely old. A solid, unpretentious choice near the Marktplatz.

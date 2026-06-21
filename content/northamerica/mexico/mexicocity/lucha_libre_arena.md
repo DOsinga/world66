@@ -7,6 +7,7 @@ address: "Doctor Lavista 197, Doctores"
 latitude: 19.4179
 longitude: -99.1505
 story: "The masked wrestler El Santo — Mexico's most famous luchador — fought his last bout here in 1982 and died a week later. He was buried in his silver mask, on his own instructions, after fifty years of never showing his face in public."
+score: 8.2
 ---
 
 Arena México is the cathedral of lucha libre, Mexican professional wrestling. The 16,000-seat hall in Colonia Doctores has hosted bouts since 1956 — masked técnicos (good guys) and rudos (villains) in pulsing colours, throwing each other from the top rope, swapping insults with ringside fans, the crowd roaring through three hours of carefully choreographed mayhem.

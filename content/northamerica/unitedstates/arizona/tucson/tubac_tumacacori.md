@@ -6,6 +6,7 @@ longitude: -111.0561
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Tubac, about 45 minutes south of Tucson on I-19, is the oldest European settlement in Arizona (Spanish presidio, 1752). Today it is a small artists' colony with around 100 galleries and shops lining its old adobe streets — a popular cool-season half-day trip from Tucson.

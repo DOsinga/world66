@@ -6,6 +6,7 @@ longitude: -111.9295
 tags:
   - things_to_do
   - sight
+score: 4.6
 ---
 
 A 26-foot-tall fibreglass jackrabbit sculpture stands outside the Scottsdale Fashion Square mall on Camelback Road, missing one eye in a deliberate nod to the Southwestern myth of the jackalope. The artist, Donald Lipski, called it a celebration of the past and the future of the region — though the missing eye gets more attention than the symbolism.

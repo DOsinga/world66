@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.0513
 longitude: 9.8350
+score: 7.7
 ---
 
 The harbour at Portovenere is the departure point for some of the best short boat trips on the Ligurian coast. The three offshore islands — Palmaria, Tino, and Tinetto — lie within a kilometre of the promontory and are best seen by water. Palmaria, the largest, has pebble beaches, a clear sea, and walking paths through scrub and maquis; the ferry crosses in five minutes and runs all day in summer. Tino is a military and monastic island, closed to the general public except on the feast of San Venerio (13 September), when a small pilgrimage crosses from Portovenere. Tinetto is a bare rock with ruins of an early medieval monastery, accessible only from the water.

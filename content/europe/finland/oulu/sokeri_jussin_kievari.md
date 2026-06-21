@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 65.0103
 longitude: 25.4577
+score: 6.6
 ---
 
 A traditional Finnish restaurant in a beautifully preserved 18th-century wooden house on Pikisaari island, just south of the centre. Sokeri-Jussi was a sugar-trader who lived in the house in the 19th century; his name has stuck.

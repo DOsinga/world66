@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 36.323
 longitude: 5.736
+score: 8.4
 ---
 
 The theatre at Djemila was built into the hillside in the usual Roman fashion, using the natural slope for the seating cavea. It could hold several thousand spectators and was the cultural heart of the city — a venue for theatre, public readings, and the various ceremonies that structured Roman civic life.

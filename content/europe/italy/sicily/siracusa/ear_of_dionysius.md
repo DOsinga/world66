@@ -8,6 +8,7 @@ latitude: 37.0741
 longitude: 15.2789
 story: >
   The cave was named by the artist Caravaggio during a visit in 1586, who said it resembled the shape of a human ear. Legend holds that Dionysius I, tyrant of Syracuse, imprisoned enemies and slaves in the cave and listened through a hole at the top — using the acoustic amplification to eavesdrop on their conversations. No contemporary source records this, but it remains one of the more compelling origin stories in ancient history.
+score: 8.6
 ---
 
 The Ear of Dionysius is an artificial cave cut into the limestone cliffs of the Neapolis Archaeological Park, 23 metres high and 65 metres deep, with an S-shaped interior that produces extraordinary acoustic effects. Speak in a whisper anywhere inside and your voice is amplified to a shout — an effect that was almost certainly intentional, whether for the theatrical, religious, or surveillance purposes that various historians have proposed.

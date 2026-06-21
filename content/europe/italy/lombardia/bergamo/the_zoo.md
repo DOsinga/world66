@@ -10,6 +10,7 @@ tags:
 title: Le Cornelle Wildlife Park
 type: poi
 url: www.lecornelle.it
+score: 5.6
 ---
 
 Parco Faunistico Le Cornelle sits in Valbrembo, a short drive north of Bergamo. The park is home to hundreds of animals — big cats, primates, flamingos, reptiles and birds of prey among them — spread across landscaped enclosures along the Brembo river. A good half-day outing for families, with picnic areas and a small cafe on site.

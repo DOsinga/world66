@@ -15,6 +15,7 @@ story: >
   in a single session. His bronze statue sits permanently at his spot at the
   end of the bar, elbow resting on the counter — an unusually specific form
   of immortality.
+score: 6.8
 ---
 
 El Floridita is one of Havana's most famous bars and restaurants — a historic Art Deco establishment at the western end of Calle Obispo that claims to be the birthplace of the daiquiri and was the preferred daytime drinking establishment of Ernest Hemingway for the years he lived in Cuba. It is, therefore, extremely touristy and extremely expensive by Cuban standards.

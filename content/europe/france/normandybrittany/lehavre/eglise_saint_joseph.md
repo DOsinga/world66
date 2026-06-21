@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Église Saint-Joseph
 type: poi
+score: 9.4
 ---
 
 Auguste Perret's masterwork and the emotional centrepiece of the rebuilt city. The octagonal tower rises 107 metres and is sheathed in 12,768 pieces of coloured glass — amber, blue, red, and green — that flood the interior with shifting light at any hour of the day. There are no aisles and no side chapels; the entire congregation faces the lantern tower in one undivided space. Walk in on a sunny morning and the effect is breathtaking.

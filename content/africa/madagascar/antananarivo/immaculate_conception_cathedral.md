@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.5
 ---
 
 The Cathedral of the Immaculate Conception — known locally as the Andohalo Cathedral — stands on one of the highest ridges of the Haute-Ville, with views across the city in multiple directions. Built by French Jesuits in the nineteenth century, it is one of the largest Catholic churches in Madagascar and remains an active parish serving the surrounding hilltop neighbourhood of Andohalo.

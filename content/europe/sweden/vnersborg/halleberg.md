@@ -12,6 +12,7 @@ title: Halleberg
 type: poi
 story: >
   Halleberg and its twin plateau Hunneberg are home to one of Sweden's densest populations of wild elk. The Swedish royal family has held hunting rights here since the 18th century, and the annual royal elk hunt is still one of the few events that draws national attention to this corner of Västra Götaland.
+score: 7.8
 ---
 
 Halleberg is a flat-topped table mountain rising abruptly from the plains east of Vänersborg, forming a pair with the slightly smaller Hunneberg just to the south. Together they make up a protected nature reserve of mixed ancient forest — oak, ash, elm, and lime dominating the lower slopes, giving way to spruce on the plateau. The geology is unusual: the summits are capped with dolerite, a dark volcanic rock that resisted the erosion that wore down the surrounding landscape.

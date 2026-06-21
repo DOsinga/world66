@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 1.4934
 longitude: 124.8422
+score: 7.2
 ---
 
 Klenteng Ban Hin Kiong is the oldest and largest Chinese Buddhist temple in Manado, a multilevel complex in the old Chinatown district near the waterfront. Founded in 1819, it serves the Hokkien Chinese community that has been in Manado since the eighteenth century and remains an active place of worship.

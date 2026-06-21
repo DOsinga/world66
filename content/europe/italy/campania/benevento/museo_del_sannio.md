@@ -6,6 +6,7 @@ tags:
 - museum
 title: Museo del Sannio
 type: poi
+score: 8.1
 ---
 
 The Museo del Sannio occupies a former Benedictine monastery beside the Romanesque church of Santa Sofia (itself a UNESCO World Heritage Site). It holds Benevento's main archaeological and art collection — Samnite bronzes, Greek ceramics found in local tombs, Roman portrait busts, and the large haul of Egyptianising statuary brought from Rome by Domitian for his temple of Isis. The Isis sanctuary reliefs and statues are the highlight: a strange grouping of sphinxes, obelisk fragments, and basalt figures that give an idea of the exotic religious fashions of imperial Rome.

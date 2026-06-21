@@ -14,6 +14,7 @@ story: >
   round eyes that once marked Turkic burial sites across the steppe. These silent
   sentinels, some over a thousand years old, ended up in a city park as outdoor
   museum pieces, staring across the flowerbeds at Soviet-era apartment blocks.
+score: 7.5
 ---
 
 Kirov Park is the main green space in the city centre, a pleasant place for an afternoon stroll along the Irtysh riverbank. The park has the feel of many former Soviet city parks — orderly paths, fountains, benches, and an assortment of monuments. What makes it worth a visit is the collection of balbals near its eastern corner.

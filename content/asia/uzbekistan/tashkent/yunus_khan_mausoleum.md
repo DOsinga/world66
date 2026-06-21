@@ -9,6 +9,7 @@ tags:
 neighbourhood: Old Town
 latitude: 41.3266
 longitude: 69.2453
+score: 6.7
 ---
 
 A fifteenth-century brick mausoleum holding the tomb of Yunus Khan, the grandfather of Babur — the founder of the Mughal empire. The structure is small but original, with a high portal arch and remnants of blue tilework, and it survived both the earthquakes and the Soviet bulldozers.

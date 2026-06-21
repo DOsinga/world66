@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-03'
 latitude: 11.538887
 longitude: 165.272232
 title: Bikini Atoll

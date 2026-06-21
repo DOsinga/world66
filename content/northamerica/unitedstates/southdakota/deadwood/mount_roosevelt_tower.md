@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Seth Bullock built the stone tower in 1919, days after Theodore Roosevelt's death, as a personal memorial to his lifelong friend. It was the first monument in the United States dedicated to TR — a full eight years before work on Mount Rushmore began."
+score: 6.9
 ---
 
 Three miles north-west of Deadwood, on the top of Mount Roosevelt, a thirty-foot stone tower rises out of the pine forest. Seth Bullock built it in 1919 as a private tribute to Theodore Roosevelt, who had died earlier that year, and dedicated it the same summer. It was the first formal monument to TR anywhere in the United States.

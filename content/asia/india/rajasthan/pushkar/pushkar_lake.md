@@ -10,6 +10,7 @@ story: >
   Pushkar Lake is said to have been created when Brahma dropped a lotus flower from the sky. Where the petals landed, three lakes formed — Pushkar (the senior lake), Madhya Pushkar, and Kanishtha Pushkar. Hindu tradition holds that bathing in the lake on the night of Kartik Purnima (the full moon in October or November) cleanses all sins.
 sources:
   - https://en.wikipedia.org/wiki/Pushkar_Lake
+score: 9.0
 ---
 
 Pushkar Lake is a sacred lake surrounded by 52 bathing ghats (stepped platforms descending to the water) and a skyline of temples. It is the central spiritual focus of Pushkar and one of the most sacred bodies of water in India. Pilgrims come year-round to bathe in its waters, and the ghats are busy from before dawn until after dusk with offerings, prayers, and ritual bathing.

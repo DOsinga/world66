@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The Maison du Peuple is the main public assembly hall of Ouagadougou — a long, low concrete structure with a sweeping curved roof, designed in the 1960s in the late-modernist style popular in newly independent African capitals. Political rallies, congresses and the occasional concert all take place here.

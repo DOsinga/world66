@@ -13,6 +13,7 @@ story: >
   fresh produce and fish has continued through political turmoil, sanctions, and economic crisis
   on the mainland — a reminder of the deep historical ties between the island and the South
   American continent visible just over the horizon.
+score: 7.7
 ---
 
 The Oranjestad waterfront is the most vivid part of the city, and the part that feels least like a Caribbean resort. Venezuelan fishing boats and trading schooners dock along the quay, selling fresh fish, tropical fruit, vegetables, and spices directly from their decks. The market is informal and lively, and the haggling is good-natured. Go early in the morning for the best selection.

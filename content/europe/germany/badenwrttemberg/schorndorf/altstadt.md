@@ -14,6 +14,7 @@ story: >
   old towns in the region.
 sources:
   - https://en.wikipedia.org/wiki/Schorndorf
+score: 8.3
 ---
 
 Schorndorf's Altstadt is a compact grid of half-timbered houses, narrow lanes, and a central Marktplatz that survived the twentieth century largely intact. The market square is framed by well-preserved buildings from the sixteenth to the nineteenth century, with a fountain at its centre and the town hall on one side.

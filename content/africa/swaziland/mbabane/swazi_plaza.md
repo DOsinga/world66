@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: -26.3257
 longitude: 31.1461
+score: 5.4
 ---
 
 The commercial heart of Mbabane runs along Allister Miller Street and around the Swazi Plaza shopping mall. The plaza is the main enclosed shopping centre in the country, with supermarkets, a post office, banks, and a string of chain shops. It is functional rather than interesting, but everything in the capital is walkable from here.

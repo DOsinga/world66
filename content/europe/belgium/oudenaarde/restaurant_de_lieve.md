@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 50.8438
 longitude: 3.6047
+score: 5.3
 ---
 
 De Lieve is one of the better traditional restaurants within easy walking distance of the Markt. The menu centres on Flemish classics: stoofvlees (beef braised in Liefmans oud bruin), rabbit with prunes, and seasonal game from the surrounding countryside. The cooking is honest and unpretentious, and the portions are generous enough for cyclists who have spent the day in the hills.

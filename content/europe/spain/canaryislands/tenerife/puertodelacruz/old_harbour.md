@@ -9,6 +9,7 @@ tags:
 - sight
 story: >
   Puerto de la Cruz was for centuries the main port for the prosperous Orotava valley, shipping wine and bananas to the Iberian peninsula and beyond. In the 17th and 18th centuries it was one of the most important ports in the Canaries. The old fishing harbour still has working boats — though the commercial port function has long since moved to Santa Cruz — and the black volcanic sand of the tiny beach below the harbour wall is genuinely striking.
+score: 7.9
 ---
 
 The original Puerto de la Cruz grew up around this small fishing harbour, sheltered by a volcanic rock breakwater. The harbour today is still used by fishing boats and small pleasure craft, and the surrounding streets are the oldest part of the town — 17th and 18th-century buildings with their characteristic dark wood balconies, tiny churches, and stone warehouses converted to restaurants and bars.

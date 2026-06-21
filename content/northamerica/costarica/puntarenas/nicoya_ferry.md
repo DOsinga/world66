@@ -8,6 +8,7 @@ latitude: 9.9777
 longitude: -84.8349
 story: >
   The ferry crossing from Puntarenas to Paquera has been running since 1976 and remains the fastest land-sea route to the southern Nicoya Peninsula. Before the ferry, reaching the beaches of Montezuma and Tambor from San José required an eight-hour drive around the Gulf of Nicoya. The ferry reduced that to under three hours total, transforming a remote peninsula into an accessible weekend escape — and eventually one of Costa Rica's most visited beach regions.
+score: 6.3
 ---
 
 The Coonatramar and Naviera Tambor ferries run multiple times daily from Puntarenas to Paquera on the Nicoya Peninsula — a crossing of about 70 minutes across the Gulf of Nicoya. This is the main route to the beaches of Tambor, Montezuma, and Santa Teresa, all of which are within two hours of the Paquera dock.

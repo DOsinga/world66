@@ -9,6 +9,7 @@ latitude: 41.2767
 longitude: 123.1689
 story: >
   The White Pagoda is thirteen storeys tall and rises about seventy metres — making it the tallest ancient pagoda in China when measured from its base. This fact is disputed by other candidates, and the debate has the particular intensity that Chinese architectural history disputes often have. What is not disputed is that it has been standing since the Liao Dynasty and survived everything the northeast threw at it for nine hundred years.
+score: 8.0
 ---
 
 The White Pagoda of Liaoyang is the most visible landmark in a city that does not otherwise advertise itself. Rising seventy metres above White Pagoda Park in the city's Baita District, the thirteen-tiered octagonal structure was built during the Liao Dynasty (907–1125 CE) and subsequently repaired without fundamental alteration. Seen from below, its white-plastered surface and proportional taper make it unexpectedly graceful for a structure of its age and scale.

@@ -9,6 +9,7 @@ latitude: 10.5402
 longitude: 7.4338
 story: >
   The hall was built in 1914, three years after the headquarters of Northern Nigeria was relocated from Zungeru to Kaduna. Lord Lugard himself — the man who amalgamated the northern and southern protectorates to create Nigeria in 1914 — is the hall's namesake, and it was his government that constructed it as the seat of northern colonial administration. After independence, it housed the Northern Nigerian legislature, and it remains in use today as the Kaduna State House of Assembly. The building has outlasted every political arrangement Nigeria has tried.
+score: 7.5
 ---
 
 Lugard Hall is the most significant colonial-era building in Kaduna and one of the more impressive in northern Nigeria. Built in 1914 as the seat of the Northern Nigeria administration, it sits at the centre of a circular road in the northern part of the city, and its imposing facade and formal grounds make it look exactly like what it is: a building designed to project authority.

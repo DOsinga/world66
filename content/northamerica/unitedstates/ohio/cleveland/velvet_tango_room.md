@@ -8,6 +8,7 @@ snippet: A serious classic-cocktail bar with a long Prohibition-era pedigree
 tags:
   - bars_and_cafes
   - bar
+score: 7.0
 ---
 
 The Velvet Tango Room occupies a former speakeasy a few blocks north of the West Side Market, in a low brick building with no sign on the door (look for the address). It has been in business since 1996 and was one of the earliest American bars of the modern classic-cocktail revival — the bartenders mix everything from scratch with house-made syrups, fresh fruit, and serious spirits, and the menu runs to a hundred-plus drinks plus an off-menu list of "barman's choice" for the regulars.

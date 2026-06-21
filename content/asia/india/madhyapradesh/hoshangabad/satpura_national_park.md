@@ -12,6 +12,7 @@ story: >
   visitor. The boat safaris on the Denwa River are particularly distinctive: the
   park's core is accessible only by water, and drifting silently past the
   riverbanks allows for closer and quieter wildlife encounters than any vehicle.
+score: 9.0
 ---
 
 Satpura National Park, about 50 kilometres from Hoshangabad, is one of India's most undervisited tiger reserves and, according to many wildlife guides, one of its best. The park protects an area of dense sal and teak forests, rocky hills, and river valleys in the Satpura Range, and it holds substantial populations of tigers, leopards, sloth bears, wolves, wild dogs (dholes), gaur, and the giant Malabar squirrel. The bird list is extensive.

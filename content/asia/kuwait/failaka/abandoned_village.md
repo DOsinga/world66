@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - story
+score: 8.7
 ---
 
 When Iraqi forces occupied Failaka Island in August 1990, the roughly 1,200 Kuwaiti inhabitants were deported to the mainland. The village was never resettled. What remains is an eerie open-air document of the occupation: empty stone houses, mosques still intact, Iraqi military fortifications, rusted armoured vehicles, and faded murals. It has become an unofficial memorial, left deliberately uncleared. Walking through the empty streets is one of the more sobering experiences available in Kuwait.

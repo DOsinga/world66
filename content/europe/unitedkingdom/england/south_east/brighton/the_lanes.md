@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 50.821
 longitude: -0.14
+score: 8.4
 ---
 
 The Lanes are Brighton's oldest quarter, a warren of narrow alleys following the street pattern of the original fishing village that preceded the resort. Today they hold one of the densest concentrations of antique shops and jewellers in England, alongside independent boutiques, cafes, and the odd fisherman's cottage now selling vintage clothes.

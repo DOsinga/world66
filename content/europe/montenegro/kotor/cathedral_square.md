@@ -6,6 +6,7 @@ longitude: 18.7712
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 The cathedral square, more properly Trg Svetog Tripuna, is the most dignified of Kotor's piazzas — a long rectangle paved in pale marble, with the twin towers of the Cathedral of Saint Tryphon closing the far end. The smaller scale and slight asymmetry give it more character than the busier Trg od Oružja.

@@ -13,6 +13,7 @@ story: >
   Nazis annexed Austria in 1938, they arrested Schneider partly because he had Jewish friends.
   He was freed only when a wealthy American ski enthusiast negotiated his release in exchange
   for emigrating to the United States, where he founded a ski school in New Hampshire.
+score: 6.8
 ---
 
 The Ski and Heimat Museum in St. Anton chronicles the history of skiing in the Arlberg from its beginnings in the late 19th century to the present day. It is a surprisingly absorbing small museum, well worth an hour on a bad-weather day or a rest day. The exhibits cover the evolution of equipment from wooden boards with leather straps to modern carbon-fibre skis, and the development of the resort from an isolated Alpine village to one of the world's premier ski destinations.

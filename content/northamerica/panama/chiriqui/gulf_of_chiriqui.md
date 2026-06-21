@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 7.9
 ---
 
 The Parque Nacional Marino Golfo de Chiriquí covers 25 islands and 145 square kilometres of reefs and mangroves off the Pacific coast south of David. The water is warm year-round, the snorkelling and diving good, and the islands largely uninhabited — a quieter alternative to Bocas del Toro on the Caribbean side.

@@ -8,6 +8,7 @@ tags:
   - park
 latitude: 20.9333
 longitude: 110.1833
+score: 7.5
 ---
 
 The Zhanjiang Mangrove National Nature Reserve is the largest mangrove protected area in China, covering more than 20,000 hectares across multiple sections of the Leizhou Peninsula and its adjacent coastline. Boardwalks through the reserve give access to the mangrove forest at the water's edge, where the prop roots of the trees create an underwater architecture visible at low tide and the air is busy with wading birds, egrets, and kingfishers.

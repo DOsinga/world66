@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.6100
 longitude: -1.9550
+score: 6.5
 ---
 
 Swanage Beach is the long curve of pale sand running for a mile north from the pier, the centre of the town's summer life. The water shelves gently and is sheltered by Ballard Down from the prevailing south-westerlies, which makes the bay calm enough for safe swimming most days. Lifeguards patrol the central beach in season; pedalos, deck chairs, and an inflatable splash park appear in July and August.

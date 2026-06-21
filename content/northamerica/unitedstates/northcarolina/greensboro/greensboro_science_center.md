@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Combined museum, aquarium, zoo, and planetarium north of the city
+score: 7.1
 ---
 
 The Greensboro Science Center is an unusual combination: a hands-on science museum, a small but well-stocked aquarium with sharks and an open-air ray-petting pool, an outdoor wildlife park with tigers, lemurs, and meerkats, and a digital planetarium. The complex sits on a wooded site north of downtown.

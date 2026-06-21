@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Cucamonga's Chinese workers cleared the rocky vineyard land, dug the irrigation canals, and built the winery infrastructure that powered the valley's 19th-century wine boom. By 1900 the Cucamonga Chinatown held over a hundred men in two communal houses; this is the only one still standing."
+score: 6.8
 ---
 
 A small adobe building dating from the 1870s, used as a boarding house for the Chinese labourers who worked the vineyards and citrus groves of the Cucamonga Valley. It is one of the very few surviving rural Chinatown structures in southern California — most were burned, demolished, or fell down after the Chinese Exclusion Act ended the labour migration in 1882.

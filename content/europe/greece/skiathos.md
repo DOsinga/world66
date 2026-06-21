@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-07
+  location_enrich: '2026-06-01'
 image: skiathos.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Skiathos_10_-_panoramio.jpg
@@ -8,6 +9,12 @@ latitude: 39.169298
 loc_type: city
 longitude: 23.455251
 score: 0.74
+sources:
+  - https://en.wikipedia.org/wiki/Skiathos
+  - https://en.wikipedia.org/wiki/Skiathos_(town)
+  - https://en.wikipedia.org/wiki/Skiathos_Castle
+  - https://en.wikipedia.org/wiki/Evangelistria_Monastery,_Skiathos
+  - https://en.wikipedia.org/wiki/Koukounaries
 title: Skiathos
 type: location
 ---

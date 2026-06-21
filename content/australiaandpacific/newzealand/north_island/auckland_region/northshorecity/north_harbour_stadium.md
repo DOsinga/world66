@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: -36.727
 longitude: 174.702
+score: 5.0
 ---
 
 The home of North Harbour rugby, located in the Albany town centre near the motorway. The stadium holds around 25,000 and is used for provincial and national rugby matches as well as concerts and large events. North Harbour competes in the National Provincial Championship and games here have a good local atmosphere — less intimidating and more accessible than Eden Park for a first experience of New Zealand rugby.

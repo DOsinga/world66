@@ -8,6 +8,7 @@ latitude: 50.9847
 longitude: 5.5354
 address: Kattevennen, Genk
 snippet: Pine forest and heathland north of Genk with cycling and walking routes through the Kempen landscape
+score: 5.8
 ---
 
 Kattevennen is a large recreational forest and heath on Genk's northern edge — a landscape typical of the Kempen plateau: flat, pine-scented, with patches of heathland, small pools, and sandy paths running through the trees. It connects to the Bokrijk domain and the wider network of cycling and walking routes through Belgian Limburg.

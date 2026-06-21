@@ -9,6 +9,7 @@ tags:
 - forest_park
 latitude: 38.6388
 longitude: -90.2942
+score: 8.8
 ---
 
 The Saint Louis Art Museum sits at the top of Art Hill in Forest Park, in a Beaux-Arts palace built for the 1904 World's Fair and never demolished. The collection runs across world art from antiquity to the present, with particular strengths in Oceanic art, German Expressionism (one of the strongest collections outside Germany), and pre-Columbian work.

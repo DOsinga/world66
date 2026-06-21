@@ -8,6 +8,7 @@ tags:
   - music
 latitude: 53.8661
 longitude: 21.3046
+score: 8.2
 ---
 
 Piknik Country is one of Europe's largest country and western music festivals, held in Mragowo every August since 1983. The combination of American country music and a small Polish town beside a lake is stranger and more successful than it sounds: the festival draws tens of thousands of visitors over several days, filling the town with people in cowboy hats and boots who have come from across Poland and from country music scenes in Germany, the Czech Republic, and beyond. Polish country music has its own tradition — the country sound arrived via US military radio and stuck in unexpected places — and Piknik Country is its annual gathering.

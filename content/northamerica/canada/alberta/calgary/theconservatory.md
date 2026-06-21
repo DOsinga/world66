@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: The Conservatory
 type: poi
+score: 5.6
 ---
 
 A fine dining room in the Delta Bow Valley Hotel, known for roast rack of Alberta lamb, northern bison tenderloin, and a solid list of Canadian VQA wines. The restaurant has received the American Automobile Association's four-diamond award.

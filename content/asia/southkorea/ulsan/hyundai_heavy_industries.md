@@ -13,6 +13,7 @@ story: >
   of the Geobukseon, Korea's famous sixteenth-century ironclad warship, and told them
   Korean people had been building ships for four hundred years. He secured the order.
   Today the yard launches more gross tonnage per year than any other facility on earth.
+score: 7.5
 ---
 
 The Hyundai Heavy Industries complex in Bangeojin is not open to casual visitors, but it dominates the landscape and the economy of eastern Ulsan so completely that simply seeing it — from the coastline near Ilsan Beach, from the hills above, or from a ferry — is genuinely striking. The red Hyundai crane, visible from much of eastern Ulsan, has become an unofficial city emblem.

@@ -15,7 +15,7 @@ quick_facts:
   Driving Side: "Right (switched from left in 1970)"
 done:
   country_cleanup: 2026-03-29
-score: 0.37
+score: 0.53
 loc_type: country
 ---
 

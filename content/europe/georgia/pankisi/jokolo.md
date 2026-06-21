@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.1525
 longitude: 45.2950
+score: 6.7
 ---
 
 Jokolo sits about a kilometre upstream from Duisi and is the second of the three main Kist villages in the gorge. It is smaller and quieter, with a noticeably more traditional feel — fewer cars, more donkey traffic, and old wooden balconies in better repair than further down the valley. A handful of families take guests, and the food is the same Kist-Georgian mix of khinkali, walnut sauces, and grilled lamb.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.7
 ---
 
 The long, narrow Haigeng peninsula divides the inner basin of Dianchi Lake from the larger outer body of water. Along its top runs Haigeng Park — a four-kilometre stretch of beach, lawn, and wetland that is the most popular weekend escape for central Kunming. Locals come for picnics, kite-flying, and to feed the migrant gulls that crowd here in winter.

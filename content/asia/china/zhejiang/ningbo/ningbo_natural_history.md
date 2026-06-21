@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 29.8720
 longitude: 121.5510
+score: 6.6
 ---
 
 The Ningbo Natural History Museum covers the geology, ecology, and biodiversity of the Zhejiang coastal region, with collections of marine specimens, minerals, and dinosaur fossils that are more substantial than the modest building suggests. The dinosaur gallery is the most popular section, containing several complete skeletons excavated from sites in Zhejiang, including species first identified in the province. The marine life collection draws on Ningbo's position on the East China Sea coast and includes a range of unusual deep-sea specimens.

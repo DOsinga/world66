@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 42.3060
 longitude: 9.1500
+score: 7.6
 ---
 
 The old town of Corte — the Haute Ville — climbs steeply up from the main square in a warren of narrow lanes, tall Genoese-style houses, and stone stairways. It has more life than many Corsican old towns: a mix of students, year-round residents, and the kind of bars and restaurants that cater to people who actually live there rather than just passing tourists.

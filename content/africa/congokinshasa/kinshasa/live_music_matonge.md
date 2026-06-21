@@ -7,6 +7,7 @@ tags:
 latitude: -4.339
 longitude: 15.3176
 snippet: The beating heart of Kinshasa's live music scene, where rumba and ndombolo fill the bars every weekend
+score: 9.2
 ---
 
 Any bar in Matonge on a Friday or Saturday night is a candidate for one of the best nights out in Africa. The neighbourhood has a dozen live music venues ranging from corrugated-roof shacks with a single band to larger clubs where you might catch musicians with genuine regional reputations. Congolese rumba -- all fluid guitar lines and rolling rhythm sections -- is the foundation, and ndombolo dancing is what happens when people respond to it. The combination is infectious.

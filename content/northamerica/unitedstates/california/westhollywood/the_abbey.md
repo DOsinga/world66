@@ -9,6 +9,7 @@ latitude: 34.0837
 longitude: -118.3810
 sources:
   - https://en.wikipedia.org/wiki/The_Abbey_(West_Hollywood)
+score: 7.8
 ---
 
 The Abbey at 692 N Robertson Boulevard started in 1991 as a small coffee shop and grew into what many consider the most famous gay bar in the United States. It now occupies a large indoor-outdoor complex — a series of rooms and terraces that spill into a wide courtyard — open from late morning through 2am every day of the week.

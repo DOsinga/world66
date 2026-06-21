@@ -10,6 +10,7 @@ story: >
   Otto Dix was drafted into the German army in 1914 at the age of 23, served on the Western Front including at the Battle of the Somme, and returned a changed man. His War (Der Krieg), a cycle of 50 etchings completed in 1924, is one of the most devastating anti-war works in the history of art — brutal, unsentimental, and drawn from direct experience. The Kunstmuseum holds major examples of his work from across his career.
 sources:
   - https://en.wikipedia.org/wiki/Gera
+score: 8.1
 ---
 
 The Kunstmuseum Gera holds the largest single collection of works by Otto Dix outside the Kunstmuseum Albstadt, making it an important destination for anyone interested in German art of the 20th century. Born in Gera in 1891, Dix became one of the central figures of the New Objectivity movement — a reaction against Expressionism that brought an unflinching, often savage realism to depictions of Weimar Republic society, war veterans, prostitutes, and the grotesque underside of German life in the 1920s.

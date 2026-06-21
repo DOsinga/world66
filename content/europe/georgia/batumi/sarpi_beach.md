@@ -7,6 +7,7 @@ tags:
 - beach
 title: Sarpi Beach
 type: poi
+score: 7.4
 ---
 
 Sarpi is the southernmost village in Georgia, sitting against the Turkish border about 15 km south of Batumi. The beach here is short but striking: a curve of grey pebbles set into a steep wooded bay, with cliffs at one end and the curious sail-shaped border checkpoint at the other. The water is noticeably clearer than at Batumi itself, partly because the river outflows are further off.

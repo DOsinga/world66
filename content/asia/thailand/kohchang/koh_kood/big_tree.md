@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 6.5
 ---
 
 A 500-year-old Makha tree (*Afzelia xylocarpa*) standing on the side of the road in the centre of the island, well over 30 metres tall and several metres across at the base. The buttress roots fan out wider than a small house. It is one of a handful of giant rainforest trees that survived the rubber-plantation clearing of the early 20th century, and it is now protected by the local conservation authority.

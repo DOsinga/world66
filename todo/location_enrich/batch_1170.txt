@@ -1,5 +1,0 @@
-asia/philippines/mandaluyong
-europe/ukraine/odessa
-europe/belarus/gomel
-africa/zambia/ndola
-southamerica/paraguay/santan

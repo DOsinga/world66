@@ -12,6 +12,7 @@ story: >
   Okinawans eat more pork per capita than anywhere else in Japan — a legacy partly
   of the Ryukyu Kingdom's trade with China and partly of the post-war American
   occupation, which flooded the island with canned pork.
+score: 7.6
 ---
 
 Makishi Public Market occupies a covered arcade off Kokusai Street. The ground floor is the fresh market: stalls of tropical fish with an Okinawan angle (parrotfish, sea snakes, moray eels), vegetables unfamiliar to mainland Japan (bitter melon, papaya, sea grapes), and the pork products for which Okinawan cuisine is famous. Buy something downstairs and take it to one of the restaurants on the upper floor, who will cook it for a small fee.

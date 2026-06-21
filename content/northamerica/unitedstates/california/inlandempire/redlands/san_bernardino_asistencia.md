@@ -11,6 +11,7 @@ tags:
 - landmark
 title: San Bernardino Asistencia
 type: poi
+score: 7.3
 ---
 
 Established in 1830 as an outpost of Mission San Gabriel Arcangel, the Asistencia is often said to be part of a second, inland chain of missions. At the site is a museum, small chapel, and gatehouse.

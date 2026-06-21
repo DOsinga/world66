@@ -13,6 +13,7 @@ story: >
   The result is one of the most unusual cloisters in Spain: four different arch styles — Romanesque,
   Moorish, Byzantine, and Gothic — all coexist within a single courtyard, as if the builders couldn't
   agree on which tradition to follow and simply used all of them.
+score: 8.3
 ---
 
 On the east bank of the Duero, a short walk from the city centre, stand the ruins of the Monastery of San Juan de Duero — roofless now, but with its twelfth-century cloister still standing. That cloister is the reason to come. Its arches combine Romanesque, Moorish, Byzantine, and early Gothic elements in an arrangement unlike anything else in Spain, the result of the Knights Hospitallers' eclectic absorption of architecture encountered across the crusader world.

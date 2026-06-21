@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Jasmin Indian Restaurant
 type: poi
+score: 4.3
 ---
 
 A reliable Indian and Pakistani restaurant on Road No. 13 with tables on the sidewalk and inside. The menu covers all the usual Indian fare — curries, biryanis, naan — with vegetarian dishes a particular strength. Portions are generous and most dishes cost just a few dollars. A good change of pace from Lao food.

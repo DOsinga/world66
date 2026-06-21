@@ -6,6 +6,7 @@ longitude: 18.7711
 tags:
   - things_to_do
   - architecture
+score: 6.2
 ---
 
 The Drago Palace, on the south side of Cathedral Square, is one of the oldest aristocratic houses in Kotor — the original building dates from the late 14th century, with substantial Gothic-Renaissance additions in the fifteenth. The carved family arms over the door, two stylised dragons, are still clearly visible above the entrance.

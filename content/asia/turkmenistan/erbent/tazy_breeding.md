@@ -16,6 +16,7 @@ story: >
   to restore the breed to its former prestige.
 sources:
   - https://en.wikipedia.org/wiki/Tazy_(dog)
+score: 7.1
 ---
 
 Erbent is traditionally regarded as the heartland of the Tazy, Turkmenistan's ancient coursing hound. Lean, long-legged, and built for speed across open desert, the Tazy is physically close to the Afghan hound and the Saluki, and shares a common ancestry with the sight hounds of the broader Central Asian steppe. Local families here have bred the dogs for generations, and it is not unusual to see a pack resting in the shade of a yard wall while its owner talks you through the bloodlines.

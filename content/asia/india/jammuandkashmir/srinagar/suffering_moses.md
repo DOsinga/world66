@@ -7,6 +7,7 @@ tags:
 latitude: 34.0917
 longitude: 74.7967
 address: "The Bund, Srinagar"
+score: 6.8
 ---
 
 One of the most famous handicraft shops in Kashmir, Suffering Moses occupies a prime position on The Bund — the riverside promenade — and has been selling Kashmiri crafts since the 1920s. The name is a mystery even to the current owners; the leading theory is a corruption of "Suffering of Moses," though nobody can confirm this. The shop covers three floors of carpets, papier-mâché, crewel embroidery, pashmina, walnut wood items, and copper work, all displayed in the slightly chaotic but satisfying style of old-fashioned curio shops.

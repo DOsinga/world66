@@ -13,6 +13,7 @@ story: >
   kissing a nurse in Times Square on 14 August 1945. The 8-metre Civitavecchia
   version arrived in 2005 and stands on the harbour-front near where, in 1943,
   Allied bombs flattened most of the city.
+score: 3.5
 ---
 
 A 25-foot painted statue by Seward Johnson on Civitavecchia's harbour-front, depicting a US sailor in a long kiss with a nurse in nurse's whites — a three-dimensional recreation of the famous 1945 V-J Day photograph from Times Square. Civitavecchia, which was heavily bombed and then liberated by the Allies in 1944, adopted the statue as a permanent gift after a temporary exhibition.

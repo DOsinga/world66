@@ -13,6 +13,7 @@ story: >
   grew up around the colonial customs post where goods from the harbour were taxed and
   cleared. The original customs building is gone, but the market it spawned has outlasted it
   by more than a century.
+score: 7.7
 ---
 
 Pasar Pabean is a large, busy market in the old city district, sprawling across several connected halls near the Kalimas River. It operates early in the morning — arrive by 7am to see it at full intensity, when the produce, spice, and dried goods sections are at their most active.

@@ -10,6 +10,7 @@ longitude: -121.01556
 address: "130 Main St, Nevada City, CA"
 snippet: "Where Gold Rush miners had their ore tested — the building that determined fortunes"
 story: "Jacob Ott ran the assay office that determined the value of ore from Nevada County's richest mines. In an era before standardised laboratory testing, an assayer's reputation was everything — a dishonest or incompetent reading could cost a miner his claim, or make a worthless dig appear valuable enough to sell."
+score: 6.2
 ---
 
 Ott's Assay Office on Main Street is one of the authentic Gold Rush commercial buildings in Nevada City, dating to the 1850s. An assay office was essential to any mining town: it was where ore was tested for its gold and silver content, and where the value of a miner's haul was officially certified.

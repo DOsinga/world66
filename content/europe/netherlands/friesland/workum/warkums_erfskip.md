@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 52.9793
 longitude: 5.4431
+score: 7.0
 ---
 
 Museum Warkums Erfskip (Frisian for "Workum's Heritage") occupies two historic buildings on the market square: the Waag (weigh house, built in 1649) and the former town hall opposite. Together they hold the local history collection of the archaeological society that has been gathering objects from Workum and the surrounding area since 1951.

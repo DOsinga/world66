@@ -9,6 +9,7 @@ latitude: 9.4842
 longitude: -83.4892
 story: >
   On a clear morning from the summit, you can see both the Pacific Ocean and the Caribbean Sea simultaneously — one of the few places on earth where this is possible. The Pacific is a gleam to the southwest; the Caribbean, slightly darker, appears to the northeast beyond the Talamanca range. Most climbers don't make it to the top in time for the clear morning light, which makes seeing both seas a rare achievement even for those who do.
+score: 9.5
 ---
 
 At 3,820 metres, Cerro Chirripó is the highest point in Costa Rica and the highest peak in Central America south of Guatemala. The standard route from San Gerardo de Rivas covers about 20 kilometres each way and gains 2,300 metres of elevation — a serious mountain hike, not a casual walk.

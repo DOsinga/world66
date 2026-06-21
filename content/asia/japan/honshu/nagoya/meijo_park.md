@@ -8,6 +8,7 @@ tags:
 latitude: 35.1860
 longitude: 136.9000
 neighbourhood: Meijo
+score: 6.5
 ---
 
 Meijo Park wraps the northern and western moats of Nagoya Castle in 80 hectares of formal gardens, sports grounds and tree-lined walks. Cherry blossom in early April turns the western promenade pink, and the autumn-flowering kingyobachi camellias near the inner moat are among the city's better seasonal sights. A 1909 windmill remains on the lawn near the rose garden, a souvenir of a Dutch-themed amusement park that briefly occupied the grounds.

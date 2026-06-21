@@ -6,6 +6,7 @@ longitude: 72.8722
 tags:
   - eating_out
   - restaurant
+score: 4.3
 ---
 
 A long-standing local favourite on the main road of central Alibaug. The menu covers Maharashtrian and Konkani staples — surmai (kingfish) curry, prawn fry, the standard veg thalis — at prices that are kind to the wallet.

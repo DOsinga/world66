@@ -5,6 +5,7 @@ latitude: 31.5959
 longitude: 130.5646
 snippet: Bay-side aquarium with whale sharks and Kuroshio Current life
 tags: [things_to_do, family]
+score: 6.7
 ---
 
 The aquarium sits on the harbour next to the Sakurajima ferry pier. Its centrepiece is the seven-metre Kuroshio Tank, home to two whale sharks named Yuyu — a relay of fish, since the giants outgrow the tank and are released to the wild every few years. Smaller tanks cover the marine life of the warm Kuroshio Current that washes Kyushu's southern coast: dolphins, rays, jellyfish, and the freshwater life of the Amami archipelago.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.4898
 longitude: 16.5608
+score: 6.3
 ---
 
 Podstrana's coastline consists of a series of pebble and shingle beaches stretching along the Adriatic, most of them accessible by footpath from the main coastal road. The beaches are backed by tamarisk and Mediterranean pine that provide shade in the afternoon — a significant luxury in summer when temperatures regularly exceed 35°C.

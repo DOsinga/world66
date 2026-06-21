@@ -9,6 +9,7 @@ tags:
   - park
   - suva_central
 neighbourhood: Suva Central
+score: 6.7
 ---
 
 A small grassy park at the junction of Victoria Parade and Renwick Road, named after Ratu Sir Lala Sukuna, the most influential Fijian statesman of the colonial era. The park is shaded by big rain trees and is one of the few places downtown where you can sit on the grass for free.

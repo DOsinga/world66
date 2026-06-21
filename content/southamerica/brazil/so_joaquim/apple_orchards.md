@@ -6,6 +6,7 @@ tags:
   - food
 latitude: -28.2925
 longitude: -49.9353
+score: 6.7
 ---
 
 São Joaquim produces roughly 30 percent of Brazil's total apple harvest, and the orchards are as much a visual feature of the landscape as the Araucaria forests. The cold winters and warm summers at this altitude create conditions that apple trees need to produce well — conditions that simply do not exist at lower elevations. In autumn (March–May), the orchards are heavy with fruit and the hillsides are dotted with red.

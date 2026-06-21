@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 44.6324
 longitude: -124.0497
+score: 8.2
 ---
 
 The Bayfront is the working face of Newport — a long curving row of fish-processing plants, seafood restaurants, chowder houses, and galleries set on pilings over the water. Sea lions lounge on the docks in noisy heaps, fishing boats unload tuna and Dungeness crab, and the smell of the bay sits over the whole strip.

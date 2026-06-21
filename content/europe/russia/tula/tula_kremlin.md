@@ -14,6 +14,7 @@ story: >
   fortress to defend Moscow against Tatar raids. In 1552, the Tatar Khan Devlet I Giray besieged the
   kremlin with a large force but was repulsed — a victory that emboldened Ivan the Terrible to launch
   his own campaign against Kazan that same year.
+score: 8.0
 ---
 
 The Tula Kremlin is the oldest surviving structure in the city, built in the early 16th century as a stone fortress to protect Moscow's southern approaches from Tatar raiders. It is smaller and less famous than its Moscow counterpart, but in some ways more approachable — you can walk the full circuit of its towers in under an hour.

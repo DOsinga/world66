@@ -6,6 +6,7 @@ latitude: -36.3810
 longitude: 145.4020
 story: >
   SPC — originally Shepparton Preserving Company — was founded in 1918 when local fruit growers decided to process their own surplus rather than watch it rot. The company grew to become one of Australia's largest food manufacturers. When Coca-Cola threatened to close the plant in 2014, the Victorian government's refusal to bail it out made national news; a local management buyout eventually saved it.
+score: 6.9
 ---
 
 SPC is woven into the identity of Shepparton — this is where the "Food Capital of Australia" claim actually comes from. The company has been canning fruit, tomatoes, and vegetables from the Goulburn Valley since 1918, and the factory on Boundary Road is still operating.

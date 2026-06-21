@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.6293
 longitude: -7.6850
+score: 7.3
 ---
 
 The village of Belesar sits where the dam crosses the Miño, about 12 km south of Chantada. The original settlement was largely flooded when the reservoir was created in the 1960s; what remains is a cluster of stone houses on the steep bank, with lanes too narrow for cars and the water at the bottom of every view.

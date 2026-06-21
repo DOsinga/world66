@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 16.5165
 longitude: 80.6125
+score: 6.1
 ---
 
 A smaller temple dedicated to Lord Subrahmanya, sitting just below the main Kanaka Durga complex on Indrakeeladri Hill. Subrahmanya — also known as Murugan or Kartikeya — is the warrior son of Shiva, and the temple is a working shrine rather than a tourist sight.

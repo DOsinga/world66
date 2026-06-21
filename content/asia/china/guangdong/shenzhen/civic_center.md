@@ -11,6 +11,7 @@ story: >
   The Civic Center's defining feature is a roof shaped like a giant bird's wings — stretching 500 metres from tip to tip and visible for miles. The design was intended to evoke flight and openness, consistent with Shenzhen's identity as a city always moving forward. When illuminated at night, it becomes one of the most photographed sights in the city.
 sources:
   - https://en.wikipedia.org/wiki/Civic_Center_(Shenzhen)
+score: 5.9
 ---
 
 Shenzhen's Civic Center is the symbolic heart of the city — a vast government complex in Futian District whose sweeping wing-shaped roof has become as recognisable as the Ping An Finance Centre on the skyline. The building houses the Shenzhen Municipal Government offices and the People's Assembly Hall, and sits at the axis of the city's planned civic spine.

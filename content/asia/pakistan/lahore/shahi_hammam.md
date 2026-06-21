@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - walled_city
+score: 9.0
 ---
 
 The Shahi Hammam is a Mughal Persian-style bathhouse built in 1635 by the same Wazir Khan who endowed the nearby mosque — for the use of travellers entering Lahore through the Delhi Gate. After centuries of use as a warehouse, a market, and a primary school, it was painstakingly restored between 2013 and 2015 and is now open to visitors.

@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Restaurang Smaka
 type: poi
+score: 5.8
 ---
 
 One of the better options in the centre for classic Swedish food done properly — husmanskost (home cooking) with ingredients sourced from around Västra Götaland. The menu changes with the seasons: expect elk, perch from Lake Vänern, and root vegetables in autumn and winter; lighter fish dishes and local berries in summer.

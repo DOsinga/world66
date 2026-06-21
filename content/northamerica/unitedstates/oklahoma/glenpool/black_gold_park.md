@@ -13,6 +13,7 @@ story: >
   to market, so drillers simply let it pool on the surface. The revenue
   financed Tulsa's extraordinary run of Art Deco architecture in the 1920s,
   earning the city its nickname as the "Oil Capital of the World."
+score: 6.4
 ---
 
 Black Gold Park marks the site of the Glenn Pool oil field, the 1905 discovery that made Tulsa rich. A historical marker near the park documents the find by wildcatters Robert Galbreath and Frank Chesley on land belonging to Creek Indian Ida E. Glenn — whose name the field carries to this day.

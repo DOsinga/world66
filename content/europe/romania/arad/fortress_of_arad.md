@@ -15,6 +15,7 @@ story: >
   6 October 1849, thirteen of them were executed — six by hanging, seven by firing squad — in a
   public display of imperial retribution. The date is still marked in Hungary as a day of national
   mourning, and the "Arad Thirteen" remain potent symbols of the 1848 revolution.
+score: 8.4
 ---
 
 The Fortress of Arad is a star-shaped 18th-century fortification on the south bank of the Mureș River, built by the Habsburgs between 1763 and 1783 on the orders of Empress Maria Theresa. It is one of the best-preserved Vauban-style fortresses in Romania, with six angular bastions, a wide moat, and a complex of interior buildings covering a large area.

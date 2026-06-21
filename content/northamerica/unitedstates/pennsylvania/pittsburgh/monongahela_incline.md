@@ -10,6 +10,7 @@ story: >
   The Monongahela Incline has been running continuously since 1870, making it the oldest operating funicular in the United States. It was built to carry workers from the hilltop neighbourhood of Mount Washington down to the riverside mills and warehouses — a daily commute on a 35-degree slope that would otherwise require a long walk around. At its peak in the early 20th century, dozens of inclines ran up and down Pittsburgh's hills; the "Mon Incline" and the Duquesne Incline nearby are the two survivors.
 sources:
   - https://en.wikipedia.org/wiki/Monongahela_Incline
+score: 7.7
 ---
 
 The Monongahela Incline runs from Carson Street at the south bank of the Monongahela up to Grandview Avenue on Mount Washington — a rise of about 400 feet on a 35-degree grade. The ride takes less than two minutes, but the view from the top is one of the best in Pittsburgh: the entire downtown skyline, the three rivers, and the hills beyond spread out below you. The observation deck on Grandview Avenue looks directly across the Monongahela toward the Golden Triangle.

@@ -13,6 +13,7 @@ story: >
   to drink. Explanations range from hollow channels in the stone to a simple sleight of
   hand — but the ritual continues unchanged and the faithful are unconcerned with the
   mechanism.
+score: 8.2
 ---
 
 The Kal Bhairav temple on the northern side of the city is one of Ujjain's oldest and most distinctive shrines, dedicated to the fierce Bhairava form of Shiva who guards the city as its Kotwal (police chief). The temple has been a centre of tantric worship and the more transgressive currents of Shaivism for centuries.

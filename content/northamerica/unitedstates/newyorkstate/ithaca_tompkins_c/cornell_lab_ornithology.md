@@ -10,6 +10,7 @@ latitude: 42.4796
 longitude: -76.4540
 story: >
   The lab is the global hub for citizen science in birding through eBird and the Macaulay Library — the largest archive of animal sounds and video in the world. Their nest-cam streams, especially the Red-tailed Hawks of Ithaca, have logged tens of millions of viewers and made the lab unexpectedly famous on YouTube.
+score: 8.5
 ---
 
 Four miles north of downtown at Sapsucker Woods, the lab is open to the public for free with a visitor centre full of well-curated exhibits, viewing windows over a pond, and four miles of easy trails through wetland and beech forest. The Bird Library puts you within touching distance of bird calls from across the world.

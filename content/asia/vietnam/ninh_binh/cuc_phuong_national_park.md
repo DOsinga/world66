@@ -14,6 +14,7 @@ story: >
   genuinely impressive: a forest giant with buttress roots that dwarf standing visitors.
   The park was established in 1962, the first national park in Vietnam, partly to protect
   trees like this one.
+score: 8.2
 ---
 
 Cuc Phuong is Vietnam's oldest national park, established in 1962 and covering 222 square kilometres of tropical limestone forest about 45 kilometres northwest of Ninh Binh city. The forest contains trees over a thousand years old, more than 2,000 plant species, and wildlife including clouded leopards, pangolins, and several species of primate.

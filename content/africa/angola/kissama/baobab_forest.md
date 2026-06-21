@@ -9,6 +9,7 @@ title: Baobab Forest
 type: poi
 story: >
   Several of the largest baobabs in Kissama are thought to be more than a thousand years old, with trunks twelve metres across. Local tradition holds that a baobab grew upside down because God planted it that way as a punishment for vanity — its branches, when bare in the dry season, look like roots flailing in the air.
+score: 7.8
 ---
 
 Some of the most memorable scenery in Kissama is its baobab country: open savannah dotted with enormous, ancient baobab trees, their bottle-shaped trunks rising twenty or thirty metres before erupting into a tangle of bare branches. The forest is not a continuous canopy but a scatter of giants standing alone or in small groups, with grasses and acacia scrub between them.

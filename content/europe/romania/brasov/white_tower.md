@@ -7,6 +7,7 @@ snippet: Whitewashed bastion above the old town with rampart views
 tags:
 - things_to_do
 - sight
+score: 7.6
 ---
 
 The Turnul Alb sits high above the west wall of the old town, reached by a steep flight of steps from Strada George Cosbuc. It was built in the 1490s as part of the chain of bastions that ringed the Saxon town and was for centuries painted white as a counterpart to the (lower-down) Black Tower on the opposite hillside.

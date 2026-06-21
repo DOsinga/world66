@@ -11,6 +11,7 @@ tags:
 - nevskiyprospekt
 title: Port
 type: poi
+score: 5.7
 ---
 
 A multi-room venue near Sennaya Ploshchad with several dance halls and occasional art exhibitions. The varied spaces mean you can wander between different vibes in a single night — techno in one room, something more experimental in another. Open daily from 15:00 until late.

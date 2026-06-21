@@ -15,6 +15,7 @@ story: >
   Brahmaputra river system but has been reduced to fewer than 4,000 individuals
   by hunting, pollution, and dam construction. The stretch around Bhagalpur
   is one of the last places where you can reliably spot them.
+score: 8.7
 ---
 
 The Vikramshila Gangetic Dolphin Sanctuary covers a 60km stretch of the Ganges between Sultanganj and Kahalgaon, east of Bhagalpur. It is the only protected area in India specifically dedicated to the Gangetic river dolphin, and one of the best places on earth to see this endangered species in the wild.

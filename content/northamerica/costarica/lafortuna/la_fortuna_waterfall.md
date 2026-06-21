@@ -8,6 +8,7 @@ latitude: 10.4481
 longitude: -84.6683
 story: >
   The waterfall sits inside Arenal Volcano National Park, fed by the Río Fortuna which drains the slopes of the volcano. The river runs grey-green from volcanic minerals. When the water is high after rain, swimming in the pool below requires some care — the current near the base is stronger than it looks from the bank.
+score: 8.7
 ---
 
 The Catarata de La Fortuna is a 75-metre waterfall about 6 km from town, dropping from a basalt cliff into a deep pool of intensely coloured water. It is one of the most spectacular waterfalls in Costa Rica and the most accessible from La Fortuna. A path of around 500 steep steps leads down from the trailhead to the pool — the descent takes about 20 minutes; the ascent back up takes longer.

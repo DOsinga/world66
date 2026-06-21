@@ -9,6 +9,7 @@ latitude: 27.9614
 longitude: -82.4375
 neighbourhood: Ybor City
 snippet: A century-old Cuban bakery producing 18,000 loaves of traditional Cuban bread daily — the best in Tampa
+score: 7.2
 ---
 
 La Segunda Central Bakery has been making Cuban bread in Ybor City since 1915. It produces around 18,000 loaves a day, supplying most of the Cuban sandwich operations in the Tampa Bay area, and the retail shop on 15th Street is one of the best places in the city for an early breakfast or mid-morning snack.

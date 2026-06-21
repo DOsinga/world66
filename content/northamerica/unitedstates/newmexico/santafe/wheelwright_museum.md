@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 35.6726
 longitude: -105.9219
+score: 7.7
 ---
 
 A small private museum on Museum Hill, founded in 1937 by Mary Cabot Wheelwright and the Navajo medicine man Hastiin Klah. The collection focuses on Native American jewellery — particularly Navajo and Pueblo silverwork — and contemporary artists' work.

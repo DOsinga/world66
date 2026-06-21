@@ -7,6 +7,7 @@ tags:
 - people
 title: Susur Lee
 type: poi
+score: 6.7
 ---
 
 Susur Lee is one of Toronto's most influential chefs, known for fusing intricate French technique with the fresh ingredients and bold flavours of Chinese cuisine. Born in Hong Kong, he arrived in Toronto as a teenager and rose through the city's restaurant scene to become a culinary landmark in his own right.

@@ -8,6 +8,7 @@ story: "The festival began in 1973 with thirteen balloons and has grown into one
 tags:
 - things_to_do
 - sight
+score: 7.7
 ---
 
 For four days in mid-September, the Floyd Bennett Memorial Airport at the eastern edge of Queensbury becomes the launch field for the Adirondack Balloon Festival. More than a hundred balloons make the early-morning and early-evening ascensions; in between there is a small festival on the field, with food trucks and craft vendors and tethered rides for visitors.

@@ -7,6 +7,7 @@ tags:
   - restaurant
 title: Foleshill Road
 type: poi
+score: 7.3
 ---
 
 Foleshill Road runs north from the city centre into one of Coventry's most densely South Asian neighbourhoods, and the restaurants and grocers along it constitute one of the better strips of Pakistani and Indian food in the Midlands outside Birmingham. The area has been home to significant communities from Pakistan, India, and Bangladesh since the 1960s, and the food reflects that history: this is not a tourist-facing restaurant quarter but a working local high street where the food is often excellent and the prices are low.

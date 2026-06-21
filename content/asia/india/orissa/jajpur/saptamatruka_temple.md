@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, temple]
 latitude: 20.834753
 longitude: 86.332854
+score: 7.1
 ---
 
 The Saptamatruka shrine is a small but striking find for anyone interested in early Tantric Hinduism. It enshrines the Seven Mothers — Brahmani, Maheshwari, Kaumari, Vaishnavi, Varahi, Indrani and Chamunda — a group of fierce goddesses associated with the warrior gods, depicted side by side in a single horizontal panel. The sculpture itself, of chlorite, is generally dated to around the 10th century and is among the better-preserved Saptamatruka groups in eastern India.

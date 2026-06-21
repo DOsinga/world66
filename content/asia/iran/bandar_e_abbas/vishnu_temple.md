@@ -15,6 +15,7 @@ story: >
   thousands. Today only a few dozen Hindu families remain, but they have
   maintained the temple continuously — making it one of the most unusual
   religious sites in Iran.
+score: 7.1
 ---
 
 The Vishnu Temple in Bandar Abbas is one of the most unexpected sights in Iran — a functioning Hindu place of worship maintained by the small community descended from Indian traders who settled in the city during the era of Persian Gulf commerce. The temple is a modest building by South Asian standards, but its presence in an Iranian city is remarkable, and it is an active place of worship, not a museum.

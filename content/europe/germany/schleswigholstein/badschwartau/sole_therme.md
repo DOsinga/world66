@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.9197
 longitude: 10.6972
+score: 6.8
 ---
 
 The Sole-Therme is a brine spa fed by the iodine-saline springs that gave Bad Schwartau its health-resort designation. The complex includes indoor and outdoor pools, saunas, steam rooms, and treatment areas. The brine water — saltier than the Baltic and warmer than most outdoor pools — is the main draw; many visitors come specifically for the therapeutic benefits of the mineral-rich water.

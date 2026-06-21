@@ -11,6 +11,7 @@ story: >
   Laguna was one of the key staging posts for the Portuguese expansion into southern Brazil in the 17th and 18th centuries. Its sheltered lagoon made it the most important port between São Paulo and the Río de la Plata. The Juliana Republic — a short-lived separatist state proclaimed here in 1839 with Garibaldi's help — declared its independence from the Empire of Brazil on the steps of the town hall that still stands on the main square.
 sources:
   - https://en.wikipedia.org/wiki/Laguna,_Santa_Catarina
+score: 8.2
 ---
 
 Laguna's historic centre covers the original colonial settlement on a promontory between the Atlantic and the Lagoa Santo Antônio. More than 600 buildings are protected as national heritage, and the overall streetscape — of low whitewashed houses, cobbled lanes, and Portuguese-baroque churches — is remarkably coherent. The main square, Praça Vidal Ramos, is flanked by the 18th-century Igreja Matriz de Santo Antônio and the old town hall from whose balcony the short-lived Juliana Republic declared independence in 1839.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The clock tower over the central archway is older than the rest of the building — it was added in the seventeenth century to the original medieval structure, and survived the rebuilding of the council chambers around it more or less intact."
+score: 6.0
 ---
 
 The Paços do Concelho is one of the oldest secular buildings on São Miguel — a low, two-storey arcaded structure in dark volcanic basalt and whitewashed stone, with a clock tower over the central arch and the municipal coat of arms above. It still houses the local council, but the ground-floor arcade and the small square in front are public.

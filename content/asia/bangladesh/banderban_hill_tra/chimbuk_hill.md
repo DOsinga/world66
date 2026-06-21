@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 22.0833
 longitude: 92.2667
+score: 4.4
 ---
 
 Chimbuk Hill, at about 2500 feet, is the third highest point in Bangladesh and one of the most accessible viewpoints in the Bandarban hills. The road from Bandarban town climbs through a series of hairpin bends past indigenous Mro villages to a military checkpoint and then to a viewing platform at the summit. On clear days — which in this region means predominantly the dry season, October to March — the views across the layered ridges of the hill tracts are extraordinary.

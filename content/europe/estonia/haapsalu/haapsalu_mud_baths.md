@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 58.9399
 longitude: 23.5415
+score: 7.4
 ---
 
 Haapsalu's fame as a resort town rested almost entirely on its therapeutic mud. The blue-black sulphide mud from the bay has been used medicinally since the early nineteenth century, when physicians began prescribing it for nervous disorders, rheumatism, and gynaecological complaints. The first mud bath establishment opened in 1825, and the town was soon drawing wealthy patients from across the Russian Empire.

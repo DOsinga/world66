@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Kinosoo Beach, Cold Lake
 type: poi
+score: 4.8
 ---
 
 Kinosoo Beach sits on the south shore of Cold Lake, about three hours northeast of Edmonton. The lake is one of the deepest in Alberta, and the beach has fine white sand that feels more like an ocean shore than a prairie lake. In summer the water warms up enough for comfortable swimming.

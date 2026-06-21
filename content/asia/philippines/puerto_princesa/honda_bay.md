@@ -10,6 +10,7 @@ tags:
 - nature
 title: Honda Bay Island-Hopping
 type: poi
+score: 7.4
 ---
 
 Honda Bay is a sheltered body of water just north of Puerto Princesa city, scattered with small coral islands and sandbars accessible by bangka boat. Island-hopping day trips typically visit three or four islands: Starfish Island, Luli Island (which submerges at high tide, leaving only its nipa huts accessible by bamboo walkways), Cowrie Island, and Pandan Island.

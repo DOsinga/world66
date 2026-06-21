@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.6419
 longitude: 87.5640
+score: 7.2
 ---
 
 Shankarpur, 14 km east of Digha along the coast road, is a quieter alternative to the main resort beach. The beach here is wider and less developed, backed by casuarina trees that provide shade through the day. A fishing harbour makes Shankarpur feel more like a working village than a resort — the boats come and go, the nets dry on the beach, and the daily catch is sold directly at the landing.

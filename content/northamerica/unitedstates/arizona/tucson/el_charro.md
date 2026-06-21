@@ -11,6 +11,7 @@ tags:
   - restaurant
   - downtown
 story: "El Charro is widely cited as the oldest continuously family-operated Mexican restaurant in the United States, opened by Monica Flin in 1922. Flin reportedly invented the chimichanga around 1922 when she accidentally dropped a burrito into a deep fryer and cursed (chiminga!) — softening the obscenity at the last second because there were nieces in the kitchen."
+score: 7.0
 ---
 
 El Charro Café occupies a historic stone-fronted house on Court Avenue in the heart of downtown, near the Presidio. It has been run by the same family for four generations. The food is classic Sonoran — carne seca (sun-dried beef cooked back to tenderness), chimichangas, enchiladas suizas — with margaritas to match.

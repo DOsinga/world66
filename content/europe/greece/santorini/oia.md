@@ -16,6 +16,7 @@ story: >
   Athenian intellectuals and artists who were drawn to the ruined landscape and
   cheap property. The village that became synonymous with Cycladic perfection
   almost ceased to exist entirely.
+score: 9.4
 ---
 
 Oia sits at the northern tip of the caldera rim, about 11 km from Fira by road and a good deal closer by the cliff path. The village is built into the rock face in layers, with houses stacked below and above one another along narrow lanes that connect through tunnels and stairways. The views across the caldera to the volcanic islands at its centre are the best on the island.

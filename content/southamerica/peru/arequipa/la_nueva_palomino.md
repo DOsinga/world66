@@ -10,6 +10,7 @@ tags:
 - yanahuara
 title: La Nueva Palomino
 type: poi
+score: 6.9
 ---
 
 La Nueva Palomino, run by chef Mónica Huerta, is the picantería most frequently mentioned by Lima food writers and the one with the most carefully thought-through menu. The restaurant occupies a sprawling collection of patios in a side alley of Yanahuara, with rough wood tables under thatched roofs and a soundtrack of conversation and clay-oven cracking. The food is unapologetically arequipeñan — heavy, complicated, and dependent on long-cooked stews — and it is consistently excellent.

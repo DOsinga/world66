@@ -12,6 +12,7 @@ story: >
   is born in the pond. This covenant is said to date back to the founding of the town, when a
   hunter named Nave was led to water by a crocodile during a drought. The reptiles have been
   protected ever since.
+score: 8.7
 ---
 
 The sacred crocodile ponds of Paga are one of the most remarkable wildlife encounters in West Africa. Large Nile crocodiles — sometimes over two metres long — live in shallow ponds at the edge of town, considered sacred by the local Kassena people. For a small fee, a guide will call a crocodile from the water by clapping, coaxing it with a live chicken, and then invite visitors to sit on the animal's back for photographs. The crocodiles are genuinely docile: well-fed, habituated to humans over generations, and apparently in no hurry to disturb an arrangement that has worked for centuries.

@@ -12,6 +12,7 @@ story: The Angladon's Van Gogh — "Railway Wagons," 1888 — is the only painti
   the artist in Provence, which is unexpected given how closely Van Gogh is associated
   with Arles, just an hour away. The collection was assembled by couturier Jacques
   Doucet, who had an eye for buying artists early.
+score: 7.7
 ---
 
 The Musée Angladon is one of the best small museums in Provence — not a blockbuster, but a genuinely surprising private collection assembled by fashion designer Jacques Doucet and his wife, and bequeathed to the city. The house itself, a 17th-century hôtel particulier, is beautifully preserved, and the works are displayed as they were in a private home rather than a gallery.

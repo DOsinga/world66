@@ -8,6 +8,7 @@ latitude: 36.2714
 longitude: 117.1058
 story: >
   The Bixia Yuanjun Temple at the summit is dedicated to the Princess of the Colored Clouds — a Taoist deity associated with the mountain who is, in practice, the most widely worshipped female deity in northern China. She is a goddess of childbirth, fertility, and healing, and the millions of colored ribbons and locks tied to the railings around her temple represent prayers for children, health, and success. The mountain has been a place of formal female pilgrimage for at least 1,500 years.
+score: 7.8
 ---
 
 The summit of Mount Tai (1,533m) is crowded with buildings: the Bixia Yuanjun Temple, the Jade Emperor Temple at the highest point, a weather station, a post office, and several hotels. The post office sells stamps and will postmark your letters and postcards "sent from the summit of Mount Tai" — a small but satisfying ritual. The Jade Emperor Temple marks the precise summit and is the smallest and simplest structure up there, which gives it a more compelling atmosphere than the tourist-oriented facilities around it.

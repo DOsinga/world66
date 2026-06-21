@@ -8,6 +8,7 @@ tags:
 latitude: 52.3669
 longitude: 5.2192
 story: "SANAA's design uses panes of plain glass in fourteen different shades of green and yellow — the colours change with the angle of view, so the building flickers as you walk along its edge."
+score: 7.8
 ---
 
 The Kunstlinie, now branded **KAF (Kunstlinie Almere Flevoland)**, is the city's combined theatre, gallery and concert venue, and the only Dutch building by the Tokyo studio **SANAA** (Kazuyo Sejima and Ryue Nishizawa, Pritzker Prize 2010). Completed in 2007, it sits on the southern edge of the Weerwater lake, a long low slab of subtly tinted glass that all but disappears into the water on a grey day.

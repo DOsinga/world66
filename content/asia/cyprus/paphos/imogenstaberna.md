@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Imogen's Taberna
 type: poi
+score: 5.1
 ---
 
 A traditional meze restaurant in the hill village of Kathikas, about 25 minutes northwest of Paphos. The open-air patio is the main draw, serving a mix of eastern Mediterranean and Cypriot dishes. Vegetarians are well looked after with a dedicated meze selection, and on Sundays the kitchen turns out three-course roast lunches and souvla. Open 10:30 a.m. to 3 p.m. and 6:30 p.m. to midnight.

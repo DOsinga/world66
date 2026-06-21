@@ -7,6 +7,7 @@ snippet: "South Africa's premier five-day coastal trail through Tsitsikamma"
 tags:
 - things_to_do
 - hiking
+score: 9.5
 ---
 
 A five-day, 42-kilometre trail hugging the coast between Storms River Mouth and Nature's Valley in the Tsitsikamma section of the Garden Route National Park. The route is relentlessly steep — up and down through dense indigenous forest, across rocky headlands, and along empty beaches backed by cliffs. River crossings (some at waist height) and tidal timing add to the challenge.

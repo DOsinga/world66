@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: The 1656 mausoleum of Muhammad Adil Shah — second-largest dome in the world when built
 story: "The Whispering Gallery inside the dome carries a sound around the full circumference and back — a whisper from one side reaches the other clearly, and a loud clap echoes seven times. Designed by the architect Yaqut of Dabul, it remained the largest domed monument in the Islamic world for centuries."
+score: 9.3
 ---
 
 The defining monument of Bijapur and one of the great achievements of Indian Islamic architecture. The mausoleum was built between 1626 and 1656 for Sultan Muhammad Adil Shah, and its central dome — 44 metres across — was the second largest in the world when completed, surpassed only by St Peter's in Rome. The exterior is austere, four tall octagonal towers at the corners holding up the immense dome, but the engineering inside is extraordinary.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 49.2667
 longitude: -122.9833
+score: 7.3
 ---
 
 Burnaby Heights — the Heights, to locals — is the most characterful commercial strip in Burnaby, running along East Hastings Street in the North Burnaby area. The neighbourhood has a large Italian community, and this shows in the shops: Italian delis, espresso bars, bakeries, and family-owned restaurants that have been trading for decades.

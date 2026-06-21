@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.665
 longitude: 68.9108
+score: 4.4
 ---
 
 Kunduz Airport (IATA: UND) lies about eight kilometres southeast of the city. It is a small regional field with a single asphalt runway, used by the Afghan military and by occasional domestic flights to [Kabul](/asia/afghanistan/kabul) and Mazar-i-Sharif when conditions allow.

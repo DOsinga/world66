@@ -10,6 +10,7 @@ longitude: 3.0976
 snippet: The best birdwatching site in the Balearic Islands, a wetland reserve of international importance
 story: >
   S'Albufera was drained repeatedly over the centuries — Romans, Arab engineers, and eventually a British company in the 1860s all tried to turn it into farmland. The British venture produced some rice paddies and a network of channels before it went bankrupt. The drainage channels it built are still there, and it's partly this history of attempted draining that created the mosaic of reed beds, open water, and damp meadow that makes the reserve so rich for birds today.
+score: 8.4
 ---
 
 S'Albufera de Mallorca is the largest wetland in the Balearics and one of the most important bird sites in the western Mediterranean. Around 230 species have been recorded here, and during the spring and autumn migrations the numbers swell dramatically. Resident breeding birds include purple heron, little bittern, black-winged stilt, and Audouin's gull — a species found almost exclusively in the Mediterranean. Ospreys fish the open water with some regularity.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 story: "Trojaborgs — turf or stone spiral mazes — are scattered across Scandinavia, especially along coastlines. Folklorists believe Baltic fishermen walked them ritually to trap evil spirits or ensure a safe catch. The Visby example is one of the largest still in its original setting."
+score: 6.8
 ---
 
 A few minutes north of the gallows hill, on a stretch of grassy coastal cliff, sits a perfect spiral of head-sized stones some 18 metres across. There is no entrance fee, no signage barriers, nothing official about it — just a strange piece of pre-Christian folk geometry sitting on the headland with views across to the lighthouse.

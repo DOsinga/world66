@@ -7,6 +7,7 @@ longitude: -4.8858
 tags:
 - things_to_do
 - landmark
+score: 7.2
 ---
 
 The heart of the old town, a small square shaded by orange trees and ringed by whitewashed buildings. A 15th-century Renaissance fountain sits in the middle; the 16th-century town hall and the 17th-century Casa del Corregidor line the edges. Tables spill out from cafes and restaurants -- touristy and overpriced, but the setting is genuine.

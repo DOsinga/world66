@@ -9,6 +9,7 @@ tags:
   - market
 snippet: Bustling covered market for fresh fish, produce, and street food
 story: "Tanga Market is known locally as 'Kitakyushu's kitchen'. The market is famous for its *kankan-meshi* — a heaped bowl of rice topped with whatever the fishmonger thinks is freshest that morning. Order it at the stall, point at the fish, and watch them assemble it in front of you."
+score: 8.1
 ---
 
 Tanga Market is a narrow alley of fish stalls, vegetable sellers, pickle vendors, and snack stands that runs between Tanga Station and the arcade district. It has been the food market for central Kokura since the 1910s and still operates as one, with most stallholders running family businesses passed down two or three generations.

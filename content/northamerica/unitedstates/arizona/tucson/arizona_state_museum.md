@@ -10,6 +10,7 @@ tags:
   - things_to_do
   - museum
 story: "The museum's pottery collection — the largest of any Southwest indigenous ceramics anywhere — is held in earthquake-rated drawers in a single climate-controlled vault. A side gallery, 'Pottery Project', lets visitors actually see into the vault through long sliding glass cabinets."
+score: 8.4
 ---
 
 The Arizona State Museum sits at the western entrance of the University of Arizona campus and is the oldest and largest anthropology museum in the Southwest, a Smithsonian affiliate founded in 1893. Its core strength is the archaeology of the Greater Southwest and northern Mexico — the Hohokam, the Mogollon, and the contemporary tribes that descended from them.

@@ -8,6 +8,7 @@ tags:
 - architecture
 type: poi
 snippet: Romanesque church with an octagonal bell tower, among the oldest in Genoa
+score: 7.9
 ---
 
 One of the oldest surviving Romanesque churches in Genoa, San Donato dates from the 12th century. The octagonal bell tower is the most distinctive element of the exterior, rising in diminishing stages with decorated windows at each level. The interior preserves Romanesque proportions under later decorative additions.

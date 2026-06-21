@@ -10,6 +10,7 @@ story: >
   healing ceremonies in which specific spirits (mluk) were summoned through
   particular rhythms and colours. The people of Khamlia have kept this tradition
   alive while most Moroccan cities have seen it absorbed into tourist performance.
+score: 8.4
 ---
 
 Khamlia exists, in the minds of many travellers who make the detour from Merzouga, almost entirely because of its Gnawa musicians. The village's residents are of sub-Saharan descent, and the musical tradition they have maintained here is one of the most intact in Morocco. The core instruments are the guembri — a three-string bass lute with a body made from a camel-skin resonator — and the krakeb, heavy iron castanets that drive the rhythm at a volume that surprises first-time listeners.

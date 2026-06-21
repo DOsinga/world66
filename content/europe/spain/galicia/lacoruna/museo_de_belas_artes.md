@@ -9,6 +9,7 @@ tags:
 - museum
 title: Museo de Belas Artes
 type: poi
+score: 7.4
 ---
 
 The Fine Arts Museum holds a permanent collection strong in Flemish and Spanish Old Masters, 19th-century Galician painting, and works by Picasso — who studied at the school of fine arts here as a teenager. The building, a converted 18th-century convent, is handsome in itself.

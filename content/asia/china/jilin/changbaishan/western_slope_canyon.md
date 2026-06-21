@@ -8,6 +8,7 @@ latitude: 42.0800
 longitude: 127.9500
 story: >
   The western slope approach was opened to tourism significantly later than the northern slope, partly because the terrain is more difficult and partly because the government was cautious about infrastructure in this area near the border. The result is that the western side still feels less processed — fewer facilities, more space, a more direct encounter with the volcanic landscape.
+score: 8.6
 ---
 
 The western slope of Changbaishan offers a separate and distinctly different experience from the northern approach. A dedicated entrance about 100 kilometres from the northern gate accesses the Changbaishan Canyon — a deep gorge carved through dramatic volcanic rock formations by rivers draining the mountain's western flank. The canyon walls expose layers of different volcanic deposits, and the colours change with the light and the season.

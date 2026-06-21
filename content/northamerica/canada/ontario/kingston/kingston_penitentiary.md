@@ -14,6 +14,7 @@ story: >
   novel Alias Grace, was also imprisoned here in the 19th century. The 1971 riot — a
   four-day uprising that left two inmates dead and much of the prison in ruins — became
   a turning point for prison reform in Canada.
+score: 8.3
 ---
 
 Kingston Penitentiary opened in 1835 and operated for 178 years, making it one of the oldest continuously operating prisons in the world at the time of its closure in September 2013. It is a massive limestone structure on the western waterfront, instantly recognisable by its towered gatehouse and forbidding perimeter wall. In its long history it survived two major riots (1954 and 1971), served as a maximum-security prison for some of Canada's most dangerous offenders, and became a kind of symbol for the entire Canadian corrections system.

@@ -10,6 +10,7 @@ tags:
 title: Akdamar Island
 type: poi
 story: "The Church of the Holy Cross, completed in 921 AD, sat abandoned for nearly a century before Turkey restored it in 2007. It is now open for Christian services one day a year, on the first Sunday of September, when Armenians from around the world come back to worship."
+score: 8.9
 ---
 
 Akdamar is a small island in the southern stretch of Lake Van, about an hour's drive west of the city and twenty minutes by ferry from the dock at Gevaş. Almost all of the island is given over to one extraordinary building: the Armenian Church of the Holy Cross, built in 921 by King Gagik I of Vaspurakan.

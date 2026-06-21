@@ -13,6 +13,7 @@ story: >
   when the 1995 earthquake struck. Some of the newer buildings survived; older ones
   did not. The post-earthquake reconstruction of Harborland became part of the wider
   debate about what Kobe should look like after rebuilding.
+score: 6.0
 ---
 
 Harborland is a large waterfront shopping and entertainment district at the western end of Kobe's harbour, centred on two large shopping malls and a collection of hotels. It is a pleasant place to walk in the evenings, with views across the harbour toward Port Island and the Port Tower. The Ferris wheel visible from the waterfront is a Kobe landmark.

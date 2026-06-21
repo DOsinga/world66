@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 7.2922
 longitude: 80.6369
+score: 4.8
 ---
 
 The Kandy City Centre, a ten-storey commercial complex near the lake, is the main modern shopping mall and houses the country's parliament as a peculiarity of its early funding arrangements — an incongruity that has made it something of a local curiosity. The basement and lower floors have supermarkets and electronics shops useful for supplies; the upper floors have clothing and household goods.

@@ -7,6 +7,7 @@ tags:
 latitude: 38.827
 longitude: 21.682
 snippet: White-water rafting on one of Greece's greatest rivers
+score: 6.8
 ---
 
 The Acheloos is one of the longest rivers in Greece, rising in the Pindus mountains and flowing south through Evrytania before widening into the reservoirs and delta of western Greece. The stretch near Karpenisi offers some of the most accessible white-water rafting in the country, with several outdoor operators running day and half-day trips through Class III rapids framed by plane forests and limestone bluffs.

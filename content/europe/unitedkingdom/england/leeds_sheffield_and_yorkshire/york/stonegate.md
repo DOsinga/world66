@@ -7,6 +7,7 @@ tags:
 title: Stonegate
 type: poi
 snippet: "York's finest medieval street, running from St Helen's Square to the Minster on the line of a Roman road"
+score: 8.3
 ---
 
 Stonegate is York's most handsome street, running north from St Helen's Square to the Minster on a line that follows the Roman via principalis — the main road of the legionary fortress of Eboracum. The street was paved with stone in the medieval period, giving it its name. The buildings on both sides are mostly medieval or early modern timber-framed structures, and while the ground floors have been given over to shops and cafes, the upper storeys retain the crooked, leaning appearance of genuinely old buildings. The street is pedestrianised and always busy.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.5664
 longitude: 22.7986
+score: 7.7
 ---
 
 A small but unusually well-curated museum in a restored old town mansion, dedicated to the textiles, costumes, jewellery and household objects of the Peloponnese over the last two centuries. The collection was put together by Ioanna Papantoniou, a costume designer who quietly assembled one of the best ethnographic archives in Greece.

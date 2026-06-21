@@ -8,6 +8,7 @@ tags:
   - sight
   - music_venue
   - downtown
+score: 6.8
 ---
 
 The 17,000-seat downtown arena on Lower Broadway is home to the **Nashville Predators** of the NHL and the main stop for nearly every major arena tour that passes through Tennessee. The venue was completed in 1996 — the city built it speculatively, without a tenant, to attract a major-league franchise; the gamble paid off when the NHL awarded Nashville the Predators in 1998.

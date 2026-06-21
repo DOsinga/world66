@@ -12,6 +12,7 @@ story: >
   the rock temperature exceeded 60°C and underground workers could only work
   20-minute shifts before rotating out to cooling stations filled with ice
   shipped down from the Sierra Nevada.
+score: 8.7
 ---
 
 Virginia City sits directly above the Comstock Lode, the silver deposit that produced over $700 million in ore between 1859 and 1919 and bankrolled a significant portion of the Union effort in the Civil War. Several mine tours give visitors access to the actual tunnels, and they are among the more viscerally informative ways to understand what the silver rush actually involved.

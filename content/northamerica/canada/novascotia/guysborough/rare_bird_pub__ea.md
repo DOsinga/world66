@@ -12,6 +12,7 @@ tags:
 title: Rare Bird Pub & Eatery
 type: poi
 url: https://www.rarebirdpub.com
+score: 5.9
 ---
 
 A brew pub on Guysborough Harbour with a large patio overlooking the water. Home to the Chedabucto Bay Brewing Company, carrying on a brewing heritage that dates to 1659. Good menu, wood-fired pizza, and live East Coast music on weekends. Weekly ceilidhs on Wednesdays.

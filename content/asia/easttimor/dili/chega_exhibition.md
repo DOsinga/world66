@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The Portuguese-built prison was used by Indonesia's secret police throughout the occupation. After independence, survivors insisted that the cells, the courtyard, and the interrogation rooms be preserved exactly as they had been, with the original graffiti scratched into the walls."
+score: 8.8
 ---
 
 The Chega! Exhibition occupies the Balide Comarca, the colonial-era prison that Indonesian forces used as a detention and torture site during the occupation. The name means "Enough!" in Portuguese — the title of the truth commission report that documented atrocities between 1974 and 1999.

@@ -15,6 +15,7 @@ story: >
   the resulting wave. The water in the harbour reportedly boiled. The Gabrielle, the Tamaya,
   and the Roraima went down within minutes of each other, their cargoes still aboard — wine
   bottles, ceramic tiles, machinery — preserved on the seabed for over a century.
+score: 9.5
 ---
 
 The harbour at Saint-Pierre holds what divers routinely rank among the best wreck diving in the world. At least ten ships sank on 8 May 1902, mostly in the 30–50 metre depth range, and they have remained essentially undisturbed since then. Hulls, masts, anchors, and cargo are all intact, and decades of undisturbed growth have turned the wrecks into dense artificial reefs — coral, sponges, and schools of tropical fish cover every surface.

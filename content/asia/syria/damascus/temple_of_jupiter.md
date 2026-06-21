@@ -7,6 +7,7 @@ tags:
 latitude: 33.5116
 longitude: 36.3038
 snippet: Roman temple gates and columns surviving at the entrance to the Hamidiyah Souq
+score: 7.6
 ---
 
 The eastern propylaea of the great Roman Temple of Jupiter Damascenus survives as a row of weathered Corinthian columns just outside the Hamidiyah Souq's eastern gate. The temple complex was vast — large enough that it later became first the cathedral of Damascus and then the Umayyad Mosque, which still occupies the central enclosure.

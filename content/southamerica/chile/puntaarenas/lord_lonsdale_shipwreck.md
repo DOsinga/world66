@@ -6,6 +6,7 @@ longitude: -70.9170
 tags:
   - things_to_do
   - sight
+score: 5.0
 ---
 
 Half-sunk in the harbour mud just south of the cruise pier, the rusting iron hull of the **Lord Lonsdale** is one of the more atmospheric sights in Punta Arenas. Built on the Mersey in 1889 as a four-masted barque, she was rounding Cape Horn in 1909 with a cargo of coal when fire broke out in the hold. The crew put in at Punta Arenas, the coal kept smouldering for weeks, and she was eventually condemned and abandoned in the bay.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Byzantine Museum of Ioannina
 type: poi
+score: 8.3
 ---
 
 The Byzantine Museum occupies the former Ottoman barracks at the top of the Its Kale citadel. Its collection covers art and everyday life in Epirus from the 4th to the 19th century — icons, vestments, manuscripts, ceramics, jewellery, and a particularly fine selection of post-Byzantine silverwork in a separate **Silversmithing Museum** in the same complex.

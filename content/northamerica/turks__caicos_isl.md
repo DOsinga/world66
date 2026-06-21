@@ -16,7 +16,7 @@ image_attribution: <a href="https://en.wikipedia.org/wiki/User:Jersyko" class="e
   class="extiw" title="wikipedia:">English Wikipedia</a>
 done:
   country_cleanup: 2026-03-29
-score: 0.77
+score: 0.47
 loc_type: country
 ---
 

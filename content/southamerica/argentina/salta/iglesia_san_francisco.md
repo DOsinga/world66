@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -24.7871
 longitude: -65.4077
+score: 8.7
 ---
 
 The Church of San Francisco is the most visually striking building in Salta's colonial centre — a tall, elaborately decorated 19th-century facade in vivid terracotta-red and white, with a bell tower that climbs to 53 metres. The current building dates from 1882, replacing earlier structures on the same site, but it was designed deliberately in a 17th-century colonial style that makes it feel older.

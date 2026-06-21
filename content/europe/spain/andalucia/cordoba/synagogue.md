@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Synagogue of Cordoba
 type: poi
+score: 7.8
 ---
 
 A small 14th-century building in the heart of the Judería, this is one of only three medieval synagogues that survived the 1492 expulsion of Spain's Jews. The interior is a single square prayer hall with delicate Mudéjar plasterwork — Hebrew inscriptions, geometric patterns, and a women's gallery upstairs. After the expulsion it was used as a hospital, a hermitage, and a shoemakers' guild before being recognised as a national monument in 1885. Free for EU citizens, €0.30 for others; expect to spend ten or fifteen minutes.

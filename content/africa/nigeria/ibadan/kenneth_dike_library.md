@@ -14,6 +14,7 @@ story: >
   Africa needed its own scholarly infrastructure, independent of European
   institutions, to tell its own history. The Arabic manuscript collection
   he helped build is a direct expression of that conviction.
+score: 8.0
 ---
 
 The Kenneth Dike Library at the University of Ibadan is one of the finest research libraries in Africa and holds a collection of particular interest to visitors: thousands of Arabic manuscripts documenting Islamic scholarship, history, and science across West and North Africa, many of them centuries old and previously unknown to European scholarship.

@@ -16,6 +16,7 @@ title: Turku Castle
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Turku_Castle
+score: 9.1
 ---
 
 Turku Castle is one of the largest surviving medieval buildings in Finland, with construction beginning around 1280. It served as an administrative centre and occasionally a royal residence — the future King John III of Sweden was kept here under house arrest in the 1560s. Today the castle houses the Historical Museum of Turku, with extensive exhibits covering the city's history from the Middle Ages through the 19th century. Allow at least two hours.

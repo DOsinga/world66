@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.7322
 longitude: 79.0697
+score: 7.5
 ---
 
 A small temple on a ridge about half a kilometre southeast of the main Kedarnath temple, dedicated to Bhairavnath — a fierce manifestation of Shiva said to guard the shrine during the winter months when the main temple is closed. The walk up is short but steep.

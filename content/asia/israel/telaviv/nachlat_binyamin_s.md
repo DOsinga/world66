@@ -10,6 +10,7 @@ tags:
 - bar
 title: Nachlat Binyamin Street Bars
 type: poi
+score: 6.0
 ---
 
 Most visitors know the Nachlat Binyamin pedestrian mall for its twice-weekly artisan market. Fewer discover the street of the same name running just off the pedestrian zone, lined with bars that make for easy, low-key bar-hopping.

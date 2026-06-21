@@ -8,6 +8,7 @@ tags:
 - museum
 title: Newseum
 type: poi
+score: 2.0
 ---
 
 The Newseum was one of Washington’s most ambitious museums — seven floors dedicated to the history of news, press freedom, and journalism. Exhibits ranged from front pages documenting major world events to a section of the Berlin Wall, to Pulitzer Prize-winning photography. An interactive newsroom let visitors experience what it’s like to report and broadcast the news.

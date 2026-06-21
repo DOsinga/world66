@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.6
 ---
 
 The original parliament of independent Bulgaria, built 1884–1928 in neo-Renaissance style. The façade carries the inscription "Unity Makes Strength" — the motto of the country since 1879. Sessions of the National Assembly moved out to the former Party House on the Largo in 2020, but this building remains the symbolic home of Bulgarian democracy.

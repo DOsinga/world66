@@ -7,6 +7,7 @@ tags:
   - sight
 title: Playa El Amor
 type: poi
+score: 7.2
 ---
 
 Playa El Amor is one of the longer beaches along Coche's southern coast and the centre of the island's small kitesurfing scene. Several schools and equipment-rental kiosks operate from beachside palapas, with the steady cross-shore wind that makes Coche one of the best learner destinations in the Caribbean.

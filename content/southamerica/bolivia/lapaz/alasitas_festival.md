@@ -15,6 +15,7 @@ tags:
 - festival
 title: Alasitas Festival
 type: poi
+score: 8.6
 ---
 
 Alasitas takes place on 24 January around [Plaza San Francisco](/southamerica/bolivia/lapaz/plaza_san_francisco) and spreads across much of the city centre. The market that accompanies it is extraordinary: hundreds of stalls selling miniature versions of everything a person might want to acquire — houses and apartments, cars and trucks, diplomas and university degrees, passports and visas, dollar bills and bolivianos, food and livestock and sewing machines. The objects are beautifully made at a range of price points. You buy what you want to receive, have it blessed by a yatiri or a Catholic priest (both are available; many people use both), and keep it through the year in the belief that the blessing will manifest the real thing.

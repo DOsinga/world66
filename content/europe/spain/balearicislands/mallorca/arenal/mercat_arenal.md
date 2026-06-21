@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 39.5095
 longitude: 2.7535
+score: 4.9
 ---
 
 The weekly market at S'Arenal runs on Thursdays in the streets behind the beach, selling the usual mix of clothing, leather goods, tourist souvenirs, and seasonal produce. It is a smaller affair than the markets at Palma or Pollença, but worth a look if you happen to be there on a Thursday morning — the fruit and vegetable stalls in particular stock produce that is noticeably fresher and cheaper than the supermarkets.

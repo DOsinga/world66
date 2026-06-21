@@ -7,6 +7,7 @@ tags:
 latitude: 53.1215
 longitude: -4.1271
 url: https://www.peteseats.co.uk
+score: 5.8
 ---
 
 Pete's Eats is the unofficial headquarters of the Llanberis climbing and walking community. The cafe occupies a large, permanently warm building in the centre of the village and has been serving enormous portions of hot food to walkers, climbers, and mountaineers since the 1970s. The notice board inside is a reliable source of local route information, weather opinions, and the kind of advice you only get from people who actually climb here.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.2283
 longitude: -113.8059
+score: 5.6
 ---
 
 The Centrium is Red Deer's main arena and entertainment venue, a 7,000-seat multi-purpose hall in the south of the city. Hockey is the primary draw: the Red Deer Rebels of the Western Hockey League play their home games here, and the building has a genuine prairie-hockey atmosphere — passionate, loud, and affordable in ways that major-league arenas are not.

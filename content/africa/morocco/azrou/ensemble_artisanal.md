@@ -6,6 +6,7 @@ longitude: -5.2218
 tags:
   - things_to_do
   - shopping
+score: 6.2
 ---
 
 The Ensemble Artisanal is the government-run crafts cooperative on the main road through town, housed in a low whitewashed building set around a courtyard. The workshops produce the carpets, blankets, and engraved silverware for which Azrou is known, and customers can watch the weavers at work before buying.

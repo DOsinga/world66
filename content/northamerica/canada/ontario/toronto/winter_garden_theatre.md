@@ -9,6 +9,7 @@ tags:
 title: Elgin and Winter Garden Theatre Centre
 type: poi
 url: https://elginwintergarden.com
+score: 8.3
 ---
 
 The Elgin and Winter Garden Theatre Centre is one of the world's last surviving double-decker theatres — two stacked auditoriums built directly above each other in 1913, each with its own distinct character. The Elgin on the lower level is a conventional ornate vaudeville house; the Winter Garden above is something stranger and more beautiful.

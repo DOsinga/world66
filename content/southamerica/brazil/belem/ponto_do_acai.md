@@ -6,6 +6,7 @@ tags:
 latitude: -1.4530
 longitude: -48.5020
 snippet: The best introduction to Belém's açaí culture — thick, savory, and nothing like the export version.
+score: 7.8
 ---
 
 Belém's relationship with açaí is older and more serious than anywhere else. The berry grows wild in the estuary floodplains and arrives at Ver-o-Peso by boat each morning, already pulped and packed into plastic tubs. The local version is dense and unsweetened — the color of a bruise, with an earthy, faintly fermented flavor that takes some getting used to.

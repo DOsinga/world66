@@ -7,6 +7,7 @@ tags:
 latitude: 47.4753
 longitude: 13.6064
 story: "At 2,995 metres the Hoher Dachstein is the second-highest peak in the Northern Limestone Alps and the highest mountain in Styria. The first recorded ascent was made in 1832 by Peter Karl Thurwieser, an Austrian theologian who was an obsessive Alpine pioneer."
+score: 8.9
 ---
 
 The Hoher Dachstein is the great peak above Ramsau, a sheer limestone wall topped with a small ice cap. For hikers it is a serious but achievable summit via the Hosswandsteig or the via ferrata routes from the Dachstein cable car, finishing at a small cross and a panorama that takes in nine Austrian provinces.

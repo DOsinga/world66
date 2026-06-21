@@ -9,6 +9,7 @@ tags:
 snippet: Free museum with mummies, dinosaurs, fine art, and a Banksy installation
 title: Bristol Museum & Art Gallery
 type: poi
+score: 7.8
 ---
 
 Queens Road, Clifton. Free to enter. An eclectic collection ranging from Egyptian mummies and dinosaurs to fine art and the city's own natural history. Home to a full-size Banksy installation, *Paint-Pot Angel*, left after his 2009 takeover of the museum.

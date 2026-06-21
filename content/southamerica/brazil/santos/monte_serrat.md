@@ -9,6 +9,7 @@ tags:
   - viewpoint
 neighbourhood: Centro Histórico
 story: "The original hilltop chapel was built in 1601 as a thanksgiving for the failed attack on Santos by the English pirate Thomas Cavendish; the present sanctuary is a nineteenth-century replacement on the same site."
+score: 8.7
 ---
 
 Monte Serrat rises behind the historic centre, an isolated hill of about 150 metres topped by a small sanctuary to Our Lady of Monte Serrat. A short funicular runs up from the base every fifteen minutes or so and is one of the cheap thrills of Santos.

@@ -5,6 +5,7 @@ tags: [things_to_do, garden]
 snippet: Hillside botanical garden in a coffee-country town an hour from Pereira
 latitude: 4.9389
 longitude: -75.7361
+score: 6.9
 ---
 
 The botanical garden of Marsella, perched on a hillside above the small coffee town of the same name, an hour north of Pereira. The collection emphasises native Andean plants — orchids, heliconias, palms, and tree ferns — laid out along well-graded trails through what feels half garden, half cloud forest. Howler monkeys are sometimes audible from the upper paths.

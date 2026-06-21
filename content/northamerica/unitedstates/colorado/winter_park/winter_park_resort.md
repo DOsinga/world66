@@ -8,6 +8,7 @@ latitude: 39.887
 longitude: -105.763
 story: >
   Winter Park Resort has been operating since 1940 and is owned by the City of Denver — making it one of the few major ski resorts in the US that is municipally owned. The city bought the land for recreational use and has operated the resort for over 80 years, with a portion of revenues returning to Denver's parks and recreation budget. This unusual ownership structure has historically kept ticket prices more reasonable than comparable resorts.
+score: 9.1
 ---
 
 Winter Park Resort is the dominant reason most people come to Winter Park — 3,080 acres of skiable terrain spread across seven distinct territories, with a vertical drop of over 3,000 feet. The resort runs from mid-November to mid-April in most years, though snowfall varies considerably.

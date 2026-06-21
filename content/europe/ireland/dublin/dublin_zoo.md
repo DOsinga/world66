@@ -12,6 +12,7 @@ tags:
 title: Dublin Zoo
 type: poi
 url: https://www.dublinzoo.ie
+score: 6.4
 ---
 
 Dublin Zoo, founded in 1831, is one of the oldest zoos in the world and occupies 28 hectares in the western section of Phoenix Park. It houses around 400 animals across a range of habitats including the African Savanna, the Asian Forests, and the Orangutan Forest.

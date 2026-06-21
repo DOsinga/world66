@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 43.8894
 longitude: 125.3111
+score: 6.8
 ---
 
 The antique market along Chongqing Road is Changchun's main destination for browsing historical objects, old books, Mao-era memorabilia, and the general flow of northeast China's material history. The stalls cover the full range from genuine antiques to reproduction work, and the buyers range from serious collectors to curious visitors.

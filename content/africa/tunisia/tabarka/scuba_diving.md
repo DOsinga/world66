@@ -8,6 +8,7 @@ tags:
 latitude: 36.955
 longitude: 8.755
 snippet: Some of Tunisia's best diving, with coral and clear Mediterranean water
+score: 7.7
 ---
 
 Tabarka is recognised as one of the top diving destinations on the Tunisian coast. The rocky seabed around the Tabarka Rocks and the offshore reefs holds sponges, sea fans, octopus and a variety of bream, grouper and sea bass. Visibility is typically good, and depths accessible to sport divers range from shallow reef to walls dropping to 30–40 metres.

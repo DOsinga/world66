@@ -11,6 +11,7 @@ tags:
 title: Clervaux Castle
 type: poi
 url: www.visit-clervaux.lu
+score: 8.6
 ---
 
 Perched on a rocky spur above the loop of the Clerve river, Clervaux Castle has guarded the town since the 12th century. The current whitewashed structure with red roofs is largely a postwar reconstruction — the castle was largely destroyed in December 1944 during the Battle of the Bulge, when American troops of the 110th Infantry held off elements of the 2nd Panzer Division for three days.

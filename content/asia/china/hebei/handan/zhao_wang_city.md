@@ -12,6 +12,7 @@ story: >
   than traditional Chinese robes. The cavalry reforms that followed transformed
   the Zhao army and provoked outrage from traditionalists who saw it as cultural
   surrender. The king is buried here, in the earth of the capital he built.
+score: 7.7
 ---
 
 The ruins of the ancient Zhao capital south of central Handan preserve the earthen foundations of one of the Warring States period's most ambitious cities. Handan served as the Zhao capital from 386 BCE until its conquest by Qin in 228 BCE — nearly 160 years during which it was one of the great cities of the pre-imperial world. The rammed-earth walls, platforms, and foundation mounds that survive in the fields south of the modern city are the tangible remains of that period.

@@ -9,6 +9,7 @@ tags:
 - centro_historico
 title: Iglesia y Convento de San Francisco
 type: poi
+score: 7.1
 ---
 
 The Franciscan complex on Plaza San Francisco is one of the older religious foundations in Arequipa, begun in 1552. The main church is small and stocky — earthquake damage has knocked off various spires over the centuries — but the side chapel known as the Tercera Orden is the more interesting space, with carved retablos covered in gold leaf and a particularly fine 17th-century pulpit. Look up at the masonry cracks: they tell the story of every major Arequipa earthquake.

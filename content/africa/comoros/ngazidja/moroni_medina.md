@@ -13,6 +13,7 @@ story: >
   stonework — dates to the Ottoman period and is among the oldest Islamic
   structures in the southwestern Indian Ocean. Friday prayers draw much of the
   city, and the streets around the mosque fill for hours beforehand.
+score: 8.3
 ---
 
 Moroni's old medina is the cultural heart of Ngazidja — a quarter of narrow alleys, carved wooden doors, and whitewashed coral-stone buildings that feels more like coastal East Africa or the Arabian Peninsula than sub-Saharan Africa. The architecture reflects the island's centuries of Arab trading connections: the mosques, the doorways, and the layout all reflect an Islamic urban tradition quite distinct from anything on the African mainland.

@@ -9,6 +9,7 @@ tags:
   - architecture
   - museumsquartier
 story: "The painting gallery here contains the world's largest collection of works by Bruegel the Elder, including 'The Hunters in the Snow' and 'The Tower of Babel'. Empress Maria Theresa's grandfather acquired most of them in the 17th century — they have stayed together as a set for 350 years."
+score: 9.5
 ---
 
 The Kunsthistorisches Museum is among the great picture galleries of the world. Built by Emperor Franz Joseph to house the Habsburg art collection, it opened in 1891 across from the matching Naturhistorisches Museum on Maria-Theresien-Platz. The interior — domed central hall, marble staircase, ceiling frescoes by Gustav Klimt — is as impressive as the collection.

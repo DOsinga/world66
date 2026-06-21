@@ -8,6 +8,7 @@ tags:
 - landmark
 title: 1982 Liberation Memorial
 type: poi
+score: 6.8
 ---
 
 A simple obelisk on the Stanley waterfront, unveiled in 1984 by the islanders to honour the 255 British servicemen who died in the 74-day war that ended the Argentine occupation on 14 June 1982. The memorial lists all the British units that took part — Army, Royal Marines, Royal Navy, Royal Air Force and Merchant Navy.

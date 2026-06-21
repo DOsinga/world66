@@ -18,6 +18,7 @@ story: >
   memory of the Pankhursts and the broader suffragette movement.
 sources:
   - https://en.wikipedia.org/wiki/Pankhurst_Centre
+score: 8.3
 ---
 
 The Pankhurst Centre occupies the Victorian terraced house where Emmeline Pankhurst and her daughters Christabel and Sylvia lived when they founded the Women's Social and Political Union in 1903. The WSPU went on to run one of the most dramatic political campaigns in British history, including window-smashing raids, hunger strikes, arson, and the death of Emily Wilding Davison at the Epsom Derby in 1913.

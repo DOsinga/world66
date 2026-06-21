@@ -8,6 +8,7 @@ tags:
 latitude: 51.8191
 longitude: 4.6851
 story: "Builder Johan Huibers had a dream in 1992 about Holland flooding, and in 2012 he finished an actual seaworthy ark — 135 metres long, four storeys tall — using only the dimensions given in Genesis 6. It can host about 1,500 visitors."
+score: 4.2
 ---
 
 If you walk east along the river from the Groothoofdspoort you eventually round a bend and come face to face with what looks unmistakably like a giant wooden ship sitting in the water — Johan's Ark, a one-to-one re-creation of Noah's Ark built by a Dutch creationist carpenter named Johan Huibers. Inside it has been turned into a religious theme park: life-size models of biblical animals, an auditorium, a small zoo with live goats and donkeys, a restaurant and a chapel.

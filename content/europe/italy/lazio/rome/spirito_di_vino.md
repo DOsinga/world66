@@ -11,6 +11,7 @@ tags:
 title: Spirito di Vino
 type: poi
 url: www.spiritodivino.com
+score: 7.7
 ---
 
 A gem of a restaurant tucked away on a quiet Trastevere side street, run by a family who take serious pride in their work. The food is inventive and excellent, the wine list curated by their sommelier son. The building dates back to ancient Rome, with a cellar that was once a synagogue. Reservations essential -- the restaurant is small and popular with those who know about it.

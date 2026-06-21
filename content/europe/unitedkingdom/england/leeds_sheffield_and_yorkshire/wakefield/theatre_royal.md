@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.6
 ---
 
 The Theatre Royal Wakefield is a small, perfectly preserved late-Victorian theatre by Frank Matcham, the most celebrated theatre architect of the period (he also designed the Hackney Empire and the London Coliseum). Built in 1894 with just 510 seats, it is one of the most intimate Matcham auditoriums still in regular use anywhere in the country.

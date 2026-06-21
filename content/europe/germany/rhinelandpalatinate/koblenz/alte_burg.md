@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.3624
 longitude: 7.5940
+score: 7.1
 ---
 
 The thirteenth-century water castle of the archbishops of Trier, originally surrounded by the Moselle on three sides. The medieval core is still recognisable behind a Renaissance and Baroque facade; the building now houses the city archive.

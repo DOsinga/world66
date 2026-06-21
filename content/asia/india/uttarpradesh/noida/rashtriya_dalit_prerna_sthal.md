@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Supreme Court of India ordered that the elephant sculptures be covered with tarpaulins during the 2012 state elections, on the grounds that the elephant is the BSP party's symbol and might unduly influence voters. The 110 stone elephants that line the memorial were duly shrouded."
+score: 7.8
 ---
 
 The Rashtriya Dalit Prerna Sthal — National Dalit Inspiration Site — is an enormous red sandstone memorial complex built between 2007 and 2011 during the chief ministership of Mayawati. The 33-hectare park commemorates leaders of the Dalit movement, including B.R. Ambedkar and the political philosopher Kanshi Ram, and features colossal statues, a domed hall and an extraordinary procession of 110 carved stone elephants.

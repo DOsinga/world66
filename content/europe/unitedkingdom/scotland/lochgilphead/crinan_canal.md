@@ -14,6 +14,7 @@ story: >
   in 1847, drawing admiring crowds at every lock.
 sources:
   - https://en.wikipedia.org/wiki/Crinan_Canal
+score: 8.2
 ---
 
 The Crinan Canal runs 14 kilometres from Ardrishaig on Loch Fyne to Crinan on the Sound of Jura, threading through 15 locks across the Kintyre peninsula. Built to spare fishing vessels the long haul around the Mull of Kintyre, it remains a working waterway used by leisure craft and the occasional fishing boat, one of Scotland's most atmospheric places to spend a few hours.

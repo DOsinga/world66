@@ -16,6 +16,7 @@ tags:
 - church
 title: Stadtkirche
 type: poi
+score: 8.4
 ---
 
 The parish church was designed by Heinrich Schickhardt and built between 1601 and 1608 as part of the original town plan. What makes it remarkable is its form: two identical naves meeting at a right angle, a layout unique in Protestant church architecture. The church was gutted in the 1945 bombardment and rebuilt, and while the original stone sculptures were lost, the spatial logic of the building survived intact. It sits at the southwest corner of the Marktplatz and is easy to combine with a walk around the square.

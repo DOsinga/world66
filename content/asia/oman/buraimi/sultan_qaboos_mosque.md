@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 24.2614
 longitude: 55.7844
+score: 6.2
 ---
 
 The Sultan Qaboos Grand Mosque in Buraimi is one of the many large mosques across Oman built and named for the late Sultan Qaboos. The Buraimi version is a relatively modern construction in classic Omani style — a domed central prayer hall, two minarets, and a broad courtyard.

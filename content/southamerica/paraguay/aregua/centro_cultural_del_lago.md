@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -25.2962
 longitude: -57.4145
+score: 7.2
 ---
 
 A small private cultural centre in a restored 19th-century house on Calle Estigarribia. The Centro Cultural del Lago shows contemporary Paraguayan art, hosts occasional concerts of indigenous music and guarania, and has a small library focused on Paraguayan history and Guaraní culture.

@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Restaurant Le Jardin
 type: poi
+score: 5.5
 ---
 
 Attached to the hotel of the same name, Le Jardin is set in a lush garden compound — calm, shaded, and considerably more comfortable than the open-air spots along the main road. The food moves between French, African, and Asian dishes, and the kitchen is reliable enough that this is where most of the NGO workers and passing travellers end up eating.

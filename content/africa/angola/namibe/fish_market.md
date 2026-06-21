@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: -15.1950
 longitude: 12.1500
+score: 7.1
 ---
 
 The fish market at the harbour is one of the best places to understand Namibe's economic identity. The Benguela Current makes this one of the most productive fishing zones in the South Atlantic, and the variety of fish landed here — crayfish, grouper, sea bass, snoek, and large quantities of small pelagic fish — is impressive. Early morning is the best time to visit, when the night's catch is being sorted and auctioned.

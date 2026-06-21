@@ -6,6 +6,7 @@ tags:
 - sight
 title: Creek Dhow Cruise
 type: poi
+score: 6.9
 ---
 
 An evening dinner cruise on the Dubai Creek aboard a traditional wooden dhow is one of the city's most consistently enjoyable tourist experiences. The cruise takes about two hours, covering the Creek from the Bur Dubai waterfront to the mouth near Al Shindagha and back, with a buffet dinner served on board.

@@ -17,6 +17,7 @@ story: >
   Chester's architects enthusiastically rebuilt many of the medieval originals
   in a more picturesque style. The underlying structure, however, is genuinely
   medieval.
+score: 9.3
 ---
 
 The Rows are Chester's most distinctive feature and one of the most unusual pieces of urban architecture in Britain. Along the four main streets of the city centre — Eastgate, Bridge, Northgate, and Watergate Streets — a continuous covered walkway runs at first-floor level behind the shops, with open galleries facing the street and steps connecting to both the pavement below and the buildings above.

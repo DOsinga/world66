@@ -7,6 +7,7 @@ tags:
 latitude: 22.6228
 longitude: 120.2784
 snippet: Former Japanese-era freight terminus turned open-air railway museum
+score: 7.9
 ---
 
 The old Kaohsiung Harbour Railway Station, once the largest freight depot in Taiwan, has been preserved as an open-air museum. The original 1908 wooden station building still stands; in the yards behind, dozens of historic locomotives and freight cars are parked on the tracks, free to climb on and explore.

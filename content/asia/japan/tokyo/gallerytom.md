@@ -11,6 +11,7 @@ longitude: 139.6823
 tags:
 - shibuya
 - things_to_do
+score: 6.6
 ---
 
 A small private gallery in Shoto, west of the station, founded as one of the world's first museums designed for blind and visually impaired visitors. The focus is on tactile sculpture in bronze, stone, and wood, and visitors are encouraged to handle the exhibits. A quiet contrast to the crowds of central Shibuya.

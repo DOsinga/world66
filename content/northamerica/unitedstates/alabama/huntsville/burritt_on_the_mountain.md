@@ -8,6 +8,7 @@ story: >
   The Burritt Mansion was built in 1937 by Dr. William Henry Burritt, a local physician who made his fortune in land speculation and lived there alone until his death in 1955. His will left the entire property — house, land, and contents — to the city of Huntsville, with instructions that it become a museum. The X-shaped floor plan was Dr. Burritt's design, intended to give every room a view of the Tennessee Valley below.
 sources:
   - https://en.wikipedia.org/wiki/Burritt_on_the_Mountain
+score: 7.9
 ---
 
 Burritt on the Mountain sits on the edge of the Monte Sano plateau about 400 feet above the valley floor, and the views over Huntsville and the Tennessee Valley are among the best in north Alabama. The property combines two distinct attractions: the Burritt Mansion, an unusual X-shaped 1930s house turned museum of local history and decorative arts, and a Historic Park of reconstructed 19th-century farm buildings where costumed interpreters demonstrate early Alabama rural life.

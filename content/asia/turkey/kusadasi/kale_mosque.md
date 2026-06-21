@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The Kale Mosque — also called the Öküz Mehmet Pasha Mosque — sits at the centre of the old town and was built in the early seventeenth century by the same vizier who built the caravanserai opposite. It is a classic provincial Ottoman mosque: a single square prayer hall under a low dome, with a slim pencil minaret and a small courtyard.

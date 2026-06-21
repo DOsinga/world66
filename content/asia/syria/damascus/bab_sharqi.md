@@ -7,6 +7,7 @@ tags:
 latitude: 33.5104
 longitude: 36.3170
 snippet: The "East Gate", the only Roman city gate still in its original form
+score: 7.9
 ---
 
 The Eastern Gate of Damascus, the most intact of the seven ancient gates of the Old City. Bab Sharqi is the only one that still preserves its Roman tripartite form, with a large central arch flanked by two smaller pedestrian arches. The current stonework is from the Roman period, with a Mamluk minaret added on top in the 14th century.

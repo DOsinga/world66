@@ -8,6 +8,7 @@ latitude: 26.8655
 longitude: 104.2823
 story: >
   Weining's market calendar runs on a three-day cycle — market days fall on dates ending in 3, 6, or 9 — a system common across highland Guizhou that coordinates trade between communities spread over difficult terrain. The system predates the current county administration; the same market cycle has been running here for several centuries, adjusted only by the calendar reforms of the 20th century. On market days, the plateau roads fill with people from the surrounding villages — Yi, Miao, and Hui alongside Han — arriving on foot, by motorbike, and by tractor.
+score: 7.3
 ---
 
 Weining's market days bring together the mixed-ethnicity communities of the surrounding plateau: Miao, Yi, Hui Muslim, and Han traders and farmers converging on the county seat for a market that functions as genuine trade rather than tourist spectacle. The markets in the lanes around the main square are where cured ham, dried mushrooms, plateau vegetables, livestock, and hardware change hands, and where the social life of a dispersed rural population concentrates for a few hours.

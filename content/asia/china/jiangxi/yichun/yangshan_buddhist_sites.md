@@ -8,6 +8,7 @@ latitude: 27.5500
 longitude: 114.2200
 story: >
   Yangshan was a major transmission centre for the Caodong school of Chan Buddhism, one of the two main Chan lineages that eventually shaped Zen practice across Japan and Korea. The monks who trained here in the Tang and Song dynasties spread their practice to monasteries across East Asia — a fact that gives the worn stones of the remaining temple compounds an outsized historical significance.
+score: 8.0
 ---
 
 The Yangshan area on the slopes of Mingyue Mountain contains a cluster of Buddhist temples and monastic sites that trace their origins to the Tang dynasty. This is not primarily a tourist destination but an active religious landscape: monks live and practice in the temples, and the atmosphere reflects genuine religious purpose rather than theme park reconstruction.

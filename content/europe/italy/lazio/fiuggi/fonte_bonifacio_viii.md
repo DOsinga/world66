@@ -7,6 +7,7 @@ tags:
 latitude: 41.8015
 longitude: 13.2175
 story: "Pope Boniface VIII claimed this water cured his kidney stones in the 14th century; two centuries later Michelangelo wrote that only Fiuggi water could dissolve \"the only kind of stone I couldn't love.\""
+score: 7.6
 ---
 
 The Fonte Bonifacio VIII is the elder of Fiuggi's two main springs and the one that made the town famous. The source sits in an elegant early-20th-century park, where a colonnaded building shelters the taps where visitors line up with small cups to drink. The water is cold, lightly mineralized, and distinctly diuretic — plan your walks accordingly.

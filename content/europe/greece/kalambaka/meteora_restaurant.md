@@ -8,6 +8,7 @@ tags:
   - greek
 title: Meteora Restaurant
 type: poi
+score: 5.3
 ---
 
 One of the better-regarded traditional tavernas in Kalambaka, the Meteora Restaurant has been feeding visitors and locals for decades from its spot near the central square. The kitchen focuses on Thessaly staples: slow-cooked lamb with orzo, grilled trout from the Pineios river, and a version of the region's distinctive cheese pie made with local feta.

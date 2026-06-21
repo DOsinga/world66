@@ -9,6 +9,7 @@ url: "www.tucsonmineral.com"
 tags:
   - things_to_do
   - shopping
+score: 5.8
 ---
 
 A long-running rocks-and-fossils shop on the way out to the [Arizona-Sonora Desert Museum](/northamerica/unitedstates/arizona/tucson/arizonasonora_des), with a vast warehouse stuffed with thousands of mineral specimens, geodes, meteorites and trinkets. It is part shop, part natural-history curiosity — even if you have no interest in buying, the giant petrified-wood logs out front and the trilobite cabinets inside are worth a look.

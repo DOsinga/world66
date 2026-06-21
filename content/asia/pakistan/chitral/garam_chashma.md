@@ -8,6 +8,7 @@ tags:
   - hot_springs
 latitude: 35.9803
 longitude: 71.5239
+score: 7.4
 ---
 
 Garam Chashma — literally "hot spring" — is a small village 45 km north-west of Chitral in the Lutkho valley, close to the Dorah Pass into Afghanistan. The springs come out at around 55°C and have been used since long before there were roads up here. There are simple bath-houses and a couple of basic guesthouses.

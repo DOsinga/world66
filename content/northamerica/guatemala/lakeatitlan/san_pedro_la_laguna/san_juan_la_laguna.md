@@ -10,6 +10,7 @@ longitude: -91.28333
 snippet: Neighbouring village famous for women's weaving cooperatives and natural dyes
 story: >
   San Juan La Laguna's cooperatives use natural plant-based dyes — indigo, avocado bark, the chichicaste plant — in deliberate rejection of cheap synthetic dyes that flooded highland markets in the 1980s and undercut traditional craftswomen. The revival of natural dyeing here in the 1990s was a conscious economic and cultural decision.
+score: 8.4
 ---
 
 A short walk or tuk-tuk ride from San Pedro along the lakeside road, San Juan La Laguna is smaller, quieter, and oriented around its women's weaving cooperatives rather than the traveller scene. Several cooperatives are open to visitors and demonstrate the full process, from spinning thread to dyeing with natural plant extracts to weaving on backstrap looms. The textiles produced here are excellent and sold at fair prices directly by the weavers.

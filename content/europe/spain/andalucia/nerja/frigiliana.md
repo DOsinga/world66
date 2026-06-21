@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Frigiliana
 type: poi
+score: 8.1
 ---
 
 A small pueblo blanco in the hills above Nerja, repeatedly voted one of the prettiest villages in Spain — and busy enough in summer to know it. The old Moorish quarter (the Barribarto) is a maze of steep, whitewashed lanes hung with bougainvillea, terracotta tiles set into the cobbles depicting episodes from the 1569 Morisco rebellion that ended here at the Peñón.

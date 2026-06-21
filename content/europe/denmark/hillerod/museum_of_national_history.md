@@ -9,6 +9,7 @@ tags:
   - historic_sight
 snippet: Denmark's national portrait gallery, in the rooms of Frederiksborg Castle
 story: "Carlsberg founder J. C. Jacobsen rescued and rebuilt Frederiksborg after a catastrophic fire destroyed most of the interior in 1859. He paid out of his own pocket, on condition that the new museum collect portraits of every Dane worth remembering — and the trust he set up still buys new portraits today."
+score: 8.8
 ---
 
 The Museum of National History fills the royal apartments and ballrooms of [Frederiksborg Castle](/europe/denmark/hillerod/frederiksborg_castle) with five centuries of Danish portraits, royal regalia and elaborately decorated chambers. Founded in 1878 with money from the Carlsberg brewing fortune, it is essentially the Danish national portrait gallery — a slow walk-through tells you who mattered in this country from 1500 to last week, from absolute monarchs to scientists, politicians and footballers.

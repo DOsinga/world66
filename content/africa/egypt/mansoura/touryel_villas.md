@@ -5,6 +5,7 @@ latitude: 31.0450
 longitude: 31.3500
 snippet: "A neighbourhood of cotton-era mansions that tells the story of Delta prosperity in stone and plaster."
 tags: [things_to_do, sight]
+score: 7.8
 ---
 
 In the late nineteenth and early twentieth centuries, Mansoura sat at the centre of Egypt's cotton economy and the merchants who profited most built their ambitions in the Touryel district. The villas they left behind are an eclectic mix: Italianate facades with arabesque detailing, French mansard roofs above Egyptian courtyard layouts, colonnaded porticos next to moucharabieh screens. Nobody was following a plan. Each family built what wealth and fancy suggested.

@@ -9,6 +9,7 @@ latitude: 34.7372
 longitude: 10.76
 sources:
   - https://en.wikipedia.org/wiki/Souk_El_Haddadine_(Sfax)
+score: 8.0
 ---
 
 The Souk El Haddadine — the blacksmiths' and metalworkers' market — is one of the most atmospheric streets in the Sfax medina. The narrow lane is lined with small workshops where craftsmen hammer, cut, and weld metal into gates, locks, agricultural tools, decorative screens, and household items. The sound of hammering and the smell of hot metal permeate the air.

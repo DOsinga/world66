@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.0672
 longitude: -108.8728
+score: 8.3
 ---
 
 Zuni jewellery is one of the most distinctive Native American art forms, and the pueblo is the best place to buy it. The hallmark Zuni style is needlepoint and petit point — tiny stones cut to precise shapes and set in elaborate mosaic patterns — and the stone-inlay work (called channel inlay) using turquoise, jet, red coral, white shell, and other materials. The craftsmanship required is extraordinary; the best Zuni jewellers are internationally recognised artists.

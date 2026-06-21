@@ -7,6 +7,7 @@ tags:
 latitude: -2.7219
 longitude: 107.6072
 snippet: Museum dedicated to the beloved novel and film set on Belitung island
+score: 6.9
 ---
 
 *Laskar Pelangi* — *Rainbow Troops* in English — is one of the most popular Indonesian novels ever written, a semi-autobiographical story by Andrea Hirata about ten schoolchildren growing up poor in a tin-mining village on Belitung in the 1970s. The 2008 film adaptation became the highest-grossing Indonesian film of its time, and since then the island has been transformed into a literary pilgrimage destination.

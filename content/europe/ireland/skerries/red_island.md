@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.5824
 longitude: -6.1017
+score: 6.3
 ---
 
 Red Island is a small headland park connected to the mainland by a stone causeway — not a true island, but close enough. It is a quiet, open grassy space with good views across the Irish Sea and the ruins of an old windmill. At high tide the causeway is partly submerged and the peninsula takes on an appropriately insular character.

@@ -9,6 +9,7 @@ tags:
 title: Cathédrale Notre-Dame de l'Assomption
 type: poi
 snippet: Modernist 1939 cathedral, mother church of Acadian Catholicism
+score: 6.8
 ---
 
 The Cathédrale Notre-Dame de l'Assomption is the seat of the Archdiocese of Moncton and the spiritual centre of Acadian Catholicism. The current building dates from 1939 — a relatively spare modernist take on Gothic Revival with twin towers and a tall single nave. Inside, the stained glass and the painted interior repay a quiet visit.

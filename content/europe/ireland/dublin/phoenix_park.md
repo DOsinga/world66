@@ -15,6 +15,7 @@ story: >
   *fionn uisce* — "clear water" — after a spring that once rose on the site. The
   anglicised pronunciation became "Phoenix," and an 18th-century landscape architect
   cemented the error by adding the Phoenix Column with its bronze bird in 1747.
+score: 7.9
 ---
 
 Phoenix Park is one of the largest enclosed public parks in any European capital — 1,750 acres of meadows, woodland, and formal gardens, far bigger than Hyde Park or the Bois de Boulogne. It lies a short bus ride west of the city centre.

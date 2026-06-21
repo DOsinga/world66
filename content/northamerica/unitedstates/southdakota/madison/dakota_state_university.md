@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.0100
 longitude: -97.1129
+score: 6.4
 ---
 
 Dakota State University gives Madison a scale and liveliness that most South Dakota cities of 7,000 people would lack. The campus is compact and walkable, and the university has built a strong national reputation in cybersecurity — it was one of the first US universities to offer a degree in the field and now hosts federal cybersecurity research programs.

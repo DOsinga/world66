@@ -7,6 +7,7 @@ address: 89 Main Street, Montpelier, VT
 tags:
   - eating_out
   - restaurant
+score: 6.1
 ---
 
 The Montpelier outpost of Vermont's local-food crêperie chain — savoury buckwheat crêpes filled with everything from local cheddar to maple-pulled pork, and sweet crêpes for dessert. Sources are mostly within an hour's drive of the kitchen, which the menu is careful to point out.

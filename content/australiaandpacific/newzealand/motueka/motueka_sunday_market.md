@@ -7,6 +7,7 @@ tags:
   - eating_out
 latitude: -41.1125
 longitude: 173.0075
+score: 6.4
 ---
 
 A relaxed Sunday market on the main street of Motueka, running from about 8am to 1pm through the summer months (October to Easter). Local growers sell fruit and vegetables from the surrounding orchards and market gardens, alongside craft stalls, baked goods, and prepared food. The range is genuinely impressive for a small town — the region's agricultural richness shows up in the quality of the produce.

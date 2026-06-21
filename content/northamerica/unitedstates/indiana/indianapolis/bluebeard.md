@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 neighbourhood: Fletcher Place
+score: 6.9
 ---
 
 A modern American restaurant in a converted 1924 warehouse on Virginia Avenue in Fletcher Place, named after a Vonnegut novel. The kitchen does shareable wood-fired plates, fresh pastas, and a strong charcuterie program. The bread program from the attached Amelia's bakery is among the best in the state.

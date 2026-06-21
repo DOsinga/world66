@@ -8,6 +8,7 @@ latitude: 67.9266
 longitude: 13.0713
 sources:
   - https://en.wikipedia.org/wiki/Reine
+score: 9.6
 ---
 
 The classic viewpoint over Reine and the Reinefjord, Reinebringen rises to 448 metres directly above the village. The hike is steep — roughly 1.5 kilometres from trailhead to summit with around 450 metres of elevation gain — and takes one to two hours each way. A timber staircase was installed in 2019 to reduce erosion, making the ascent easier than the old scramble.

@@ -8,6 +8,7 @@ tags:
 latitude: -23.648
 longitude: -70.394
 story: "The Regional Museum occupies the former Customs House, a building constructed in 1866 when Antofagasta was still technically Bolivian — the city was captured by Chile in 1879 during the War of the Pacific and never returned. The museum's collections document this history directly, including the original letters and maps from the war and artefacts from the nitrate era when British, Chilean, and Bolivian interests all clashed over the world's richest nitrate deposits."
+score: 8.0
 ---
 
 The Regional Museum of Antofagasta is housed in the old Customs House (Aduana), one of the oldest buildings in the city, dating from 1866. The building itself is worth seeing — a solid colonial-era structure that predates Chile's possession of this territory and survived the War of the Pacific intact.

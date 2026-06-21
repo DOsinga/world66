@@ -7,6 +7,7 @@ snippet: The main downtown spine, lined with colonial-era buildings
 tags:
 - things_to_do
 - sight
+score: 6.9
 ---
 
 The Avenue Charles de Gaulle runs through the centre of the old colonial quarter, a wide tree-lined boulevard with a mix of period buildings — the cathedral, the post office, the old railway station — and modern construction. It is one of the more atmospheric streets to walk in the city, particularly in the late afternoon when the heat eases.

@@ -9,6 +9,7 @@ longitude: 10.0010
 story: "The Tierpark is best known in Germany as the home of Vicky, a polar bear who arrived as an orphaned cub in 2016 after her mother was shot in Svalbard. She became a celebrity, attracting visitors from across Schleswig-Holstein. Polar bear cubs born here have been sent to zoos across Europe."
 sources:
   - https://en.wikipedia.org/wiki/Neum%C3%BCnster
+score: 6.2
 ---
 
 The Tierpark Neumünster is a zoo spread across 24 hectares of wooded parkland south of the city centre, home to around 700 animals from about 100 species. It is one of the better small-to-medium zoos in northern Germany, with naturalistic enclosures and a particular emphasis on animals adapted to cold climates — the polar bear enclosure is the main draw.

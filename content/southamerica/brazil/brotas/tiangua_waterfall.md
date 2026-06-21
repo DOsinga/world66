@@ -7,6 +7,7 @@ tags:
 latitude: -22.32
 longitude: -48.07
 story: "At Tianguá, the river drops through a narrow canyon in a series of cascades, the largest falling around 15 metres into a deep natural pool. Canyoning here means rappelling down alongside the falls — guides lower you through the spray on a rope, with the water thundering past your shoulder."
+score: 8.3
 ---
 
 The Tianguá Waterfall is one of the most dramatic natural features around Brotas. The river drops through a basalt canyon in a sequence of falls, ending in a wide swimming hole at the base that is refreshingly cold even in summer. You can visit purely to swim, but most people come as part of a guided canyoning trip, which involves rappelling alongside the falls and scrambling through the canyon on foot.

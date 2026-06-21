@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.3
 ---
 
 The provincial government palace, on the north side of Plaza Independencia, is one of the finest examples of Belle Époque architecture in northwestern Argentina. Built between 1908 and 1912 in an eclectic French academic style, its grand mansard roof, ornate facade, and crowning sculpture of Liberty give the square its imposing northern wall.

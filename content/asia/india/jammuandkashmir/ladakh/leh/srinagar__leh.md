@@ -6,6 +6,7 @@ tags:
 - getting_there
 title: Srinagar - Leh
 type: poi
+score: 7.8
 ---
 
 National Highway 1 connects Leh with Srinagar over 434 km, passing through Kargil and crossing Zoji La (3,528 m). The journey takes one long day or, more comfortably, two days with an overnight in Kargil. The road is open roughly June to October.

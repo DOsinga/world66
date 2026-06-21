@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "The vast pre-Mongol city mound — Samarkand before Genghis Khan razed it"
+score: 7.8
 ---
 
 Afrasiyab is the eroded earthen mound where the original Samarkand stood, until Genghis Khan's army destroyed it in 1220. The city was one of the great trading hubs of the Silk Road, with walls, palaces, and reception halls covered in Sogdian wall paintings; after the Mongols, the survivors moved a few kilometres south and built the city you walk through today.

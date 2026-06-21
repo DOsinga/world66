@@ -10,6 +10,7 @@ tags:
 title: Songshan Cultural and Creative Park
 type: poi
 url: https://www.songshanculturalpark.org
+score: 7.4
 ---
 
 The 1937 Songshan Tobacco Factory was one of the largest industrial complexes in Japanese-era Taiwan, producing cigarettes for the colonial monopoly. The factory closed in 1998 and the buildings — broad single-storey ferro-concrete halls with double-pitched tiled roofs, set around a square of lawns and a long ornamental pond — have been adapted into a design and exhibition park.

@@ -13,6 +13,7 @@ story: >
   Ganesh, more than a thousand years old. The original was stolen from the
   temple in 2012 and was never recovered; what visitors see today is a
   replica, but the story is what put Diveagar on the map.
+score: 6.6
 ---
 
 The Suvarna Ganesh ("Golden Ganesh") temple is the small village shrine that pilgrims and weekenders both come to see. The complex is modest — a low temple building, a courtyard, a tank, and a tile-roofed gateway — but the queue on weekend mornings, and especially during Ganesh Chaturthi, can be long.

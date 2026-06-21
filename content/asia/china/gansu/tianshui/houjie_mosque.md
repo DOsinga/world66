@@ -14,6 +14,7 @@ story: >
   Muslims have been a significant minority for centuries — their presence here predates
   the Silk Road's formal history and reflects the overland trade connections that brought
   Central Asian merchants eastward long before the term "Silk Road" was coined.
+score: 6.7
 ---
 
 The Houjie Mosque, also known as the Black Street Mosque, is the principal mosque in Tianshui's old city and one of the more architecturally interesting in the Wei River valley. The building blends traditional Chinese mosque forms — timber-framed halls, a gatehouse in the style of a Chinese pavilion — with Arabic calligraphy and Islamic decorative motifs. The result is the typically northwestern Chinese synthesis that visitors who have been to Linxia or Xi'an will recognise, though in a more modest scale.

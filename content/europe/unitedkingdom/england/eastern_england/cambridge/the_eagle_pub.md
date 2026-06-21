@@ -10,6 +10,7 @@ latitude: 52.2048
 longitude: 0.1196
 story: >
   On 28 February 1953, Francis Crick walked into The Eagle at lunchtime and announced to the assembled drinkers that he and James Watson had discovered the secret of life. The double-helix structure of DNA had been worked out that morning in a laboratory a few hundred metres away. Watson later claimed Crick had been "a bit previous" — they had not yet confirmed all the details — but the announcement held. The Nobel Prize followed nine years later.
+score: 7.3
 ---
 
 The Eagle on Bene't Street is Cambridge's most historically significant pub. It was a regular haunt of Francis Crick and James Watson during the years they were working on the structure of DNA, and it is where Crick famously announced their discovery of the double helix in February 1953. A plaque in the pub marks the table where they usually sat.

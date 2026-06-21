@@ -13,6 +13,7 @@ story: >
   the sweltering coast; the hill is reliably ten degrees cooler than the city below. At the summit, a small
   community of bungalows, hotels, and government rest houses grew up — some still standing, giving the
   hilltop an oddly tranquil, Edwardian quality.
+score: 7.9
 ---
 
 Penang Hill (Bukit Bendera) rises 833 metres above sea level from the city's edge, accessible by the Penang Hill Railway — Asia's oldest funicular, opened in 1923 and recently upgraded with Swiss-built cars. The journey takes about 5 minutes and deposits you in a different world: significantly cooler air, forest sounds instead of traffic, and a panoramic view that takes in George Town, the Penang Bridge, and the Kedah mainland on clear days.

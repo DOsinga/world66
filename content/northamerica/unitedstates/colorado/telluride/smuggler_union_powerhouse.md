@@ -7,6 +7,7 @@ tags:
 - architecture
 latitude: 37.91917
 longitude: -107.76889
+score: 7.3
 ---
 
 The Smuggler-Union Hydroelectric Power Plant sits on a cliff ledge above Bridal Veil Falls, an improbable red-roofed building perched where no building has any right to be. Built in 1907 to power the mines on the plateau above town, it is the oldest operating alternating-current power plant in the US, and it still generates electricity for the local grid today.

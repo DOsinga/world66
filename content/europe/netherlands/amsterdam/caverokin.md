@@ -6,10 +6,10 @@ phone: 020 625 0628
 snippet: Cellar wine shop on the Rokin with tastings
 tags:
 - shopping
-- canal_ring
 title: Cave Rokin
 type: poi
 zipcode: 1012 KV
+score: 4.8
 ---
 
 Located on the Rokin, just off Dam Square, the Cave (located, as its name suggests, in a cellar) stocks a good range of European and New World wines at very reasonable prices. The staff are knowledgeable and very helpful, and wine tasting can be arranged for larger parties.

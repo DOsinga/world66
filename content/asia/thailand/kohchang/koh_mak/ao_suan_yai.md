@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.8267
 longitude: 102.4783
+score: 8.0
 ---
 
 On the north-west coast, Ao Suan Yai is a long crescent of pale sand with the best sunset view on the island and a direct outlook to [Koh Chang](/asia/thailand/kohchang) rising green across the channel. The beach is wider and the water deeper than at Ao Kao, so it is the more popular spot for an evening swim.

@@ -7,6 +7,7 @@ tags:
 snippet: Downtown bar and live-music room with eclectic bookings
 latitude: 30.2238
 longitude: -92.0186
+score: 6.4
 ---
 
 A downtown bar with a small stage that books anything other than mainstream Cajun — punk, jazz, hip-hop, brass bands, occasional zydeco. The art on the walls rotates monthly and is usually for sale.

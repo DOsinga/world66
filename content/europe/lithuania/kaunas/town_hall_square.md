@@ -9,6 +9,7 @@ latitude: 54.8972
 longitude: 23.8883
 story: >
   The Town Hall was nicknamed the White Swan both for its colour and for the graceful neck-like tower that rises from its centre. It was built in the 16th century as a combined town hall, market, and prison, with cells in the basement. Today it functions as a wedding registry — couples photograph each other on the steps while tourists wander the square around them.
+score: 8.5
 ---
 
 The Old Town Square is the historic heart of Kaunas, lined with 16th-century merchant houses that have been restored to something approaching their original condition. The centrepiece is the **Town Hall** — a Renaissance building with a distinctive white tower that earned it the nickname "White Swan." The square itself is large and atmospheric, particularly in the evening when it fills with people and the stone facades take on a warm light.

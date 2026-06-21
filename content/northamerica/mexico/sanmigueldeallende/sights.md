@@ -3,13 +3,14 @@ accessibility: Everyone
 title: Sights in San Miguel de Allende
 type: poi
 url: www.sanmigueldeallende.com
+score: 3.5
 ---
 
 Sights for San Miguel de Allende coming soon.
 
 [Airport Tranfers](/northamerica/mexico/sanmigueldeallende)
 
-### [Sanmiguelada](/northamerica/mexico/sanmigueldeallende/sights/sanmiguelada)
+### Sanmiguelada
 
 Local event that takes place the third weekend in
 September. Sanmiguelada is "the running of the bulls" similar to

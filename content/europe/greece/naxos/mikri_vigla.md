@@ -4,6 +4,7 @@ type: poi
 tags: [beaches, sight]
 latitude: 37.0306
 longitude: 25.3489
+score: 7.1
 ---
 
 Mikri Vigla is where the wind is a feature rather than a nuisance. The beach sits on a slightly exposed section of the western coast that catches the summer meltemi reliably from late morning, producing consistent conditions that attract windsurfers and kitesurfers from across Europe. Several surf schools and equipment rental operations are based here, and on a good August afternoon the bay is full of coloured sails and kites in a way that's impressive to watch even from a beach towel.

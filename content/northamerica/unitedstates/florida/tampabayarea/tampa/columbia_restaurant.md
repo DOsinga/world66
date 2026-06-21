@@ -11,6 +11,7 @@ neighbourhood: Ybor City
 snippet: Founded in 1905, the oldest Spanish restaurant in the United States — and still worth the visit
 story: >
   The Columbia Restaurant has been owned and operated by the same family — the Gonzmart family, descendants of the original founder Casimiro Hernandez Sr. — since it opened in 1905. During Prohibition the restaurant secretly served alcohol to its regulars, hidden in cigar boxes. The flamenco dancers who perform nightly in the main dining room have been a fixture since 1954.
+score: 7.0
 ---
 
 The Columbia Restaurant is one of the most famous restaurants in Florida and a genuine institution. Founded in 1905 by Casimiro Hernandez Sr. in the heart of Ybor City, it occupies an entire block on 7th Avenue, with fifteen dining rooms and space for over 1,700 guests. It is the oldest restaurant in Florida and the oldest Spanish restaurant in the United States — and it remains in business not on nostalgia alone but because the food is genuinely good.

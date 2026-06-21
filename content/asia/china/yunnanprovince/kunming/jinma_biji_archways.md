@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Once every sixty years, late in the lunar eighth month, the setting sun strikes one archway just as the rising full moon strikes the other, and their shadows meet in the middle of the road. The alignment was last observed on the night of 6 September 1981. The next will be in 2041."
+score: 6.2
 ---
 
 The Golden Horse and Jade Rooster archways — Jinma Pailou and Biji Pailou — face each other across the southern end of Jinbi Square, in the very centre of the old town. The pair were first built in the Ming dynasty as twin commemorative arches and have given the surrounding district its name (Jin-Bi) ever since. The current arches were rebuilt in 1999 after the originals were demolished in the 1960s, but they are well-made and stand on the original site.

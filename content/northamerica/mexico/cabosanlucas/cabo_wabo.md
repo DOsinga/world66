@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 22.8836
 longitude: -109.9133
+score: 4.7
 ---
 
 Cabo Wabo Cantina is the most famous bar in Cabo San Lucas, opened in 1990 by Sammy Hagar — lead singer of Van Halen at the time — and named after a Van Halen song about the unsteady walk of a Cabo beach-goer. The bar launched its own premium tequila label in the late 1990s, which Hagar sold to the Italian spirits company Gruppo Campari in 2007 for $80 million, making it one of the more successful celebrity alcohol ventures of its era.

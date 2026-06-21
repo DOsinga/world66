@@ -7,6 +7,7 @@ tags:
 - nature
 title: Úlfarsfell
 type: poi
+score: 6.5
 ---
 
 Úlfarsfell is the smaller, easier neighbour of Esja, rising 295 metres just southwest of Mosfellsbær. From the car park at the foot of the hill the marked path winds up through volcanic gravel and lichen to a flat summit cairn — an hour up, less down. Local families and runners use it as an evening workout, and on weekends you'll meet dog walkers, trail-runners and the occasional skier in winter.

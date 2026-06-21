@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: "25,000 minerals and gems inside the old colonial governor's palace"
+score: 7.8
 ---
 
 Housed in the former Palácio dos Governadores at the top of Praça Tiradentes — the building that defined the upper edge of the square in colonial times and now belongs to the Federal University. The science museum, run by the famous School of Mines, holds one of the largest mineralogy collections in Latin America: about 25,000 specimens, from tiny diamonds to room-sized geodes.

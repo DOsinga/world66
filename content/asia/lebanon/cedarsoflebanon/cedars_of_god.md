@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: UNESCO-listed grove of ancient Lebanon cedars on Mount Makmal.
 story: "The grove is mentioned in the Epic of Gilgamesh, where Gilgamesh and Enkidu travel to the cedar forest to fell its giant guardian Humbaba — making it one of the oldest specifically named places in world literature."
+score: 9.6
 ---
 
 The Forest of God is what's left after five thousand years of logging. Once the cedars covered most of the Lebanese mountains; the timber built Solomon's Temple, the Pharaoh's funeral boats, and the navies of Tyre and Sidon. Today the grove on Mount Makmal — about 1,900 metres up, in a high glacial cirque above Bcharre — holds roughly 375 trees, four of which are over a thousand years old and a handful of which may approach three millennia.

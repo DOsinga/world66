@@ -9,6 +9,7 @@ tags:
   - sight
 story: "The midnight sun is visible from the top of Dundret continuously from about 2 June to 12 July — over a month of unbroken daylight — and in midwinter the surrounding sky is one of the most reliable places in Europe to see the aurora borealis."
 snippet: "823m fell on the edge of Gällivare, the southernmost place in Sweden with a true midnight sun"
+score: 8.7
 ---
 
 Dundret is the obvious landmark of Gällivare — a flat-topped fell rising 823 metres above the surrounding forest, about 6 km south of the town. It is the southernmost spot in Sweden from which the midnight sun is visible at the summer solstice, and one of the most reliable places in Europe to see the aurora in winter.

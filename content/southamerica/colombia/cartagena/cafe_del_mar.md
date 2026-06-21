@@ -6,6 +6,7 @@ tags:
 - bars_and_cafes
 title: Café del Mar
 type: poi
+score: 6.7
 ---
 
 Café del Mar sits on the Baluarte de Santo Domingo section of Cartagena's colonial walls, looking out over the Caribbean. The position is spectacular — you're drinking cocktails on a 17th-century fortification while the sun sets over the water — and the place has traded on this for decades. It gets very busy, service is slow, and prices are high by Colombian standards, but no other bar in the city has quite this combination of location and atmosphere.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 43.7000
 longitude: 111.9800
+score: 6.8
 ---
 
 The grassland immediately around Erlian is drier and more open than the famous meadows further east near Hailar and Hulunbuir, but it has a starkness that its own appeal. This is the Mongolian steppe at its most uncompromising — short grass, enormous sky, and a horizon that extends without interruption to where China ends and Mongolia begins. The lack of tourism infrastructure compared to the Xilamuren grasslands near Hohhot means you are unlikely to encounter tour groups here.

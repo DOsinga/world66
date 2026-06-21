@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -1.2483
 longitude: -78.6235
+score: 5.4
 ---
 
 Parque Cevallos is Ambato's main civic park, a pleasant tree-shaded square a couple of blocks from the cathedral. It is the social heart of the city in the early evenings, when families walk, vendors sell roasted corn and cotton candy, and shoe shiners set up along the paths.

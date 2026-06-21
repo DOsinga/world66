@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 11.1772
 longitude: -4.2939
+score: 7.0
 ---
 
 The Marché Central is the city's main daily market, set in a substantial two-storey concrete building near the railway line. The ground floor handles fresh produce — mangoes, papaya, peppers, smoked fish, kola nuts — while the upper level is given over to textiles, calabashes, leather sandals, traditional medicine, and rough-hewn wooden masks.

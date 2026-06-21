@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - donji_grad
+score: 7.0
 ---
 
 The Mimara is the city's biggest art museum, with around 3,750 works donated to the people of Zagreb by Ante Topić Mimara, a charismatic and controversial 20th-century collector whose own life story (war hero, art restorer, accused art thief, mystery) is at least as interesting as the contents of his gift. The building, a former neo-Renaissance high school, suits the collection: galleries of European old masters, Persian carpets, Chinese porcelain, Roman glass, Egyptian antiquities, and 19th-century French painting.

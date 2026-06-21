@@ -7,6 +7,7 @@ tags:
 snippet: 1.6 km pedestrian boulevard, the social spine of modern Kaunas
 latitude: 54.8996
 longitude: 23.9160
+score: 8.7
 ---
 
 Laisves aleja — Freedom Avenue — is the central axis of Kaunas's New Town: a 1.6 km pedestrianised boulevard lined with trees, fountains, benches, and an almost continuous run of shops, cafes, and restaurants. It connects the Old Town at its western end to Independence Square at its eastern end, and at any time of day it is the most animated public space in the city.

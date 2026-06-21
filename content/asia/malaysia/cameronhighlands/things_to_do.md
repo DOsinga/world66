@@ -3,6 +3,7 @@ done:
   poi_cleanup: '2026-04-19'
 title: Things to do
 type: poi
+score: 3.8
 ---
 
 Cameron Highlands is one of those places that you either hate or love. It mainly depends on your expectations of the place.
@@ -31,7 +32,7 @@ And then you'll find yourself falling in love with the place, and not knowing ho
 **Contributors**
 April 02, 2006
 
-### [House hunting](/asia/malaysia/cameronhighlands/things_to_do/house_hunting)
+### House hunting
 
 Saw an intriguing road sign such as 'Moonlight Bungalow', when in a
 taxi or bus? Saw a myterious house at the other side of the hill from
@@ -43,7 +44,7 @@ that touches your heart.
 
 Many of the houses there are the holiday accomodations owned by wealthy
 Malaysians or Singaporeans who do not live in the area. Many of
-these houses are empty, which just adds to the [more..](/asia/malaysia/cameronhighlands/things_to_do/house_hunting)
+these houses are empty, which just adds to the slightly eerie, abandoned-hill-station atmosphere of the place.
 
 type: Other
 
@@ -51,7 +52,7 @@ type: Other
 
 [[rate it]](/asia/malaysia/cameronhighlands/things_to_do/house_hunting)
 
-### [Eat drink and be merry!](/asia/malaysia/cameronhighlands/things_to_do/eat_drink_and_be_m)
+### Eat drink and be merry!
 
 So many great places for snacks and tea.
 
@@ -85,7 +86,7 @@ type: Hiking
 
 address: Gunung Brinchang
 
-### [Gather local stories](/asia/malaysia/cameronhighlands/things_to_do/gather_local_stori)
+### Gather local stories
 
 Talk to the locals (particularly Taxi drivers) to find out about local stories and urban myths.
 

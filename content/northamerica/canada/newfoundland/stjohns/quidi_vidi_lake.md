@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 47.5761
 longitude: -52.6948
+score: 8.3
 ---
 
 Quidi Vidi (pronounced "kiddy viddy" by locals) is a small lake and ancient fishing village on the east side of St. John's, separated from the Atlantic by a narrow gut. The village — a dozen or so coloured houses around a tiny boat-filled cove — is one of the oldest European settlements in North America, with evidence of seasonal fishing use going back to the early 1500s. The contrast between the village's miniature scale and the large lake above it is striking.

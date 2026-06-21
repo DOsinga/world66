@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.1167
 longitude: 21.4167
+score: 6.8
 ---
 
 The meeting point of the Bodrog and Tisza rivers at the southern edge of Tokaj is worth a short walk from the town centre. The confluence creates a wide, slow-moving expanse of water backed by the steep volcanic hills of the wine region — a landscape that appears in countless Hungarian poems and paintings and is genuinely striking in person.

@@ -8,6 +8,7 @@ tags:
 - bar
 title: Froggy's Saloon
 type: poi
+score: 5.2
 ---
 
 Of the dozens of biker bars on Main Street, Froggy's is the most famous — an open-front, two-storey saloon that during Bike Week and Biketoberfest is the loudest place in Florida. The bar runs the length of the room, the walls are covered in motorcycle memorabilia, and on event weekends the crowd spills onto the sidewalk while the parade of customised Harleys rolls past at walking pace.

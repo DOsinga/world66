@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -23.3122
 longitude: -51.1597
+score: 6.6
 ---
 
 The Catedral Metropolitana do Sagrado Coração de Jesus is Londrina's most prominent landmark: a large modernist structure in the city centre with a distinctive tall bell tower visible from much of the downtown area. The current building was completed in 1972, replacing an earlier structure, and seats several thousand people.

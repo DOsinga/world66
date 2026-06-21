@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.2011
 longitude: 26.2719
+score: 7.9
 ---
 
 The main museum on the Gallipoli peninsula, rebuilt in 2012 on the site of the old Kabatepe Visitor Center, covers the 1915 campaign in depth. The collection includes weapons, uniforms, military equipment, and personal objects found on the battlefields — letters, photographs, identity discs, boots — alongside maps and explanatory panels that cover both the ANZAC and Ottoman perspectives. A scale model of the peninsula helps visitors orient themselves before setting out.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Between 1862 and 1969, every monarch from Queen Victoria to Elizabeth II passed through this little country halt on the way to Sandringham. The Tsar Nicholas II, the Kaiser, and most of the crowned heads of Europe disembarked here at one time or another. The platform once had a special waiting room with a fireplace, hung with portraits, for use by foreign royalty."
+score: 8.1
 ---
 
 Wolferton's old railway station is one of the prettiest small stations in England, a confection of mock-Tudor brick and timber built in 1862 and rebuilt to its present picturesque form in 1898. It was the station for Sandringham, and for more than a century it received royal trains. Closed in 1969 when British Rail axed the King's Lynn to Hunstanga line, it passed into private hands and was carefully preserved.

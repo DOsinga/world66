@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 39.2248
 longitude: -106.0010
+score: 6.6
 ---
 
 Fairplay's main street retains much of its 19th-century character. The Hand Hotel — reportedly haunted, and willing to make a feature of it — anchors the historic stretch, which includes several shops, a few restaurants, and the Colorado Mountain Hat Company, where custom cowboy hats are made using traditional measuring techniques dating back 150 years.

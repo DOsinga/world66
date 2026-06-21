@@ -11,6 +11,7 @@ tags:
 - beatles
 title: Strawberry Field
 type: poi
+score: 6.7
 ---
 
 A former Salvation Army children's home in Woolton, a few hundred metres from John Lennon's childhood home, made famous by the 1967 Beatles song "Strawberry Fields Forever." The Salvation Army opened a small visitor centre on the site in 2019, with a permanent exhibition on Lennon's connection to the place and a peaceful walled garden.

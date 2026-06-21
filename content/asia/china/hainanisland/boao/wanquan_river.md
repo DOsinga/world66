@@ -11,6 +11,7 @@ story: >
   Detachment of Women, where the People's Liberation Army makes camp on its banks.
   For a generation of Chinese who grew up watching this ballet during the Cultural
   Revolution, the name of the river carried a particular political weight.
+score: 6.9
 ---
 
 The Wanquan River is the third-longest river in Hainan, rising in the Wuzhi Mountains and flowing northeast for 162 kilometres before emptying into the South China Sea at Bo'ao. The final section of the river, as it broadens into the estuary and winds past coconut and banana plantations on its way to the sea, is the most scenic and the most accessible. Boat trips along the lower river pass mangroves, fishing boats, and the occasional egret working the shallows.

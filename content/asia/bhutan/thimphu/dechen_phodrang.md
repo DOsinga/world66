@@ -12,6 +12,7 @@ tags:
 - sight
 title: Dechen Phodrang Monastery
 type: poi
+score: 7.9
 ---
 
 A working monastery at the far northern end of the Thimphu valley, about 3 km north of the city centre. The central lhakhang contains some of the finest murals in the Thimphu area — 13th-century religious paintings covering the entire interior. Young monks can be seen studying and practising in the courtyards throughout the day. Visitors are welcome but should enter quietly and respectfully, particularly during prayer sessions. The monastery offers excellent views back down the valley toward the city.

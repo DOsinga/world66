@@ -12,6 +12,7 @@ story: >
   theory, completely convinced. The palm's shape — a nut that weighs 25kg and
   looks remarkably like a female pelvis — gave him some explaining to do,
   which he did with considerable enthusiasm.
+score: 9.6
 ---
 
 The Vallée de Mai is a primeval palm forest in the centre of Praslin, protected as a UNESCO World Heritage Site and home to the coco de mer — a palm that produces the largest seed of any plant on earth and grows nowhere in the wild except this valley and the neighbouring island of Curieuse. The nuts, shaped like a female lower body and weighing up to 25 kilograms, float on ocean currents for thousands of kilometres; before the 18th century, when the tree's actual source was unknown, the nuts washed up as far as the Maldives and philosophers earnestly debated whether the tree grew on the ocean floor.

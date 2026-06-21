@@ -15,6 +15,7 @@ story: >
   is that of a 19th-century president who was so hated that his political
   opponents drilled a hole in his mausoleum to ensure his soul could escape
   and not trouble the living.
+score: 8.3
 ---
 
 The Cementerio de San Diego, adjacent to the colonial church and convent of the same name at the southern edge of the Historic Centre, is one of Quito's most interesting and overlooked sites. Founded in 1872, the cemetery is an eclectic mix of architectural styles — neoclassical mausoleums, Gothic chapels, modest family plots, and an area of white-walled niches that stretches up the hillside — and a Who's Who of Ecuadorian history.

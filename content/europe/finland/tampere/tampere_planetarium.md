@@ -7,6 +7,7 @@ tags:
   - science
 latitude: 61.5113
 longitude: 23.7495
+score: 5.3
 ---
 
 The Särkänniemi Planetarium runs dome shows on astronomical themes, with programmes in Finnish. Show times vary by season — summer has more frequent programming aimed at families, while autumn and winter focus more on serious astronomy with longer shows.

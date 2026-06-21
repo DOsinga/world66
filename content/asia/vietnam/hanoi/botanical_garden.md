@@ -7,6 +7,7 @@ tags:
 latitude: 21.0401
 longitude: 105.8313
 snippet: "Colonial-era garden in Tay Ho, a shaded retreat from the city"
+score: 6.2
 ---
 
 The Hanoi Botanical Garden in the Tay Ho district is one of the older green spaces in the city, established during the French colonial period to cultivate tropical and subtropical plants brought from across Indochina and beyond. The garden occupies a large shaded plot between the Old Quarter and West Lake, with mature trees, a small lake, and plant collections that are more interesting for their age and the setting than for any horticultural ambition on the modern institution's part.

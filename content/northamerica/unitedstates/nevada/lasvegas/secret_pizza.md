@@ -9,6 +9,7 @@ tags:
 - eating_out
 - restaurant
 - center_strip
+score: 6.8
 ---
 
 Secret Pizza is exactly what it sounds like — a small pizza counter on the third floor of the Cosmopolitan, with no signage, no marquee, no listing on the directory. You find it by walking down an unmarked hallway lined with vintage album covers and following the smell of garlic. The pizza is real-deal New York: thin-crust, charred at the edge, large foldable slices, sold by the slice or whole pie until well after midnight.

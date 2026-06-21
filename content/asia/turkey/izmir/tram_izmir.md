@@ -7,6 +7,7 @@ tags:
   - konak
 latitude: 38.4190
 longitude: 27.1285
+score: 5.2
 ---
 
 The Konak Tram is a short heritage-style tram line running along the waterfront between the Konak pier and Alsancak, passing through the most scenic stretch of the Kordon promenade. The tram itself is a modern vehicle but runs a classic route that allows visitors to see the waterfront without walking the full length.

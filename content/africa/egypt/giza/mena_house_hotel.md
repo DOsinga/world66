@@ -17,6 +17,7 @@ story: >
   powerful, but rarely so literally.
 sources:
   - https://en.wikipedia.org/wiki/Mena_House_Hotel
+score: 7.4
 ---
 
 The Mena House stands at the entrance to the Giza Plateau, 800 metres from the Great Pyramid. Built in 1869 as a royal hunting lodge for Khedive Ismail, it became a hotel in 1886 and has hosted almost every famous name to visit Egypt since: Agatha Christie, Winston Churchill, Frank Sinatra, and Richard Nixon among them. The original lodge building is extravagantly decorated in Moorish-Egyptian style: carved cedarwood ceilings, coloured tilework, mashrabiya screens, and a garden of palms and bougainvillea.

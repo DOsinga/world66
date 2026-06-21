@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - wildlife
+score: 7.1
 ---
 
 Pathiramanal — "Midnight Sands" in Malayalam — is a small uninhabited island in Vembanad Lake, accessible only by boat from the Kumarakom shore, about 25 km west of Kottayam town. The island is a protected bird sanctuary and one of the best birdwatching spots in Kerala, hosting large populations of migratory waterbirds from November through February: open-billed storks, painted storks, herons, egrets, darters, and occasional rarer species make the island their temporary home.

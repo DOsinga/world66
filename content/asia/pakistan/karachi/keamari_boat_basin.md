@@ -6,6 +6,7 @@ tags:
 - sight
 title: Keamari Boat Basin
 type: poi
+score: 8.1
 ---
 Keamari is Karachi's working harbour, a gritty, salt-caked area west of the city centre where fishing boats crowd the jetties and the smell of diesel and marine life is inescapable. It lacks the polished edges of Port Grand but has considerably more genuine character: this is where the city's fishing industry actually operates, and the early morning activity — boats coming in, fish being sorted, ice being loaded — is worth seeing if you can manage the hour.
 

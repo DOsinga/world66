@@ -9,6 +9,7 @@ tags:
   - temple
   - wuchang
 neighbourhood: Wuchang
+score: 7.6
 ---
 
 Baotong Temple is the oldest Buddhist temple in Wuhan, founded in the Southern Song dynasty (12th century) on the southern slope of Hong Shan. The temple is laid out up the hillside on a series of terraces, climbing to a seven-storey pagoda at the top from which the view stretches across to the Yangtze.

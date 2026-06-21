@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.7644
 longitude: 8.2417
+score: 6.0
 ---
 
 The **New Castle** (Neues Schloss) stands on a wooded bluff above the old town, the former residence of the Margraves of Baden-Baden from the 15th century onwards. It is "new" only in relation to the older Hohenbaden castle higher up the hill. The current building is largely Renaissance with later neo-Gothic alterations.

@@ -7,6 +7,7 @@ tags:
 latitude: 33.5601
 longitude: 133.5302
 snippet: Long-established restaurant specialising in katsuo no tataki and Tosa cuisine
+score: 6.7
 ---
 
 Tsukasa is one of Kōchi's most respected restaurants for Tosa cuisine, an established place that attracts locals as well as visitors. The focus is on the classic dishes: *katsuo no tataki* (bonito seared over straw fire, served with ginger, garlic, and ponzu), river fish, *tosa jiro* chicken, and the local *sawachi* presentation style — a large lacquer platter shared between the table. The restaurant is in central Kōchi, close to the Obiyamachi arcade.

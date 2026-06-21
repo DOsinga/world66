@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Madura
 type: poi
+score: 4.6
 ---
 
 One of Cairo's few Indonesian restaurants, and a welcome change of pace if you have been eating Egyptian and Middle Eastern food for days. The menu covers the Indonesian essentials — nasi goreng, satay, gado-gado, and rendang — at reasonable prices. The downtown location near Galaa Square makes it easy to reach. Service is relaxed and the portions are generous.

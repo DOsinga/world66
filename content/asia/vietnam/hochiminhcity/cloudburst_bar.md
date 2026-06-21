@@ -4,10 +4,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 10.768044
 longitude: 106.693639
-snippet: Late-night backpacker bar with indie and rock music
+score: 5.9
+snippet: Late-night backpacker bar on Bui Vien playing indie and rock, open until
+  the last person leaves
 tags:
 - bars_and_cafes
 - bar
+- pham_ngu_lao
 title: Cloudburst Bar
 type: poi
 ---

@@ -10,6 +10,7 @@ longitude: -68.5000
 snippet: Argentina's southernmost national park — coastal forest, peat bogs, and the end of the Pan-American Highway
 story: >
   The sign at Lapataia Bay marks the end of National Route 3, which begins in Buenos Aires 3,063 kilometres to the north. It is the southernmost point of the Pan-American Highway system — stand here and you are closer to Antarctica than to the Argentine capital.
+score: 9.4
 ---
 
 Tierra del Fuego National Park protects nearly 69,000 hectares of subantarctic forest, glacial lakes, peat bogs, and Beagle Channel coastline at the foot of the Andes. It is the only Argentine national park that combines marine, forest, and mountain environments in one place. The park begins about 11 kilometres west of Ushuaia, and the entrance is a short drive down National Road 3.

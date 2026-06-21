@@ -14,6 +14,7 @@ story: >
   of the Cultural Revolution — when most such objects were destroyed — is attributed variously
   to the local reverence for the god it depicts, to its sheer physical weight, and to the
   practical problem of moving it without machinery.
+score: 9.1
 ---
 
 The Foshan Ancestral Temple, also known as Zumiao (Ancestral Temple), has been the ceremonial heart of the city since the Northern Song dynasty, though the current buildings date largely to the Ming and Qing periods. The complex is dedicated to Beidi, the Northern Emperor, a Taoist deity of water and the north — an unusual patron for a city in southern China, explained by the importance of water control in the Pearl River Delta. The main hall is dark and richly ornamented, its iron decorations and gilded carvings accumulating centuries of donation and restoration.

@@ -7,6 +7,7 @@ tags:
   - dal_lake_area
 latitude: 34.1283
 longitude: 74.8433
+score: 6.7
 ---
 
 Char Chinar — "four chinar trees" — is a tiny island near the centre of Dal Lake, named for the four enormous chinar trees that grow at its corners. The island has a small garden, a watchtower-like structure, and the trees themselves: ancient platanoids with spreading canopies that are vivid green in summer and turn intense orange-red in autumn. It is one of the most photographed sights in Kashmir and appears on countless tourism posters.

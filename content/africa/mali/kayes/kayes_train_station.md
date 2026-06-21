@@ -15,6 +15,7 @@ story: >
   was catastrophic. The Malian writer Ousmane Sembène depicted the railway's
   human cost in his novel God's Bits of Wood, set during the great rail strike
   of 1947.
+score: 6.9
 ---
 
 The Kayes train station is a colonial-era building from the late 19th century and one of the finest surviving examples of French West African railway architecture. The station was a vital node on the Dakar-Niger Railway, the colonial line that connected the Atlantic coast at Dakar to the Niger River — an enormous project that took forty years to complete and cost countless lives.

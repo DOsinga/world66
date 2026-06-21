@@ -7,6 +7,7 @@ tags:
 latitude: 52.1041
 longitude: 9.3598
 snippet: A museum dedicated to the many versions and interpretations of the Pied Piper legend
+score: 7.3
 ---
 
 The Pied Piper Museum, housed in the Leisthaus alongside the general Hameln museum, traces the history, interpretations, and cultural afterlife of the Pied Piper legend through art, literature, and popular culture. The legend has spawned an extraordinary number of retellings, from medieval chronicles to Goethe to Robert Browning to countless films and picture books, and the museum collects many of these.

@@ -9,6 +9,7 @@ longitude: 122.3660
 address: "Old Provincial Capitol, Martyrs St, Kalibo"
 admission: "₱30"
 opening_hours: "Tue–Sat 09:00–16:00"
+score: 7.2
 ---
 
 The small Aklan provincial museum occupies the old American-era capitol building on Martyrs Street, two blocks east of Pastrana Park. Three rooms cover prehistoric Ati culture (stone tools, pottery, beadwork), the Spanish colonial period (Catholic vestments, swords, religious carvings), and the Aklan revolution of 1897 with photographs of the nineteen martyrs commemorated at the Freedom Shrine.

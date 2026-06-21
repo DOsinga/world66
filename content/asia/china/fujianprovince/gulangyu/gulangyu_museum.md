@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 24.4475
 longitude: 118.0625
+score: 8.1
 ---
 
 The Gulangyu History Museum documents the island's transformation from a fishing settlement into an international concession and its subsequent history through the Republican period, the Japanese occupation, and the return to Chinese administration after 1945. The collection draws on photographs, maps, and objects from the concession era that give a visual record of what the island looked like when it was genuinely cosmopolitan rather than a tourist attraction.

@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Nils_Oscar_Brewery
+score: 6.7
 ---
 
 Nils Oscar is one of Sweden's better-known craft breweries, based in Nyköping and producing a range of ales and lagers that have won international recognition. The brewery operates a malthouse on site, which is unusual among Swedish craft producers — they grow their own barley on the family farm outside town and malt it themselves, giving their beers a distinct character.

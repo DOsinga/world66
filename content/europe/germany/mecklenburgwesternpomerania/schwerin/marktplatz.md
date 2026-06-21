@@ -7,6 +7,7 @@ tags:
   - sight
 title: Marktplatz
 type: poi
+score: 6.9
 ---
 
 Schwerin's Marktplatz is a manageable, human-scaled square surrounded by gabled merchant houses and overlooked by the neo-Gothic Rathaus — the town hall — with its distinctive red-and-white facade from the mid-nineteenth century. The cathedral spire is visible from the square, and the whole ensemble has the well-preserved, slightly sleepy character of a small German state capital that never had to rebuild after wartime bombing.

@@ -13,6 +13,7 @@ story: >
   toured the country for decades — appearing at the 1904 World's Fair in
   St. Louis and on the State Capitol grounds in Bismarck — before being
   reassembled here next to the park visitor centre in 1959.
+score: 7.4
 ---
 
 The Maltese Cross Cabin is the small log house Theodore Roosevelt lived in during his Badlands years in the 1880s. It now sits beside the South Unit Visitor Center in Medora, having been moved repeatedly before settling here. The interior preserves several of Roosevelt's original possessions, including his writing desk, travel trunk, and a hair-trimmed buffalo robe.

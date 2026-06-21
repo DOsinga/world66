@@ -5,6 +5,7 @@ snippet: 17th-century house where the young James Cook lodged as an apprentice, 
 tags: [things_to_do, museum, maritime]
 latitude: 54.4867
 longitude: -0.6118
+score: 7.8
 ---
 
 This narrow, redbrick house on Grape Lane was the home of Captain John Walker, a Quaker shipowner who took the teenage James Cook as an apprentice in 1746. Cook spent nine years sailing Walker's Whitby colliers up and down the North Sea, learning the navigation skills that would later carry him to Australia and Hawaii.

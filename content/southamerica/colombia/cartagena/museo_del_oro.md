@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museo del Oro Zenú
 type: poi
+score: 7.3
 ---
 
 The Gold Museum in Cartagena is a branch of the Bogotá Banco de la República collection, housing pre-Columbian gold artefacts from the Zenú people who inhabited the Caribbean coast and the Sinú river basin before Spanish conquest. The collection is small — perhaps 1,000 pieces — but includes fine filigree work, ceremonial objects, and jewellery that demonstrates the sophisticated metalworking culture that the Spanish encountered and largely destroyed.

@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 41.8061
 longitude: 13.7869
+score: 6.6
 ---
 
 The Giardino Botanico e Arboreto Appenninico is a botanical garden and arboretum maintained by the national park, located just outside the village centre. It is the most comprehensive collection of Apennine flora in the park, with species grouped by habitat — beech forest, montane meadow, rocky outcrops, riparian zones — that makes it useful as preparation before heading into the field. Labels are thorough and there is a particular focus on medicinal and traditionally used plants.

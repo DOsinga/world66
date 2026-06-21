@@ -12,6 +12,7 @@ story: >
   deliberately at the northern end of the sultan's sacred palace axis — the same cosmic line connecting Merapi
   to the palace to the southern sea — so that the colonizer's cannon could cover the Kraton gate. They also
   made the sultan pay for its construction. Javanese did not miss the symbolism.
+score: 7.6
 ---
 
 Fort Vredeburg was built by the Dutch East India Company in 1760, placed with deliberate calculation at the northern end of the Kraton's ceremonial axis, where any exit from the palace gate would be in direct view of Dutch artillery. Today the star-shaped fort has been converted into a history museum that traces the Indonesian independence struggle, with dioramas depicting key events from the revolution of 1945 to 1949.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.8010
 longitude: -72.2030
+score: 3.1
 ---
 
 Paramillo Airport (Santo Tomé de Guayana) sits on a plateau above the city, which gives it one of the more dramatic approaches of any airport in Venezuela — the Andes rise sharply behind the city, and the descent through the mountain passes can be spectacular in clear weather. The airport handles domestic flights connecting San Cristóbal to Caracas and other Venezuelan cities.

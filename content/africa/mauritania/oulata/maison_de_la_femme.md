@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 17.2960
 longitude: -7.0285
+score: 7.6
 ---
 
 The House of Women is a small community museum dedicated to the painted wall art tradition that defines Oualata. It has a collection of photographs, examples of the geometric motifs with explanations of their meanings, and sometimes demonstrations of the painting techniques by local women.

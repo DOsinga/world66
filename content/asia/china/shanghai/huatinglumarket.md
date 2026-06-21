@@ -11,6 +11,7 @@ tags:
 - french_concession
 title: Huating Lu Market
 type: poi
+score: 4.8
 ---
 
 A street of stalls running north from Huaihai Zhong Lu as far as Changle Lu, parallel to and east of Changshu Lu. Stalls sell cheap clothes and shoes, many of them fake-branded. Always busy — keep an eye on your valuables. Real Prada and Gucci stores are nearby on Huaihai Lu if you decide you want the genuine article instead.

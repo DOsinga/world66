@@ -8,6 +8,7 @@ latitude: 34.4303
 longitude: 75.7531
 sources:
   - https://en.wikipedia.org/wiki/Dras_River
+score: 6.9
 ---
 
 The Dras River runs through the heart of the valley, originating at the Machoi Glacier near Zoji La at 4,400 metres and flowing 86 kilometres northeast before joining the Suru River. In summer the river runs a pale glacial blue, fast and cold, cutting through a wide gravel-floored valley flanked by bare brown mountains. The valley floor sits at about 3,300 metres — high enough that every exertion feels slightly harder than it should.

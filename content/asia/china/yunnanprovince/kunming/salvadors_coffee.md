@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - cafe
   - wenlin
+score: 5.7
 ---
 
 Founded in 2005 by an American expat couple, Salvador's is the longest-running foreign-style café in Kunming and the de facto meeting point of the city's English-speaking community. The food is North American crossed with Mexican and Yunnanese — proper espresso, breakfast burritos, sandwiches, vegetarian options — and the coffee is roasted in-house from Yunnan beans.

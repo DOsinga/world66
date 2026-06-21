@@ -8,6 +8,7 @@ tags:
 - cafe
 title: Bruno's Cafe & Grill
 type: poi
+score: 5.9
 ---
 
 Named after local photographer and mountain guide Bruno Engler, this eclectic and fun bistro on Caribou Street is a cozy, casual spot popular with locals and visitors alike. Breakfast runs until 5 pm -- a blessing after a long morning on the slopes. The menu covers burgers, pizza, fresh-squeezed juices, vegetarian dishes, and locally brewed beer and roasted coffee. Prices are reasonable for Banff.

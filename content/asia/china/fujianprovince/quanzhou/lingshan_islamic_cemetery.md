@@ -15,6 +15,7 @@ story: >
   documented by Ibn Battuta when he passed through Quanzhou in the 14th century.
   They remain objects of veneration for Muslims from across southeast Asia and
   the Arab world.
+score: 8.4
 ---
 
 Lingshan Islamic Cemetery on the outskirts of Quanzhou is one of the oldest Muslim burial sites in China, containing the graves of Arab traders and missionaries who settled in the city during its centuries as a major international port. The oldest inscribed gravestones date to the Song dynasty and are carved in Arabic and Persian. The hill setting, surrounded by old trees, has a calm and genuine sacred atmosphere quite different from the more tourist-oriented heritage sites in the city centre.

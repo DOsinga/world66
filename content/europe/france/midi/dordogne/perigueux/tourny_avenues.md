@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 45.1867
 longitude: 0.7242
+score: 5.6
 ---
 
 The Cours Tourny and Cours Fénelon were the original 18th-century boulevards that ringed the old town when Périgueux was extended beyond its medieval walls. Today they are pleasant promenades lined with mature plane trees, cafés and the larger civic buildings, including the post office and the courthouse. Worth a stroll if you're walking between the cathedral and the railway station.

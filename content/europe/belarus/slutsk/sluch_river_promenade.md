@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 5.8
 ---
 
 The Sluch River bends through southern Slutsk and provides the town's most pleasant walking ground. A riverside promenade follows the bank through a park belt, past Soviet-era monuments, benches, and a landscape that opens up the view across the water — a relief from the enclosed apartment blocks of the main streets. The setting is typical of Belarusian provincial towns: calm, a little melancholy, and entirely unhurried.

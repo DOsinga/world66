@@ -6,6 +6,7 @@ longitude: 74.0166
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 Monkey Island — known locally as Canagaim Island — is the tied island at the north end of Palolem Beach. At low tide you can wade across in waist-deep water; at high tide it is a short swim or a quick paddle by kayak. A small troop of bonnet macaques lives on the rocks; do not bring food, since they have learned to grab from the hands of casual visitors.

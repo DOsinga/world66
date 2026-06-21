@@ -7,6 +7,7 @@ tags:
 latitude: 23.0270
 longitude: 72.5750
 snippet: "11 km of restored riverbank promenade through the city"
+score: 6.8
 ---
 
 The Sabarmati Riverfront, completed in stages between 2012 and 2024, transformed both banks of the city's river into a continuous park-and-promenade for 11 kilometres. Where there used to be slums, garbage, and a thin trickle of water, there are now wide brick walkways, boating jetties, public gardens, an open-air amphitheatre, and a permanent floating restaurant.

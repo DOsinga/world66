@@ -18,6 +18,7 @@ story: >
   he had dreamed of harnessing its power — and then he did.
 sources:
   - https://en.wikipedia.org/wiki/Nikola_Tesla_Monument_(Niagara_Falls,_Ontario)
+score: 5.9
 ---
 
 The Nikola Tesla Monument stands near Queen Victoria Park, looking out over the falls that the inventor helped harness for the world's first major hydroelectric power project. The statue — a copy of the famous Ivan Meštrović sculpture in Belgrade — shows Tesla seated, looking forward, with a coil of wire in his lap.

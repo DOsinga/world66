@@ -6,6 +6,7 @@ tags:
   - things_to_do
 latitude: 32.4830
 longitude: 35.3010
+score: 6.1
 ---
 
 Just north of Jenin, Canaan Fair Trade is the largest fair-trade olive oil producer in Palestine and the cooperative behind much of the Palestinian olive oil sold in Europe and North America. Tours of the press are possible by appointment, especially during the late-October to November harvest, when small farmers from the surrounding villages bring in their crop and the whole place smells of fresh pressing.

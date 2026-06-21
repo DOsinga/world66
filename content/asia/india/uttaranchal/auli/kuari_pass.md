@@ -9,6 +9,7 @@ longitude: 79.5400
 snippet: "Classic Himalayan trek from Auli to the 3,640m Kuari Pass, with 360-degree views of the high Garhwal peaks"
 story: >
   The Kuari Pass route was first mapped by Lord Curzon during his time as Viceroy of India, and for a period it was called the Curzon Trail. The name fell out of use after Independence, but the route remains essentially as he described it — a high traverse with continuous views of the great peaks. It was one of the routes that made Garhwal known to European mountaineers at the turn of the twentieth century.
+score: 8.8
 ---
 
 The Kuari Pass trek is one of the finest moderate Himalayan treks accessible from Auli, following a high ridge route at 3,640 metres with views of Kamet, Dunagiri, Nanda Devi, Trishul, and Nanda Ghunti spread across the northern skyline. The full circuit from Auli takes three to four days and is manageable for fit walkers with basic trekking experience.

@@ -13,6 +13,7 @@ story: >
   2007 as a modest 17 acres has grown into one of the largest botanical gardens in North
   America, attracting 200,000 visitors a year to a region where most attractions close by
   October. In summer the children's garden alone draws families from across New England.
+score: 8.8
 ---
 
 The Coastal Maine Botanical Gardens in nearby Boothbay occupy 300 acres of mixed woodland, meadow, and formal garden rooms along a tidal inlet of the Sheepscot River. The gardens are divided into distinct areas: the Kitchen Garden, the Rose Garden, the Zen Garden, and the Bibby and Harold Alfond Children's Garden, which regularly wins design awards. The overall effect mixes formal horticulture with native Maine landscapes — paths lead from pruned borders into moss-carpeted spruce forest.

@@ -8,6 +8,7 @@ tags:
   - beach
 latitude: -28.6370
 longitude: 153.6155
+score: 7.1
 ---
 
 Main Beach is Byron Bay's social hub — the wide, patrolled stretch of sand running north from the town centre to the base of the Cape Byron headland. It is busy in summer and at Easter but rarely feels unpleasant; the beach is long enough to spread out, and the water is reliably warm from November through April. Lifesavers patrol the flagged section between the flags; swim between them.

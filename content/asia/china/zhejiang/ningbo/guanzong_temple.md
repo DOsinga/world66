@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.8673
 longitude: 121.5574
+score: 7.8
 ---
 
 Guanzong Temple is one of the oldest Buddhist sites in the Ningbo area, its origins traced to the Eastern Jin dynasty in the fourth century CE. The temple belongs to the Tiantai school of Buddhism, which found Ningbo an important centre of transmission to Japan — several Japanese monks studied here in the Tang and Song dynasties and carried Tiantai teachings back to form the basis of Japanese Tendai Buddhism.

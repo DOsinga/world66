@@ -7,6 +7,7 @@ snippet: Mixed woodland with rare white fallow deer, six kilometres west of town
 tags:
 - things_to_do
 - park
+score: 7.3
 ---
 
 Parkanaur Forest Park covers about 60 hectares of mixed mature woodland around the country estate of Burges Manor, six kilometres west of Dungannon along the A4. A network of waymarked footpaths loops through beech, oak, and Sitka spruce; the longest takes about two hours.

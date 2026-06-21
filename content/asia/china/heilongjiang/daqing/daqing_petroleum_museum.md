@@ -13,6 +13,7 @@ story: >
   this period without flinching: the deprivation of the early years, the
   political theatre, and the genuine engineering achievement are all laid out
   in a way that state-run industrial museums rarely manage.
+score: 8.0
 ---
 
 The Daqing Petroleum Science and Technology Museum is the most substantive attraction in the city and a genuinely good industrial history museum by any standard. Opened in 2009, it covers the discovery of the Daqing oil reserves in 1959, the political context of the Maoist "learn from Daqing" campaign, the engineering challenges of extracting oil from the permafrost-adjacent plains, and the development of China's petroleum industry from those origins to the present.

@@ -10,6 +10,7 @@ tags:
   - theatre
 story: >
   The theatre is named for Abai Qunanbaiuly — usually just Abai — the 19th-century Kazakh poet, composer, and philosopher whose work is the foundation of modern Kazakh literature. Abai translated Pushkin and Lermontov into Kazakh while also writing his own verse meditations on the steppe, Islam, and modernity. He is so deeply embedded in Kazakh identity that his portrait appears on the 5,000 tenge note, and the country's largest square is named for him. The theatre that bears his name premiered the first Kazakh opera in 1934.
+score: 7.5
 ---
 
 The Abay Opera and Ballet Theatre is one of Central Asia's finest performing arts venues, housed in a Soviet-era building on a major boulevard in central Almaty. The repertoire is broad: Russian and European classics (Swan Lake, Carmen, La Bohème) share the programme with Kazakh operas and ballets that tell stories from the national epics. The orchestra and company are of a high standard.

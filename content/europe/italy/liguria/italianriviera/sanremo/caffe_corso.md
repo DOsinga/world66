@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 43.8175
 longitude: 7.7760
+score: 6.3
 ---
 
 Corso Matteotti is Sanremo's pedestrian high street, and it is lined with cafes that open early and stay open late. The Italian ritual of the morning espresso is observed seriously here: standing at the bar, coffee gone in two sips, then out. The caffè corretto (espresso with a measure of grappa or sambuca) is more common than in Rome or Milan — a northern Ligurian habit.

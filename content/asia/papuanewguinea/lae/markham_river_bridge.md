@@ -6,6 +6,7 @@ longitude: 146.9681
 tags:
   - things_to_do
   - sight
+score: 5.5
 ---
 
 The bridge over the Markham River at the western edge of Lae is the start of the Highlands Highway, Papua New Guinea's most important road. It spans a broad, braided river delta where the Markham — one of the country's major rivers — empties into the Huon Gulf. The river carries enormous volumes of sediment from the highlands, and the delta landscape shifts constantly.

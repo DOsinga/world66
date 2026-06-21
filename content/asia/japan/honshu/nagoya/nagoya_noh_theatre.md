@@ -8,6 +8,7 @@ tags:
 latitude: 35.1905
 longitude: 136.9037
 neighbourhood: Meijo
+score: 7.2
 ---
 
 Built in 1997 in the southern part of Meijo Park, the Nagoya Noh Theatre is the largest dedicated Noh venue in Japan with 630 seats — about double the size of a typical traditional Noh stage. The main hall keeps the classical staging conventions intact: a polished cypress floor, four-pillared roof above the stage, painted pine on the back wall, and the long hashigakari bridge running stage-left from the dressing rooms.

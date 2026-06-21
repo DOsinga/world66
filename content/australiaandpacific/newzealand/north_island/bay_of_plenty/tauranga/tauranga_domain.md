@@ -8,6 +8,7 @@ latitude: -37.6794
 longitude: 176.1653
 sources:
   - https://en.wikipedia.org/wiki/Tauranga_Domain
+score: 5.7
 ---
 
 Tauranga Domain is the city's main civic park, with mature trees, sports fields, and the historic McLaren Falls nearby. The Domain includes the site of a colonial-era redoubt — earthwork fortifications from the 1860s New Zealand Wars, which saw significant fighting in the Bay of Plenty region. Some earthwork features remain visible.

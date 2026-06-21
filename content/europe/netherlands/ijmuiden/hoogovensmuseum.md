@@ -10,6 +10,7 @@ tags:
 snippet: Steel industry heritage museum in a converted pipe factory, Tuesdays and Thursdays
 sources:
   - https://en.wikipedia.org/wiki/Hoogovensmuseum
+score: 7.4
 ---
 
 The Hoogovensmuseum preserves the industrial heritage of IJmuiden's steelworks — the massive Koninklijke Hoogovens plant, now operated by Tata Steel, that has defined the northern part of the town since the 1920s. The museum occupies a former pipe-making factory (buizengieterij) within the old works complex, with exhibits covering the history of steel production in IJmuiden, the technology used, and the lives of the workers who kept the furnaces running.

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-02'
 image: lepuyenvelay.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Le_Puy-en-Velay.JPEG

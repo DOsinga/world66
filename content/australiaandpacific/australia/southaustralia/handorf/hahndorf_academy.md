@@ -7,6 +7,7 @@ tags:
 - museum
 title: Hahndorf Academy
 type: poi
+score: 7.4
 ---
 
 The Hahndorf Academy occupies one of the original buildings from the 1857 German school, a handsome stone structure on the main street that now serves as the town's arts and heritage hub. It houses four exhibition galleries, a migration museum that tells the story of the original Lutheran settlers and the difficult years of the two World Wars, when German-speaking Australians faced internment and discrimination, and a working artist studio space.

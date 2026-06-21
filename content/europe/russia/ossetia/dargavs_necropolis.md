@@ -10,6 +10,7 @@ story: >
   The Dargavs crypts were built between the 14th and 18th centuries by the local Ossetian community as family burial houses. Each structure was owned by a clan; the dead were placed inside with their possessions. Some crypts contain the remains of dozens of generations of a single family. Local legend holds that anyone who looks inside one of the crypts will die soon after — a superstition that has helped preserve the site remarkably well.
 sources:
   - https://en.wikipedia.org/wiki/Dargavs
+score: 9.2
 ---
 
 The City of the Dead at Dargavs, in the Gizeldon Valley about 35 kilometres south of Vladikavkaz, is one of the most haunting sites in Russia. On a sun-exposed hillside above a medieval village, around 100 stone crypts of varying sizes stand in tight clusters — some conical-roofed, some flat-topped, all constructed from the same grey local stone that makes them appear to grow from the hillside itself.

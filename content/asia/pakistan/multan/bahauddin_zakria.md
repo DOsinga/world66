@@ -8,6 +8,7 @@ tags:
 title: Shrine of Bahauddin Zakariya
 type: poi
 story: "Boatmen on the Chenab and Indus traditionally call out *\"Dam Bahawal Haq, Dam Bahawal Haq Dam\"* as they pole their boats through rough water — invoking the saint as protection against drowning."
+score: 8.8
 ---
 
 A few hundred metres east of the Shah Rukn-e-Alam mausoleum stands the older and slightly less spectacular **Shrine of Bahauddin Zakariya** — the saint who founded the Suhrawardiyya order in Multan in the 1220s and gave the city its character as a centre of Sufism. He is known throughout southern Punjab and Sindh as **Bahawal Haq** ("the ornament of the Faith"), and his name is invoked for safety by farmers, boatmen and shepherds across the region.

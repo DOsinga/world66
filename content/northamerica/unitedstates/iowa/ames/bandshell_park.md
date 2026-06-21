@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: A small downtown park with a 1935 limestone bandshell that still hosts summer concerts.
+score: 6.1
 ---
 
 Bandshell Park is a small square in downtown Ames, on the east side of the historic district. Its centrepiece is a limestone-and-brick bandshell built in 1935 as a Works Progress Administration project — one of the few surviving Depression-era bandshells in Iowa, listed on the National Register of Historic Places.

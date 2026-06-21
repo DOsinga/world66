@@ -13,6 +13,7 @@ story: >
   through the park, was artificially stabilised in the 1930s after storms had
   repeatedly opened and closed it; the resulting permanent inlet created the
   excellent surf fishing conditions the park is known for.
+score: 8.5
 ---
 
 Delaware Seashore State Park stretches along the coast just north of Bethany Beach, preserving six miles of ocean and bay shoreline between the built-up resort towns. It's the best place in the Bethany area for uncrowded beach access, surf fishing, and quiet walks along the dunes.

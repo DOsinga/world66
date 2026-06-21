@@ -7,6 +7,7 @@ tags:
 - museum
 title: Motag Living Museum
 type: poi
+score: 7.8
 ---
 
 A short tricycle ride from Caticlan, the Motag Living Museum is a community-run effort in barangay Motag to preserve and demonstrate the rural skills of mainland Aklan. Visitors are taken through a working village setting where local farmers and weavers show traditional rice planting and harvesting, coconut processing, mat-making from buri palm, and the cooking of native dishes.

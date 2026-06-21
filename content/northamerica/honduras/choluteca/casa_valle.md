@@ -9,6 +9,7 @@ latitude: 13.2985
 longitude: -87.1922
 story: >
   José Cecilio del Valle was born in Choluteca in 1777 and became one of the principal authors of the Central American Declaration of Independence in 1821. He was twice elected president of the new federation but died before taking office either time — a figure of considerable intellectual accomplishment whose political ambitions were consistently frustrated by circumstance.
+score: 6.8
 ---
 
 Casa Valle is the colonial-era home of José Cecilio del Valle, one of the founding fathers of Central American independence and Choluteca's most famous historical son. The house has been preserved as a museum and cultural centre, giving a sense of colonial domestic life in southern Honduras during the late 18th century.

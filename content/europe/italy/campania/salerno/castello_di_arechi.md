@@ -14,6 +14,7 @@ story: >
   one of the most sophisticated cities in Europe, building palaces, churches,
   and fortifications that no longer exist — only this hilltop stronghold survives
   to tell that story.
+score: 8.0
 ---
 
 The Castello di Arechi sits on a steep rocky spur four hundred metres above the city, commanding views over the entire Gulf of Salerno and the mountains behind. Originally a Byzantine fortification, it was expanded and strengthened by the Lombard Prince Arechis II in the eighth century and later modified by the Normans, giving the structure its current layered character. The walls, towers, and cisterns that remain are some of the best-preserved early medieval military architecture in Campania.

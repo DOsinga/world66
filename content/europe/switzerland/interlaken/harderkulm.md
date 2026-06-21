@@ -15,6 +15,7 @@ tags:
 - sight
 title: Harderkulm
 type: poi
+score: 8.4
 ---
 
 The Harderkulm is the finest viewpoint in the Interlaken area, reached by the Harderbahn funicular from a station five minutes' walk east of Interlaken Ost. The journey takes twelve minutes and gains nearly 700 metres of altitude — at the top, a cantilevered viewing platform juts out over the valley. The panorama takes in Interlaken directly below, both lakes, and the full Eiger-Mönch-Jungfrau massif in a single sweep. On clear days the view extends across half the Bernese Alps.

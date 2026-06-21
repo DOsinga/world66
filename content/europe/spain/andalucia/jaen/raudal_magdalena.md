@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Underground spring that supplied the Moorish city."
+score: 7.0
 ---
 
 The Raudal de la Magdalena is the underground spring that has supplied Jaén with water since at least Roman times. The Moorish city was built around it; the great central mosque (now the Iglesia de la Magdalena) sat right next to it. A vaulted cistern carries the water through stone channels into the church's cloister, where you can still see the pool the spring once filled.

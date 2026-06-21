@@ -14,6 +14,7 @@ tags:
 title: La Brea Tar Pits
 type: poi
 url: www.tarpits.org
+score: 8.6
 ---
 
 Bubbling asphalt pools in the middle of Miracle Mile — the La Brea Tar Pits are one of the world's great fossil sites, with Ice Age mammoths and saber-toothed cats still being excavated from the ground today. The adjacent Page Museum lets you watch paleontologists at work through a glass wall. Weird, absorbing, and genuinely free to walk around the park.

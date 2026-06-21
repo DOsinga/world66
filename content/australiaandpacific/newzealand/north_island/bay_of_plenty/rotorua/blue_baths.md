@@ -13,6 +13,7 @@ story: >
   The pool was built with geothermally heated water and rapidly became the most visited tourist
   attraction in the country. It closed in 1966 after structural problems were found, and sat derelict
   for thirty years before being restored and reopened in 1999.
+score: 5.8
 ---
 
 In the Government Gardens, the Spanish Mission-style Blue Baths building dates from 1933 and was one of the most celebrated public bathing complexes of its era. The distinctive cream and blue facade — tiled pools, arched colonnades, and the characteristic Spanish Colonial roofline — make it one of Rotorua's most photographed buildings.

@@ -8,6 +8,7 @@ latitude: 50.8196
 longitude: -0.1512
 story: >
   The West Pier closed in 1975 after storm damage. A series of restoration efforts collapsed when arsonists set the derelict structure alight twice in 2003. The second fire, in March, destroyed the central pavilion that had survived everything else. Investigation concluded both fires were almost certainly deliberate — an act of sabotage against the restoration project. No one was ever charged.
+score: 7.9
 ---
 
 What remains of the West Pier is one of Brighton's most recognisable images: the skeletal ironwork of a Victorian pleasure pier standing in the sea, slowly dissolving. It opened in 1866 and was once the more fashionable of Brighton's two piers, with a concert hall and theatre at its far end. Now only the iron frame remains, rusting in the Channel tides.

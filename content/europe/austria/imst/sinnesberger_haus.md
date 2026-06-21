@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.3
 ---
 
 Imst's old centre is small but well-preserved — a sloping main square (the **Stadtplatz**) lined with painted Tyrolean townhouses, with the **Sinnesberger Haus** at its head, a 16th-century merchant's house whose frescoed facade and oriel window are the most photographed in town.

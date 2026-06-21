@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Uninhabited picnic island in the Rasdhoo atoll, 15 minutes by boat"
+score: 7.7
 ---
 
 Madivaru is a tiny uninhabited island in the south-western corner of Rasdhoo atoll, a 15-minute panga ride from Rasdhoo village. It is the classic Maldives picnic-island stop — a few palm trees on a sandbar, the lagoon shallow and calm on one side, the reef on the other. Most Rasdhoo guesthouses run a half-day excursion that includes the panga, a guide, snorkelling gear, and lunch on the beach.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 37.0655
 longitude: 25.4211
+score: 7.4
 ---
 
 Bazeos Tower is a 17th-century fortified manor house standing alone on a plain in the centre of Naxos, about 15 kilometres from Hora on the road to Filoti. It is one of the best-preserved Venetian-era pyrgoi on the island and one of the most unusual: where most tower houses are embedded in villages, Bazeos sits in open agricultural land, a compact defensive complex of house, tower, chapel, and outbuildings that once served as a monastery and later passed to the Bazeos family, who still own it.

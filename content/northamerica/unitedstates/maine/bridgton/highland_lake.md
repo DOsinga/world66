@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 44.0480
 longitude: -70.7378
+score: 6.8
 ---
 
 Highland Lake lies just west of downtown Bridgton and is the more intimate of the two main lakes. At 1,334 acres it is considerably smaller than Long Lake, and the public town beach here is the most convenient swimming spot in town — close to Main Street and with easy parking. The lake feeds Stevens Brook, which historically powered the dozen or so mills that made Bridgton a small industrial center in the nineteenth century.

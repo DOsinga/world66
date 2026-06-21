@@ -8,6 +8,7 @@ latitude: 38.2522
 longitude: 20.6264
 story: >
   The cave's roof collapsed thousands of years ago, creating a dramatic open shaft above a subterranean lake. In ancient times the cave was associated with the god Pan, and offerings were found here by archaeologists who discovered it in 1951. For two hours around midday in summer, the sunlight falls directly through the opening and turns the water a luminous turquoise that people consistently describe as the most beautiful blue they've ever seen.
+score: 8.7
 ---
 
 The Melissani Cave, near the town of Sami on Kefalonia's east coast, is a partly submerged lake inside a collapsed cave chamber. The visit takes place in a rowing boat, with a guide who steers you through the illuminated sections of the cave and under the open sky where the roof has fallen in.

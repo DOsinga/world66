@@ -9,6 +9,7 @@ tags:
   - park
   - wuchang
 neighbourhood: Wuchang
+score: 7.8
 ---
 
 Moshan is a wooded hill jutting into East Lake on its southern shore — the most picturesque corner of the lake and the centre of its park system. The slopes hold the Wuhan Botanical Garden, a Chu-dynasty heritage village, a cherry blossom garden, and the Mochou Pavilion. Walking trails climb to viewpoints over the lake.

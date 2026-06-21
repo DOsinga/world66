@@ -7,6 +7,7 @@ snippet: Dresden's largest church, home to one of the world's oldest boys' choir
 tags:
 - things_to_do
 - sight
+score: 7.0
 ---
 
 The Kreuzkirche — Church of the Holy Cross — is Dresden's largest church and one of the oldest on the Altmarkt, the original market square. The current building dates mostly from the late 18th century, rebuilt after a succession of fires and wartime destruction; the tower is a distinctive mix of Baroque and Neoclassical styles that gives it a slightly unfinished look. Inside, the post-1945 rebuilding kept the walls deliberately bare, a stark Protestant simplicity that suits the scale of the nave.

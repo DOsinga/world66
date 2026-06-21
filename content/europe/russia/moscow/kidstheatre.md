@@ -2,9 +2,14 @@
 address: Prospekt Vernadskogo, 5
 latitude: 55.6873
 longitude: 37.5272
-snippet: Moscow's storied children's opera and ballet theatre founded by Nataliya Sats
+snippet: Moscow's storied children's opera and ballet theatre founded by Nataliya
+  Sats
+tags:
+- things_to_do
+- sight
 title: Nataliya Sats Children's Musical Theatre
 type: poi
+score: 7.2
 ---
 
 The Nataliya Sats Children's Musical Theatre on Prospekt Vernadskogo is one of the world's oldest and most respected theatres dedicated to young audiences. Nataliya Sats founded it in 1965 after decades of work staging productions specifically for children — she was a pioneer of the form, and the theatre still carries her name and mission.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.8697
 longitude: -90.1536
+score: 8.4
 ---
 
 The Great River Road runs along the Mississippi bluffs from Alton south toward where the Missouri and Illinois rivers converge with the Mississippi in a stretch called the Meeting of the Great Rivers. The views from the bluff-top road are among the finest on the upper Mississippi — the river is wide here, braided with islands and sandbars, and in autumn the tree cover on the Missouri side turns gold and red.

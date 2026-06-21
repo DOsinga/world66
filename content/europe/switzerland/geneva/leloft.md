@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 - bar
 - nightlife
+score: 5.7
 ---
 
 Le Loft is one of Geneva's best-known LGBTQ-friendly bars, set along the Quai du Seujet near the Rhone. The atmosphere is relaxed and sociable — a good place to meet people, have a drink, and chat without pretension. On weekends the bar hosts drag cabaret shows that draw a lively mixed crowd. It is a welcoming spot whether you are a local or just passing through.

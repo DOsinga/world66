@@ -15,6 +15,7 @@ story: >
   18th-century Britain. Among its members were James Watt, Erasmus Darwin, Josiah Wedgwood,
   Joseph Priestley (who discovered oxygen), and James Keir. They were industrialists and
   scientists who shaped the Industrial Revolution from this house in Handsworth.
+score: 8.2
 ---
 
 The former home of Matthew Boulton, the Birmingham industrialist and business partner of James Watt, who built Soho House in 1766 and used it as the meeting place of the Lunar Society — one of the most remarkable intellectual gatherings of the 18th century. The house is now a museum managed by Birmingham Museums, restored to its Boulton-era appearance.

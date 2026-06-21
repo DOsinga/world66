@@ -8,6 +8,7 @@ latitude: 44.5450
 longitude: -1.1520
 sources:
   - https://en.wikipedia.org/wiki/Lake_of_Cazaux-Sanguinet
+score: 7.1
 ---
 
 Lac de Cazaux-Sanguinet is one of the largest natural freshwater lakes in France, straddling the boundary between the Gironde and Landes departments on the southern edge of La Teste-de-Buch commune. The lake covers about 5,600 hectares and is fed entirely by groundwater percolating through the coastal pine forest — no rivers flow into it, which gives the water unusual clarity.

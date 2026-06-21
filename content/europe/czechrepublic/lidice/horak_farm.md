@@ -6,6 +6,7 @@ longitude: 14.1908
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 A separate marker on the memorial site identifies the location of the Horák family farm — the building against whose wall the 173 men and boys of Lidice were shot in groups of ten on the morning of 10 June 1942. The wall itself was dynamited later that day along with the rest of the village, but a small monument stands on the spot.

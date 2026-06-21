@@ -6,6 +6,7 @@ longitude: -16.720556
 tags:
 - things_to_do
 - sight
+score: 7.4
 ---
 
 Kabrousse is the nearest traditional Diola village to Cap Skirring, a few kilometres south toward the Guinea-Bissau border. It is a real working village rather than a tourist construct — people farm, fish, and live here — and it gives a clear sense of the Diola culture that underlies Cap Skirring's resort overlay. The village has a weekly market where local traders bring produce, palm wine, and goods from across the Casamance, and on market days it has genuine energy.

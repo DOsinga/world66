@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: The town's landmark Gothic church and its detached belfry, a UNESCO World Heritage Site
+score: 7.7
 ---
 
 The Gothic church of Saint-Éloi, dedicated to the patron saint of Flemish metalworkers, dominates the central square alongside its separate belfry tower. The church dates from the 15th and 16th centuries and was repeatedly damaged and restored through centuries of war. The interior contains good carved woodwork and a number of notable artworks that survived the various conflicts.

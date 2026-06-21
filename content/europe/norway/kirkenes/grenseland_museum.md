@@ -14,6 +14,7 @@ type: poi
 url: www.varangermuseum.no
 story: >
   When the Red Army crossed the border and liberated Kirkenes in October 1944, they found almost nothing left — the German garrison had burned and demolished the town before retreating. The liberation was genuine, but the Soviet soldiers arrived to free a heap of rubble. The museum documents both the destruction and the chaotic weeks that followed, when Norwegian civilians sheltered by Russians in a bombed-out town on the edge of the Arctic winter.
+score: 7.5
 ---
 
 The Border Country Museum tells the story of Sør-Varanger: the iron mines that built Kirkenes, the brutal Second World War (the town was flattened by Luftwaffe bombings and Red Army liberation), and the Sami culture of the surrounding tundra.

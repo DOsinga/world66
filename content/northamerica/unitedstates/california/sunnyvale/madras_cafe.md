@@ -6,6 +6,7 @@ longitude: -122.0382
 tags:
   - eating_out
   - restaurant
+score: 6.9
 ---
 
 A South Indian vegetarian restaurant on El Camino Real that has been packed since it opened in 1996. The dosa list is the heart of the menu — Mysore, paper, ghee, family-sized — served with sambar and three chutneys on stainless steel platters.

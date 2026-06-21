@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, caribbean]
 latitude: 9.7375
 longitude: -82.8387
+score: 7.5
 ---
 
 Miss Edna's is the closest thing Cahuita has to a culinary institution — a home-cooking operation that has been feeding travellers Afro-Caribbean food for years. The menu centres on what this coast does best: rice and beans cooked in coconut milk rather than water, which gives them a richness and faint sweetness that the Pacific coast version lacks entirely; rondon, the Caribbean stew of fish, breadfruit, yuca, and green plantain simmered in coconut milk that takes hours to make properly; and fried whole fish with patacones. The portions are generous and the prices are honest.

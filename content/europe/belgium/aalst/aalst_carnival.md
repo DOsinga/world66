@@ -8,6 +8,7 @@ tags:
 - sight
 title: Aalst Carnival
 type: poi
+score: 8.9
 ---
 
 Aalst Carnival runs over the three days before Ash Wednesday and is one of the wildest pre-Lenten celebrations in Belgium. Highlights include the giant satirical floats on Sunday, the "Voil Jeanetten" (Dirty Janets) cross-dressing parade on Tuesday, and the burning of the carnival effigy on Tuesday night.

@@ -10,6 +10,7 @@ story: >
   The theatre began in 1951 in a tent — literally a large marquee pitched by the River Tummel. The founder, John Stewart, wanted to bring professional theatre to rural Scotland on the repertory model. The tent lasted a decade before the current permanent building was constructed; the river location and the scenic ambition have remained constant ever since.
 sources:
   - https://en.wikipedia.org/wiki/Pitlochry_Festival_Theatre
+score: 8.0
 ---
 
 The Pitlochry Festival Theatre is the main performing arts venue for rural Perthshire, running a May-to-October season of plays in rotating repertory. In any given week during the season, the theatre stages up to six different productions — comedies, dramas, musicals, and classics — drawing audiences from across Scotland and from visitors staying in the area. The theatre sits beside the River Tummel with views over Loch Faskally, and the combination of a good play, good food in the theatre restaurant, and that particular Highland evening light has made it a genuine institution.

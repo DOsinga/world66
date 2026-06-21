@@ -15,6 +15,7 @@ story: >
   Báthory, went on to become one of history's most notorious serial killers,
   allegedly murdering hundreds of young women in the early 1600s at this very
   castle. She was eventually walled into a room here until her death in 1614.
+score: 8.7
 ---
 
 The five-sided Renaissance castle at the centre of Sárvár is one of the most complete and best-preserved fortress-residences in western Hungary. The approach — across a long stone bridge that once spanned a moat, through a gatehouse — gives a genuine sense of the castle's defensive function. Construction began in the 16th century, and the Nádasdy family transformed it over the decades into an aristocratic residence without sacrificing its military character.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.8172
 longitude: 16.4140
+score: 7.4
 ---
 
 The Fondazione Pomarici Santomasi occupies a baroque palazzo in the old town and houses a collection that covers Gravina's history from the prehistoric period through to the modern era. The archaeological section includes finds from the Neolithic and Bronze Age settlements in the area, as well as material from the Roman town of Silvium. The upper floors deal with the more recent past — medieval documents, sacred art, and examples of the local ceramic tradition.

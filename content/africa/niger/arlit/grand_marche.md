@@ -7,6 +7,7 @@ tags:
 latitude: 18.7333
 longitude: 7.3833
 snippet: Arlit's bustling market where the Saharan economy meets West Africa
+score: 7.3
 ---
 
 The central market of Arlit is where the town's cross-cultural character is most visible. Tuareg traders from the north, Hausa merchants from the south, and workers from the mining operations all converge here. You will find silver jewellery, leather goods, dried dates, millet, and an array of goods trucked in from both Niger and Algeria. The silver work can be particularly good — the Tuareg tradition of silversmithing is strong in this region, and prices are more reasonable than in tourist centres further south.

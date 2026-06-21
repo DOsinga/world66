@@ -9,6 +9,7 @@ tags:
 story: The cigarrón mask, with its bishop's-mitre headdress painted with peacocks, deer and saints, weighs about four kilos and is hand-painted on tin. Each is unique to its wearer and many are passed down within families for generations. The bells round their waists are tuned to a deep tone so a charging cigarrón can be heard well before it is seen.
 title: Entroido de Verín
 type: poi
+score: 8.3
 ---
 
 The Entroido (carnival) of Verín, along with those of Laza and Xinzo, is one of the three great pre-Lent festivals of Galicia, and the only one of the three where the masked figures — the cigarróns — interact directly with the crowds in the streets rather than only in set-piece parades. The cigarrón is a masked figure in a brilliantly painted tin-and-cloth mask, a red-and-white-striped robe, white knee-high stockings, and a heavy belt of cow bells; he carries a horsetail whip and chases people through the alleys to crack the whip near their feet.

@@ -5,6 +5,7 @@ latitude: -53.1620
 longitude: -70.9075
 tags:
   - eating_out
+score: 6.8
 ---
 
 A tiny counter on Calle Roca, just off the Plaza, **Kiosko Roca** has been serving the same thing — small **choripanes** in a soft white roll, washed down with banana milk — to several generations of Punta Arenas office workers. There are about ten stools, no tables, and a line of people standing outside at lunchtime.

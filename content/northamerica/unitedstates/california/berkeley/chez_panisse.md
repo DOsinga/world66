@@ -8,6 +8,7 @@ tags:
 latitude: 37.8796
 longitude: -122.2690
 neighbourhood: Gourmet Ghetto
+score: 8.9
 ---
 
 The restaurant that launched California cuisine. Alice Waters opened Chez Panisse in 1971 on Shattuck Avenue, named after a character in Marcel Pagnol's Marseille films, with the aim of cooking simple French-influenced food from local ingredients sourced directly from farmers. That philosophy — which now seems obvious — was genuinely radical at the time, when American fine dining meant frozen produce and classical French technique.

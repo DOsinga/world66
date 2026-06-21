@@ -7,6 +7,7 @@ tags:
 latitude: 42.5143
 longitude: -8.8135
 snippet: Michelin-starred Galician cooking with exceptional local seafood and a serious Albariño wine list
+score: 7.4
 ---
 
 Yayo Daporta is the best restaurant in Cambados and one of the most respected addresses on the Rías Baixas coast. Chef Yayo Daporta has held a Michelin star for years, cooking refined Galician food that takes the region's extraordinary raw ingredients seriously without drowning them in technique. The menu changes with the season and the catch, but expect the local shellfish — zamburiñas, percebes, navajas — to appear in one form or another, alongside carefully chosen Albariño pairings from the surrounding vineyards.

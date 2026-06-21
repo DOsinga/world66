@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 51.2161
 longitude: -3.5691
 snippet: "Photogenic packhorse bridge and rural life museum in a tiny estate village"
+score: 7.3
 ---
 
 Two miles east of Porlock, the village of Allerford has a fine eighteenth-century packhorse bridge over the River Aller — twin arches of cobbled stone, low enough that only pony pack-trains could once cross. It is one of the most photographed bridges in Exmoor.

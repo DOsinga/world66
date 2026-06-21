@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Blue-ribbon trout fishery flowing through downtown"
+score: 7.5
 ---
 
 The reason Casper exists in the first place, and still its best amenity. The North Platte runs

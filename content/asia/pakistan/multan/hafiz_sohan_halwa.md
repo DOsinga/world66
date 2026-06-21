@@ -6,6 +6,7 @@ tags:
   - shopping
 latitude: 30.194622
 longitude: 71.474897
+score: 7.0
 ---
 
 **Hafiz Sohan Halwa** in Chowk Bazaar is the most famous of Multan's sweet shops and the unofficial home of the city's signature confection. The original shop was founded in 1849 — the year of the British siege — and is now run by the seventh generation of the same family. The recipe is jealously guarded: a slow-cooked paste of semolina, sugar, ghee, milk and roasted nuts, kneaded over a low flame for hours and then poured to set into a dense, sticky slab.

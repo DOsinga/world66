@@ -7,6 +7,7 @@ tags:
 - sight
 title: Town Walls and Gates
 type: poi
+score: 7.4
 ---
 
 Goslar's medieval circuit walls survive in stretches all around the old town, complete with several of the original gate towers and bastions. The most photogenic is the Breites Tor on the eastern side, a stone gatehouse straddling a wide moat fed by the Gose, with a small brewery and tavern occupying the upper floors. The Domvorhalle, the Achtermann tower, and the Zwinger are connected by a marked walking route that loops the whole town in about an hour.

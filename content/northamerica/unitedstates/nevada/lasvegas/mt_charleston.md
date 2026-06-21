@@ -7,6 +7,7 @@ snippet: "Cool alpine forests and a ski area 45 minutes from the Strip"
 tags:
 - day_trips
 - park
+score: 8.3
 ---
 
 When the Vegas summer hits 110°F, Mount Charleston offers a 30-degree drop in temperature an hour's drive northwest of the city. The 11,916-foot peak — Nevada's eighth-highest mountain — rises out of the Mojave Desert and is covered in ponderosa pine and aspen, a different planet from the desert basin below. Several hiking trails radiate out from the Kyle Canyon and Lee Canyon trailheads, ranging from short family walks to the long summit climb.

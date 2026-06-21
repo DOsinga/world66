@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 15.8563
 longitude: -97.0680
+score: 5.9
 ---
 
 Puerto Escondido has no shortage of surf schools, and the gentler inside breaks at Zicatela and at Playa Marinero — the beach just north of the main pier — are suitable for beginners. Most surf schools operate out of the Adoquín area and offer two-hour lessons for beginners that cover the basics of paddling, popping up, and reading the waves. Classes are typically small groups of four to eight people.

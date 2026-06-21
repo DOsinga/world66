@@ -8,6 +8,7 @@ latitude: 12.799
 longitude: 99.9656
 sources:
   - https://en.wikipedia.org/wiki/Cha-am_railway_station
+score: 4.8
 ---
 
 Cha-am railway station is a small wooden station on the Southern Line, just a few minutes by motorbike taxi from the beach. It is not grand — a single platform, a simple waiting room, a few fruit sellers — but the building has a certain weathered charm, and arriving by train feels more considered than pulling in by bus.

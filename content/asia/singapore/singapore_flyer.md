@@ -6,11 +6,13 @@ latitude: 1.289438
 longitude: 103.86326
 opening_hours: Daily 8:30–22:30
 phone: +65 6734 8829
+score: 6.5
 snippet: Giant observation wheel with panoramic views over Marina Bay
 tags:
 - things_to_do
 - landmark
 - sights
+- marina_bay
 title: Singapore Flyer
 type: poi
 url: www.singaporeflyer.com.sg

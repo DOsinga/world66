@@ -10,6 +10,7 @@ tags:
 - religious_site
 title: Guiyuan Temple
 type: poi
+score: 8.3
 ---
 
 Guiyuan Temple (Temple of Original Purity) is one of the four great Buddhist meditation temples of Hubei province. Founded in the early Qing dynasty (1644–1911) by two monks, Baiguang and Zhufeng, it takes its name from a Buddhist saying: "With purity kept in mind, one has the thoroughfare everywhere."

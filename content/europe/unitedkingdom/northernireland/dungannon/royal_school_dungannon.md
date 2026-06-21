@@ -8,6 +8,7 @@ snippet: One of the original royal schools of Ulster, founded 1614
 tags:
 - things_to_do
 - sight
+score: 5.4
 ---
 
 Royal School Dungannon was founded in 1614 by King James I, one of five royal schools established across Ulster after the plantation. The original purpose was to provide an English-language Protestant education to the children of the planters and the loyal Irish; today it is a coeducational grammar school of around 950 pupils.

@@ -7,6 +7,7 @@ tags:
 latitude: 37.9216
 longitude: 139.0433
 snippet: Niigata's signature buckwheat noodle bound with funori seaweed
+score: 7.2
 ---
 
 Hegi soba is the dish that defines Niigata's food culture. The noodles are made with funori, a type of seaweed used as a binding agent, which gives them a distinctive silky texture and light greenish tinge. They are served cold on flat cedar trays (called hegi), arranged in neat mounds that you dip in a cold dashi broth — a restrained, precise eating experience that suits the Niigata character.

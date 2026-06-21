@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 42.5894
 longitude: 44.7397
+score: 8.7
 ---
 
 The Truso Valley runs east from Kazbegi toward the South Ossetian border and is one of the region's least-visited and most dramatic hikes. The Terek River cuts through it, passing travertine terraces — pale orange mineral formations built up by iron-rich springs — and the ruins of medieval fortresses standing on ridges above the valley floor.

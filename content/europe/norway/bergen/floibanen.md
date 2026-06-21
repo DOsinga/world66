@@ -8,6 +8,7 @@ story: >
   The funicular was opened in 1918 and originally ran on water ballast — the descending car was filled with water and the ascending car with passengers, trading weight for altitude. It was electrified in 1954, but the basic idea of using Fløyen's height as an energy source lives on in the regenerative braking system that returns power to the grid on the way down.
 sources:
   - https://en.wikipedia.org/wiki/Fl%C3%B8ibanen
+score: 8.4
 ---
 
 The Fløibanen funicular climbs 320 metres from the city centre to the top of Mount Fløyen in eight minutes. The view from the top is the classic Bergen panorama: the old town below, the harbour, Bryggen's coloured wooden houses, and on clear days the fjords and the western islands stretching out to sea. It runs every quarter of an hour or so and the queues in summer can be long — go early morning or in the evening light.

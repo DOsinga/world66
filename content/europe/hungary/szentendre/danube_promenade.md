@@ -5,6 +5,7 @@ snippet: "Riverside walk along Duna korzó, with views to Szentendre Island"
 tags: [things_to_do, sight]
 latitude: 47.6671
 longitude: 19.0771
+score: 6.3
 ---
 
 The Duna korzó is the promenade that runs along the Danube the full length of Szentendre's old town. It is a pleasant ten-minute walk end to end, lined with willows and benches, and gives one of the only places in town with open views — across the river to Szentendre Island and back to the rooftops and church towers of the centre.

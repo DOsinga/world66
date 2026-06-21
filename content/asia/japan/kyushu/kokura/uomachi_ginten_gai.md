@@ -8,6 +8,7 @@ tags:
   - shopping
   - sight
 snippet: The longest of Kokura's covered shopping arcades
+score: 6.1
 ---
 
 Uomachi Gintengai is the most famous of Kokura's covered arcades and one of the longest in western Japan. The arcade runs east from Kokura Station, lined with restaurants, izakaya, clothing shops, pachinko parlours and the occasional traditional sweets stall, all under a vaulted glass-and-steel roof that keeps the rain (and the August heat) at bay.

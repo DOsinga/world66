@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.8462
 longitude: 11.6191
+score: 8.5
 ---
 
 Ferrara's Renaissance walls are among the best-preserved in Europe. The 9-kilometre circuit, built in brick in the 15th and 16th centuries, completely encircles the historic centre and is topped for much of its length by a wide grass walkway and a tree-lined cycle path. You can walk or cycle the full circuit in a couple of hours, looking out over the moat and the flat Po plains beyond.

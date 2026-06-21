@@ -8,6 +8,7 @@ latitude: 39.4536
 longitude: -123.8131
 story: >
   Glass Beach is a former municipal dump. The city of Fort Bragg tipped household garbage onto the headlands above the ocean until 1967, when the practice was stopped. The sea has spent the intervening decades grinding the broken glass, ceramics, and metal into the smooth, frosted fragments that now coat the beach — a kind of accidental natural alchemy that transformed trash into treasure.
+score: 7.0
 ---
 
 Glass Beach is one of the most unusual beaches on the California coast, its gravels threaded with smooth, sea-worn fragments of old glass in greens, browns, and the rare cobalt blue. The glass comes from decades of waste dumping on the headlands above — a practice ended in 1967 — and the surf has spent sixty-odd years polishing the shards into the rounded, frosted jewels that visitors now pick their way through.

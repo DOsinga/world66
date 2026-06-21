@@ -7,6 +7,7 @@ tags:
   - temple
 latitude: 42.2680
 longitude: 118.9100
+score: 6.6
 ---
 
 Lamadong Temple is the main Tibetan Buddhist lamasery in Chifeng city proper, a Gelug-school monastery that dates in its present form to the Qing dynasty. The main hall contains an oversized bronze Maitreya and a collection of tangka paintings that are not reproductions — they were made here and stayed here, which is more than can be said for many Inner Mongolian monasteries after the Cultural Revolution. A small community of monks still practices at the site, and the sound of morning chanting drifts out into the surrounding residential streets.

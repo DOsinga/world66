@@ -13,6 +13,7 @@ story: >
   had established an international arbitration court but left it without a home.
   Countries from around the world contributed furnishings and decorative elements:
   Japan sent the gates, the UK the stained glass windows, France the tapestries.
+score: 8.5
 ---
 
 The Peace Palace houses the International Court of Justice, the Permanent Court of Arbitration, and the Hague Academy of International Law — making it the most important building in international law. The 1913 neo-Gothic palace, set in a large park on Carnegieplein, is a genuinely beautiful building: red brick and stone, turrets, a clock tower, and gardens that open to the public for free.

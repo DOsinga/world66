@@ -11,6 +11,7 @@ story: >
   Grand Duke Ernst Ludwig of Hesse invited seven avant-garde artists to live and work on this hilltop in 1899, asking them to create a "total work of art" — a place where every building, garden, and object formed a unified aesthetic whole. The 1901 colony exhibition, which opened to the public and attracted enormous crowds, was one of the founding moments of German Jugendstil and announced Darmstadt as an unlikely capital of European modernism.
 sources:
   - https://en.wikipedia.org/wiki/Darmstadt_Artists%27_Colony
+score: 9.4
 ---
 
 The Mathildenhöhe is Darmstadt's crown jewel: a hilltop artists' colony that became the epicentre of the Jugendstil (Art Nouveau) movement in Germany. Grand Duke Ernst Ludwig commissioned leading architects including Peter Behrens and Joseph Maria Olbrich to design the buildings, gardens, and interiors as a single integrated work. The result — exhibition halls, artists' studios, the Russian Chapel, and the extraordinary Wedding Tower — earned UNESCO World Heritage status in 2021.

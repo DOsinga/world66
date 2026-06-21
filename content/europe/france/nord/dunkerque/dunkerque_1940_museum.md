@@ -16,6 +16,7 @@ story: >
   Luftwaffe attack. The French rearguard that held the perimeter — allowing the
   British to escape — is often underappreciated; about 40,000 French soldiers were
   captured after the final evacuation.
+score: 7.6
 ---
 
 The DUNKERQUE 1940 Museum provides the most comprehensive account of Operation Dynamo available anywhere. Spread over two floors of a purpose-built space near the town beach, it combines military vehicles, weapons, uniforms, and personal effects with film footage, maps, and extensive explanatory panels.

@@ -6,6 +6,7 @@ longitude: -111.9290
 tags:
   - things_to_do
   - museum
+score: 6.9
 ---
 
 A small but obsessively curated museum on the north side of Scottsdale, attached to a car dealership and free to visit. The collection covers Roger Penske's racing empire — every one of the 18 Indianapolis 500-winning cars his team has fielded, plus IndyCars, Trans-Am racers, and NASCAR machines, all painstakingly restored and lined up in chronological order.

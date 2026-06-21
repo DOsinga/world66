@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 31.9585
 longitude: 77.1080
+score: 4.4
 ---
 
 Inside the HPTDC's Hotel Sarvari on the south side of Dhalpur, Diyar is the closest Kullu has to a proper sit-down restaurant. The menu covers Himachali specialities — siddu, chha gosht, madra — alongside the usual Indian and Chinese options.

@@ -10,6 +10,7 @@ longitude: 27.5481
 snippet: Belarus's security services still operate from this imposing Stalinist building, and the KGB still uses its Soviet name
 story: >
   Belarus is the only former Soviet state where the security services still officially use the name KGB — the Committee for State Security. The organisation retained its Soviet-era name, structure, and in many ways its Soviet-era methods when the other republics renamed and reformed their equivalents. The building has been the headquarters of the Belarusian KGB since 1954, and its basement has been used as a detention facility throughout that period, including during the crackdowns that followed the disputed 2020 election.
+score: 6.3
 ---
 
 The headquarters of the Belarusian KGB stands on the corner of Komsomolskaya Street and Independence Avenue — a massive Stalinist pile that is deliberately intimidating. Belarus is the only country in the former Soviet Union to have kept both the KGB name and much of its Soviet-era institutional character. The building is not a museum and is not open to visitors; it is a working security services headquarters.

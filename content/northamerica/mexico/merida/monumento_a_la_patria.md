@@ -18,6 +18,7 @@ story: >
   before receiving the commission; he reportedly spent months studying Maya
   codices and archaeological reports before beginning work, and the archaeological
   accuracy of his pre-Columbian figures is considered exceptional.
+score: 7.1
 ---
 
 The Monumento a la Patria stands at a roundabout on the Paseo de Montejo, about halfway along the boulevard, and is one of the most ambitious public sculptures in Mexico. The monument takes the form of a large hemicycle — a curved wall faced with an intricate relief carving that runs the full length of the structure. The imagery traces Mexican history from pre-Hispanic cultures through the conquest, independence, reform, and revolution, with particular emphasis on Maya civilisation and Yucatecan identity.

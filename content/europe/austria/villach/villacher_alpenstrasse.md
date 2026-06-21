@@ -15,6 +15,7 @@ story: >
   millions of tonnes of rock. The debris field — visible today as a distinctive
   broken landscape at the foot of the mountain — is one of the largest documented
   historic landslides in the Alps.
+score: 8.0
 ---
 
 The Villacher Alpenstrasse is a toll road climbing from the western edge of the city to the Dobratsch plateau at around 1,700 metres, with the summit area of the mountain reaching 2,166 metres. The road passes through several lookout points offering increasingly dramatic views over the Drau and Gail valleys, with the Karawanken range and the Julian Alps visible in the distance on clear days.

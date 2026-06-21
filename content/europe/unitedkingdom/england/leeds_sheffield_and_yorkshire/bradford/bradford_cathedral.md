@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.7956
 longitude: -1.7475
+score: 7.6
 ---
 
 Bradford Cathedral sits on a knoll on the northeast edge of the city centre — a slightly hidden but interesting parish church elevated to cathedral status in 1919 when the Diocese of Bradford was created. The fabric is largely 15th-century Perpendicular, though the church on this site goes back at least to the 11th century, and a Saxon font fragment is on display inside.

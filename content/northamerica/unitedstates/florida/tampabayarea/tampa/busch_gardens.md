@@ -9,6 +9,7 @@ longitude: -82.4211
 snippet: A major theme park with world-class roller coasters set within an African wildlife safari park
 story: >
   Busch Gardens began in 1959 as a free hospitality centre for the Anheuser-Busch brewery — visitors toured the brewery and were treated to free beer in gardens landscaped with flamingos and peacocks. The roller coasters and African theme came later. Today the brewery is long gone but the park still offers free beer samples at certain locations — a vestige of the original hospitality concept.
+score: 6.8
 ---
 
 Busch Gardens Tampa is a large theme park with an unusual combination of world-class roller coasters and a genuine African wildlife component. The park's "Serengeti Plain" is a 65-acre paddock where giraffes, elephants, rhinos, zebras, and ostriches roam relatively freely, visible from the elevated railway and from safari tour vehicles. The wildlife experience is more credible than you might expect from a theme park.

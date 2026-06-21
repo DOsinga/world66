@@ -8,6 +8,7 @@ tags:
 - sight
 title: Observatory of Saint-Véran
 type: poi
+score: 8.1
 ---
 
 The Observatoire de Saint-Véran sits at 2,930 metres on the Pic de Château Renard, making it one of the highest astronomical observatories in Europe accessible to the public. Originally a CNRS solar observation site, it now hosts visiting astronomers and offers guided tours and night sessions for visitors.

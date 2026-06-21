@@ -13,6 +13,7 @@ story: >
   for reconstruction. Iranian craftsmen and international archaeologists
   have been piecing it back together since, using the same mud-brick
   techniques that built it originally.
+score: 9.5
 ---
 
 The Arg-e Bam is one of the largest adobe structures in the world and arguably the most impressive earthen architecture on the planet. Built over two thousand years and expanded and elaborated through the Sassanid, Islamic, and Safavid periods, the citadel covered an area of roughly 200,000 square metres at its peak — a complete walled city with bazaars, residential quarters, a mosque, a governor's palace, watchtowers, and the great citadel keep rising above everything. It was occupied until the early 19th century, when it was abandoned following a siege.

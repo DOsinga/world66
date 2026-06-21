@@ -8,6 +8,7 @@ tags:
 latitude: 8.1320
 longitude: -63.5917
 snippet: The first bridge across the Orinoco, opened in 1967
+score: 6.2
 ---
 
 The Angostura Bridge spans the Orinoco about five kilometres west of the old town — a 1,678-metre suspension bridge that was, when it opened in 1967, the longest in Latin America and the first to cross the Orinoco at any point. The river narrows here to about 1.2 kilometres (Angostura means "narrows" in Spanish), making the crossing engineering-feasible despite the river's enormous flow.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.6050
 longitude: 10.5190
+score: 7.9
 ---
 
 The lakefront promenade at Salò is one of the longest on Lake Garda, stretching along the curve of a sheltered gulf with views of the mountains to the north and the olive groves on the hillsides above. It's the essential evening passeggiata route, lined with Liberty-style buildings, palm trees, and moored boats.

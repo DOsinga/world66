@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 23.2280
 longitude: 75.7770
+score: 6.9
 ---
 
 The Kaliyadeh Palace stands on an island in the Kshipra River, about 8 km north of the city. Built in 1458 by the Mandu Sultans, it was later a retreat for Mughal emperors — Akbar stopped here several times on his journeys between Agra and Gujarat, and Jehangir left inscriptions. The palace sits in the middle of the river, surrounded by water on both sides, and the setting is quietly beautiful.

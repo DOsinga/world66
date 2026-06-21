@@ -7,8 +7,15 @@ tags:
   - transport
 latitude: 39.6348
 longitude: -79.9541
+story: >
+  The PRT was supposed to be the future of American urban transit. Funded by the Nixon
+  administration's Department of Transportation in 1975 as a prototype for systems to be
+  built across US cities, it attracted enormous attention — and then nothing happened. Every
+  other city that was supposed to get a version never built one. Morgantown's keeps running,
+  carrying students every day, the sole surviving example of a transport revolution that didn't happen.
 sources:
   - https://en.wikipedia.org/wiki/Morgantown_Personal_Rapid_Transit
+score: 8.5
 ---
 
 The WVU Personal Rapid Transit is one of the stranger urban transit systems on earth — a network of small automated electric pods running on elevated concrete guideways, connecting three stations between downtown and the Evansdale campus. It was built in 1975 as a demonstration project funded by the US Department of Transportation and was supposed to be the prototype for a new generation of American urban transit. That never happened, but Morgantown kept running theirs.

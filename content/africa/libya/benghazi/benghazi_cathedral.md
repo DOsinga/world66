@@ -9,6 +9,7 @@ latitude: 32.1139
 longitude: 20.0594
 story: >
   The Cathedral of the Immaculate Conception was built by the Italians in 1910 and served the Roman Catholic community of Benghazi until Libya's independence and the subsequent departure of the Italian population. It was converted into a mosque in 1970 under Gaddafi, then converted again into an Eastern Orthodox church for the large community of Egyptian Coptic workers in Libya. It is unusual to find a building that has served all three Abrahamic faiths within a single century.
+score: 7.6
 ---
 
 The Benghazi Cathedral, near the city's waterfront, is an Italian colonial-era church from 1910 — a reminder of the fifty-year period of Italian rule that profoundly shaped Benghazi's architecture and urban layout. The building went through several conversions after Libyan independence and is currently used as an Eastern Orthodox church. The neoclassical facade, with its columns and bell tower, stands out among the surrounding buildings as an obvious piece of European colonial architecture.

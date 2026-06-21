@@ -8,6 +8,7 @@ tags:
 latitude: 18.42912
 longitude: -67.154772
 story: "The Cardona Residence is listed on the US National Register of Historic Places as one of the finest surviving examples of late 19th-century residential architecture in northwestern Puerto Rico. The listing recognises both its architectural quality and its association with one of Aguadilla's prominent families during the late Spanish colonial period."
+score: 5.1
 ---
 
 The Cardona Residence is one of Aguadilla's best-preserved historic homes, a late 19th-century building that represents the domestic architecture of prosperous Puerto Rican families in the final years of Spanish colonial rule. The design combines Spanish colonial conventions — thick masonry walls, shaded galleries, a central courtyard orientation — with decorative details that reflect the period's European influences. It sits on a quiet street in the old town, close to the main plaza.

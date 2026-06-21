@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.5
 ---
 
 The Aïn Doura Baths sit on the lower terraces of Dougga, taking their name from the natural spring (aïn) that fed them. The complex is smaller than the Licinian Baths but unusually well preserved: paving stones in place, mosaic fragments still visible, and the channels that brought water down the hillside intact.

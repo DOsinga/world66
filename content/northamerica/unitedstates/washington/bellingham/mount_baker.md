@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.8600
 longitude: -121.6700
+score: 8.0
 ---
 
 Mount Baker Ski Area sits at 1,500–2,000 metres elevation on the flanks of the active volcano of the same name, about 90 minutes east of Bellingham on Highway 542. It is not the biggest ski resort in the region, but it holds the world record for snowfall in a single season — 29 metres in 1998–99 — and consistently receives more snow than any comparable North American resort. The snow quality is legendary: light, deep powder that persists long after it has turned to slush elsewhere.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 48.8889
 longitude: 5.5444
 snippet: "American 1918 battlefield and large memorial on the Meuse"
+score: 7.0
 ---
 
 The small town of Saint-Mihiel, 25 km south of Verdun on the Meuse, gives its name to the first major US-led offensive of the First World War. In September 1918 General Pershing's American Expeditionary Force, with French support, eliminated the Saint-Mihiel salient in four days, taking 15,000 prisoners.

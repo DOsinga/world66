@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 - bar
 - ikoyi
+score: 7.5
 ---
 
 Jazzhole on Awolowo Road has been a slow, deliberate Lagos institution since the 1990s. The front is a serious independent bookshop and one of the best vinyl shops in West Africa — afrobeat, highlife, jazz, soul. The back room is a small cafe and bar that hosts live music several nights a week, including a long-running Sunday jazz session that attracts the older crowd. Quiet during the day, intimate after dark, and reliably civilised.

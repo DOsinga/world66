@@ -9,6 +9,7 @@ latitude: 40.0994
 longitude: -8.4906
 sources:
   - https://en.wikipedia.org/wiki/Con%C3%ADmbriga
+score: 8.0
 ---
 
 The national museum at the entrance to the Conimbriga site holds the excavation's most significant portable finds. The collection is thoughtfully displayed and covers the full sweep of Roman life at the site: inscriptions, bronze statues, marble portraits, oil lamps, surgical instruments, children's toys, and pottery spanning several centuries of occupation.

@@ -9,6 +9,7 @@ tags:
   - neighbourhood
 snippet: The walled Ottoman-Austro-Hungarian core, with arcaded cafes and plane trees
 story: "The old town is a curious mash-up: Ottoman walls built between 1706 and 1722 enclose an interior almost entirely rebuilt by the Austro-Hungarians after they annexed Bosnia in 1878. So you walk in through a Turkish gate and emerge into a Habsburg square — both equally Trebinje."
+score: 8.5
 ---
 
 The walled Ottoman core of Trebinje, enclosed by a hexagon of 18th-century stone walls and entered through one of two gates. Inside, the streets are narrow and stone-paved; the central **Osman-paša Resulbegović Mosque** dates from the 17th century but the surrounding buildings are mostly Austro-Hungarian from the late 1800s, with shuttered windows and modest stucco facades.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -34.9090
 longitude: -57.9355
+score: 8.7
 ---
 
 The natural history museum of La Plata is one of the finest in South America and among the most important paleontological collections in the world. The building itself — a circular neoclassical structure built in 1888, with a grand entrance portal and a domed interior — is as impressive as what is inside. The museum was conceived by Francisco Moreno, a legendary Argentine naturalist and explorer who crossed Patagonia repeatedly in the 1870s and 1880s and sent bones, fossils, and specimens back to La Plata by the crate.

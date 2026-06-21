@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 20.6231
 longitude: -103.2353
+score: 7.6
 ---
 
 The Regional Museum of Ceramics in Tonalá, east of Tlaquepaque, makes the case that the pottery traditions of the Guadalajara region are among the most significant in Mexico. The collection covers pre-Hispanic ceramics through colonial-era Talavera to contemporary Jalisco craft, showing both the evolution of technique and the persistence of certain forms across centuries.

@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Varmárvöllur
 type: poi
+score: 3.8
 ---
 
 Varmárvöllur is the small multi-purpose stadium at the centre of Mosfellsbær and the home ground of Afturelding, the town's football and handball club. The pitch sits beside the river Varmá that gives the venue its name; the main stand seats only a few hundred people, but matches against bigger Reykjavik sides bring a noisy local crowd.

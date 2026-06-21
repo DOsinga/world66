@@ -12,6 +12,7 @@ tags:
 - temple
 title: Phuc Kien Assembly Hall
 type: poi
+score: 8.9
 ---
 
 The largest and most elaborate of Hoi An's Chinese assembly halls, built by the Fujian Chinese community in 1697. The ornate entrance gate, courtyards, and main hall dedicated to the sea goddess Thien Hau are rich with coloured ceramics and gilded wood. Still an active place of worship.

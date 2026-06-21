@@ -1,10 +1,11 @@
 ---
 title: Festa de São João
 type: poi
-tags: [things_to_do, culture, festivals]
+tags: [things_to_do, culture, when_to_go]
 latitude: 41.14500
 longitude: -8.61100
-story: On the night of June 23rd, Porto engages in one of Europe's more peculiar civic rituals: residents spend the night hitting each other on the head with plastic hammers, squeaky leeks, or bunches of garlic. The tradition evolved from the medieval custom of giving the person you are attracted to a sprig of basil; somewhere along the way the basil became a leek and then a plastic hammer. The rest of the celebration — fireworks, grilled sardines, dancing in the streets — is more conventional, but the hammer-hitting remains Porto's contribution to the canon of strange European festivals.
+story: "On the night of June 23rd, Porto engages in one of Europe's more peculiar civic rituals: residents spend the night hitting each other on the head with plastic hammers, squeaky leeks, or bunches of garlic. The tradition evolved from the medieval custom of giving the person you are attracted to a sprig of basil; somewhere along the way the basil became a leek and then a plastic hammer. The rest of the celebration — fireworks, grilled sardines, dancing in the streets — is more conventional, but the hammer-hitting remains Porto's contribution to the canon of strange European festivals."
+score: 8.7
 ---
 
 The Festa de São João is Porto's most important annual celebration, held on the night of June 23rd. The entire historic centre turns into a street party from dusk until dawn: grilled sardines served from temporary stalls in every alley, wine and beer flowing freely, bands playing in the squares, and the characteristic ritual of hitting strangers on the head with plastic hammers, stuffed leeks, or sprigs of garlic. Fireworks over the Douro conclude the official programme around midnight, but the party continues until morning.

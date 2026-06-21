@@ -6,6 +6,7 @@ longitude: -82.8279
 tags:
   - bars_and_cafes
   - bar
+score: 5.5
 ---
 
 Jimmy's Crow's Nest occupies the rooftop of the Pier House 60 Marina Hotel, ten stories above Clearwater Beach. The 360-degree views take in the Gulf, Clearwater Harbor, the marina below, and the causeway bridge to the mainland. It is the best sunset perch on the beach, and locals know it — the deck gets crowded on clear evenings.

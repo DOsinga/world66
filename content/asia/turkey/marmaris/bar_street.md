@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - nightclub
+score: 4.6
 ---
 
 A few hundred metres of pedestrianised street running north from the seafront in the centre of town — the loudest, brashest, fully unapologetic nightlife strip in Marmaris and, by some accounts, in Turkey. Three dozen bars and clubs pump music into the street, neon signs cover every wall, and the touts come at you from both sides.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.9494
 longitude: -4.1237
+score: 7.7
 ---
 
 Segovia had one of the most significant Jewish communities in medieval Castile — several of the city's most distinguished scholars and financiers came from here, and the community was wealthy enough to maintain multiple synagogues. The expulsion of 1492 ended this history abruptly. The main synagogue, which occupied a handsome building at Plaza del Corpus, was converted into the church of Corpus Christi; you can still see the Hebrew inscriptions on the arches inside.

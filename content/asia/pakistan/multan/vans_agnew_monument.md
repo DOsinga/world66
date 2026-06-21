@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.19872
 longitude: 71.47483
+score: 5.5
 ---
 
 A lonely obelisk on the high ground of the old Multan Fort marks the spot where the British political agent **Patrick Vans Agnew** and his assistant Lieutenant William Anderson were murdered on 20 April 1848 by soldiers of the Sikh governor Diwan Mul Raj. The killings sparked the **Second Anglo-Sikh War**, which ended a year later with the storming of Multan and the British annexation of the Punjab.

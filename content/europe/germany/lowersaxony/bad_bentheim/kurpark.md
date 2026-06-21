@@ -7,6 +7,7 @@ tags:
 latitude: 52.307
 longitude: 7.158
 sources: []
+score: 5.7
 ---
 
 The Kurpark is the leafy centrepiece of Bad Bentheim's spa town identity — a formal park with walking paths, a bandstand, and the open-air theatre that hosts concerts and events through the summer months. It is pleasant rather than spectacular, but a good place to understand why the town has drawn visitors for over a century.

@@ -6,6 +6,7 @@ longitude: 9.7090
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 A small enoteca and takeaway window in the middle of Via Fieschi. The counter sells focaccia di Recco, cones of fried anchovies and squid, slabs of farinata, and bruschette with the local olive oil. Behind it, a few tables in a vaulted back room serve simple plates of cured meats, local cheeses, and pasta.

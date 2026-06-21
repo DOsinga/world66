@@ -8,6 +8,7 @@ latitude: 8.6008
 longitude: -80.1303
 story: >
   The market has been running continuously since at least the 1950s and is one of the main economic drivers for indigenous communities in the surrounding hills. The Ngäbe-Buglé women who bring their woven bags, painted gourds, and carved soapstone often travel for hours on winding mountain roads to reach El Valle for a single market day.
+score: 8.0
 ---
 
 The Sunday Market in Anton Valley is one of the most worthwhile markets in Panama, and not just for the tourist crafts that dominate its more commercial stalls. Local indigenous vendors — many from the Ngäbe-Buglé community — arrive early to sell traditional woven bags, carved soapstone figures, painted gourds, ceramics, and fresh produce from the farms in the surrounding hills. It runs from around 7am to 5pm and is at its most lively in the morning hours.

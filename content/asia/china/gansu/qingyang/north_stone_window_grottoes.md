@@ -15,6 +15,7 @@ story: >
   holds that the craftsmen who made it were brought from the capital at Datong and that
   their work here represents the same workshop tradition as the great Yungang Grottoes,
   transported westward along the imperial road.
+score: 8.5
 ---
 
 The Northern Stone Cave Temple (Beidao Shiku) is one of the most significant Buddhist cave sites in eastern Gansu and among the least visited outside the province. The main complex contains about 300 caves spanning the Northern Wei through Song dynasties, with the best-preserved sculptures dating to the Sui and Tang periods. The scale is modest compared to Maijishan or Dunhuang, but the quality of the best carvings is considerable, and the relative lack of visitors makes examination of the figures easier.

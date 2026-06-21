@@ -13,6 +13,7 @@ story: >
   than 5,000 bones from mastodons, mammoths, ground sloths, camels, and giant
   bison — one of the most important Ice Age finds in North America. The whole
   excavation had to be wrapped up in seven weeks before construction resumed.
+score: 6.4
 ---
 
 The Snowmastodon site is no longer a visitable dig — the reservoir has been finished and the bones have moved on to museums — but the story remains one of the more remarkable things to come out of Snowmass Village in recent decades. The Denver Museum of Nature and Science worked the site in a frantic seven-week rescue dig in 2010–11 and recovered a snapshot of life around the high lake some 120,000 years ago.

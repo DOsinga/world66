@@ -8,6 +8,7 @@ tags:
 title: Boabeng-Fiema Monkey Sanctuary
 type: poi
 story: The Boabeng-Fiema Monkey Sanctuary is a community-run wildlife area where two villages have protected black-and-white colobus and mona monkeys for generations based on the belief that the animals are sacred — connected to local ancestral spirits. When a monkey dies, it receives a proper burial by village elders. This belief system has kept a thriving monkey population inside the village boundaries long before conservation was a formal concept; the sanctuary was only officially gazetted in 1975, by which point the tradition had already preserved the population for at least two centuries.
+score: 8.6
 ---
 
 The Boabeng-Fiema Monkey Sanctuary lies about 100km east of Sunyani, near the town of Nkoranza. The sanctuary protects two species: the black-and-white colobus, a striking monkey with a long white fringe and flowing tail, and the olive-coloured mona monkey. Both species are habituated to humans and can be observed at very close range — a fundamentally different experience from seeing primates in a national park where they retreat at human approach.

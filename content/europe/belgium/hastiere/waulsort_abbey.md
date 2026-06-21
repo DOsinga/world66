@@ -9,6 +9,7 @@ longitude: 4.8
 snippet: "Ruins of a medieval Benedictine abbey on the banks of the Meuse"
 sources:
   - https://en.wikipedia.org/wiki/Waulsort_Abbey
+score: 5.8
 ---
 
 Waulsort Abbey was founded by Irish monks in the 10th century at a bend in the Meuse river, later becoming a prosperous Benedictine monastery. Like many Belgian monasteries, it was suppressed during the French Revolutionary period and subsequently converted to other uses; today a château stands on the site incorporating some of the surviving medieval structures.

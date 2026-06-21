@@ -7,6 +7,7 @@ tags:
 latitude: 42.993449
 longitude: -71.4614
 snippet: 24-hour Manchester institution open since 1922, a New Hampshire landmark
+score: 5.8
 ---
 
 The Red Arrow has been open around the clock since 1922 and is the closest thing Manchester has to a civic institution. The original diner car on Lowell Street seats about 20 people at a counter and a handful of booths; a second location in the millyard has more room but less atmosphere. The menu is unapologetic diner food: eggs and hash any time of day, thick pancakes, club sandwiches, and a rotating pie selection.

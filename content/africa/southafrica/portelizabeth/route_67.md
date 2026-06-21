@@ -6,6 +6,7 @@ longitude: 25.6180
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Route 67 is a public art trail that runs from the Donkin Reserve down through the old town to the harbour, with 67 artworks installed along the way — one for each year of Nelson Mandela's public life. The works range from large-scale murals and mosaics to sculptures and paving installations, and they vary considerably in quality, but the best of them are genuinely striking. The trail takes an easy hour to walk end to end.

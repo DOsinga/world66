@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - shopping
+score: 5.8
 ---
 
 Optics Valley, formally the Wuhan East Lake High-Tech Development Zone, is the city's answer to Silicon Valley — a vast district in south-east Wuhan dedicated to optoelectronics, biotech, and software, home to dozens of major companies and tens of thousands of engineers. The name comes from the historical strength of Wuhan's universities in optics research.

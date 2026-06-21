@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 68.2311
 longitude: 14.5647
+score: 8.2
 ---
 
 The Lofoten War Memorial Museum covers the wartime history of the Lofoten Islands with unusual depth, including the two British commando raids of 1941 that destroyed the cod-liver oil factories and captured a Lorenz machine — a discovery that significantly helped the Allies break German communications. The museum has weapons, uniforms, and personal effects from both sides, and pays equal attention to the Norwegian civilians who lived under occupation.

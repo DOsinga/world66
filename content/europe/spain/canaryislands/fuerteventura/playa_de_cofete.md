@@ -13,6 +13,7 @@ story: >
   resupply station or escape route. No credible evidence supports this, but
   the villa's remoteness and mysterious past make it one of Fuerteventura's
   most discussed buildings.
+score: 9.1
 ---
 
 Playa de Cofete is the wildest and most dramatic beach on Fuerteventura — a vast, exposed Atlantic beach on the remote western side of the Jandía peninsula, backed by the steep escarpment of the Jandía mountains and stretching for over 12 kilometres with almost nobody on it. The waves are too strong for swimming in most conditions, but the scale and the raw beauty of the landscape are extraordinary. This is Fuerteventura at its most elemental.

@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Akbar
 type: poi
+score: 5.6
 ---
 
 One of the oldest Indian restaurants on Sukhumvit Road, Akbar has been serving reliable North Indian food for decades. Nothing fancy, but consistent and well-priced.

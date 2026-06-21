@@ -10,6 +10,7 @@ latitude: 1.5950
 longitude: 7.4050
 sources:
   - https://en.wikipedia.org/wiki/Pr%C3%ADncipe
+score: 6.6
 ---
 
 Praia Salgada is one of Príncipe's more dramatic beaches, set against a backdrop of volcanic rock on the island's southern coast. The approach involves a walk through secondary forest, which keeps most casual visitors away. The beach itself is not large — more a cove than a strand — but the combination of dark sand, overhanging palms, and clear water makes it genuinely striking.

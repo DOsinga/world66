@@ -6,6 +6,7 @@ longitude: 115.7176
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 The Mandurah Traffic Bridge spans the narrow channel between the Peel Inlet and the ocean and is one of the city's defining sights. The original timber bridge stood here from 1894 until 1953; the current concrete bridge dates from 1953 and is a classic mid-century Australian road bridge.

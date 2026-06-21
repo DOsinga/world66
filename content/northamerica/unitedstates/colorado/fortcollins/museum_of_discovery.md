@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.5849
 longitude: -105.0737
+score: 6.7
 ---
 
 The Fort Collins Museum of Discovery is an all-ages science and cultural museum in Old Town, well-suited for families but interesting enough to hold the attention of adults. The exhibits cover natural history, local history, and interactive science — including a music and sound lab that is consistently popular with kids of all ages.

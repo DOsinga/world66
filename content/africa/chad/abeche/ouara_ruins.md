@@ -7,6 +7,7 @@ tags:
 latitude: 13.8100
 longitude: 20.8000
 story: "Ouara was founded as the capital of the Ouaddai Kingdom, but it was abandoned after a Sudanese invasion in the early nineteenth century. The ruins sat largely forgotten until archaeologists documented the site in the twentieth century. What remains is a ghost town of the Sahel: walls slowly returning to earth, a mosque still recognizable by its form, and a sultan's tomb that still draws occasional pilgrims."
+score: 7.2
 ---
 
 Ouara lies a few kilometers southwest of Abeche and was the original capital of the Ouaddai Sultanate before the capital was moved to Abeche. The ruins include the remains of a mosque and the tomb of Sultan Sabun, one of the most celebrated rulers of Ouaddai, who strengthened the kingdom's trade links and repelled numerous incursions in the early nineteenth century. His tomb still stands and is considered a place of local significance.

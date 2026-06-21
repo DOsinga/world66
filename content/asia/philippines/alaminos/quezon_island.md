@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 16.1983
 longitude: 120.0383
+score: 7.8
 ---
 
 Quezon Island has the best beach in the Hundred Islands — a long arc of white sand with calm, clear water and decent snorkelling off the northern tip. It is also the only island in the park where overnight camping is permitted, with a basic shelter and toilet facilities managed by the park authority. Booking overnight stays is arranged at the Lucap Wharf office.

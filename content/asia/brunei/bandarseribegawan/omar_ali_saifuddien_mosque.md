@@ -14,6 +14,7 @@ story: >
   chandeliers, and stained glass windows — all imported at great expense to
   create what the Sultan called a mosque fit for a nation. It stands 52 metres
   tall and was, for many years, the tallest building in Brunei.
+score: 7.7
 ---
 
 The Omar Ali Saifuddien Mosque is the defining image of Bandar Seri Begawan — a golden dome and white marble tower rising above the low skyline, reflected in the artificial lagoon that surrounds it. Built in 1958 in a classical Islamic style with Mughal and Italian influences, it is considered one of the finest mosques in Asia and has appeared on Brunei's currency and stamps since the country became independent.

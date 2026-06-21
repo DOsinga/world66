@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 8.5970
 longitude: -80.1350
+score: 6.3
 ---
 
 Los Pozos Termales — the Anton Valley hot springs — sit on the western edge of town and consist of a series of small pools cut into the rock, each at a slightly different temperature. The water is not scalding but warm enough to be comfortable, and the setting in the shadow of the crater wall is pleasant even if the facilities themselves are fairly basic.

@@ -7,6 +7,7 @@ tags:
 latitude: 21.0276
 longitude: 105.8441
 snippet: "Residential alley where a train passes within inches of doorsteps"
+score: 7.2
 ---
 
 On a narrow lane running roughly parallel to and west of Hanoi's central railway station, residents have built their lives around the tracks. The alley is perhaps two meters wide, and the train — a working service, not a tourist attraction — passes twice a day in each direction, its wheels a few centimetres from the facades of houses, cafes, and shops. When a train is due, residents pull in their chairs, fold away their tables, and stand in doorways as carriages grind past at walking pace.

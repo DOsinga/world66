@@ -6,6 +6,7 @@ tags: [things_to_do, museum]
 address: "Dumtsa Jenő utca 12"
 latitude: 47.6675
 longitude: 19.0750
+score: 5.3
 ---
 
 A small museum and shop run by the Szamos confectionery dynasty, devoted entirely to sculpture in marzipan. The displays include miniature biblical scenes, models of the Hungarian Parliament and the Matthias Church, oversized chess sets, and life-sized statues — among them Michael Jackson and an unusually pink figure of Princess Diana — all crafted from almond paste.

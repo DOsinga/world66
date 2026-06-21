@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Parish Cafe
 type: poi
+score: 6.4
 ---
 
 A popular spot on Boylston Street known for its creative sandwiches designed by local celebrity chefs. Good beer selection and a lively atmosphere, especially on the outdoor patio in warm weather.

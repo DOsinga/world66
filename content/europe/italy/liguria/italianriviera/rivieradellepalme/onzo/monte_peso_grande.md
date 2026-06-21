@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.0980
 longitude: 8.0524
+score: 7.8
 ---
 
 Monte Peso Grande (1,092 m) rises directly above Onzo, its wooded southern slope giving way to open meadows near the summit. The walk from the village to the top takes two to three hours and is manageable for anyone in reasonable shape, following tracks through the olive groves and then up through chestnut and oak forest.

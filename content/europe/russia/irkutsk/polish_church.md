@@ -13,6 +13,7 @@ story: >
   gentry, brought Gothic architectural traditions from Poland to the Siberian steppe.
   The building was returned to the Catholic community after Soviet rule ended and
   is now the centre of Irkutsk's small but active Polish diaspora.
+score: 7.4
 ---
 
 This Gothic Revival Catholic church, built in the 1880s, is the most architecturally unusual building in Irkutsk — its pointed arches and brick facade look more like something from Krakow than from Siberia. The church is known locally as the Polish Church because it was financed and built largely by Polish political exiles, followers of the January Uprising of 1863 who were deported to Siberia en masse.

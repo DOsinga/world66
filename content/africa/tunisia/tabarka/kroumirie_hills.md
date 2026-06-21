@@ -8,6 +8,7 @@ tags:
 latitude: 36.92
 longitude: 8.71
 snippet: Dense cork oak and pine forest rising behind Tabarka
+score: 7.8
 ---
 
 The hills directly behind Tabarka are covered with one of the most intact forests in North Africa — a mixture of cork oak, Aleppo pine and eucalyptus that feels genuinely wild. The Kroumirie range is wetter than most of Tunisia, which is why the forest thrives here when the rest of the country becomes scrub.

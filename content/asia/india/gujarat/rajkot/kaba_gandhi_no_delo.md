@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: The house where Mohandas Gandhi spent part of his childhood, now a small museum
+score: 7.8
 ---
 
 The two-storey haveli where Mohandas Karamchand Gandhi lived from the age of seven, after his father moved the family from Porbandar to take up the post of Diwan of Rajkot State. Gandhi attended the Alfred High School a short walk away and was married in this house, at the age of thirteen, to Kasturba. The building is plain rather than grand: a small interior courtyard ringed by simple rooms, with carved wooden balconies overhead.

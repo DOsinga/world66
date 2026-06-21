@@ -8,6 +8,7 @@ tags:
 latitude: 19.0408
 longitude: -98.1964
 snippet: "Antiques and flea market neighbourhood south of the Zócalo, at its best on Sunday mornings"
+score: 7.7
 ---
 
 The antiques and curiosity quarter of Puebla's historic centre, centred on the Plazuela de los Sapos (Frog Square) a few blocks south of the Zócalo. The name comes from the frog carvings that decorate the fountain and benches of the small square. Permanent antique shops line 6 Oriente and the surrounding streets, selling colonial furniture, vintage silver, pre-Columbian reproductions, old ceramics, and general bric-a-brac.

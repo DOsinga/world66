@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - donji_grad
+score: 7.5
 ---
 
 The first of the Lower Town's chain of parks — laid out in the 1870s as part of the Lenuci Horseshoe, a great U-shaped band of green space around the new city — Zrinjevac is the most loved. Plane trees twice as old as the country march down the central avenue, an iron-and-glass music pavilion stands at one end, and an octagonal weather column at the other.

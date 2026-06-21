@@ -8,6 +8,7 @@ latitude: 40.7915
 longitude: 110.3078
 story: >
   Wudangzhao was built from 1749 onward under the patronage of the Qing dynasty, which cultivated Tibetan Buddhism as a tool for maintaining political relationships with Mongolian and Tibetan leaders. The monastery at its peak housed about 1,200 monks; during the Cultural Revolution it was suppressed, and the monk population fell to a handful. Since 1980 it has been an active monastery again. The six main assembly halls are named for successive incarnations of the monastery's founding lama, whose reincarnations were verified by the Qing imperial court through a lottery system using a golden urn.
+score: 9.0
 ---
 
 Wudangzhao Lamasery, about 70 kilometres northeast of central Baotou in a narrow valley flanked by yellow sandstone cliffs, is the largest and best-preserved Tibetan Buddhist monastery in Inner Mongolia. A complex of six major assembly halls and dozens of supporting buildings spreads across the hillside, its whitewashed walls and gilded roofs standing out dramatically against the ochre cliffs behind.

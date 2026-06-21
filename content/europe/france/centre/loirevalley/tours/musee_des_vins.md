@@ -11,6 +11,7 @@ tags:
 - museum
 title: Musée des Vins de Touraine
 type: poi
+score: 6.8
 ---
 
 Installed in the medieval cellars of the abbey of Saint-Julien, this museum explores the wine culture of the Touraine — the region's Chenin Blanc, Cabernet Franc, and sparkling Vouvray. Not the flashiest museum in Tours but a good orientation before heading out to the vineyards.

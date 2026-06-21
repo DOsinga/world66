@@ -6,6 +6,7 @@ tags:
 - getting_around
 title: Car
 type: poi
+score: 5.7
 ---
 
 If your time is limited and you want to explore the islands in depth, renting a car is the best option. Several international and local rental companies operate on both islands. Expect to pay from around 35 USD per day for a small car, with higher rates during peak season and for larger vehicles. Weekly rates start around 225 USD. Check whether CDW (collision damage waiver) is included.

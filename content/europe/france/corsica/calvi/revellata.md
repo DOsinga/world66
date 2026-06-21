@@ -6,6 +6,7 @@ longitude: 8.7264
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 The Revellata peninsula juts west from Calvi, ending in a 19th-century lighthouse on a rocky point. It's a 6 km walk or short drive from town through scrubland that is fragrant with maquis — myrtle, juniper, helichrysum.

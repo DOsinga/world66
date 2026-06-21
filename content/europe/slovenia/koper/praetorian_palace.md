@@ -9,6 +9,7 @@ latitude: 45.5479
 longitude: 13.7296
 story: >
   The Praetorian Palace was built in stages between the 13th and 15th centuries, each renovation adding new Gothic or Renaissance details in the prevailing style of the moment. The result is an architectural layer cake: lower floors are earlier and plainer; the upper arcade, with its lacy Gothic stonework, was added in the 15th century when Koper was at its most prosperous. The carved stone decoration was done by craftsmen brought from Venice.
+score: 8.3
 ---
 
 The Praetorian Palace is the finest building in Koper and one of the best examples of Venetian Gothic civic architecture in Slovenia. It dominates the north side of Titov Trg, its pale stone facade decorated with a long upper loggia of pointed arches and, below, relief carvings of Venetian lions, municipal crests, and busts of past governors. The effect is both authoritative and decorative — civic power displayed in the Venetian manner.

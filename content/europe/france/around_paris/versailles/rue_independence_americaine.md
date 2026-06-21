@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.8028
 longitude: 2.1302
+score: 6.5
 ---
 
 The street name is not decoration: it was on Rue de l'Indépendance-Américaine (then part of the Hôtel de la Guerre) that France signed the Treaty of Paris on 3 September 1783, recognising American independence and ending the American Revolutionary War. The street runs through the town of Versailles, a reminder that the palace complex was not just the setting for French history but for international diplomacy on a global scale.

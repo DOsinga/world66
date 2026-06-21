@@ -6,7 +6,7 @@ longitude: 4.8907
 tags:
 - bars_and_cafes
 - centrum
-- canal_ring
+score: 7.1
 ---
 
 The smallest bar in Amsterdam, tucked away on Rozenboomsteeg just off the Spui. The interior is barely larger than a generous living room — a handful of tables, a tiny bar, and walls covered with antique medical instruments and curiosities. The café was founded in 1798 by a physician, hence the name and the décor.

@@ -5,6 +5,7 @@ tags:
 title: Broadway Market
 type: poi
 url: www.broadwaymarket.com
+score: 6.7
 ---
 
 The internationally recognized **Broadway Market** is located in the old Polish Neighborhood of the east side of Buffalo.

@@ -1,13 +1,20 @@
 ---
-title: Sekondi
-type: location
+done:
+  location_enrich: '2026-06-01'
+image: sekondi.jpg
+image_attribution: thiooof
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Sekondi-Ghana.jpg
 latitude: 4.927456
+loc_type: city
 longitude: -1.749022
 score: 0.34
-loc_type: city
+title: Sekondi
+type: location
 ---
 
-Sekondi is the old colonial city just north of the modern seaport of [Takoradi](/africa/ghana/takoradi). Most people will be staying the but a visit to Sekondi is a must.
+Sekondi is the old colonial half of the twin city of Sekondi-Takoradi, set on a low headland above the Gulf of Guinea about four hours west of Accra. Most visitors stay in modern Takoradi, the working seaport next door, but Sekondi is where the history is — two facing forts, a quarter of crumbling European merchant houses, and a quiet harbour still used by traditional fishing boats.
 
+The main sights are the [Old European Town](/africa/ghana/sekondi/old_european_town) of Dutch and English merchant houses, now in poor repair but still inhabited; [Fort Orange](/africa/ghana/sekondi/fort_orange), the Dutch lighthouse-fort on the headland; and the ruins of [Fort Sekondi](/africa/ghana/sekondi/fort_sekondi) across the bay. On the road in from Takoradi, the [Bisa Aberwa Museum](/africa/ghana/sekondi/bisa_aberwa_museum) is the strongest single introduction to Ghanaian and Pan-African history in the western region.
 
- The main sights are the **Old European Town** where you find houses built by the English and the Dutch. They are in pretty bad shape, today. **Fort Orange** was built by the Dutch in the first half of the 17-th century and captured by the Sahanti in 1694. When they abandoned the fort the English moved in and the fort was turned into a busy trading post. It is now used as a lighthouse and can be visited.
+A morning is enough for the forts and the old town. Combine the visit with [Takoradi](/africa/ghana/takoradi) for lunch and the market.

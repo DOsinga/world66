@@ -9,6 +9,7 @@ tags:
 title: Halifax Historical Museum
 type: poi
 url: https://www.halifaxhistorical.org
+score: 7.5
 ---
 
 This small downtown museum occupies the former Merchants Bank of Daytona, a marble-walled Beaux-Arts building from 1910 with its original vault still in place. The interior is one of the most attractive historic spaces in the city, and the exhibits cover the Halifax River area from Timucua artefacts through the great railroad boom, the speed-record years on the beach, and the early days of NASCAR.

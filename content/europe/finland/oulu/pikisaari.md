@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 65.0102
 longitude: 25.4577
+score: 8.2
 ---
 
 A small island just south of the centre, reached by a short bridge, that escaped the wartime bombing and so contains the oldest surviving wooden houses in Oulu — some from the early 18th century. The island now houses arts and crafts workshops, small galleries, and a couple of pleasant summer cafes.

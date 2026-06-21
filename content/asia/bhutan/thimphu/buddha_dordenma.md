@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Buddha Dordenma
 type: poi
+score: 7.5
 ---
 
 A colossal gilded Buddha statue sitting on a hilltop above Kuensel Phodrang, overlooking the entire Thimphu valley. Built in 2015 in the Shakyamuni Buddha style, it stands 51.5 metres tall on top of a large meditation hall. The surrounding park offers some of the best panoramic views of the city and the surrounding forested ridges. You can enter the base structure and see rows of the smaller bronze Buddhas arranged inside. The walk up from the road takes about 15 minutes through forested grounds.

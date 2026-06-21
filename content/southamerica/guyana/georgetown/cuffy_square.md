@@ -7,6 +7,7 @@ tags:
 latitude: 6.8087
 longitude: -58.1543
 snippet: "Modernist arch on Brickdam marking independence from Britain"
+score: 6.6
 ---
 
 A simple modernist concrete arch on Brickdam, the Independence Arch was erected to mark Guyana's independence from Britain in 1966. The single span has weathered into something quietly dignified, and the surrounding plaza is often used for political rallies and public gatherings.

@@ -10,6 +10,7 @@ longitude: -89.4246
 snippet: "1,200-acre restored landscape of prairies, forests, and wetlands — a pioneer of ecological restoration"
 story: >
   The UW Arboretum pioneered ecological restoration as a science. When it was established in the 1930s, the concept of deliberately restoring degraded landscapes to their original state barely existed. The Curtis Prairie, established in 1934, is the world's oldest restored tallgrass prairie, and many of the techniques developed here have been used in restoration projects worldwide.
+score: 8.5
 ---
 
 The University of Wisconsin Arboretum spreads across 1,200 acres of restored landscape on the south side of Madison, and it is unlike any other city green space in America. Rather than manicured lawns and ornamental plantings, the Arboretum contains restored tallgrass prairies, oak savannas, wetlands, and forest communities — all deliberately reconstructed from degraded farmland beginning in the 1930s.

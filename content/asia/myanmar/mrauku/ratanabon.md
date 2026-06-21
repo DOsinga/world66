@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 20.5988
 longitude: 93.1937
 snippet: "Solid 'pile of jewels' stupa surrounded by eight smaller stupas"
+score: 8.1
 ---
 
 Just north of Shite-thaung, Ratanabon ("pile of jewels") is a solid stone stupa surrounded by eight smaller satellite stupas. It was built in 1612 by Queen Shin Htway, wife of King Min Khamaung, and is unusual in Mrauk-U for being a true stupa rather than a temple — no inner chambers, just a tapering tower in dark stone.

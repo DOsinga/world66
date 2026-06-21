@@ -7,6 +7,7 @@ tags:
   - old_town
 latitude: 39.4710
 longitude: 75.9820
+score: 9.0
 ---
 
 The bazaar streets radiating out from the Id Kah Mosque square are one of the most rewarding shopping areas in Xinjiang. The covered lanes are divided roughly by trade: a coppersmith alley, a knife bazaar, a hat market, a section selling bolts of silk and ikat cloth. Prices are negotiable, and the shopkeepers have been dealing with foreigners since the Silk Road was a going concern.

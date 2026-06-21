@@ -8,6 +8,7 @@ tags:
 - museum
 title: Danube Delta Museum
 type: poi
+score: 8.2
 ---
 
 The Danube Delta Museum — part of the Eco-Tourism Museum Centre — is the essential first stop in Tulcea before you head out onto the water. The ground floor is given over to dioramas of the delta's main habitats: reed beds, willow forests, sand dunes, freshwater lakes. The aquarium downstairs has around 100 species of native fish, including sturgeon and a vast wels catfish.

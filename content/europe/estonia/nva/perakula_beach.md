@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 59.2078
 longitude: 23.6258
+score: 7.0
 ---
 
 Peraküla is a small village beach a few kilometres south of Nõva, with a slightly more developed setup — a seasonal kiosk, a car park, and basic facilities. It is still quiet by any normal measure, but is the social hub of this stretch of coast in summer.

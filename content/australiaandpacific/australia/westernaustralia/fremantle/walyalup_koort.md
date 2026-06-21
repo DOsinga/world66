@@ -7,6 +7,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Walyalup_Koort
+score: 5.6
 ---
 
 Walyalup Koort — the Noongar name meaning "Walyalup heart," renamed in 2021 — is the central civic square of Fremantle, the patch of ground on which St John's Anglican Church and the old Town Hall both stand. The square was redesigned in 2020 with new paving, plantings, and a children's water-play area.

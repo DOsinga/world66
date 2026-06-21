@@ -8,6 +8,7 @@ tags:
 - museum
 title: Allan Gardens Conservatory
 type: poi
+score: 7.5
 ---
 
 Allan Gardens Conservatory is one of Toronto's oldest public parks, with a greenhouse complex that has been here in some form since 1858. The main Palm House, a grand Victorian glass dome built in 1910, is the centrepiece — it contains palms, cycads, and tropical plants that would not survive a Toronto winter outside, maintained at greenhouse temperatures all year. Additional greenhouses hold cacti and succulents, begonias, and seasonal displays.

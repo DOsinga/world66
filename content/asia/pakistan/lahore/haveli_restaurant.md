@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - walled_city
+score: 6.7
 ---
 
 Haveli is the closest competitor to Cuckoo's Den on Fort Road — a multi-storey restaurant in an old courtyard mansion, with the top-floor terrace looking straight onto the Badshahi Mosque. The cooking is solid Punjabi standard fare; the kitchen is at its best with the chicken malai boti and the mutton karahi.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 67.3138
 longitude: 14.4487
+score: 7.1
 ---
 
 Løpsmarka is the quieter alternative to Keiservarden, a forested upland area on the eastern side of the Ronvikfjellet ridge. Where Keiservarden draws large crowds in summer, Løpsmarka rarely gets busy — the trails are less well publicised and the terrain is more varied, mixing birch forest with open moorland and small lakes. The views are comparable on the ridge sections.

@@ -8,6 +8,7 @@ snippet: Where the first transcontinental railroad was completed on 10 May 1869
 latitude: 41.6198
 longitude: -112.5504
 story: "At 12:47 pm on 10 May 1869, Leland Stanford swung a silver-plated maul at a golden spike to mark the completion of the transcontinental railroad — and missed. The telegraph operator wired 'DONE' anyway, and cannons fired in New York and San Francisco."
+score: 8.4
 ---
 
 Golden Spike National Historic Site at Promontory Summit, about 45 minutes northwest of Brigham City, marks the spot where the Central Pacific and Union Pacific railroads met on 10 May 1869, completing the first transcontinental railroad across the United States. It was one of the defining moments of American westward expansion.

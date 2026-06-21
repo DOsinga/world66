@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Byzantine church in Sille, said to have been founded by Constantine's mother"
+score: 7.9
 ---
 
 The Church of Aya Eleni — Hagia Helena — in the centre of Sille is one of the oldest churches in central Anatolia. Tradition holds that it was founded in 327 by Saint Helena, mother of the Emperor Constantine, who is said to have stopped in Sille on her pilgrimage from Constantinople to the Holy Land. The current building is mostly nineteenth-century, but archaeology has confirmed a much older base.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - fishing
 snippet: Some of the best bonefish flats in the Caribbean, on the lee side of the island
+score: 6.8
 ---
 
 The lagoon between South Caicos and East Caicos is one of the great **bonefishing** flats in the Caribbean — wide, shallow turquoise water with hard sand and turtle-grass bottoms, walked by schools of bonefish in numbers that have largely vanished from more developed islands. Permit and small tarpon are also caught here.

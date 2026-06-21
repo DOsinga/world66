@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.6766
 longitude: 8.6150
+score: 8.0
 ---
 
 Laufen Castle sits directly on the clifftop above the Swiss bank of the Rhine Falls, its foundations going back to the 12th century. The combination of medieval fortification and the waterfall crashing below is one of the better natural viewpoints in Switzerland — there is a paid viewing platform cut into the cliff that puts you very close to the water, close enough to feel the spray. The platform descends via a lift carved into the rock face.

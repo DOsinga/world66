@@ -8,6 +8,7 @@ tags:
 snippet: "Battlefield museum where Napoleon met Kutuzov in 1812"
 latitude: 55.5170
 longitude: 35.8230
+score: 8.7
 ---
 
 The State Borodino War and History Museum sits 120 km west of Moscow at the site of the Battle of Borodino, fought on 7 September 1812 between Napoleon's Grande Armee and Kutuzov's Russian forces. Founded in 1839, it is the oldest battlefield museum in the world.

@@ -9,6 +9,7 @@ tags:
   - museum
 title: Latvian Open Air Ethnographic Museum
 type: poi
+score: 8.3
 ---
 
 The Latvian Open Air Ethnographic Museum (Latvijas Etnogrāfiskais brīvdabas muzejs) is one of the oldest and largest open-air museums in Europe, spread across 87 hectares of pine forest on the shore of Lake Jugla, about 9 kilometres from the city centre. Over 100 historic rural buildings — farmsteads, windmills, fishermen's houses, churches, and craft workshops — have been relocated here from across Latvia and reassembled with their original furnishings.

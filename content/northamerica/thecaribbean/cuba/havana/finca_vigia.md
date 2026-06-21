@@ -13,6 +13,7 @@ story: >
   desk, because he wrote standing up — is still set with the papers and pencils
   as though he left for the bar an hour ago and will be back. He left Cuba
   in 1960, never returned, and died by his own hand the following year.
+score: 7.8
 ---
 
 Finca Vigía (Lookout Farm) is the house Ernest Hemingway lived in from 1939 until the revolution — a white Spanish colonial farmhouse on a hill in the San Francisco de Paula municipality, about 15 kilometres southeast of central Havana. He wrote "For Whom the Bell Tolls" and "The Old Man and the Sea" here, kept a boat in the harbour, and raised a menagerie of cats, dogs, and fighting cocks on the property.

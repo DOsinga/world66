@@ -8,6 +8,7 @@ tags:
 latitude: 50.0450
 longitude: 1.3350
 snippet: "The coastal path over chalk cliffs between Mesnil-Val, Criel-sur-Mer, and Le Tréport"
+score: 7.8
 ---
 
 The GR21 long-distance footpath runs the entire length of the Alabaster Coast from Le Havre to Le Tréport. The section through Mesnil-Val, heading north towards Criel-sur-Mer and Le Tréport, is one of the quieter parts of the route: the crowds thin out north of Dieppe, the cliffs are lower than around Étretat, and you can walk for an hour or more in either direction without meeting more than a few other walkers.

@@ -8,6 +8,7 @@ tags:
 latitude: 33.5911
 longitude: -7.6244
 snippet: Former French Gothic-Moorish cathedral, now a cultural centre with remarkable architecture
+score: 7.6
 ---
 
 Built between 1930 and 1952 by French architect Paul Tournon, the Cathedral of the Sacred Heart stands west of the Arab League Park as one of the most architecturally striking colonial buildings in Casablanca. Tournon designed it in a Gothic-Moorish hybrid style that tries to reconcile European cathedral form with North African ornament: buttresses, pointed arches, and a large rose window, combined with Arabesque detail and whitewashed surfaces.

@@ -14,6 +14,7 @@ story: >
   recognisable images of the Pacific War. The Japanese response was to capture
   Liuzhou in 1944 during Operation Ichi-Go, destroying the airfields and forcing
   American forces to retreat.
+score: 7.7
 ---
 
 The Liuzhou Military Museum holds one of the more interesting collections of Second World War aircraft in southern China, with several surviving P-40 Warhawks and other aircraft associated with the American Volunteer Group — the Flying Tigers — who operated from Liuzhou's airfields in the early 1940s. The collection is supplemented by vehicles, weapons, and documents from the various conflicts that have passed through this part of China, including the Sino-Japanese War and the later Sino-Vietnamese conflict.

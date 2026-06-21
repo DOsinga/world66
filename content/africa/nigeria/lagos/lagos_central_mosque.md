@@ -10,6 +10,7 @@ tags:
 - sight
 - architecture
 - lagos_island
+score: 7.2
 ---
 
 The pale green Lagos Central Mosque rises out of the dense market quarter around Idumota on Lagos Island, its eight slim minarets and large central dome dominating the skyline of the south-western corner of the island. The current building dates from the 1980s but replaced an earlier mosque on the same site that went back to 1913. The mosque is open to non-Muslim visitors outside prayer times; modest dress is essential, and shoes come off at the entrance.

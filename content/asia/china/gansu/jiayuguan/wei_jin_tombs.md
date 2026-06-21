@@ -12,6 +12,7 @@ story: >
   repeatedly tried to photograph the low-lit interiors with flash,
   and the forced engagement with the paintings as something to see
   rather than something to record makes the experience more immediate.
+score: 4.4
 ---
 
 The Wei Jin Tombs (魏晋墓) are a group of painted brick burial chambers about 18 kilometres east of Jiayuguan, dating from the Wei and Jin dynasties (3rd to 5th centuries CE). The murals inside depict scenes of daily life from the period with an informality and detail unusual for Chinese tomb art of the era: farmers irrigating fields, hunters pursuing game, a family eating a meal, musicians performing. The images are small and close-up — painted on individual bricks used to build the tomb walls — which gives them an intimate quality very different from the large-scale wall paintings of the Buddhist cave sites.

@@ -5,6 +5,7 @@ snippet: Small hilltop shrine where Husayn's sister Zaynab is said to have watch
 tags: [things_to_do, sight, shrine]
 latitude: 32.6158
 longitude: 44.0311
+score: 6.1
 ---
 
 Tucked behind the Husayn shrine complex, this modest mound and small mosque mark the spot where Zaynab bint Ali — Husayn's sister and one of the heroines of the Karbala story — is said to have stood watching as her brother and his companions were killed. From here she went on to be taken captive to Damascus, where her speeches in the court of the caliph Yazid helped shape the memory of the battle.

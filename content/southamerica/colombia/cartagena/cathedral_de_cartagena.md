@@ -9,6 +9,7 @@ tags:
 title: Catedral de Cartagena
 type: poi
 story: The Metropolitan Cathedral of Cartagena was under construction when Francis Drake attacked the city in 1586 — he destroyed enough of it that rebuilding took another fifty years. The cathedral that stands today dates largely from the 17th century but incorporates fragments of the original 16th-century structure, making it one of the oldest standing churches in South America. García Márquez described the cathedral square in several of his novels, and the building appears (thinly disguised) in Love in the Time of Cholera.
+score: 7.4
 ---
 
 The Cathedral of Cartagena de Indias stands on the north side of Plaza de Bolívar, the central square of the walled city. Officially the Metropolitan Cathedral Basilica of Saint Catherine of Alexandria, it has been the city's main church since the 16th century, though the building has been damaged, rebuilt, and modified many times over.

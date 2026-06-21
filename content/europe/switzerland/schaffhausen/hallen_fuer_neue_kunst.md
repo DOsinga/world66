@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.695
 longitude: 8.636
+score: 4.5
 ---
 
 The Hallen für Neue Kunst was one of the most serious contemporary art spaces in Europe for nearly three decades, housed in the vast floor plates of a former textile factory. The collection focused on work from 1965 onwards and included major pieces by Joseph Beuys, Bruce Nauman, Imi Knoebel, and Richard Long — artists who rarely sold single works but whose room-scale installations required exactly the kind of industrial space the Hallen provided. It closed in 2014 when the foundation could no longer sustain operations.

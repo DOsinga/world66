@@ -11,6 +11,7 @@ story: >
   It took nearly 100 years to build and was inaugurated in 1770 for the wedding
   of the future Louis XVI and Marie Antoinette — completing the palace exactly
   as its dynasty was about to collapse.
+score: 8.7
 ---
 
 The Opéra Royal is one of the finest 18th-century theatres in Europe, tucked into the north wing of the palace and often missed by visitors who don't know it's there. Designed by Ange-Jacques Gabriel and completed in 1770 after decades of planning and delay, it was inaugurated for the wedding celebrations of Louis XVI and Marie Antoinette with a production of Lully's *Persée*.

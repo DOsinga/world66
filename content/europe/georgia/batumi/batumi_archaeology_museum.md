@@ -7,6 +7,7 @@ tags:
 - museum
 title: Batumi Archaeological Museum
 type: poi
+score: 6.9
 ---
 
 The Batumi Archaeological Museum is the smaller and more specialist sibling of the Adjara State Museum, focusing on prehistoric and ancient finds from the Adjara coast and the wider Colchis region. The collection is dense with small things — bronze axes from the Iron Age, terracotta figures, Greco-Roman coins, and a striking case of gold jewellery from Pichvnari.

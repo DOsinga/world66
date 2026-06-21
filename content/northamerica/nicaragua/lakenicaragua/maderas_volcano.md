@@ -6,6 +6,7 @@ longitude: -85.5150
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 Maderas is the older, smaller and friendlier of Ometepe's two volcanoes. At 1,394 metres it is extinct — the last eruption was thousands of years ago — and its slopes are covered in cloud forest that supports howler monkeys, agoutis and a long list of orchids. A crater lake sits in the summit caldera, a steep hike but a memorable goal.

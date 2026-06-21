@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - square
+score: 7.3
 ---
 
 The heart of La Serena, with the cathedral on one side, the municipal building on another, and benches under tall palms in between. A bronze fountain in the centre by Italian-Chilean sculptor Samuel Román anchors the space; locals meet here for ice cream from one of the kiosks that ring the square.

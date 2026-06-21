@@ -8,6 +8,7 @@ latitude: 37.8660
 longitude: -122.2590
 story: >
   On 15 May 1969 — Bloody Thursday — Governor Ronald Reagan sent 2,700 National Guard troops and authorised police to fire shotguns at protesters defending the park. One bystander, James Rector, was killed. The park was placed on the National Register of Historic Places in 2022, and UC Berkeley immediately announced plans to build student housing on it.
+score: 6.6
 ---
 
 People's Park — the 2.8 acres east of Telegraph Avenue bounded by Haste, Bowditch, and Dwight — is one of the most politically loaded pieces of vacant land in American history. In April 1969, student activists claimed the empty lot owned by UC Berkeley and turned it into a community park. Governor Ronald Reagan's response was to fence it off and call in the National Guard. The resulting confrontation killed one person and injured over a hundred.

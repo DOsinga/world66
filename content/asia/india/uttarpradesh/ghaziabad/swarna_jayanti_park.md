@@ -7,6 +7,7 @@ tags:
 latitude: 28.6442
 longitude: 77.3711
 snippet: Large green park in Indirapuram, the city's main public garden
+score: 5.2
 ---
 
 Also known as Indirapuram Park, this is the largest green space in Ghaziabad, spreading over more than 30 acres in the Indirapuram township. Lawns, jogging tracks, an artificial lake with paddle boats, and play areas for children make it a popular family destination at weekends. There is a small musical fountain that runs in the evenings.

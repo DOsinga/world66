@@ -12,6 +12,7 @@ story: >
   The monastery once housed Lebanon's first printing press, brought here by the
   Maronite patriarch in 1610. The Psalter printed here in Syriac and Arabic was
   among the first books ever printed in the Middle East.
+score: 8.8
 ---
 
 The Monastery of Saint Anthony of Qozhaya is one of the great Maronite monasteries of northern Lebanon, carved partly into the rock face of the Qadisha Valley wall, a few kilometres southwest of Ehden. Monks have been living here since at least the fifth century, though the present buildings were rebuilt after Mamluk raids destroyed the original complex. The setting is extraordinary: the monastery clings to a sheer cliff above the valley floor, with views down into the gorge.

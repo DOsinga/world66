@@ -12,6 +12,7 @@ story: >
   snow while the valley floor bakes in the sun below. The peak has been climbed
   since the 1870s; the route most taken today follows the South Fork Trail from
   the Vivian Creek trailhead.
+score: 8.4
 ---
 
 The San Gorgonio Wilderness is a federally designated wilderness area in the San Bernardino National Forest, about 25 miles east of the city. Its 58,969 acres encompass two small lakes, mountain meadows, streams, and over 100 miles of trail. Elevations range from 4,400 feet to 11,499 feet at the summit of Mount San Gorgonio — the highest point in Southern California.

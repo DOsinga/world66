@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 29.1968
 longitude: 25.4727
+score: 7.8
 ---
 
 Fatnas — sometimes spelled Fantasy Island — is a small palm-covered outcrop on Birket Siwa, the largest of the oasis salt lakes. A causeway connects it to the western edge of town. There's a freshwater spring for swimming and a simple cafe with cushions under the palms.

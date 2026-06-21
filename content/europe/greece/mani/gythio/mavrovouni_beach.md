@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.7372
 longitude: 22.5675
+score: 6.8
 ---
 
 The 5-kilometre stretch of sand south of Gythio at Mavrovouni is one of the longest unbroken beaches in the southern Peloponnese, and an internationally protected nesting site for loggerhead sea turtles (Caretta caretta) — between June and October a local volunteer group monitors the nests and runs evening turtle-watching tours.

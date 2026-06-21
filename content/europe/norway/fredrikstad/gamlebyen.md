@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Fredrikstad_Fortress
 story: >
   Gamlebyen was founded in 1567 by King Frederik II of Denmark-Norway, who ordered the entire population of the medieval town of Sarpsborg — burned down by Swedish forces — to move downstream and rebuild within new fortifications. The king gave the town his own name: Fredrikstad, "Fredrik's Town." The fortress was never taken by storm.
+score: 9.3
 ---
 
 Gamlebyen is the best-preserved fortress town in Scandinavia and one of the most intact examples of Baroque military architecture in northern Europe. Enclosed by wide earthen ramparts, a moat, and angular bastions designed according to the latest Dutch engineering principles of the 17th century, it sits on the west bank of the Glomma, looking across to the newer town. The fortifications were built and extended between 1663 and 1779, and the layout you walk today is essentially as it was when garrisons trained on the parade ground and cannons guarded the river approach.

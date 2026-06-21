@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.1
 ---
 
 The largest park in the city, opened in 2011 on the 20th anniversary of Kazakh independence. Wide tree-lined avenues, ornamental fountains, an artificial lake, and a set of monumental sculptures that walk through the official version of Kazakh national history — Saka warriors, the Karakhanid period, the union of the three hordes at Ordabasy, the road to independence.

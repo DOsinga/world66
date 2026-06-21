@@ -1,14 +1,15 @@
 ---
 done:
   poi_cleanup: '2026-04-19'
-latitude: 43.2965
-longitude: 5.3698
+latitude: 43.2977
+longitude: 5.3707
 snippet: Grand 18th-century hospital reborn as a luxury hotel and public space
 tags:
 - things_to_do
 - sight
 title: Hôtel Dieu
 type: poi
+score: 5.8
 ---
 
 Built in the 18th century as Marseille's main hospital, the Hôtel-Dieu occupies a commanding position on the hill above the Vieux-Port. The building is notable for its monumental staircase designed by architect Esprit Brun, a sweeping double-helix that allowed patients and staff to circulate without crossing paths.

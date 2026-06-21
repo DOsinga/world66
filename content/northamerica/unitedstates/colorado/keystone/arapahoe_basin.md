@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Arapahoe_Basin_Ski_Area
 story: >
   A-Basin's base area sits at 10,780 feet — higher than most Colorado resorts' summits — and the top of the Pallavicini lift reaches 13,050 feet. At that altitude, snow preservation is extraordinary: A-Basin regularly skis into June and has stayed open as late as August in exceptional snow years. It holds the Colorado record for latest closing date of any ski area.
+score: 8.6
 ---
 
 Arapahoe Basin, universally known as A-Basin, sits just six kilometres east of Keystone on US Highway 6, near the top of Loveland Pass. It is small by comparison — around 1,400 acres — but punches well above its weight for challenging terrain and high-altitude conditions.

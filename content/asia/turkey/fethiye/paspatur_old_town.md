@@ -8,6 +8,7 @@ tags:
 snippet: Fethiye's atmospheric old quarter of narrow lanes, carpet shops, and tea gardens
 latitude: 36.6215
 longitude: 29.1165
+score: 6.1
 ---
 
 Paspatur is the old bazaar quarter of Fethiye — a tangle of narrow pedestrian lanes lined with carpet shops, antique dealers, jewellers, and tea gardens. It is touristy but not unpleasant, and the buildings have more character than the modern centre. The carpet dealers will invite you in for tea and a sales pitch — accepting the tea does not oblige you to buy, and the experience is part of the fun.

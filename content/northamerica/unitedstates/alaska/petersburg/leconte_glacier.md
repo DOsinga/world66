@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 56.8333
 longitude: -132.3667
+score: 9.0
 ---
 
 LeConte Glacier is the southernmost active tidewater glacier in North America, calving icebergs into LeConte Bay about 35 kilometres northeast of Petersburg. Charter boats from the Petersburg harbour make the trip regularly, threading through icebergs of every size to approach the glacier face — a blue-white wall that groans, cracks, and occasionally thunders as tons of ice crash into the sea.

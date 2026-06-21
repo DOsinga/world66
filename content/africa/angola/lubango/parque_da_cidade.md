@@ -6,6 +6,7 @@ longitude: 13.4890
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 Lubango's central city park is the kind of place that tells you something about a city's self-regard. The Parque da Cidade is well maintained, shaded by jacaranda trees that turn the paths purple when they flower, and genuinely used by local families who come on weekends to walk, sit, and let children run. At 1,700 metres the air is cool enough that a park actually feels inviting rather than exhausting, which is not something you can say about every equatorial city.

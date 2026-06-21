@@ -9,6 +9,7 @@ type: poi
 snippet: "International pilgrimage centre of Sathya Sai Baba, 70km from Anantapur"
 story: >
   At its peak, Prashanti Nilayam received tens of thousands of visitors daily from across the world — among them, at various times, several Indian prime ministers, cricket stars, and international celebrities. Sathya Sai Baba claimed to materialise objects from thin air, a claim accepted literally by millions of devotees and rejected by most scientists. His death in 2011 produced one of the largest gatherings of mourners in Indian history, with estimates of over 500,000 people at his funeral.
+score: 7.4
 ---
 
 Prashanti Nilayam — "Abode of Highest Peace" — is the main ashram of Sathya Sai Baba, the spiritual leader from Puttaparthi who attracted a global following of millions before his death in 2011. The town of Puttaparthi grew up around the ashram from a small village into a substantial pilgrimage centre with its own airport, hospitals, and educational institutions funded by the Sai Baba organisation.

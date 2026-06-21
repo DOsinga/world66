@@ -7,6 +7,7 @@ tags:
   - west_end
 latitude: 55.8728
 longitude: -4.2892
+score: 8.5
 ---
 
 The Hunterian is Scotland's oldest public museum, founded in 1807 on the collections of William Hunter — a Scottish physician who spent his career in London accumulating one of the great private collections of the 18th century. Hunter bequeathed everything to Glasgow University, and the result is an extraordinary miscellany: Roman coins, dinosaur fossils, ethnographic material from Captain Cook's voyages, medical specimens, and the world's second-largest collection of coins and medals.

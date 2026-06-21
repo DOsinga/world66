@@ -9,6 +9,7 @@ latitude: -8.35
 longitude: 157.30
 sources:
   - https://en.wikipedia.org/wiki/New_Georgia_campaign
+score: 9.3
 ---
 
 The waters around New Georgia hold one of the densest concentrations of WWII wreckage in the Pacific. Aircraft, landing barges, and warships went down across the lagoon and surrounding straits during the 1943 campaign, and most have been left where they fell. Coral has colonised the metal over the decades; what were once instruments of war are now extraordinary reef systems.

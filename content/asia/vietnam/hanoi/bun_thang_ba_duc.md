@@ -7,6 +7,7 @@ tags:
 latitude: 21.031
 longitude: 105.851
 snippet: "Specialist in bun thang — Hanoi's delicate noodle soup that tourists often miss"
+score: 7.7
 ---
 
 Bun thang is one of those dishes that Hanoians consider a marker of local identity precisely because it's not well known outside the city. The broth is light and clear, made from chicken and dried shrimp, delicate where pho is assertive. Into it go fine rice vermicelli noodles, shredded chicken, thin-sliced Vietnamese ham, and a web of egg crepe strips cut into threads. On the side comes a small pot of mam tom — fermented shrimp paste, pungent and purple — which you add to taste. The combination is subtle, complex, and completely unlike anything else in Vietnamese cooking.

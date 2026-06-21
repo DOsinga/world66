@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Allan's Water takes its name from Louis James Fraser, the British explorer for whom the hill station is named — though "Allan" likely refers to a later colonial administrator. The reservoir sits in a natural hollow that concentrates moisture and insects, which is precisely what draws the birds. Experienced birders know to be here before dawn.
+score: 7.3
 ---
 
 Allan's Water is a small reservoir on the north side of the Fraser's Hill plateau, and one of the most productive birdwatching sites on the hill. The combination of open water, surrounding montane forest, and the altitude creates a microhabitat that attracts an exceptional variety of species — both the resident highland birds and seasonal migrants moving through the peninsula on their way north or south. Serious birders set up along the water's edge in the early morning, when the light is low and the birds are feeding actively before the heat of the day.

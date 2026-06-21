@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
 snippet: A self-guided walk past the wildly eccentric Victorian buildings of Nottingham's most distinctive architect.
+score: 7.2
 ---
 
 Watson Fothergill (1841–1928) designed about a hundred buildings in Nottingham, almost all of them instantly recognisable: a hyperactive mix of Gothic Revival, Old English and Flemish, with stripey brickwork, half-timbered gables and tile-hung turrets piled on with enormous self-confidence. His own small office on George Street, finished in 1894, is the most concentrated example.

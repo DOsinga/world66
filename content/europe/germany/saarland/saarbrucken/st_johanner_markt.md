@@ -13,6 +13,7 @@ story: >
   said to have conceived of the square, the Ludwigskirche, and the castle as a
   unified ensemble — a miniature Versailles for a minor German prince who
   happened to be very close to France.
+score: 6.8
 ---
 
 The St Johanner Markt is the heart of Saarbrücken — a cobbled baroque square surrounded by low historic buildings that now house cafes, bars, and restaurants. On warm evenings the square fills with people at outdoor tables, and the atmosphere is more French than German: lingering, convivial, and unconcerned with getting anywhere quickly.

@@ -10,6 +10,7 @@ story: >
   Named after Sir M. Visvesvaraya, one of independent India's most celebrated engineers,
   who designed the flood protection system for Hyderabad and the irrigation system for Mysore.
   He became the Diwan of Mysore at 52 and lived to 101, receiving the Bharat Ratna at 99.
+score: 7.2
 ---
 
 The Visvesvaraya Industrial and Technological Museum on Kasturba Road is Bangalore's main science museum, and one of the better ones in India for hands-on exhibits. The galleries cover electronics, biotechnology, aeronautics, space exploration, and the history of Indian engineering, with plenty of working models and interactive displays. The two full-sized steam engines in the courtyard are a good introduction — they look industrial and important, and children tend to be fascinated.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "From the 1980s onwards, ship owners began bribing local officials a few thousand dollars to abandon their decrepit vessels in the bay rather than pay for proper scrapping. By the early 2000s more than three hundred wrecks had accumulated — visible from space, choking the local fisheries, and earning Nouadhibou bay the title of the world's largest ship graveyard."
+score: 8.8
 ---
 
 The shallow waters of Nouadhibou bay are filled with the rusting hulks of abandoned cargo ships, fishing trawlers, and the occasional warship. At low tide many lie partly on their sides on exposed sandbanks; at high tide only the superstructure shows. The effect — dozens of corroded vessels stretching to the horizon — is genuinely surreal.

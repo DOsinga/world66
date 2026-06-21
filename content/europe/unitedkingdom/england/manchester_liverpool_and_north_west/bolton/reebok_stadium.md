@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - sport
+score: 5.6
 ---
 
 Bolton Wanderers Football Club was founded in 1874 and spent most of its early history at Burnden Park, a ground that became famous for a crush in 1946 in which 33 spectators died — a disaster that led directly to the first major report on football ground safety in England. In 1997 the club moved to its current stadium in Horwich, a purpose-built arena on the edge of the West Pennine Moors that was originally known as the Reebok Stadium after its sponsor. The ground holds around 28,000 spectators.

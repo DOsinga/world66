@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - downtown
   - sport
+score: 6.9
 ---
 
 FedExForum, the 18,000-seat arena on Beale Street, is home to the Memphis Grizzlies NBA basketball team. The Grizzlies relocated from Vancouver in 2001 and spent their early years struggling, but the team built a passionate local following during the early 2010s when the "Grit and Grind" era teams — built around Zach Randolph, Marc Gasol, Mike Conley, and Tony Allen — made deep playoff runs with a physical, defensive style that matched the city's character. That identity stuck.

@@ -9,6 +9,7 @@ longitude: -2.2
 story: "The Alderney Railway was originally built in 1847 to carry stone from Mannez Quarry to Braye Harbour during the construction of the breakwater. It is one of the oldest functioning railways in the British Isles, and it runs with vintage rolling stock driven by volunteers every Sunday and on Bank Holidays during summer."
 sources:
   - https://en.wikipedia.org/wiki/Alderney_Railway
+score: 7.4
 ---
 
 The Alderney Railway is the only working railway in the Channel Islands, running 3 km along the island's north coast from Braye Road station near the harbour to Mannez Quarry at the island's eastern end. The route takes you past the wildlife-rich Longis Bay, through open countryside, and out to the quarry and the lighthouse headland — a journey that takes about 15 minutes.

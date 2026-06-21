@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Biete_Meskel
 story: >
   Biete Meskel is so small — little more than a chapel — that it is sometimes overlooked by visitors moving between the larger northern churches. But the cross carved in relief above its door is one of the most elegant pieces of stone carving in the entire complex, and the interior, though barely large enough for ten worshippers, preserves early painted saints in a remarkably good state.
+score: 6.8
 ---
 
 Biete Meskel — the House of the Cross — is the smallest of the eleven Lalibela churches, a petite cave chapel carved into the rock adjacent to Biete Maryam in the northern group. It shares a courtyard with its larger neighbours and is easily missed amid the grander structures around it, but it rewards a closer look: the carved relief decoration above the doorway and along the facade is delicate and precise, showing a refinement that suggests it was a prestige project despite its small scale.

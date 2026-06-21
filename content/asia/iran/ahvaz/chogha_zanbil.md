@@ -9,6 +9,7 @@ latitude: 32.0099
 longitude: 48.5241
 story: >
   Chogha Zanbil was built around 1250 BC by the Elamite king Untash-Napirisha as a sacred city devoted to the god Inshushinak. It was never finished — the king died before completion and the city was largely abandoned. When archaeologists began excavating in the 1930s, they found the ziggurat essentially as it had been left three thousand years earlier, its mud-brick courses still standing to nearly 25 metres.
+score: 9.2
 ---
 
 Chogha Zanbil is one of the best-preserved ziggurats in the world and a UNESCO World Heritage site — a massive stepped mud-brick temple complex built by the ancient Elamite civilization around 3,250 years ago. It stands about 80 km north of Ahvaz in flat desert, visible from a considerable distance, its tiered mass rising improbably from the featureless plain.

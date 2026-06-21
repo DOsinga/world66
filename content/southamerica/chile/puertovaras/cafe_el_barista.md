@@ -7,6 +7,7 @@ tags:
 snippet: "Specialty coffee and German-style kuchen on the plaza"
 latitude: 41.32070
 longitude: -72.98570
+score: 5.0
 ---
 
 El Barista is the best place in Puerto Varas for a serious cup of coffee. Specialty beans, a proper espresso machine, and a small case of German-style cakes — Schwarzwälder Kirsch, apple strudel, the local berry kuchens — make it the obvious morning stop before heading out for the day.

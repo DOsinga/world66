@@ -8,6 +8,7 @@ latitude: 38.4200
 longitude: 75.0400
 story: >
   The Kyrgyz communities of the Pamirs have herded at this altitude for centuries. Their yurts — the circular felt-covered dwellings that can be assembled and disassembled in under an hour — are not tourist constructions but the actual homes of families who move with their flocks between summer pastures. Staying in one means eating with the family: bread, tea with salt and butter, yoghurt, and occasionally mutton.
+score: 8.7
 ---
 
 The southern shore of Karakul Lake is where Kyrgyz families set up their yurts during the summer grazing season, and staying in one is the best way to experience the lake rather than simply view it. The accommodation is simple — sleeping mats and blankets on the floor of a felt-walled tent at 3,600 metres — but the experience of waking at dawn in that setting, with the peaks reflected in still water and horses grazing on the shore, is not easily replicated.

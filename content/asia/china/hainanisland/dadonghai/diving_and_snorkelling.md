@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sport
   - diving
+score: 6.6
 ---
 
 The coral off Dadonghai is patchy but real, and visibility runs to ten metres or better outside the summer rainy months. Several PADI-affiliated dive shops on the streets behind the beach run introductory dives, certification courses, and day boats out to Wuzhizhou Island where the diving is significantly better.

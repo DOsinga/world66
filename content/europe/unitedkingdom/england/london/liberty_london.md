@@ -9,6 +9,7 @@ tags:
 title: Liberty London
 type: poi
 url: www.libertylondon.com
+score: 7.4
 ---
 
 Liberty is the most beautiful department store in London — a Tudor Revival building constructed in 1924 using timber from two Royal Navy ships, its dark wood interior divided into labyrinthine floors of fabric, fashion, beauty, and homewares. The building is as much the attraction as the merchandise.

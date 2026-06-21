@@ -8,6 +8,7 @@ tags:
   - sight
   - winery
 story: "The Rhine House — the gabled 1884 mansion now used as Beringer's premium tasting room — was the home of Frederick Beringer, who modelled it after his family's house in the village of Mainz, Germany, and shipped most of the stained-glass windows across the Atlantic."
+score: 8.8
 ---
 
 The oldest continuously operating winery in Napa Valley, founded in 1876 by the Prussian-born Beringer brothers and never closed — even through Prohibition, when it produced sacramental wines for the Catholic Church. The estate runs along the west side of Highway 29 just north of town and consists of the 1876 stone Old Winery, the spectacular 1884 Rhine House mansion, and the original limestone caves dug into the hillside by Chinese labour.

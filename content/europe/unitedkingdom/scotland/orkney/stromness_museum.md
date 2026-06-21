@@ -7,6 +7,7 @@ tags:
 latitude: 58.9576
 longitude: -3.2988
 snippet: "Idiosyncratic maritime and natural history museum"
+score: 7.3
 ---
 
 A delightfully old-fashioned museum on Alfred Street, the Stromness Museum was founded in 1837 and has barely changed its character since. Cases of stuffed birds, ship models, fossils, Inuit artefacts brought back by Hudson's Bay men, John Rae's Arctic exploration material, and exhibits on Stromness's whaling and wartime history fill two crowded floors.

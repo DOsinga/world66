@@ -9,6 +9,7 @@ tags:
 title: La Feltrinelli
 type: poi
 url: www.lafeltrinelli.it
+score: 5.5
 ---
 
 Three floors of books and music in the Chiaia neighbourhood. Strong selection of Italian and foreign literature, guidebooks, and music CDs. Regular discounts of up to 50%. Ticket agency on site for concerts and shows.

@@ -4,8 +4,12 @@ latitude: 10.671517
 longitude: 122.956728
 phone: '034-4336562'
 snippet: Quiet neighbourhood café near St. John's Institute with good coffee
+tags:
+  - bars_and_cafes
+  - bar
 title: 'Kuppa Coffee & Tea'
 type: poi
+score: 5.5
 ---
 
 A small, relaxed café on Hilado Street, close to St. John's Institute. Kuppa keeps things simple — well-made coffee, a selection of teas, and a calm atmosphere that makes it a good spot to sit and work or catch up with someone.

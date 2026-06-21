@@ -10,6 +10,7 @@ tags:
 - sight
 - vieille_ville
 neighbourhood: Vieil Antibes
+score: 6.9
 ---
 
 The harbour wraps around the eastern flank of the old town and is one of the largest yacht ports in Europe. The outer quay — Quai des Milliardaires — is permanently occupied by superyachts, and walking past their bows is a strange piece of Côte d'Azur theatre in its own right. The smaller berths closer to the old walls hold working fishing boats and pleasure craft.

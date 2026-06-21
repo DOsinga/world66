@@ -9,6 +9,7 @@ tags:
 - sight
 title: Agami
 type: poi
+score: 5.6
 ---
 
 A popular beach resort west of Alexandria, favored by Alexandrians looking for cleaner sand and a quieter stretch of coast than the city beaches.

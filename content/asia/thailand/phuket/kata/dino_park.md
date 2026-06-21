@@ -6,6 +6,7 @@ longitude: 98.3000
 tags:
   - things_to_do
   - sight
+score: 4.9
 ---
 
 An 18-hole mini-golf course built around concrete dinosaurs, smoke-machine volcanoes, and an artificial lagoon, on the main road between Kata and Karon. It is exactly as silly as it sounds and a long-standing favourite with families and people with kids in tow.

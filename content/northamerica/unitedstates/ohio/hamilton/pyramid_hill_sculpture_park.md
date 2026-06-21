@@ -9,6 +9,7 @@ latitude: 39.3652
 longitude: -84.5777
 story: >
   The park takes its name from a pyramidal hill on the property — not a man-made mound but a natural glacial landform. The Ancient Sculpture Museum inside houses authentic Greek, Roman, and Egyptian artifacts dating back 2,000 years, a remarkable thing to find in a small Ohio city.
+score: 8.9
 ---
 
 Pyramid Hill is the reason to visit Hamilton. This 265-acre outdoor sculpture park spreads across rolling glacially-shaped hills, with monumental works — many of them large enough to walk through or around — placed across meadows and wooded paths. You can drive a loop road through the park or walk the trails; either way you'll encounter unexpected works at every turn.

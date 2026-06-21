@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.2
 ---
 
 The town beach runs alongside the main street, separated from it by a low stone wall and a strip of lawn. The sand is pale, the water is Bass Strait cold for most of the year, and the wave action is modest — it's a strolling, paddling, and crabbing beach rather than a swimming one.

@@ -16,6 +16,7 @@ story: >
   number rises to 124 at high water when one submerged platform peeks above the surface.
   The mushroom shape of the larger islands is carved by wave erosion over millennia, undercutting
   soft limestone until only a narrow base supports a lush green crown of vegetation.
+score: 9.0
 ---
 
 The Hundred Islands National Park is the entire reason most travellers come to Alaminos. Spread across the Lingayen Gulf, the 1,843-hectare park contains 123 islands and islets at low tide — limestone formations carved into mushroom shapes by millennia of wave erosion, each crowned with dense scrub and fringed with coral reefs. The Philippines established it as a protected area in 1940, making it one of the country's first national parks.

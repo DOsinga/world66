@@ -7,6 +7,7 @@ tags:
 snippet: "Memorial pavilion to King Taksin in the shape of a knight's helmet"
 latitude: 12.6210
 longitude: 102.1100
+score: 6.7
 ---
 
 The Taksin Shrine is a striking nine-sided pavilion on the north edge of town, built in the shape of a helmet from a medieval Thai warrior's armour. Inside, an over-life-sized bronze statue of King Taksin sits enthroned, surrounded by smaller statues of his four generals — Chao Phraya Chakri (who would later become Rama I and found the Chakri dynasty), Chao Phraya Phichai, and two others.

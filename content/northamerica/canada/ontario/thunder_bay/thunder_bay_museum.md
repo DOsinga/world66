@@ -7,6 +7,7 @@ tags:
 latitude: 48.3825
 longitude: -89.2444
 snippet: "Regional history museum in the old 1912 court house"
+score: 7.4
 ---
 
 The Thunder Bay Museum occupies the handsome 1912 former court house on Donald Street and tells the story of the region — Anishinaabe history, the fur trade, the railway era, the grain boom, and the merger of Fort William and Port Arthur. The collection includes Indigenous artefacts, fur trade material, and a remarkable archive of historic photographs.

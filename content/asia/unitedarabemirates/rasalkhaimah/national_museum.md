@@ -12,6 +12,7 @@ story: >
   bin Mohammad moved out. The original wooden door, the wind tower, and the
   carved gypsum panels in the upper rooms are still in place — you are
   walking through a working royal household, not a reconstruction.
+score: 7.1
 ---
 
 The National Museum sits in the old fort just south of the creek and occupies the rambling courtyard residence that until the 1960s belonged to the ruling family. The collection is modest but the building itself is the main attraction: thick coral-and-shell walls, a wind tower, traditional barasti palm-frond ceilings, and the family quarters opening onto the central courtyard.

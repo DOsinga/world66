@@ -10,6 +10,7 @@ tags:
 - park
 title: Cabrits National Park
 type: poi
+score: 8.2
 ---
 
 Cabrits National Park occupies the volcanic peninsula immediately north of Portsmouth. The headland rises steeply from the sea and is flanked by two beaches — Douglas Bay on the north side and Prince Rupert Bay to the south — giving it the character of an island just barely attached to the main coast. The park protects a substantial area of forest, and the snorkelling in Douglas Bay is excellent, with coral and reef fish accessible from shore.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 36.6280
 longitude: 101.7800
+score: 5.8
 ---
 
 Qingke (青稞) — hulled barley grown on the Tibetan plateau — has been fermented into beer and chang (a traditional Tibetan barley wine) for thousands of years. In recent years several Xining craft breweries have started making modern beer using qingke as the primary grain, producing a distinctive cereal-flavoured beer that is notably different from standard Chinese lager.

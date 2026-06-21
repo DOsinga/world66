@@ -8,6 +8,7 @@ tags:
 - temple
 - sight
 story: Kyichu Lhakhang is said to have been founded in 659 by the Tibetan king Songtsen Gampo as one of 108 temples built in a single night to pin down a giant supine demoness whose body covered the Himalayas. Kyichu, with its sister temple Jampa Lhakhang in Bumthang, is said to have pinned the demoness's left foot and left knee respectively.
+score: 9.7
 ---
 
 One of the oldest temples in Bhutan, traditionally dated to the 7th century and continuously expanded since. The original chapel houses a 7th-century statue of Jowo Sakyamuni — the historical Buddha as an eight-year-old prince — modelled on the famous Jowo in Lhasa. A second chapel built in 1968 by the Queen Mother contains a striking image of Guru Rinpoche. Look for the orange tree in the courtyard which, by long tradition, bears fruit year-round.

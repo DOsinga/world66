@@ -6,6 +6,7 @@ tags:
 title: Jims Steakout
 type: poi
 url: www.jimssteakout.com
+score: 5.2
 ---
 
 Jims Steakout has become a sort of tradition for those that are looking for food after visiting the bars and nightclubs on Friday and Saturday nights.

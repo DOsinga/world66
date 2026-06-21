@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.0402
 longitude: 22.1146
+score: 7.1
 ---
 
 The History and Folklore Museum occupies a 19th-century building in the old town and covers the more recent layers of Kalamata's past: the Ottoman period, the Greek War of Independence, and the agricultural and commercial life of Messenia through the 19th and 20th centuries.

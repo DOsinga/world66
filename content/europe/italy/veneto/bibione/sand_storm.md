@@ -7,6 +7,7 @@ tags:
   - festival
 latitude: 45.6335
 longitude: 13.0600
+score: 5.9
 ---
 
 Every June, the wide flat sands at Piazzale Zenith host the Bibione Sand Storm — a weekend of motorbike, quad and side-car races on a banked track laid out directly on the beach. The event draws thousands of spectators and is one of the bigger off-season draws for the resort.

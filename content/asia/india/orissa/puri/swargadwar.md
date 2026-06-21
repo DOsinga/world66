@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 19.795
 longitude: 85.827
+score: 6.8
 ---
 
 *Swargadwar* means Gate of Heaven, and the name is taken literally. This cremation ground on Puri beach is one of the most sacred places in Hinduism to die and be cremated — the belief being that a soul released here goes directly to moksha, liberation from the cycle of rebirth, without the usual accumulation of karma required. Hindus travel from across India to bring their dead here: the elderly who have lived good lives and wish to end them in Puri, and those who have died elsewhere and whose families have made the journey to ensure their cremation on this particular stretch of sand. The fires burn continuously, day and night.

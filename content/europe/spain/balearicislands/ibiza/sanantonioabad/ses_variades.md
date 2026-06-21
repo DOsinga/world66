@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 38.9841
 longitude: 1.3025
+score: 6.1
 ---
 
 The local market at the foot of the church in San Antonio's main square runs on weekend mornings and is one of the few places in town that reflects the island's slower, older self. Local producers sell vegetables, cheeses, preserves, and handicrafts; the pace is unhurried and the prices are reasonable by Ibiza standards.

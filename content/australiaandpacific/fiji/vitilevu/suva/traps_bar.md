@@ -8,6 +8,7 @@ tags:
   - bar
   - suva_central
 neighbourhood: Suva Central
+score: 5.7
 ---
 
 A long-running rough-and-friendly bar on MacArthur Street, the closest Suva has to a proper pub. Live music several nights a week, a decent pool table, a battered courtyard out the back, and an unusually mixed crowd of expats, university students, and off-duty locals.

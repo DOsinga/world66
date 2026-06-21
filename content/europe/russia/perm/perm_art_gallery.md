@@ -14,6 +14,7 @@ story: >
   of ecclesiastical space and museum lighting. There are occasional protests
   from the Orthodox church about returning the building, which adds an
   ongoing political dimension to a visit.
+score: 8.5
 ---
 
 The Perm State Art Gallery holds one of Russia's finest collections of Perm wooden sculpture — a distinctive regional tradition of carving religious figures from local timber that flourished from the 17th to 19th centuries. The pieces are strange and powerful: Christ figures with pronounced Slavic features, angels with elaborate carved wings, village saints with expressions somewhere between serenity and suffering. The style is recognisably Russian but distinct from the painted icons of central Russia.

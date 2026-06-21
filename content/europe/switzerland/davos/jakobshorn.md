@@ -8,6 +8,7 @@ latitude: 46.7724
 longitude: 9.8493
 story: >
   Jakobshorn became a snowboarder's mountain in the 1990s when Davos embraced snowboarding earlier than most Swiss resorts. The Transworld Snowboarding Riders Poll consistently ranked it among the world's top snowboarding destinations. In summer, the mountain becomes one of the Alps' prime paragliding and mountain biking venues.
+score: 7.8
 ---
 
 Jakobshorn (2,590 m) rises directly above the Davos Platz side of town and is the snowboarder's mountain — with terrain parks, half-pipes, and free-ride zones that attract a younger, more energetic crowd than the stately Parsenn opposite. For skiers, the pistes are steeper and more technical than the gentle Parsenn cruisers. Night skiing runs here on certain evenings in winter.

@@ -8,6 +8,7 @@ tags:
 - georgian_quarter
 title: Hope Street
 type: poi
+score: 8.4
 ---
 
 The grand Georgian artery connecting the two cathedrals — the Anglican at the south end and the Metropolitan at the north — through the heart of Liverpool's Georgian Quarter. It is one of the finest streetscapes in the city, lined with red-brick townhouses, the Philharmonic Hall, the Everyman Theatre and the Liverpool Institute for Performing Arts (founded by Paul McCartney in his old school).

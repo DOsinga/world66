@@ -7,6 +7,7 @@ snippet: Hillside nature park just outside the southern walls
 tags:
 - things_to_do
 - park
+score: 7.0
 ---
 
 Parco Villa Ghigi spreads over the hills immediately south of the historic centre, on the slopes around the old country estate of the Ghigi family. The 28-hectare park is half wood, half open meadow, with footpaths winding past olive groves, vineyards, the kitchen garden of the old villa, and several viewpoints back over the city.

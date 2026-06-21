@@ -7,6 +7,7 @@ tags:
 latitude: 53.8996
 longitude: 27.5516
 snippet: Traditional Belarusian cuisine in a warm, decorated setting near the city centre
+score: 5.4
 ---
 
 Vasilki — "Cornflowers" — is one of Minsk's best-regarded restaurants for traditional Belarusian food, the kind of cooking that uses potatoes in fourteen different ways and pairs them with smoked meats, pickled vegetables, and dense dark rye bread. The interior is decorated in Belarusian folk style, which in lesser hands can feel kitschy but here is done with enough restraint to feel warm rather than theme-parky.

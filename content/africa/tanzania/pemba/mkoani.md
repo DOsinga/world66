@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: -5.3672
 longitude: 39.6536
+score: 4.6
 ---
 
 The third of Pemba's towns sits on the deep-water harbour at the island's southwestern tip and exists, almost entirely, because of the harbour. The Azam Marine ferry from Stone Town docks here daily, and most of the island's diesel, cement, and consumer goods come in through Mkoani's quay.

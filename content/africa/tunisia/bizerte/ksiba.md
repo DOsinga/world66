@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 37.2766
 longitude: 9.8744
+score: 6.8
 ---
 
 The Ksiba ("small fort" in Arabic) is the more modest fort guarding the southern side of the old port, opposite the much larger Kasbah. Originally a fifteenth-century watchtower extended by the Ottomans and again by the Husseinids, it is the smaller of the two harbour forts and considerably easier to walk around in half an hour.

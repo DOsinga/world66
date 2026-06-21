@@ -1,5 +1,0 @@
-northamerica/unitedstates/california/santa_rosa
-northamerica/unitedstates/ohio/coshocton
-africa/tanzania/iringa
-australiaandpacific/tonga/tongatapu/nukualofa
-europe/luxembourg/beaufort

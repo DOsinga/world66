@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.4720
 longitude: 75.9950
+score: 7.6
 ---
 
 The Kashgar Regional Museum (also called the Kashgar City Museum) gives a solid background on the Silk Road history of the southern Xinjiang basin. The collection includes coins, textiles, ceramics, and manuscript fragments excavated from sites in the Tarim Basin, along with displays on the natural history of the desert and oasis environment. The quality of the archaeological finds is genuinely impressive — the dry desert conditions have preserved organic materials that would not have survived elsewhere.

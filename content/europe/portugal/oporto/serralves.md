@@ -10,6 +10,7 @@ tags:
 - museum
 title: Serralves
 type: poi
+score: 8.8
 ---
 
 Álvaro Siza's low white museum in a green park — eighteen hectares of gardens, groves, and meadow, with the pink art deco Casa de Serralves at their heart. The contemporary collection is good; the grounds might be better. Allow half a day.

@@ -7,6 +7,7 @@ tags:
   - old_town_quarter
 latitude: 40.8000
 longitude: 111.6440
+score: 6.2
 ---
 
 The market streets around Dazhao Temple are the most accessible place to buy Mongolian crafts and cashmere in Hohhot. Shops along the main temple approach and the surrounding lanes sell cashmere scarves, sweaters, and blankets alongside Mongolian silver jewellery, saddle ornaments, felt hats, carved horse-head fiddles, and the small painted wooden boxes used for storing snuff. Quality varies significantly; the better shops are identifiable by the thickness of the cashmere (hold it up to the light — tightly-knit single-ply cashmere should be opaque) and the weight of the silver (heavier is better).

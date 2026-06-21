@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 8.4
 ---
 
 A small cove north-west of San Juan Bautista, Puerto Ingles is one of the only places on the island with anything resembling a beach. The water is cold but clear and the cove is protected from the worst of the swell. A short cave at the back of the beach is, according to local lore, where pirates once buried treasure.

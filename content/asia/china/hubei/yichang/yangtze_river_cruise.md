@@ -14,6 +14,7 @@ story: >
   The coffins were placed there sometime between 2,000 and 2,500 years ago by
   a method that remains unknown: the cliff faces offer no apparent route up or
   down.
+score: 9.0
 ---
 
 The Yangtze River cruise from Yichang to Chongqing — or the reverse — is one of the classic journeys in China, and Yichang is the natural starting point heading upstream. The three gorges themselves (Qutang, Wu, and Xiling) remain dramatic: sheer limestone walls rising 1,000 metres from the water, narrow channels, sudden weather changes, and the boat traffic that has moved through here for millennia. The gorges are shorter now — the dam raised water levels significantly — but the surviving walls of Wu Gorge in particular are still among the most impressive river scenery in the world.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Mekong Riverside
 type: poi
+score: 7.7
 ---
 
 The Chao Anouvong Park and riverside promenade run for around two kilometres along the Mekong embankment, from roughly the centre of town to the Chao Anouvong statue at the south. Until 2010 this was a muddy strip; the current paved promenade is a Korean-funded project that gave Vientiane its most popular evening gathering place.

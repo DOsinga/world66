@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -33.02
 longitude: -71.5643
+score: 6.2
 ---
 
 The Palace of Cerro Castillo is the official summer residence of the President of Chile, a grand early-twentieth-century mansion set on a hill above the city with views over the sea. The building is not usually open to the public, but its pale facade and towers are visible from the streets below and from the coastal promenade, and the surrounding park and hillside give the neighbourhood a distinctly elevated, residential character.

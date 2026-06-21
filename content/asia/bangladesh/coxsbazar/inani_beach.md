@@ -11,6 +11,7 @@ story: >
   The dark colour of Inani's sand comes from heavy mineral deposits — ilmenite and rutile — washed down from the hill ranges of the Chittagong Hill Tracts. The same geology produces the scattered coral boulders that give the beach its distinctive character, a landscape that looks nothing like the main Cox's Bazar town beach 35 kilometres to the north.
 title: Inani Beach
 type: poi
+score: 4.5
 ---
 
 Inani beach, also called Enani, is 35 kilometres south of Cox's Bazar town along the coastal road. The sand here is darker than the main beach, mixed with coral and rock boulders that emerge from the shallows at low tide. The landscape is striking — green hills pressing close to the shore, scattered rock formations, clear water — and the crowd is a fraction of what you find in town.

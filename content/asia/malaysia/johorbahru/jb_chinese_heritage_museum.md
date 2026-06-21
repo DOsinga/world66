@@ -6,6 +6,7 @@ tags:
 - museum
 title: Johor Bahru Chinese Heritage Museum
 type: poi
+score: 7.2
 ---
 
 The museum occupies a beautifully restored shophouse on Jalan Ibrahim, a short walk from the Old Chinese Temple. It traces the history of the Chinese community in Johor from the earliest settlers — who arrived in the mid-19th century to work tin mines and later rubber plantations — through to the present. The collection is modest in size: photographs, documents, household objects, and business records that together build a coherent picture of how the city came to be the way it is.

@@ -6,6 +6,7 @@ longitude: -0.7725
 tags:
   - things_to_do
   - neighbourhood
+score: 7.6
 ---
 
 The medieval core of Laval climbs the hill from the Mayenne up to the cathedral and the château. Narrow lanes — the Grande Rue, the rue des Orfèvres, the Place de Hardes — are lined with half-timbered houses, some dating to the 15th century. There are antiques shops, a couple of bookshops, and small bars tucked into the ground floors.

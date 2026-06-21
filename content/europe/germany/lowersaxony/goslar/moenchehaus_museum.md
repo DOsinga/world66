@@ -8,6 +8,7 @@ tags:
 - museum
 title: Mönchehaus Museum
 type: poi
+score: 6.8
 ---
 
 A 1528 half-timbered house tucked into the quiet lanes north of the market square, now home to Goslar's surprising museum of modern and contemporary art. The collection grew up around the Kaiserring, an art prize awarded by the town since 1975, and the catalogue of past winners is more or less a register of the postwar art establishment.

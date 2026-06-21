@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.0649
 longitude: -80.7218
+score: 8.0
 ---
 
 Opened in 1928, the Capitol Theatre is the largest theater in West Virginia, with 2,500 seats arranged in a single grand auditorium. The interior is an opulent example of 1920s movie palace design — ornate plasterwork, a soaring ceiling, and a stage large enough for full theatrical productions. It hosted the original WWVA Jamboree in 1933, a country music radio broadcast that helped launch several careers and continued in various forms for decades.

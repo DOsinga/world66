@@ -12,6 +12,7 @@ tags:
 - sight
 title: Auditoire Calvin
 type: poi
+score: 7.3
 ---
 
 Auditoire Calvin was first a chapel in the 5th century, and then a parish seat in the 13th century. It also lodged John Knox in 1555. He, along with Thomas Bodley (future founder of the library of Oxford) and Miles Coverdale, collaborated on the first English Bible for household use which came to be called the 'Geneva Bible'.

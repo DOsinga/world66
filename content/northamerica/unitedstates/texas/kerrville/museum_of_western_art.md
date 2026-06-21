@@ -10,6 +10,7 @@ longitude: -99.1371
 snippet: A serious collection of American West paintings and sculptures
 story: >
   The museum was founded in 1983 by a group of collectors and artists who felt that Western art — long dismissed by East Coast critics as illustration rather than fine art — deserved a dedicated home and serious scholarly attention. It was one of the first institutions to treat the tradition of Frederic Remington and Charles Russell as a distinct American art movement worthy of academic study, at a time when that argument still needed making.
+score: 7.6
 ---
 
 The Museum of Western Art holds a focused, high-quality collection of paintings and sculptures depicting the American West — cowboys, Native Americans, landscapes, working ranches, and the mythology of the frontier. The tradition it celebrates runs from Frederic Remington and Charles Russell through to contemporary artists working in the same vein, and the collection makes a genuine case that this is a coherent and serious artistic tradition rather than mere nostalgia.

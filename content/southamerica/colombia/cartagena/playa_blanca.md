@@ -7,6 +7,7 @@ tags:
 - beach
 title: Playa Blanca
 type: poi
+score: 6.5
 ---
 
 Playa Blanca on Isla Barú is, by a clear margin, the best beach within easy reach of Cartagena — white sand, clear turquoise water, and fringing palms of the type that most people imagine when they think of a Caribbean beach. It is reachable by boat from the Muelle Turistico (usually combined with an Islas del Rosario day trip) or by road via the bridge to Isla Barú.

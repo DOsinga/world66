@@ -14,6 +14,7 @@ story: >
   is a persistent legend that he thought he was buying the more dramatic Tower Bridge
   next door — but McCulloch denied this and the record suggests he knew exactly what
   he was buying. He wanted a tourist attraction. It worked.
+score: 7.8
 ---
 
 The London Bridge in Lake Havasu City is not a replica — it is the original 1831 granite bridge that once spanned the Thames in central London. When London replaced it in the 1960s, the city auctioned off the stones and Robert McCulloch bought them for $2.46 million. Each of the 10,246 granite blocks was numbered, dismantled, shipped to the United States, and reassembled in the Arizona desert. The project took three years and cost nearly four times the purchase price.

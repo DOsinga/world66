@@ -14,6 +14,7 @@ story: >
   own portraits of American presidents and founding fathers. It later became Baltimore's
   first city hall, then various public buildings, before reopening as a community museum
   in 2022 after a five-year renovation.
+score: 7.2
 ---
 
 The Peale is a neoclassical building from 1814 that holds the distinction of being the oldest purpose-built museum in the United States. After a comprehensive renovation completed in 2022, it reopened as a community museum focused on Baltimore history and local stories, with a particular emphasis on underrepresented communities and Baltimore's working-class history.

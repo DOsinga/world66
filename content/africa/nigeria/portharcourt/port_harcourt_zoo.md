@@ -15,6 +15,7 @@ story: >
   of chimpanzees rescued from bushmeat traders — the zoo works with conservation
   groups to rehabilitate animals that have been seized from illegal wildlife
   markets across the Niger Delta.
+score: 5.3
 ---
 
 Port Harcourt Zoo, known locally as PH Zoo, is a state-run zoological park that sits in the Rumuola area of the city. The grounds are spacious by West African standards, with enclosures for primates, big cats, crocodiles, and various bird species native to the Niger Delta region. It is one of the few places in Rivers State where you can see forest wildlife up close without venturing into the delta.

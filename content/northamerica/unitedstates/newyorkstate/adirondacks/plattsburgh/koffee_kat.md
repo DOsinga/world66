@@ -11,6 +11,7 @@ tags:
   - eating_out
   - bars_and_cafes
 snippet: "Downtown coffee shop with proper espresso, fresh-baked pastries, and the best breakfast in central Plattsburgh"
+score: 5.8
 ---
 
 A small, well-run coffee shop on Margaret Street in the heart of downtown, with the best espresso between Burlington and Montreal. Owner-roasted coffee, fresh-baked muffins, a short menu of breakfast burritos and bagel sandwiches, and a substantial lunch menu of soups and sandwiches. The room is bright and friendly, with a long bar and a few tables in the window.

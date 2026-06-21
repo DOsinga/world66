@@ -8,6 +8,7 @@ tags:
 - religious
 - landmark
 snippet: "Late Ottoman mosque on the main boulevard of modern Elazığ"
+score: 5.9
 ---
 
 The İzzet Paşa Mosque is the principal mosque of the modern city, completed in 1965 in a deliberately Ottoman-revivalist style — a single great dome flanked by two slim pencil minarets. It sits on Gazi Caddesi, the main commercial street, and is the obvious landmark of the centre.

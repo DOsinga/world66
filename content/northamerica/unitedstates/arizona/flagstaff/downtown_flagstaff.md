@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 35.1983
 longitude: -111.6513
+score: 7.9
 ---
 
 Downtown Flagstaff is compact, walkable, and genuinely lively for a city of 75,000. The historic Route 66 corridor runs through its heart, lined with brick buildings from the early 20th century that now house independent restaurants, bars, coffee shops, outdoor gear stores, and galleries. Northern Arizona University is a few blocks south and gives the area real energy — this is not a sanitized tourist downtown.

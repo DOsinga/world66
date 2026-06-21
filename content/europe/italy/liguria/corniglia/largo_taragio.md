@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - square
+score: 7.1
 ---
 
 The main square of Corniglia is a small irregular space halfway down Via Fieschi, with the Oratory of Santa Caterina dei Disciplinati on one side and a handful of cafés and shops crowded around it. A 19th-century plaque on the wall remembers the villagers lost in the two world wars, and the war memorial in the middle is where the older residents still gather in the evenings.

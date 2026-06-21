@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Attara Kacheri
 type: poi
+score: 7.5
 ---
 
 Attara Kacheri — "eighteen offices" in Kannada — is the red-painted two-story building that faces Vidhana Soudha across the wide central boulevard. Built in 1864 during the British period, it originally housed the revenue and general secretariat departments; today it is the High Court of Karnataka. The building is painted a deep Pompeian red that photographs dramatically against a blue sky and glows in the evening light.

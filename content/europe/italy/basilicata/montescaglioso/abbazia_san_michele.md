@@ -10,6 +10,7 @@ tags:
   - architecture
 snippet: 11th-century Benedictine abbey with twin cloisters, frescoed halls and views over the Bradano
 story: "When Napoleonic decrees suppressed the monastic orders in 1809, the Benedictines of San Michele had to abandon a library that the abbots had been building for seven centuries. The codices and incunabula were carted off to the Biblioteca Nazionale in Naples, where most of them still are. The empty library hall, with its painted ceiling intact, is now one of the strangest rooms in the abbey — a room designed for thousands of books that holds none."
+score: 8.8
 ---
 
 The abbey dominates the upper end of town and is the reason most travellers come. A Benedictine foundation traditionally dated to the 11th century (on much older Lombard or Greek-rite foundations), it was rebuilt and expanded through the late Middle Ages and reached its current scale in the 16th and 17th centuries, when the order was at its wealthiest.

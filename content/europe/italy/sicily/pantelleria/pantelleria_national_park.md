@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 8.1
 ---
 
 Pantelleria became Italy's twenty-fourth national park in 2016, with about three-quarters of the island and its surrounding waters protected as the Parco Nazionale Isola di Pantelleria. The park covers the volcanic uplands of Montagna Grande, the smaller cones of Cuddia di Mida and Cuddia Attalora, and the dramatic coastal cliffs from Punta Spadillo round to Punta Karuscia.

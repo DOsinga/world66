@@ -9,6 +9,7 @@ story: Amadiya sits on a flat-topped mesa of solid rock with vertical cliffs on 
   side and a single road climbing up. The site has been continuously inhabited for
   some 3,000 years and the medieval gate, Bab al-Mosul, still carries Aramaic and
   Assyrian inscriptions.
+score: 8.7
 ---
 
 The most striking day trip from Duhok. Amadiya occupies a flat-topped plateau of solid rock, rising sheer out of the surrounding valleys, with views of layered Zagros mountains in every direction. The town is small — perhaps a thousand people — and has been continuously inhabited since the early first millennium BC, going through Assyrian, Persian, Hellenistic, and Islamic phases.

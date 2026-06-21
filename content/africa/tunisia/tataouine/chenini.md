@@ -13,6 +13,7 @@ story: >
   Sleepers — a Quranic story parallel to the Christian Cave of the Seven Sleepers
   in Ephesus. The mosque, with its unusual twin-domed form, has been a pilgrimage
   site for centuries and remains active today.
+score: 8.8
 ---
 
 Eighteen kilometres west of Tataouine, Chenini is a half-ruined Berber village stacked along a razorback ridge at nearly 450 metres. The old village — mostly uninhabited now, with collapsed walls and empty doorways — winds up the hillside from the new settlement below, the troglodyte houses carved directly into the rock face giving way to the white-washed mosque at the summit. The views from the top across the Dahar plateau are spectacular: a vast stony plain stretching to the horizon, broken by the occasional date palm.

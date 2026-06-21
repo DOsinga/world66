@@ -7,6 +7,7 @@ tags:
 latitude: 16.0228
 longitude: -16.493
 snippet: Main football stadium on the island, centre of the city's sporting life
+score: 6.5
 ---
 
 The Stade de Linguère, commonly known as Stade Mawade Wade, is Saint-Louis's main football stadium, sitting on the island near the centre of town. It holds around 20,000 people and comes alive on match days when local clubs play. Football is a serious business in Senegal, and attending a match here — if the timing works out — gives you a very different view of the city than the heritage tourism circuit.

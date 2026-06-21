@@ -15,6 +15,7 @@ story: >
   facade are among the purest surviving examples of the style in western Canada.
 sources:
   - https://www.atlasobscura.com/places/garneau-theatre
+score: 6.9
 ---
 
 The Garneau Theatre on 109 Street in Old Strathcona has been showing films since 1940, making it one of Edmonton's oldest operating cinemas. The building is a study in Art Moderne design — the streamlined, functional evolution of Art Deco that was fashionable in the years just before the Second World War. The curved corners, the horizontal banding, and the distinctive backlit marquee are all intact.

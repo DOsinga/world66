@@ -3,10 +3,10 @@ title: "Bassline"
 type: poi
 tags:
   - bars_and_cafes
-  - nightlife
 latitude: 5.6330
 longitude: -0.1494
 snippet: "East Legon live music venue with strong Afrobeats, highlife, and jazz nights"
+score: 6.3
 ---
 
 One of Accra's better live music venues, in East Legon, drawing a mix of young Ghanaians, expats, and visiting musicians for nights that lean toward Afrobeats, highlife, and jazz. The sound system is better than most comparable venues in the city, and the size — smaller and more enclosed than the open-air club-scale places — means the music has somewhere to go.

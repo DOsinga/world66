@@ -9,6 +9,7 @@ tags:
   - bar
   - restaurant
 snippet: Downtown alehouse with 60 taps and excellent fish tacos
+score: 6.5
 ---
 
 A downtown alehouse with sixty taps — the best craft beer selection in the city — and a kitchen turning out solid bar food. Halibut tacos, fish and chips, and the king crab dip are local favourites. Live acoustic music most nights of the week. The crowd is mixed: tourists, students from UAA, downtown office workers.

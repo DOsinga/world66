@@ -8,6 +8,7 @@ tags:
 title: Glastonbury Festival
 type: poi
 story: "Michael Eavis, a Somerset dairy farmer, hosted the first festival on his farm in September 1970 after seeing Led Zeppelin at the Bath Festival. About 1,500 people turned up and the entry fee was £1, with free milk from the farm thrown in. The 2024 festival sold 210,000 tickets in 25 minutes."
+score: 6.6
 ---
 
 The Glastonbury Festival of Contemporary Performing Arts — Glasto — is the largest and most celebrated greenfield music festival in the world. It is held most years in late June on Worthy Farm at Pilton, about 10 miles east of Glastonbury town. Headliners over the decades have included David Bowie, Beyoncé, Paul McCartney, Adele, Stevie Wonder, and the Rolling Stones; on the smaller stages the line-up is genuinely eclectic, from afrobeat to folk to dance music to circus.

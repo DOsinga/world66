@@ -6,6 +6,7 @@ tags:
 - restaurant
 latitude: 40.7822
 longitude: 17.2365
+score: 5.9
 ---
 
 One of the best-known restaurants in Alberobello, Trullo d'Oro has been feeding visitors in a converted trullo for decades. The Pugliese menu covers all the expected ground — fresh pasta, grilled fish and meat, local cheeses and charcuterie — and does so with consistency that explains its longevity.

@@ -8,6 +8,7 @@ tags:
 latitude: 51.0531
 longitude: -115.3919
 snippet: Three dramatic peaks that define Canmore's skyline, with routes ranging from scramble to technical climb
+score: 8.1
 ---
 
 The three summits that loom over Canmore's south and east skyline are known in Stoney Nakoda as Ehagay Nakoda — "Grizzly Bear Mountain." The name "Three Sisters" (referring to the three distinct peaks: Big Sister, Middle Sister, and Little Sister) was given by European settlers in the late 19th century and remains in common use alongside the Indigenous name, which was formally recognised in 2021.

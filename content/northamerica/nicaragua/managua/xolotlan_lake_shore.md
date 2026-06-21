@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 12.1650
 longitude: -86.2750
+score: 6.1
 ---
 
 Lake Managua — called Xolotlán in the indigenous Nahuatl language — stretches 65 kilometres along the northern edge of the city. At over 1,000 square kilometres it is Central America's second-largest lake, but it is also one of the most polluted: decades of untreated sewage and industrial waste have left the water unsuitable for swimming or fishing. Efforts to clean it have been ongoing since the 1990s with some progress, but the process is slow.

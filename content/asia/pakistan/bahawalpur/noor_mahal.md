@@ -7,6 +7,7 @@ tags:
 snippet: "Italianate palace blending Mughal and European styles since 1872"
 latitude: 29.3941
 longitude: 71.6724
+score: 8.3
 ---
 
 Noor Mahal was built in 1872 for Nawab Sadiq Muhammad Khan IV of Bahawalpur, designed in a neo-classical Italian style but threaded with Mughal and Subcontinental details — arched windows, ornamental plasterwork, and a symmetrical facade that could pass for a minor European palace if not for the desert light. The interior has been restored and is open to visitors, with period furniture and royal artefacts on display.

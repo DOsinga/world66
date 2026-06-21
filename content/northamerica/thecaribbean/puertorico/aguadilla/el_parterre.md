@@ -7,6 +7,7 @@ tags:
 latitude: 18.432083
 longitude: -67.154279
 story: "El Parterre was formally laid out in 1851, making it one of the older planned public gardens in Puerto Rico. The name refers to the formal French garden style — parterres are the low, geometric hedged beds that define the layout — which was fashionable in Spanish colonial design in the mid-19th century."
+score: 6.4
 ---
 
 El Parterre is a formal landscaped park at the edge of Aguadilla's old town, built in 1851 and still one of the nicest places in the city to sit down and do nothing in particular. The park has fountains, benches shaded by mature trees, and views toward the sea at its western edge. In the early evening it fills with locals, which makes it a pleasant place to watch the sun get low over the Mona Passage.

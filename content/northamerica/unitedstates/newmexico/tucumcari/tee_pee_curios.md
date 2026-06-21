@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - shopping
+score: 7.6
 ---
 
 A 1940s roadside curio shop with a 9-metre stuccoed tipi grafted onto the front — exactly the kind of Route 66 kitsch that the Mother Road specialised in. The neon sign at night is one of Tucumcari's defining images.

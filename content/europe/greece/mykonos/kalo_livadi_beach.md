@@ -5,6 +5,7 @@ tags:
   - beaches
 latitude: 37.4022
 longitude: 25.4014
+score: 6.1
 ---
 
 A long, sandy beach on the southeast coast, in a valley between two headlands about 12 km from Mykonos Town. The setting is picturesque, with the beach stretching in a gentle arc and the hills behind it relatively green for Mykonos. It is quieter than most beaches on the south coast and attracts a mixed crowd of families and younger visitors who have discovered it via the beach club that opened here.

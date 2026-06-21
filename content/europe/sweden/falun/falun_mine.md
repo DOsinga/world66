@@ -17,6 +17,7 @@ story: >
   short story "Amorina."
 sources:
   - https://en.wikipedia.org/wiki/Falun_Mine
+score: 9.3
 ---
 
 The Falun Mine is one of the most extraordinary industrial heritage sites in the world and a UNESCO World Heritage Site. It operated continuously from at least the 10th century until 1992 — over a thousand years — and at its peak in the 17th century supplied around two-thirds of Europe's copper. Sweden's emergence as a great European power in the 1600s was largely funded by the mine's output.

@@ -2,12 +2,14 @@
 address: 3 Muscat Street, Singapore 198833
 latitude: 1.3025
 longitude: 103.8587
+score: 7.9
 snippet: Golden-domed national mosque anchoring the Kampong Glam quarter
 tags:
 - things_to_do
 - sight
 - architecture
 - sights
+- kampong_glam
 title: Sultan Mosque
 type: poi
 ---

@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 37.3936
 longitude: -122.0789
+score: 6.9
 ---
 
 Red Rock Coffee is the social hub of Castro Street — a roomy, slightly worn café that has been the place to nurse a laptop or a conversation for more years than most local businesses have survived. It serves decent espresso drinks and usually has live music several nights a week, which makes it unusual for a coffee shop and popular with people who want a relaxed evening out without committing to a full bar.

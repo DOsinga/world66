@@ -10,6 +10,7 @@ longitude: -89.6210
 snippet: City history museum in a former jail, from T'hó to the present
 sources:
   - https://en.wikipedia.org/wiki/Museum_of_the_City_of_Merida
+score: 6.8
 ---
 
 The Museo de la Ciudad occupies a building on Calle 56, a short walk south of the Plaza Mayor, and traces Mérida's development from the pre-Hispanic Maya city of T'hó through the colonial period, the henequen boom, and into the 20th century. The collection is not large, but it is well-organised and fills in the gaps that the Palacio Cantón's anthropology collection leaves open: this museum is specifically about the city rather than about Maya civilisation in the abstract.

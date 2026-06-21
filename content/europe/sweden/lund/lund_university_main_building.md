@@ -16,6 +16,7 @@ story: >
   restoration of the cathedral, designed the building in Italian Renaissance
   Revival style. King Oscar II attended the inauguration personally, which
   was unusual enough to be talked about for decades.
+score: 7.0
 ---
 
 The main university building (Universitetshuset) at Lundagård park is the architectural centrepiece of Lund University, a confident neo-Renaissance edifice from 1882 in yellow-grey sandstone. The park in front of it — between the main building and the cathedral — is the symbolic heart of the university and the traditional gathering place for student celebrations. On Valborg (30 April), thousands of students converge here in white student caps.

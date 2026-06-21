@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.4905
 longitude: 16.5618
+score: 6.6
 ---
 
 The early Christian basilica of St. Thecla (Sveta Tékla) is Podstrana's main historical site — a 5th-century church built on an even earlier pagan foundation, one of the oldest Christian structures in Dalmatia. The building has been modified repeatedly over the centuries, and what stands today incorporates the original late antique walls into a structure that was renovated in the Romanesque period.

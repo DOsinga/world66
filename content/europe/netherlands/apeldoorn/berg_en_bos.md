@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - nature
+score: 6.6
 ---
 
 The largest of Apeldoorn's city parks, on the western edge of town where the urban grid meets the Veluwe forest. A hundred and ten hectares of old beech and oak woodland, sandy paths, a fishing pond, and the kind of dappled afternoon light that makes the Veluwe a national favourite — all within ten minutes' cycle from the centre.

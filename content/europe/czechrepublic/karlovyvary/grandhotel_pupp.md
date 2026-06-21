@@ -14,6 +14,7 @@ story: In Casino Royale, the Grandhotel Pupp appears as the Hotel Splendide, a f
   and oligarchs might overlap. The hotel's actual guest list over the centuries —
   Goethe, Beethoven, Paganini, and Peter the Great among others — suggests the overlap
   was not entirely fictional.
+score: 7.8
 ---
 
 Sitting at the southern end of the promenade where the valley begins to narrow, the Grandhotel Pupp has been operating in various forms since 1701, making it one of the oldest continuously run grand hotels in Central Europe. The current building dates mostly from the early 20th century, with a grand ballroom and a facade that announces itself from a considerable distance.

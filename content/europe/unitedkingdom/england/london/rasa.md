@@ -11,6 +11,7 @@ tags:
 title: Rasa
 type: poi
 url: www.rasarestaurants.com
+score: 7.7
 ---
 
 Rasa specialises in Keralan cuisine from the south-west coast of India — quite different from the generic curry-house style that dominates London's Indian restaurants. The crisp, layered pappadoms served with a range of chutneys as a starter alone are worth the journey. Fish dishes are the highlight; the vegetarian menu is extensive and genuinely interesting.

@@ -7,6 +7,7 @@ tags:
 latitude: 20.5755
 longitude: 73.7452
 story: "The lake was created artificially in the 1960s when the hill station was developed, damming a small stream to give Saputara its focal point. What planners perhaps didn't expect is how completely it would come to define the place — every evening, families from across Gujarat circle the promenade, and paddle boats shaped like swans queue up for the gentle water."
+score: 6.8
 ---
 
 Saputara Lake sits at the centre of town and functions as its living room. The man-made reservoir is ringed by a broad promenade, busy from late afternoon with walkers, snack vendors, and families renting paddle boats. In the monsoon the surrounding hills reflect green in the water; in winter the air is cold enough that sitting by the bank with chai feels like a genuine pleasure rather than a duty.

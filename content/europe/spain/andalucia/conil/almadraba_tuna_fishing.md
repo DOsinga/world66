@@ -17,6 +17,7 @@ story: >
   Gibraltar using a maze of anchored nets. The final capture, the levantá,
   involves hauling the net and killing the tuna in the water — a
   spectacle that has hardly changed in three millennia.
+score: 7.8
 ---
 
 The almadraba is the traditional tuna trap fishery that has operated along this coast for millennia. In late April and May, Atlantic bluefin tuna pass through the Strait of Gibraltar on their annual migration from the Atlantic to the Mediterranean to spawn. The almadraba captures them in a maze of nets anchored offshore, culminating in a dramatic group harvest.

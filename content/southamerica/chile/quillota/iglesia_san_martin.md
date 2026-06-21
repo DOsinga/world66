@@ -9,6 +9,7 @@ type: poi
 snippet: Colonial-era parish church at the heart of Quillota's plaza
 sources:
   - https://en.wikipedia.org/wiki/Quillota
+score: 6.1
 ---
 
 The parish church of San Martín de Tours stands at the edge of the Plaza de Armas and anchors the civic life of Quillota. The original church dates to the colonial founding of the city, though the present structure has been rebuilt and restored after successive earthquakes. Its simple whitewashed facade and bell tower are the most recognisable landmark in the valley.

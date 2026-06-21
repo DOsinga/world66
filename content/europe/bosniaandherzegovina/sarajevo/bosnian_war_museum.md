@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - historic
+score: 7.4
 ---
 
 Opened in 2016, this museum documents the crimes committed during the 1992–1995 war in Bosnia and Herzegovina, with particular focus on the siege of Sarajevo and the genocide at Srebrenica. The collection includes photographs, testimonies, personal effects, and documentary evidence — presented without softening or diplomatic equivocation.

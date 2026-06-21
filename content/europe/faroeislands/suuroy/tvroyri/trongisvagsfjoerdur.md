@@ -8,6 +8,7 @@ tags:
 - nature
 title: Trongisvágsfjørður
 type: poi
+score: 7.2
 ---
 
 Trongisvágsfjørður is the fjord at whose head Tvøroyri sits, a narrow inlet that cuts several kilometres into the east coast of Suðuroy. The name means something like "the narrow bay's fjord," which describes it accurately — the walls are steep and green, dropping directly into dark water, with the small settlements of Froðba and Øravík on the opposite shore visible from the Tvøroyri waterfront.

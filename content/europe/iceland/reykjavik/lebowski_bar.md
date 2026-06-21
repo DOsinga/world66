@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: Themed dive on Laugavegur with twenty-one variations on the White Russian
+score: 4.6
 ---
 
 Hard to miss on Laugavegur — neon, bowling-pin sign, bowling-alley interior — Lebowski Bar is a knowing tribute to the Coen brothers film, complete with rugs that really do tie the room together. The menu offers twenty-one variations of the White Russian. The atmosphere is friendly, the cocktails are cheap by Reykjavik standards, and it is open very late.

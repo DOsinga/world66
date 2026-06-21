@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The main square with the cathedral, town hall, and a ring of guild houses
+score: 6.9
 ---
 
 The Grote Markt is the heart of the city, a large rectangular square overshadowed by the cathedral on one side and the town hall on the other. The square is ringed by handsome 17th and 18th-century guild houses and a few good cafés with outdoor tables in summer.

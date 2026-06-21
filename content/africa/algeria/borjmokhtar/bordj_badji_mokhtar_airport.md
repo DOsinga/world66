@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The airport's IATA code is BMW — an accidental gift to anyone trying to remember it."
+score: 3.0
 ---
 
 The airstrip sits about 5 km northwest of the town and 9 km from the Mali border, which makes it the most useful entry and exit point if you would rather not drive a thousand kilometres of empty desert. Flights from [Adrar](/africa/algeria/adrar) and occasionally [Algiers](/africa/algeria/algiers) are run by Air Algérie and Tassili Airlines, though the schedule is light and cancellations are common.

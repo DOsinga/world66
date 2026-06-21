@@ -8,6 +8,7 @@ latitude: 24.9139
 longitude: 110.5308
 story: >
   Laozhai Hill was fortified during the Ming dynasty as a defensive position — "laozhai" means "old stockade" — and the stone steps carved into its face were used by villagers retreating from raids, not by sightseers. The stockade walls at the summit have mostly collapsed, but the flagstone terrace that remains gives you the most complete panoramic view in the Xingping area, with the river making two full bends visible simultaneously from the top.
+score: 8.1
 ---
 
 Laozhai Hill, adjacent to Xingping's old town wharf, offers the best elevated view of the Li River landscape from close range. The ascent follows stone steps cut into the karst rock through a bamboo grove — about 300 steps, which takes 20 to 30 minutes at a comfortable pace. The summit terrace looks north and south along the river, giving you the full visual context that boat travel at water level doesn't provide.

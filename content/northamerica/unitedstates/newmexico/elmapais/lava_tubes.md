@@ -6,6 +6,7 @@ longitude: -108.0800
 tags:
   - things_to_do
   - sight
+score: 8.7
 ---
 
 Beneath the Malpais lava fields runs one of the longest continuous lava tube systems in North America — over 27 kilometres of underground passages where lava once flowed in molten rivers beneath an already-cooled crust. Several of the tubes are open for self-guided exploration, the most popular being the Big Tubes area, a cluster of partially collapsed caves with skylights letting columns of sunlight stream into the dark.

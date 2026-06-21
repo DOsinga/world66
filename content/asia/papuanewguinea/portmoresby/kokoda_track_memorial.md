@@ -15,6 +15,7 @@ story: >
   Owen Stanley Range at altitudes above 2,000 metres, through mud, rainforest,
   and leech-infested rivers. More than 600 Australians died; thousands more
   were evacuated ill or wounded.
+score: 7.4
 ---
 
 The southern end of the Kokoda Track, the route that became synonymous with Australia's World War II struggle in the Pacific. A memorial near the village of Sogeri marks the starting point, where the route begins its climb over the Owen Stanley Range to the north coast — a journey that takes most trekkers eight to ten days through remote, challenging terrain.

@@ -11,6 +11,7 @@ story: >
   the rhythmic clack of Black Hmong women weaving indigo-dyed hemp cloth, which was
   Sapa's main export to lowland traders before tourism arrived. A few weavers still
   work traditional looms in the village today.
+score: 7.1
 ---
 
 Cat Cat is the closest Black Hmong village to Sapa — a 20-minute downhill walk from town — and the most visited. It sits in a steep-sided valley below the town, connected by a well-maintained path that descends through rice paddies and past a small waterfall. The village is genuine, not a recreation: the families who live here are Black Hmong, and the terraced gardens around the houses grow vegetables and herbs alongside ornamental flowers.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.0003
 longitude: 8.0578
+score: 6.1
 ---
 
 The older of Stellanello's two churches, San Gregorio dates from the fifteenth century and is the more characterful building. It has a fine baroque altar installed in a later renovation, but the fabric of the structure — the stone walls, the proportions, the setting among the village houses — belongs to an earlier and simpler Liguria.

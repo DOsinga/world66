@@ -9,6 +9,7 @@ latitude: 36.8019
 longitude: 10.1872
 story: >
   Some visitors to the Star Wars set on Djerba noticed that the fictional Jawa Sandcrawler — the massive tracked vehicle used by the scavenging alien traders in the original film — bore a striking resemblance to the Hôtel du Lac. George Lucas has neither confirmed nor denied the connection. The hotel's designers have been deceased for decades and cannot settle the question.
+score: 6.0
 ---
 
 The Hôtel du Lac is one of the strangest buildings in North Africa: an enormous inverted pyramid of poured concrete, 13 floors wide at the top and narrowing to near-nothing at the base, built in 1973 at the northern end of Avenue Bourguiba. It was designed by the Italian architect Raffaello Contigiani, and its sheer architectural audacity — a tower that widens as it rises, cantilevered over a garden of palm trees — was either visionary or delusional depending on your point of view.

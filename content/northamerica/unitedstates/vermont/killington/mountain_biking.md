@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 43.6481
 longitude: -72.7933
+score: 7.8
 ---
 
 When the snow melts, Killington converts parts of its ski terrain into a mountain bike park, using the gondola to carry riders and bikes to the top. The network of descents ranges from wide, smooth green trails suitable for beginners to technical black-diamond routes with drops, jumps, and rock features. The park has been expanding in recent years and is now one of the more serious lift-served mountain bike venues in the northeast.

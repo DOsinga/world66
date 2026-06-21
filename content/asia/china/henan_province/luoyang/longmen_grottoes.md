@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: Longmen Grottoes
 type: poi
+score: 9.8
 ---
 
 One of China's three great Buddhist cave complexes (with Dunhuang and Yungang), carved into the limestone cliffs of the Yi River south of Luoyang. Construction began in 494 AD and continued for four centuries, resulting in over 2,300 caves and niches with more than 100,000 stone figures. The Fengxian Temple, with its giant seated Buddha nearly 17 metres tall, is the most impressive single monument. A UNESCO World Heritage Site.

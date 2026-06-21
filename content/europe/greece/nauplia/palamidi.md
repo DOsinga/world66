@@ -8,6 +8,7 @@ tags:
 latitude: 37.5639
 longitude: 22.7953
 story: "The 999 steps that supposedly climb from town to fortress are local legend — count them yourself and you'll get something closer to 900. Theodoros Kolokotronis, hero of the Greek Revolution, was imprisoned in one of the cisterns here by the very government he helped install."
+score: 9.1
 ---
 
 The Palamidi sits 216 metres above the old town on a sheer limestone outcrop, an interlocking complex of eight bastions built by the Venetians between 1711 and 1714. It is the masterpiece of the engineer Giaxich and Lasalle, and it fell to the Ottomans within a year of completion when the local commander surrendered without a fight.

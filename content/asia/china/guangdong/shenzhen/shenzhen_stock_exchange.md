@@ -11,6 +11,7 @@ story: >
   The Shenzhen Stock Exchange building, completed in 2013 and designed by OMA (Rem Koolhaas), is raised on a massive podium that creates a public plaza beneath it — a design intended to signal transparency and openness in the institution it houses. The building's form has been compared to a giant red stamp, which is either an irony or an apt metaphor depending on your view of Chinese financial markets.
 sources:
   - https://en.wikipedia.org/wiki/Shenzhen_Stock_Exchange
+score: 7.0
 ---
 
 The Shenzhen Stock Exchange building is one of the most architecturally interesting buildings in the city — a dramatic structure in the Futian CBD designed by the Dutch architectural firm OMA. The exchange hall itself is elevated on a huge glass podium, with the building appearing to float above a public plaza at ground level.

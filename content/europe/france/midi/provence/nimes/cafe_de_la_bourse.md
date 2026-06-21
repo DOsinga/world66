@@ -7,6 +7,7 @@ tags:
 latitude: 43.8367
 longitude: 4.3610
 snippet: Classic brasserie on the old town square, good for people-watching over a pastis
+score: 5.8
 ---
 
 One of the anchor cafes of the old town, the Café de la Bourse sits on a corner near the Maison Carrée with a large terrace that catches the afternoon sun. It is the kind of place where you nurse a pastis for an hour without anyone hurrying you along. The interior is traditional brasserie — mirrors, dark wood, zinc bar — and the coffee is reliably good.

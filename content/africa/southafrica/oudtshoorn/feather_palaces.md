@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: -33.5911
 longitude: 22.2027
+score: 7.8
 ---
 
 The sandstone mansions that the ostrich barons of the early twentieth century built for themselves are scattered throughout Oudtshoorn and the surrounding farmland. They are called "feather palaces" without irony — absurdly grand Victorian and Edwardian houses built in a semi-arid farming town by men who had made fortunes selling bird feathers to European fashion houses.

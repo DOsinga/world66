@@ -16,6 +16,7 @@ story: >
   temple courtyard at dawn and feel the weight of devotion that has accumulated here over centuries.
 sources:
   - https://en.wikipedia.org/wiki/Kalighat_Kali_Temple
+score: 8.5
 ---
 
 The Kalighat Kali Temple is one of the 51 Shakti Peethas — sites of supreme importance in the worship of the goddess. It draws tens of thousands of devotees every day, and the atmosphere inside is intense: priests chanting, bells ringing, the smell of marigolds and incense, and a constant press of worshippers. Non-Hindus are permitted inside, though the inner sanctum can get extremely crowded.

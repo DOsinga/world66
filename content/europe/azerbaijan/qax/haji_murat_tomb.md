@@ -16,6 +16,7 @@ story: >
   Qakh district. In 2018, the grave was found to have been disturbed and the
   remains were secretly exhumed and reburied in Dagestan, leaving the site empty
   — a fitting end for a warrior whose life was defined by disputed allegiances.
+score: 6.6
 ---
 
 Near the village of Tangyt in the Qakh district — a short drive from Qax along the Shaki-Zaqatala road — a grave marker commemorates Haji Murat, the Avar military leader whose story Leo Tolstoy turned into the novella *Hadji Murad*. Haji Murat was one of the great figures of the Caucasian resistance to Russian expansion, switching sides more than once before being killed in 1852 in what is now northern Azerbaijan.

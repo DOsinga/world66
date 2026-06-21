@@ -8,6 +8,7 @@ tags:
 latitude: -29.6953
 longitude: 30.9758
 story: "Gandhi bought the 100-acre farm in 1904 with the writer Henry Polak after reading Ruskin's Unto This Last. He lived here on and off until 1914, founding the Indian Opinion newspaper, raising his sons, and developing the non-violent resistance he would later use against the British in India."
+score: 7.9
 ---
 
 Phoenix Settlement was Mahatma Gandhi's experimental commune outside Durban, the place where he developed his philosophy of non-violent resistance, *satyagraha*. He lived here between 1904 and 1914, ran the *Indian Opinion* newspaper from a small press on site, and turned the farm into a self-sufficient community of co-workers from all races.

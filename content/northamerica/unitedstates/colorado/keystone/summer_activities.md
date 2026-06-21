@@ -7,6 +7,7 @@ tags:
   - cycling
 latitude: 39.6064
 longitude: -105.9636
+score: 7.2
 ---
 
 Keystone's summer identity is less known than its ski reputation, but the resort makes a genuine effort to stay busy from June through September. The gondola and some chairlifts run throughout the summer, serving a mountain bike park and the hiking trail network above treeline.

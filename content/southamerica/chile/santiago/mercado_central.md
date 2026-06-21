@@ -10,6 +10,7 @@ latitude: -33.4345
 longitude: -70.6504
 story: >
   The Mercado Central's iron-frame structure was designed in Scotland and shipped to Chile in pieces, assembled on its current site and inaugurated in 1872. The building is a masterpiece of Victorian ironwork — a cathedral-sized greenhouse full of fish stalls rather than plants. It was one of the first prefabricated structures in South America, and the engineering is still visible and impressive from the gallery level above the central hall.
+score: 7.0
 ---
 
 The Mercado Central is the city's main fish market and one of the great Victorian market buildings in the Americas. The enormous iron-framed hall, dating from 1872, is filled with fish stalls piled high with the extraordinary variety of Chile's Pacific coast: congrio (conger eel), reineta, lenguado, locos (abalone), erizos (sea urchins), centolla (king crab), and everything else pulled from some of the most productive cold waters in the world.

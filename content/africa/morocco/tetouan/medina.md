@@ -8,6 +8,7 @@ tags:
 latitude: 35.5712
 longitude: -5.3690
 story: "Tetouan's medina was rebuilt in the late 15th century by Muslim and Jewish refugees expelled from Granada after the Reconquista. The street plan, the courtyard houses, and the wrought iron balconies are unmistakably Andalusian — a fragment of medieval Spain preserved in North Africa."
+score: 9.0
 ---
 
 Tetouan's medina is UNESCO-listed and, unlike the larger medinas of Fes or Marrakech, has barely been touched by mass tourism. Narrow whitewashed lanes climb gently from Place Hassan II toward Bab el-Okla, branching into specialist souks for leather, jewellery, fabric, and silver. The trades are still organised by guild; you will walk through a street of tinsmiths, turn a corner, and find yourself among carpenters.

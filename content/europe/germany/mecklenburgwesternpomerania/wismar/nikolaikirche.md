@@ -15,6 +15,7 @@ story: >
   makes the technical achievement all the more striking. During the Second World War
   the church was used to store art and furnishings from across Mecklenburg, and its
   survival intact is partly due to this coincidence of function.
+score: 8.8
 ---
 
 The best-preserved of Wismar's three great medieval churches and the one that gives the clearest sense of what all three must once have looked like. Nikolaikirche is a hall church — nave and aisles rise to nearly the same height — which creates an interior of unusual luminosity for a Gothic brick building. The columns are slender for their height, the vaults soar, and the overall effect is of dignified power rather than ornamental excess. Construction began in the fourteenth century and continued into the fifteenth.

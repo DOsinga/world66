@@ -11,6 +11,7 @@ tags:
   - restaurant
   - navigli
 snippet: "Canalside osteria with fresh-made pasta and tiramisù worth returning for"
+score: 5.7
 ---
 
 An atmospheric osteria along the Naviglio Grande canal, praised for handmade pasta, genuinely warm hospitality, and a tiramisù that people come back for. The pasta is made fresh daily — pappardelle with rabbit ragù, tortelli di zucca, bigoli in salsa — and the room has the easy, convivial feel of the best neighbourhood restaurants.

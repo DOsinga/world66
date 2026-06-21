@@ -8,6 +8,7 @@ latitude: 35.8689
 longitude: -92.1181
 story: >
   The courthouse-square pickin' has been going on, without organisation or schedule, since the 1960s. Players come in and out of circles by ear, the tunes drift between Carter Family and pre-war fiddle music, and the only rule is that you sit in if you have something to add and listen if you don't.
+score: 9.0
 ---
 
 The square in front of the Stone County Courthouse is the social and musical centre of Mountain View. From spring through autumn — most evenings, all day on weekends — small circles of acoustic musicians gather on the sidewalks and under the courthouse porticos to play traditional Ozark music: fiddle tunes, old gospel, Carter Family songs, and the slow-time mountain ballads. The standing rule is that anyone with an acoustic instrument is welcome to join.

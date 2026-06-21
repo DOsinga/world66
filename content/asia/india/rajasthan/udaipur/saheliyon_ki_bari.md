@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Saheliyon ki Bari
 type: poi
+score: 6.7
 ---
 
 A small ornamental garden built in the 18th century for the queen and her 48 maids of honour. The fountains, lotus pools, and marble pavilions are pleasant rather than spectacular, but it is a peaceful escape from the old city's narrow lanes. The gardens are well-maintained and rarely crowded.

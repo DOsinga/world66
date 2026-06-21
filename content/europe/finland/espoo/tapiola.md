@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Tapiola
 type: poi
+score: 8.1
 ---
 
 Tapiola was conceived in 1951 as Finland's first comprehensive postwar new town — a low-density garden city designed around walking, green space, and the integration of architecture into the surrounding pine forest. Aarne Ervi, Viljo Revell, Alvar Aalto, and a generation of other Finnish modernists each contributed buildings. The early sections still feel coherent: flat-roofed apartment blocks set among pine, the central pond, and the pedestrian-scale shopping plaza Heikintori.

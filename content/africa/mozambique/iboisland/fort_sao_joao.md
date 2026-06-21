@@ -12,6 +12,7 @@ tags:
 - sight
 title: Fort São João
 type: poi
+score: 8.0
 ---
 
 The most substantial of Ibo's three Portuguese forts, Fort São João sits at the northern tip of the island and commands sweeping views over the Quirimbas channels. The star-shaped walls are largely intact and you can walk the ramparts. Local guides can be hired at the gate and are worth the fee — the stories they tell fill the ruins with life.

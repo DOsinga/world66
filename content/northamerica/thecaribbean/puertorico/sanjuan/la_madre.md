@@ -8,6 +8,7 @@ tags:
   - restaurant
   - old_san_juan
 neighbourhood: Old San Juan
+score: 6.2
 ---
 
 A Mexican kitchen on Calle Tetuán in Old San Juan that has held its own as one of the most consistent restaurants in the historic core for over a decade. Tacos are the headline — short rib, mahi-mahi, suckling pig — built on fresh corn tortillas pressed in-house, and the moles are the real thing.

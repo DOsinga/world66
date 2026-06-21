@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.6300
 longitude: 120.7500
+score: 6.9
 ---
 
 Shou Mountain (Longevity Mountain) rises behind the city and provides hiking trails with panoramic views over Xingcheng, the coast, and Juhua Island offshore. The mountain carries a Ming Dynasty beacon tower at its summit, one of a chain of fire-signal stations that relayed alerts from the northeastern frontier to Beijing in minutes — a logistical achievement that modern observers underestimate.

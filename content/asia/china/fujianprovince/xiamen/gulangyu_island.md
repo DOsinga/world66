@@ -13,6 +13,7 @@ story: >
   of the colonial-era missionaries who made Western classical music central
   to their schools. The island produced a disproportionate number of China's
   20th-century concert pianists.
+score: 7.5
 ---
 
 Gulangyu (鼓浪屿) is a small island a ten-minute ferry ride from Xiamen's waterfront, and it is the most distinctive place in Fujian. Cars are banned — the only motor vehicles are small electric carts for residents — which gives the island an unusual quiet that makes it feel nothing like mainland China. The streets are narrow residential lanes with colonial mansions built by foreign merchants, returned overseas Chinese, and missionary institutions over the 19th and early 20th centuries. Bougainvillea covers the walls, the architecture ranges from Baroque to Dutch colonial to the eclectic Nanyang style of the Hokkien diaspora.

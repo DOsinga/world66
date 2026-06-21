@@ -12,6 +12,7 @@ tags:
 - landmark
 title: City Palace
 type: poi
+score: 8.8
 ---
 
 A sprawling complex in the heart of the old city that blends Rajasthani and Mughal architecture. Part of the palace is still a royal residence, while the rest houses museums with textiles, arms, and manuscripts. The Pritam Niwas Chowk courtyard with its four ornate painted doorways is a highlight.

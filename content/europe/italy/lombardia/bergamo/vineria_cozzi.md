@@ -10,6 +10,7 @@ tags:
 title: Vineria Cozzi
 type: poi
 url: www.vineriacozzi.it
+score: 6.3
 ---
 
 Vineria Cozzi has been pouring wine on Via Colleoni in the Citta Alta since the mid-1800s, and the interior looks like it. The original wooden bar, white tablecloths, and antique furniture give the place a timeless feel that no amount of deliberate design could replicate.

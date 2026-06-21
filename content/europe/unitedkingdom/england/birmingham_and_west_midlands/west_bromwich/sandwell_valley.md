@@ -9,6 +9,7 @@ latitude: 52.5212
 longitude: -1.9728
 sources:
   - https://en.wikipedia.org/wiki/Sandwell_Valley
+score: 7.9
 ---
 
 Sandwell Valley Country Park is a surprising expanse of open countryside sitting between the M5 motorway, West Bromwich, and Birmingham. The park covers around 660 hectares and includes woodland, meadows, and the Forge Mill Lake nature reserve. It feels improbably rural given that it is surrounded by one of the densest urban areas in England.

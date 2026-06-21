@@ -16,6 +16,7 @@ story: >
   metres above the hiker's head. Flash floods sweep through the gulch regularly during
   the summer monsoon season; hikers who underestimate this have died here. The canyon
   holds water in potholes for days after a storm, turning a long section into a muddy wade.
+score: 9.4
 ---
 
 Buckskin Gulch is widely considered the finest slot canyon hike in the American Southwest. The canyon stretches for nearly 21 km before joining the Paria Canyon, and the slot section — where the canyon narrows to less than a metre and the walls soar overhead — extends for more than 12 km without a break. This is not a casual walk: the hike through the full canyon requires navigation, flash flood awareness, and the ability to wade through pools of cold, muddy water.

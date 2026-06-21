@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 7.2
 ---
 
 The main market street of old Dehradun runs south from the Clock Tower, a noisy, narrow, partly arcaded lane of cloth shops, silver workshops, sweet stalls, and stationery sellers. It is one of the oldest commercial streets in the city — palton means a battalion, and the bazaar was originally laid out to serve the British military cantonment.

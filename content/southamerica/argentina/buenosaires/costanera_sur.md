@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -34.6244
 longitude: -58.3445
+score: 8.3
 ---
 
 A 350-hectare nature reserve on the river bank east of Puerto Madero, created accidentally: the land was originally reclaimed from the Río de la Plata in the 1970s for a planned development that never happened, and nature moved in instead. Today it is the most biodiverse urban green space in Buenos Aires — over 300 bird species have been recorded, and the reserve provides habitat for foxes, coypus, armadillos, and over 50 species of amphibian.

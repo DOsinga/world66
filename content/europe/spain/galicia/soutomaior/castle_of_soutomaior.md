@@ -8,6 +8,7 @@ tags:
 title: Castle of Soutomaior
 type: poi
 story: "Two chestnut trees standing in the lower garden are estimated to be over 800 years old, meaning they were already mature when the castle's first stone walls were being raised around them. Local guides point out that the layout of the medieval enclosure appears to have been deliberately designed to preserve the trees rather than remove them — an unusual concession to nature in an age when military utility came first."
+score: 7.9
 ---
 The castle of Soutomaior has its origins in the twelfth century, when the first fortified tower was raised on this low ridge above the Verdugo river. Over subsequent centuries it was extended, damaged, and rebuilt several times, passing through the hands of powerful Galician noble families before falling into long neglect. Its current appearance owes much to a nineteenth-century neo-Gothic restoration that added the crenellated parapets and pointed windows that give it a romantic, slightly theatrical quality at odds with its genuinely medieval core.
 

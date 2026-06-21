@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.9960
 longitude: 97.0082
+score: 8.7
 ---
 
 The annual Yushu Horse Festival, held in late July, is one of the largest and most spectacular traditional gatherings on the Tibetan Plateau. Nomads from across the prefecture — and from neighbouring areas of Sichuan and Tibet — converge on the festival grounds outside town for racing, displays of horsemanship, Tibetan opera, archery contests, and traditional dress. The festival runs for several days and the atmosphere is genuinely festive, with a temporary city of tents erected on the hillsides around the main arena.

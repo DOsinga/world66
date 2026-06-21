@@ -8,6 +8,7 @@ latitude: 38.3463
 longitude: -0.4797
 sources:
   - https://en.wikipedia.org/wiki/Alicante_Museum_of_Contemporary_Art
+score: 7.5
 ---
 
 The Museo de Arte Contemporáneo de Alicante occupies a handsome eighteenth-century building in the old town, the Casa de la Asegurada, which is said to be the oldest civil building in Alicante. The museum was founded around a core collection donated by the sculptor Eusebio Sempere, and the permanent collection now covers Spanish avant-garde art from the mid-twentieth century onwards, with works by Miró, Calder, Chillida, and Sempere himself.

@@ -9,6 +9,7 @@ tags:
 latitude: 50.6405
 longitude: 3.0638
 snippet: Traditional Flemish pub-restaurants serving Welsh, carbonade, and the best regional beer lists
+score: 7.4
 ---
 
 An estaminet is the Flemish equivalent of a brasserie — a warm, wood-panelled pub-restaurant where the menu runs entirely to local specialities, the beer list is long and serious, and the atmosphere is closer to Ghent than to Paris. Lille has a cluster of genuine estaminets in Vieux-Lille, and they are the best places in the city to eat the local cuisine.

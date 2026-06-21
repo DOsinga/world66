@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Dendrochronology dated the building's oak frame to 1289, making it one of the oldest free-standing timber-framed houses still in use anywhere north of the Alps."
+score: 7.3
 ---
 
 A short walk from the cathedral, the three-house ensemble at Römer 2, 4 and 6 is the oldest dated half-timbered house in Germany. Built in 1289 in the Gothic tradition, with later additions, it sits on the corner of Domplatz and is now a private residence.

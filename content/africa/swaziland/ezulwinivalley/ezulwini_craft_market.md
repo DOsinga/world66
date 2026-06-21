@@ -7,6 +7,7 @@ tags:
 latitude: -26.4150
 longitude: 31.1810
 snippet: "Roadside craft market with the best selection of Swazi textiles, carvings, and ceramics"
+score: 6.4
 ---
 
 The Ezulwini Handicrafts Centre along the MR103 is the best place in the valley to buy Swazi crafts. The selection is broad — hand-dyed textiles, hand-woven sisal baskets, soapstone carvings, wooden figures, ceramics, and jewellery — and the quality is generally higher than the smaller roadside stalls. Prices are negotiable and most vendors are experienced at it; a reasonable opening offer is about 60 percent of the first price asked.

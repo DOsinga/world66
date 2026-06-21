@@ -7,6 +7,7 @@ tags:
   - sight
 title: Tissa Wewa
 type: poi
+score: 8.2
 ---
 
 Anuradhapura was made possible by an extraordinary network of artificial lakes, and the Tissa Wewa is one of the oldest and largest. Built by King Devanampiya Tissa in the 3rd century BC and later enlarged, it covers around 160 hectares and still feeds the city's irrigation systems more than two thousand years later.

@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - street_food
+score: 7.4
 ---
 
 The best food in Tamale is not in a restaurant. It comes from the women who set up their large pots near the central market in the late afternoon and cook for the evening rush. The dish to look for is tuo zaafi — known simply as TZ — a thick, grey-green porridge made from millet or sorghum flour that is cooked until it pulls away from the pot in a solid mass. It is served with a dark, spinach-like green leaf soup (often made from baobab leaves) and sometimes with a groundnut soup poured alongside. The combination sounds austere but it is filling, nutritious, and considerably better than it sounds when you eat it in the right company.

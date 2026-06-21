@@ -9,6 +9,7 @@ longitude: 63.9118
 snippet: A river walk along the great river of Kazakh folk tales
 story: >
   The Syr Darya — the Jaxartes of the ancient Greeks — once carried the water that irrigated the civilisations of Transoxiana and fed the Aral Sea. Today the Soviet cotton industry upstream has reduced it to a fraction of its former volume, carrying agricultural runoff instead of fresh water. What was once a river you could drink from is now one you must drill wells to escape.
+score: 6.3
 ---
 
 A riverside walk along the Syr Darya, one of the two great rivers of Central Asia. This river appears in Kazakh folk tales and epic poetry, and walking its banks gives you a sense of the geography that shaped this part of the world — an improbable green corridor threading through vast semidesert.

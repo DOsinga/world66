@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.7
 ---
 
 A jewel of late-Victorian theatre architecture on Guildhall Walk, designed in 1884 by C J Phipps and remodelled by the great theatre architect Frank Matcham in 1900. The 500-seat auditorium retains all of its Matcham fittings — gilded plasterwork, cantilevered balconies, painted ceiling — and is one of the most complete Matcham interiors in the country.

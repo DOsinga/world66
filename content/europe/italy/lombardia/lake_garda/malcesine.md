@@ -8,6 +8,7 @@ story: >
   Goethe stopped in Malcesine in 1786 and made drawings of the Scaligero Castle. He was arrested by the Austrian authorities, who suspected him of being a spy — an Italian surveying an Austrian military installation. He talked his way out of it, and the incident became one of the more amusing anecdotes in his Italian Journey.
 sources:
   - https://en.wikipedia.org/wiki/Malcesine
+score: 9.0
 ---
 
 Malcesine is one of the most picturesque towns on the eastern shore — a cluster of medieval lanes beneath a Scaligero castle, with Monte Baldo rising 1,800 metres directly behind. A cable car (the funivia) connects the lakeside to the summit ridge, where the views over the lake and across to the Alps are extraordinary, and where hiking trails run in both directions along the top.

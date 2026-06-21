@@ -7,6 +7,7 @@ tags:
 latitude: 51.9668
 longitude: 5.6651
 snippet: 15th-century Gothic church at the heart of the old town
+score: 7.0
 ---
 
 The **Grote Kerk**, dedicated to St. Catharina, is a late-Gothic hall church built in the 15th century and the architectural anchor of Wageningen's small historic centre. The tower is the most prominent feature in the town skyline, visible from the Rhine river to the south.

@@ -15,6 +15,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Tubman_Museum
   - https://tubmanmuseum.com/
+score: 8.0
 ---
 
 The Tubman Museum is the largest museum of African American art, history, and culture in the southeastern United States, located on Cherry Street in downtown Macon. The permanent collection spans African art, the slave trade, the Reconstruction era, the civil rights movement, and contemporary African American artists. The galleries are well-designed and the collection is substantial — this is not a small-town effort.

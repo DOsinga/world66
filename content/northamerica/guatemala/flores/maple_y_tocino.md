@@ -7,6 +7,7 @@ tags:
   - eating_out
   - bars_and_cafes
   - restaurant
+score: 4.9
 ---
 
 A small, popular brunch place near the cathedral known — as the name suggests — for breakfasts: maple-syrup pancakes, eggs benedict, decent bacon, French press coffee. It also does sandwiches and burgers through lunch.

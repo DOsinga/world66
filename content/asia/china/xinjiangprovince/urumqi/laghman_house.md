@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 43.7890
 longitude: 87.6310
+score: 7.2
 ---
 
 Laghman is the dish to eat in Ürümqi. These are hand-pulled noodles — thick, chewy ropes of dough stretched and folded until they have the right heft — served in a sauce of lamb, sweet peppers, tomato, and enough cumin to announce itself across a room. It is the most common dish in the Erdaoqiao area, served in dozens of small family restaurants where the pulling happens in full view of the dining room. Watching the cook stretch a ball of dough into several metres of noodle in about thirty seconds is half the experience.

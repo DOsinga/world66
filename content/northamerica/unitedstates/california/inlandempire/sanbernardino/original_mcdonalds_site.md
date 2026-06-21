@@ -13,6 +13,7 @@ story: >
   It was the world's first fast-food restaurant as we now understand the concept.
   Ray Kroc, the milkshake-machine salesman who franchised and eventually bought
   the company, never forgot that the idea came from San Bernardino.
+score: 7.4
 ---
 
 The site of the original McDonald's restaurant on North E Street (now Juan Pollo at 1398 N E Street) is a pilgrimage point for fast-food historians. The McDonald brothers — Richard and Maurice — opened their drive-in restaurant here in 1940, then reinvented it in 1948 as the world's first streamlined, self-service hamburger stand, the template for the entire fast-food industry.

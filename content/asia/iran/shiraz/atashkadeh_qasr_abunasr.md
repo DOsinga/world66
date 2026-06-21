@@ -7,6 +7,7 @@ tags:
 - sight
 title: Fire Temple at Qasr-e Abunasr
 type: poi
+score: 5.7
 ---
 
 Among the ruins of the Sassanian-era fortress at Qasr-e Abunasr stand the remains of a small four-arched fire temple — a chahar taq, the typical floorplan of Persian Zoroastrian temples. The four piers and connecting arches once supported a dome under which the sacred fire was kept burning.

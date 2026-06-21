@@ -10,6 +10,7 @@ neighbourhood: New Town
 latitude: 41.3092
 longitude: 69.2717
 story: "The theatre was completed in 1947 using a workforce of around five hundred Japanese prisoners of war taken in the final weeks of World War II. A plaque on the building, added in 1996 at the request of the Japanese embassy, acknowledges their craftsmanship — quietly noting they were forced labour."
+score: 8.3
 ---
 
 A stately yellow-brick opera house designed by Alexei Shchusev — also the architect of Lenin's mausoleum — and one of the great Stalinist monuments of Tashkent. The interior has six grand foyers, each decorated by craftsmen from a different Uzbek region: Khiva, Bukhara, Fergana, Samarkand, Termez, and Tashkent.

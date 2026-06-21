@@ -6,6 +6,7 @@ longitude: -8.36
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 A long-standing seafood restaurant just off the main square. The cataplana — a copper-pot fish and shellfish stew, the signature dish of the Algarve — is the order to make, and at O Tarro it is generally excellent.

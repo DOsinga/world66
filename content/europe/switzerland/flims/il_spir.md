@@ -7,6 +7,7 @@ tags:
 latitude: 46.8130
 longitude: 9.3189
 snippet: Clifftop platform with a vertiginous view straight down into the Rhine Gorge
+score: 8.2
 ---
 
 Il Spir is a wooden viewing platform cantilevered over the edge of the cliff above the Rhine Gorge, about a 40-minute walk from Flims through the forest. The view straight down into the Ruinaulta gorge is one of the best in the Alps — the river glints far below, white rock pinnacles rise from the canyon floor, and on a clear day the view extends to the Vorderrhein valley beyond.

@@ -13,6 +13,7 @@ story: >
   that the whole range really does look like a musical instrument built by
   geological forces. On a clear day they are visible from sixty kilometres
   away across the Chihuahuan Desert.
+score: 8.9
 ---
 
 The Organ Mountains rise abruptly from the desert floor east of Las Cruces, with the highest point (Organ Needle) reaching 2,727 metres. The national monument, established in 2014, protects the mountains and the surrounding desert landscape — canyons, arroyos, lava flows, and grasslands that stretch south toward the Mexican border. The range is technically part of the southern Rocky Mountains, though it feels isolated enough from the main range to be its own distinct world.

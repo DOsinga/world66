@@ -6,6 +6,7 @@ longitude: 4.3094
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 A traditional Dutch eetcafe near the Binnenhof, doing the sort of honest Dutch food that has become harder to find — stamppot (mashed potato with vegetables), hutspot, thick soups, and good bread, alongside local beers on tap. The space is dark-wood-and-tiled, the kind of interior that has been unchanged for fifty years. Good value, particularly for lunch before or after the Mauritshuis.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -16.9172
 longitude: 145.7752
+score: 7.3
 ---
 
 The Cairns War Memorial stands at the top of the Esplanade near the junction with Shields Street, and the surrounding civic precinct contains the best of Cairns' early 20th-century architecture. The former Post Office, the Supreme Court, and the School of Arts building — now the Cairns Museum — were all built between the 1900s and 1930s, in a style that combines federation era solidity with tropical adaptations: deep verandahs, louvred shutters, and covered walkways.

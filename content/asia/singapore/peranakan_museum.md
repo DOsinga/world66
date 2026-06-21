@@ -2,11 +2,13 @@
 address: 39 Armenian Street, Singapore 179941
 latitude: 1.294291
 longitude: 103.849109
+score: 8.1
 snippet: Deep dive into Straits Chinese culture and heritage
 tags:
 - things_to_do
 - sight
 - museums
+- clarke_quay
 title: Peranakan Museum
 type: poi
 ---

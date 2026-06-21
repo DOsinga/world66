@@ -6,6 +6,7 @@ tags:
 - shopping
 title: A Y Sadiki
 type: poi
+score: 2.8
 ---
 
 A general store on the corner of Jamhuri and Kashai roads, opposite the market. Stocks fabric, bicycle spares, and everyday sundries. Handy for picking up small items you forgot to pack.

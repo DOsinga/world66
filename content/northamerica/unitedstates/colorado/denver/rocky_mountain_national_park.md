@@ -4,6 +4,7 @@ type: poi
 tags: [day_trips, sight]
 latitude: 40.3428
 longitude: -105.6836
+score: 9.1
 ---
 
 The closest national park to Denver — 90 minutes northwest of the city through the gateway town of Estes Park. Rocky Mountain has 415 square miles of high-country scenery: alpine lakes, tundra above 11,000 feet, Trail Ridge Road (the highest paved road in the United States, open mid-May to mid-October), and reliable wildlife (elk, moose, bighorn sheep).

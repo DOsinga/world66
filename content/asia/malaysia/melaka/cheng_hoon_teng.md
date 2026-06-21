@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Cheng Hoon Teng Temple
 type: poi
+score: 8.9
 ---
 
 The oldest functioning Chinese temple in Malaysia, established in 1646 by Lee Wei King, a minister who accompanied Zheng He's famous voyages. The temple compound contains three prayer halls dedicated to different deities, a main hall of exceptional woodcarving, and a courtyard used for festivals and performances.

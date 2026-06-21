@@ -10,6 +10,7 @@ story: >
   The Great Egg Harbor River was designated a National Wild and Scenic River in 1992, one of only a handful in New Jersey. The designation protects not just the river itself but a corridor of land on either side, which is why the banks remain in such good condition despite being surrounded by one of the most densely populated regions in the United States.
 sources:
   - https://en.wikipedia.org/wiki/Great_Bay_(New_Jersey)
+score: 8.1
 ---
 
 The Great Egg Harbor River runs for about 60 miles through the heart of the New Jersey Pinelands before emptying into Great Bay and then the Atlantic Ocean. For paddlers, the upper and middle sections of the river — above Mays Landing — offer the best experience: clear, tannin-stained water (the characteristic dark tea colour of Pinelands streams), overhanging cedar and pine, and long stretches with no visible development on either bank.

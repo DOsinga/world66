@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
 story: "Isla Magdalena holds roughly 120,000 breeding pairs of Magellanic penguins between October and March. The island is so densely burrowed that there is virtually no plant taller than a few centimetres — the penguins have eaten or trampled everything."
+score: 8.4
 ---
 
 The small flat island of **Isla Magdalena**, about 35 km north of Punta Arenas in the middle of the Strait of Magellan, is in summer a city of penguins. From October to early April, around 120,000 breeding pairs of **Magellanic penguins** come ashore here to nest in burrows; visitors walk along a roped path through the colony, with the birds shuffling, calling and squabbling on every side.

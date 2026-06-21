@@ -1,5 +1,0 @@
-asia/india/uttaranchal/haridwar
-asia/pakistan/hunzavalley/battura_valley
-europe/romania/mamaia
-europe/faroeislands/suuroy/sandvk
-europe/italy/calabria/crotone

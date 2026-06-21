@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.7155
 longitude: 85.319
+score: 4.5
 ---
 
 The Ganatantra Smarak is a small park adjacent to the Narayanhiti Palace grounds, established after Nepal's transition to a federal democratic republic in 2008. It commemorates those who died in the decade-long Maoist civil war and in the various pro-democracy movements that preceded the end of the monarchy. The park includes sculptures, inscriptions, and memorial elements designed in a contemporary Nepali style.

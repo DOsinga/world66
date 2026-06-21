@@ -12,6 +12,7 @@ story: >
   The result is a landscape that looks almost artificial — as if a giant had stacked enormous marbles across
   the hillsides. The boulders range in colour from pale grey to deep orange depending on the iron content
   of the rock.
+score: 8.8
 ---
 
 The Granite Dells are one of the more striking geological features in central Arizona — a landscape of rounded, stacked granite boulders rising from the shores of Watson Lake, about three miles north of downtown Prescott. The colours change with the light, going from pale grey at midday to deep amber and orange at sunset.

@@ -10,6 +10,7 @@ tags:
 - snorkelling
 title: Castara Bay
 type: poi
+score: 7.7
 ---
 
 Castara Bay, on the Caribbean coast, is divided into two bays — Big Bay, just in front of Castara Village, and Little Bay, more secluded and great for snorkelling. Both are surrounded by lush vegetation. The village of Castara retains a working fishing village character: pirogues are pulled up on the beach, and fishermen repair nets in the mornings. Small guesthouses and a handful of cafes cater to the visitors who come for the unhurried atmosphere as much as the beach.

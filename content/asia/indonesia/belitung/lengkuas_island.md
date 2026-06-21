@@ -11,6 +11,7 @@ story: >
   The lighthouse on Lengkuas was built by the Dutch colonial administration in 1882 and is still operational today, still flashing its warning beam across the Java Sea. The Dutch called the island Kabeljauw — "cod" — though there are no cod in these waters. Climbing the 18 floors to the top gives a panoramic view over the surrounding islands and the peculiar granite formations that rise from the sea in every direction.
 sources:
   - https://en.wikipedia.org/wiki/Lengkuas_Island
+score: 8.7
 ---
 
 Lengkuas Island is the highlight of any island-hopping trip from Belitung. A small island perhaps 300 metres across, it is dominated by an 1882 Dutch colonial lighthouse — still operational and still painted white — rising above the granite rocks and palm trees. Boats pull up on the beach and you are free to explore.

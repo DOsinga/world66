@@ -10,6 +10,7 @@ latitude: 31.8695
 longitude: 117.2972
 story: >
   Li Hongzhang arrived in Beijing as a young scholar in 1847 and rose to become the most powerful official in China during the final decades of the Qing dynasty — the man who negotiated the treaties that ended disastrous wars, built the Beiyang Fleet, and tried to modernize a state that kept outrunning his efforts. When he died in 1901, shortly after signing the Boxer Protocol, foreign diplomats considered him irreplaceable. The family home in Hefei survived the twentieth century intact.
+score: 7.2
 ---
 
 The Li Hongzhang Former Residence preserves the family compound of one of 19th-century China's most consequential statesmen. Li Hongzhang dominated Chinese foreign policy for forty years — negotiating with foreign powers after the Sino-French and Sino-Japanese wars, overseeing China's first railways and telegraph lines, and managing the catastrophic aftermath of the Boxer Uprising. His family home in central Hefei is now a museum dedicated to his life and legacy.

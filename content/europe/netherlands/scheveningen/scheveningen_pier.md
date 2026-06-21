@@ -8,6 +8,7 @@ tags:
 - sight
 title: Scheveningen Pier
 type: poi
+score: 6.9
 ---
 
 The Pier juts 380 metres out into the North Sea: a long concrete walkway leading to four interconnected glass pavilions and, at the very end, a 40-metre Ferris wheel. From the top capsule on a clear day you can see the coast running south to Hook of Holland and north to Wassenaar.

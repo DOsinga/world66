@@ -5,6 +5,7 @@ tags: [things_to_do, sight, beach, outdoor]
 latitude: 14.4383
 longitude: -17.0125
 story: "Saly was barely a village before tourism arrived in the 1970s — it was chosen for development because the beach here is unusually wide and sheltered compared to the rest of the Petite Côte. The resort now stretches several kilometres, yet the beach remains uncrowded outside the peak European winter season."
+score: 7.7
 ---
 
 The beach at Saly is the whole point of being here — a wide, pale-sand strip running for several kilometres along the Atlantic coast, backed by gardens of casuarina and bougainvillea. The water is warm year-round and the wave height is manageable, making it comfortable for casual swimming. The current is manageable close to shore but can be stronger further out.

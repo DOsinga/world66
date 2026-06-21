@@ -8,6 +8,7 @@ tags:
   - desert
   - tour
 snippet: Multi-day camel and 4WD trips into the Adrar from town
+score: 7.9
 ---
 
 Most travellers come to Chinguetti not only for the town itself but for the desert beyond it, and the auberges here will all organise camel or 4WD trips of any length you can pay for. A short overnight loop into the nearest dunes — leave in the afternoon, sleep on a blanket under the stars, return after a sunrise camel ride — is enough to give you a taste. Three to four days lets you walk to the Eye of the Richat (the Guelb er Richat) crater visible from space, or to the abandoned ksar at Ouadane.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.2554
 longitude: -122.1378
+score: 7.2
 ---
 
 The McCloud Railway started life in 1897 as a logging line, hauling timber out of the Cascade forests to the main Southern Pacific lines down at Mount Shasta City. At its peak it ran more than a hundred miles of track. The freight operation finally ended in 2006, but a section of the line near town has been preserved as a heritage railway.

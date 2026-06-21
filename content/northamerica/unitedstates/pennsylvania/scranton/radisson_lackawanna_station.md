@@ -8,6 +8,7 @@ tags:
   - historic
 latitude: 41.4056
 longitude: -75.6614
+score: 8.3
 ---
 
 The old Lackawanna Railroad terminal is one of the great surviving railway stations of the American northeast — a 1908 Beaux Arts limestone hall, complete with marble booking hall and a coffered barrel-vault ceiling decorated with portraits of stations along the line. Passenger service ended in 1970 and the building sat empty for years before being converted into a hotel.

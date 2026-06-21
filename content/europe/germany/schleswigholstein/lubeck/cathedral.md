@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 8.6
 ---
 
 The Dom zu Lübeck sits at the southern tip of the Altstadt, anchoring the island as the city's oldest major building — founded in 1173 by Henry the Lion. It is Romanesque in plan and brick in fabric, an older sibling to the brick Gothic that followed it elsewhere in the city.

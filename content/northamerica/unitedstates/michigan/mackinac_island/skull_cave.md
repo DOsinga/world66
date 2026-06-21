@@ -13,6 +13,7 @@ story: >
   bones — the remains of previous violence — which is how the cave got its name.
   He later wrote a detailed account in his memoirs, which remains one of the most
   vivid eyewitness descriptions of 18th-century Great Lakes conflict.
+score: 7.2
 ---
 
 Skull Cave is a shallow limestone cavern on the high interior of the island, accessible via a trail through the state parkland. It is one of the island's more atmospheric stops — small enough that you can see everything in a few minutes, but the story attached to it is genuinely gripping and the setting, in the forested heights away from the busy waterfront, feels removed from the tourist circuit.

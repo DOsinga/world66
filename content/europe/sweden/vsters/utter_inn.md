@@ -11,6 +11,7 @@ story: >
   rooms in implausible locations — he also installed one on top of a Stockholm water tower
   and another bolted to the wall of an iron mine. The underwater room has only a single
   porthole window, and guests have reported waking up to perch swimming past their bed.
+score: 7.8
 ---
 
 The Utter Inn is one of the more unusual places to spend a night in Sweden. From the surface it looks like a small red Swedish cottage floating on Lake Mälaren — but the bedroom is two metres below the waterline, with windows looking into the lake. The artist Mikael Genberg completed it in 2000 as a conceptual art piece that doubles as accommodation.

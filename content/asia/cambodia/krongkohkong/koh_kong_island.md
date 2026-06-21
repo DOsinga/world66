@@ -10,6 +10,7 @@ latitude: 11.3500
 longitude: 103.0000
 story: >
   Koh Kong Island has been spared the resort development that smothered Sihanoukville's offshore islands largely because the Cambodian navy keeps a small base on its northern tip and access has been restricted at times. Day trips were officially blocked in 2019 and then reopened; ask in town for the current status. The island has no permanent settlements, no electricity grid, no roads.
+score: 5.8
 ---
 
 Cambodia's second-largest island, lying some 25 kilometres south of Koh Kong town. Seven long, undeveloped beaches face the Gulf of Thailand on its west side, with mangrove and rainforest behind. There is virtually no infrastructure — a couple of seasonal beach-shack restaurants, no resorts, and no overnight accommodation officially permitted.

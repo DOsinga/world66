@@ -10,6 +10,7 @@ tags:
 - bar
 title: Devassa Jardim Botanico
 type: poi
+score: 4.9
 ---
 
 The Jardim Botanico branch of Devassa, in a charming setting near the Botanical Garden. The same excellent house-brewed draught beer and good food as the Ipanema location, with a slightly more relaxed pace.

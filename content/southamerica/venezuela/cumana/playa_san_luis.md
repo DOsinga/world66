@@ -7,6 +7,7 @@ tags:
   - sight
 title: Playa San Luis
 type: poi
+score: 7.2
 ---
 
 Playa San Luis is the city's main beach, a long arc of pale sand and palms along the bay west of the old town. The water is calm and warm year-round, and the shaded promenade behind is lined with simple seafood kiosks selling fried fish, empanadas, and cold beer.

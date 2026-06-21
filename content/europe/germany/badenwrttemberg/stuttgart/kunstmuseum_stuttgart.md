@@ -16,6 +16,7 @@ story: >
   members initially voted against it. It opened in 2005.
 sources:
   - https://en.wikipedia.org/wiki/Kunstmuseum_Stuttgart
+score: 7.8
 ---
 
 The Kunstmuseum Stuttgart occupies a dramatic glass cube on Schlossplatz, directly opposite the New Palace. At night, the translucent facade glows from within, making it one of the most visible buildings in central Stuttgart. The building opened in 2005 and was immediately controversial — the bold modernist box on a square defined by baroque and neoclassical buildings — but it has since become a loved part of the city's skyline.

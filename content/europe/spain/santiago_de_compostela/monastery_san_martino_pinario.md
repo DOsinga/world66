@@ -9,6 +9,7 @@ latitude: 42.8819
 longitude: -8.5444
 sources:
   - https://en.wikipedia.org/wiki/Monastery_of_San_Marti%C3%B1o_Pinario
+score: 8.4
 ---
 
 The Monastery of San Martiño Pinario is one of the largest monasteries in Spain, second only to El Escorial in floor area, and it stands immediately north of the Cathedral in a position that was carefully negotiated over centuries of friction between the Benedictine monks and the cathedral chapter. The current building was constructed between the 16th and 18th centuries.

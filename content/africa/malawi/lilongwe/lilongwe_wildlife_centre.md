@@ -15,6 +15,7 @@ story: >
   that occupies prime real estate inside the capital.
 sources:
   - https://en.wikipedia.org/wiki/Lilongwe_Wildlife_Centre
+score: 8.3
 ---
 
 The Lilongwe Wildlife Centre is a 180-hectare miombo woodland sanctuary inside the city, part of the larger Lilongwe National Park. It doubles as a rehabilitation centre for animals rescued from the illegal wildlife trade — vervet monkeys, olive baboons, and bush babies are the most visible residents — and as a birding destination, with over 100 species recorded on site.

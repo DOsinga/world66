@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 37.8700
 longitude: 112.5550
+score: 6.5
 ---
 
 Shanxi vinegar — specifically the aged or "mature" vinegar produced in the Taiyuan and Qingxu areas — is one of China's "four famous vinegars" and has been produced in the region for over three thousand years. The vinegar undergoes a lengthy ageing process, developing a complex, intensely flavoured liquid that is used in cooking, added as a condiment, and consumed as a health drink. It is darker, richer, and more complex than ordinary rice vinegar, and taking a bottle or two home is one of the most practical souvenirs from Taiyuan.

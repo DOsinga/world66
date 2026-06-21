@@ -7,6 +7,7 @@ tags:
   - bar
 title: Golden Cross
 type: poi
+score: 6.9
 ---
 
 The Golden Cross on Hay Lane is one of Coventry's oldest pubs, occupying a building that dates from the 15th century and survived the Blitz more or less intact. It sits just around the corner from St Mary's Guildhall and has the low ceilings and irregular floorplan you'd expect from a building this old. The pub has been serving drinks on this spot, in various forms, for more than five hundred years — which makes it a rarity in a city that lost so much of its medieval fabric.

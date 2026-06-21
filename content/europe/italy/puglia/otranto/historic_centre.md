@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 40.1456
 longitude: 18.4905
+score: 8.2
 ---
 
 The walled centro storico is a tight grid of whitewashed alleys, painted doorways, low arches, and improbably blue glimpses of the Adriatic between buildings. The defensive walls, rebuilt in the 16th century on earlier Aragonese foundations, still ring the old town and can be followed almost all the way around.

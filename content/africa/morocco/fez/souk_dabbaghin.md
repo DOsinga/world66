@@ -9,6 +9,7 @@ tags:
 title: Souk Dabbaghin (Leather Souk)
 type: poi
 snippet: "The leather market surrounding the Chouara tannery — bags, belts, and babouches"
+score: 7.0
 ---
 
 The leather souk occupies the alleys immediately surrounding the Chouara tannery, and the smell is unavoidable long before you arrive. The shops sell everything produced from the tannery below: babouche slippers in dozens of colours, leather bags and pouches, belts, wallets, camel-leather ottomans, and sheepskin coats. The shops on the upper terraces facing the tannery vats are the most famous (and most tourist-targeted); better prices and similar quality can be found in the alleys away from the tannery viewing terraces.

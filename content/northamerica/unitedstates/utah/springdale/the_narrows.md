@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: A wade up the Virgin River through a slot canyon with 1,000-foot walls
 story: "Pictographs found in the slot canyon side-chambers show that the Anasazi were using this route a thousand years ago. The river has cut down through six hundred metres of Navajo sandstone at roughly the rate of a sheet of paper a year. In summer the rangers close the route on any forecast of thunderstorms — a flash flood through the slot will move at twenty miles per hour and the walls are too sheer to climb."
+score: 9.4
 ---
 
 The Narrows is the upper section of Zion Canyon, where the gorge closes to perhaps six metres wide between walls that rise three hundred metres straight up. You walk in the river itself; there is no other path. From the end of the canyon road, the route runs upstream as far as a side canyon called Big Spring (a sixteen-mile round trip) or, with a permit, the full length from the top down (a two-day trip).

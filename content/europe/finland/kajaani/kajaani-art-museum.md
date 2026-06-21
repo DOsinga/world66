@@ -5,6 +5,7 @@ latitude: 64.225
 longitude: 27.730
 snippet: "Municipal art museum with Finnish and regional work, at Linnankatu 14"
 tags: [things_to_do, gallery]
+score: 6.4
 ---
 
 The Kajaani Art Museum at Linnankatu 14 holds a collection of Finnish art with an emphasis on work connected to the Kainuu region. The permanent collection includes paintings and graphic work from the 19th and 20th centuries, alongside rotating temporary exhibitions that bring in contemporary work from elsewhere in Finland. The scale is appropriate to a town of Kajaani's size — not overwhelming, but with enough range to reward an hour's attention.

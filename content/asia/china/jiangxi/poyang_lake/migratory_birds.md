@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.0200
 longitude: 116.0500
+score: 8.6
 ---
 
 Beyond the Siberian cranes, Poyang Lake supports one of the richest concentrations of migratory waterbirds in East Asia. In winter, the lake holds hundreds of thousands of individuals across dozens of species: white-naped cranes, hooded cranes, greater white-fronted geese, bean geese, Eurasian wigeons, tufted ducks, falcated ducks, and many others. The diversity of habitat — open water, shallow mudflats, reed beds, and grassland — supports an unusually wide range of ecological niches in a relatively compact area.

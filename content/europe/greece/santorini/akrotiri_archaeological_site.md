@@ -16,6 +16,7 @@ story: >
   of preservation, with multi-storey structures, painted walls, and intact
   drainage systems, suggests a sophisticated urban civilisation that simply
   vanished one morning and never returned.
+score: 9.0
 ---
 
 The Bronze Age settlement of Akrotiri was buried by volcanic ash around 1600 BC, preserving it in extraordinary detail. Multi-storey buildings, frescoes, pottery, and a sophisticated drainage and sewage system are all visible under the large protective roof that covers the excavation. It is often compared to Pompeii, but predates it by more than a thousand years.

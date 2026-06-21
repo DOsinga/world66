@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Fish Maw Soup and Fuzhou Cuisine
 type: poi
+score: 8.3
 ---
 
 Sitiawan's Fuzhou food heritage is the main reason food-minded visitors make the trip. Beyond kong piang, the essential dishes are sweet-and-sour fish maw soup — a richly flavoured broth with dried fish stomach, vinegar, and egg — and stuffed fish balls, which are made from fish paste wrapped around a core of minced pork. Both dishes are specific to the Sitiawan Fuzhou community and done consistently better here than anywhere else in Malaysia.

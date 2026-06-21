@@ -13,6 +13,7 @@ story: >
   at Middleham Castle sometime in the late 15th century. Nobody knows who owned it
   or why it was hidden. At the time of its auction it sold for over £2.5 million,
   a record for English medieval jewellery, paid jointly by the museum and the V&A.
+score: 8.9
 ---
 
 The Yorkshire Museum stands in the walled Museum Gardens, its early Victorian Neoclassical facade giving no hint of the quality inside. The collections span Roman York — Eboracum, once the capital of northern Britain — through the Viking age, the medieval period, and into the natural history of the county. The Roman section includes sculptures, mosaics, and personal objects recovered from the fortress and the civilian settlement that grew around it. The Viking exhibits draw on decades of excavation in York, particularly from Coppergate, and sit alongside material from the Jorvik digs.

@@ -7,6 +7,7 @@ tags:
 latitude: 44.5008
 longitude: -81.3736
 snippet: Fishing and canoeing river that meets Lake Huron at Southampton
+score: 7.0
 ---
 
 The Saugeen River completes a 160-kilometre journey from its headwaters near Dundalk to empty into Lake Huron at the north end of Southampton. Its final stretch through town is calm and tree-lined, making it a pleasant place for an afternoon in a canoe or kayak. The river mouth area is good fishing: Chinook salmon run up in autumn, and brown trout are taken year-round.

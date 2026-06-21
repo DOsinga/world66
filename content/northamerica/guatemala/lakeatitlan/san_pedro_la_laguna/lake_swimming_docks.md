@@ -8,6 +8,7 @@ tags:
 latitude: 14.694
 longitude: -91.272
 snippet: Clear volcanic water for swimming off the docks and rocky shore
+score: 7.8
 ---
 
 San Pedro La Laguna has some of the best lake access on Atitlán for swimming. The town has two docks — one to the east (the main lancha dock) and one to the west — and swimming off the rocky shoreline between them is a daily ritual for long-stay travellers. The water is clean, clear, and cold at around 18°C year-round; the altitude means it never warms up regardless of the season.

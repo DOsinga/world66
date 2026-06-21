@@ -7,6 +7,7 @@ tags:
 - bar
 title: Cervejaria Backer
 type: poi
+score: 6.5
 ---
 
 Belo Horizonte has been one of the centres of the Brazilian craft beer movement for fifteen years, and Backer is the local brewery with the longest reputation. The brewery and its attached brewpub sit in the Olhos d'Água district on the western edge of the city — a fifteen-minute taxi ride from the centre.

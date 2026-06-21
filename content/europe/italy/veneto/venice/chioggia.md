@@ -9,6 +9,7 @@ tags:
 - beach
 title: Chioggia
 type: poi
+score: 7.5
 ---
 
 Chioggia sits at the southern tip of the Venetian lagoon — a working fishing town with canals, crumbling palazzi, and far fewer tourists than Venice. It's sometimes called "little Venice," though the vibe is more workaday Italian town than museum piece.

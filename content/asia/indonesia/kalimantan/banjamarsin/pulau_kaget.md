@@ -13,6 +13,7 @@ story: >
   endangered across most of its range. Pulau Kaget is one of the easiest
   places to see them in the wild, particularly at dusk when family groups
   gather in the riverside trees to sleep.
+score: 6.7
 ---
 
 Pulau Kaget is a small uninhabited island in the Barito River about thirty kilometres downstream of Banjarmasin, designated as a nature reserve to protect a wild population of proboscis monkeys. The journey down the river is a long half-day from the city.

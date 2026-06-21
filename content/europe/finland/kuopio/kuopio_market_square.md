@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: The lively central square, heart of city life in summer
 latitude: 62.8922
 longitude: 27.6783
+score: 7.2
 ---
 
 Kuopio's kauppatori (market square) is one of the liveliest in Finland outside Helsinki, filled with vendors selling local produce, berries, fish, and flowers from early morning throughout the summer months. The square is flanked by the Art Nouveau market hall on one side and the City Hall on another. In summer the terraces of nearby cafes spill out around its edges.

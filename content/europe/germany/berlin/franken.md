@@ -9,6 +9,7 @@ tags:
 - kreuzberg
 title: Franken
 type: poi
+score: 6.4
 ---
 
 An authentic neighbourhood Kneipe on Oranienstraße — honest, unpretentious, with a hard-drinking clientele. In summer the benches outside overflow with Kreuzberg regulars. Not polished, not for tourists, absolutely worth it.

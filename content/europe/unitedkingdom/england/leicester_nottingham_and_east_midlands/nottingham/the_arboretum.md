@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - park
 snippet: Nottingham's oldest public park, opened in 1852 and barely changed since.
+score: 6.8
 ---
 
 The Arboretum opened in 1852 as Nottingham's first municipal park, designed by Samuel Curtis on the model of London's Kew Gardens — a curated walk through specimen trees arranged by family. The layout, the cast-iron fountain, the Chinese-style bell tower, and the aviary remain largely intact, giving the park a Victorian feel rare in English city centres.

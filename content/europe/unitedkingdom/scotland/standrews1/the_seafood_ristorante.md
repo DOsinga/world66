@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 56.3364
 longitude: -2.7816
+score: 6.1
 ---
 
 The Seafood Ristorante occupies a glass-sided pavilion on the East Sands beach, with the harbour behind it and views east along the coast. The position is spectacular — floor-to-ceiling windows look directly over the beach, and the light on a clear evening is particularly good. This is the most ambitious restaurant in St Andrews, with a menu that concentrates on fresh Scottish seafood: langoustines from the Fife coast, hand-dived scallops, local lobster, and a strong list of fish from the day boats.

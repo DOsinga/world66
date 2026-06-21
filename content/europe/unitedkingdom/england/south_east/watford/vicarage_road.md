@@ -14,6 +14,7 @@ story: >
   rise from the Fourth Division to the FA Cup final in nine seasons. The main
   stand at Vicarage Road bears his name; he still owns a small ceremonial
   stake in the club.
+score: 6.5
 ---
 
 Watford's football ground sits in the south-west of the town, ten minutes' walk from the High Street. The current stadium was largely rebuilt in stages between 1986 and 2014, but the site has been continuously used since 1922 and retains the slightly cramped, intimate feel of an English town club ground.

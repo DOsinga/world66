@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Baden-Powell's headstone carries the trail sign for 'I have gone home' — a small circle inside a larger one, which scouts the world over still use to mark the end of a journey. He died in Nyeri in January 1941; his wife Olave joined him in the grave thirty-six years later."
+score: 6.9
 ---
 
 Robert Baden-Powell, founder of the Scout movement, retired to Nyeri with his wife Olave in 1938 and spent the last three years of his life here. He chose Kenya for its climate and for the view of Mount Kenya from his cottage at the Outspan Hotel. He is buried at St Peter's Church on the edge of town, in a simple grave under a flat stone that has become a pilgrimage site for Scouts from around the world.

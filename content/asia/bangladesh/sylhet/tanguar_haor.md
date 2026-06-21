@@ -12,6 +12,7 @@ story: >
   migratory waterfowl in Bangladesh. In a good year, more than 100,000 birds
   arrive between November and February — purple herons, fishing eagles,
   pintails, and the rare ferruginous duck.
+score: 6.7
 ---
 
 Tanguar Haor is one of Bangladesh's two Ramsar Wetland sites of international importance, and a real trip in its own right — about three hours west of Sylhet, then an overnight boat through the haor. In the wet season the haor is a vast lake dotted with submerged trees and fishing villages on stilts; in the dry season it shrinks to a network of beels (ponds) connected by channels.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: "1769 colonial farmhouse that served as a field hospital in three wars"
+score: 6.7
 ---
 
 A modest white clapboard farmhouse from 1769, built by William Harwood, that has been a field hospital in three different wars: the Revolution (Cornwallis's troops camped here in 1781 on the march to Yorktown), the War of 1812, and the Civil War, when the Confederate 32nd Virginia Infantry mustered on the grounds and the house was used to treat wounded after the Battle of Big Bethel.

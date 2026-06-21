@@ -13,6 +13,7 @@ story: >
   collective tomb during the Chalcolithic period, roughly 3500–2500 BCE. The idea of a
   witch's hut probably arose from later inhabitants encountering the strange stone structure
   looming over the hillside and reaching for the supernatural to explain it.
+score: 7.0
 ---
 
 On the hillside above the village of Elvillar, a short drive from Laguardia, stands one of the best-preserved megalithic dolmens in the Basque Country. The Chabola de la Hechicera — The Witch's Hut — is a Chalcolithic chamber tomb dating to around 3500–2500 BCE, consisting of large upright stones capped by a massive horizontal slab. The setting, overlooking the vineyards of Rioja Alavesa with the Sierra de Cantabria rising behind, is dramatic.

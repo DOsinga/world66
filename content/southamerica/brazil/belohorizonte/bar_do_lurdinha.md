@@ -7,6 +7,7 @@ tags:
 - bar
 title: Bar do Lurdinha
 type: poi
+score: 7.0
 ---
 
 Bar do Lurdinha is the kind of corner bar that defines the Belo Horizonte botequim tradition — a small Santa Tereza spot with white plastic tables on the pavement, very cold beer (Antarctica or Original, in long-neck bottles), and a printed menu of petiscos that runs to twenty pages of fried, grilled, and stewed snacks.

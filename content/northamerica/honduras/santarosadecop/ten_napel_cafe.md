@@ -7,6 +7,7 @@ longitude: -88.7798
 tags:
   - bars_and_cafes
   - cafe
+score: 5.6
 ---
 
 A good spot for breakfast — bagels, croissants, and what locals consider the best coffee in town. Ten Napel has carved out a niche as the go-to Western-style breakfast place in Santa Rosa, and it delivers consistently.

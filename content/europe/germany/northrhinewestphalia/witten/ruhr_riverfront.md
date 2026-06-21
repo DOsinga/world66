@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 51.4200
 longitude: 7.2900
+score: 6.6
 ---
 
 The stretch of the Ruhr River running through and around Witten has been cleaned up and made accessible over the past few decades, and the result is a pleasant cycling and walking corridor that feels entirely separate from the industrial city above. The RuhrtalRadweg, a dedicated cycle path running the full length of the Ruhr valley, passes through here and gives easy access to Bochum, Hattingen, and the Ruhr Museum at Essen's Zollverein colliery complex in either direction.

@@ -11,6 +11,7 @@ tags:
 - prenzlauerberg
 title: Prater
 type: poi
+score: 7.4
 ---
 
 Berlin's oldest beer garden, the Prater has been serving cold beer and simple food on Kastanienallee since 1852. The sprawling chestnut-shaded garden seats hundreds and has a relaxed, neighbourhood feel — none of the tourist-trap atmosphere you get closer to the centre.

@@ -9,6 +9,7 @@ tags:
 latitude: 23.0319
 longitude: 72.5953
 snippet: "Brightly painted 1822 wooden temple, starting point of the heritage walk"
+score: 8.2
 ---
 
 The Swaminarayan Temple at Kalupur was built in 1822 and is the original headquarters of the Swaminarayan sect of Hinduism. The exterior is a riot of bright paint, carved wooden balconies, and pastel domes — a striking contrast to the white marble austerity of more recent Swaminarayan temples. The main idols inside are of Nara-Narayan, served on silver platters at the daily morning rites.

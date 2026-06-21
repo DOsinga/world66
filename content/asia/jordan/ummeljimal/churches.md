@@ -9,6 +9,7 @@ latitude: 32.3270
 longitude: 36.3700
 sources:
   - https://en.wikipedia.org/wiki/Umm_el-Jimal
+score: 8.0
 ---
 
 Umm el Jimal contains at least fifteen churches and chapels from the Byzantine period — an unusual concentration for a town of its size, reflecting the prosperity and piety of the community during the 5th and 6th centuries CE. The churches are built entirely from basalt in a style characteristic of the Hauran region: no mortar, no decoration on the exterior, but carefully fitted stone that has held together for 1,500 years.

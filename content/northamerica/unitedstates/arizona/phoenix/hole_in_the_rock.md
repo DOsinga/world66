@@ -9,6 +9,7 @@ tags:
 - papago_park
 title: Hole-in-the-Rock
 type: poi
+score: 7.4
 ---
 
 Hole-in-the-Rock is a wind-and-water-carved opening in one of Papago Park's red sandstone buttes, reached by a short five-minute scramble from the parking area. The view looks west across the city and frames Camelback Mountain and the downtown skyline. It is one of the easiest sunset spots in Phoenix and gets busy in the cooler months — arrive a half-hour before the sun drops.

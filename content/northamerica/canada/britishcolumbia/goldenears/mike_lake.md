@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.3513
 longitude: -122.5000
+score: 6.4
 ---
 
 Mike Lake is a small, quiet lake on the west side of the park, reached by a short trail from the Mike Lake parking area. The loop around the lake takes about an hour and passes through second-growth forest recovering from earlier logging. In contrast to the busier Alouette Lake, Mike Lake sees few visitors even on summer weekends.

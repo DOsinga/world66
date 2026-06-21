@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Camp_Douglas_(Wyoming)
   - https://wyohistory.org/blog/camp-douglas-wyomings-world-war-ii-prisoner-war-base-camp
+score: 8.0
 ---
 
 Between 1943 and 1946, a prisoner of war camp on the outskirts of Douglas held first Italian and then German prisoners — at its peak housing around 3,000 German POWs plus 500 Army personnel, making the camp larger in population than the town of Douglas itself. The site covered over a square mile with 180 buildings, most of which are gone. What remains is the Officers' Club, now a Wyoming State Historic Site, and the remarkable murals painted on its interior walls.

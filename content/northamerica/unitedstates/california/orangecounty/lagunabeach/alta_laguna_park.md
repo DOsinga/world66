@@ -9,6 +9,7 @@ latitude: 33.5559
 longitude: -117.7588
 story: >
   Alta Laguna sits at 366 metres, the highest point within the city limits. On a clear day — which means winter mornings before the marine layer builds — you can see from Catalina Island to Mount Baldy, with the entire Orange County coast laid out below. The park is used mainly by local dog walkers and trail runners, which is part of what makes it worthwhile.
+score: 7.1
 ---
 
 Alta Laguna Park sits on a ridge above the town at the top of Park Avenue, connected to the Laguna Coast Wilderness Park trail system and offering some of the highest views in the area. The park itself is a simple open space — no facilities, no entrance fee, no crowds — with trails heading in multiple directions into the surrounding wilderness.

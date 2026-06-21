@@ -15,6 +15,7 @@ story: >
   goes back to the original loyalist settlers in the early 19th century and has
   held through to today. Every other shop in the Bahamas seems to sell rum;
   Man-O-War sells boat parts and canvas bags.
+score: 7.5
 ---
 
 Man-O-War Cay is the most self-contained of the Abaco cays — a small, tightly-knit community where families have built wooden boats for generations. The Albury family in particular has been constructing traditional Abaco dinghies and sailing vessels here since the 1880s, and the boatbuilding tradition is still alive. The working boatyards are not set up for tourists, but you can watch from the road.

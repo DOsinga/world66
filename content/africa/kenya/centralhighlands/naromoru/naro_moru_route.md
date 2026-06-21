@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 8.4
 ---
 
 The Naro Moru route is the most heavily used of the trails up Mount Kenya, and the one that gave Naro Moru its small claim to fame. The trail starts at the Naro Moru gate of Mount Kenya National Park, about 13 kilometres east of the town, climbs through dense montane forest to the Met Station hut at 3,050 metres, and then crosses the moorland.

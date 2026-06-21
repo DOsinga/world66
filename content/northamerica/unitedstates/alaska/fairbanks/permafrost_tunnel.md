@@ -10,6 +10,7 @@ story: >
   The tunnel walls contain frozen plant material, animal bones, and ice lenses dating back
   over 40,000 years. The oldest sections preserve an intact snapshot of the Pleistocene
   ecosystem, including bison and mammoth remains still embedded in the frozen ground.
+score: 8.8
 ---
 
 The Cold Regions Research and Engineering Laboratory (CRREL) Permafrost Tunnel is a research facility carved into a hillside of permanently frozen ground about 16 miles north of Fairbanks. The U.S. Army Corps of Engineers excavated the tunnel in the 1960s to study permafrost behavior, and it has been in continuous use as a research site ever since.

@@ -4,6 +4,7 @@ type: poi
 author: "Florent Brayard"
 tags:
   - books
+score: 6.9
 ---
 
 Brayard's account of Buchenwald concentration camp draws on survivor testimonies and camp records to reconstruct daily life and death on the Ettersberg ridge above Weimar. It does not flinch from the details, but it also examines how the camp and the city coexisted — how the citizens of Weimar claimed ignorance while smoke rose from the crematorium visible from town.

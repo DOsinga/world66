@@ -8,6 +8,7 @@ tags:
   - sight
   - temple
   - hindu
+score: 6.3
 ---
 
 Hanuman Vatika, the "Garden of Hanuman," sits in Civil Township on the western edge of Rourkela and is one of the most visited religious sites in the city. The centrepiece is a 75-foot statue of the monkey god Hanuman, said to be one of the tallest in eastern India, set in a landscaped garden with fountains and shaded paths.

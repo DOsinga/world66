@@ -12,6 +12,7 @@ story: >
   of the assault surprised both sides — the French garrison had only 2,000 men defending a perimeter designed
   for a much larger force. The city was awarded the title "Heroica" by the Spanish government, and Wellington
   was made Duke of Ciudad Rodrigo by the Spanish Crown, a title his descendants still hold.
+score: 8.5
 ---
 
 The medieval walls encircle the old town in an almost complete circuit and can be walked in under an hour. The walkway along the top of the ramparts is wide, well-maintained, and free to use. Views from the walls look out in two directions: over the surrounding agricultural plain toward the Portuguese border, and down into the streets and gardens of the old town below.

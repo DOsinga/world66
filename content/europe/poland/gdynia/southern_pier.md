@@ -7,6 +7,7 @@ tags:
 snippet: "Long concrete pier — heart of the waterfront, with the museum ships at the far end"
 latitude: 54.5183
 longitude: 18.5497
+score: 7.8
 ---
 
 The Southern Pier is the main public space of Gdynia — a broad concrete promenade running 700 metres out into the bay from Skwer Kościuszki, lined with food stalls and benches and ending at the two museum ships. It is where everyone in Gdynia walks on a summer evening; on weekends, half the population seems to be out here at sunset.

@@ -9,6 +9,7 @@ tags:
 address: 203 Hermitage Drive, Florence, AL 35630
 latitude: 34.8003
 longitude: -87.6764
+score: 7.5
 ---
 
 Pope's Tavern was built around 1830 as a stagecoach inn on the old Natchez Trace and is one of the oldest buildings in Florence. It served as a hospital during the Civil War — for both Union and Confederate wounded — and the original beams still bear bloodstains and bullet holes from the period.

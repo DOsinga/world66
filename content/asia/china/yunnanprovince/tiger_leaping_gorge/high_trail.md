@@ -14,6 +14,7 @@ story: >
   first sight of the river far below, which at this point is a thin white thread against the
   rock. Many people who find the 28 Bends the hardest part of the entire walk also describe
   it as the moment they understood what they had come to see.
+score: 9.7
 ---
 
 The high trail runs roughly 22 kilometres from Qiaotou village to Walnut Grove (Nuoyuan), traversing the north wall of the gorge at between 1,800 and 2,700 metres above sea level, with the Yangtze River roaring somewhere hundreds of metres below. Most trekkers split it over two days, stopping at the Halfway Guesthouse or one of the cluster of family guesthouses at the mid-point. The path is well-established and well-signed in Chinese and English, and the route-finding is straightforward for most of the distance.

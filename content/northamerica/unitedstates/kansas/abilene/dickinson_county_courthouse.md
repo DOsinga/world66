@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Beaux-Arts limestone courthouse from 1921, dominant building on the downtown square
+score: 6.3
 ---
 
 The big limestone Beaux-Arts courthouse that anchors the south end of downtown was completed in 1921, replacing earlier county courthouses on the same site. Topped with a copper dome and faced with locally quarried Kansas limestone, it is the kind of small-town civic building that the Federal Writers' Project used to celebrate — solid, slightly grandiose, and intended to last.

@@ -10,6 +10,7 @@ latitude: 48.6878
 longitude: 6.1797
 story: >
   The Ecole de Nancy was not an institution with buildings and classrooms but a loose alliance of artists, glassmakers, cabinetmakers, and architects who believed craft objects could be as important as paintings. Their leader was Émile Gallé, who died in 1904, but the movement he started produced some of the most extraordinary decorative objects ever made in France — furniture covered in marquetry insects, lamps shaped like dragonflies, windows where the lead lines became vine tendrils.
+score: 8.8
 ---
 
 Nancy is one of the two great centres of Art Nouveau in France (the other is Paris), and this museum, housed in a late 19th-century villa, contains the finest collection of the local school's work. Furniture by Louis Majorelle, glass by Émile Gallé and the Daum brothers, ironwork, ceramics, and stained glass fill the rooms with an intensity of applied ornament that feels both extravagant and entirely coherent.

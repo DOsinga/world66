@@ -8,6 +8,7 @@ tags:
 latitude: 54.8920
 longitude: -2.9334
 snippet: Twin Tudor-style towers guarding the southern entrance to the city
+score: 6.7
 ---
 
 The Citadel stands at the southern end of English Street, two round towers that look medieval but were actually rebuilt in the 1810s to designs by Thomas Telford, who replaced the original Henry VIII artillery fortification with something more imposing. The towers were built as law courts — they served that function until 2011 — and the interiors are not routinely open to the public, but the exterior is worth a close look.

@@ -17,6 +17,7 @@ tags:
 - things_to_do
 title: Anse Source d'Argent
 type: poi
+score: 9.4
 ---
 
 Anse Source d'Argent is the island's signature beach — a series of coves sheltered by enormous pink granite boulders, with shallow, warm water and a scattering of palms. Access is through L'Union Estate (there is an admission fee, which covers the estate grounds too). The beach is best in the morning before the day-trippers arrive; by early afternoon the main coves can be busy.

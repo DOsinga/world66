@@ -3,10 +3,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 10.7769
 longitude: 106.7009
-snippet: Downtown wine bar with Western comforts and prices
+score: 5.1
+snippet: Downtown wine bar in District 1 with an extensive international list and
+  reliably Western-standard service
 tags:
 - bars_and_cafes
 - bar
+- district_1
 title: Enigma
 type: poi
 ---

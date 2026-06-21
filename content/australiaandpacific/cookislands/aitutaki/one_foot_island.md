@@ -7,6 +7,7 @@ tags:
 latitude: -18.929
 longitude: -159.750
 story: "The name Tapuaetai — One Foot Island — comes from a legend about a father and son hiding here from invading warriors. The father was captured when his large footprints were found in the sand, but the son survived by stepping carefully inside his father's prints, leaving only one set of tracks. The story has stuck to this coral sliver for centuries."
+score: 8.9
 ---
 
 Tapuaetai is a small sandbank motu at the southern end of Aitutaki's lagoon, and it has become one of the most photographed spots in the Pacific. The sand is startlingly white, the palms lean in their postcard configuration, and the water on all sides shifts between shades of blue and green that seem digitally enhanced even in person. It is the destination for virtually every lagoon cruise, and the reason many people come to Aitutaki at all.

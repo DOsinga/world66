@@ -10,6 +10,7 @@ tags:
 title: Sydney Jewish Museum
 type: poi
 url: www.sydneyjewishmuseum.com.au
+score: 7.5
 ---
 
 Rated as one of the finest of its kind in the world, this museum covers Australian Jewish history and the Holocaust. Eight exhibition levels with powerful visual displays and survivor testimonies.

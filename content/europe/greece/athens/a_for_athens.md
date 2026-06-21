@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 neighbourhood: Monastiraki
+score: 6.3
 ---
 
 The rooftop bar of the A for Athens hotel, on Monastiraki Square, gives one of the best face-on views of the Acropolis in the city — particularly at sunset, when the Parthenon catches the last warm light. It is also the most reliable spot to see the citadel after dark, when it is floodlit.

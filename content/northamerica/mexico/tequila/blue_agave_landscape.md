@@ -9,6 +9,7 @@ latitude: 20.8828
 longitude: -103.8367
 sources:
   - https://en.wikipedia.org/wiki/Agave_landscape_and_ancient_industrial_facilities_of_Tequila
+score: 9.0
 ---
 
 The Agave Landscape and Ancient Industrial Facilities of Tequila was inscribed as a UNESCO World Heritage Site in 2006, recognising the extraordinary cultural landscape that surrounds the town. The designation covers around 35,000 hectares of blue agave fields, along with the historic distilleries, haciendas, and indigenous settlement sites embedded within them.

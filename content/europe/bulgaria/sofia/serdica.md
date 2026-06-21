@@ -8,6 +8,7 @@ tags:
   - sight
   - archaeology
 story: "Constantine the Great called Serdica 'my Rome' and considered making it the new imperial capital before settling on Byzantium. He spent significant stretches of his reign here; the city was the seat of councils, mint, and Imperial bureaucracy. The current excavations were uncovered during construction of the Serdika metro station in the 2000s."
+score: 8.7
 ---
 
 A large open-air archaeological complex right under Independence Square in the Largo, exposed during construction of the Serdika metro station. You walk through Roman streets, the foundations of the city gate, baths, and an early Christian basilica — all of it once buried under Communist-era pavement.

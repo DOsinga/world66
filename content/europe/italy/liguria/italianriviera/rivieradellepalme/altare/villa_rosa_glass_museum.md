@@ -14,6 +14,7 @@ story: >
   governed the town for over five centuries. French families who had brought the craft from
   Normandy in the 11th century were still the dominant force when the guild was finally
   dissolved in 1823. The museum tells this story through the glass itself.
+score: 8.4
 ---
 
 Villa Rosa is an elegant Art Nouveau townhouse from the early 1900s, purchased by the Italian state in 1992, restored, and now home to the Museo dell'Arte Vetraria Altarese — the museum of Altare's glass art tradition. It is the best reason to visit this small town in the Ligurian Apennines.

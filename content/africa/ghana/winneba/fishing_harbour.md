@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 5.3491
 longitude: -0.6188
+score: 8.3
 ---
 
 The fishing harbour at the western end of town is the heart of Winneba's daily life. Long wooden Fanti and Effutu canoes — painted in bright reds, yellows, and greens, with proverbs and names along the bows — line the beach and the small concrete pier.

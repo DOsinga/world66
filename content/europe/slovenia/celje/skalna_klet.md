@@ -8,6 +8,7 @@ latitude: 46.2250
 longitude: 15.2703
 sources:
   - https://en.wikipedia.org/wiki/Skalna_Klet
+score: 5.8
 ---
 
 Skalna Klet ("the rocky cellar") is a historic tavern carved into the rock face beneath the hill leading up to Celje Castle. The building is centuries old and has served as a place for locals to eat and drink for generations, making it one of the older continuous hospitality establishments in the city. The interior, cut into the living rock, is cool in summer and atmospheric year-round.

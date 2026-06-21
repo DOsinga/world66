@@ -7,6 +7,7 @@ tags:
 latitude: -4.310278
 longitude: 15.3125
 snippet: One of Central Africa's largest markets -- an overwhelming sensory experience in the heart of the city
+score: 8.5
 ---
 
 The Marché Central is one of the largest markets in Central Africa, and one of the most overwhelming. Thousands of vendors sell everything imaginable across a sprawling warren of covered stalls and open lanes: fresh fish and dried insects, bolts of vivid kitenge fabric, electronics, hardware, bootleg cassettes, secondhand clothing from Europe, and vegetables you won't recognise from home. The noise, the smell, and the press of bodies is intense by any standard.

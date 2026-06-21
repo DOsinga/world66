@@ -8,6 +8,7 @@ latitude: 48.6212
 longitude: 22.3005
 story: >
   The linden trees lining the embankment were planted in the Habsburg era and bloom in June, filling the entire riverbank with a honey scent that locals associate with summer evenings. The alley runs for well over a kilometre along both banks — long enough that Uzhhorod has been known to claim, only half-jokingly, that it is the longest linden alley in Europe.
+score: 7.2
 ---
 
 The embankment of the Uzh River is the heartbeat of Uzhhorod's social life — a broad pedestrian walkway lined with linden trees on both sides of the river, connecting the old town to the newer districts and serving as the city's outdoor living room. On summer evenings it fills with families, students, old men playing chess, vendors selling sunflower seeds, and couples who have been walking here since the Soviet era and show no signs of stopping.

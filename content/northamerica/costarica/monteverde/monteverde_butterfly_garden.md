@@ -5,6 +5,7 @@ snippet: Long-established butterfly garden and insect house with naturalist-led 
 tags: [things_to_do, sight, garden, wildlife]
 latitude: 10.3091
 longitude: -84.8169
+score: 6.8
 ---
 
 The Monteverde Butterfly Garden has been running for over thirty years and is more serious than it sounds. Four screened enclosures replicate different Costa Rican habitats, and the entry fee includes a guided tour that walks you through butterfly metamorphosis with live caterpillars, chrysalises and emerging adults.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Kimiangatau Harbour
 type: poi
+score: 5.9
 ---
 
 The island's only landing place for cargo ships is a narrow concrete channel blasted through the makatea on the western coast. The harbour is too small and shallow for the inter-island ship to enter — barges shuttle goods from the freighter anchored offshore — but it is a fine spot to watch a sunset, and the channel itself is calm enough for a swim when the trade winds drop.

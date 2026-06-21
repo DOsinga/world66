@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.455
 longitude: 121.997
+score: 8.5
 ---
 
 Valugan is not a beach for swimming. It is a beach made entirely of enormous black volcanic boulders — rounded, dark, and packed together from the waterline up the shore. The boulders were thrown here by typhoons over many centuries, heaved up by storm surges and deposited in dense rows facing the Pacific. The overall effect is dramatic: the black stones, the grey-blue sea, and the open sky make for a photograph that looks almost nothing like the Philippines.

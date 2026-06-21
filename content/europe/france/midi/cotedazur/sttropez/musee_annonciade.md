@@ -9,6 +9,7 @@ latitude: 43.2722
 longitude: 6.6377
 story: >
   The museum owes its existence to the artist Georges Grammont, who donated his collection of Post-Impressionist and Fauvist works to the town in 1937. It was Signac who first brought the painters here — he arrived by boat in 1892, loved the light, and invited the Fauvist and Nabi circle to follow. Works by Matisse, Braque, Derain, Bonnard, and Utrillo all show scenes of the very harbour you can see through the museum windows.
+score: 8.6
 ---
 
 The Annonciade is one of the finest small art museums on the French Riviera, and most visitors in July barely know it exists. Housed in a restored 16th-century chapel a short walk from the harbour, it holds an outstanding collection of Post-Impressionist and early modern French painting, all connected to Saint-Tropez: the town's extraordinary light drew Signac, then Matisse, then a whole generation of Fauvist and Nabi painters here from the 1890s onwards.

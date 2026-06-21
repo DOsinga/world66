@@ -8,6 +8,7 @@ latitude: 39.4455
 longitude: -123.8068
 story: >
   The railroad got its nickname from the self-propelled gasoline-powered rail cars introduced in the 1920s, which passengers could smell long before they could see them. The name stuck even after the diesel locomotives replaced the gas cars. The route was built in 1885 to haul lumber from the redwood forests to the coast, and the same line that once carried ancient trees now carries tourists through the second-growth forest those trees left behind.
+score: 8.2
 ---
 
 The Skunk Train — officially the California Western Railroad — has been running between Fort Bragg and Willits since 1885. It was built to haul redwood lumber from the forests to the coast, threading through terrain so rugged that no road followed the same route until decades later. Today it carries passengers on trips through 40 miles of redwood and fir forest, crossing wooden trestle bridges and climbing into the mountains behind the coast.

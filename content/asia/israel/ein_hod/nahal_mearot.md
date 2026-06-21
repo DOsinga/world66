@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.6700
 longitude: 34.9653
+score: 9.1
 ---
 
 About 4 kilometres south of Ein Hod, the Nahal Me'arot Nature Reserve protects a series of prehistoric caves on the western slope of Mount Carmel that have been continuously occupied for nearly half a million years. Four caves — Tabun, Jamal, El-Wad, and Skhul — contain evidence of Neanderthal burials, early Homo sapiens, and the gradual development of human tools from the Lower Palaeolithic through the Natufian period. UNESCO listed the site as a World Heritage Site in 2012, recognising it as one of the most complete records of human cultural evolution anywhere on earth.

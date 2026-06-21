@@ -8,6 +8,7 @@ latitude: 38.9466
 longitude: 1.2377
 story: >
   The small islets of Es Bosc and S'Illa des Bosc just offshore from Cala Conta are reachable by paddling or swimming at low tide. Local teenagers have done this for generations. The larger islet has a rocky point that serves as the best viewpoint in the western part of the island.
+score: 8.8
 ---
 
 Cala Conta — also known as Cala Compteta — is a cluster of small coves about 12 km from San Antonio, set among rocky headlands with a chain of tiny offshore islets that give the whole place an otherworldly quality. The water is exceptionally clear, the colour shifting from pale turquoise close to shore to deep blue further out, and the sunsets from this coast are among the finest in Ibiza.

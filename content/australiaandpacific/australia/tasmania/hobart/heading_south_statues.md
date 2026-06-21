@@ -10,6 +10,7 @@ tags:
   - sight
   - sullivans_cove
 snippet: "Five bronze figures on the waterfront honouring the Antarctic explorers who left from Hobart"
+score: 5.9
 ---
 
 A quiet, easily missed set of five bronze figures on the waterfront at Mawson Place, looking out across the Derwent and (notionally) south to Antarctica. Sculpted by Stephen Walker and installed in 2001, the statues honour the long list of polar expeditions that have left Hobart for Antarctica — Borchgrevink, Drygalski, Mawson, Shackleton, and the modern Australian Antarctic Division supply ships that still depart from this dock.

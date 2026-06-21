@@ -15,6 +15,7 @@ story: >
   1660s Scarborough had become one of England's first seaside resorts. The Spa
   complex on the South Bay shore grew from that original spring into the grand
   Victorian buildings that stand today.
+score: 7.5
 ---
 
 The Scarborough Spa complex on the South Bay seafront is a reminder of how grand the Victorian resort era could be. The Spa Grand Hall — a large Victorian concert hall — still hosts events including concerts, exhibitions, and the famous "Scarborough Spa Orchestra" which has been performing here for over a century.

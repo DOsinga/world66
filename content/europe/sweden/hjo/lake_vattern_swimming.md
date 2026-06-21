@@ -6,6 +6,7 @@ longitude: 14.2833
 tags:
   - things_to_do
   - swimming
+score: 6.7
 ---
 
 Vättern is the second-largest lake in Sweden, deep, cold, and unusually clear — visibility of ten metres or more is normal. From Hjo the easiest entry points are the small beach in the spa park and the jetty in the harbour. Both have changing huts and shallow access.

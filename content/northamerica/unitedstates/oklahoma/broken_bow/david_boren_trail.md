@@ -6,6 +6,7 @@ tags:
   - hiking
 latitude: 34.1430
 longitude: -94.6920
+score: 7.8
 ---
 
 A 26-mile loop around Broken Bow Lake that links Beavers Bend and Hochatown State Parks, named for the long-serving Oklahoma senator and University of Oklahoma president. The full loop takes two or three days with overnight camping at primitive sites along the way, but most visitors hike sections.

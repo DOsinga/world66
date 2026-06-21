@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.4515
 longitude: 121.975
+score: 7.7
 ---
 
 The white lighthouse on the hill above Basco is one of the most-photographed spots in the province, and the view from the hilltop justifies the short climb. From here you can see the town below, the arc of the bay, and — on a clear day — the island of Itbayat to the north and the mountains of Taiwan on the horizon beyond. The lighthouse itself is a modest colonial-era structure, functional rather than grand, but the setting does most of the work.

@@ -9,6 +9,7 @@ tags:
   - neighbourhood_area
   - history
 story: "The Old Town's wooden houses — with their projecting upper storeys and stone ground floors — are protected as a single architectural reserve. The design is a Black Sea response to the climate: the stone keeps the lower floor cool, while the timber upper storey can be replaced after a winter storm without rebuilding the whole house."
+score: 8.8
 ---
 
 The Old Town occupies the narrow rocky peninsula that gives Sozopol its character. Roughly six blocks long and three wide, it is a maze of cobbled lanes, fishermen's chapels, and traditional Black Sea houses with stone ground floors and overhanging timber upper storeys. There are no major monuments — just the texture of the place, best appreciated on foot at sunset when the sea is to the west on one side of the peninsula and the harbour to the east on the other.

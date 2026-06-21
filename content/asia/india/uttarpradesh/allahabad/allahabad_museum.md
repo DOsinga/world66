@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 25.4551
 longitude: 81.8462
+score: 7.5
 ---
 
 The Allahabad Museum, housed in a building within Chandra Shekhar Azad Park, holds one of the better collections of ancient Indian art outside Delhi and Kolkata. The collection covers archaeological finds from the Maurya, Gupta, and medieval periods, with terracotta figurines, stone sculptures, and coins spanning two millennia. There is also a collection of modern Indian art and a gallery devoted to the freedom movement and the Nehru family's role in it.

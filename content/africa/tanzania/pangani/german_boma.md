@@ -6,6 +6,7 @@ longitude: 38.5670
 snippet: "The old colonial district office, still standing as a reminder of Pangani's place in East African history."
 tags: [things_to_do, sight, history]
 story: "The German Boma is one of the most intact colonial-era buildings on Tanzania's northern coast. Built in the late 19th century when Pangani was an important administrative outpost of German East Africa, it is a solid, whitewashed structure with the thick walls and arched verandas typical of the colonial Boma style. The Germans chose Pangani because the Arab trading networks here were already well established — they were, in effect, taking over a going concern."
+score: 6.9
 ---
 
 The Boma stands near the waterfront, slightly elevated above the town, and its condition is better than many buildings of comparable age in the region. It has been used for various administrative purposes since independence and may not always be open to enter, but the exterior and its setting are worth seeing regardless.

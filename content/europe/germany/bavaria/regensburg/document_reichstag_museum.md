@@ -9,6 +9,7 @@ latitude: 49.01722
 longitude: 12.10028
 story: >
   From 1663 to 1806 — a span of 143 years — the Reichstag at Regensburg met continuously without a break, making it the first permanent parliament in European history. Ambassadors lived in the city year-round rather than gathering for specific sessions, turning Regensburg into a miniature political capital of the Holy Roman Empire.
+score: 8.6
 ---
 
 From 1663 until the dissolution of the Holy Roman Empire in 1806, Regensburg was the seat of the Immerwährender Reichstag — the Perpetual Imperial Diet, the first standing parliament in European history. The Document Reichstag Museum, in the Old Town Hall (Altes Rathaus) where the diet actually met, presents this extraordinary period in Regensburg's history. The original debating chamber and the torture chamber beneath it can both be visited.

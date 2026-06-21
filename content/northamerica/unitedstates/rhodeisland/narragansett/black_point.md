@@ -7,6 +7,7 @@ tags:
 - nature
 title: Black Point
 type: poi
+score: 8.2
 ---
 
 Black Point is a low rocky headland south of town with a network of unmarked paths along the cliff edge — possibly the best free coastal walk in southern Rhode Island. The trail starts from a small unmarked dirt pull-off on Ocean Road and traces the shoreline past tide pools, blue-mussel shelves and the foundations of a 19th-century fish trap. Fishermen often have rods set up off the rocks.

@@ -8,6 +8,7 @@ tags:
 - sight
 title: Mount Bizan
 type: poi
+score: 7.4
 ---
 
 The 290-metre forested hill that defines Tokushima's skyline, reachable in five minutes by ropeway from the fifth floor of the Awa Odori Kaikan, or on foot via a path up the southern slope. The summit has a small park, a cafe, and a viewing deck that on clear days reaches across the Kii Channel toward Awaji Island and the Akashi Kaikyo bridge.

@@ -9,9 +9,11 @@ snippet: Sculptures, Byzantine art, and coins on Museum Island
 tags:
 - things_to_do
 - museum
+- berlinmitte
 title: Bode Museum
 type: poi
 url: www.smb.museum
+score: 8.5
 ---
 
 Opened in 1904 and instantly recognisable by its striking dome on the northern tip of Museum Island, the Bode Museum houses the Coin Collection, Sculpture Collection, and the Museum for Byzantine Art. The island setting, with the Spree wrapping around it on both sides, makes even the approach feel theatrical.

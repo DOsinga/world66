@@ -15,6 +15,7 @@ story: >
   embarkation points of the entire Atlantic slave trade.
 sources:
   - https://en.wikipedia.org/wiki/Slave_History_Museum
+score: 8.4
 ---
 
 The Slave History Museum opened in 2011 on the site of a 15th-century slave-trading warehouse at Marina Beach — on the actual ground where captives were held before embarkation. That setting gives the museum an immediacy that no amount of display design could manufacture.

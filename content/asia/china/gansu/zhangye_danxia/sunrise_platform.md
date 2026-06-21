@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.9155
 longitude: 100.1332
+score: 8.4
 ---
 
 Platform 1 is positioned for sunrise, when the low-angle light from the east skims across the ridges and picks out the texture of the rock. The colours at sunrise are softer than the afternoon display — more amber and rose than the saturated reds of late afternoon — but the quality of light has a clarity that midday never matches.

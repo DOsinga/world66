@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 31.2889
 longitude: 30.0150
+score: 7.1
 ---
 
 The eastern end of the corniche, anchored by the Montazah Palace gardens. Montazah feels distinctly different from downtown Alexandria — newer, lower-density, more residential, with a strip of upper-middle-class apartment buildings facing the sea and the long arc of the palace's coastline.

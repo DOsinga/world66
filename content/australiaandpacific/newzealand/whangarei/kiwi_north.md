@@ -8,6 +8,7 @@ tags:
 - wildlife
 latitude: -35.7397
 longitude: 174.2747
+score: 7.5
 ---
 
 Kiwi North combines the Whangarei Museum, a nocturnal kiwi house, and a heritage park on a single site about 6 kilometres west of the city centre. The museum has a strong collection of Maori taonga and pioneer-era objects; the kiwi house lets visitors see live North Island brown kiwi feeding under red light — much more reliable than trying to spot them in the wild.

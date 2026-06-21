@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - innere_stadt
+score: 7.1
 ---
 
 A music museum that, unusually, focuses on the science of sound as well as the famous Viennese composers. The Haus der Musik takes visitors from the physics of vibrations through interactive exhibits to floors devoted to Haydn, Mozart, Beethoven, Schubert, Brahms, Mahler, and the Vienna Philharmonic.

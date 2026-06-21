@@ -6,6 +6,7 @@ longitude: -3.0157
 tags:
   - things_to_do
   - sight
+score: 5.4
 ---
 
 A small hermitage on the western edge of town dedicated to the *Virgen de Riánsares*, Tarancón's patron. The shrine is unassuming from outside — a single nave with a tiled roof — but the image inside is the object of the town's most important religious devotion, carried in procession through the streets in early September during the patronal *fiestas*.

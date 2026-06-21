@@ -9,6 +9,7 @@ tags:
 - bold_street
 title: Maray
 type: poi
+score: 6.1
 ---
 
 A Bold Street original that helped define the Liverpool restaurant scene of the late 2010s — small plates with a Middle Eastern and Lebanese leaning, served in a casual room with exposed brick and good lighting. The disco cauliflower has acquired a cult following beyond the city; the pomegranate-glazed lamb chops are the other signature.

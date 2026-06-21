@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The chapel was reportedly the spot where Lord Sandys of The Vyne entertained Henry VIII and Anne Boleyn. After Oliver Cromwell's Parliamentarians used it as a target during the Civil War, it never recovered."
+score: 7.4
 ---
 
 The ruins of the Chapel of the Holy Ghost stand in a quiet old cemetery a short walk north of Basingstoke railway station. The chapel was founded in the early 13th century and rebuilt in elegant Tudor stone by William Sandys of The Vyne in the 1520s. Cromwell's troops shelled it during the Civil War and its glass and roof were never replaced, leaving the present picturesque shell.

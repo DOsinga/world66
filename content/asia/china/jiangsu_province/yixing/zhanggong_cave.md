@@ -8,6 +8,7 @@ latitude: 31.2667
 longitude: 119.6833
 story: >
   The Shanjuan cave system was described in Chinese texts as early as the 5th century AD and has been a site of pilgrimage and curiosity ever since. One legend holds that Zhang Daolin, the founder of Taoism, once used these caves as a meditation retreat — giving the main cave its name. The cave's exit leads directly to an underground river where a boat carries visitors out into daylight, which remains one of the more unusual exits available from any tourist site.
+score: 6.8
 ---
 
 The Shanjuan Cavern area in the Shanjuan Mountains contains several limestone cave systems with remarkable formations. The main cave circuit includes stalactites, stalagmites, and flowstone formations in chambers large enough to feel genuinely cavernous. The temperature inside stays around 15°C year-round, making it an excellent refuge in summer heat.

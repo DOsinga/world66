@@ -7,6 +7,7 @@ tags:
 - museum
 title: Neues Stadtmuseum
 type: poi
+score: 7.2
 ---
 
 Landsberg's town museum occupies the former Jesuit college on Von-Helfenstein-Gasse, a tall whitewashed building just above the Hauptplatz. The collection covers the town's history from Roman traces to the present, with a particular strength in religious art — wooden saints from the surrounding villages, Gothic altarpieces saved from suppressed monasteries, paintings by Hubert von Herkomer.

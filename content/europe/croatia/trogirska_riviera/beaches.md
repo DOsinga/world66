@@ -25,7 +25,7 @@ Price of the ticket is about 2 €, so there is no need to drink and drive.
 
 If you are looking for private accommodation in this area visit www.dalmacijalink.hr , direct contact with owners!
 
-### [Okrug Gornji Beaches](/europe/croatia/trogirska_riviera/beaches/okrug_gornji_beach)
+### Okrug Gornji Beaches
 
 Beaches: Milicevo, Bijela plaža (White beach), Duga (Long beach), Široka, Mavarštica Beach, Marinova Draga.......... Čiovo is famous by beautiful beaches!
 

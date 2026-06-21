@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 10.6592
 longitude: -5.1672
+score: 8.7
 ---
 
 The Pics de Sindou are a ridge of needle-shaped sandstone pinnacles running for about 50 kilometres west of Banfora, near the village of Sindou close to the Mali border. The pillars rise twenty to fifty metres above the bush in a thin cockscomb of pink and grey rock, eroded out of the same Proterozoic sandstone that crops up at the Dômes de Fabédougou.

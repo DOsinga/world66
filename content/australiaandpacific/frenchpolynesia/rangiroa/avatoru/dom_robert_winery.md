@@ -8,6 +8,7 @@ latitude: -14.947
 longitude: -147.690
 story: >
   The vines grow in coral gravel a few metres above sea level and a few kilometres from open ocean — not exactly classic terroir. The winemaker started with the assumption that it couldn't be done, and spent years proving himself wrong. The wine is said to taste of the place: mineral, saline, unlike anything from a continental vineyard.
+score: 7.4
 ---
 
 The only winery in French Polynesia and reputedly the only coral-atoll vineyard anywhere in the world. Dom Robert grows several varieties of wine grapes in the sandy coral soil of Rangiroa, using a training system designed to keep the vines off the ground in the humid tropical climate.

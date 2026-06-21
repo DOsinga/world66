@@ -7,6 +7,7 @@ tags:
 latitude: 53.9019
 longitude: 27.5614
 snippet: An elegant Soviet subway with ornately decorated stations, clean and reliable
+score: 7.5
 ---
 
 The Minsk Metro opened in 1984 and is one of the cleanest and most punctual metro systems in the former Soviet Union. It has three lines and around 30 stations, most of which are decorated in the elaborate Soviet style — marble floors, bronze reliefs, mosaics, and dramatic lighting that makes each station feel like a government building rather than a transit stop.

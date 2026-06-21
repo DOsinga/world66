@@ -14,6 +14,7 @@ story: >
   He gave his collection at the Stadtgarten — around 600 works — to the Swiss Confederation in 1951, decades before his death,
   and left Am Römerholz and its contents to the state only in his will. The villa remained private until he died at 79, still
   living among Cranach, Rubens, and Cézanne.
+score: 9.2
 ---
 
 Am Römerholz is the hillside villa where Oskar Reinhart lived for most of his life, surrounded by the extraordinary collection he spent decades assembling. The house contains works by Cranach the Elder, El Greco, Rubens, Rembrandt, Goya, Delacroix, Renoir, Cézanne, and van Gogh — about 200 paintings and drawings of exceptional quality. The selection is deeply personal rather than encyclopaedic, and the intimate scale of the rooms makes the experience unlike a conventional museum visit.

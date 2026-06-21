@@ -5,6 +5,7 @@ tags: [things_to_do, beaches, sight]
 snippet: "Remote north-coast bay reachable only by longtail boat or jungle trail — one of Thailand's best kept beaches"
 latitude: 9.7924
 longitude: 100.0354
+score: 8.2
 ---
 
 Bottle Beach is a beautiful crescent of sand on Koh Phangan's northeast coast, backed by forested hills and accessible only by longtail boat from Chalok Lam or by a steep jungle trail. Its relative inaccessibility has preserved it — there is no road to the beach, and development is minimal. A handful of simple bungalow operations and one or two restaurants occupy the beach; that is all.

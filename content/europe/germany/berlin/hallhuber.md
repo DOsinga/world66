@@ -10,6 +10,7 @@ tags:
 - charlottenburg
 title: Hallhuber
 type: poi
+score: 4.4
 ---
 
 A German women's fashion chain with a branch on the Kurfürstendamm, the main shopping boulevard in Charlottenburg. The range runs from casual basics to smarter occasion wear at mid-range prices. Worth a look if you are already shopping along the Ku'damm; not a destination in itself.

@@ -13,6 +13,7 @@ story: >
   Researchers monitoring the population have found the same individuals returning
   year after year, suggesting the gulf is a predictable seasonal feeding ground
   rather than a chance aggregation.
+score: 8.8
 ---
 
 The Gulf of Tadjoura is one of the best diving locations in the Horn of Africa, with dive sites along both shores of the gulf offering coral walls, drop-offs to twenty metres, and a variety of large marine life. Sites like Ras Ali, Ras Ouan, and Tombant Point feature good coral coverage, strong schools of trevally and barracuda, giant reef rays, and regular sightings of sea turtles.

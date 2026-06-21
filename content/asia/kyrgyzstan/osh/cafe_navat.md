@@ -6,6 +6,7 @@ longitude: 72.7986
 tags:
   - eating_out
   - restaurant
+score: 5.1
 ---
 
 A branch of the popular Bishkek-based chain, near the central square. The menu is broad — Russian and Central Asian standards, salads, soups, a few European dishes — and the kitchen turns it all out competently. The interior is decorated in faux-traditional style with carpets and low cushions in some seating areas.

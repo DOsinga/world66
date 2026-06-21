@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "When Pope Clement V dissolved the Templar order in 1312, the knights of Ponferrada locked themselves inside the castle and refused to hand it over. The siege ended only when the king sent royal troops. The town then took its name — Pons Ferrata, the iron bridge — from the iron-clad medieval bridge over the Sil that the Templars had themselves rebuilt."
+score: 8.5
 ---
 
 The Templar Castle is the great set-piece of Ponferrada and one of the largest medieval castles in northern Spain. Built in the 12th century to protect pilgrims on the Camino de Santiago, it was held by the Knights Templar from 1178 until their order was dissolved in 1312. The fortress that you see today is an accretion of additions made over five centuries, with a Templar nucleus enveloped by 15th-century walls, watchtowers and a fine palace courtyard.

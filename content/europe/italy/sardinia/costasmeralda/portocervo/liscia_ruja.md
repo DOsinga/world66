@@ -5,6 +5,7 @@ latitude: 41.0705
 longitude: 9.5285
 tags:
   - beaches
+score: 8.1
 ---
 
 Liscia Ruja, also called Long Beach, is the longest beach on the Costa Smeralda — a kilometre of fine, pale sand backed by juniper and a low ridge of granite. The water is shallow for a long way out, which makes it a favourite with families, and the bay is protected enough that the surface usually stays glassy until early afternoon.

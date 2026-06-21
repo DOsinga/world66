@@ -8,6 +8,9 @@ tags:
   - seafood
 latitude: 45.4348
 longitude: 12.3451
+snippet: "Long-established Castello restaurant with rigorous lagoon-sourced seafood"
+neighbourhood: Castello
+score: 7.5
 ---
 
 Al Covo is a long-established Venetian restaurant in the Castello sestiere, run by Cesare Benelli and his Texan wife Diane, who handles the desserts. It has been one of Venice's most respected restaurants since the 1980s, known for rigorous sourcing — much of the seafood comes from day-boat fishermen in the lagoon — and cooking that stays within the Venetian tradition without being nostalgic about it.

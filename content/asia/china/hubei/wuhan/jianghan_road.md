@@ -8,6 +8,7 @@ tags:
   - shopping
   - hankou
 neighbourhood: Hankou
+score: 6.7
 ---
 
 Jianghan Road is the pedestrianised main shopping street of Hankou — a kilometre and a half of department stores, brand boutiques, restaurants, and snack vendors running from the Hankou riverfront back into the modern city. The southern end, near the Yangtze, retains a string of fine concession-era buildings: stone-fronted banks, the old Hankou Customs House clocktower, and the offices of the China Mercantile Marine Company.

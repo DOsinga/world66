@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.9729
 longitude: 5.4243
+score: 7.4
 ---
 
 Workum sits directly on the IJsselmeer, and the waterfront is only a short walk from the historic centre. The harbour is a working one, busy with sailing boats in summer, and the beach — a strip of sand at the lake's edge — is one of the few proper beaches on the Frisian IJsselmeer shore. It is particularly popular with kitesurfers: the consistent south-westerly wind and the shallow water make it one of the better beginner kitesurfing spots in the Netherlands.

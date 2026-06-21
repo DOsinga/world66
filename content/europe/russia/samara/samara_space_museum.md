@@ -9,6 +9,7 @@ latitude: 53.2127
 longitude: 50.1451
 story: >
   The Soyuz rockets displayed outside the museum were manufactured in Samara — this city was the Soviet Union's secret rocket-production capital. The plants here built the R-7 rocket that launched Sputnik and Gagarin into orbit. For decades, their existence was classified. Samara residents lived and worked in a major space city without being allowed to say so.
+score: 8.0
 ---
 
 The Samara Space Museum is one of the finest of its kind in Russia — which is saying something, given how many Russian cities claim a role in the space programme. Samara's claim is legitimate: the RKTs Progress plant here manufactured the Soyuz rockets that launched virtually every Soviet cosmonaut from Gagarin onwards. The museum is housed beneath a full-scale Soyuz rocket mounted vertically on the roof, and inside covers the design, production, and history of Soviet space exploration with genuine depth.

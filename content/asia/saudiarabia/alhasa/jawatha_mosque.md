@@ -14,6 +14,7 @@ story: >
   dating to around 628-629 CE, just two decades after the founding of Islam. The
   Bani Abd al-Qays tribe who built it had converted to Islam without any military
   compulsion, making Al-Ahsa one of the earliest voluntary adopters of the faith.
+score: 6.4
 ---
 
 One of the oldest mosques in the world, located in a palm grove about 12 km northeast of Hofuf. The original mosque from the 7th century CE was built by the Bani Abd al-Qays tribe, among the first in eastern Arabia to embrace Islam. The current structure, a careful restoration completed in 2007 by the Saudi Commission for Tourism and National Heritage, follows the original footprint using traditional mud-brick and stone construction. The minaret and surrounding park are pleasant and the mosque draws Muslim visitors who come as much for its historical significance as for prayer.

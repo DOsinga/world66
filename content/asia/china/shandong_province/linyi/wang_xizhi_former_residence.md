@@ -8,6 +8,7 @@ latitude: 35.0650
 longitude: 118.3500
 story: >
   Wang Xizhi (303–361 CE) is the defining figure in Chinese calligraphy — "the Sage of Calligraphy" — whose writing is so revered that rubbings of his inscriptions have been treasured objects for sixteen centuries. His most famous work, the *Lantingji Xu* (Preface to the Orchid Pavilion Collection), was written in 353 CE during a wine-drinking poetry gathering; the original was allegedly buried with the Tang Emperor Taizong, who coveted it so obsessively that he ordered it entombed with him.
+score: 6.6
 ---
 
 Wang Xizhi was born in Linyi in the early fourth century CE, and the city has preserved a memorial site at the location of his family's estate. The compound includes reproductions of classical garden elements, stone steles carved with examples of Wang Xizhi's calligraphy (or later copies of it — no originals survive from his hand), and a museum covering his life and the development of Chinese regular and running script.

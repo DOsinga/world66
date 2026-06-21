@@ -13,6 +13,7 @@ story: >
   systems converge at this flat, reedy junction. The scale of the landscape
   only becomes apparent when you look at it from the observation tower and
   realise the horizon is flat in all directions.
+score: 6.8
 ---
 
 The Sanjiangkou Wetland Park sits at the confluence of the Songhua and Heilong rivers, where the combined waters begin their journey east toward the Russian border and the Ussuri River junction. The park provides accessible walks and observation platforms over the marsh and riverine landscape, and is a reasonable introduction to the Sanjiang Plain ecology without the logistical demands of reaching the Honghe reserve.

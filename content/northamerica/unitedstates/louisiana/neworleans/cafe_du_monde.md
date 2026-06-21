@@ -8,6 +8,7 @@ tags:
   - cafe
 latitude: 29.95583
 longitude: -90.06167
+score: 8.0
 ---
 
 Café du Monde has been serving beignets and café au lait at the edge of Jackson Square since 1862, and it has not changed much since then. The menu has three items: beignets (fried dough squares buried under a snowdrift of powdered sugar), café au lait (chicory coffee with hot milk), and orange juice. The chicory coffee is an acquired taste — darker and more bitter than regular coffee, a New Orleans tradition dating back to the Civil War when coffee was rationed — but it is the correct accompaniment to beignets.

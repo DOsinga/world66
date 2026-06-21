@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 24.0890
 longitude: 32.9000
+score: 7.8
 ---
 
 The souq running along Sharia el-Souq is one of the liveliest markets in Upper Egypt. Spice sellers display heaps of hibiscus, cumin, coriander, dried dates, and bags of henna in colors that range from blood red to deep orange. Nubian crafts — embroidered textiles, hand-painted pottery, ebony carvings, and the distinctive Nubian cap — are sold alongside the tourist staples of papyrus, alabaster, and scarab replicas.

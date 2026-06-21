@@ -8,6 +8,7 @@ snippet: Vast Italian food theme park on the edge of the city
 tags:
 - things_to_do
 - food
+score: 4.2
 ---
 
 FICO (Fabbrica Italiana Contadina) opened in 2017 on the eastern edge of Bologna as the largest food theme park in the world: a covered ten-hectare site with farms, demonstration kitchens, fields of vines and olive trees, dozens of restaurants, and stalls selling Italian regional foods.

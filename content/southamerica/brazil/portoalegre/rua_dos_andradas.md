@@ -8,6 +8,7 @@ tags:
 story: Rua dos Andradas is officially named after Andrada e Silva, the independence hero, but every person in Porto Alegre calls it Rua da Praia — Beach Street — because in the 18th century its eastern end was literally on the riverbank. Land reclamation pushed the water away over the centuries, but the name stuck, a geographical memory of a city that used to look quite different.
 title: Rua dos Andradas (Rua da Praia)
 type: poi
+score: 7.8
 ---
 
 Rua dos Andradas — Rua da Praia to everyone who lives in Porto Alegre — is the pedestrianised commercial spine of the Centro Histórico, running east-west through the heart of the old city. It has been the main shopping street since the colonial period, and in its current pedestrianised form it is genuinely lively: a constant flow of people, street vendors, shoe-shiners, food carts, and the kind of commercial bustle that makes a city centre feel alive rather than just existing.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: National History Museum
 type: poi
+score: 7.9
 ---
 
 Albania's largest museum, occupying the north side of Skanderbeg Square. Covers Albanian history from Illyrian antiquity through Byzantine and Ottoman periods to independence and the communist era. The communist section, including Sigurimi (secret police) material, is among the most compelling. The mosaic mural covering the facade is itself worth seeing.

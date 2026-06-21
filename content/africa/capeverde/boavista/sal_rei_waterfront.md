@@ -9,6 +9,7 @@ latitude: 16.1750
 longitude: -22.9170
 sources:
   - https://en.wikipedia.org/wiki/Boa_Vista,_Cape_Verde
+score: 7.2
 ---
 
 The small capital of Sal Rei is built around a natural bay, and its waterfront is the social hub of the island. Fishing boats anchor in the shallows, the town's main square opens onto the promenade, and the handful of restaurants and bars that Sal Rei has are concentrated within easy walking distance.

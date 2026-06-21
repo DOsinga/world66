@@ -11,6 +11,7 @@ story: >
   kilometres. Riders launch from a platform at 1,680 metres and travel face-down
   at speeds touching 150 kilometres per hour, reaching a landing tower
   partway down the mountain before transferring to a shorter second line.
+score: 8.4
 ---
 
 Jebel Jais is the highest peak in the UAE at 1,934 metres, and the road that climbs it from the desert floor is one of the great drives in the Gulf. The Ras Al Khaimah government has poured money into the mountain over the last decade, sealing a smooth two-lane road with viewpoints, picnic areas, an observation deck near the summit, and the now-famous zipline operated by Toroverde.

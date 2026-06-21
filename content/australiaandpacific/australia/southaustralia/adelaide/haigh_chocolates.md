@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Australia's oldest family chocolate maker, with a free factory tour in Parkside"
+score: 6.8
 ---
 
 Haigh's has been making chocolate in Adelaide since 1915 and is the oldest family-owned chocolate company in Australia. The main retail shop is on Rundle Mall but the factory is in the inner suburb of Parkside, and free tours run on weekdays and some Saturdays (book in advance). The tour is low-key but genuinely interesting — you watch the whole process from roasting through moulding, and there are samples at the end.

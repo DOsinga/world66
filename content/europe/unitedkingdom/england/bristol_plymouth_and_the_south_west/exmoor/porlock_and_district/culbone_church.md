@@ -6,6 +6,7 @@ latitude: 51.2213
 longitude: -3.6590
 snippet: "Said to be the smallest complete parish church in England — reached only on foot"
 story: "It was in a farmhouse near Culbone, in 1797, that Samuel Taylor Coleridge dreamed and composed Kubla Khan after taking opium for dysentery. Famously interrupted by 'a person from Porlock' — believed to be a debt collector — he was unable to finish the poem, and the surviving fragment ends mid-line. The actual identity of the visitor has been debated for two centuries."
+score: 8.3
 ---
 
 Saint Beuno's Church at Culbone is said to be the smallest complete parish church in England — barely 11 metres long and 4 metres wide, seating perhaps thirty people. It sits in a wooded clearing on the steep coastal slope, three kilometres from the nearest road. It can only be reached on foot, by walking the South West Coast Path west from Porlock Weir for about an hour through ancient oak woodland.

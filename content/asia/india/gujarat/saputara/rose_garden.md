@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.578
 longitude: 73.747
+score: 5.8
 ---
 
 The Rose Garden is a small but well-tended ornamental garden near the centre of town, planted with dozens of varieties of roses that bloom most profusely from November through February. It's a pleasant place for a half-hour stroll — the cooler hill-station climate suits roses far better than the plains of Gujarat, and the garden is maintained with enough care that it remains colourful through most of the dry season.

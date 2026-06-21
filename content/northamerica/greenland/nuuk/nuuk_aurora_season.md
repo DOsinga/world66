@@ -13,6 +13,7 @@ story: >
   maximum of the 2024-2025 cycle produced some of the most active aurora displays in
   two decades, visible well into southern Europe. Nuuk, by contrast, sees displays of
   this kind regularly — on clear winter nights, the aurora is simply part of the sky.
+score: 7.8
 ---
 
 Nuuk's latitude makes it one of the most reliable places in the world to see the northern lights. Between late August and early April, the nights are dark enough for aurora viewing; the peak months are October through February. The city has enough light pollution to require a short drive or boat trip to find a dark sky, but the surrounding landscape provides this easily.

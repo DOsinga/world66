@@ -9,6 +9,7 @@ tags:
 - museum
 title: Jasper Yellowhead Museum & Archives
 type: poi
+score: 6.4
 ---
 
 The permanent Historical Gallery traces the human and natural history of Jasper National Park, from Indigenous peoples through the fur trade to the railway era. Rotating art shows, a family video area, and an archive of park records. Located at 400 Bonhomme Street.

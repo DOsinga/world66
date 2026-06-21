@@ -14,6 +14,7 @@ story: >
   the community that grew around his forge became the city. The hill was a sacred site
   for the Hausa even before the arrival of Islam, and remnants of pre-Islamic ritual
   use have been found in excavations on its slopes.
+score: 7.8
 ---
 
 Dala Hill rises about 50 metres above the surrounding city in the Dala district, a volcanic outcrop that has been at the heart of Kano's mythology since the city's founding. From the summit there are sweeping views across the rooftops of old Kano — the terracotta of mud-brick compounds, the silver glint of the Great Mosque's minaret, and the sprawl of the modern city fading into the Sahel haze beyond.

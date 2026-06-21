@@ -15,6 +15,7 @@ tags:
 - church
 title: Clairvaux Abbey
 type: poi
+score: 8.9
 ---
 
 Founded in 1115 by Saint Bernard and the model for over 160 daughter abbeys, Clairvaux is now a functioning prison — which is the main reason you need to book a guided tour rather than simply walk in. The association Renaissance de l'Abbaye de Clairvaux runs Saturday afternoon visits from May to October (tours at 13h45, 15h15, and 16h45); bring photo identification and contact the Hostellerie des Dames in advance (+33 03 25 27 88 17). Inside, you will find layers of monastic history: a fragment of the original 12th-century Clairvaux I, the strikingly intact lay brothers' building from the second phase, and the grandly proportioned classical cloister completed just before the Revolution. The great church was demolished in 1812 — its loss is palpable.

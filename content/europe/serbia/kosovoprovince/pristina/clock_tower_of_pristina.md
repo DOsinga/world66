@@ -8,6 +8,7 @@ latitude: 42.6667
 longitude: 21.1673
 sources:
   - https://en.wikipedia.org/wiki/Clock_Tower_of_Pristina
+score: 6.8
 ---
 
 The Clock Tower of Pristina is an Ottoman-era stone tower that stands in the old bazaar area, dating to the 18th or early 19th century. It is one of the few Ottoman structures that survived both the Yugoslav period and the 1999 war in anything close to its original condition.

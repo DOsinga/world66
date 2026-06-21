@@ -6,6 +6,7 @@ longitude: 174.0530
 tags:
 - things_to_do
 - sight
+score: 7.1
 ---
 
 Haruru Falls is one of the few horseshoe-shaped waterfalls in New Zealand — a wide curving plunge over a basalt lip where the Waitangi River meets a tidal estuary. The name means "big noise" in Maori, which it is when the river is up after rain.

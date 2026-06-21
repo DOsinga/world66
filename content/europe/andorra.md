@@ -16,7 +16,7 @@ quick_facts:
   No Income Tax: "One of the few countries in Europe"
   Capital Altitude: "1,023 m — highest capital in Europe"
   Heads of State: "2 — the French President and a Spanish bishop"
-score: 0.58
+score: 0.44
 title: Andorra
 type: location
 loc_type: country

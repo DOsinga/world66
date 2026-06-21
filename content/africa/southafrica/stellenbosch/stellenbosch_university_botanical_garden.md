@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -33.9361
 longitude: 18.8653
+score: 7.2
 ---
 
 The oldest university botanical garden in South Africa, established in 1921 in the heart of the town. The garden is small but beautifully maintained, with a particularly strong collection of succulents, fynbos (the unique Cape floral kingdom), and Mediterranean climate plants from around the world. It is a genuine research garden rather than a tourist attraction, which makes it more interesting — plants are labelled scientifically and the planting is driven by botanical logic rather than visual showmanship.

@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Morris Roberts Store
 type: poi
+score: 6.2
 ---
 
 Built in 1892, the Morris Roberts Store is one of the oldest commercial buildings in the Snake River Canyon and sits directly on what was the Oregon Trail route, now followed by US-30. The building is a solid wood-frame structure typical of late-19th-century Idaho frontier commerce, and it is listed on the National Register of Historic Places.

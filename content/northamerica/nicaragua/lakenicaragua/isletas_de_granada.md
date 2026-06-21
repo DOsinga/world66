@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The 365 islets are debris from a sideways eruption of the Mombacho volcano thousands of years ago — chunks of the mountainside that slid down and dropped into the lake. The Spanish later used some of the larger islets as gun platforms; the small stone fortress on San Pablo islet was built in 1784 to defend Granada against English and Caribbean pirates who had repeatedly sailed up the Río San Juan to sack the city."
+score: 8.2
 ---
 
 The Isletas are an archipelago of 365 small islands just southeast of Granada, formed when the Mombacho volcano collapsed and slid into Lake Nicaragua. Some are wild, covered in tropical forest and inhabited only by birds and howler monkeys; others have been bought up by Nicaraguan and foreign families and turned into private retreats with their own jetties.

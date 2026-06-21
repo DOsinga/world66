@@ -7,6 +7,7 @@ tags:
 - sight
 title: Lake Thun (Thunersee)
 type: poi
+score: 7.5
 ---
 
 Lake Thun is the larger and more castle-studded of the two lakes that flank Interlaken, running 18 kilometres west towards the city of Thun. Its northern shore carries a railway and a road, but the southern bank is quieter, with the Niesen — a near-perfect pyramidal peak — rising above the village of Spiez on a peninsula jutting into the lake. Oberhofen Castle, with its turrets reflected in the water, is one of the most photographed castles in Switzerland.

@@ -11,6 +11,7 @@ longitude: -0.3255
 snippet: One of only two 1970s shotcrete skateparks still operating in the UK
 story: >
   Harrow Skate Park opened in 1977, making it one of the first purpose-built public skateparks in the United Kingdom. It was constructed using shotcrete — concrete sprayed over a steel armature — the same technique used in the Californian parks that inspired it. Almost every other British skatepark from that era has been demolished or drastically rebuilt. Harrow's survived, and is now considered a heritage site by the skating community.
+score: 6.8
 ---
 
 Harrow Skate Park is not a polished facility — it is a rough, weathered lump of 1970s concrete in a suburban park, and that is precisely the point. Built in 1977 by Harrow Council in response to the skateboarding craze of that era, it is one of only two surviving original shotcrete skateparks in the United Kingdom, the other being in Rom, east London. The bowl and channel layout reflects the American designs that influenced British skatepark builders at the time.

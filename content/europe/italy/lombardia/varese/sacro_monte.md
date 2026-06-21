@@ -13,6 +13,7 @@ sources:
   - https://en.wikipedia.org/wiki/Sacro_Monte_di_Varese
 story: >
   The Sacro Monte was constructed between 1604 and 1680, at a moment when the Counter-Reformation Church used spectacular sacred landscapes as visual argument against Protestantism. Each chapel was designed by a different artist, and the fourteen stations were meant to carry pilgrims through the Mysteries of the Rosary as they climbed — so that by the time they reached the sanctuary, they had, in a sense, already completed the journey of faith in their minds.
+score: 8.9
 ---
 
 The Sacro Monte di Varese is one of nine Sacred Mounts in Lombardy and Piedmont listed as a UNESCO World Heritage Site. A cobbled path winds uphill through dense chestnut forest past fourteen baroque chapels, each containing life-sized terracotta figures depicting the Mysteries of the Rosary. The sculptures are vivid, sometimes unsettling — not museum pieces but devotional objects intended to stop you in your tracks.

@@ -8,6 +8,7 @@ tags:
 - museum
 title: Zwinger
 type: poi
+score: 6.3
 ---
 
 A vast circular bastion at the south-east corner of the town wall, built in 1517 to withstand the new gunpowder artillery of the day. The Zwinger's walls are six and a half metres thick at the base, and the tower itself is unusually low and squat — the design philosophy was to absorb cannon shot, not deflect it. From the outside it looks like a stone barrel half-buried in the earth.

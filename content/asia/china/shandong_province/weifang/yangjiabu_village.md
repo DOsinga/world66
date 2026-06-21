@@ -8,6 +8,7 @@ latitude: 36.8000
 longitude: 119.1700
 story: >
   Yangjiabu's New Year woodblock prints (nianhua) were once distributed throughout northern China as decoration for the lunar new year, with prints depicting door gods, auspicious scenes, and household deities. At the industry's peak in the 19th century, the village had over 100 print workshops producing tens of millions of sheets annually, employing nearly every household.
+score: 7.9
 ---
 
 Yangjiabu is a village north of Weifang city that has preserved — and to some extent revived — its tradition of New Year woodblock prints and kite production. The woodblock printing tradition here is recognized as a UNESCO intangible cultural heritage, one of the more vivid examples of a folk art that was genuinely commercial and culturally significant before modern printing made it obsolete.

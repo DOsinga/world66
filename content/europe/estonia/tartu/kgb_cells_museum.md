@@ -7,6 +7,7 @@ tags:
 title: KGB Cells Museum (Vangla Muuseum)
 type: poi
 story: "The basement cells of the KGB's Estonian regional headquarters — the 'Grey House' on Riia Street — were used to interrogate, torture, and detain Estonians from the 1940s through the late Soviet period. The building was also the headquarters of the Nazi Gestapo during the German occupation. The cells have been preserved as they were, and a small museum documents both occupations."
+score: 7.8
 ---
 
 The KGB Cells Museum occupies the basement of what was the KGB's regional headquarters in Tartu, known locally as the 'Grey House.' The cells and interrogation rooms in the basement were used from the 1940s through the Soviet period to detain and interrogate Estonian citizens — political prisoners, suspected dissidents, anyone the security services wanted to question.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Yaniv Railway Station
 type: poi
+score: 7.0
 ---
 
 Yaniv was the rail head for Pripyat, a kilometre south of the town along the road to the power plant. Goods trains brought construction material and fuel here through the 1970s and 1980s; commuter services connected workers from the surrounding villages. After the evacuation the lines were cut and a handful of locomotives and passenger carriages were left where they stood.

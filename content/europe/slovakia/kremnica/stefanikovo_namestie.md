@@ -6,6 +6,7 @@ longitude: 18.9172
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 The main square of Kremnica is unusually handsome — long and gently sloping, lined with old burgher houses in various states of faded glory, with the castle complex rising at the upper end and the Holy Trinity Plague Column standing at its center. It is the kind of square that rewards simply sitting on a bench and taking in the layers of history around you.

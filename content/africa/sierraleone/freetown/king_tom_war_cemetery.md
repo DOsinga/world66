@@ -9,6 +9,7 @@ tags:
   - history
 latitude: 8.4942
 longitude: -13.2566
+score: 6.9
 ---
 
 A small, well-kept Commonwealth War Graves Commission cemetery on the side of King Tom hill above the harbour. It contains the graves of soldiers, sailors, and merchant seamen who died at sea or in service in Sierra Leone during the two world wars — British, Sierra Leonean, Indian, and Caribbean dead lie side by side here.

@@ -8,6 +8,7 @@ tags:
 latitude: 51.7597
 longitude: -0.5618
 snippet: Fifteenth-century timber-framed townhouse opposite St Peter's
+score: 6.1
 ---
 
 Almost opposite the parish church, Dean Incent's House is a fifteenth-century timber-framed building that was once owned by John Incent, the Dean of St Paul's who endowed Berkhamsted's grammar school in 1541. The over-jettied first floor and exposed timber framing are unusual survivals on a high-traffic English high street; most of Berkhamsted's other medieval buildings were lost to Georgian re-fronting or Victorian redevelopment.

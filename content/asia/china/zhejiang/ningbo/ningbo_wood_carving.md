@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.873
 longitude: 121.542
+score: 7.3
 ---
 
 Ningbo wood carving (*Ningbo diaohua*) is a distinctive regional craft with a history stretching back to the Song dynasty, specialising in dense, layered figural and decorative carving in camphor, cypress, and other local woods. The craft reached its peak during the Qing dynasty when wealthy Ningbo merchants commissioned elaborate carved altar pieces, furniture, building elements, and decorative screens of extraordinary technical virtuosity — the Qing'an Guildhall's carved stage facade being the most accessible example of the tradition at its peak.

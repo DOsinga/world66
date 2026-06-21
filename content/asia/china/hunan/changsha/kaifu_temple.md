@@ -14,6 +14,7 @@ story: >
   reduced it repeatedly; what stands today is a fraction of the original.
   During the Cultural Revolution the buildings were seized and used as a
   factory. Restoration began in 1979.
+score: 8.0
 ---
 
 Kaifu Temple is one of the oldest and most historically significant Buddhist temples in Hunan, founded in 927 AD during the Five Dynasties period. The temple is named for the historical title of its founder, the ruler of the Ma-Chu kingdom, and has been continuously rebuilt and restored across eleven centuries of wars, fires, and political disruptions. The current buildings date primarily from Qing dynasty restorations, with significant sections reconstructed after damage during the Cultural Revolution.

@@ -10,6 +10,7 @@ tags:
 - temple
 title: Wat Phra Singh
 type: poi
+score: 8.9
 ---
 
 Wat Phra Singh sits at the western end of Ratchadamnoen Road in the heart of the old city and is widely considered Chiang Mai's most important temple. The complex dates to 1345, when King Pha Yu built it to house his father's ashes.

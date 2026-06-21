@@ -6,6 +6,7 @@ longitude: 75.2350
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 Tashkorgan is the only Tajik autonomous county in China, and the local Sarikoli and Wakhi Tajiks — Iranian-speaking, Ismaili Muslim, and quite distinct from the Uyghurs of the rest of Xinjiang — have their cultural centre in the small park near the centre of town. There are statues, signboards, and on weekends some staged music and eagle-dance performances aimed at domestic Chinese tourists.

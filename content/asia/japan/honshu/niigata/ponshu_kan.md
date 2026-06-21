@@ -14,6 +14,7 @@ story: >
   producing extremely soft, low-mineral water. Combined with the region's famous
   Koshihikari rice, this water produces sake that is distinctively dry, smooth,
   and clean — what brewers call tanrei karakuchi.
+score: 8.0
 ---
 
 Right inside Niigata Station's Bandai exit is Ponshu-kan, one of the most entertaining sake experiences in Japan. Insert a 100-yen coin, select one of the nearly 100 sake vending machines representing every brewery in Niigata prefecture, and receive a small ochoko cup and a sample. The system is entirely analogue and thoroughly democratic: local breweries you'd never find in Tokyo sit alongside famous labels like Kubota and Hakkaisan.

@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - things_to_do
   - bar
+score: 7.0
 ---
 
 Ku De Ta has been the senior beach club of Seminyak since 2000 — the original venue that made the formula work. The site is larger and more sprawling than Potato Head, with a beachfront lawn, three restaurants, and a long wooden bar facing west.

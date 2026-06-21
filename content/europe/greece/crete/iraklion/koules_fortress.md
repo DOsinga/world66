@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Koules Fortress
 type: poi
+score: 7.7
 ---
 
 The great Venetian sea fortress at the entrance to the old harbour, built between 1523 and 1540 and named Castello a Mare by the Venetians. From the top there are excellent views over the harbour, the city, and — on clear days — north toward the Greek mainland. Three large stone lions (the symbol of St Mark, patron of Venice) are set into the seaward wall. The interior is largely empty but the structure itself is impressive.

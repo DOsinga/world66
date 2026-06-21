@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.2026
 longitude: 102.5217
+score: 5.9
 ---
 
 Momo are steamed or fried dumplings filled with yak meat and onion, a Tibetan staple that appears on virtually every restaurant menu in Xiahe. They are served with a dipping sauce of chilli and vinegar and are one of the most satisfying things you can eat at altitude — substantial enough to keep you going through a cold morning on the kora without being heavy.

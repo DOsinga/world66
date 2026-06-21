@@ -14,6 +14,7 @@ story: >
   the Yellow River basin are found only at higher altitudes survive here in the forested
   hollows. Botanists have recorded over 2,000 plant species in the Maijishan scenic area,
   including several endemic to the local range.
+score: 6.3
 ---
 
 The botanical gardens at the base of Maijishan make a pleasant complement to the grottoes above. The walk through the gardens to the cliff face takes about twenty minutes, and the forest itself — a mix of oaks, maples, firs, and various broadleaf species — is attractive enough to justify unhurried walking. In autumn, the maples turn the hillsides red and orange in a display that draws visitors who have no particular interest in Buddhist art.

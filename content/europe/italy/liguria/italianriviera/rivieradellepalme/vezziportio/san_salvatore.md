@@ -6,6 +6,7 @@ latitude: 44.2376
 longitude: 8.3537
 story: >
   The Del Carretto family, who controlled this territory until 1191, were a prominent Ligurian noble house who appear repeatedly in the medieval history of the Riviera. Their mark on these villages was a combination of castles, churches, and the feudal divisions that kept communities like Vezzi and Portio separately governed for centuries.
+score: 6.2
 ---
 
 The parish church of San Salvatore at Vezzi is the main church of the commune, a baroque building that replaced an earlier medieval structure. The interior contains paintings and decorative elements typical of 17th-century Ligurian baroque — dark chapels, painted altarpieces, and carved woodwork that rewards a look inside.

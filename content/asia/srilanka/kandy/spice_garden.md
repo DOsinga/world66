@@ -14,6 +14,7 @@ story: >
   the Kandy hill country today is Ceylon cinnamon (Cinnamomum verum), genetically distinct
   from the cassia sold as "cinnamon" in most Western supermarkets and considerably more
   delicate in flavour.
+score: 5.9
 ---
 
 Several spice and herbal gardens operate along the roads between Kandy and Peradeniya, offering guided tours of their plantations. The tours walk you through living specimens of cinnamon, cardamom, pepper, cloves, nutmeg, vanilla, and dozens of Ayurvedic medicinal herbs, with explanations of how each is harvested and used. The gardens are commercially motivated — the tours end at a shop — but the educational content is genuinely interesting.

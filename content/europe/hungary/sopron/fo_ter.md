@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.6847
 longitude: 16.5854
+score: 8.9
 ---
 
 Fő Tér is the medieval main square of Sopron's inner town, surrounded by exceptionally well-preserved Gothic and Baroque burghers' houses. The square is car-free and lined with cafes and restaurants — it is the natural centre of any visit to Sopron. The Firewatch Tower stands at the south end, and the Goat Church (Kecske-templom) occupies the west side.

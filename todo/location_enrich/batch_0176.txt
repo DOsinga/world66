@@ -1,5 +1,0 @@
-northamerica/unitedstates/arizona/kingman
-southamerica/peru/piura
-asia/india/orissa/konark
-asia/pakistan/taxila
-australiaandpacific/tonga/eua

@@ -10,6 +10,7 @@ story: >
   The cathedral was built between 1904 and 1935 on the wealth of the coffee boom — Ribeirão Preto was then one of the richest cities in Brazil, and the building was intended to show it. The Neo-Gothic façade with its twin towers is a deliberate statement of prosperity by a city that had reinvented itself in a single generation on the back of coffee and immigrant labour.
 sources:
   - https://en.wikipedia.org/wiki/St._Sebastian_Cathedral,_Ribeir%C3%A3o_Preto
+score: 7.1
 ---
 
 The Cathedral of São Sebastião (São Sebastião being the city's patron saint) stands on the Praça da Independência in the heart of the historic centre. The building is an imposing Neo-Gothic structure with twin towers and a richly decorated interior, begun in the early 20th century during the coffee-boom years when the region was generating extraordinary wealth. Construction continued for three decades, which is reflected in the slightly uneven mix of styles in the interior.

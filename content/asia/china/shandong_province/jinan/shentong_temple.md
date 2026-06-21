@@ -8,6 +8,7 @@ latitude: 36.5450
 longitude: 117.1100
 story: >
   The Shentong Temple complex, of which the Four Gate Pagoda is the surviving centerpiece, was once one of the great Buddhist monasteries of northern China — an institution that attracted monks, scholars, and pilgrims from across the Tang world. The temple was patronized by several Tang emperors and served as a center for the translation of Buddhist texts. Its destruction in later centuries left the pagoda standing in relative isolation, surrounded by later additions rather than the great complex it once anchored.
+score: 8.4
 ---
 
 The Shentong Temple Heritage Site in the Liubu Hills, 15 kilometres south of Jinan, encompasses the Four Gate Pagoda (China's oldest surviving stone pagoda), the Dragon-and-Tiger Pagoda (a Tang-era stele tower), carved cliff faces with Buddhist figures, and the remains of the great Tang monastery that occupied this valley. The setting among wooded hills is significantly more attractive than the urban spring parks.

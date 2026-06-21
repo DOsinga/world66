@@ -16,6 +16,7 @@ story: >
   shaped buckle; another figure appears to wink. They were carved in the 15th century
   and were protected by the cloister roof for centuries after the dissolution, which
   is why they remain so legible today.
+score: 8.8
 ---
 
 Jerpoint Abbey, 18 kilometres south of Kilkenny near the village of Thomastown, is the finest Cistercian ruin in Ireland. Founded in 1158 and dissolved by Henry VIII in 1540, the abbey's ruined nave, tower, and cloister survive in remarkable condition.

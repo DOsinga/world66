@@ -8,6 +8,7 @@ tags:
 latitude: 39.4794
 longitude: -0.325
 story: "Joaquín Sorolla, Valencia's greatest painter, did much of his luminous work on this beach in the early 1900s — many of the famous canvases of women in white dresses leading horses through the surf were painted at Malvarrosa, and the Museo Sorolla in Madrid is full of them."
+score: 7.1
 ---
 
 Valencia's main city beach: a long, wide ribbon of golden sand backed by a pedestrian promenade, with the city centre fifteen minutes away by tram. The water shelves gently into the Mediterranean — very swimmable from June through October — and the beach is kept exceptionally clean by city standards.

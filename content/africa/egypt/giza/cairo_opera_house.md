@@ -7,6 +7,7 @@ tags:
 - sight
 title: Cairo Opera House
 type: poi
+score: 6.8
 ---
 
 The Cairo Opera House complex stands on the southern tip of Gezira Island, just across the Nile from Giza, and hosts Egypt's national opera, ballet, and orchestral companies as well as visiting international performers. The main opera house, opened in 1988, replaced the original khedival opera house that burned down in 1971. It lacks the grandeur of its predecessor but is a serious cultural venue with a full programme season running from October to June.

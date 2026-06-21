@@ -8,6 +8,7 @@ tags:
 - sight
 title: Gernikako Arbola (Tree of Gernika)
 type: poi
+score: 8.3
 ---
 
 In the courtyard of the Casa de Juntas stands the oak tree that has symbolised Basque self-government since the Middle Ages. For centuries the lords of Biscay — and later the Spanish kings themselves — swore here to respect the *fueros*, the local rights and privileges of the Basque people. When Hitler bombed the town in 1937, the tree was the one civic landmark that the Condor Legion was specifically ordered to spare; it survived.

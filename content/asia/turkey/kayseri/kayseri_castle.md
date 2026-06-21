@@ -13,6 +13,7 @@ story: >
   from the slopes of Mount Erciyes, the extinct volcano that looms over the
   city — a visible connection between the defensive walls and the volcanic
   geology that shaped the entire region.
+score: 7.2
 ---
 
 Kayseri Castle is the dramatic centrepiece of the old city, a substantial Seljuk fortress of black basalt that has stood in its current form since the twelfth century, though its origins go back to Roman times. The walls rise in a rough rectangle around the city centre and still contain 18 of their original towers. The black stone gives the castle an unusual severity compared with the pale limestone buildings of the bazaar quarter surrounding it.

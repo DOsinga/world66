@@ -10,6 +10,7 @@ latitude: 41.1781
 longitude: 48.1267
 sources:
   - https://en.wikipedia.org/wiki/Khinalug
+score: 9.0
 ---
 
 Khinalig (Azerbaijani: Xınalıq) sits at around 2,350 metres above sea level in the Greater Caucasus and is one of the most isolated permanently inhabited settlements in the world. Its roughly 2,000 residents speak Khinalug, a language so distinct from everything around it that linguists classify it as a language isolate — unrelated to Azerbaijani, Russian, or any other language of the region.

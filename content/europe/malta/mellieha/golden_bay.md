@@ -6,6 +6,7 @@ tags:
   - beaches
 latitude: 35.934
 longitude: 14.343
+score: 7.5
 ---
 
 Golden Bay (Ir-Ramla tal-Mixquqa) is the largest sandy beach on Malta's west coast, a few kilometres south of Mellieha. The sand is a slightly redder gold than Mellieha Bay, the bay faces west — so it is the right place for sunsets — and the cliffs around it are part of Majjistral Park.

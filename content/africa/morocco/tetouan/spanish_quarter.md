@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.5710
 longitude: -5.3735
+score: 8.2
 ---
 
 The Ensanche, west of Place Hassan II, was laid out by Spain between 1913 and 1956 as the modern face of the protectorate's capital. The grid of broad avenues, plazas, and pastel art deco buildings would not look out of place in Cádiz. Plaza Moulay el Mehdi, with its central fountain and surrounding cafes, is the heart of the quarter and the obvious spot for a coffee.

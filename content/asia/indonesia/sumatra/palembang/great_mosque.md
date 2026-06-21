@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.6
 ---
 
 The Great Mosque of Palembang (Masjid Agung Sultan Mahmud Badaruddin) is one of the largest mosques in Sumatra and one of the very best examples of eighteenth-century Sumatran Islamic architecture. Founded in 1738 by Sultan Mahmud Badaruddin I, it combines a Malay tiered roof, Chinese curved gable ends, and European-influenced arches in a single, perfectly balanced building.

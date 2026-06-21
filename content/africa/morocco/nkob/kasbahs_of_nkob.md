@@ -9,6 +9,7 @@ latitude: 30.6096
 longitude: -7.4333
 story: >
   Nkob is claimed by Moroccan heritage authorities to have the highest density of kasbahs of any village in the country — around 45, all built of rammed earth and palm wood, mostly between the 17th and early 20th centuries. The village has been on Morocco's UNESCO tentative list since 2012.
+score: 8.3
 ---
 
 What sets Nkob apart from every other village in the Drâa is the sheer number of kasbahs — the fortified mud-brick family compounds typical of pre-Saharan Morocco. They cluster along the slope above the palmery, with crenellated walls and tall corner towers giving the village a skyline that looks, from a distance, like a small city of towers.

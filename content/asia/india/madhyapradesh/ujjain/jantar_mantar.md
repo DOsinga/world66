@@ -13,6 +13,7 @@ story: >
   The 18th-century observatory was built partly to reconcile older Hindu astronomical
   traditions with more accurate Islamic and European methods that Jai Singh had studied.
   The instruments can still be used to make naked-eye celestial observations.
+score: 7.4
 ---
 
 The Vedha Shala — also known as the Jantar Mantar — is one of five observatories built across India by Maharaja Sawai Jai Singh II of Jaipur in the 18th century. The instruments include a large sundial (Samrat Yantra), a celestial sphere, and several specialised devices for measuring the altitude and azimuth of celestial bodies with the naked eye.

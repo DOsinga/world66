@@ -11,6 +11,7 @@ story: >
   the sensual pleasure of sun, stone, and sea among the ruins. He returned years later
   and wrote "Return to Tipasa," finding the site unchanged. Both essays remain some of the
   finest writing about Algeria.
+score: 9.6
 ---
 
 The main archaeological site at Tipasa and a UNESCO World Heritage Site. The ruins span nearly a thousand years of occupation — Phoenician tombs, a Roman amphitheatre, two early Christian basilicas, and a Byzantine-era fortification — all set on a promontory with the Mediterranean crashing against the rocks below.

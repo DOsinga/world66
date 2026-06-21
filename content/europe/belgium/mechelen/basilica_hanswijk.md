@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: 17th-century baroque pilgrimage church on a Greek-cross plan
+score: 7.5
 ---
 
 The Basilica of Hanswijk stands south of the centre on the Hanswijkstraat and was built between 1663 and 1678 around a venerated wooden statue of the Virgin that, according to tradition, was brought down the Dijle in a boat that ran aground at this spot in 988. The unusual Greek-cross plan and the high dome at the crossing make it one of the most ambitious baroque churches in the Southern Netherlands.

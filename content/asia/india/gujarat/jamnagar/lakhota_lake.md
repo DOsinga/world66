@@ -12,6 +12,7 @@ tags:
 - sight
 title: Lakhota Lake
 type: poi
+score: 7.8
 ---
 
 The Ranmal Lake, more commonly called the Lakhota Lake, is an artificial reservoir in the centre of old Jamnagar, with a small fortified palace on an island in the middle. The palace is connected to the shore by a narrow causeway and now houses a small museum of Jadeja dynasty objects: weapons, miniature paintings, royal portraits.

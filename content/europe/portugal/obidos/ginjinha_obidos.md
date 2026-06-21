@@ -6,6 +6,7 @@ longitude: -9.1575
 tags:
   - bars_and_cafes
   - bar
+score: 6.2
 ---
 
 Just inside the Porta da Vila on Rua Direita, this counter pours the local sour cherry liqueur into edible chocolate cups for €1 — drink the shot, eat the cup. The recipe uses ginja cherries macerated in aguardente with sugar and a stick of cinnamon, kept for at least three months.

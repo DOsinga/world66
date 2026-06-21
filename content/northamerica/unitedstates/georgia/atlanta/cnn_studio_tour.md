@@ -8,9 +8,10 @@ phone: (404) 827-2300
 snippet: Behind-the-scenes look at a live news operation
 tags:
 - things_to_do
-- landmark
+- sight
 title: CNN Studio Tour
 type: poi
+score: 4.8
 ---
 
 A 55-minute walking tour through the world's largest news gathering operation, including a look at working broadcast sets and control rooms. Tours run every 15 minutes daily from 9am to 5pm, closed on major holidays.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.6583
 longitude: 117.0028
+score: 7.0
 ---
 
 Jufengde is one of the older-established restaurants in central Jinan serving formal Shandong banquet cuisine, with a menu that covers the full range of classic Lu dishes: braised abalone in oyster sauce, steamed sea bass with spring onion and ginger, nine-turn pork intestine (the city's most famous dish, a laborious preparation involving nine stages of cooking), and the whole roster of cold dishes that start a proper Shandong meal.

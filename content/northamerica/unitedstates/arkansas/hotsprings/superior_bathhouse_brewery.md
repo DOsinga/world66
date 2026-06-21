@@ -12,6 +12,7 @@ story: >
   Superior is the only brewery in the world operating inside a US national park — and the only one
   anywhere brewing with naturally hot mineral spring water. The thermal water is pumped straight into
   the brewhouse from the springs across the street.
+score: 6.9
 ---
 
 Built into the smallest of the eight Bathhouse Row buildings, restored after decades of closure and

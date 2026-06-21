@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: "Finds from Çatalhöyük and other prehistoric sites of the Konya plain"
+score: 8.1
 ---
 
 The Konya Archaeological Museum is small but quietly outstanding, with a collection drawn from the long prehistory of the Konya plain. The headline pieces are the **Çatalhöyük** finds — clay figurines, obsidian tools, and the famous Neolithic painted plasters from the great mound site 50 km southeast of the city, dated to the seventh millennium BC.

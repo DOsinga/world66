@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.0625
 longitude: 19.8567
+score: 7.6
 ---
 
 About 5 kilometres north of Jalë, the village of Borsh sits on a hillside above the longest beach on the Albanian Riviera. The village is known for its olive oil — some of the trees in the groves below the village are said to be centuries old — and for the ruined Borsh Castle (also called Sopot Castle) that occupies a crag above the houses. The castle was built over earlier Byzantine fortifications and commanded a view of the entire coastal plain.

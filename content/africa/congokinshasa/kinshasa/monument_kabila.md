@@ -15,6 +15,7 @@ story: >
   governments -- the Mansudae Art Studio in Pyongyang has built statues and
   monuments across the continent, from Namibia to Zimbabwe to Senegal, a largely
   unreported arms-length diplomacy conducted in bronze and stone.
+score: 6.1
 ---
 
 The monument to Laurent-Désiré Kabila stands in Gombe as a tribute to the man who overthrew Mobutu Sese Seko and ruled the DRC from 1997 until his assassination in 2001. What makes it particularly notable is its origin: the monument was constructed by North Korean sculptors from the Mansudae Art Studio in Pyongyang, the same studio that has produced monumental statues for governments across Africa. The stylistic influence of socialist realism is visible in the pose and execution.

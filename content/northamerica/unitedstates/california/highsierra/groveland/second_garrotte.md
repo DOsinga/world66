@@ -13,6 +13,7 @@ story: >
   was also known as Groveland before the modern town took that name. When the gold ran out in the 1870s,
   virtually everyone left within a decade, leaving a cluster of wood and stone structures to decay in the
   pines.
+score: 6.3
 ---
 
 Second Garrotte is a ghost town a few kilometres east of Groveland along Highway 120 — a small collection of weathered Gold Rush-era structures returning to the forest. The community flourished in the 1850s as a placer gold mining camp and had stores, a saloon, and a school at its peak. When the easily accessible gold was exhausted, the population dispersed almost entirely.

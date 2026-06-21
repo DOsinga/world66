@@ -8,6 +8,7 @@ tags:
 latitude: 31.4239
 longitude: -64.1864
 neighbourhood: Nueva Córdoba
+score: 7.1
 ---
 
 A cultural and shopping complex on the southern edge of the centre built in the converted Buen Pastor convent, which served as a women's prison from 1906 to 2004. The conversion left the chapel and main facade intact while opening the inner courtyards as a public space.

@@ -14,6 +14,7 @@ story: >
   Cauder Mydin, in the early 19th century. The title "Keling" later acquired pejorative connotations and
   is no longer used in polite Malaysian speech, leaving the mosque's formal name as a linguistic fossil
   of the colonial social order.
+score: 7.7
 ---
 
 The Kapitan Keling Mosque is the largest and most historically significant mosque in George Town — the spiritual centre of Penang's Tamil Muslim community since the early colonial period. The current structure, built in Mughal style with onion domes and arched colonnades in white and yellow, largely dates to a 19th-century reconstruction, though the site has been in continuous use since the founding of the settlement.

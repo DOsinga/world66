@@ -13,6 +13,7 @@ story: >
   producing rum on this site since 1760, making it one of the oldest continuously
   operating rum distilleries in the Caribbean. The original colonial-era
   copper pot stills are still used for some of the aged expressions.
+score: 6.9
 ---
 
 Cruzan Rum Distillery sits in the center of St. Croix, a working distillery that has been producing rum on this site since the 18th century. Tours run on weekdays and Saturday mornings and last about 45 minutes; they cover the full production process from fermentation through distillation and aging, including the remarkable barrel warehouse where the aged rums mature in the Caribbean heat. The tasting at the end includes several expressions, from the light white rums used in cocktails to the aged singletons that can hold their own against Barbadian competitors.

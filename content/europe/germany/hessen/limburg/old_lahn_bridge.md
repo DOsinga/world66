@@ -6,6 +6,7 @@ longitude: 8.0633
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 The Alte Lahnbrücke, completed in 1354, is the medieval stone bridge that carried the trade route between Cologne and Frankfurt across the Lahn for centuries. Six pointed arches step down from the south bank to the foot of the cathedral hill, and a small chapel-tower once stood on one of the piers as a toll point.

@@ -10,6 +10,7 @@ latitude: 14.1921
 longitude: -3.5931
 sources:
   - https://en.wikipedia.org/wiki/Bandiagara_Escarpment
+score: 9.2
 ---
 
 The Bandiagara Escarpment is a sandstone cliff running roughly 200 kilometres through the Mopti Region of Mali, rising up to 500 metres above the Seno Plain below. The cliff shelters a chain of ancient Dogon villages — some perched on the rim, some tucked into the cliff face, others clustered at the base — that have been inhabited for centuries, and the trekking routes that link them are among the finest walks in West Africa.

@@ -13,6 +13,7 @@ story: >
   internal ecology — birds nest in the upper branches, the ground beneath is cooler by
   several degrees, and the tangle of roots has been colonised by ferns and mosses. It is one
   of the largest single trees in China.
+score: 6.2
 ---
 
 The One Tree Forest, or Mangling Great Banyan, stands in Mangling Village in Jiele Township, a short distance from the Golden Pagoda. A single Ficus benghalensis has spread its aerial roots across a space the size of a small park, creating a grove that looks like many trees but is genetically one organism. The oldest root-trunk is the original tree; the surrounding columns are all later aerial roots that have thickened over centuries into trunks of their own.

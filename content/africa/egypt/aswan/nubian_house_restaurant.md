@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 24.0820
 longitude: 32.8870
+score: 6.5
 ---
 
 The Nubian House sits on a hill above the east bank with a terrace overlooking Elephantine Island and the Nile, and the view at sunset — feluccas on the water, the west bank cliffs turning gold — is one of the best in Aswan. The food is Nubian home cooking: slow-cooked stews, grilled meats, fresh-baked bread, and the hibiscus tea (karkade) that is the region's signature drink, served hot or cold.

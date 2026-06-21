@@ -8,6 +8,7 @@ tags:
 snippet: "40-acre Victorian gardens on Lake Wendouree — host of the March begonia festival"
 latitude: -37.5485
 longitude: 143.8344
+score: 8.3
 ---
 
 The Ballarat Botanical Gardens, on the western shore of Lake Wendouree, were laid out in 1857 and are one of the best-preserved Victorian-era public gardens in Australia. The plantings — formal beds, mature avenues of plane trees and oaks, dozens of large specimen conifers — were designed for the gold-rich townspeople of the 1860s and have been carefully kept ever since.

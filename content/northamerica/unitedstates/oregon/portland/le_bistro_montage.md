@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Le Bistro Montage
 type: poi
+score: 6.5
 ---
 
 A Portland institution under the Morrison Bridge, serving Cajun food and an extensive menu of mac and cheese variations. Loud, spacious, and busy — long communal tables, no reservations. Open late on weekends (until 4am). The bread pudding is notable.

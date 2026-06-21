@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 35.5700
 longitude: -5.3672
+score: 8.0
 ---
 
 South of Place Hassan II, the Mellah is Tetouan's old Jewish quarter, distinguishable from the surrounding medina by its taller houses, decorated windows, and wrought-iron balconies that overhang the street. At its peak in the early twentieth century the quarter held several thousand Jews; today only a handful of families remain, but the architecture survives intact.

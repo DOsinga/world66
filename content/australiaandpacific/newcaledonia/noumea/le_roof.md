@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Le Roof
 type: poi
+score: 5.8
 ---
 
 Le Roof is Nouméa's most celebrated restaurant, built out over the lagoon on stilts at the end of a pier near Anse Vata. The setting — dining above clear tropical water with views across to the reef — is one of the most spectacular in the Pacific. The kitchen focuses on local seafood: prawns from the New Caledonian farms, crayfish from the lagoon, and whatever the fishing boats brought in that morning.

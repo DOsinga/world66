@@ -14,6 +14,7 @@ story: >
   trigger the country's craft-beer revolution. The original brewery has
   moved on but the building has remained a pub continuously since 1854 in
   one form or another.
+score: 5.8
 ---
 
 The Sail and Anchor, on the corner of South Terrace and Henderson Street opposite the Markets, is the grandest of the old Fremantle pubs. The 1903 Federation building is one of the most photographed in the city — a wide veranda, ornate plasterwork, a corner turret — and it dominates the southern end of the Cappuccino Strip.

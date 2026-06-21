@@ -8,6 +8,7 @@ latitude: 45.5482
 longitude: 13.7297
 story: >
   The Bell Tower of Koper is the oldest building on Titov Trg, its base dating to the 12th century when Koper was an independent commune. The tower was built in stages — the medieval base was extended upward in subsequent centuries, and the current top section, with its octagonal drum and open belfry, was added in the 18th century. Climbing it gives you the best aerial view of the old town's medieval island plan.
+score: 7.8
 ---
 
 The Cathedral of the Assumption (Stolnica Marijinega Vnebovzetja) occupies the north side of Titov Trg alongside the Praetorian Palace. The exterior is Gothic, with a Romanesque element in the lower facade, but the interior was remodelled in Baroque style in the 18th century. The contrast between the serious Gothic stonework outside and the lighter, painted interior within is typical of many Venetian Adriatic churches.

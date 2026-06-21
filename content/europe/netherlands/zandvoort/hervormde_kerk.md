@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 52.3712
 longitude: 4.5333
+score: 5.8
 ---
 
 The Hervormde Kerk on the Kerkplein is the small, white-painted village church of old Zandvoort and the one piece of pre-resort architecture left in the town centre. The current building dates mostly from the late 19th century, but the squat brick tower at the western end is older — late medieval and one of the few structures to have survived the storms, fires, and rebuilds that have repeatedly worked over this stretch of coast.

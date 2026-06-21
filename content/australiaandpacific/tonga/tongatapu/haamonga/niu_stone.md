@@ -13,6 +13,7 @@ story: >
   dangerous for commoners, having one's back to a wall was not mere caution but
   a ritual necessity. The stone may have anchored the boundary between the sacred
   royal precinct and the world outside.
+score: 6.8
 ---
 
 A few metres from the trilithon stands a large upright slab of coral limestone, shorter and rougher than the Ha'amonga's pillars but striking in its own right. Known as the Niu Stone, it is said to be the ceremonial backrest of the Tu'i Tonga — the sacred king who ruled Tonga around 1200 AD and for whose compound the trilithon formed the entrance. According to tradition, the king would sit with his back against the stone, facing outward, during formal court gatherings.

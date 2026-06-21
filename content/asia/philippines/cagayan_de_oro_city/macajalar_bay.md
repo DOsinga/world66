@@ -5,6 +5,7 @@ latitude: 8.510
 longitude: 124.650
 snippet: "The bay where the Cagayan River meets the sea, with accessible beaches north of the city"
 tags: [beaches, beach]
+score: 6.1
 ---
 
 Macajalar Bay stretches along the northern edge of CDO, and the public beaches closest to the city — particularly along Barangay Agusan — are where locals go on weekends. The water is warm year-round and the bay is sheltered enough that waves are usually gentle. The beach here is grey volcanic sand rather than the white variety found further south, but it's a functional swimming spot and close enough to the city that you can be in the water within twenty minutes of leaving the town center.

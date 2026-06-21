@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 37.0178
 longitude: 25.4661
 story: "Zas is a corruption of Zeus — this mountain was, in ancient tradition, the birthplace of the king of the gods. Naxos competed with Crete for this particular mythological distinction (Crete claimed it too, because the Aegean islands always competed for the most impressive divine associations), but the Naxian case had a specific geographical anchor: the cave near the summit, known as Zas Cave, was identified as the cave where the infant Zeus was hidden and nursed, safe from his father Kronos who intended to swallow him. The inscription above the cave entrance — 'Horos Hieron Dios Milo' (Sacred boundary of Zeus of the Flock) — is one of the few cases where the ancient religious identification of a landscape feature survives into the present in legible form."
+score: 8.9
 ---
 
 Mount Zas is the highest point in the Cyclades, rising to 1,001 metres above sea level from the middle of Naxos. The summit gives views across the full breadth of the central Aegean — on a clear day you can count a dozen islands from [Mykonos](/europe/greece/mykonos) in the north to [Santorini](/europe/greece/santorini) in the south. The hike is the most rewarding walk on the island and well within the range of any reasonably fit person.

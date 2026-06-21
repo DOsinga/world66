@@ -7,6 +7,7 @@ tags:
 latitude: 39.9493
 longitude: -75.1720
 snippet: "Philadelphia's most elegant square, surrounded by restaurants, bookshops, and handsome apartment buildings"
+score: 8.2
 ---
 
 Rittenhouse Square is the heart of what Philadelphians mean when they say Center City — a formal park surrounded by the city's most coveted addresses, its best-stocked independent bookshops, and a density of good restaurants and cafés that few American urban neighborhoods can match. The square itself is a William Penn original, laid out in 1682 and named for the astronomer David Rittenhouse in 1825. On a warm afternoon it fills with dog walkers, students, office workers on lunch break, and a rotating cast of characters that makes it one of the best people-watching spots in Philadelphia.

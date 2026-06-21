@@ -1,7 +1,7 @@
 ---
 latitude: 28.3575
 longitude: -81.5597
-snippet: Disney park home to Star Wars: Galaxy's Edge and Tower of Terror
+snippet: "Disney park home to Star Wars: Galaxy's Edge and Tower of Terror"
 tags:
 - things_to_do
 - landmark
@@ -9,6 +9,7 @@ title: Disney's Hollywood Studios
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Disney%27s_Hollywood_Studios
+score: 7.9
 ---
 
 Hollywood Studios is Disney World's most ride-dense park, packed into a relatively compact footprint. Star Wars: Galaxy's Edge occupies a large corner of the park and includes Millennium Falcon: Smugglers Run (you pilot the ship) and Rise of the Resistance, the most elaborate ride Disney has ever built. Toy Story Land and its Slinky Dog Dash coaster draw long lines of family visitors.

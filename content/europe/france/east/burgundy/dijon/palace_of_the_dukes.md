@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Philip the Bold, who began the palace in 1366, ran one of the richest courts in 14th-century Europe — wealthier than the French crown — and recruited the sculptor Claus Sluter from Holland to design his tomb. Sluter's painted alabaster figures of mourning monks, carved with so much realism that some have been compared to portraits, now sit in the palace's Salle des Gardes."
+score: 9.1
 ---
 
 The Palace of the Dukes and the Estates of Burgundy is the architectural heart of Dijon. The oldest parts — the Tour de Bar, the ducal kitchens, the Tour Philippe le Bon — date from the 14th and 15th centuries, when Burgundy was effectively an independent state ruling territories from the Alps to the North Sea. The 17th and 18th centuries added a Classical east wing and the broad semicircular Place de la Libération in front, designed by Hardouin-Mansart's nephew.

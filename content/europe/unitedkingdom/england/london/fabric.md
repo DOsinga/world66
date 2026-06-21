@@ -14,6 +14,7 @@ tags:
 title: Fabric
 type: poi
 url: https://www.fabriclondon.com
+score: 7.8
 ---
 
 Fabric has been considered one of the best clubs in London since it opened in 1999, and it has endured through the cycles of fashion that have closed most of its contemporaries. The space is a series of former Victorian cold storage rooms under Smithfield meat market, with three rooms running simultaneously. The sound system, especially in Room One with its bodysonic floor, is exceptional.

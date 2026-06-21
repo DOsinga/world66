@@ -9,6 +9,7 @@ tags:
 - architecture
 title: The Bluecoat
 type: poi
+score: 8.4
 ---
 
 A handsome early Georgian building (1717) that was originally a charity school for poor boys — and is the oldest surviving building in central Liverpool. Since 1908 it has been an arts centre — Britain's oldest — with galleries showing contemporary art, performance spaces, artist studios, a bookshop, garden and a popular café.

@@ -12,6 +12,7 @@ tags:
 - le_marais
 title: Marché des Enfants Rouges
 type: poi
+score: 7.2
 ---
 
 The Marché des Enfants Rouges, in the heart of the Marais, is the oldest covered market in Paris — operating since 1615. It is small by market standards but punches above its weight for eating: a dozen stalls selling Moroccan couscous, Japanese bento boxes, Italian pasta, Lebanese mezze, and traditional French charcuterie, with communal tables in the centre.

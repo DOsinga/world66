@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Plaza Mayor
 type: poi
+score: 6.4
 ---
 
 León's Plaza Mayor is a classic Castilian arcaded square, rebuilt in the 17th century after a fire. The surrounding buildings are uniform in height and style, with ground-floor colonnades sheltering cafes and market stalls. On Wednesdays and Saturdays a street market occupies the square.

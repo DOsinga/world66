@@ -18,6 +18,7 @@ story: >
   World Register in 2018.
 sources:
   - https://en.wikipedia.org/wiki/Kemp_House
+score: 8.4
 ---
 
 Kemp House, also known as the Mission House, is the oldest surviving building in New Zealand, constructed in 1821 and 1822 as part of the Kerikeri Mission Station established by the Church Missionary Society. It is a two-storey Georgian timber building, built to house the mission's clergy and their families, and its materials were largely imported from Australia — a necessary measure when local craftwork and timber were difficult to obtain to the required standard.

@@ -7,6 +7,7 @@ tags:
   - history
 latitude: 38.1550
 longitude: 85.5400
+score: 8.7
 ---
 
 The Zaghunluq cemetery, three kilometres from Cherchen town, is the source of the most famous of the Tarim mummies — Bronze Age burials dating back 3,000 to 3,500 years, preserved almost perfectly by the extreme aridity of the desert margin. The bodies were found with western physical features, light-coloured hair, and sophisticated woollen textiles, raising questions about the early movement of people through Central Asia that continue to generate debate among archaeologists and geneticists.

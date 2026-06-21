@@ -13,6 +13,7 @@ story: >
   and rebuilt over subsequent decades, but the numbered concession system
   survived, with Balneario 6 becoming the symbolic anchor of German beach
   tourism and eventually lending its name to an entire subculture.
+score: 5.6
 ---
 
 Balneario 6 is the original beach concession that gave its name to the Ballermann phenomenon. The building on the promenade at S'Arenal has been rebuilt and extended multiple times since the original 1930s structure, but it remains in the same location and continues to function as the de facto headquarters of the German beach-bar scene on the Bay of Palma.

@@ -6,6 +6,7 @@ tags:
 - day_trips
 title: Nelson
 type: poi
+score: 7.2
 ---
 
 Nelson is a near-ghost town about 45 minutes southeast of the Strip, sitting at the mouth of Eldorado Canyon where gold was discovered in 1775. The Techatticup Mine operated here for decades and is now open for guided tours — you walk into the old tunnels and hear stories of claim jumpers, gunfights, and smugglers who used the canyon to move goods across the Colorado River.

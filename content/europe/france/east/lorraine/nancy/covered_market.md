@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, market, sight]
 latitude: 48.6892
 longitude: 6.1825
+score: 7.1
 ---
 
 The covered market of Nancy is a handsome iron-and-glass hall south of Place Stanislas, dating from the 19th century. It is the best place in the city to shop for local produce: Lorraine cheeses, quiche lorraine in its original form (which is lighter and more eggy than the British interpretation), mirabelle plum products, and the celebrated bergamot-flavoured sweets called bergamotes de Nancy that you'll find nowhere else.

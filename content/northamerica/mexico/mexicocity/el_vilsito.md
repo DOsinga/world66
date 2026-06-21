@@ -6,6 +6,7 @@ tags: [eating_out, restaurant]
 address: "Av. Universidad 248, Narvarte Poniente"
 latitude: 19.3854
 longitude: -99.1610
+score: 7.3
 ---
 
 El Vilsito is exactly what it appears: an auto-repair shop on Avenida Universidad. From around 7 pm onwards the cars are rolled out, plastic tables and chairs go down, and a trompo of marinated pork is set spinning on an open flame at the entrance. By 9 pm the place is rammed.

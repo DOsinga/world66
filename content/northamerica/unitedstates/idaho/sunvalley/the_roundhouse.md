@@ -6,6 +6,7 @@ longitude: -114.4022
 tags:
   - eating_out
   - restaurant
+score: 8.4
 ---
 
 The Roundhouse is a circular timber-and-stone restaurant perched at 7,700 feet on Bald Mountain, built in 1939 and the oldest on-mountain restaurant in the country. Skiers reach it at the top of the original Roundhouse Gondola; non-skiers can ride up too, which makes it one of the best lunch views in Idaho.

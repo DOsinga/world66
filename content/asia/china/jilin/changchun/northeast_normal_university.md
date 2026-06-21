@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.8700
 longitude: 125.3500
+score: 7.1
 ---
 
 Northeast Normal University occupies a campus that includes former Manchukuo government buildings — including the former Ministry of Justice — alongside later construction. The university is one of the five national key normal universities in China and has a large and active student population that gives the area around it a different energy from the more administrative parts of the city.

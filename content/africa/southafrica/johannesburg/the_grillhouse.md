@@ -8,6 +8,7 @@ tags:
 latitude: -26.148
 longitude: 28.043
 neighbourhood: Rosebank
+score: 6.1
 ---
 
 The Grillhouse in Rosebank has been the definitive Johannesburg steakhouse since 1993. South African beef — particularly the aged cuts from the highveld — is genuinely excellent, and the Grillhouse treats it properly: aged on the bone, cooked over coals, served with proper chips and a sauce if you want one. The wine list is long and South African, the portions are substantial, and the room is noisy and satisfying in the way a good steakhouse should be.

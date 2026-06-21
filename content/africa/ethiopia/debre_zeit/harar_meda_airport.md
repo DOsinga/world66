@@ -13,6 +13,7 @@ story: >
   near Addis. The Imperial Ethiopian Air Force trained here from 1947;
   Israeli instructors ran the first pilot programmes and helped lay out
   the original runways.
+score: 2.8
 ---
 
 The military airbase and aviation academy a few kilometres southeast of Debre Zeit. It is not a tourist site — entry is restricted — but the airbase explains much of the town's character. Ethiopia's air force, search-and-rescue helicopter fleet, and pilot training school are all here, and the steady drone of training flights overhead is a constant in Debre Zeit life.

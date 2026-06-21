@@ -9,6 +9,7 @@ latitude: 34.1056
 longitude: -117.2906
 sources:
   - https://en.wikipedia.org/wiki/San_Bernardino_County_Court_House
+score: 6.8
 ---
 
 The San Bernardino County Courthouse is a Classical Revival building at 351 N. Arrowhead Avenue, built in 1927. The imposing columned facade is one of the most recognizable landmarks in downtown San Bernardino and typifies the civic ambitions of California county seats in the early twentieth century.

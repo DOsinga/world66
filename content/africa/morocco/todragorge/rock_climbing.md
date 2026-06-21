@@ -8,6 +8,7 @@ latitude: 31.5898
 longitude: -5.5902
 story: >
   Todra Gorge has over 450 bolted routes. The multi-pitch Berbertraum — 13 pitches, 340 metres, grades 4a to 5c — follows a line straight up the Aiguille des Palmeraies and is considered one of the great moderate alpine rock routes in Africa.
+score: 8.5
 ---
 
 Todra Gorge is one of the top rock climbing destinations in Africa and draws climbers from across Europe, particularly in spring and autumn when the temperatures are best. The walls offer over 450 pre-bolted routes across all grades, from easy slabs suitable for beginners to demanding multi-pitch lines that reach 500 metres.

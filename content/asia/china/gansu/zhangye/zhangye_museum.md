@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 38.9248
 longitude: 100.4499
+score: 7.2
 ---
 
 The Zhangye City Museum covers the history of the Hexi Corridor — the narrow strip of habitable land that carried the Silk Road through Gansu for two millennia — with a mix of Han-dynasty artefacts, Tang Buddhist objects, and Western Xia ceramics. The collection is not enormous but it is well-focused: the Hexi Corridor was one of the most historically significant bottlenecks in Asian history, and the museum makes that significance legible.

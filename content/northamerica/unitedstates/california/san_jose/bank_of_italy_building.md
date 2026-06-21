@@ -9,6 +9,7 @@ latitude: 37.3358
 longitude: -121.89
 sources:
   - https://en.wikipedia.org/wiki/Bank_of_Italy_Building_(San_Jose,_California)
+score: 7.1
 ---
 
 For nearly four decades after its completion in 1926, the Bank of Italy Building was the tallest building in San Jose. The fourteen-storey Renaissance Revival tower at the corner of First and Santa Clara streets was commissioned by A.P. Giannini, the Italian-American banker whose Bank of Italy later became Bank of America. The exterior is decorated with carved stonework, balconies, and a heavy entablature topped by a tiled roof.

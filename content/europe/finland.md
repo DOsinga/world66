@@ -15,7 +15,7 @@ quick_facts:
   Currency: Euro (€)
   Saunas: "3.3 million (1 per household)"
   Forest Cover: "73% of land area"
-score: 0.66
+score: 0.72
 loc_type: country
 ---
 

@@ -10,6 +10,7 @@ tags:
   - architecture
 snippet: 2011 spiraling red-sandstone museum on the harbour — free panoramic roof
 story: "The museum's spiralling stairwell wraps the whole way up the building's exterior — you can climb to the roof terrace any day, free, without ever entering the paid galleries. The view from the top covers the entire historic centre and the modern port to the north."
+score: 8.3
 ---
 
 The defining new building of contemporary Antwerp — a ten-storey red sandstone tower on the old harbour, opened in 2011, designed by the Dutch firm Neutelings Riedijk. The building's exterior staircase spirals around the outside of the building all the way to the roof terrace, where the view across the city and the port is the best in town. The roof is **free and open every day**, even when the museum is closed.

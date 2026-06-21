@@ -7,6 +7,7 @@ tags:
 latitude: 32.5299
 longitude: -117.0361
 snippet: "Craft brewery in the Centro with some of Tijuana's most creative beers."
+score: 6.2
 ---
 
 Cervecería Mamut is one of the most celebrated craft breweries in Tijuana, occupying a converted industrial space in the Centro near Avenida Revolución. The brewery focuses on hop-forward ales and experimental styles, and its beers show up on tap at the better bars across the city.

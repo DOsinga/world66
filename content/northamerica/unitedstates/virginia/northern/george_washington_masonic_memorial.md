@@ -8,6 +8,7 @@ tags:
 latitude: 38.8053
 longitude: -77.0513
 snippet: Towering Masonic temple modelled on the ancient Lighthouse of Alexandria
+score: 6.7
 ---
 
 A 91-metre tower looming above Old Town Alexandria, designed to resemble the ancient Lighthouse of Alexandria and built by the Freemasons as a national monument to their most famous member. The building is extraordinary to look at from outside: a stepped neoclassical shaft rising from a colonnaded base, visible from across the Potomac.

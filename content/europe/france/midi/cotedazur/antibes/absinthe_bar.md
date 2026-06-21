@@ -9,6 +9,7 @@ tags:
 - bar
 - vieille_ville
 neighbourhood: Vieil Antibes
+score: 6.4
 ---
 
 Down a few steps beneath the Cours Masséna market, the Absinthe Bar serves the green spirit in the traditional French way — with a slotted spoon, sugar cube, and a slow drip of iced water from a fountain. They have a dozen brands on the back bar and someone behind it who can talk you through the differences.

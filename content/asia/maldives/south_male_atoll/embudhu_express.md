@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - diving
+score: 8.8
 ---
 
 The drift dive along the eastern edge of Embudhu Kandu, on the channel between Embudhu and Vaadhoo. "Express" is the right word — the incoming current can run at several knots, fast enough that you sometimes have nothing to do but float and watch.

@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Saint-Martin-au-Val Sanctuary
 type: poi
+score: 7.0
 ---
 
 Saint-Martin-au-Val is a former priory chapel on the southern edge of the old city, now preserved as an archaeological and religious monument. It contains some of the oldest carved stone capitals in France, dating to the Merovingian period (6th–8th centuries), and the walls retain traces of medieval fresco painting. The building itself is small and unassuming from outside, which makes the interior's age and quality all the more surprising.

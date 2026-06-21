@@ -10,6 +10,7 @@ story: >
   The morin khuur (horsehead fiddle) is the defining instrument of Mongolian music — a two-stringed bowed instrument whose scroll is carved in the shape of a horse's head. 
   Legend holds that it was created by a young herdsman to commemorate his beloved flying horse, which had been killed by a jealous rival; 
   the instrument's body was made from the horse's skin and its strings from its tail hair.
+score: 6.3
 ---
 
 The Morin Khuur Complex is an urban park in Darkhan dedicated to Mongolia's iconic horsehead fiddle, with sculptures and installations celebrating the instrument and the nomadic musical traditions it represents. The park is a pleasant place to walk, with views over the surrounding city and steppes, and a concentration of public art that gives it a distinct character within an otherwise industrial urban landscape.

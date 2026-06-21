@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: McCafe
 type: poi
+score: 3.8
 ---
 
 Opened in 2005 as the first McCafe in the Philippines outside Metro Manila, this Lacson Street branch was something of a novelty for Bacolod. Standard McCafe fare — espresso drinks, frappes, and cakes — in air-conditioned comfort on one of the city's main commercial strips.

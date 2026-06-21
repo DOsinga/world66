@@ -13,6 +13,7 @@ story: >
   he was a Christian; only later did archaeologists realise the dating. He
   is now called the Man in Salt and is one of the most important finds in
   European prehistory.
+score: 9.5
 ---
 
 The Hallstatt salt mine is the oldest known salt mine in the world, with continuous extraction recorded back to at least 5,000 BCE. The site sits on the Salzberg high above the village, reached by a steep funicular railway from a station next to the bus park.

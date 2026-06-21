@@ -14,6 +14,7 @@ story: >
   Buddhist monks and intellectuals in the 1930s purges. The mausoleum was demolished in 2005. A large seated
   statue of Genghis Khan now occupies the Parliament portico, presiding over the square in a notably
   different ideological register.
+score: 6.2
 ---
 
 Sükhbaatar Square (officially Chinggis Khaan Square) is the ceremonial centre of Ulaanbaatar — a vast expanse of paving ringed by government buildings, the neoclassical opera house, and a colonnade fronting the Parliament building. The colonnade centres on an enormous bronze statue of Chinggis Khaan in a throne, flanked by seated statues of his grandson Kublai on one side and his son Ögedei on the other, with warrior generals on horseback at each end.

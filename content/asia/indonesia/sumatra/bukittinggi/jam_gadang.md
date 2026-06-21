@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The clock's hour numerals use a quirky Roman style that writes four as IIII rather than IV — a mistake that became part of its charm. The roof has been remodelled three times: a domed cap under the Dutch, a Shinto-style flourish under Japanese occupation, and finally the curved Minangkabau gable it wears today."
+score: 7.8
 ---
 
 The 26-metre tower at the centre of Bukittinggi was built in 1926 by the Dutch as a gift to the city secretary, and it has been the town's symbol ever since. The clockwork was made by the same firm as Big Ben in London and is wound by hand. The plaza around it, Taman Jam Gadang, is the social heart of Bukittinggi — packed every evening with families, students, and street-food vendors.

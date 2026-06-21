@@ -13,6 +13,7 @@ story: >
   being converted into a museum. The carving on the exterior — over 3,000 carved panels
   covering the facades — was executed by master craftsmen over decades and is considered
   among the finest examples of Kelantanese woodcarving in existence.
+score: 8.2
 ---
 
 The Museum of Royal Traditions, housed in a handsome 1887 wooden palace near Padang Merdeka. The building itself is the main attraction, with intricately carved wooden panels blanketing the exterior and interior. Inside you will find displays on Kelantanese royal customs, wedding ceremonies, and traditional crafts — the exhibits cover court regalia, royal dress codes, ceremonial objects, and the elaborate rituals surrounding birth, marriage, and death in the Kelantanese nobility.

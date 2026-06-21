@@ -8,6 +8,7 @@ latitude: 25.4452
 longitude: 75.6397
 story: >
   Taragarh means "star fort" in Hindi, named for its unusual star-shaped plan — a design intended to create overlapping fields of fire so that no wall section could be attacked without exposure from another. The approach zigzags up the hillside through a series of gates, each one designed so that a charging elephant could not build momentum. The fort was never taken by siege.
+score: 7.8
 ---
 
 Taragarh Fort looms over Bundi from a steep hillside, its massive walls and towers visible from almost anywhere in town. The fort is largely in ruins and overgrown with trees, which only adds to its atmosphere — langur monkeys rule the upper battlements and the views over the old city are stunning.

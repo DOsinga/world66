@@ -13,6 +13,7 @@ story: >
   be used for beer brewed within the walls of a Trappist abbey, under direct supervision of the
   monks. When the Abbey of Koningshoeven lost its Trappist certification briefly in 1999 over
   commercialisation concerns, the monks restructured the operation and regained it in 2005.
+score: 8.4
 ---
 
 Koningshoeven Abbey lies in Berkel-Enschot on the eastern edge of Tilburg, founded in 1881 by Trappist monks from France. The monks started brewing beer in 1884, and La Trappe is today the only Dutch Trappist brewery and one of the largest in the world. You can visit the abbey grounds and the visitor centre, taste the full range of beers, and get a look at the brewing operation.

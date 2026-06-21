@@ -10,6 +10,7 @@ tags:
 neighbourhood: Lumley
 latitude: 8.4659
 longitude: -13.2773
+score: 6.8
 ---
 
 Lumley Beach is the city beach of Freetown — a four-kilometre arc of golden sand running between Aberdeen and the southern end of Lumley. It is busy and very social, with a string of bars, music venues, and grilled-fish places along the road behind. Weekends draw big crowds; weekdays are calmer.

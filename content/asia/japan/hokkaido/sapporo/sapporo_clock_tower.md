@@ -10,6 +10,7 @@ tags:
 - sight
 title: Sapporo Clock Tower
 type: poi
+score: 6.4
 ---
 
 Sapporo's most recognisable landmark is a modest white clapboard building with a red star on its clock face, looking strikingly out of place among the surrounding office towers. Built during the Meiji-era development of Hokkaido, it is one of the few remaining Western-style buildings from the city's founding period. The interior houses a small museum on Sapporo's history. Expect a quick visit rather than a long one, but it is worth seeing for the sheer incongruity of a New England-style hall in the middle of a Japanese city.

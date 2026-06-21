@@ -2,16 +2,17 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-06-03'
   poi_cleanup: '2026-04-19'
+image: chengdu.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg
 latitude: 30.5728
+loc_type: city
 longitude: 104.0668
 score: 0.71
 title: Chengdu
 type: location
-loc_type: city
-image: chengdu.jpg
-image_license: CC BY 3.0
-image_source: https://commons.wikimedia.org/wiki/File:%E9%9B%AA%E5%B1%B1%E4%B8%8B%E7%9A%84%E6%88%90%E9%83%BD%E5%B8%82%E5%A4%A9%E9%99%85%E7%BA%BF_Chengdu_skyline_with_snow_capped_mountains.jpg
 ---
 
 Chengdu is the capital of Sichuan and the unofficial capital of laid-back China. A city of sixteen million people, it is famously addicted to tea, mahjong, hotpot and pandas — usually in that order. Where Beijing strives and Shanghai dazzles, Chengdu sits back, orders another pot of jasmine, and asks why you are in such a hurry.

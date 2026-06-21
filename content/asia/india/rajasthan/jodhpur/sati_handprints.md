@@ -8,6 +8,7 @@ tags:
 - sight
 title: Sati Handprints at Loha Pol
 type: poi
+score: 7.3
 ---
 
 Just inside the Loha Pol (Iron Gate), the main entrance to Mehrangarh Fort, fifteen small handprints are pressed into the stone at shoulder height. These are the handprints of royal queens who chose to die on their husbands' funeral pyres. The practice was called sati; it was outlawed, but persisted into the 19th century. The last of the fifteen handprints was made in 1843. Garlands of marigolds are still draped around them by devotees who consider the women saints.

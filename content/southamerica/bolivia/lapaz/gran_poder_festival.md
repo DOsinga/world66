@@ -9,6 +9,7 @@ tags:
 - festival
 title: Entrada del Gran Poder
 type: poi
+score: 8.7
 ---
 
 The Entrada del Gran Poder is La Paz's biggest annual celebration, a street procession in honour of the Señor del Gran Poder (Lord of Great Power) that takes over the city on the last Saturday in May or first Saturday in June. Over 40,000 dancers in elaborate costumes move through the streets from the Cementerio General area to the San Francisco neighbourhood, accompanied by brass bands, drums, and wind instruments in a rolling performance that goes on for most of the day and into the night.

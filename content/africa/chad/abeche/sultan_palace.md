@@ -7,6 +7,7 @@ tags:
 latitude: 13.8290
 longitude: 20.8310
 story: "The Sultan of Ouaddai still holds court here, one of the most powerful traditional rulers in Chad. In a country where formal institutions have repeatedly broken down, the sultanate has provided a thread of continuity stretching back centuries."
+score: 6.8
 ---
 
 The Palais du Sultan is the seat of the Sultan of Ouaddai, whose lineage traces back to the founding of the Ouaddai Kingdom in the seventeenth century. The current sultan remains an influential figure — not merely ceremonial but a genuine political force whose mediation in local disputes carries real weight. That the institution has survived colonial rule, independence, and decades of civil war is itself remarkable.

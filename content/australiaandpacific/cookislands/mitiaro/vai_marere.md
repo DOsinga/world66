@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -19.8690
 longitude: -157.6995
+score: 7.8
 ---
 
 Vai Marere is the only sulphur cave pool in the Cook Islands, a short walk from Mangarei village along a track through the makatea. The water is warm and mineral-rich, with a faint sulphurous smell that dissipates once you are in — locals have long attributed healing properties to the minerals, and the pool sees regular use by the island's small community.

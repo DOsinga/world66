@@ -8,6 +8,7 @@ tags:
 - daan
 title: Smoothie House (Ice Monster)
 type: poi
+score: 6.4
 ---
 
 Yongkang Street's best-known dessert shop — and arguably the place where the **mango shaved-ice** Taiwan dessert went global. The signature mountainous bowl is shaved milk-ice piled with great chunks of fresh mango, panna cotta, mango sorbet and condensed milk; in winter the menu rotates to strawberries, tangerines, or lychees as the seasons dictate.

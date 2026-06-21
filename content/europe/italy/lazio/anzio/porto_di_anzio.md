@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.4471
 longitude: 12.6286
+score: 6.2
 ---
 
 The harbour is the social heart of Anzio. Fishing boats moor alongside pleasure craft, and the waterfront promenade that curves around the port is the obvious place to spend an evening. The daily fish market operates in the morning — arriving before 9am gives you the freshest catch and a genuine picture of the town's working identity before the tourist day begins.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.5529
 longitude: 1.1888
+score: 6.2
 ---
 
 The Cathedral of Saints Peter and Paul is Kara's most prominent building, a large concrete church that serves as the seat of the Roman Catholic Diocese of Kara. It stands near the centre of town and is an active parish serving a substantial congregation in what is otherwise a predominantly Muslim region of Togo.

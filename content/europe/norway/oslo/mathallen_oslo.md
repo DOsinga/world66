@@ -7,6 +7,7 @@ tags:
 latitude: 59.9213
 longitude: 10.7530
 address: "Vulkan 5, Grünerløkka"
+score: 7.1
 ---
 
 Mathallen is Oslo's main food market, housed in a converted industrial building in the Vulkan district beside the Akerselva river. It has around 30 stalls and small restaurants covering Norwegian food traditions alongside international cuisines — smoked salmon, brown cheese, charcuterie, craft beer, specialty coffee, tacos, ramen, and local bakeries. The quality is generally high and prices are competitive with Oslo restaurants, which is to say moderately expensive by European standards.

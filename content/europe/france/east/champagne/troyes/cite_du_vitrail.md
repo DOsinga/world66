@@ -8,6 +8,7 @@ latitude: 48.2982
 longitude: 4.0783
 sources:
   - https://en.wikipedia.org/wiki/H%C3%B4tel-Dieu-le-Comte_de_Troyes
+score: 8.2
 ---
 
 The Cité du Vitrail opened in 2021 inside the Hôtel-Dieu-le-Comte, a former hospital that had been in continuous use from the 12th century until 2009. The museum focuses on stained glass as a craft and an art form: how it was made, how it has evolved across eight centuries, and why Troyes became one of its great centres.

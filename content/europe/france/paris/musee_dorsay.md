@@ -20,6 +20,7 @@ story: >
   Kafka's The Trial. The building was finally saved when a museum use was
   approved in 1977, and the conversion took nine more years.
 url: www.musee-orsay.fr
+score: 9.5
 ---
 
 The Musée d'Orsay is the world's finest collection of Impressionist and Post-Impressionist art, housed in a spectacularly converted 1900 railway station. Victor Laloux's Beaux-Arts iron-and-glass hall, with its giant clocks and ornate plasterwork, is as much an attraction as the paintings. The station closed in 1939 and the building spent decades awaiting demolition before reopening as a museum in 1986.

@@ -10,6 +10,7 @@ tags:
 - shinjuku
 title: Keio Department Store
 type: poi
+score: 6.2
 ---
 
 A large department store directly connected to Keio Line's Shinjuku station. The basement food hall is good for picking up bento boxes and Japanese sweets. Less flashy than Isetan but convenient and well-stocked.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.8516
 longitude: 7.6215
+score: 8.1
 ---
 
 The Doria castle crowns the hill above the old town — twelfth-century in origin, much extended by the Doria family of Genoese sea-lords who took the village in the 1260s and held it for the next four centuries. The earthquake of 1887 finished the building off as a residence, but the two surviving towers and the curtain wall make a fine ruin and an even better viewpoint.

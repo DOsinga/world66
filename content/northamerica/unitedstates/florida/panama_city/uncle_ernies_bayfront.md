@@ -6,6 +6,7 @@ longitude: -85.6582
 tags:
   - eating_out
   - restaurant
+score: 6.4
 ---
 
 Uncle Ernie's occupies a restored 19th-century building right on the marina at the foot of Harrison Avenue, with a long deck that hangs out over the water. The food is straightforward Gulf coast: blackened grouper sandwich, fried shrimp basket, oysters by the dozen, a respectable gumbo. The view across the bay at sunset, with charter boats coming in and pelicans diving for scraps, is the actual reason to come.

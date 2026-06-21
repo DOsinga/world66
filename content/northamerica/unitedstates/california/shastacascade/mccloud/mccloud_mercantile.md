@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.2557
 longitude: -122.1394
+score: 6.8
 ---
 
 The Mercantile is the heart of downtown McCloud, a three-storey brick building from 1897 that once housed the company store for the lumber mill. After the mill closed in the late 1970s it lay neglected for decades; today it has been restored as a mix of shops, a bakery, and an old-fashioned hotel upstairs.

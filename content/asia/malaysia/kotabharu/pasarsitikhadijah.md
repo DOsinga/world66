@@ -14,6 +14,7 @@ story: >
   Kelantanese women have always controlled trade and commerce, an arrangement that has made
   this one of the few places in the Muslim world where women dominate the marketplace as
   sellers, not just buyers.
+score: 8.6
 ---
 
 Kota Bharu's famous central market is a four-storey landmark and the social hub of the city. The ground floor is a wet market selling fresh fish, meat, fruits, and vegetables — the Kelantan coast is nearby and the fish is excellent. Upper floors are devoted to dried fish, spices, batik, Kelantan's famous keropok lekor (fish crackers), and woven textiles. Virtually all the vendors are women, a local tradition so deeply embedded that it has its own social logic.

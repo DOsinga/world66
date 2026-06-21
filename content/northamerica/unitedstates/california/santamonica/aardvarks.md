@@ -7,6 +7,7 @@ tags:
 latitude: 34.0064
 longitude: -118.4879
 snippet: "Long-running vintage clothing store on Main Street with a thorough stock of American secondhand"
+score: 6.3
 ---
 
 Aardvark's on Main Street has been selling vintage American clothing since 1971 and stocks an unusually thorough selection of denim, western shirts, military surplus, and outerwear from the 1950s through the 1990s. The organisation is by item type and decade, and the turnover is high enough that the stock changes regularly.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6369
 longitude: 116.9628
+score: 6.0
 ---
 
 Guishan Lake Park in the western part of Jinan provides a large lake and park landscape that functions as the city's recreational green lung. The park is popular with joggers, kite flyers, and families on weekends and is most pleasant early in the morning when older residents practice tai chi and ballroom dancing in the lakeside plazas. The lake itself has seasonal lotus flowers and a collection of small pavilions and bridges.

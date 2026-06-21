@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.7314
 longitude: 24.4759
+score: 7.9
 ---
 
 Firopotamos is a small fishing village on the northwest coast of Milos whose syrmata make it one of the most visually distinctive spots on the island. Syrmata are the traditional boat garages of Milos — storage and mooring structures built directly into the cliff face at sea level, with the water itself serving as the floor. The boats are moored inside, the doors are painted in vivid colours, and the whole arrangement of rock, sea, paint, and reflected light makes for an irresistibly photogenic scene that has appeared on more postcards and travel articles than the village's modest size would seem to warrant.

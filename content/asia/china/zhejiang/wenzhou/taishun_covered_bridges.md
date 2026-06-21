@@ -9,6 +9,7 @@ latitude: 27.5567
 longitude: 119.7144
 snippet: "A collection of ancient timber covered bridges deep in the mountains southwest of Wenzhou — some of the finest in China"
 story: "The covered bridges of Taishun County were built during the Song, Ming, and Qing dynasties, using a technically sophisticated timber arch system that distributes loads without metal fasteners or stone piers in the river. The builders were specialist carpenter families who passed the techniques through generations; by the Qing Dynasty, Taishun bridge-builders were employed throughout the region. Several of the bridges survived floods that destroyed the surrounding villages and have stood for over 600 years."
+score: 8.6
 ---
 
 Taishun County in the mountains southwest of Wenzhou contains the highest concentration of ancient covered timber bridges in China — over 30 surviving examples dating back to the Song Dynasty, built in a distinctive style that uses woven timber arches to span rivers without stone piers or metal joints. The bridges are covered with wooden roofs to protect the timber from rain, giving them the characteristic appearance that has made them famous among Chinese architectural historians.

@@ -8,6 +8,7 @@ tags:
 title: Cathedral of Santa María
 type: poi
 story: The Vitoria Cathedral restoration project is unusual in that it has been conducted entirely in public — visitors have been able to walk through the active restoration since 1999, guided past scaffolding, exposed medieval stonework, and archaeologists at work on the foundations. The restoration discovered that the cathedral was built on an unstable medieval mound and had been sinking and cracking for centuries; the fixing of it became one of the most ambitious structural restoration projects in Spanish history.
+score: 8.6
 ---
 
 The Cathedral of Santa María is the medieval heart of Vitoria's old town, a Gothic building dating from the 13th to 15th centuries at the top of the almond-shaped hill around which the medieval city grew. Unlike most major Spanish cathedrals, this one has been under active, visible restoration for decades, and the guided tours that take visitors into the works — past exposed stonework, restoration workshops, and archaeological finds in the foundations — have become one of the city's most unusual attractions.

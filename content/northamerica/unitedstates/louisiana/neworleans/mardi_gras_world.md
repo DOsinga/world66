@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 29.93667
 longitude: -90.06833
+score: 7.4
 ---
 
 Mardi Gras World is a working warehouse and studio where Blaine Kern Artists, the largest float-building company in New Orleans, constructs the enormous floats that roll through the streets during carnival season. Guided tours take you through the workshops where fibreglass figures the size of houses are painted, costumed, and assembled — the same floats you see parading past on Fat Tuesday. Visiting when construction is in progress (October through January) gives you the best behind-the-scenes experience.

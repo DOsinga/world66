@@ -6,6 +6,7 @@ longitude: 38.9347
 tags:
   - things_to_do
   - sight
+score: 9.2
 ---
 
 The defining street of Asmara, known under the Italians as Viale Mussolini and now as Harnet (Liberation) Avenue, runs from the Government Administration Center past the Catholic cathedral down to September First Stadium. It is wide, palm-shaded, and slow — the speed limit for the daily evening promenade is essentially walking pace.

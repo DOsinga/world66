@@ -11,6 +11,7 @@ story: >
   American presidents with both a statue and a named street in Pristina. Kosovo is one of the few places
   in the world where George W. Bush is genuinely popular, his support for Kosovo's independence remaining
   more important to local memory than the Iraq War that defined his legacy elsewhere.
+score: 5.0
 ---
 
 George W. Bush has a bronze statue and a boulevard named after him in Pristina — a fact that surprises most Western visitors who associate his legacy primarily with Iraq. In Kosovo, the relevant memory is different: Bush was president when the United States recognised Kosovo's independence in February 2008, and the country is among the small number of places in the world where his name still draws genuine warmth.

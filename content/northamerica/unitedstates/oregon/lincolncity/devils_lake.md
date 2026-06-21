@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, nature]
 latitude: 44.9824
 longitude: -123.9921
+score: 7.0
 ---
 
 Devils Lake is a small coastal lake separated from the Pacific by just a sliver of dunes and highway, which is precisely what makes it unusual. The D River drains it into the ocean a short distance away. The lake is calm and warm by Oregon standards, making it genuinely swimmable in summer — a contrast to the cold Pacific surf just over the dunes.

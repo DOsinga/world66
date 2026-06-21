@@ -8,6 +8,7 @@ latitude: 46.2331
 longitude: 7.3369
 sources:
   - https://en.wikipedia.org/wiki/Lac_du_Mont_d%27Orge
+score: 7.2
 ---
 
 Lac du Mont d'Orge is a small natural lake above Sion, reached by a short climb through the vineyards on the western flank of the valley. It sits within a nature reserve protecting one of the most botanically diverse areas in Switzerland — the combination of the driest microclimate in the Alps and the south-facing slope creates conditions for plant communities found almost nowhere else north of the Mediterranean.

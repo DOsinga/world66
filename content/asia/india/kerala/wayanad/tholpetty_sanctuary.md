@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.8872
 longitude: 76.2394
+score: 8.1
 ---
 
 Tholpetty is the northern section of the Wayanad Wildlife Sanctuary, set on the Karnataka border and contiguous with the larger Nagarhole and Bandipur reserves. It is excellent for wildlife: elephant herds are common sightings, and the sanctuary also has gaur (Indian bison), spotted deer, wild boar, and a healthy leopard population. Tiger sightings are rare but possible.

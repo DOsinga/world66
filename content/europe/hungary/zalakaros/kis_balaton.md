@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 46.6200
 longitude: 17.2200
+score: 7.8
 ---
 
 About 15 kilometres northeast of Zalakaros, Kis-Balaton (Little Balaton) is a shallow wetland and wildlife reserve at the southern end of Lake Balaton, where the Zala river enters the lake. The reserve is one of the most important bird habitats in Hungary and Central Europe, hosting large colonies of great white egrets, grey herons, cormorants, and spoonbills, as well as nesting populations of bittern and marsh harrier. During migration, rare species pass through regularly.

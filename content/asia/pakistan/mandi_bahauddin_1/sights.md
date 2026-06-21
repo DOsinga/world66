@@ -5,13 +5,14 @@ longitude: 73.494992
 opening_hours: 5 AM To 10 PM
 title: Sights in Mandi Bahauddin
 type: poi
+score: 3.6
 ---
 
 1. Mian waheed-u-deen park
 
 2. Beraj
 
-### [Mian Waheed ud Din Park](/asia/pakistan/mandi_bahauddin_1/sights/mian_waheed_ud_din)
+### Mian Waheed ud Din Park
 
 Mian Waheed ud Din Park is the only park in the area which is mostly occupied by the children.
 

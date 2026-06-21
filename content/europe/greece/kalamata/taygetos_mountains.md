@@ -13,6 +13,7 @@ story: >
   of the Peloponnese — the Messinian Gulf to the west and the Laconian Gulf to the east —
   and the islands of the Ionian Sea. In antiquity, the mountain was sacred to Artemis; Spartan
   boys were left there on winter nights as part of their warrior training.
+score: 8.4
 ---
 
 The Taygetos range forms the dramatic backdrop to Kalamata — a wall of jagged limestone peaks rising directly behind the city to over 2,400 metres. From the beach you can see snow on the upper slopes well into April. The mountains divide the Laconian plain (Sparta's territory) from the Messinian plain (Kalamata's territory) and have been a physical and cultural boundary for millennia.

@@ -11,6 +11,7 @@ opening_hours: "Tue–Sun 10:00–18:00 (winter until 17:00); closed Mon"
 admission: "€5 adults, €3 reduced"
 story: >
   The abbey was founded in 1270 by Queen Margaret of Denmark, who is buried here. It remained a functioning Cistercian convent until 1920 — an extraordinarily long survival through the Reformation, wars, and social upheaval — and the last abbess died in 1920 after a tenure of 58 years.
+score: 8.1
 ---
 
 A well-preserved Cistercian nunnery founded in 1270, now housing Rostock's Cultural History Museum. The Gothic church, cloister, and refectory survive largely intact, making this one of the best-preserved medieval monastic complexes in northern Germany. The museum collection covers the history of Rostock from medieval Hanseatic trading city to the 20th century.

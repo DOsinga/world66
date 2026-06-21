@@ -9,6 +9,7 @@ longitude: 102.4400
 snippet: Float through a flooded cave on an inner tube, guided by a rope through the darkness
 story: >
   Tham Nam is genuinely unusual: the cave floods seasonally and the only way through is to lie back on an inner tube and pull yourself along a rope strung through the darkness, with the cave ceiling a few centimetres above your face. The experience lasts about 20 minutes and ends in a chamber open to the sky. It is one of those things that sounds alarming in description but turns out to be one of the most memorable hours in Laos.
+score: 8.2
 ---
 
 The approach to Tham Nam passes through rice paddies and small farms — the bicycle or walk out from town is part of the appeal, and many visitors combine it with a visit to Tham Loup, a dry cave nearby. You rent a headlamp and inner tube at the cave entrance. The water is cold year-round, which is welcome in the heat.

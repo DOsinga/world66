@@ -7,6 +7,7 @@ tags:
 latitude: -19.2400
 longitude: -158.9400
 snippet: One of the southern Cook Islands' most important seabird nesting grounds
+score: 8.8
 ---
 
 Manuae is among the most significant seabird nesting sites in the southern Cook Islands. Red-tailed tropicbirds, brown boobies, great frigatebirds, white terns, and noddy terns all breed here in substantial numbers, with the frigatebirds particularly spectacular — large colonies gather in the pisonia trees on the two islets, and the birds are entirely unafraid of the rare human visitor.

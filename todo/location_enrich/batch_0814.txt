@@ -1,5 +1,0 @@
-northamerica/unitedstates/florida/amelia_island
-europe/malta/cottonera_or_three/vittoriosa
-asia/india/westbengal/bakkhali
-northamerica/unitedstates/texas/texarkana
-northamerica/unitedstates/hawaii/haleiwa

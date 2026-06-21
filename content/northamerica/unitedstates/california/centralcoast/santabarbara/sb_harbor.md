@@ -6,6 +6,7 @@ longitude: -119.6921
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 The working harbour at the foot of West Beach has around 1,100 slips and one of the last commercial fishing fleets on the southern California coast. A breakwater built in the 1920s — and the only natural lee from north-westerly weather between Point Conception and Point Mugu — gives the boats their shelter.

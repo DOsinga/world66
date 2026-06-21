@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.2667
 longitude: 16.0833
+score: 7.8
 ---
 
 Koszalin's practical value as a base is largely down to Mielno, the Baltic resort town 14 kilometres to the north. Mielno sits on a narrow strip of land between Lake Jamno and the open sea, with good sandy beaches on both sides. In July and August it is extremely popular with Polish holidaymakers, but outside the peak season — June and September are both pleasant — the beaches are quiet and the water swimmable, if cold. The lake side offers calmer water and is good for windsurfing and kayaking.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, history]
 latitude: 33.9172
 longitude: -6.9238
+score: 5.3
 ---
 
 The old kasbah walls of Temara date from the reign of Sultan Moulay Ismail (1672–1727), one of the most formidable rulers of the Alaouite dynasty. Moulay Ismail was a prolific builder who fortified towns across Morocco during his long reign, and the Temara walls are a surviving example of this defensive programme.

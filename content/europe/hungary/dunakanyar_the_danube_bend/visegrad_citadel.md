@@ -10,6 +10,7 @@ story: >
   of Bohemia, Charles I of Hungary, and Casimir III of Poland met here to settle trade disputes
   and form an alliance — a medieval summit that some historians consider the precursor of the
   modern Visegrád Group political alliance of the same four countries.
+score: 8.7
 ---
 
 The Visegrád Citadel sits on a steep forested hill above the town, commanding extraordinary views up and down the Danube — this is the bend itself, and from here you can see why it was considered one of the most defensible positions on the river. The fortress dates from the 13th century and was enlarged in the 14th and 15th under the Hungarian kings.

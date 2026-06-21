@@ -10,6 +10,7 @@ tags:
 - festivals
 title: Songkran
 type: poi
+score: 9.2
 ---
 
 Thailand's New Year celebration runs from 13 to 15 April and turns the entire country into a water fight. What began as a gentle ritual of pouring scented water over elders' hands has evolved into three days of citywide drenching with water guns, buckets, and garden hoses. The timing is deliberate -- mid-April is the hottest part of the Thai year, and getting soaked is genuinely welcome.

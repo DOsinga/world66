@@ -8,6 +8,7 @@ latitude: 52.041666666666664
 longitude: -9.55
 story: >
   Innisfallen Island in Lough Leane was the site of a monastic settlement founded around 640 AD. The Annals of Innisfallen, written here between the eighth and thirteenth centuries, are one of the oldest surviving chronicles of early Irish history. Brian Boru, the High King of Ireland, is said to have been educated on the island. The annals are now held in the Bodleian Library in Oxford.
+score: 7.8
 ---
 
 Lough Leane is the largest of the three lakes of Killarney National Park, covering nearly 19 square kilometres. It is dotted with wooded islands — about 30 in total — and the lake surface is usually calm enough to reflect the surrounding mountains. The lake forms the setting for Killarney's most iconic views.

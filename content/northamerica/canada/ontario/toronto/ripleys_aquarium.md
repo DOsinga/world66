@@ -8,6 +8,7 @@ tags:
 title: Ripley's Aquarium of Canada
 type: poi
 url: https://www.ripleyaquariums.com/canada/
+score: 6.8
 ---
 
 Ripley's Aquarium of Canada sits at the base of the CN Tower and has been one of Toronto's most popular family attractions since opening in 2013. The main highlight is the Dangerous Lagoon — a 97-metre walk-through underwater tunnel where sharks, sawfish, and green sea turtles swim overhead and on both sides. A moving walkway carries you through slowly enough to watch the animals in detail.

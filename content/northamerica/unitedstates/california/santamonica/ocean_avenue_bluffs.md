@@ -7,6 +7,7 @@ tags:
 latitude: 34.0175
 longitude: -118.5025
 snippet: "The clifftop road above the PCH with the most scenic driving and sunset-viewing in Santa Monica"
+score: 7.7
 ---
 
 Ocean Avenue runs along the clifftop above the Pacific Coast Highway, offering the kind of views that explain why people move to Santa Monica. To the west, the ocean stretches to the horizon; to the north, the Malibu coast curves away; south is the Santa Monica Pier and Venice Beach. The road is lined with apartment buildings and hotels on the inland side, and Palisades Park on the ocean side.

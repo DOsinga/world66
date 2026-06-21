@@ -11,6 +11,7 @@ story: >
   The Lakshmana Temple is the oldest major surviving temple at Khajuraho, built around 954 CE by the Chandela king Yashovarman. It bears an inscription stating it was completed by the king to honour his victory over the Gurjara-Pratiharas — and that it was built in just a few years, which, given the scale and quality of the carving, seems almost impossible.
 sources:
   - https://en.wikipedia.org/wiki/Lakshmana_Temple,_Khajuraho
+score: 8.8
 ---
 
 The Lakshmana Temple, dedicated to Vishnu rather than Shiva, is one of the finest temples in the western group. Its five-shrined plan — a main sanctuary with four smaller corner shrines — set the template for later Khajuraho temples. The four corner shrines, each with its own tower, give the composition a complex, rhythmic skyline when seen from outside.

@@ -6,6 +6,7 @@ tags:
 - sight
 title: Kathakali Performances
 type: poi
+score: 8.5
 ---
 
 Kathakali, Kerala's classical dance-drama form, is performed most evenings in Fort Kochi for visitors, typically in two formats: a longer traditional performance of a complete episode from the epics, or a shorter cultural programme that explains the elaborate makeup, costume, and gesture language before a demonstration. Both are worth attending.

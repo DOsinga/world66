@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: -33.4284
 longitude: -70.6540
+score: 7.8
 ---
 
 Mercado Tirso de Molina is a large covered market in the Recoleta commune, just north of the river from the Mercado Central, and the better option for visitors who want fresh produce and local food without the tourist markups. The market has a full complement of fruit and vegetable stalls, a meat hall, and a food court upstairs with cheap, well-made Chilean lunch dishes.

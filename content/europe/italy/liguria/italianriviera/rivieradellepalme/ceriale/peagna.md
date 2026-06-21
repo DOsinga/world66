@@ -7,6 +7,7 @@ tags:
 latitude: 44.1005
 longitude: 8.2200
 snippet: Hilltop medieval hamlet above Ceriale with frescoed cemetery church
+score: 6.8
 ---
 
 Peagna is the old hill village that Ceriale grew up below. A narrow lane winds up through terraced gardens — geraniums, basil, lemon trees — to a cluster of stone houses that have barely changed since the Middle Ages. The village is tiny and largely residential, but the climb rewards with views over the Riviera delle Palme and the island of Gallinara offshore.

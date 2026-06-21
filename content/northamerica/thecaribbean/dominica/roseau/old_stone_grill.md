@@ -8,6 +8,7 @@ tags:
 latitude: 15.2978
 longitude: -61.3878
 address: Castle Street, Roseau
+score: 5.5
 ---
 
 Old Stone, on Castle Street a few blocks back from the waterfront, occupies the ground floor of one of the few surviving stone colonial buildings in the centre of town. Thick walls, exposed beams, and a small courtyard at the back give the room an unusual atmosphere for Roseau.

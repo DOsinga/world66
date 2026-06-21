@@ -13,6 +13,7 @@ story: >
   New York in letters to friends are among his most unhinged writing. When he
   returned to Providence in 1926, he never left again, considering College
   Hill's colonial architecture the only proper setting for civilized life.
+score: 7.4
 ---
 
 H.P. Lovecraft (1890–1937) spent most of his life in Providence and set many of his stories here, giving the city a persistent literary afterlife in horror fiction. His last residence was at 66 College Street, a modest Victorian house he rented from 1933 until his death in 1937 — the house that appears, renamed and darkened, in his story "The Haunter of the Dark." His grave is at Swan Point Cemetery on Blackstone Boulevard, where his headstone reads "I Am Providence."

@@ -13,6 +13,7 @@ story: >
   protected hatcheries. Witnessing a release of newly hatched turtles — each one
   a centimetre of furious determination making for the sea — is something people
   talk about for years afterward.
+score: 7.8
 ---
 
 The Oaxacan coast around Puerto Escondido is one of Mexico's most important nesting grounds for olive ridley sea turtles. Several local organisations run conservation programs during the nesting season from June through December, and some offer volunteer opportunities and guided night walks to witness nesting females.

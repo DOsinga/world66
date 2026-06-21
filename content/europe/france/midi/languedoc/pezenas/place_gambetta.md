@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.4610
 longitude: 3.4218
+score: 7.3
 ---
 
 Place Gambetta is the social center of Pézenas — the square where the Saturday market sets up, where café terraces spill out on warm evenings, and where locals gather after the tourist rush of the old town streets. It is not the most architecturally imposing space in town, but it has an easy, lived-in energy that the more photogenic corners sometimes lack.

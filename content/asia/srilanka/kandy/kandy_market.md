@@ -13,6 +13,7 @@ story: >
   produce from the hill country tea estates, with workers and smallholders bringing goods
   down from the surrounding villages. The vegetable sellers occupy exactly the same stalls
   their parents and grandparents used — the market's layout hasn't changed in living memory.
+score: 7.4
 ---
 
 The Kandy Municipal Market, immediately behind the main bus stand, is a vibrant covered market selling fresh produce, spices, herbs, fish, meat, and a wide variety of prepared foods. This is where local families shop, not where tourists are taken, and the prices and atmosphere reflect that. The spice section alone — turmeric, cardamom, cinnamon, pepper, dried chilies in sacks — is worth the visit.

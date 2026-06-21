@@ -14,6 +14,7 @@ story: >
   Captain Faidherbe. The siege is remembered as a turning point in the French
   conquest of the Sénégal River valley, and Omar Tall retreated eastward into the
   Niger basin, where he built a short-lived empire before dying in 1864.
+score: 7.8
 ---
 
 Built in 1855 by French General Louis Faidherbe on the left bank of the Sénégal River, twelve kilometres upstream from Kayes, Fort de Médine was the first permanent French military installation in the interior of West Africa. Its purpose was to control access to the river beyond the falls at Félou and to establish a foothold for the push inland into what is now Mali.

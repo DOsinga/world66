@@ -11,6 +11,7 @@ title: Riga Motor Museum
 type: poi
 story: >
   Among the exhibits is the ZIL limousine used by Leonid Brezhnev, preserved exactly as it was after he crashed it on the grounds of the Kremlin — he was an enthusiastic but reckless driver. The dent is still there.
+score: 7.8
 ---
 
 The Riga Motor Museum is one of the best car museums in the Baltic states, with a collection that goes well beyond the usual parade of polished vehicles. The centrepiece is a remarkable hall of Soviet-era cars: state limousines, military vehicles, and the personal cars of Communist leaders, including a ZIL belonging to Brezhnev and a Rolls-Royce used by the Latvian head of state.

@@ -9,6 +9,7 @@ snippet: "One of Britain's best places to see wild otters"
 latitude: 60.6081
 longitude: -1.1617
 story: "Shetland otters are a distinct subspecies — they live on the coast rather than in rivers, and feed on fish and crustaceans from the sea. Their coastal lifestyle makes them far more visible than the inland otters of mainland Britain, who are largely nocturnal and secretive."
+score: 8.4
 ---
 
 Yell's otters live along the voes — the long, narrow sea inlets that cut deep into the island's coast from the east and west — and because they hunt in daylight along an open shoreline rather than in rivers at night, they are genuinely watchable in a way that mainland British otters rarely are. The best approach is to park somewhere with a view of a voe, sit quietly above the waterline, and wait. Dawn and dusk are the highest-probability windows, but on a calm summer day otters can appear at almost any hour. The main road along the island's spine passes within sight of several promising stretches of water.

@@ -7,6 +7,7 @@ snippet: Smaller, steeper sister river — best paddled in spring before water d
 tags:
 - things_to_do
 - sight
+score: 8.2
 ---
 
 The Jacks Fork is the smaller and faster of the park's two rivers, with high limestone bluffs that close in along long stretches and a sharper gradient than the Current. The classic float is from Blue Spring or Bay Creek down to Alley Spring (8–15 miles depending on put-in), an overnight or a long day depending on pace.

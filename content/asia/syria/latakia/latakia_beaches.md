@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5800
 longitude: 35.9350
+score: 7.1
 ---
 
 The coastline north of Latakia holds some of the best beaches in Syria — sandy, backed by green hills, with clean water and a string of simple beach clubs and restaurants. The main resort areas are at Cote d'Azur (a local name, optimistic but not entirely unjustified) and the beaches around Ras al-Basit to the north, where rocky headlands alternate with stretches of dark volcanic sand.

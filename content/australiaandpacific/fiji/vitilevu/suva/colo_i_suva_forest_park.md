@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 8.4
 ---
 
 Twenty minutes north of the centre on the Princes Road, Colo-i-Suva is a 2.5-square-kilometre patch of mahogany and native rainforest with walking trails, freshwater pools, and a couple of waterfalls. The Falls Trail loop takes about an hour and a half and leads past two pools deep enough for a swim — the cold water is a relief on a hot Suva afternoon.

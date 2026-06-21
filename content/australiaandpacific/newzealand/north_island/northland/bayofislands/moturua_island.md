@@ -6,6 +6,7 @@ longitude: 174.1833
 tags:
 - things_to_do
 - sight
+score: 7.9
 ---
 
 Moturua is the largest of the inner Bay of Islands and the easiest to land on if you want a half-day off the boat. A loop walking track of about three hours connects four sandy bays — Mangahawea, Hahangarua, Otupoho and Waiwhapuku — separated by low headlands of native bush. Pa sites (pre-European Maori fortifications) and shell middens are dotted along the ridges.

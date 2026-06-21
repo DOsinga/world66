@@ -10,6 +10,7 @@ tags:
 - sights
 title: National Orchid Garden
 type: poi
+score: 8.0
 ---
 
 The National Orchid Garden sits on the highest hill within Singapore's UNESCO-listed Botanic Gardens and houses over 1,000 species and 2,000 hybrids, making it one of the largest orchid displays in the world. The collection is arranged across themed sections including the Cool House, a climate-controlled glass enclosure that recreates tropical highland conditions, and the Tan Hoon Siang Mist House with its collection of ferns and orchids draped over driftwood.

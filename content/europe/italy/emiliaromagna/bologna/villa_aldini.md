@@ -7,6 +7,7 @@ snippet: Hilltop neoclassical villa with sweeping views of the city
 tags:
 - things_to_do
 - sight
+score: 5.8
 ---
 
 The Villa Aldini sits on the Osservanza hill south of the centre. Built in 1811 by Antonio Aldini, a Bolognese politician who served Napoleon, the villa fuses fragments of a much older medieval church into a strict neoclassical body — an eccentric and theatrical structure best seen from below.

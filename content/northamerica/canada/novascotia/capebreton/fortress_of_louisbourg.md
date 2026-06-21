@@ -15,6 +15,7 @@ story: >
   forgotten under grass for two centuries. The modern reconstruction, begun
   in 1961, employed more workers than the original 1720s construction and is
   now the largest historical reconstruction project in Canadian history.
+score: 9.1
 ---
 
 The Fortress of Louisbourg is a working reconstruction of a French colonial town as it appeared around 1744, one year before the first British siege. About a fifth of the original fortified town has been rebuilt on its 18th-century foundations, populated by costumed interpreters who re-enact the daily life of soldiers, merchants, fishermen, and the occasional nobleman. The effect is less theme park than living archaeology: the interpreters stay in character, the buildings smell of woodsmoke and salt fish, and the bakery produces actual soldier's bread from period recipes.

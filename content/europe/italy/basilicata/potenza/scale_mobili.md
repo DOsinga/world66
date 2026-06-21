@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Potenza opened its first public escalator system in 1989, replacing a steep paved climb that locals had been negotiating since Roman times. The escalators were among the first in Europe deployed for urban transport rather than as a curiosity inside a shopping centre."
+score: 6.9
 ---
 
 Potenza's free public escalators — the **scale mobili** — climb in three long stretches from the low town at the railway station up to the high town along Via Pretoria. The total vertical rise is over 100 metres, and the trip takes about ten minutes if you keep moving.

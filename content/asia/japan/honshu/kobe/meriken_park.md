@@ -14,6 +14,7 @@ story: >
   permanent memorial. Walking past it, you understand in a way that photographs don't
   quite convey what a magnitude 7.3 earthquake does to solid concrete at 5:46 in the
   morning.
+score: 6.9
 ---
 
 Meriken Park is Kobe's main waterfront park, sitting between the harbour and the city on reclaimed land. The park is home to the Kobe Port Tower, the Kobe Maritime Museum, and the preserved section of earthquake-damaged quayside that serves as the Port of Kobe Earthquake Memorial. It is a pleasant place for a walk, with good views across the harbour to Port Island and beyond, and a scattering of cafes and facilities.

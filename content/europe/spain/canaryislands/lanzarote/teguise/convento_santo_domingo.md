@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Eighteenth-century Dominican convent and church, used as an exhibition space"
+score: 6.2
 ---
 
 The Convento de Santo Domingo was founded in 1698 and rebuilt several times after pirate raids destroyed earlier structures. The surviving church and cloister at the southern edge of the old town are now used as municipal exhibition spaces, hosting contemporary art shows and occasional concerts.

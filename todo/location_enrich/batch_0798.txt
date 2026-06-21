@@ -1,5 +1,0 @@
-europe/portugal/figueiradafoz
-northamerica/unitedstates/utah/sterling
-africa/burkinafaso/tibl
-northamerica/unitedstates/louisiana/donaldsonville
-asia/malaysia/cherating

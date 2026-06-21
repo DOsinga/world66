@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.3910
 longitude: -9.2995
+score: 6.8
 ---
 
 The Milo River forms the eastern boundary of Kankan and has shaped the town's geography and economy for centuries. It is a tributary of the Niger, and during the Mali Empire era the river trade along this system connected Kankan to the wider Sahelian trading world. Today it is quieter, but the riverbanks are still a working landscape: fishermen launch pirogues in the early morning, women wash clothes on the flat rocks, and children swim in the shallows on hot afternoons.

@@ -16,6 +16,7 @@ story: >
   forty years — is recorded on the drum.
 sources:
   - https://en.wikipedia.org/wiki/Ferndale_Museum
+score: 6.8
 ---
 
 A local history museum covering Ferndale and the surrounding Eel River valley from the arrival of European settlers in the 1850s through the dairy farming boom of the late nineteenth century. The collection includes Victorian-era farm equipment, photographs, and domestic objects that give a good sense of what daily life in an isolated coastal farming community looked like before the highway arrived.

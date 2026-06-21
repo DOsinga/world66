@@ -13,6 +13,7 @@ story: >
   and a pipe organ. It survived the demolition wave that swept most of its
   contemporaries by becoming a performing arts venue. The restoration completed
   in the 1970s brought back much of the original interior.
+score: 7.5
 ---
 
 A 1928 Baroque movie palace on Genesee Street, now operating as a performing arts venue for concerts, Broadway touring shows, and films. The interior is the main attraction — a riot of gilded plasterwork, painted ceilings, faux-stone columns, and ornate box seats that make the lobby and auditorium feel like entering a very large jewel box.

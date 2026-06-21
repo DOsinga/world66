@@ -7,6 +7,7 @@ tags:
 latitude: -21.4256
 longitude: -65.7392
 story: "The eroded ridges and fins along Palala were used as backdrops by Italian production crews shooting low-budget westerns in the 1960s, which is how locals first realised that travellers might pay to ride horses through their canyons."
+score: 8.5
 ---
 
 The Quebrada de Palala is a short, dramatic canyon just north of Tupiza, famous for the red-rock fins that locals call **Los Cuernos del Diablo** — the Devil's Horns. Bands of harder rock have weathered into vertical blades twenty metres tall, separated by sandy washes.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.5453
 longitude: 41.5636
+score: 7.6
 ---
 
 Kvariati's beach is the main reason people come to this small Adjaran resort village. It's a pebble beach, as is standard for the Georgian Black Sea coast, curving in a natural cove backed by the steeply rising green slopes of the Lesser Caucasus. The water is clean, noticeably less turbid than the sea near Batumi, and warm enough for swimming from June through September.

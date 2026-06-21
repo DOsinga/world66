@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.9
 ---
 
 Tanda Dam is a dam and reservoir about 12 km west of Kohat, built on the Tanda stream in the 1960s. The lake sits in dry, scrubby hills that give it a remote and arid quality — the contrast between the water and the surrounding brown landscape is surprisingly striking. For locals, it is the main weekend escape from the dust and noise of town, and on Fridays and public holidays families spread picnics on the grassy banks.

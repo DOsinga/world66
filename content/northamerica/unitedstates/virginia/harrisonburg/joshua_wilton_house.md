@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Joshua Wilton House
 type: poi
+score: 5.9
 ---
 
 The Joshua Wilton House is Harrisonburg's best-known fine dining restaurant, occupying a large 1888 Queen Anne Victorian house a few blocks from downtown. The menu changes seasonally and uses local Shenandoah Valley produce heavily — the farm-to-table approach here predates the trend, rooted in genuine relationships with local suppliers.

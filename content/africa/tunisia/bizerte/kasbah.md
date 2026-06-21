@@ -13,6 +13,7 @@ story: >-
   fleets. The Spanish kept coming anyway; they sacked the city repeatedly
   in the late seventeenth century despite the walls, and Bizerte only
   stabilised under Husseinid rule a generation later.
+score: 8.1
 ---
 
 The Kasbah is the massive Ottoman citadel at the north side of the old port — a near-square fortress of high yellow walls, corner bastions, and a heavy gate facing the harbour. The footprint reuses a Byzantine fort built in the sixth century AD on the same headland; the surviving structure is essentially seventeenth-century Ottoman, refaced repeatedly in the eighteenth and nineteenth centuries.

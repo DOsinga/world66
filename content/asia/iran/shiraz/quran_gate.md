@@ -7,6 +7,7 @@ tags:
 - sight
 title: Quran Gate
 type: poi
+score: 6.4
 ---
 
 The Darvazeh Quran — Quran Gate — straddles the road at the northern entrance to Shiraz, where the highway from Isfahan winds down through the Allahu Akbar Gorge. The original gate was built in the 10th century, with a small chamber above it holding two large Qurans. Travellers leaving or entering the city passed beneath the holy books for protection.

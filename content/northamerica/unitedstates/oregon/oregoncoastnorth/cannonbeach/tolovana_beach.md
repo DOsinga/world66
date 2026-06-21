@@ -8,6 +8,7 @@ latitude: 45.8734
 longitude: -123.9624
 sources:
   - https://en.wikipedia.org/wiki/Tolovana_Beach_State_Recreation_Site
+score: 5.9
 ---
 
 Tolovana Beach, at the south end of Cannon Beach, is a state recreation site that effectively extends the main Cannon Beach strand further south. The beach here is slightly less busy than the area in front of town and Haystack Rock, which makes it a good choice for those who want more space. Another, smaller Haystack Rock (there are several along the Oregon coast — this one is not the famous 72-metre landmark) sits just offshore.

@@ -7,6 +7,7 @@ tags:
   - inner_harbor
 latitude: 39.2814
 longitude: -76.6119
+score: 6.3
 ---
 
 The Maryland Science Center is the Inner Harbor's family-oriented science museum, with an IMAX theatre, a planetarium, and three floors of interactive exhibits covering astronomy, earth sciences, dinosaurs, and physics. It is primarily aimed at children but adults without children will find the dinosaur wing and the astronomy exhibits engaging.

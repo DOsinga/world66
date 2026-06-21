@@ -8,6 +8,7 @@ tags:
 - day_trips
 title: Seokguram Grotto
 type: poi
+score: 8.3
 ---
 
 If you are visiting Bulguksa, adding Seokguram Grotto to a day’s

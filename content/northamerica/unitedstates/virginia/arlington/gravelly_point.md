@@ -7,6 +7,7 @@ tags:
 latitude: 38.8688
 longitude: -77.0378
 snippet: The perfect aircraft-spotting picnic spot — jets land directly overhead
+score: 7.7
 ---
 
 Gravelly Point is a strip of parkland squeezed between the George Washington Memorial Parkway and the Potomac River, just north of Reagan National Airport's main runway. Aircraft land and take off directly overhead at low altitude — close enough to feel the turbulence and read the tail numbers. On summer afternoons, families spread blankets on the grass with coolers and look up.

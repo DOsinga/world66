@@ -7,6 +7,7 @@ tags:
 latitude: 16.0239
 longitude: -16.5054
 snippet: Photography museum in a colonial building dedicated to West African images
+score: 8.0
 ---
 
 The Saint-Louis Photography Museum occupies a colonial-era building on the island and holds a collection of historical photographs documenting the city and West Africa more broadly. The images span the colonial period to independence and beyond — street scenes, portraits of notable figures, and documentation of life on the Langue de Barbarie. It is a small museum but a genuinely interesting one, and the building itself, with its cool shuttered rooms and wrought-iron balconies, is worth seeing.

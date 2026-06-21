@@ -14,6 +14,7 @@ story: >
   and Buddhist monks have competed for centuries over which sects had the right
   to build temples in the most dramatic crevices and overhangs. You can still find
   temples wedged into positions that look structurally impossible.
+score: 6.8
 ---
 
 Taimu Mountain is the scenic centrepiece of northern Fujian: a cluster of granite peaks rising directly from the coast near Fuding, their surfaces eroded into shapes that defy description — towers, arches, balanced boulders, and narrow passages that the Chinese describe with a vocabulary of animals, faces, and mythological scenes that Western visitors have to take on faith. The highest peak reaches just over 900 metres, accessible by a combination of cable car and trail, with views across the East China Sea on clear days.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature]
 latitude: 47.3982
 longitude: 0.6870
+score: 8.4
 ---
 
 The south bank of the Loire between the Wilson Bridge and the Pont de Fil is the city's open-air living room from May to September. Sandy beaches appear when the river drops in summer, popular with sunbathers and casual fishermen. Pop-up bars — the guinguettes — set up along the embankment with cheap drinks, deckchairs, and live music most evenings.

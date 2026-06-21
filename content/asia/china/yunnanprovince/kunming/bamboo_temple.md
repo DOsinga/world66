@@ -9,6 +9,7 @@ tags:
   - temple
   - buddhist
 story: "The Sichuanese sculptor Li Guangxiu was hired to refurbish Qiongzhu in 1883 and spent seven years creating its 500 luohan statues. Halfway through the project, the abbot lost his nerve at how irreverent and humorous Li's saints had become — riding crabs and shrimps, picking their teeth, gesturing rudely — and tried to dismiss him. The figures survived, and have been startling visitors ever since."
+score: 8.3
 ---
 
 Twelve kilometres northwest of Kunming on Yu'an Mountain, Qiongzhu Si — the Bamboo Temple — is famous for its 500 painted clay luohan statues, the work of the Sichuanese sculptor Li Guangxiu and his apprentices between 1883 and 1890. The luohans are the masterpiece of late Qing temple sculpture in China: lifelike, eccentric, and frequently very funny. The figures crowd three of the temple's halls in tiered ranks, some on the backs of elephants and dragons, others seemingly mid-conversation.

@@ -15,6 +15,7 @@ story: >
   later wrote that without his time in the Dakotas he would never have become
   president. The park is the only American national park named after a single
   person.
+score: 9.6
 ---
 
 Theodore Roosevelt National Park covers three separated chunks of the North Dakota Badlands, but the South Unit is the one almost every visitor sees — its entrance is at the western edge of Medora. A 36-mile scenic loop road takes in painted hills, prairie dog towns, and bison that often stand placidly on the asphalt. Bring patience and stop for the wildlife: bison, wild horses, elk, pronghorn, and bighorn sheep are all regularly seen.

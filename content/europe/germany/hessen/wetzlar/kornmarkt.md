@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The grain market square, with the baroque Stadthaus and an outdoor café strip
+score: 6.5
 ---
 
 Kornmarkt is the widest of the four old market squares and was historically the grain trade centre. The dominant building is the baroque **Stadthaus** with its bell turret on the east side — formerly the seat of the city government. The square opens onto Schillerplatz, where the Jerusalemhaus sits one block south.

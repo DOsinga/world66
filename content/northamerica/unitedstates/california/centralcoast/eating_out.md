@@ -5,6 +5,7 @@ price: entries run from $9-23
 title: Eating Out in Central Coast
 type: poi
 url: www.ciaobellabenlomond.com
+score: 1.5
 ---
 
 There are some great restaurants on the Central Coast!
@@ -12,7 +13,7 @@ There are some great restaurants on the Central Coast!
 **Contributors**
 October 22, 2005
 
-### [Ciao Bella](/northamerica/unitedstates/california/centralcoast/eating_out/ciao_bella)
+### Ciao Bella
 
 Funky and fantastic restaurant in Ben Lomond, California. Enjoy the amazingly good food and the Cabaret entertainment! Reservations are STRONGLY suggested as this place is jumpin'!
 
@@ -30,12 +31,12 @@ address: 9217 Hiway 9, Ben Lomond, CA
 
 PriceOfMenu: entries run from $9-23
 
-### [Nepenthe](/northamerica/unitedstates/california/centralcoast/eating_out/nepenthe)
+### Nepenthe
 
 Nepenthe is a wonderful eclectic oasis on the ocean side of California Highway 1 in the heart of Big Sur.
 The restaurant features decks cantilevered out over a cliff overlooking the Pacific Ocean and flanked by the majestic Santa Lucia Mountains. Nepenthe has been a favorite of poets, artists, and travelers since its opening in April, 1949.
-Restaurant fare ranges from the famous Ambrosia Burger through salmon and yellow fin to the 8 oz. Nepenthe Steak filet mignon
-Sitting on the terrace, enjoying a glass of wine, an Ambrosia Burger, or one [more..](/northamerica/unitedstates/california/centralcoast/eating_out/nepenthe)
+Restaurant fare ranges from the famous Ambrosia Burger through salmon and yellow fin to the 8 oz. Nepenthe Steak filet mignon.
+Sitting on the terrace, enjoying a glass of wine, an Ambrosia Burger, or one of the seasonal specials while the Pacific churns 250 metres below is one of those quintessential Big Sur experiences worth lingering over.
 
 type: American
 
@@ -53,7 +54,7 @@ PriceOfMenu: $13-$35
 
 email: bebe@nepenthebigsur.com
 
-### [Tanner Jacks](/northamerica/unitedstates/california/centralcoast/eating_out/tanner_jacks)
+### Tanner Jacks
 
 Tanner Jacks Restaurant has ribs, award winning chili, and their own blend of BBQ sauce that is slow cooked on Apple Smoked Tri-tip. They serve chicken and pasta dishes too. During their Champagne Sunday Brunch you will find fresh made waffles omlettes, and a host of other hearty breakfast foods. Tanner Jacks serves Sunday Brunch, Lunch and Dinner daily. Tanner Jacks Motto is "Comfort Cookin' with a Smokin' Attitude"
 
@@ -75,7 +76,7 @@ PriceOfMenu: $5.00 - 29.00
 
 email: hillary@tannerjacks.com
 
-### [Palo Mesa Pizza](/northamerica/unitedstates/california/centralcoast/eating_out/palo_mesa_pizza)
+### Palo Mesa Pizza
 
 Palo Mesa Pizza is a gem. Located on top of the Arroyo Grande Mesa, Palo Mesa Pizza offers Specialty Pizzas like BBQ Chicken Pizza, Greek Pizza and Thai Pizza. Add to that the Standard Favorites and the Create Your Own option with their special blend of red sauce or white and secret recipe dough, your pizza is bound to be a real treat. Coming in the very near future is fryed chicken.
 
@@ -97,7 +98,7 @@ PriceOfMenu: $7.00 - $19.00
 
 email: michael@tannerjacks.com
 
-### [Moongarden Restaurant](/northamerica/unitedstates/california/centralcoast/eating_out/moongarden_restaur)
+### Moongarden Restaurant
 
 The food was horrible and overpriced. The building is pretty and there was a jazzy piano player, but done go there. It's not worth it.
 
@@ -109,7 +110,7 @@ type: American
 
 address: Cambria, CA
 
-### [Two Blocks off The Beach](/northamerica/unitedstates/california/centralcoast/eating_out/two_blocks_off_the)
+### Two Blocks off The Beach
 
 “Two Blocks off The Beach “ located in Pismo Beach California, has a comfortable, cozy, candlelit atmosphere. They serve a wide variety of Bruschetta and a Tri Tip marinated in their own brand of BBQ sauce, Cabernet Smoked Prime Rib, Salads, and Paninis. There is also a wine bar with an extensive collection of local wines by the bottle or the glass. Open for Lunch and Dinner. If you come in before 3p all wines by the glass are $5. "Great Food, Wine and Friends" is their Motto.
 

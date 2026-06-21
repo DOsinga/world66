@@ -7,6 +7,7 @@ tags:
 latitude: 58.9808
 longitude: -2.9597
 snippet: "Twelfth-century palace adjoining St Magnus Cathedral"
+score: 7.1
 ---
 
 Built at the same time as St Magnus Cathedral in the twelfth century, the Bishop's Palace is a complex of ruined buildings just opposite the cathedral entrance. The most striking remnant is the round tower added in the sixteenth century by Bishop Robert Reid. The Norwegian King Haakon IV died here in 1263 after his defeat at the Battle of Largs — the symbolic end of Norse rule in the Hebrides.

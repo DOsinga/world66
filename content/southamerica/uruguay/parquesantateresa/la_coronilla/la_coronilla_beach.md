@@ -7,6 +7,7 @@ tags:
   - sight
 title: La Coronilla Beach
 type: poi
+score: 6.8
 ---
 
 The beach at La Coronilla is one of the least visited stretches of Uruguay's Atlantic coast — a long, wide arc of dark sand backed by dunes and a plantation of Monterey pines that were planted as a windbreak in the early 20th century. At most times of year the beach is almost completely empty, with only the occasional fisherman or local walker sharing the shore.

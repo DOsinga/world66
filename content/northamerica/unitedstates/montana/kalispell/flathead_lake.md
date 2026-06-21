@@ -12,6 +12,7 @@ story: >
   east side of the lake between Polson and Bigfork, producing fruit that ripens
   noticeably earlier than anywhere else in Montana. The orchards open for
   picking in late July and early August.
+score: 8.7
 ---
 
 The largest natural freshwater lake west of the Mississippi, Flathead Lake sits about 8 miles south of Kalispell and is essentially impossible to ignore on a clear day. The drive around its shores (US-93 on the west, Montana 35 on the east) takes a couple of hours and covers very different terrain: the west shore is relatively undeveloped, while the east shore has cherry orchards, small towns, and views back across the water to the Mission Mountains.

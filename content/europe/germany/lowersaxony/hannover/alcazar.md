@@ -9,6 +9,7 @@ phone: +49 511 34 46 10
 snippet: Flamboyant cabaret bar with drag shows and ballroom dancing
 title: Alcazar
 type: poi
+score: 5.2
 ---
 
 A flamboyant cabaret bar where the entertainment ranges from drag to male striptease and the dance floor leans towards classic ballroom. The cocktail list runs to several pages — ask about the house creation, "Horny Paula". Monthly themed events keep the regulars coming back.

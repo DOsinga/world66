@@ -9,6 +9,7 @@ title: Reykjavik Roasters
 type: poi
 snippet: "Top specialty coffee roaster near Hallgrímskirkja"
 url: www.reykjavikroasters.is
+score: 7.3
 ---
 
 The city's best-known specialty coffee roaster, in a small wood-panelled shop just downhill from Hallgrímskirkja. Single-origin pour-overs, espresso, and pastries from a nearby bakery. Always busy in the mornings — there is a second branch on Brautarholt for less of a wait.

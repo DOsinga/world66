@@ -13,6 +13,7 @@ story: >
   apricot trees that during the 19th century the entire local economy ran
   on the fruit, with thousands of small distilleries operating in courtyards
   across the region.
+score: 7.1
 ---
 
 The Zwack distillery on the southern edge of Kecskemét is the modern home of one of the great Hungarian apricot pálinka brands. The visitor centre includes a small museum on the history of pálinka, an explanation of the double-distillation process used for the finest fruit brandies, a tour through the working still rooms, and a tasting of three or four pálinkás of escalating strength.

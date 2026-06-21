@@ -7,6 +7,7 @@ tags:
 latitude: -22.30
 longitude: -48.11
 story: "The canyon's name — Funil means funnel — describes the way the cliff walls narrow as you descend, squeezing the river into a tight channel before it opens into a wide pool. Rappelling groups are lowered in one at a time because the drop is only wide enough for a single person."
+score: 8.1
 ---
 
 Canyon do Funil is a narrow gorge where basalt walls close in on either side of the river, creating a dramatic slot canyon popular for rappelling and natural swimming. The main descent drops roughly 20 metres into the canyon, landing in a clear pool that is deep enough to swim safely. There are also sections where visitors can jump into the water from lower ledges, graded by height for varying levels of nerve.

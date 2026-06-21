@@ -14,7 +14,7 @@ quick_facts:
   Currency: Euro (€, adopted 2023)
   Islands: "Over 1,200 — only 48 inhabited"
   Coastline: "1,777 km along the Adriatic"
-score: 0.57
+score: 0.83
 title: Croatia
 type: location
 loc_type: country

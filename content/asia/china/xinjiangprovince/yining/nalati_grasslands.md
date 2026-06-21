@@ -8,6 +8,7 @@ latitude: 43.4500
 longitude: 83.7000
 story: >
   The Kazakh pastoral economy of the Nalati Grasslands has remained fundamentally unchanged for a thousand years: families move their flocks up to the high summer pastures in June, camp until September, then descend to the valley towns for winter. The horses, the felt yurts, the sheep dogs, and the way of life are continuous with the nomadic culture that shaped Central Asia's history. Tourism has arrived, but it operates on the margins of a system that does not need it.
+score: 9.3
 ---
 
 The Nalati Grasslands lie about 200 kilometres east of Yining, at an elevation of 2,000–3,000 metres in the northern Tian Shan. The landscape is high alpine meadow — rolling hills covered in grass, with pine forest on the upper ridges and clear rivers running through the valleys — and in summer the combination of wildflowers, grazing horses, and snow-capped peaks above creates one of the most classically beautiful landscapes in western China.

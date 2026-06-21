@@ -8,6 +8,7 @@ tags:
 title: Parc del Laberint d'Horta
 type: poi
 snippet: Barcelona's oldest garden with a 18th-century cypress maze
+score: 8.0
 ---
 
 Parc del Laberint d'Horta is Barcelona's oldest surviving garden, tucked into the Collserola foothills in the Horta district. The centrepiece is a neoclassical cypress hedge maze dating from 1791 — well-maintained, genuinely tricky, and popular with children and adults alike.

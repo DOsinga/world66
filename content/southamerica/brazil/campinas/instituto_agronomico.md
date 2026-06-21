@@ -14,6 +14,7 @@ story: >
   coffee varieties in Brazil, and it is still the base of a large proportion of the
   country's coffee export crop. Every bag of Brazilian coffee you have ever drunk
   is quite likely connected to work done here.
+score: 7.7
 ---
 
 The Instituto Agronômico de Campinas has been one of the most important agricultural research institutions in the Americas since it was founded in 1887 under the Brazilian Empire. It was established partly to help the coffee industry, which was then the engine of the São Paulo state economy, and over the following 140 years its researchers made fundamental contributions to coffee, sugar cane, tropical fruit, and soybean cultivation. Much of the reason Brazil became an agricultural superpower traces back to science done on this campus.

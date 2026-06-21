@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 40.1346
 longitude: 18.5184
+score: 6.5
 ---
 
 A few kilometres south of Otranto, on the road toward Capo d'Otranto, sits an abandoned bauxite quarry that operated from 1940 to 1976. When work stopped, groundwater filled the pit and oxidising minerals turned the water a vivid emerald green, set against rust-red walls of bauxite ore — an unexpectedly otherworldly landscape.

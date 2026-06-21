@@ -9,6 +9,7 @@ latitude: 4.3833
 longitude: 102.4000
 story: >
   The Orang Asli people of the Batek group have lived along the Tembeling and its tributaries for thousands of years, moving between forest camps and riverbanks as seasons change. On the longboat ride up from Kuala Tembeling, you may glimpse their small communities on the riverbanks — a way of life unchanged in its essentials for millennia.
+score: 8.5
 ---
 
 The Tembeling River is both the gateway to Taman Negara and one of its great attractions. The three-hour longboat journey from Kuala Tembeling to Kuala Tahan is an experience in itself — narrow wooden boats powered by outboard engines threading between rocky shallows and overhanging forest, with the trees closing in as you go deeper into the park.

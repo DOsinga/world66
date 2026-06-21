@@ -7,6 +7,7 @@ tags:
   - shockoe
 latitude: 37.5336
 longitude: -77.4415
+score: 7.1
 ---
 
 A 1.25-mile riverside walk along the historic Haxall Canal and the James River, running from the American Civil War Museum at Tredegar east through Shockoe Bottom to the 17th Street Farmers Market. The walk passes interpretive signs, old lock gates, and the remains of Richmond's industrial waterfront, connecting several of the city's major historic sites through a pleasant waterside route.

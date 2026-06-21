@@ -9,6 +9,7 @@ tags:
 - tower
 title: Strat-O-Fair
 type: poi
+score: 5.8
 ---
 
 The amusement rides perched on top of the Stratosphere (now The STRAT) tower, over 250 metres above the Strip. The big draws are the thrill rides at the summit — including one that dangles you over the edge of the tower and another that launches you skyward from its top. Not for the faint-hearted, but if you can handle the height, the views of Las Vegas sprawling below are unforgettable. Admission to the tower observation deck is separate from the ride tickets.

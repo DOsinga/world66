@@ -9,6 +9,7 @@ latitude: 47.12667
 longitude: 8.75147
 snippet: "Baroque pilgrimage church with Switzerland's most venerated Black Madonna"
 story: "On the night before the consecration of the original chapel in 948, Bishop Conrad of Constance reportedly heard a heavenly voice telling him the consecration had already been performed by angels. The 'Divine Consecration' became the founding legend of the site, and a Latin inscription above the chapel entrance still proclaims it today."
+score: 9.0
 ---
 
 One of the great baroque church interiors in the Alps, and the most important Catholic pilgrimage site in Switzerland. The current building dates from the early 18th century, designed by the monk-architect Caspar Moosbrugger over a decades-long project. The scale hits you the moment you enter — the nave stretches nearly 100 metres, every surface covered in frescoes, stucco, and gilded ornament by the Asam brothers of Munich.

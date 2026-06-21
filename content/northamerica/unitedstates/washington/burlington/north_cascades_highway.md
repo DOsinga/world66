@@ -6,6 +6,7 @@ latitude: 48.5165
 longitude: -121.0600
 story: >
   Highway 20 over the North Cascades Pass was the last major road completed across the Cascades and only opened in 1972. The crossing reaches 1,667 metres at Washington Pass, where the jagged granite spires of the Liberty Bell massif rise straight from the roadside. The highway closes each winter under snow and reopens in spring — the exact date varies year to year, and the first opening is treated as a regional event.
+score: 9.1
 ---
 
 Highway 20 east from Burlington is the route to some of the most dramatic mountain scenery in Washington state. The road follows the Skagit River valley through [Concrete](/northamerica/unitedstates/washington) and the small towns of Rockport and Marblemount before climbing into the North Cascades National Park complex and crossing the Cascades at Washington Pass.

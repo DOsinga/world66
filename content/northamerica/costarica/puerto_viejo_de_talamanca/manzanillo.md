@@ -7,6 +7,7 @@ tags:
 - sight
 title: Manzanillo Village
 type: poi
+score: 7.7
 ---
 
 Manzanillo is the small Afro-Caribbean fishing village at the end of the paved coast road south of Puerto Viejo. It is the gateway to the Gandoca-Manzanillo Wildlife Refuge — the coastal trail starts at the end of the village — and the kind of place where the main road ends in sand and chickens cross between houses.

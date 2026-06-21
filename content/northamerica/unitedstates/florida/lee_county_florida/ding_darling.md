@@ -8,6 +8,7 @@ tags:
 - wildlife
 title: J.N. "Ding" Darling National Wildlife Refuge
 type: poi
+score: 8.9
 ---
 
 Nearly half of Sanibel Island is protected inside this 6,300-acre wildlife refuge, named for the Pulitzer Prize-winning cartoonist and conservationist J.N. Darling who campaigned for its protection in the 1940s. The refuge is one of the most visited in the National Wildlife Refuge system, and justifiably so — the birdwatching is exceptional. Roseate spoonbills, great blue herons, anhingas, white ibis, and dozens of shorebird species feed through the mangrove-edged tidal flats visible from the five-mile Wildlife Drive. Alligators are common along the water's edge.

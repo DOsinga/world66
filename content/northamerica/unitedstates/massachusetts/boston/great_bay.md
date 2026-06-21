@@ -12,6 +12,7 @@ tags:
 title: Great Bay
 type: poi
 url: www.gbayrestaurant.com
+score: 6.1
 ---
 
 Already famous for its excellent clam chowder, this seafood restaurant serves halibut, lobster, shrimp, oyster, and mussel dishes in a contemporary setting. Try the shrimp and lobster dumplings.

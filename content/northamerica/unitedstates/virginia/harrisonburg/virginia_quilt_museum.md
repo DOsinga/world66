@@ -6,6 +6,7 @@ tags:
 - museum
 title: Virginia Quilt Museum
 type: poi
+score: 7.1
 ---
 
 The Virginia Quilt Museum occupies a handsome 19th-century house in Harrisonburg's downtown and holds a rotating exhibition of quilts from its permanent collection alongside temporary shows. The collection spans traditional Appalachian and Mennonite quilting through contemporary quilt art.

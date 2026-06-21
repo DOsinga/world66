@@ -7,6 +7,7 @@ tags:
 latitude: 33.71
 longitude: 73.73
 snippet: Memorial to soldiers from the Poonch area who served in Pakistan's wars
+score: 4.5
 ---
 
 The Yaadgar — the local word for a war memorial or monument — sits in a central position in Mong and lists the names of men from the area who died in military service. Poonch District has a long tradition of military recruitment going back to the British Indian Army period, and the memorial reflects that history.

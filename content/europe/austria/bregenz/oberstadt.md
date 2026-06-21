@@ -6,6 +6,7 @@ longitude: 9.7481
 tags:
   - things_to_do
   - neighbourhood
+score: 8.5
 ---
 
 The Oberstadt — the old upper town — sits on a small hill above the modern lakeside district, enclosed by medieval fortifications and still unmistakably separate from the rest of Bregenz. The gate towers, particularly the Martinsturm, define the skyline of this quarter.

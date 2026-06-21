@@ -8,6 +8,7 @@ latitude: 14.7961
 longitude: -16.9331
 sources:
   - https://en.wikipedia.org/wiki/Mus%C3%A9e_R%C3%A9gional_de_Thi%C3%A8s
+score: 6.2
 ---
 
 The Musée Régional de Thiès is a small regional museum covering the history, archaeology, and ethnography of the Thiès region. The collections include traditional objects from the Serer, Wolof, and Lebu peoples who have historically inhabited the area, along with colonial-era artifacts and some archaeological finds from sites in the region.

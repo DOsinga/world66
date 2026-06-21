@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 5.9
 ---
 
 The Victorian Gothic parish church was built in 1873 to serve the growing summer crowds that arrived once the railway reached the village. The dressed local stone, the steeply pitched roof and the slim tower are a textbook example of mid-Victorian rural Anglican architecture in Wales.

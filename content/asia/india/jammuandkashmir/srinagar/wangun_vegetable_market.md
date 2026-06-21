@@ -8,6 +8,7 @@ tags:
   - old_city
 latitude: 34.0950
 longitude: 74.8050
+score: 7.8
 ---
 
 Wangun is the main wholesale vegetable market of Srinagar's old city, receiving produce from both the floating gardens of Dal Lake and from the agricultural land of the valley floor. The market operates from early morning and is at its most active between 5am and 9am. The produce reflects the season sharply — spring brings lotus stems and fresh greens, summer brings tomatoes and courgettes from the floating gardens, autumn brings root vegetables and the end of the lotus crop.

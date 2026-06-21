@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -18.9405
 longitude: 29.8212
+score: 4.4
 ---
 
 The Sports Club is the town's social hub. Its cricket ground has hosted internationally televised matches against New Zealand, Sri Lanka, and Pakistan after a major renovation that brought it up to a standard rarely seen in towns of Kwekwe's size. There is also a rugby pitch, tennis courts, and a bar that doubles as the informal information centre for the wider Midlands province.

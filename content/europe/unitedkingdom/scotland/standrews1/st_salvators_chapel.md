@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/St_Salvator%27s_Chapel
 story: >
   On the cobblestones outside St Salvator's, the initials "PH" are set into the pavement, marking the spot where Patrick Hamilton — the first Protestant martyr of the Scottish Reformation — was burned at the stake in 1528. Students at the university superstitiously avoid walking on the monogram, believing it brings bad luck in exams. On graduation day, students who accidentally step on it rush to the pier to jump into the sea to break the curse.
+score: 8.3
 ---
 
 St Salvator's Chapel is the surviving centrepiece of St Salvator's College, founded in 1450 by Bishop James Kennedy, and the most architecturally distinguished building in St Andrews outside the cathedral ruins. Its square tower is a landmark visible from much of the town, and the chapel interior — with its fan-vaulted ceiling, medieval stalls, and the tomb of Bishop Kennedy — is the finest intact medieval interior in St Andrews.

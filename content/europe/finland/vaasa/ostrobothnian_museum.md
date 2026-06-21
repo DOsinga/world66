@@ -10,6 +10,7 @@ story: >
   from scratch after the 1852 fire. The new Vaasa needed institutions as well as
   streets, and the museum was one of the first claims the rebuilt city made to
   permanence and cultural ambition.
+score: 7.8
 ---
 
 The Ostrobothnian Museum is the main regional museum of Vaasa, combining cultural history, art, and natural science under one roof — unusual for a Finnish provincial museum of its era. The collection covers the history of Ostrobothnia from prehistoric times through the 20th century, with particular attention to the region's maritime past, its role in the 1918 Civil War, and the distinctive Finnish-Swedish bilingual culture of the west coast.

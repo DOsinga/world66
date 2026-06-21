@@ -6,6 +6,7 @@ longitude: -118.0
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The Timber Mountain Log Ride is the oldest log flume in the western United States, opened in 1969 and dedicated by John Wayne. The ride sends you up through a mocked-up logging camp inside a wooden mountain and ends with a drop and a soaking splash. The interior animatronics — bears, miners, a hillbilly band — were refurbished in 2013 and brought back the Calico Cuckoo and other characters from the original ride.

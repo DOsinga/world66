@@ -7,6 +7,7 @@ longitude: 14.5
 snippet: Large lake north of Degerfors shared with Karlskoga, good for swimming and walking
 sources:
   - https://en.wikipedia.org/wiki/M%C3%B6ckeln
+score: 5.8
 ---
 
 Lake Möckeln lies a few kilometres north of Degerfors, shared with the neighbouring municipality of Karlskoga. It is a substantial lake by Swedish standards — about 17 square kilometres — and provides the main outdoor recreation for the area in summer. Swimming spots along the south shore are accessible from Degerfors; the Degernäs Manor (a nineteenth-century estate) sits at the southernmost tip of the lake on a wooded promontory.

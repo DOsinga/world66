@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 story: "The Lifeboat Inn was originally a smugglers' ale house, positioned at the edge of the marsh where small boats could come and go without attracting too much attention from customs men. The smuggling routes along this coast were well-established and profitable in the eighteenth and early nineteenth centuries; the pub's position makes the history entirely plausible."
+score: 7.1
 ---
 
 The Lifeboat Inn at Thornham, a few kilometres west of Brancaster, is one of the best pubs on this stretch of the Norfolk coast. It sits at the edge of the salt marsh in a creeper-covered building that dates to the sixteenth century, with low ceilings, open fires, and the particular atmosphere of a pub that knows exactly what it is and is not trying to be anything else.

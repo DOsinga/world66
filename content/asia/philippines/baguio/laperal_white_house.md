@@ -10,6 +10,7 @@ tags:
 - haunted
 title: Laperal White House
 type: poi
+score: 6.0
 ---
 
 A handsome 1920s timber-and-stone mansion in the American colonial style, the Laperal White House sits behind a low wall on Leonard Wood Road. Built by the wealthy Laperal family, it served as a Japanese garrison house during the war and saw — by local accounts — a series of executions and torture sessions on its grounds.

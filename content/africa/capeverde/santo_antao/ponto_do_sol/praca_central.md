@@ -7,6 +7,7 @@ tags:
 latitude: 17.2020
 longitude: -25.0925
 snippet: "The town's main square, busy in the evening with locals catching up"
+score: 6.4
 ---
 
 The small palm-shaded plaza in the middle of town. Nothing much happens during the day, but in the evening it fills up: kids playing, old men talking politics on the benches, families wandering through after dinner. A couple of bars open onto the square — Café Central is the long-running fixture for a beer or a glass of grogue.

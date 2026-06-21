@@ -8,6 +8,7 @@ latitude: 26.9234
 longitude: 75.8268
 address: Hotel Pearl Palace, Hari Kishan Somani Marg, Jaipur
 snippet: The rooftop bar everyone in the budget-traveller circuit knows, with views of the old city
+score: 5.8
 ---
 
 The Peacock rooftop at Hotel Pearl Palace is a Jaipur backpacker institution — a themed rooftop restaurant and bar festooned with ornamental peacocks, fairy lights, and folk art, with a panoramic view over the old city and a menu that covers everything from Rajasthani thalis to pasta. The prices are low, the food is decent, and the setting is far more fun than the menu would suggest.

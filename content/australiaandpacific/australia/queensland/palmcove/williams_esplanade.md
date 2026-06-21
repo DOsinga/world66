@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: -16.7472
 longitude: 145.6660
+score: 7.9
 ---
 
 The esplanade is Palm Cove's spine — a pedestrian and cycling path that runs the length of the beach, flanked on one side by ancient melaleuca trees and on the other by the restaurants, bars, and resort hotels that make up the village. The trees are the defining feature: they are enormous, multi-trunked, with paper-like bark and a canopy that closes over the path in places.

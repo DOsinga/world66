@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.4
 ---
 
 Charco Verde is a small private nature reserve on the southern shore of Concepción's flank, built around a green lagoon (the name means "green pool") fringed by tropical forest. The site has short walking trails through the trees, a butterfly garden, and a beach on the lake where the swimming is sheltered and the sunsets over the water are excellent.

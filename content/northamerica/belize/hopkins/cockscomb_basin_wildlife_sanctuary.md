@@ -14,6 +14,7 @@ story: >
   highest densities of jaguars ever recorded. Rabinowitz later wrote about the experience
   in his book Jaguar — a clear-eyed account of conservation politics and what it actually
   takes to protect a large predator.
+score: 8.2
 ---
 
 Cockscomb Basin Wildlife Sanctuary sits about 30 km inland from Hopkins, in the foothills of the Maya Mountains. It is the world's first jaguar preserve and still one of the best-protected wild jaguar habitats in Central America. Seeing a jaguar in daylight is genuinely unlikely — they are nocturnal and avoid people — but the sanctuary is excellent for birdwatching (over 150 species recorded), and the forest itself is beautiful: tall broadleaf lowland rainforest with clear streams running through it.

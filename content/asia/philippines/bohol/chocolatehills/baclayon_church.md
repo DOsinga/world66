@@ -14,6 +14,7 @@ story: >
   The construction took decades, and thousands of eggs were contributed by local people as a form of
   tribute. The resulting structure has survived four centuries of typhoons, earthquakes, and wars,
   though it was significantly damaged by the 2013 Bohol earthquake and has been under ongoing restoration.
+score: 8.0
 ---
 
 Baclayon Church — properly the Parish of the Immaculate Conception — is one of the oldest stone churches in the Philippines, its construction begun by Spanish missionaries in 1595. The thick coral stone walls have stood for over four centuries, giving the church a weight and solidity that most Philippine church buildings lack. The attached museum holds a collection of religious artefacts, vestments, and historical objects that document the Spanish colonial period on Bohol.

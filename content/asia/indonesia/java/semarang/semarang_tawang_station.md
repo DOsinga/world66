@@ -10,6 +10,7 @@ longitude: 110.4278
 snippet: "One of Java's most elegant colonial railway stations, still in active use"
 sources:
   - https://en.wikipedia.org/wiki/Semarang_Tawang_railway_station
+score: 7.5
 ---
 
 Tawang Station is one of the most beautiful colonial railway stations in Java, built in 1914 in a Dutch neoclassical style and still operating as Semarang's main intercity rail terminal. The building has a long, arched facade with decorative ironwork and high clerestory windows that flood the waiting rooms with light.

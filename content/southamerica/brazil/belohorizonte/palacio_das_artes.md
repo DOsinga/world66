@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Palácio das Artes
 type: poi
+score: 7.8
 ---
 
 Palácio das Artes is the main performing arts complex of Belo Horizonte — three concert and theatre halls, a cinemathèque, two art galleries, and a craft centre, all under one modernist roof on the southern edge of Parque Municipal. The building opened in 1971 and is the centre of cultural life in the city.

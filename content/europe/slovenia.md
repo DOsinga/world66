@@ -15,7 +15,7 @@ quick_facts:
   Currency: Euro
   Forest Cover: "60% of the country"
   Tap Water Quality: Constitutional right since 2016
-score: 0.69
+score: 0.74
 loc_type: country
 ---
 

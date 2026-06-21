@@ -9,6 +9,7 @@ tags:
 - sight
 title: Crane House
 type: poi
+score: 5.5
 ---
 
 The Crane House at 14 Mulberry Place is the birthplace of Stephen Crane, author of *The Red Badge of Courage*, widely considered one of the greatest American novels about the Civil War. The house is preserved as a literary landmark. Hours and access vary — call ahead before visiting.

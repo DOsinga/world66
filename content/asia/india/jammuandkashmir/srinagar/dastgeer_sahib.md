@@ -8,6 +8,7 @@ tags:
   - old_city
 latitude: 34.0930
 longitude: 74.8175
+score: 6.9
 ---
 
 The shrine of Dastgeer Sahib in Khanyar is one of Srinagar's most important Sufi sites, dedicated to Abdul Qadir Gilani, the 12th-century Sufi scholar of Baghdad who founded the Qadiri order. The shrine is a destination for both Sufi Muslims and pilgrims from across South Asia. The current structure, with its copper-covered turrets and carved woodwork, was built over several centuries, though the building that stood here was largely destroyed in a 2012 fire and subsequently reconstructed.

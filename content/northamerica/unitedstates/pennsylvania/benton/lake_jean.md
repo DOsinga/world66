@@ -6,6 +6,7 @@ longitude: -76.2908
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 Lake Jean is the 245-acre lake at the heart of Ricketts Glen State Park, on the plateau just east of Lake Rose. It is the centre of the park's developed area, with a swimming beach (open Memorial Day through Labor Day), boat rentals, and the main family campground.

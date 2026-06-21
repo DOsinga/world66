@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - shopping
+score: 6.4
 ---
 
 The Corso Vittorio Emanuele is Lipari town's main pedestrian street, running from the harbour up toward the castle rock. It is the place to wander in the early evening for passeggiata: small shops selling capers, Malvasia, and salted ricotta; bars with tables on the street; jewellers selling silver and obsidian.

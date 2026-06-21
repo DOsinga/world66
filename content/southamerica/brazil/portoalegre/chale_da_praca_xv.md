@@ -8,6 +8,7 @@ tags:
 story: The Chalé da Praça XV was built in 1885 as an ornamental pavilion in the then-fashionable Praça XV de Novembro. For most of the 20th century it operated as a restaurant and bar; it was threatened with demolition in the 1970s but saved by a local campaign. The restored building has become one of the strongest symbols of Porto Alegre's willingness to protect its own heritage.
 title: Chalé da Praça XV
 type: poi
+score: 6.7
 ---
 
 The Chalé da Praça XV is a small Victorian iron pavilion in the Praça XV de Novembro — a delicate green-painted structure that looks like it was airlifted from a Parisian park, which is not too far from the truth: the ironwork was manufactured in Europe and assembled here in 1885. For most of its life it has operated as a bar and café, and today it remains one of the most atmospheric places in the city centre to have a cold beer on a warm afternoon.

@@ -8,6 +8,7 @@ tags:
   - market
 latitude: 34.1167
 longitude: 74.8250
+score: 9.0
 ---
 
 From around 6am each morning, a floating market convenes on the northern section of Dal Lake where the main channels intersect. Shikara after shikara loaded with produce — lotus roots, tomatoes, cucumbers, spinach, gourds — poles out from the floating gardens to meet buyers waiting in their own boats. The transaction is done shikara-to-shikara without anyone touching land. The whole affair is over by 8am, when the boats scatter back to the gardens or to the shore markets.

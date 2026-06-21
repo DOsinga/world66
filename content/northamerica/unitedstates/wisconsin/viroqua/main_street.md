@@ -6,6 +6,7 @@ latitude: 43.5560
 longitude: -90.8895
 snippet: "Restored 19th-century brick storefronts on the National Register"
 story: "Viroqua's downtown was one of the first in the country to be revived under the National Trust's Main Street program, beginning in 1988. The work was led by a small group of local volunteers who bought up empty buildings, restored the storefronts, and slowly persuaded businesses to come back."
+score: 7.8
 ---
 
 Viroqua's Main Street — a stretch of late-19th-century brick storefronts along South Main between Court and Decker — has been carefully restored and is the most photogenic piece of small-town America in this corner of Wisconsin. Most of the buildings date from the 1870s and 1880s, after a devastating tornado in 1865 destroyed much of the original town.

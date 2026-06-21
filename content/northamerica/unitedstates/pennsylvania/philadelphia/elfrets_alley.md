@@ -8,6 +8,7 @@ tags:
 latitude: 39.9541
 longitude: -75.1426
 snippet: "Claimed to be the oldest continuously inhabited residential street in America, dating to 1702"
+score: 7.8
 ---
 
 Elfreth's Alley is a narrow cobblestone lane tucked between Front and 2nd Streets north of Arch — thirty-two colonial row houses from the early 18th century, most of them still lived in. The oldest dates to 1702, giving the alley its claim as the oldest continuously inhabited residential street in the United States. Walking it on a quiet morning, you can almost believe the claim: the scale is human, the brickwork original, and the sense of compressed time genuine.

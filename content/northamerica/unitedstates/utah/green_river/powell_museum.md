@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "Powell was a one-armed Civil War major who lost his right arm at Shiloh. In 1869 he led nine men in four wooden boats down a thousand miles of unmapped river through the Grand Canyon. Four men deserted near the end, climbed out of the canyon, and were never seen again."
+score: 7.2
 ---
 
 The museum sits on the riverbank just off Main Street and tells the story of John Wesley Powell's 1869 and 1871 expeditions down the Green and Colorado rivers. The exhibits include replicas of Powell's wooden boats, photographs from later expeditions, and material on the geology of the canyons.

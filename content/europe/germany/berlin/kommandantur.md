@@ -10,6 +10,7 @@ tags:
 - prenzlauerberg
 title: Kommandantur
 type: poi
+score: 5.5
 ---
 
 A neighbourhood bar on Knaackstraße, close to the Kollwitzplatz area. Easy-going and local in character — the kind of spot that fills up quietly on a weeknight.

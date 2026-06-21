@@ -1,5 +1,0 @@
-northamerica/costarica/quepos
-asia/turkey/adana
-europe/unitedkingdom/scotland/dundee
-europe/spain/northernspain/astorga
-northamerica/mexico/tingambato

@@ -8,6 +8,7 @@ tags:
 neighbourhood: Quadrilatero Romano
 latitude: 45.0739
 longitude: 7.6831
+score: 7.1
 ---
 
 A bare-walled wine bar and casual kitchen in the Quadrilatero, run by the same group behind Consorzio. Eat at the long marble counter or a couple of high tables: anchovies in green sauce, a few daily pastas, cheese plates, charcuterie, and a hundred wines by the glass.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.1876
 longitude: 91.7508
+score: 6.6
 ---
 
 A cable car across the Brahmaputra, opened in 2020 and running from Kachari Ghat on the south bank to Doul Govinda on the north — a span of 1.8 km, one of the longest river ropeways in India. The ride takes about eight minutes each way; cabins hold around 30 people.

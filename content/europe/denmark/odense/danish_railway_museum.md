@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: National rail museum behind the central station, full of working locomotives
+score: 7.9
 ---
 
 Danmarks Jernbanemuseum is Denmark's national rail museum, set in a 1954 locomotive shed directly behind the central station. The collection includes royal carriages, freight stock, and dozens of locomotives — steam, diesel, and electric — many of them still functional and used on heritage trips around Funen.

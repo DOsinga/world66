@@ -5,6 +5,7 @@ snippet: Early Ottoman mosque in the elegant Arabahmet quarter
 tags: [things_to_do, sight]
 latitude: 35.1771
 longitude: 33.3576
+score: 6.6
 ---
 
 The mosque sits in the heart of Arabahmet, the most attractive surviving quarter of old Lefkoşa, with restored townhouses, jacaranda trees, and quiet lanes. Built in the late 16th century just after the Ottoman conquest, the mosque is a domed cube with a single minaret, sober and well-proportioned.

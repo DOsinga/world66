@@ -8,6 +8,7 @@ tags:
 address: "1306 E College Blvd, Roswell, NM"
 latitude: 33.4067
 longitude: -104.5042
+score: 5.4
 ---
 
 A small, free city zoo on the banks of the Spring River. Exhibits are modest by big-city standards but adequate: bison, cougars, llamas, prairie dogs, and a children's petting zoo. The setting under cottonwoods alongside the river is genuinely pleasant.

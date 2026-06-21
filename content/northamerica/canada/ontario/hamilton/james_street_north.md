@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - neighbourhood
 snippet: "Hamilton's main arts district, with monthly art crawls and a vibrant gallery scene"
+score: 7.8
 ---
 
 James Street North runs from Gore Park up to the harbour and is the spine of Hamilton's arts district. Over the past two decades it has transformed from a struggling commercial street into one of the most concentrated runs of independent galleries, studios, and music venues in southern Ontario, anchored by the monthly Art Crawl on the second Friday of each month.

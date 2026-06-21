@@ -8,6 +8,7 @@ tags:
 title: Wat Sri Suphan (Silver Temple)
 type: poi
 story: The entire ordination hall at Wat Sri Suphan is clad in silver — walls, ceiling, pillars, and decorative panels — all crafted by the silversmiths of Wualai Road, who have worked this neighbourhood for centuries. Women are not permitted inside the ubosot, but can view it from the terrace.
+score: 7.6
 ---
 
 Wat Sri Suphan, commonly called the Silver Temple, sits on Wualai Road in the silversmith district south of the old city. The main building is extraordinary: the exterior and interior are sheathed in hand-hammered silver and aluminium panels, worked with intricate figures from Buddhist mythology. On a sunny day the whole structure glints and shimmers.

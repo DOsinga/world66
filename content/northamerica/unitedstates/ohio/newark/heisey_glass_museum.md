@@ -9,6 +9,7 @@ longitude: -82.4174
 snippet: The story of A.H. Heisey & Company, one of America's most collected glassmakers, in the town where it was made
 story: >
   A.H. Heisey chose Newark for his glass factory in the 1890s because the local Board of Trade was eager for industry, natural gas was abundant and cheap, and the Midwest's growing middle class wanted quality tableware. The factory operated for six decades, producing thousands of patterns. When it closed in 1957, the moulds were bought by collectors and other companies — some Heisey patterns are still in production today.
+score: 6.8
 ---
 
 The National Heisey Glass Museum chronicles the rise and fall of A.H. Heisey & Company, which operated in Newark from 1896 to 1957 and became one of the most widely collected American glassware brands. The museum holds thousands of pieces in the distinctive Heisey style — elegant pressed glass in patterns that ranged from simple everyday tableware to elaborate decorative pieces.

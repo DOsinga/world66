@@ -12,6 +12,7 @@ story: >
   Verna Cook Garvan, an Arkansas timber-and-paper heiress, spent the last decades of her life buying
   back the land her family had once clear-cut and planning a garden on it. She left the entire
   property to the University of Arkansas in 1985; it opened to the public in 2002.
+score: 8.3
 ---
 
 A 210-acre botanical garden draped over a peninsula on Lake Hamilton, about ten minutes south of

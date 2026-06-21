@@ -13,6 +13,7 @@ tags:
 - historic_house
 title: Owens-Thomas House
 type: poi
+score: 8.7
 ---
 
 Built in 1819 to a design by English architect William Jay, the Owens-Thomas House is considered one of the finest examples of English Regency architecture in the United States. The building is almost impossibly refined for a provincial American city of the period — curving stone staircases, cast-iron balconies, and interiors that have survived largely intact.

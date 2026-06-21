@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.8037
 longitude: 2.1163
+score: 5.9
 ---
 
 The Bassin de Flore is one of four seasonal fountain basins arranged in a square parterre between the palace terrace and the main garden axis — Spring (Flora), Summer (Ceres), Autumn (Bacchus), and Winter (Saturn). Each has a central gilded lead figure representing a season, surrounded by children and appropriate vegetation: Flora reclines among flowers, Ceres among wheat, Bacchus among grapes.

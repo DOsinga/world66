@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: The last of Mechelen's twelve medieval city gates
+score: 6.5
 ---
 
 Twelve gates once defended the medieval ring of walls; the Brusselpoort is the only one left. The two cylindrical towers and the round arch between them are 13th century at the base, with the small turret roofs added in 1577. The walls themselves were pulled down in the 19th century to make way for the boulevards, and the gate survives mostly because the city kept finding new uses for it — armoury, prison, water tower, museum.

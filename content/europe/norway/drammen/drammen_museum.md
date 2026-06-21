@@ -6,6 +6,7 @@ latitude: 59.7392
 longitude: 10.1939
 sources:
   - https://en.wikipedia.org/wiki/Drammen_Museum_of_Art_and_Cultural_History
+score: 7.4
 ---
 
 The Drammen Museum occupies two sites: a main building near the river and the Marienlyst manor house a short walk away, set in a small park. The permanent collection covers the history of the Drammen region from the Viking age through the industrial era, with particular strength in the timber trade and shipping industries that made the city prosperous. The art collection includes Norwegian landscape painting from the nineteenth and early twentieth centuries.

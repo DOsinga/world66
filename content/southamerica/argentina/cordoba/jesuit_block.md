@@ -10,6 +10,7 @@ latitude: 31.4206
 longitude: -64.1911
 neighbourhood: Centro
 story: "When the Jesuits were expelled from the Spanish Empire in 1767, they had run Córdoba's intellectual and religious life for more than 150 years. They left behind not just churches but the city's first university — and a financial empire of country estancias designed to fund it. UNESCO inscribed the whole network as a single World Heritage Site in 2000."
+score: 9.4
 ---
 
 The single square block at the heart of colonial Córdoba where the Jesuits built their church, their residence, the university they founded in 1613, and the Colegio Nacional de Monserrat. The complex is the most complete surviving colonial Jesuit ensemble in South America and the reason Córdoba's old town is on the UNESCO list.

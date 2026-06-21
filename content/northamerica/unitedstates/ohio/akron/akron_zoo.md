@@ -8,6 +8,7 @@ tags:
 latitude: 41.0807
 longitude: -81.5414
 address: 505 Euclid Avenue
+score: 5.8
 ---
 
 Akron Zoo is one of the smaller AZA-accredited zoos in the Midwest — about 60 acres, around 700 animals — and it leans toward the high-quality-on-a-walkable-scale model rather than competing with Cleveland Metroparks Zoo down the road. The recently expanded Pride of Africa habitat (lions, white rhinos, vultures) and the Wild Asia complex (Sumatran tigers, red pandas, snow leopards) are the highlights.

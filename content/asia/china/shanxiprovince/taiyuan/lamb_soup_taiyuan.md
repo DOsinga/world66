@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 37.8640
 longitude: 112.5520
+score: 6.3
 ---
 
 Taiyuan has a strong tradition of lamb cooking that draws on both the Inner Mongolian livestock trade and the city's significant Hui Muslim community. Clear lamb soup (qingdun yang rou) — made with the whole animal, simmered for hours until the broth is milky white and deeply flavoured — is served in specialist restaurants throughout the city, typically with freshly baked sesame flatbreads for tearing and dipping. The Muslim quarter in the northern city has several family restaurants serving this style of cooking at its most concentrated.

@@ -15,6 +15,7 @@ story: >
   the two names are used interchangeably. The village has a slightly different character from
   Tukao: more fishing families, fewer government connections, and a reputation among pearl
   farmers for producing some of the best divers on the atoll.
+score: 6.2
 ---
 
 Tauhunu lies on the southern rim of the Manihiki atoll, separated from Tukao by the open lagoon. Getting there from Tukao requires a boat — the crossing takes around twenty minutes. It is smaller than Tukao and sees even fewer outside visitors.

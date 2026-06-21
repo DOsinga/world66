@@ -7,6 +7,7 @@ tags:
 latitude: 31.6200
 longitude: 74.8760
 snippet: No-frills dhaba food near the Golden Temple
+score: 6.6
 ---
 
 Brothers Dhaba, tucked into the lanes near the Golden Temple complex, is one of the best examples of what Punjabi dhaba cooking can be when it is done properly. Dal makhani, saag, rajma, and fresh roti — simple food cooked in large pots over wood fires. The prices are low enough that it is hard to spend much even if you order generously.

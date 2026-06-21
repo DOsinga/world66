@@ -6,6 +6,7 @@ longitude: 106.6900
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 The Cấm River runs along the northern edge of the city and is the working waterway that gave Haiphong its existence. Container terminals, dry docks, and shipyards line both banks, and oceangoing vessels can sail right into the city as far as the Bính Bridge.

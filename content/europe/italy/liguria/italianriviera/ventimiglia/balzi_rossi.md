@@ -17,6 +17,7 @@ story: >
   Venuses, are among the oldest human figurines in the world, dating to around
   25,000 years ago. Most of the originals are now in the Musée d'Anthropologie
   Préhistorique in Monaco.
+score: 8.5
 ---
 
 A cluster of prehistoric caves set into dramatic reddish cliffs right at the French border. The caves were inhabited for tens of thousands of years, and excavations have uncovered Paleolithic burials, carved Venus figurines, and animal bones dating back over 200,000 years. The small Museo Preistorico dei Balzi Rossi at the entrance displays the key finds. The caves themselves are accessible along a short path beneath the overhanging rock, with the sea crashing just below.

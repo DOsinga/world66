@@ -11,6 +11,7 @@ tags:
 - beaches
 title: Camotes Island
 type: poi
+score: 7.9
 ---
 
 The Camotes Islands are a small group of islands in Camotes Sea, about two hours by ferry from Cebu City. They get a fraction of the tourist traffic of Bohol or Palawan, which is precisely their appeal. The main island, Pacijan, has calm white-sand beaches at Santiago Bay and Lake Danao — a freshwater lake where you can rent paddleboats and kayaks. The roads are quiet enough that renting a motorbike and exploring at your own pace is the obvious choice.

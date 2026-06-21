@@ -13,6 +13,7 @@ tags:
 title: Zi' Teresa
 type: poi
 url: www.ziteresanapoli.com
+score: 6.4
 ---
 
 Right on the water at Borgo Marinaro below Castel dell'Ovo, Zi' Teresa is an institution. Politicians and local celebrities come here for traditional Mediterranean dishes and classic Neapolitan pasta. The terrace in summer is as good as it gets.

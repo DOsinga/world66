@@ -6,6 +6,7 @@ longitude: 0.5370
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 The Great Lines Heritage Park is a 35-hectare green ridge that stretches above the Medway towns from Gillingham through Brompton and down to the Historic Dockyard at Chatham. It is built on the line of the 18th- and 19th-century Chatham defences — a set of fortifications designed to protect the dockyard from a land attack by France — and the earth ramparts, ditches, and bastions are still clearly visible.

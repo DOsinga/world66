@@ -14,6 +14,7 @@ story: >
   The mills are long gone; the pond remains.
 sources:
   - https://en.wikipedia.org/wiki/Deschutes_River
+score: 7.8
 ---
 
 The Deschutes River Trail runs along the river through the heart of Bend, passing Drake Park and its calm Mirror Pond, through the Old Mill District, and south toward Tumalo State Park. The full multi-use trail extends about 15 miles from the center of town into the high desert, but the stretch through downtown is easily walked in an hour.

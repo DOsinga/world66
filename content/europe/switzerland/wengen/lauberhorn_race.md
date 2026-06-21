@@ -8,6 +8,7 @@ tags:
   - sight
   - sport
 story: "At 4.5 kilometres, the Lauberhorn is the longest downhill on the World Cup circuit — racers take well over two minutes top to bottom, hitting 160 km/h on the Haneggschuss. The course was first run in 1930 and still uses much of the original line, including the leg-rattling Hundschopf jump."
+score: 8.2
 ---
 
 The Lauberhorn race in mid-January is the biggest event in Wengen's year. The course runs from just below the Lauberhorn summit down through the Hundschopf, the Minschkante, the Wasserstation, the Hanneggschuss, and the Ziel-S finish in the meadow above the village. Spectator areas line the lower third of the course; the village fills with race fans, the train from Lauterbrunnen runs every twenty minutes, and the cowbells are deafening.

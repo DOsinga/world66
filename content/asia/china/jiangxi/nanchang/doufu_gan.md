@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 28.6755
 longitude: 115.8960
+score: 6.7
 ---
 
 Nanchang's dried and smoked tofu skin (豆腐干, dòufu gān) is one of Jiangxi's most distinctive snack products — firm slabs of pressed tofu that have been dried, smoked, and marinated in chilli and five-spice, giving them a chewy, intensely flavored character unlike most tofu preparations. Street vendors sell them from carts, sliced thin and served on toothpicks, for 2 to 5 yuan per portion.

@@ -11,6 +11,7 @@ title: Casa Dorada
 type: poi
 story: >
   The Casa Dorada was built in the early 20th century by Moisés Navajas, a wealthy Tarija merchant who made his fortune in the rubber boom. He commissioned the most extravagant private house in the region — Moorish arches, tiled courtyards, elaborate plasterwork — in a city of modest colonial buildings. It was an act of conspicuous display that local residents regarded with a mixture of admiration and bewilderment. Navajas died before he could enjoy it for long, and the house eventually passed to the city.
+score: 7.8
 ---
 
 The Casa Dorada — the Golden House — is Tarija's most architecturally distinctive building, a lavish Moorish-influenced mansion built in the early 20th century by a rubber-boom merchant. The facade is elaborately ornamented with stucco decoration, Moorish arches, and tiled surfaces that create a visual spectacle out of place in the otherwise sober colonial streetscape.

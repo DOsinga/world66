@@ -13,6 +13,7 @@ story: >
   as part of the city's coastal defences. They were never fired in anger. The tunnels and
   bunkers beneath the hill are partly accessible on guided tours, and the guns themselves
   have become an incongruous backdrop for weekend picnics.
+score: 8.2
 ---
 
 Monte de San Pedro is a hilltop park about two kilometres northwest of the city centre, offering the best panoramic views over La Coruña, the harbour, and the Atlantic coast. The park is free to enter and popular with locals for evening walks and weekend picnics.

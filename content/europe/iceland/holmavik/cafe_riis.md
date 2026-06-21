@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 65.706497
 longitude: -21.669196
+score: 5.3
 ---
 
 Café Riis occupies the oldest surviving house in Holmavik, a timber building on Hafnarbraut that has been converted into the village's main restaurant. Old photographs on the walls trace the history of the settlement and its fishing community. The menu covers traditional Icelandic staples — lamb soup, fish of the day — alongside pizzas, burgers, and sandwiches for those who want something more familiar.

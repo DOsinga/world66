@@ -7,6 +7,7 @@ tags:
 latitude: 40.6333
 longitude: 14.4000
 snippet: The quiet comune between Meta and Sorrento, with clifftop villas and sea views
+score: 7.4
 ---
 
 Sant'Agnello is the small comune between Meta di Sorrento and Sorrento proper, running along the clifftop above the Gulf of Naples. It has none of Sorrento's tourist apparatus — no ticket booths, no cruise crowds — and the clifftop walk through its residential streets gives some of the best views on the peninsula, looking back toward Meta and the bay.

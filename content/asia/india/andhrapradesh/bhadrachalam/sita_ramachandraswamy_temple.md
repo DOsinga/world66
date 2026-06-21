@@ -13,6 +13,7 @@ story: >
   Rama himself appeared before the Mughal court and repaid the money in gold —
   at which point Gopanna was freed. He is still venerated in the temple as
   Bhakta Ramadasu.
+score: 8.8
 ---
 
 The Sita Ramachandraswamy Temple is one of the most revered Vaishnavite shrines in South India, dedicated to Lord Rama and believed to mark the site where he spent part of his fourteen-year forest exile. The complex stands on a high bank above the Godavari River, a position that gives it commanding views of the water and the forested hills beyond. Even for visitors with no connection to Hinduism, the scale of devotion here — pilgrims arriving by the busload from across Telangana and Andhra Pradesh, the smell of jasmine garlands and incense, the sound of Carnatic devotional music — is something memorable.

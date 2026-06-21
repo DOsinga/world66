@@ -12,6 +12,7 @@ story: >
   contact with the isolated Ammassalik Inuit. The local people had never seen a European before Holm
   arrived, and the masks he brought back to Denmark — depicting spirits, half-human and half-beast
   — transformed Western understanding of Inuit spiritual life.
+score: 7.5
 ---
 
 The Ammassalik Museum is a small but absorbing institution covering the traditional life of the East Greenland Inuit, the history of European contact, and the dramatic cultural transformation of the 20th century. The collection includes kayaks, clothing, tools, and objects from traditional hunting culture that was still largely intact when the first permanent Danish settlement was established here in 1894.

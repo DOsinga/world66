@@ -8,6 +8,7 @@ latitude: 34.5469
 longitude: -112.4475
 sources:
   - https://en.wikipedia.org/wiki/Prescott_National_Cemetery
+score: 6.4
 ---
 
 Prescott National Cemetery is one of the original twelve national cemeteries established by Congress in 1862. It was created to bury the soldiers who died at Fort Whipple and in the Indian Wars campaigns in the Arizona Territory. The grounds are compact — a little over 10 acres — and impeccably maintained in the manner of all national cemeteries.

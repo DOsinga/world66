@@ -13,7 +13,7 @@ quick_facts:
   Currency: Egyptian Pound
   Pyramids Age: "4,500+ years"
   Nile Dependency: "95% live along it"
-score: 0.77
+score: 0.89
 loc_type: country
 ---
 

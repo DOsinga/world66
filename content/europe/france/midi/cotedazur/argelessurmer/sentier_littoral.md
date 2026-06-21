@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Cliff-edge path from Argelès south to Collioure — one of the best walks on the Cote Vermeille
+score: 8.4
 ---
 
 A signposted coastal footpath that runs from the southern end of Argelès beach (at **Le Racou**), over the rocky promontory of **Cap de l'Abeille**, and along the cliffs to **Collioure** — about 6km, three to four hours, with several places to swim along the way and one or two cliff-top cafes.

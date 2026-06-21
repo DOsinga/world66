@@ -12,6 +12,7 @@ story: >
   protectorate into the early 19th century, before being absorbed into British
   India in 1835. The ruins on the Bangladeshi side of the border are all that
   survives; the rest of the kingdom lies in modern Meghalaya.
+score: 8.2
 ---
 
 The ruins at Jaintiapur include the shells of the royal palace and an unusual circular brick structure thought to have been a temple platform, scattered across an open meadow on the way to Jaflong. The site is poorly signposted and visitor numbers are low, which adds to the atmosphere.

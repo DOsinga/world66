@@ -6,6 +6,7 @@ tags:
 - market
 title: Mall of the Emirates
 type: poi
+score: 6.3
 ---
 
 The Mall of the Emirates in Al Barsha is the second-largest shopping mall in Dubai and one of the most successful in the city. It has over 630 retail outlets, a 14-screen cinema, a large Magic Planet entertainment centre, and — most notably — Ski Dubai, the indoor ski resort attached to the mall's south end.

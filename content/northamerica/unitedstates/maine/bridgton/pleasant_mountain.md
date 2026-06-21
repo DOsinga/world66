@@ -14,6 +14,7 @@ story: >
   January 23, 1938 — a rope tow powered by a truck engine, built with help from
   the Works Progress Administration. It operated as Shawnee Peak from 1988 until
   Boyne Resorts restored the original name in 2022.
+score: 8.2
 ---
 
 Pleasant Mountain, 4 miles west of Bridgton on Route 302, is the local ski mountain and the oldest major ski area in Maine. Its 1,300 feet of vertical drop across 44 trails and 245 skiable acres makes it a solid intermediate mountain — not Sugarloaf, but far less crowded and much more accessible from southern Maine and coastal New Hampshire. Snowmaking covers nearly all of the terrain, keeping conditions reliable when natural snow is thin.

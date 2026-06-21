@@ -7,6 +7,7 @@ snippet: Compact museum inside the castle covering Iron Age through Mamluk finds
 tags:
   - things_to_do
   - museum
+score: 7.1
 ---
 
 The archaeological museum occupies a vaulted hall in the lower courtyard of the castle. The display is modest but well chosen: Iron Age and Nabataean pottery from the surrounding hills, Crusader weaponry, Mamluk inscriptions, and several handsome carved capitals. The information panels (in English and Arabic) are particularly good on the political shifts that gave the castle each of its layers.

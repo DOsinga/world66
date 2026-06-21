@@ -7,6 +7,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Klek_(peninsula)
+score: 5.7
 ---
 
 The narrow Klek peninsula juts into the Adriatic just south of Komarna, technically belonging to Bosnia and Herzegovina as part of the tiny Neum corridor that splits Croatia in two. From the coast road above Komarna, several pullouts give a clear view across the bay to its low, scrubby ridge.

@@ -4,6 +4,7 @@ type: poi
 latitude: 34.7338
 longitude: -86.5893
 tags: [bars_and_cafes, bar]
+score: 6.3
 ---
 
 Campus No. 5 Brewery occupies a converted industrial building near the Lowe Mill corridor and is one of the most respected craft breweries in north Alabama. The taproom is large and deliberately unfussy — exposed brick, concrete floors, long communal tables — and the beer programme covers everything from light lagers to barrel-aged stouts with consistent quality. Several of the seasonal offerings have won regional awards, and the rotating tap list is broad enough to suit most preferences.

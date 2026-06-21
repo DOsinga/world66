@@ -8,6 +8,7 @@ longitude: 75.7793
 tags:
 - things_to_do
 - neighbourhood
+score: 8.8
 ---
 
 Kuttichira is the old Mappila Muslim heart of the city — a dense, low-rise neighbourhood of pastel houses and narrow lanes around a great rectangular tank. Several of the houses date to the 16th and 17th centuries and are extended-family compounds with intricately carved timber-and-stucco facades.

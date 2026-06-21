@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 48.6944
 longitude: 6.1827
+score: 8.2
 ---
 
 The Arc Héré is a triumphal arch that closes the northern end of Place Stanislas, forming the gateway between the 18th-century new town and the older formal gardens of Place de la Carrière. Built between 1752 and 1756, it is a strikingly elegant structure, slender and light compared to Roman triumphal arches — more gateway than monument.

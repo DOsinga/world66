@@ -6,6 +6,7 @@ longitude: -122.0774
 tags:
   - things_to_do
   - museum
+score: 8.8
 ---
 
 Technically in Mountain View rather than Sunnyvale, the Computer History Museum is the indispensable Silicon Valley museum and a short drive west of central Sunnyvale. The main exhibition, "Revolution", traces 2,000 years of computing in twenty galleries, from the abacus through the Babbage Engine to the present.

@@ -8,6 +8,7 @@ tags:
   - surinamese
 latitude: 5.8270
 longitude: -55.1570
+score: 6.0
 ---
 
 Numisboede is a long-standing Paramaribo favourite for traditional Surinamese cooking — the kind of eclectic, multi-influence food that reflects the city's cultural make-up. The menu draws on Creole, Hindustani, Javanese, and Maroon culinary traditions, with dishes like pom (a Jewish-Surinamese casserole of tayer root and chicken or salt fish), moksi alesi (mixed rice with vegetables and meat), and roti alongside Javanese noodle dishes and pepper pot stew.

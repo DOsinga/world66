@@ -8,6 +8,7 @@ tags:
 latitude: 41.54722
 longitude: 2.105
 story: "The Mercat Central was built between 1927 and 1930 to designs by the municipal architect Jeroni Martorell, a pupil of Domènech i Montaner who worked in the Noucentisme style. It replaced an earlier open-air market that had served the city since the medieval period. The building's iron structure and decorative tilework reflect the Catalan determination to make even utilitarian infrastructure beautiful."
+score: 7.3
 ---
 
 The Mercat Central de Sabadell is the main covered market, built in the late 1920s and still functioning as a daily food market. The building is a good example of early twentieth-century Catalan market architecture — iron and glass construction with decorative ceramic details, designed both to provide the ventilation that a fresh-produce market requires and to give the city a civic landmark worth the investment.

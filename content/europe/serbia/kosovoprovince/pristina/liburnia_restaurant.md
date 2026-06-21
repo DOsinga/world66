@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 42.6630
 longitude: 21.1620
+score: 5.7
 ---
 
 Liburnia is a traditional Albanian restaurant near Mother Teresa Boulevard that has been feeding Pristina for years without changing much — which is either a recommendation or a warning depending on what you are looking for. The kitchen focuses on the basics done well: grilled meats, fresh bread baked in-house, seasonal salads, and the kind of soup that feels like it has been simmering since morning.

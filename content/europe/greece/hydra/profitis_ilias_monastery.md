@@ -9,6 +9,7 @@ tags:
   - monastery
   - hiking
 story: "The monastery sheltered the revolutionary leader Theodoros Kolokotronis when he fled Hydra after a falling-out with the local captains during the War of Independence. The monks hid him in the cells; he later commanded the Greek forces at the decisive battle of Dervenakia in 1822, the victory that broke Ottoman power in the Peloponnese."
+score: 8.5
 ---
 
 The Monastery of the Prophet Elijah sits high on the ridge above Hydra town — a whitewashed compound of cells, a domed chapel, and a small graveyard, surrounded by terraces of olive trees. It is the most rewarding short walk on the island: an hour and a half from the harbour on a stony donkey path that climbs through pines and scrub, with the town and the Argolic Gulf opening below you as you rise.

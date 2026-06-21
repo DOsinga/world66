@@ -7,6 +7,7 @@ tags:
 - cafe
 title: Summit Cafe
 type: poi
+score: 5.4
 ---
 
 For a place at 3,650 metres in the middle of the Tibetan Plateau, Summit makes a properly good flat white. The original branch sits inside the Shangri-La Hotel near the Jokhang and a second occupies a corner of the Yak Hotel. They use beans imported from Yunnan, the espresso is pulled correctly, and the cakes are genuinely fresh.

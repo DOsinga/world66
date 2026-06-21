@@ -9,6 +9,7 @@ tags:
 - charlottenburg
 title: Paris Bar
 type: poi
+score: 7.1
 ---
 
 A legendary Berlin institution with a French brasserie atmosphere that has attracted artists, film people, and the occasional media heavyweight since the 1950s. The food is expensive; the art on the walls is good; the people-watching is better.

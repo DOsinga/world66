@@ -6,6 +6,7 @@ longitude: 9.7089
 tags:
   - eating_out
   - restaurant
+score: 6.6
 ---
 
 The best-known restaurant in Corniglia, tucked into a small stone-vaulted room off Via Fieschi. The menu is short and almost entirely Ligurian — pansoti with walnut sauce, trofie al pesto, stuffed mussels, rabbit alla cacciatora — and the wine list leans heavily on the local Cinque Terre whites and Sciacchetrà.

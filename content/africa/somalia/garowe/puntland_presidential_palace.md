@@ -6,6 +6,7 @@ tags:
   - sight
 title: Puntland Presidential Palace
 type: poi
+score: 5.3
 ---
 
 The seat of the Puntland government, opened in 2013, is a visible symbol of the semi-autonomous region's effort to build functioning institutions since its establishment in 1998. The palace is not open to visitors, but the building itself — modern, walled, set apart from the rest of the city — gives a sense of Garowe's role as a functioning regional capital rather than just an administrative label.

@@ -8,6 +8,7 @@ latitude: -39.6498
 longitude: 177.0923
 story: >
   The cape was named by Captain Cook in 1769 after a group of his Māori crew members were temporarily seized by local Māori who mistook them for slaves. The gannets were apparently less interested in the drama: they have been nesting on these cliffs for as long as anyone can record, and show no sign of leaving.
+score: 9.1
 ---
 
 Cape Kidnappers, about 30 km south of Napier, is home to one of the world's largest mainland gannet colonies — up to 20,000 birds nesting on the dramatic headland cliffs and flat terraces between November and February. During breeding season the noise, the smell, and the sheer density of birds packed onto every available surface is extraordinary.

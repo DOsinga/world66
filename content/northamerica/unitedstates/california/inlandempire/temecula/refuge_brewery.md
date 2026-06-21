@@ -6,6 +6,7 @@ longitude: -117.1320
 tags:
   - bars_and_cafes
   - bar
+score: 5.9
 ---
 
 Refuge Brewery, founded in 2012, is the local craft-beer success story. The taproom in an industrial park north of Old Town has fifteen or twenty house beers — they specialise in Belgian-style ales, fruited sours, and a barrel-ageing programme — plus a rotating food truck out front most evenings.

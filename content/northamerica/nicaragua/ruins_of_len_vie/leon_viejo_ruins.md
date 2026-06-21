@@ -13,6 +13,7 @@ tags:
 - sight
 title: León Viejo Archaeological Site
 type: poi
+score: 8.4
 ---
 
 The excavated ruins cover the original street plan of the 1524 town: the central plaza with its statue of Hernández de Córdoba, the church, the governor's house, the convent, and the Iglesia de la Merced. Most of the standing remains are low stone foundations, but the scale and completeness of the layout make it easy to read as a town. A path climbs the hill behind the main avenue to the old fortress site, with views over Lake Managua and Momotombo volcano directly behind.

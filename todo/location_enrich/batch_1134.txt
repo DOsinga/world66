@@ -1,5 +1,0 @@
-northamerica/unitedstates/oregon/albany
-europe/romania/albaiulia
-northamerica/unitedstates/kansas/fortscott
-asia/india/tamilnadu/kanya_kumari
-asia/india/karnataka/sravanabelagola

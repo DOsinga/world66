@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - park
+score: 5.6
 ---
 
 Aruvikkuzhi ("Rubber Tree Ravine") is a small waterfall about 16 km east of Kottayam town, set in a narrow canyon surrounded by rubber plantations and dense riparian vegetation. The falls themselves are modest — not dramatic by Kerala standards — but the setting is peaceful and the walk down to the base of the falls through the plantation is pleasant. A small church built into the rock face beside the falls adds an unexpected note.

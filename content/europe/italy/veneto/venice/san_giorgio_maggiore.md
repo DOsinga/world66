@@ -7,8 +7,10 @@ tags:
   - architecture
 latitude: 45.4285
 longitude: 12.3441
+snippet: "Palladio's great white island church — campanile with no queue and a better view than San Marco"
 story: >
   The campanile on San Giorgio Maggiore offers the same view as the one in Piazza San Marco but in the opposite direction — you look back at Venice rather than down into it. More importantly, it has no queue. The lift costs a few euros and the view is arguably better than from the official campanile.
+score: 8.8
 ---
 
 The island of San Giorgio Maggiore sits directly across from the Piazzetta, the most conspicuous spot in Venice's entire waterfront. Palladio's great white church, completed posthumously in 1610, is one of the defining elements of the Venetian skyline — its classical facade and tall campanile visible from the mouth of the Grand Canal.

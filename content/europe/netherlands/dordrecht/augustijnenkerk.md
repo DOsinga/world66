@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 51.8154
 longitude: 4.6695
+score: 7.1
 ---
 
 The Augustijnenkerk is the old chapel of the Augustinian monastery whose cloister now houses the Hof van Nederland. The church was built in stages from the 13th century onwards and survived the Reformation as a Protestant parish church, which is what it remains today. From the Voorstraat it announces itself only as a tall brick gable; the entrance and the body of the church lie behind a row of houses, almost hidden.

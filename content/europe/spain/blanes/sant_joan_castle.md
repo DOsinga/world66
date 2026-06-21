@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.6809
 longitude: 2.7981
+score: 7.1
 ---
 
 The ruined medieval castle of Sant Joan sits on a rocky promontory at the north end of Blanes, above the botanical garden and the harbour. What remains is fragmentary — sections of wall, the bases of towers, and the outline of the original plan — but the location is commanding, with views down the coast south toward Barcelona and north into the rocky coves of the lower Costa Brava.

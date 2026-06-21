@@ -6,6 +6,7 @@ longitude: 25.6420
 tags:
   - eating_out
   - restaurant
+score: 5.7
 ---
 
 A modern restaurant on the southern shore of Vesijärvi, with floor-to-ceiling windows looking onto the lake and the marina. The menu is roughly half Finnish (pike-perch, reindeer, salmon) and half international, executed competently rather than imaginatively, but the view does most of the talking.

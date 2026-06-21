@@ -6,6 +6,7 @@ longitude: 18.7703
 tags:
   - things_to_do
   - architecture
+score: 6.4
 ---
 
 The Pima Palace, on Trg od Brašna, is the most ornate of the surviving aristocratic houses in the old town — a late-Renaissance facade with carved stone balconies, a heavy entrance portal, and the family coat of arms above the door. The Pimas were among the most powerful Kotor families during the Venetian period.

@@ -7,6 +7,7 @@ tags:
 latitude: 18.435956
 longitude: -67.155882
 story: "The fort was built in the 18th century specifically to defend Aguadilla's harbour against pirate raids — this stretch of the northwest coast was a regular target for Caribbean pirates who preyed on Spanish shipping routes. The garrison was never large, and the fort's effectiveness was more deterrent than battlefield."
+score: 5.7
 ---
 
 The remains of Fuerte de la Concepción sit on the headland north of the old town, where the Spanish military positioned it to guard the harbour entrance against pirate attack. Little stands above ground now — the walls were dismantled or collapsed over the years, and what remains is mostly foundation stones and earthworks. But the site itself rewards a visit: the elevated position gives good views along the coast in both directions, and the scale of what was here is legible in the layout of the ruins.

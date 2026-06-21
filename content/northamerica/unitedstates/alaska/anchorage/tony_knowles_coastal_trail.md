@@ -7,6 +7,7 @@ tags:
 - sight
 title: Tony Knowles Coastal Trail
 type: poi
+score: 8.8
 ---
 
 An 11-mile paved trail running along the shore of Cook Inlet from downtown to Kincaid Park. On clear days you can see Denali and the Alaska Range to the north. Popular with cyclists, joggers, and inline skaters. Moose sightings are common in the wooded sections.

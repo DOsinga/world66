@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 7.2880
 longitude: 80.6350
+score: 6.0
 ---
 
 The Theva Residency restaurant occupies a hilltop position above Kandy with the best panoramic views of any dining room in the city. The menu covers Sri Lankan and international dishes, with a particular focus on fresh fish and seafood. The setting — an infinity pool overlooking the city and surrounding hills — is genuinely spectacular at sunset.

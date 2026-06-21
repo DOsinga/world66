@@ -8,6 +8,7 @@ tags:
 - berlinmitte
 title: Kapelle Café Bar
 type: poi
+score: 5.9
 ---
 
 A neighbourhood café on Zionskirchplatz, good for breakfast among locals rather than tourists. The kind of place where you can linger over coffee and a newspaper on a Sunday morning.

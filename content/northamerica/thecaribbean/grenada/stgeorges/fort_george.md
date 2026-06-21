@@ -13,6 +13,7 @@ story: >
   triggered the US invasion four days later — Operation Urgent Fury — making this breezy
   hilltop overlooking a Caribbean harbour one of the Cold War's stranger flashpoints.
   A plaque on the ground marks the spot where Bishop fell.
+score: 8.6
 ---
 
 Fort George sits on the headland above the Carenage, commanding views over both the inner harbour and the open sea to the south. The British built it in 1706, initially calling it Fort Royal, and it served as the island's main defensive position for two centuries. The cannon emplacements are still in place, and the thick stone walls give some sense of how the fort must have looked when it actually had guns to defend.

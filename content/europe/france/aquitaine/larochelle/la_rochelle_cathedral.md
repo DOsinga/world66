@@ -10,6 +10,7 @@ latitude: 46.1614
 longitude: -1.1533
 sources:
   - https://en.wikipedia.org/wiki/La_Rochelle_Cathedral
+score: 7.3
 ---
 
 The Cathédrale Saint-Louis is the late-baroque cathedral of La Rochelle, finished in 1784 to a sober classical design by Jacques Gabriel and his son Ange-Jacques — the same Gabriel who designed Place de la Bourse in Bordeaux and the Petit Trianon at Versailles. The pale limestone facade, the high vaulted interior, and the long nave are deliberately austere; this is a town that has always been more comfortable with Protestant restraint than Catholic exuberance.

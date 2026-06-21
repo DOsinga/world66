@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 53.0870
 longitude: -9.5860
+score: 7.7
 ---
 
 Founded in 1976 by Tarlach and Áine de Blacam, the Inis Meáin Knitting Company has spent nearly fifty years transforming the island's traditional craft into an internationally recognized luxury brand. The company employs most of the working-age population of the island, which is not nothing when the total population is around 200 people.

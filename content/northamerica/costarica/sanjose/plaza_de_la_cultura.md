@@ -12,6 +12,7 @@ tags:
   - sight
 title: Plaza de la Cultura
 type: poi
+score: 7.7
 ---
 
 The beating heart of central San José, Plaza de la Cultura is the place where everyone converges: street performers, shoeshine vendors, schoolchildren on class trips, office workers eating lunch, and the occasional political demonstrator. Pigeons outnumber tourists here. At its edge stands the National Theater; below it, accessible by a dedicated entrance, is the underground Gold Museum.

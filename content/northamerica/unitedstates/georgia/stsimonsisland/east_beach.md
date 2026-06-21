@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 31.1456
 longitude: -81.3732
+score: 7.5
 ---
 
 East Beach is the main beach on St. Simons, a wide, flat stretch of pale sand on the Atlantic side of the island. At low tide the beach is hundreds of yards wide and excellent for walking and biking; at high tide it narrows down to a more conventional swimming beach. The Coast Guard Station and the Massengale Park entrance both have public parking.

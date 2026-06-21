@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 53.2053
 longitude: 5.8147
+score: 6.6
 ---
 
 The home ground of SC Cambuur, Leeuwarden's professional football club, which spends most years in the top two tiers of Dutch football. Cambuur is the only major sporting tenant in the city and the rivalry with neighbouring SC Heerenveen is one of the most fiercely contested in Friesland.

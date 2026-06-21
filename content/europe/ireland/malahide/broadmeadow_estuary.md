@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.458
 longitude: -6.1555
+score: 7.4
 ---
 
 The Broadmeadow Estuary at the northern end of Malahide is a sheltered tidal inlet that has been designated a nature reserve for its significance as a wading bird habitat. At low tide the mudflats are covered with curlews, oystercatchers, redshanks, and dunlins, with larger numbers of migratory species passing through in autumn and spring. The estuary is one of the better birdwatching locations within easy reach of Dublin.

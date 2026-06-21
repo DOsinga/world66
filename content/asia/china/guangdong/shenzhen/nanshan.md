@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 22.5315
 longitude: 113.9280
+score: 7.4
 ---
 
 Nanshan is where Shenzhen's tech and creative industries concentrate — home to the headquarters of Tencent, DJI, Huawei (in the adjacent district), and dozens of other major tech companies. It's also where the city's most interesting visitor districts cluster: OCT-LOFT, Window of the World, Splendid China Folk Culture Villages, and Shenzhen Bay Park are all in Nanshan.

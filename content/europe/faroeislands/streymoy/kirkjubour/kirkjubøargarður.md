@@ -8,6 +8,7 @@ latitude: 61.9558
 longitude: -6.7933
 story: >
   Bishop Erlendur is said to have written the Sheep Letter — the oldest known document written in Faroese, dated 1298 — in the loft room of this farmhouse. The document regulated grazing rights across the islands and remained in force for centuries. The building where it was written is still standing and still inhabited.
+score: 9.0
 ---
 
 The Kirkjubøargarður farmhouse is claimed to be the oldest continuously inhabited wooden house in the world, with parts of the structure dating to the 11th century when the building served as the bishop's residence and seminary for the Diocese of the Faroes. The Patursson family has lived here since 1550, now in the 17th generation, and they open the farmhouse to visitors during the summer months.

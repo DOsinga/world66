@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - garden
+score: 6.0
 ---
 
 A small Japanese garden — the largest of its kind in South America — built in 1994 as a gift from La Serena's sister city of Tenri in Japan. Lake with carp, red bridges, gravel paths, a small tea house. Three hectares of careful landscaping that come as a surprise in a town not otherwise known for gardens.

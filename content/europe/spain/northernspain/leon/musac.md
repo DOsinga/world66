@@ -14,6 +14,7 @@ tags:
 - art
 title: MUSAC
 type: poi
+score: 7.7
 ---
 
 MUSAC — the Museo de Arte Contemporáneo de Castilla y León — is one of the most architecturally striking contemporary art museums in Spain. Opened in 2004, the building by Tuñón and Mansilla is sheathed in a mosaic of coloured glass panels whose palette references the medieval stained glass of León Cathedral, creating a visual link across the city between its most famous medieval building and its newest cultural institution.

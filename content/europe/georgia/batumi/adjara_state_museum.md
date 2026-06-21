@@ -9,6 +9,7 @@ tags:
 title: Khariton Akhvlediani Adjara State Museum
 type: poi
 snippet: Regional history from Bronze Age to medieval gold treasures
+score: 7.0
 ---
 
 Founded in 1908, the Adjara State Museum is the main historical museum of the region. Its collection covers Bronze Age artefacts through to the early medieval period: engraved bronze axes, the Gonio Treasury's golden jewellery (including a golden phial from the first-second century and pendants depicting Helios), Hellenistic period coins, and a remarkable fossilised tree some 25 million years old. The ethnographic and folk art sections document the distinctive culture of the Adjarian people.

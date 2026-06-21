@@ -8,8 +8,14 @@ tags:
   - hiking
 latitude: 37.6235
 longitude: -112.1669
+story: >
+  The park is named after Ebenezer Bryce, a Mormon pioneer who ran cattle here in the 1870s.
+  His summary of the canyon — "a hell of a place to lose a cow" — turned out to be the most
+  memorable thing anyone ever said about it, and is still quoted in the park's own interpretive
+  materials over 140 years later.
 sources:
   - https://en.wikipedia.org/wiki/Bryce_Canyon_National_Park
+score: 9.6
 ---
 
 Bryce Canyon is not actually a canyon but a series of natural amphitheaters carved into the edge of the Paunsaugunt Plateau. The landscape is defined by hoodoos — tall, thin spires of rock in shades of orange, red, and white — clustered in dense forests that look like nothing else on earth. The park sits at elevations between 8,000 and 9,100 feet, so the light and temperature shift constantly throughout the day.

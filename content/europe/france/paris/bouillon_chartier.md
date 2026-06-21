@@ -13,6 +13,7 @@ tags:
 title: Bouillon Chartier
 type: poi
 url: www.bouillon-chartier.com
+score: 7.4
 ---
 
 Bouillon Chartier is the great democratic restaurant of Paris: a working-class bouillon (canteen) that has been feeding the city since 1896, almost unchanged. The enormous Belle Époque room — brass luggage racks, wooden panelling, white-aproned waiters writing orders on the paper tablecloths — seats over 300 and is perpetually full.

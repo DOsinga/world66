@@ -7,6 +7,7 @@ tags:
 latitude: 44.8434
 longitude: -0.5735
 snippet: One-hour to half-day tasting workshops at the Bordeaux wine trade school
+score: 7.2
 ---
 
 The École du Vin de Bordeaux, attached to the CIVB on the Cours du 30 Juillet, offers tasting workshops for visitors ranging from a one-hour introduction to Bordeaux wines to half-day masterclasses on appellation differences, food pairing, and the mechanics of wine tasting. The sessions are run in English and French by professionals from the trade.

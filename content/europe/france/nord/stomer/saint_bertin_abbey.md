@@ -11,6 +11,7 @@ story: >
   century — one of several kings and nobles buried here, making the abbey a 
   royal necropolis that rivalled Saint-Denis in importance during the Frankish 
   period.
+score: 8.3
 ---
 
 The ruined Gothic tower and scattered stonework of Saint-Bertin Abbey are among the most atmospheric sights in northern France. The abbey was founded in the 7th century by Saint Bertin, and became one of the most important Benedictine monasteries in the medieval Low Countries — a major scriptorium, royal burial place, and centre of political power on the shifting border between France and Flanders.

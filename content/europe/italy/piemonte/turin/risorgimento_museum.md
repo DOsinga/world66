@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.0688
 longitude: 7.6859
+score: 8.4
 ---
 
 The official national museum of Italian unification, housed in Palazzo Carignano — the very building where the first parliament of unified Italy sat in 1861. The setting is one of the great Baroque palaces of Turin, Guarino Guarini at his most exuberant, with a curving brick facade and an interior of double-height halls.

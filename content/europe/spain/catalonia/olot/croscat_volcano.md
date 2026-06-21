@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - volcano
+score: 8.6
 ---
 
 The Croscat is the youngest volcano in the Iberian Peninsula — its last eruption took place around 11,500 years ago — and at 160 metres above the surrounding terrain it is also the tallest cone in the Garrotxa. For most of the 20th century its flank was being mined for grederas, the dark-red volcanic gravel used for paving and landscape gardens.

@@ -6,6 +6,7 @@ tags:
 - eating_out
 title: La Paz Mexican Restaurant
 type: poi
+score: 4.8
 ---
 
 La Paz in Homewood, just south of Birmingham, has been a city institution since 1988. The menu is Tex-Mex with enough depth to keep regular customers returning — the margaritas are strong, the enchiladas reliable, and the back patio is one of the more pleasant outdoor dining spaces in the area.

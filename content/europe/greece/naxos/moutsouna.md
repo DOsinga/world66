@@ -4,6 +4,7 @@ type: poi
 tags: [beaches, sight]
 latitude: 37.0194
 longitude: 25.5239
+score: 7.2
 ---
 
 Moutsouna is as remote as Naxos gets. The village sits on the island's east coast, accessible by a mountain road that crosses the spine of the island from the Filoti direction and descends through limestone terraces to a small natural harbour. The drive takes around an hour from Hora and involves enough narrow, winding sections that most visitors simply don't make it — which is more or less the point.

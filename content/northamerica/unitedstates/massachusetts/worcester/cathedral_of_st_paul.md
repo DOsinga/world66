@@ -9,6 +9,7 @@ tags:
 title: Cathedral of Saint Paul
 type: poi
 snippet: 19th-century Gothic Revival seat of the Worcester diocese
+score: 7.0
 ---
 
 The Cathedral of Saint Paul, the seat of the Roman Catholic Diocese of Worcester, sits on the high ground just west of the Common. Built in the late 19th century in Gothic Revival style, the building reflects the period when Worcester's growing Irish, Italian, and French-Canadian immigrant populations transformed the city's religious life. The interior is large and impressive without being ostentatious, with good stained glass and a fine pipe organ.

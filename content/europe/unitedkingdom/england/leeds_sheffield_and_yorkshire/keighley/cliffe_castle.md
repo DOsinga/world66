@@ -7,6 +7,7 @@ tags:
 latitude: 53.8753
 longitude: -1.9136
 snippet: "Victorian mansion housing local heritage collections with a small arboretum"
+score: 8.0
 ---
 
 Cliffe Castle was built in the 1870s for Henry Isaac Butterfield, a prosperous textile merchant, and extended in the following decade in a flamboyant style that mixed Gothic Revival with French château elements. The mansion was acquired by the local authority in 1949 and opened as a museum the following year. The building itself is as interesting as the collections inside.

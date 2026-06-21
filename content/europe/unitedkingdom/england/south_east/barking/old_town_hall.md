@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 51.5370
 longitude: 0.0788
+score: 5.4
 ---
 
 Barking's first town hall is a Victorian Italianate building on East Street, completed in 1894 to a design by C. J. Dawson. It is a modest three-storey civic block in red brick with stone dressings, fronted by an arched ground floor and topped with a small clock tower — handsome but never grand, and quickly outgrown.

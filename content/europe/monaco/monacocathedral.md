@@ -10,6 +10,7 @@ tags:
 - sights
 title: Monaco Cathedral
 type: poi
+score: 7.4
 ---
 
 This cathedral feels positively modern by European standards -- it was built in 1875 from white La Turbie stone in a Romanesque-Byzantine style. It is worth a visit for the tombs of the former princes of Monaco, including Grace Kelly, and for the particularly fine mosaic in the dome above the altar, where an audience of saints faces the congregation from recesses in an arc of the dome.

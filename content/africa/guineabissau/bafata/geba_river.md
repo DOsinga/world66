@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - river
+score: 6.5
 ---
 
 The Geba is one of West Africa's longest rivers — it rises in the highlands of Guinea (Conakry), runs west across the country, and broadens into the wide tidal estuary that flows past Bissau to the Atlantic. At Bafatá the river is fresh, slow, and several hundred metres wide, with a single iron-truss road bridge at the southern edge of town.

@@ -8,6 +8,7 @@ tags:
 title: Centro Commerciale Curno
 type: poi
 url: www.centrocommercialecurno.it
+score: 1.4
 ---
 
 There's just about anything you want at this shopping mall. Super Market, Media World, and clothes, shoes and watches!

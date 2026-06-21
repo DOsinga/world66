@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.1410
 longitude: -8.2750
+score: 6.2
 ---
 
 The stone bridge across the Blackwater is the focal point of Fermoy's town centre, and the grid of streets radiating from the bridge square reflects the planned town that Scottish entrepreneur John Anderson laid out in 1791. Anderson's grid survives largely intact — unusually so for an Irish town of this size — and the street frontages along Patrick Street and McCurtain Street preserve much of the original proportions, if not always the original facades.

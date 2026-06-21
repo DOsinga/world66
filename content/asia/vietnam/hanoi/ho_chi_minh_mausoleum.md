@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Ho Chi Minh Mausoleum
 type: poi
+score: 8.1
 ---
 
 A huge grey granite monolith on Ba Dinh Square containing the embalmed body of Ho Chi Minh, built against his express wishes in the late 1970s. The body is taken to Russia annually for maintenance. The visit itself is quick, silent, and tightly choreographed: no hats, no cameras, no stopping, hands out of pockets. Whatever your politics, it is a striking encounter. Combine with the neighbouring Presidential Palace gardens and Ho's simple stilt-house, where he lived and worked from 1958 to 1969.

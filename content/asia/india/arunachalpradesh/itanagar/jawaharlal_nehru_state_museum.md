@@ -11,6 +11,7 @@ story: >
   Garo, Monpa and others — each with its own language, dress, and ritual traditions. Walking
   through the galleries, you begin to appreciate just how culturally diverse Arunachal Pradesh
   is; the state has more tribal groups than any other in India.
+score: 8.2
 ---
 
 The Jawaharlal Nehru State Museum provides the clearest introduction to the tribal cultures of Arunachal Pradesh, a state of remarkable diversity that most visitors never reach. The collection covers traditional costumes, jewellery, weapons, musical instruments, and tools from the various indigenous groups of the state. There are also exhibits on the region's natural history and its position in the eastern Himalayas.

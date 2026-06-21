@@ -12,6 +12,7 @@ story: >
   the tallest and most-visited waterfalls in Norway. The viewing platforms
   on both sides of the gorge, redesigned in 2020 by Carl-Viggo Hølmebakk,
   are themselves worth the visit for the dramatic cantilevered architecture.
+score: 8.1
 ---
 
 Vøringsfossen is about a 90-minute drive west of Geilo along the Hardangervidda crossing road (Route 7) toward the Hardanger fjord. The viewing platforms are signposted from the road and easy to reach by car. The waterfall itself is at its most thunderous in early summer when snowmelt is at peak.

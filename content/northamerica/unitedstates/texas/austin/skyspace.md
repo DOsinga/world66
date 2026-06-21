@@ -10,6 +10,7 @@ latitude: 30.2871
 longitude: -97.7358
 story: >
   James Turrell designed "The Color Inside" in 2013 specifically for the University of Texas, and scheduled sunrise and sunset "light events" when programmed LED lights shift the colour of the oval aperture in sequence with the changing sky. The experience is designed around the specific astronomical geometry of the Austin sky at the specific dates when the light events are scheduled — a site-specific work in the most literal sense.
+score: 7.9
 ---
 
 "The Color Inside" is a James Turrell Skyspace — a small circular room with an oval aperture open to the sky — located in a semi-subterranean pavilion on the UT campus. Turrell's Skyspaces create a visual experience in which the framed sky appears to hover at the level of the ceiling, its colour seemingly painted rather than real. Looking through the oval opening into the sky above is one of those rare perceptual experiences that cannot be adequately described.

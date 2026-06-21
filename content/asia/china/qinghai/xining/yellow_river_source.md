@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 34.9100
 longitude: 98.2100
+score: 6.9
 ---
 
 The Yellow River — China's second-longest river and the cradle of Chinese civilisation — rises on the Qinghai plateau at Maduo county, about 400 kilometres west of Xining. The source is a group of alpine lakes at 4,600 metres called the Star Sea (Zaling and Eling lakes), which feed into the river's upper tributaries. The area is within the Sanjiangyuan National Park and is accessible from Xining on a 2–3 day road trip.

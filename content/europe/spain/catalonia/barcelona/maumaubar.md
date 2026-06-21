@@ -12,6 +12,7 @@ tags:
 title: Mau Mau Underground
 type: poi
 url: www.maumaunderground.com
+score: 5.8
 ---
 
 A Poble Sec basement venue that has been a fixture of Barcelona's alternative nightlife since the early 2000s. The programming leans toward electronic music, hip-hop, and the occasional live act, drawing a crowd that knows what it wants. The entrance policy can be selective, so it helps to know someone or arrive early.

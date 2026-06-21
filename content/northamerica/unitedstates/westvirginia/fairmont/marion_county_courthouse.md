@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 39.485
 longitude: -80.1436
+score: 6.8
 ---
 
 The Marion County Courthouse is a handsome Beaux-Arts building completed in 1900 and listed on the National Register of Historic Places. Its stone facade, rounded corner tower, and ornamental detailing are the most architecturally distinguished elements of Fairmont's modest downtown. The building still serves its original function as the county courthouse.

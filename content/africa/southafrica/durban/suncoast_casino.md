@@ -9,6 +9,7 @@ latitude: -29.8369
 longitude: 31.0394
 address: "20 Suncoast Boulevard"
 url: "https://www.suncoastcasino.co.za"
+score: 5.6
 ---
 
 Suncoast is the big art-deco-styled casino and entertainment complex at the northern end of the Golden Mile, on the beach next to the Moses Mabhida Stadium. Beyond the gaming floor it has a movie multiplex, a dozen restaurants, a private beach club and an outdoor concert venue.

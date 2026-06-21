@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 6.5
 ---
 
 Striper Bites is the no-fuss seafood place on Savannah Road that locals will name first if you ask where to eat. The menu is what you would expect — fish tacos, crab cakes, oysters on the half shell, a respectable lobster roll — done well and at sensible prices. The dining room is loud, the bar pours stiff drinks, and the kitchen does not close early.

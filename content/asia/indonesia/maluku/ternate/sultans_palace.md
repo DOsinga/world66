@@ -16,6 +16,7 @@ story: >
   that few other rulers in the archipelago matched. The sultanate still formally
   exists today; the current sultan is a ceremonial figure but commands real
   respect in the community.
+score: 8.1
 ---
 
 The Kedaton, or Sultan's Palace, is the former royal seat of the Ternate Sultanate, a lineage that dates to the thirteenth century and was one of the most powerful polities in the spice trade era. The current building is a nineteenth-century reconstruction — the earlier palaces were destroyed or damaged during the long colonial conflicts — but it houses an important collection of royal regalia, weapons, and heirlooms that trace the sultanate's history.

@@ -10,6 +10,7 @@ tags:
 title: Giardino di Boboli
 type: poi
 url: www.firenzemusei.it
+score: 7.8
 ---
 
 The Boboli Gardens, behind the Palazzo Pitti, are one of Italy's great Renaissance gardens. Highlights include the Grotta Grande (a mannerist grotto by Buontalenti), the Isolotto (an island garden with a fountain), and the Kaffeehaus with its views over the hills. A good place to recover after a morning in the museums. Hours vary by season; check ahead.

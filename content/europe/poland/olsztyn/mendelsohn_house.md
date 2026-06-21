@@ -9,6 +9,7 @@ snippet: Modernist Jewish funeral house by Erich Mendelsohn
 latitude: 53.7753
 longitude: 20.4683
 story: "This is the only building in Poland by Erich Mendelsohn, the great German-Jewish modernist who later designed the Einstein Tower in Potsdam and Hadassah Hospital in Jerusalem. He was born in Allenstein (the German name for Olsztyn) and was 32 when he built the Beit Tahara for his hometown's Jewish community in 1913."
+score: 7.7
 ---
 
 The Beit Tahara — a small ceremonial funeral house on the city's old Jewish cemetery — is the only building in Poland designed by Erich Mendelsohn, one of the most important German modernist architects of the early twentieth century. Built in 1913, it predates his more famous later work and shows the influence of expressionism in its angular forms.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beach
 snippet: "Cruise ship beach with public access and water sports"
+score: 6.8
 ---
 
 About 15 kilometres west of Cap-Haïtien, Labadie occupies one of Haiti's most beautiful bays — turquoise water, steep green hills, white sand. Much of the bay is leased to Royal Caribbean as a private cruise stop, so on days when a ship is in, the beach fills with day-trippers. Arrive by moto-taxi or tap-tap from the city.

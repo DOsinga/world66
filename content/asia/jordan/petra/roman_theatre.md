@@ -8,6 +8,7 @@ tags:
 latitude: 30.3243
 longitude: 35.4480
 story: "The theatre was carved into a hillside that was already cut full of older Nabataean tombs. When the seating was hollowed out the back walls of those tombs were sliced through — you can still see their hollow interiors as black holes in the upper rows."
+score: 7.8
 ---
 
 A theatre cut from the rock around the first century AD, seating about 8,000 people when built. The lower rows are well preserved; the upper rows are eroded and the stage building is mostly gone, though its foundations remain.

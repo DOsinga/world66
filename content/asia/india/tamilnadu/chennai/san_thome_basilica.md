@@ -9,6 +9,7 @@ latitude: 13.0330
 longitude: 80.2773
 snippet: "Neo-Gothic basilica built over the tomb of the apostle Thomas."
 story: "The Apostle Thomas — Doubting Thomas of the Gospels — is said to have travelled to India in 52 AD, preached in the south, and been martyred at a hill now called St Thomas Mount in 72 AD. His body was supposedly moved to this site on the Mylapore coast, where a church was built over the tomb. The Portuguese built the first substantial church here in 1523; the current neo-Gothic structure dates to 1896. It remains one of only three churches in the world built over an apostle's tomb — the others being St Peter's in Rome and Santiago de Compostela in Spain."
+score: 7.8
 ---
 
 San Thome Basilica is a white neo-Gothic church that stands on the Mylapore coast, beside the sea at the southern end of Marina Beach. The basilica was elevated to cathedral status in 1956 and to minor basilica status in 2006, but its significance predates all these designations: it is said to be built over the tomb of the Apostle Thomas.

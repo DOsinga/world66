@@ -9,6 +9,7 @@ tags:
   - old_san_juan
 neighbourhood: Old San Juan
 story: "The marble tomb on the north wall holds the bones of Juan Ponce de León, the conquistador who founded the original settlement of Puerto Rico and who died in 1521 from a Calusa arrow wound received while searching the Florida coast — not, as the legend insists, for the Fountain of Youth, but for new lands to govern."
+score: 8.7
 ---
 
 The Cathedral of San Juan Bautista, dedicated in 1521, is the second oldest cathedral in the Americas. The original wooden structure burned and the current Gothic-influenced building is mostly a sixteenth-century reconstruction, with later baroque additions; the ribbed vaults of the side chapels are the parts most worth looking up at.

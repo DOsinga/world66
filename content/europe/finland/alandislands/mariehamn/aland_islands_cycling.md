@@ -14,6 +14,7 @@ story: >
   and ride from island to island, stopping at farm cafés, historic churches, and viewpoints
   that are inaccessible without a bicycle. The result is one of the best cycling experiences
   in northern Europe.
+score: 9.3
 ---
 
 The Åland archipelago is best explored by bicycle. Mariehamn is the hub, and five bus routes connect to the free inter-island ferries that enable travel to the outer islands. The cycling routes are well marked, the terrain is flat to gently rolling, and the free ferries make island-hopping logistically simple. Hire a bicycle in Mariehamn (several shops near the harbours) and plan a route using the tourist office map.

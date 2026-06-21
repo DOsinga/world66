@@ -15,6 +15,7 @@ story: >
   that would outlast any sultan's favour. He commissioned the Hama palace in 1742,
   the same decade he built the larger Damascus palace, financing both from levies on
   merchants who had no choice but to pay.
+score: 7.8
 ---
 
 The Azm Palace is an 18th-century Ottoman mansion that stands as the finest piece of domestic architecture to survive in Hama. Built in 1742 by Assad Pasha al-Azm — the Ottoman governor of Damascus who also commissioned the grander palace of the same family in the Syrian capital — it follows the same plan of interconnected courtyard houses, each courtyard planted with citrus trees and centred on a marble fountain. The exterior gives little away; the beauty is inside, in the painted wooden ceilings, the coloured stonework of alternating black basalt and pale limestone, and the elaborate *muqarnas* (honeycomb vaulting) above doorways.

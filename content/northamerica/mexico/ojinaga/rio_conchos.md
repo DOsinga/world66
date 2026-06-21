@@ -7,6 +7,7 @@ tags:
 latitude: 29.5667
 longitude: -104.5167
 snippet: Where the Río Conchos meets the Rio Grande — one of the few places the big river still flows
+score: 6.8
 ---
 
 The Río Conchos is the Rio Grande's most important Mexican tributary, draining a vast area of Chihuahua state. It meets the Rio Grande a few kilometres east of Ojinaga at a point locally called La Junta de los Ríos — "the joining of the rivers" — a name that goes back to the Spanish colonial period when this confluence was a significant landmark on the Camino Real trade route.

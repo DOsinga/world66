@@ -12,6 +12,7 @@ story: >
   shouts and blows rather than scripture. His methods spread to Japan as
   Rinzai Zen — one of the most influential exports from this particular patch
   of Hebei.
+score: 7.4
 ---
 
 Linji Temple is the founding site of the Linji school of Chan Buddhism, established in the Tang dynasty by the monk Linji Yixuan. The Linji tradition spread to Japan as Rinzai Zen, one of the two major Japanese Zen schools, which means this modest temple grounds has had an outsized influence on the spiritual life of East Asia. The buildings standing today are much later reconstructions — the original Tang structures are long gone — but the site itself carries genuine historical weight.

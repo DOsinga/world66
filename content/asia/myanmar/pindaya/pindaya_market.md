@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 20.9237
 longitude: 96.6693
+score: 7.0
 ---
 
 Like most towns in the Shan Hills, Pindaya has an itinerant market that moves from town to town on a five-day rotation. When the market is in Pindaya, hill tribe communities from the surrounding villages come down to sell and trade — Danu, Pa-O, and sometimes Shan vendors bring produce, clothing, and craft goods. The market is a genuinely local event rather than a tourist attraction, and it gives the town a different energy on those days.

@@ -11,6 +11,7 @@ story: >
   promenades in the world. On weekends and evenings the whole city seems to pour out onto it — 
   joggers, cyclists, families with mate flasks, couples, and old men with fishing lines. The Río 
   de la Plata here is so wide that the Argentine coast is invisible; it looks and feels like the sea.
+score: 9.0
 ---
 
 The Rambla is Montevideo's great democratic public space — a continuous coastal promenade running 22 kilometres from the old port along the inner bay, past the beaches of Pocitos and Buceo, to the eastern edge of the city at Carrasco. It is the civic heart of Montevideo in a way that no plaza is: all classes, all ages, all purposes.

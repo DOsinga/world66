@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - square
+score: 8.4
 ---
 
 Locally still called **Piazza San Giacomo** or just "the herb market" (Piazza delle Erbe), this is Udine's second great square — a wide arcaded space lined with bars and small shops, with the church of San Giacomo at one end and a Renaissance column with the Madonna at the centre. It functions as the city's outdoor living room.

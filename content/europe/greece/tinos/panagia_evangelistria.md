@@ -12,6 +12,7 @@ story: >
   a specific field. When excavations unearthed the icon, the timing gave it enormous
   national significance — the Greek independence movement adopted the discovery as a
   divine endorsement. The icon was said to have immediately begun performing miracles.
+score: 7.8
 ---
 
 The Church of Panagia Evangelistria is the most revered pilgrimage site in the Greek Orthodox world, home to a Byzantine icon of the Virgin Mary that was discovered underground in 1823 and is credited with miraculous healings. The church sits at the top of the main street leading from Tinos harbor, its white neoclassical facade visible from arriving ferries.

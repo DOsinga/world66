@@ -13,6 +13,7 @@ story: >
   salt pans and shallow water attract waders in numbers that have made the island
   famous in ornithological circles since the 1980s. On a good April morning in the
   Kalloni salt pans, it is possible to see 150 or more species in a single day.
+score: 9.0
 ---
 
 The Gulf of Kalloni is one of the most celebrated birding sites in the eastern Mediterranean. The combination of shallow, sheltered water, working salt pans on the southern shore, wetland edges, and diverse surrounding habitat — olive groves, pine woodland, garrigue — makes the gulf and its surroundings extraordinarily rich for migrating and breeding birds.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 57.7819
 longitude: 14.1597
+score: 6.8
 ---
 
 Sofia Church (Sofiakyrkan) is a striking neo-Gothic red-brick church in western Jönköping, completed in 1899. The interior is spacious and well-lit, with good stained glass and an impressive organ. It is the main working church for the western part of the city.

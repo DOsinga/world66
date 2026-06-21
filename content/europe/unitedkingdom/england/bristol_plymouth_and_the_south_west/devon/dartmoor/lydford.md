@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-01'
   poi_cleanup: '2026-04-19'
 image: lydford.jpg
 image_license: CC BY-SA 2.0
@@ -16,8 +17,8 @@ type: location
 
 Lydford is a small village on the north-western edge of [Dartmoor](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor), tucked into a fold of the moor above the River Lyd. It's not a touring base or a destination for a long stay, but it has three things that make it worth the detour: a dramatic river gorge, a well-preserved Norman castle, and a handsome medieval church.
 
-The gorge is the main draw. The Lyd has cut a narrow, steep-sided slot through the rock that feels disproportionately wild for such a small river — the water churns through pools and over falls in a wooded ravine that stays cool and mossy even in summer. A path runs the length of the gorge to the White Lady waterfall. The National Trust manages access; allow an hour or two.
+The [gorge](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/lydford/lydford_gorge) is the main draw. The Lyd has cut a narrow, steep-sided slot through the rock that feels disproportionately wild for such a small river — the water churns through pools and over falls in a wooded ravine that stays cool and mossy even in summer. A path runs the length of the gorge to the White Lady waterfall. The National Trust manages access; allow an hour or two.
 
-The castle is a short walk from the church — a squat twelfth-century keep that served at various points as a gaol and a stannary court for the local tin-mining industry. It's small but in good condition, and you can climb it. The village church of St Petroc is equally ancient, with a churchyard full of carved Devon slate headstones.
+The [castle](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/lydford/lydford_castle) is a short walk from the church — a squat twelfth-century keep that served at various points as a gaol and a stannary court for the local tin-mining industry. It's small but in good condition, and you can climb it. The village [church of St Petroc](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/lydford/st_petroc_church) is equally ancient, with a churchyard full of carved Devon slate headstones.
 
-A few miles south-east, the volcanic plug of Brentor rises from the moor with a tiny Norman church perched at its summit — one of the most dramatically sited parish churches in England. The approach is steep but short, and the views on a clear day stretch to both coasts.
+A few miles south-east, the volcanic plug of [Brent Tor](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/lydford/brentor) rises from the moor with a tiny Norman church perched at its summit — one of the most dramatically sited parish churches in England. The approach is steep but short, and the views on a clear day stretch to both coasts. The granite outcrop of [Brat Tor](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/lydford/brat_tor), with its Widgery jubilee cross, lies a comparable distance to the north-east and makes an easy half-day walk.

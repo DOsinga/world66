@@ -9,6 +9,7 @@ latitude: 68.8219
 longitude: 16.5628
 story: >
   Trondenes Church is not just the northernmost surviving medieval stone church in the world — it was also built to double as a fortress. The unusually thick walls and small windows were designed to withstand attack, and the church served as a refuge during Viking raids and medieval skirmishes. Troll-cross symbols scratched into the stone walls by sailors asking for protection at sea can still be seen inside.
+score: 9.0
 ---
 
 Trondenes Church, built in the 13th century, is the northernmost medieval stone church in the world and one of the best-preserved of its kind in Norway. The grey stone building sits on the Trondenes peninsula overlooking the strait between Hinnøya and the mainland, in an exposed position that has defined its architecture — the walls are fortification-thick, built to withstand both the Arctic weather and medieval raiders.

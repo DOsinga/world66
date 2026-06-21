@@ -8,6 +8,7 @@ tags:
 latitude: 36.2546
 longitude: 117.1072
 story: "Bixia Yuanjun, the Princess of the Azure Clouds, is the female deity of Mount Tai and one of the most popular goddesses in northern China. Pilgrims — especially women hoping for children — have climbed to her temple for nearly a thousand years. The roofs are sheathed in copper and bronze rather than tiles, which is said to keep them intact in the violent storms that sweep the summit."
+score: 7.9
 ---
 
 A compact, much-loved temple just below the summit, with three small halls grouped tightly around a paved courtyard. Bixia's image — golden, regal, with attendants on either side — is the centrepiece of the main hall. Pilgrims press in to burn incense and present offerings; the air is thick with smoke even on cold days.

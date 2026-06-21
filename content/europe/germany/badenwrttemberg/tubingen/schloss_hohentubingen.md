@@ -6,6 +6,7 @@ latitude: 48.5195
 longitude: 9.0498
 snippet: "Renaissance castle on the ridge above town, with a university museum"
 story: "Inside the castle's museum is a small ivory carving of a horse and a flute carved from a vulture's wing bone, both about 40,000 years old. They were found in the nearby Hohle Fels and Geißenklösterle caves and are among the oldest figurative art and musical instruments ever discovered."
+score: 9.0
 ---
 
 The castle on the ridge above the old town began as a medieval fortress and was rebuilt as a Renaissance residence by the dukes of Württemberg in the 16th century. The huge gateway carved with the ducal coat of arms is one of the finest examples of Renaissance stone-carving in southern Germany.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Norðoyatunnilin
 type: poi
+score: 5.6
 ---
 
 The Norðoyatunnilin, opened in 2006, is a 6,290-metre subsea road tunnel that runs from Klaksvík under the Leirvíksfjørður to Leirvík on Eysturoy. Before the tunnel, the northern islands were reached from the rest of the Faroes only by car ferry from Leirvík — a journey that ran maybe six times a day in good weather and was often cancelled in winter storms. The tunnel made Klaksvík a 45-minute drive from Tórshavn, transformed the local economy, and is the reason Klaksvík has not depopulated like so many small Faroese settlements.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Homer placed the Acheron in the geography of the Underworld in the Odyssey, and the Greeks believed its mouth at present-day Ammoudia was where Odysseus reached the entrance to Hades. The Hellenistic-era Necromanteion on its banks was built so that pilgrims could consult the spirits of the dead — Plutarch refers to it; Herodotus mentions a tyrant of Corinth sending priests to question his late wife about a missing treasure."
+score: 8.2
 ---
 
 The Acheron is the river of mythology — one of the five rivers of the ancient Greek underworld — and the one whose mouth lies at Ammoudia. The lower stretch is broad and slow, flanked by tall reeds and small fishing boats; further inland, in the foothills around the village of Glyki, the water becomes ice-cold and clear and runs between high cliffs.

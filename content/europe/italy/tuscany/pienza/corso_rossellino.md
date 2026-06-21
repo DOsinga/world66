@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.0768
 longitude: 11.6786
+score: 7.2
 ---
 
 The narrow main street that bisects Pienza east to west. Named for the Renaissance architect who designed the cathedral piazza, it is lined with the workshops, restaurants and (especially) the cheese shops that make up most of the town's commerce.

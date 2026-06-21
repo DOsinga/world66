@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The 13-metre bronze and granite monument by the National Artist Guillermo Tolentino, unveiled in 1933, depicts Andres Bonifacio at the moment of the Cry of Pugad Lawin in 1896 — when he tore up his Spanish residence certificate and rallied the Katipunan to revolt. The 23 figures around the central pylon represent the various roles played in the revolution by Filipino workers, women, and farmers."
+score: 7.7
 ---
 
 The Bonifacio Monument stands at the rotunda where Rizal Avenue Extension meets EDSA, on the boundary between Caloocan and Manila. It is one of the most important pieces of public sculpture in the Philippines, a bronze rendering of the founder of the Katipunan revolutionary society holding a bolo knife aloft, surrounded by allegorical figures of the revolution. The site marks the symbolic launch of the 1896 uprising against Spanish rule.

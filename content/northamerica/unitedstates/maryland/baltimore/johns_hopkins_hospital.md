@@ -15,6 +15,7 @@ story: >
   Osler, William Halsted, Howard Kelly, and William Welch — are together known as
   the "Big Four" and are credited with effectively inventing modern American medical
   education.
+score: 5.8
 ---
 
 Johns Hopkins Hospital is not a tourist attraction in the conventional sense, but the main dome building — Billings Hall, completed in 1889 — is an architecturally significant structure that is worth seeing from outside. The dome is visible from several approaches to the medical campus and makes a distinctive landmark in east Baltimore.

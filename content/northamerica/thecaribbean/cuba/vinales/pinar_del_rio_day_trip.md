@@ -7,6 +7,7 @@ tags:
 - sight
 type: poi
 snippet: The nearest city makes an easy half-day trip for the Fábrica de Tabacos and architecture
+score: 5.9
 ---
 
 [Pinar del Río](/northamerica/thecaribbean/cuba/pinardelrio), about 40 minutes by bus or taxi, is the nearest city and makes a worthwhile half-day excursion. The main draw is the Fábrica de Tabacos Francisco Donatién, where you can watch skilled rollers hand-rolling cigars in a working factory — a very different experience from the farm visits in the valley. The factory is not touristic; it is simply the place where most of the region's cigar production happens.

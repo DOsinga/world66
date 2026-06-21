@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/National_Palace_of_Culture,_Managua
 story: >
   In August 1978, twenty-five Sandinista commandos seized the entire National Congress while it was in session, taking over 2,000 hostages including several Somoza relatives. They held the building for two days and extracted the release of political prisoners, ransom money, and safe passage to Panama — a spectacular piece of political theatre that galvanised international support for the revolution. Today the event is commemorated inside the building.
+score: 8.5
 ---
 
 The National Palace of Culture faces the ruined Old Cathedral across the central plaza and is one of the few grand buildings in the old centre to have survived the 1972 earthquake. Built between 1935 and 1940 during the Somoza era, the neoclassical building originally housed the National Congress; after the earthquake destroyed the rest of the lakefront district, it stood almost alone in a flattened city.

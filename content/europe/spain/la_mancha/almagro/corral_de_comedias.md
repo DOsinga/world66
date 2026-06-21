@@ -14,6 +14,7 @@ story: >
   out in the 18th century, the space was converted to other uses — a tavern, a
   courthouse, a cinema. It was only in the 1950s that its original structure was
   rediscovered behind later modifications and its importance recognised.
+score: 9.4
 ---
 
 The Corral de Comedias de Almagro is the only fully preserved open-air courtyard theatre from the Spanish Golden Age still in its original location and structure. Built in 1628, it is the kind of place that makes you stop in the middle of the Plaza Mayor and stare: a two-storey wooden gallery surrounding a stage, green-shuttered windows on every level, the wooden floor of the old inn courtyard beneath your feet. It seats 300 people and is still used for performances.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - downtown
+score: 6.5
 ---
 
 A surviving 1858 Sonoran-style adobe house in the gap between downtown and Barrio Viejo, sometimes called the Fremont House because John C. Fremont's daughter Lily rented it for several years in the 1880s while her father was Arizona Territorial Governor.

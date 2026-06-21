@@ -6,6 +6,7 @@ longitude: -70.9128
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 Standing in the middle of Avenida Bulnes a few blocks north of the Plaza, the **Sheep Herder Monument** is the most honest piece of public sculpture in the city. A bronze gaucho on horseback drives a flock of sheep ahead of him, three sheepdogs at his heels — the entire economic basis of Punta Arenas, cast in metal in 1944.

@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
 story: "The wild herds of red deer on Exmoor are descended from animals that have lived here since the last Ice Age — the only continuous population of native red deer in England. With around 3,000 of them on the moor, a quiet walk up the Barle valley at dawn or dusk gives good odds of spotting a stag."
+score: 8.2
 ---
 
 The walk along the river Barle from Dulverton up to Tarr Steps (about five miles each way) is one of the classic Exmoor outings — a wooded, often muddy path that hugs the river through oak coppice, with occasional clearings for grazing red deer or otters in the water. Allow half a day for the round trip and a pint at the Tarr Farm Inn.

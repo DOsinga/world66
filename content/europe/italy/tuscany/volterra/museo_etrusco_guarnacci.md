@@ -16,6 +16,7 @@ tags:
 - museum
 title: Museo Etrusco Guarnacci
 type: poi
+score: 9.0
 ---
 
 One of the oldest public museums in Europe, founded in 1761 and housed in a sixteenth-century palazzo. The collection focuses on Etruscan funerary art: over 600 alabaster and terracotta urns, many still bearing traces of paint, along with bronze figurines, jewellery, and household objects. The elongated bronze figure known as the Ombra della Sera (Evening Shadow) — a thin, attenuated male figure that uncannily anticipates Giacometti — is the most famous single piece.

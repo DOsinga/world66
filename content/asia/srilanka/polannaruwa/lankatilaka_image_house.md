@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.1
 ---
 
 The Lankatilaka is the most architecturally ambitious of the brick-built image houses at Polonnaruwa — a cathedral-like vaulted hall whose walls still stand more than 17 metres high, although the roof and the colossal Buddha image inside are now in ruin. You walk in through a vast doorway carved with celestial beings to find the headless standing Buddha at the end of the long inner sanctum.

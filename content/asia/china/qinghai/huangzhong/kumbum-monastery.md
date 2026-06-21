@@ -9,6 +9,7 @@ latitude: 36.4814
 longitude: 101.5992
 story: >
   Tsongkhapa, the 14th-century founder of the Gelug school of Tibetan Buddhism — the school of the Dalai Lamas — was born in a small village here in 1357. According to tradition, drops of his blood fell to the ground at birth and a sandalwood tree grew where each drop landed, its leaves bearing the image of a deity. The first stupa was built to commemorate these sacred trees; the monastery that grew around it has since shaped Tibetan Buddhism's theological development for six centuries. The current Dalai Lama was identified here as a child, based partly on his ability to recognise objects that had belonged to the previous Dalai Lama.
+score: 9.2
 ---
 
 Kumbum Monastery (Tibetan: Kumbum Jampa Ling; Chinese: Ta'er Si) is one of the six great monasteries of the Gelug school and the most significant Buddhist site in the Amdo region of historical Tibet. Founded in 1583, it now covers several dozen hectares of terraced hillside and houses around 600 monks. The complex is simultaneously a living monastery, a UNESCO tentative World Heritage Site, and a major Chinese domestic tourist destination — all three identities coexist with occasional friction.

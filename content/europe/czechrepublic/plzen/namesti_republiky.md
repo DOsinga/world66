@@ -15,6 +15,7 @@ story: >
   Baroque column here is dedicated to the Virgin Mary and surrounded by eight saints, a reminder
   that behind the lager-and-cathedral postcard, Plzeň went through the same centuries of plague,
   religious war, and Habsburg rule as the rest of Bohemia.
+score: 8.0
 ---
 
 Republic Square (náměstí Republiky) is the heart of Plzeň and one of the largest historic town squares in the Czech Republic. The square is roughly rectangular and lined on all sides with Renaissance and Baroque façades in various states of restoration. The overall effect is handsome without being as polished as Prague's Old Town Square — it feels like a working city centre rather than a tourist stage set.

@@ -8,6 +8,7 @@ longitude: 131.0664
 tags:
 - things_to_do
 - sight
+score: 8.4
 ---
 
 Mutitjulu, on the south-eastern side of Uluru, is one of the few permanent waterholes in the area and a key reason the Anangu have lived around the rock for so long. A short, mostly shaded walk (1 km return) from the Kuniya car park leads to the pool, passing rock-art shelters along the way.

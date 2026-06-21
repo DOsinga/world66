@@ -8,6 +8,7 @@ tags:
   - sight
   - square
 snippet: The colonial main square — heart of old Beira, surrounded by Art Deco arcades
+score: 7.8
 ---
 
 The historic main square of Beira sits between the railway station and the port, ringed by 1930s and 1940s Art Deco and modernist buildings that hold the colonial post office, the old municipal headquarters, and several cafes. It is the most photogenic part of the centre — battered, sunlit, with crumbling pastel facades that still hint at the city's mid-century moment as a wealthy gateway port.

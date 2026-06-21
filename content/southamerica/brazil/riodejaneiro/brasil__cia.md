@@ -12,6 +12,7 @@ tags:
 title: Brasil & Cia
 type: poi
 url: www.brasilecia.com.br
+score: 5.0
 ---
 
 A craft and folk art shop in Ipanema, a short walk from the beach. The selection focuses on Brazilian popular art sourced from craft centres around the country — ceramics, woodwork, textiles — chosen to avoid the mass-produced souvenir end of the market. Good for gifts that actually reflect Brazilian craft traditions.

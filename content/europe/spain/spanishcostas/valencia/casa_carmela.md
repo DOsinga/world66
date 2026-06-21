@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.4731
 longitude: -0.3275
+score: 7.7
 ---
 
 A small family restaurant a few blocks off the Malvarrosa beach that has, since 1922, made what locals quietly consider the best paella in Valencia. The defining choice: every rice is cooked over orange-wood fire (the standard locally for paella, but mostly abandoned in favour of gas) in the open kitchen, which gives the rice its faint smoky edge and the perfect crispy bottom socarrat.

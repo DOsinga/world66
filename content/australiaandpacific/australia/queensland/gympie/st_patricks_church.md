@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.2
 ---
 
 The Catholic St Patrick's, built in stages from the 1880s in red brick with sandstone trim, sits on a hill at the southern end of Channon Street with a commanding view back over town. The twin-towered facade is one of the most recognisable in Gympie.

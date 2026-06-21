@@ -15,6 +15,7 @@ story: >
   surrounding it. The interior neon and the vertical blade sign out front have
   been preserved largely intact, making it one of the most complete examples
   of 1930s movie-house design on the North Coast.
+score: 7.1
 ---
 
 The Eureka Theater at 612 F Street is an Art Moderne cinema built in 1939, its streamlined curves and neon signage sitting in deliberate contrast to the Victorian buildings around it. The theater has been in near-continuous operation since opening, and its vertical blade sign and original facade are among the best-preserved examples of 1930s movie-house design on the California coast.

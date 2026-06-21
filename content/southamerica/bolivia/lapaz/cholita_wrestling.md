@@ -15,6 +15,7 @@ tags:
 - entertainment
 title: Cholita Wrestling
 type: poi
+score: 6.8
 ---
 
 The cholita wrestling shows happen on Sunday afternoons in El Alto, the city on the plateau above La Paz that is home to most of the Aymara population and has a cultural character quite distinct from the valley below. The venue is a sports hall, the audience a mix of locals and tourists, and the programme is what you would expect from professional wrestling anywhere in the world — theatrical entrances, elaborate feuds, theatrical villains and heroes — with the additional element that the female fighters wrestle in full traditional dress: layered pollera skirts, shawls, and the distinctive bowler hat (borsalino) that cholita women have worn since the 19th century, when it was reportedly introduced by a British hat salesman and adopted wholesale.

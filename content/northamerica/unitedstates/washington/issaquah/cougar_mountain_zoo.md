@@ -6,6 +6,7 @@ longitude: -122.0807
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 A small, conservation-focused zoo on the lower slopes of Cougar Mountain, best known for its reindeer, cougars, and a respectable troop of cotton-top tamarins. The site is forested and the layout has a refreshingly low-key feel after the bigger urban zoos.

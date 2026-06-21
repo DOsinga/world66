@@ -9,6 +9,7 @@ tags:
   - historic
 story: >
   The red resin was filled in by an artist and a local initiative in the mid-1990s, after the siege ended. The city originally intended to preserve all the marked craters but has since removed most of them as roads are repaired. The remaining ones are considered memorials; removing them would draw protests.
+score: 7.6
 ---
 
 Sarajevo Roses are shell craters left by mortar rounds that killed three or more people during the 1992–1996 siege. After the war, the craters were filled with red resin — creating flower-like patterns in the pavement that serve as memorials to those who died on each spot. They are scattered across the city's streets and pavements, most conspicuously on Ferhadija Street and around the old city.

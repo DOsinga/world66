@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 22.6481
 longitude: -102.9903
+score: 8.1
 ---
 
 The central plaza of Jerez is one of the most photogenic colonial squares in Zacatecas state, ringed by arcaded buildings of pink quarried stone that give the town its warm, unhurried character. The arcade — known locally as El Portal — runs along the north side and provides shade for the vendors, ice cream sellers, and shoe-shiners who set up here every day. The square is planted with laurel trees trimmed into geometric shapes in the Mexican tradition, and a wrought-iron bandstand sits at the centre.

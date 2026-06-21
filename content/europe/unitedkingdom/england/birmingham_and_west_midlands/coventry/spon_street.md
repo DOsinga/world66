@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 title: Spon Street
 type: poi
+score: 7.9
 ---
 
 Spon Street is Coventry's most coherent medieval streetscape, even if it is partially an artificial one. Some of the timber-framed buildings lining the cobbled street are original to the location — the street predates the Norman Conquest — but others were relocated here from elsewhere in the city during postwar redevelopment, rather than being demolished. The result is a concentrated strip of medieval and Tudor half-timbering that would otherwise have been scattered or lost entirely.

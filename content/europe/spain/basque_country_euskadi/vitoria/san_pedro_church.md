@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - medieval_quarter
+score: 7.3
 ---
 
 The medieval church at the western edge of the old town, founded in the 13th century and rebuilt over several later centuries. The Gothic west portal is one of the finest in the city, with carved tympanum and weathered apostles in the niches.

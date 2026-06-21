@@ -11,6 +11,7 @@ story: >
   country — a result of Penn State's historic strength in ceramic arts and crafts. The collection
   includes works from the Arts and Crafts movement through contemporary studio pottery, giving
   it depth that many university art museums lack. Admission is free.
+score: 8.1
 ---
 
 Penn State's art museum holds a respectable collection spanning five thousand years, with particular strengths in American art, European works on paper, and ceramics. The building itself is an attractive postmodern structure with a skylit central atrium. For a university museum in a small town, the collection is genuinely worth your time — the American paintings gallery covers 19th- and 20th-century work with some real highlights, and the Asian art wing includes quality Chinese bronzes and Japanese prints.

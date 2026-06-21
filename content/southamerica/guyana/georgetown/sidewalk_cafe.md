@@ -7,6 +7,7 @@ tags:
 latitude: 6.8087
 longitude: -58.1551
 snippet: "Long-running live music venue on Middle Street"
+score: 7.3
 ---
 
 A Middle Street institution, the Sidewalk Cafe is the closest thing Georgetown has to a dedicated jazz and live-music venue. Local musicians play several nights a week, the cocktail menu is more imaginative than most in the city, and the food — grilled fish, salads, snacks — is decent.

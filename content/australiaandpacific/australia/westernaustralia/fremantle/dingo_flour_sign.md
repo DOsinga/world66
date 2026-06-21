@@ -5,6 +5,7 @@ latitude: -32.0317
 longitude: 115.7430
 tags:
   - sight
+score: 5.9
 ---
 
 The Dingo Flour mill on the northern shore of Fremantle Harbour carries a vast painted dingo — head down, tail up, in profile — on the side of its silo, the work of commercial artist Les Nash in 1940 and one of the longest-lived pieces of large-scale advertising in Australia. The sign is visible from much of central Fremantle and from every ship that has ever entered the harbour.

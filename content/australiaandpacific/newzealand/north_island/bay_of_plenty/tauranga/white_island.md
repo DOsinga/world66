@@ -12,6 +12,7 @@ story: >
   disaster in decades. The island is New Zealand's most active volcano and sits in shallow
   water 50 kilometres offshore — in December 2019, the eruption column was visible from
   Whakatane and Tauranga.
+score: 4.8
 ---
 
 New Zealand's most active cone volcano sits 48 kilometres offshore and has been erupting continuously for over 150,000 years. The island is privately owned but was for many years accessible to guided tours — the dramatic crater, steaming fumaroles, and acid lake made it one of the most spectacular volcanic experiences in the Pacific.

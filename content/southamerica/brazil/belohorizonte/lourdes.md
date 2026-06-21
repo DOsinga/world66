@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Lourdes
 type: poi
+score: 6.6
 ---
 
 Lourdes sits between the centro and Savassi, and is one of the most affluent neighbourhoods in the city — a grid of leafy streets lined with mid-rise residential buildings, embassies, consulates, fashion boutiques, and the city's better restaurants. The Basilica of Our Lady of Lourdes gives the neighbourhood its name and is one of the city's most striking churches.

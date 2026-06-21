@@ -6,6 +6,7 @@ longitude: -77.2331
 tags:
   - eating_out
   - restaurant
+score: 5.6
 ---
 
 The basement Springhouse Tavern at the historic Dobbin House (Gettysburg's oldest building, 1776) is a candlelit, low-ceilinged room serving sandwiches, roasted meats, hearty soups, and excellent crab cakes. Servers wear period costume.

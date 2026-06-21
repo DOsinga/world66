@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 7.0
 ---
 
 The Saint Nicholas Cathedral, the seat of the Serbian Orthodox eparchy of Karlovac and Slavonia, is a handsome 19th-century church on Strossmayerov trg. The dim interior is alive with icons, frescoes and a tall iconostasis that contrasts sharply with the plain baroque of the neighbouring Catholic churches.

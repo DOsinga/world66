@@ -5,6 +5,7 @@ tags: [things_to_do, sight, church, history]
 latitude: 38.80630
 longitude: -77.04752
 story: George Washington owned pew 60 at Christ Church and attended services here throughout his years at Mount Vernon — Robert E. Lee was also confirmed here in 1853, giving the church the distinction of having sheltered two of the most consequential generals in American history on opposite sides of the same conflict.
+score: 8.0
 ---
 
 Christ Church is one of the finest examples of Georgian ecclesiastical architecture in America, built in 1773 and still in active use as an Episcopal parish. The brick building with its white steeple has changed little since Washington worshipped here; the box pews, the high pulpit, and the chancel window are original. The church occupies a tree-shaded lot on North Washington Street in the heart of Old Town.

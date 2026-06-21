@@ -13,6 +13,7 @@ story: >
   visitors expect. The scholarly argument is ongoing.
 sources:
   - https://en.wikipedia.org/wiki/Skopje
+score: 7.4
 ---
 
 The Skopje Aqueduct stands about 5 kilometres north of the city centre, just off the road toward Kumanovo. It is an impressive structure: 386 metres long and up to 12 metres high, with 55 arches still standing. Its origins have been debated — it may be Ottoman rather than Roman — but regardless of its exact date, the aqueduct is an unexpectedly grand piece of ancient infrastructure in an industrial suburb.

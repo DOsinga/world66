@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - diving
+score: 7.6
 ---
 
 The reefs off the Santiago Peninsula give Manzanillo its best diving — large rock formations, swim-throughs and a reliable population of moray eels, octopuses, and the occasional manta or large turtle. The best months are the dry winter, December to March, when water visibility is at its longest.

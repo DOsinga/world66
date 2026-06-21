@@ -6,6 +6,7 @@ longitude: 17.683
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 A drug-rehabilitation community founded in 1983 by the Italian nun Mother Elvira Petrozzi, with one of its houses on the outskirts of Medjugorje. The community has no fees, no medications, and no professional therapists; the men live a simple shared life of work, prayer, and silence.

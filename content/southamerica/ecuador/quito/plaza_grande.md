@@ -14,6 +14,7 @@ story: >
   had deliberately burned rather than let it fall to the Spanish. Every building
   around the square was constructed within the first century of colonisation
   and has been in continuous use ever since.
+score: 8.8
 ---
 
 The Plaza Grande (officially Plaza de la Independencia) is the heart of Quito's Historic Centre and the oldest continuously used public square in the Americas. It is ringed by the four buildings that defined colonial power: the Metropolitan Cathedral, the Archbishop's Palace, the City Hall, and the Presidential Palace (Palacio de Carondelet). The Palacio de Carondelet is still the official seat of the Ecuadorian government, which means the main square of a national capital has changed remarkably little since the 16th century.

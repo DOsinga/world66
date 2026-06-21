@@ -4,6 +4,7 @@ type: poi
 tags: [beaches, sight]
 latitude: 37.0694
 longitude: 25.3483
+score: 7.4
 ---
 
 Agia Anna runs directly south from Agios Prokopios, separated by a narrow headland, and feels noticeably calmer despite being only a short walk away. The bay is more enclosed, the water even more sheltered, and the development slightly less concentrated. A small fishing harbour at the north end of the beach gives the place a lived-in quality absent from the more resort-oriented beaches nearby.

@@ -6,6 +6,7 @@ tags:
 - bar
 latitude: 50.2270
 longitude: 12.8765
+score: 5.9
 ---
 
 The logical place to work through the Becherovka catalogue, this bar in the spa district serves the liqueur in its various forms: neat, on the rocks, and in cocktails including the local Beton (Becherovka and tonic). The Beton in particular is more refreshing than it sounds — the bitterness and herbal warmth work well with a good tonic, and it is far lower in sugar than most aperitivo-style drinks.

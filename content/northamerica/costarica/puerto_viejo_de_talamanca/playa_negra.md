@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Playa Negra
 type: poi
+score: 6.8
 ---
 
 Playa Negra ("black beach") is a long dark-sand beach just north of Puerto Viejo, named for the volcanic origin of the sand. It's a five-minute walk or bike ride from the town centre, and tends to be quieter than the southern beaches.

@@ -8,6 +8,7 @@ tags:
   - restaurant
 address: 505 Albert Pike Road
 snippet: "Pit-smoked ribs and tamale spreads served since 1928"
+score: 6.8
 ---
 
 The Hot Springs barbecue institution — open since 1928, family-run, and one of Bill Clinton's

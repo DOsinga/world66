@@ -14,6 +14,7 @@ story: >
   see genuine Victorian-era tea-processing machinery rather than replicas. The factory
   smell — that particular woody, slightly metallic scent of dried tea — still pervades
   the building.
+score: 7.8
 ---
 
 The Ceylon Tea Museum, in a converted tea factory about 4 km south of Kandy on the Hantane plateau, traces the history of tea cultivation in Sri Lanka from the coffee blight of the 1870s through the establishment of the tea industry to the present day. The museum is particularly good on the machinery: the original rolling, fermenting, and drying equipment from the early twentieth century is still in place and clearly explained.

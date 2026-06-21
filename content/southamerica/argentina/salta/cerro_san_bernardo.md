@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -24.7811
 longitude: -65.4036
+score: 7.6
 ---
 
 The hill overlooking Salta's colonial centre rises to around 1,450 metres and offers the best views of the city and the surrounding Lerma Valley. You can reach the top by cable car (teleférico) from the station at Parque San Martín, or on foot via a steep staircase of 1,070 steps that climbs through the wooded hillside — most people go up by cable car and walk down, or vice versa.

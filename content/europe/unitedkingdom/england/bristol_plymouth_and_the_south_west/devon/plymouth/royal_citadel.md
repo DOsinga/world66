@@ -15,6 +15,7 @@ story: >
   did not forget. The fortress was built with a significant number of its
   cannon ports facing inland rather than out to sea — a pointed reminder to the
   city of who was now in charge.
+score: 8.0
 ---
 
 The Royal Citadel is a star-shaped 17th-century fortress that sits on the headland just above the Barbican, commanding the entrance to Plymouth Sound. It was built for Charles II between 1665 and 1675, replacing an earlier Tudor earthwork, and remains an active military base — home to 29 Commando Regiment Royal Artillery — which gives it a maintained, working quality that many historic forts lack.

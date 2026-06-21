@@ -9,6 +9,7 @@ tags:
 - daan
 title: Mountain and Sea House (Shanhai Lou)
 type: poi
+score: 6.7
 ---
 
 Mountain and Sea House — *Shanhai Lou* — occupies a converted Japanese-era timber house off Anhe Road, with a small intimate dining room of bare wood and rice-paper screens. The kitchen serves a single seasonal **chef's tasting menu** drawing on Taiwanese ingredients and traditional techniques, refined for a modern palate.

@@ -12,6 +12,7 @@ story: >
   turquoise colour comes from dissolved minerals left over from decades of kaolin extraction —
   and the water, though beautiful, is mildly acidic. The lake is a reminder that Bangka's
   picturesque landscape was largely created by industrial extraction, not by nature alone.
+score: 7.3
 ---
 
 The kaolin mining lakes near Pangkalpinang are one of Bangka's most unexpected sights. The water is a vivid, almost unnatural turquoise — the kind of colour you'd normally associate with a Caribbean lagoon — surrounded by white chalky banks and ruined mining infrastructure. It's become popular on Indonesian social media, and you'll sometimes find people setting up shots on the banks.

@@ -8,6 +8,7 @@ latitude: 5.9483
 longitude: 80.5485
 story: >
   The Matara Fort was originally built by the Portuguese in 1560, but it was the Dutch who rebuilt and strengthened it after capturing Galle in 1640. The Dutch used Matara as an administrative and military outpost and planted the fort's distinctive rampart walls. Unlike the more famous Galle Fort — which became a fashionable address for boutique hotels and cafes — Matara's fort has remained a functioning administrative area, with government offices and a market operating within its walls.
+score: 8.0
 ---
 
 The Matara Fort occupies a headland at the mouth of the Nilwala River, built first by the Portuguese and then substantially rebuilt by the Dutch in the 17th century. The rampart walls, gatehouse, and bastions survive largely intact, though much of the interior has been replaced by modern government buildings. The fort is still in use as an administrative area, which gives it a lived-in quality quite different from the more touristy Galle Fort to the west.

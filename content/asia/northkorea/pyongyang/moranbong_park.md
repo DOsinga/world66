@@ -13,6 +13,7 @@ story: >
   since. It is one of the few places in the city where pre-Japanese-colonial and
   pre-war Korean architectural heritage survives, the rest of the old city having
   been destroyed almost completely during the 1950-53 war.
+score: 8.1
 ---
 
 Moranbong Park on the wooded hilltop above the Taedong River bend is the most popular public green space in Pyongyang, and one of the few places where foreign visitors can observe Pyongyang residents in unscripted everyday life. On weekends and public holidays, families picnic on the hillside, groups play music, couples stroll, and children run between the trees. The atmosphere, in these moments, is not so different from a park in any East Asian city.

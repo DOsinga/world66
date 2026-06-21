@@ -8,6 +8,7 @@ tags:
 - shopping
 title: Liverpool ONE
 type: poi
+score: 6.2
 ---
 
 A 1.6 million square foot open-air shopping and entertainment district built between 2004 and 2008, replacing what had been a postwar wasteland between the historic city centre and the docks. The scheme has been widely praised as one of the most successful urban regeneration projects in Britain, integrating with surrounding streets rather than walling itself off as a shopping mall.

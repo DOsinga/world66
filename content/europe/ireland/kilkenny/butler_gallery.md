@@ -8,6 +8,7 @@ tags:
   - museum
   - art
 snippet: Kilkenny's contemporary art gallery, now in a purpose-built space near the castle
+score: 6.6
 ---
 
 The Butler Gallery is Kilkenny's contemporary art museum, presenting a programme of exhibitions by Irish and international artists. The gallery moved in 2019 to a purpose-built space in the old Coach House complex near the castle, giving it more room and a better public presence than its previous home in the castle basement.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 61.4950
 longitude: 23.7600
+score: 6.1
 ---
 
 The Old Church of Tampere (Tampereen Vanha Kirkko) on Vanha Kirkkopuisto is the oldest church in the city, built in 1824 in a neoclassical style. The surrounding churchyard is a peaceful green space in the middle of the city with mature trees and historic gravestones. The church itself is small and sparsely decorated by Finnish standards.

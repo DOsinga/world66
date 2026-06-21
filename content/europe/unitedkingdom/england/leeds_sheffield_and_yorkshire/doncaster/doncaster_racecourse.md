@@ -9,6 +9,7 @@ longitude: -1.1200
 snippet: Home of the St Leger, the world's oldest classic horse race, run here every September since 1776
 story: >
   The St Leger Stakes was first run in 1776, making it the oldest of the five British classic horse races and the oldest Classic in the world — older than the Derby, older than the Oaks, older than the 2,000 Guineas. It is named after Colonel Barry St Leger, an army officer who organised the first race. The distance — one mile, six furlongs and 132 yards — has never changed.
+score: 7.1
 ---
 
 Doncaster Racecourse is the most historically significant racetrack in England, home of the St Leger Stakes — the oldest classic horse race in the world, run without interruption since 1776. The September meeting is the main event, with the St Leger itself the culmination, but racing at Doncaster runs from March to November.

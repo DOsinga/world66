@@ -6,6 +6,7 @@ longitude: -24.9858
 tags:
   - things_to_do
   - museum
+score: 7.8
 ---
 
 Cesaria Evora's former home, on a quiet street in the Ribeira Bote neighbourhood inland from the centre, has been preserved as a small house-museum. The single-storey pink building is exactly as she left it: a modest sitting room, a kitchen, a bedroom hung with her stage dresses, and walls covered in concert posters, gold discs, and family photographs.

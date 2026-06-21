@@ -6,6 +6,7 @@ longitude: -80.7600
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 Dale Earnhardt Inc., the team that the late seven-time NASCAR champion founded in 1980, has its headquarters on Highway 3 just south of Mooresville. The "Garage Mahal" — a massive, mirrored fabrication-and-showroom complex — is open to the public free of charge, with a glass-walled garage from which you can usually watch crews working on cars below.

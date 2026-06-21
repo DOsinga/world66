@@ -8,6 +8,7 @@ tags:
 - park
 title: Aleja Różana and the Green Park System
 type: poi
+score: 7.6
 ---
 
 Szczecin has one of the most extensive urban park systems of any Polish city — a legacy of German city planning from the late 19th and early 20th centuries that ringed the growing city with green belts, tree-lined boulevards, and public gardens. The Aleja Różana (Rose Avenue) is one of the finest of these, a grand boulevard lined with mature oaks and beeches that stretches north from the city centre.

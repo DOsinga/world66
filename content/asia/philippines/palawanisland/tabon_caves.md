@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Tabon Caves yielded the 'Tabon Man' fossils in 1962 — fragments of a skull and tibia carbon-dated to around 22,000 years before present, currently the oldest confirmed Homo sapiens remains in the Philippines."
+score: 8.3
 ---
 
 About 150 km south of Puerto Princesa on the Lipuun Point peninsula near Quezon, the **Tabon Caves** complex is the most important archaeological site in the Philippines. A complex of more than 200 cave openings in a karst headland that have yielded continuous human habitation back to roughly 50,000 years ago, including the remains of "Tabon Man" — the oldest Homo sapiens remains in the country.

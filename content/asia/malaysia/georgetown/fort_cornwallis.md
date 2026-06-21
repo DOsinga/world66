@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.6
 ---
 
 Fort Cornwallis sits at the north-eastern tip of Georgetown, on the spot where Captain Francis Light of the East India Company landed on 17 August 1786 to claim Penang for the British. Light's troops first built a wooden stockade; the present star-shaped fort, named for Charles Cornwallis (then Governor-General of India), was completed in stone in 1810 using convict labour. It is the largest standing fort in Malaysia, though it never saw real combat.

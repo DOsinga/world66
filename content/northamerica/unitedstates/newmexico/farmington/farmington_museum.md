@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.7350
 longitude: -108.2140
+score: 6.3
 ---
 
 The Farmington Museum sits on the east bank of the San Juan River and covers the natural and cultural history of the Four Corners region. Exhibits address the geology of the Colorado Plateau, the oil and gas industry that drove Farmington's 20th-century growth, and the history of the region's Navajo and Ancestral Puebloan cultures. The collection isn't large, but it's a useful primer before heading out to the surrounding landscape.

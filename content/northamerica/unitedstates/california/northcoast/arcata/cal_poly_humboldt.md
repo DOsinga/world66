@@ -15,6 +15,7 @@ story: >
   that had long felt overlooked by the UC and CSU systems despite its stunning setting.
 sources:
   - https://en.wikipedia.org/wiki/California_State_Polytechnic_University,_Humboldt
+score: 7.4
 ---
 
 Cal Poly Humboldt sits on a hillside at the north end of Arcata, where the campus merges directly into Redwood Park — a 790-acre city forest with old-growth redwood groves that begins literally where the quad ends. The campus itself is modest in scale but pleasantly walkable, and the Natural History Museum near the main entrance is worth a brief visit.

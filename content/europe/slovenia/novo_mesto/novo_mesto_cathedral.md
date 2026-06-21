@@ -14,6 +14,7 @@ story: >
   Tintoretto was in his 60s when he painted it, near the peak of his powers, and it arrived in
   Novo Mesto as a gift from a Venetian nobleman. How a work of this calibre ended up in a small
   Slovenian town on what was then the edge of Habsburg territory remains something of an open question.
+score: 7.9
 ---
 
 The Cathedral of St Nicholas stands on the bluff above the Krka river, its twin spires visible from almost everywhere in the old town. The chapter church dates to the 15th century, though the current building was substantially remodelled in the Baroque period. It is the dominant landmark of Novo Mesto and the view from the terrace below it — across the river and the surrounding wooded hills — is one of the finest in Slovenia.

@@ -6,6 +6,7 @@ longitude: 6.1960
 tags:
 - things_to_do
 - sight
+score: 7.1
 ---
 
 A handsome 14th-century tower at the main crossroads of Zutphen's old centre, originally part of the town's medieval fortifications. The name means "dry apple tower" — possibly a reference to the dried goods once traded nearby, though nobody is entirely sure. The tower marks the point where the main streets converge and is the natural starting point for a walk through the old town.

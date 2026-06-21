@@ -8,6 +8,7 @@ tags:
 - viewpoint
 - sight
 snippet: Bhutan's highest motorable pass at 3,988m, with views of Chomolhari and Jichu Drake
+score: 6.9
 ---
 
 The highest motorable pass in Bhutan at 3,988 metres, on the road between the Paro and Haa valleys. The drive up climbs through dense blue-pine forest and emerges suddenly onto a high meadow strung with thousands of prayer flags. On clear days the views are extraordinary: Mount Chomolhari (7,326 m) and Jichu Drake (6,989 m) line up to the north, and the deep Haa valley opens out below to the west.

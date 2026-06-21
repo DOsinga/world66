@@ -6,6 +6,7 @@ latitude: 36.5985
 longitude: 109.4895
 story: >
   The museum's photographic collection is one of its strongest elements. Many of the images were taken by Edgar Snow, the American journalist who visited the base area in 1936 and whose book "Red Star Over China" introduced Mao Zedong and the Communist leadership to Western readers. Snow's portraits of Mao and his fellow commanders — taken in the cave-dwelling period, long before they took power — are among the canonical images of twentieth-century Chinese history, and seeing them at large scale in the place where they were made changes their texture entirely.
+score: 7.2
 ---
 
 The Yan'an Revolutionary Memorial Museum, on the north side of the city, is the principal exhibition covering the CCP base-area period from the end of the Long March in 1935 to the party's departure for Xibaipo in 1948. The museum is large, well-funded, and serious — it was substantially rebuilt and expanded in 2009 — and its collections include documents, photographs, weapons, uniforms, personal objects, and reconstructed scenes from the revolutionary years. The English-language labelling is better than average for Chinese provincial museums.

@@ -7,6 +7,7 @@ tags:
 latitude: 39.7957
 longitude: 2.6952
 snippet: "One of Mallorca's most perfectly formed bays, ringed by the Tramuntana mountains"
+score: 7.4
 ---
 
 The bay at Puerto de Sóller is almost circular — a near-enclosed natural harbour that keeps the water calm even when the open Mediterranean beyond the headlands is kicking up whitecaps. The beach runs along the inner shore in a curve of sand and fine gravel, the water shifting from pale turquoise at the shallows to a deeper blue-green further out. Hemming the whole scene are the grey-green slopes of the Tramuntana, which come down steeply enough that the valley feels more enclosed than open — dramatic rather than simply pretty.

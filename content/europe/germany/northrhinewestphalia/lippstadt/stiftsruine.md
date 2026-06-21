@@ -14,6 +14,7 @@ story: >
   personally by King Friedrich Wilhelm IV of Prussia, who found the Gothic
   ruin too beautiful to lose. Five years later the tower was removed anyway,
   then the roof, then the vaults — leaving the open shell visible today.
+score: 8.5
 ---
 
 The Stiftsruine, also known as the Kleine Marienkirche, is among the most evocative church ruins in western Germany. Bernhard II zur Lippe, the town's founder, donated land here around 1190 for an Augustinian nunnery, and the high-Gothic hall church that grew from those foundations took roughly 150 years to complete. At its peak in 1486 the convent housed 46 nuns; the Reformation dissolved it in 1530, after which it became a secular residence for noblewomen.

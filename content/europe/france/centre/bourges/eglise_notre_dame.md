@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.0830
 longitude: 2.3964
+score: 5.8
 ---
 
 A parish church a few streets from the cathedral, founded in the 13th century and rebuilt after a citywide fire in 1487 destroyed much of the medieval town. The current building is a late-Gothic structure with a Renaissance porch.

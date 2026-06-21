@@ -11,6 +11,7 @@ tags:
 - live_music
 title: Junction Bar
 type: poi
+score: 6.7
 ---
 
 A Kreuzberg institution on Gneisenaustrasse, Junction Bar books live music every single night -- jazz, funk, soul, and the occasional DJ set. The decor is decidedly rough around the edges, but nobody comes here for the interior. The sound is good, the crowd is mixed, and shows run from around 8 pm until the small hours. No cover most nights.

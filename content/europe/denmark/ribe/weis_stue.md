@@ -6,6 +6,7 @@ longitude: 8.7625
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 A sixteenth-century inn on Torvet, directly opposite the cathedral. The building leans visibly — the entire facade is a couple of degrees off plumb — and the interior is panelled in dark wood with low beams, hand-painted tiles, and a few centuries of accumulated bottles and tankards on the shelves.

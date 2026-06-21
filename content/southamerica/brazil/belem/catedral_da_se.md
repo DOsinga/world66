@@ -13,6 +13,7 @@ story: >
   sits on a bluff overlooking the river at the edge of Cidade Velha. The neoclassical facade is
   imposing without being fussy, and the interior holds a collection of Portuguese azulejo tiles
   and 18th-century religious paintings worth a look.
+score: 6.7
 ---
 
 The cathedral faces a small square with views down to the waterfront below. It is a short walk from both Forte do Presépio and Ver-o-Peso, making it easy to include on any tour of the old town.

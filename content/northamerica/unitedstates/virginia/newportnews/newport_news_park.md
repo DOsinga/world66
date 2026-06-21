@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: "8,000 acres of woods, lakes and Civil War battlefield — the largest municipal park east of the Mississippi"
+score: 7.2
 ---
 
 At 8,000 acres, this is one of the largest municipal parks in the country — a great stretch of pine forest, swamp and reservoir at the northern edge of the city. There are over 30 miles of mountain-bike and hiking trails, two golf courses, an archery range, an aero-modelling field, and a campground with proper sites for tents and RVs. You can rent rowing boats and pedaloes on the Lee Hall Reservoir.

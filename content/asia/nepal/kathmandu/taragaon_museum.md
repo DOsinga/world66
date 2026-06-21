@@ -16,6 +16,7 @@ story: >
   concrete forms and circular modules that look, from above, like something between a space
   station and a Buddhist mandala. It was derelict for years and has now been converted into
   a museum of its own history and of Nepal's architectural heritage.
+score: 6.5
 ---
 
 The Taragaon Museum occupies a landmark building next to the Boudhanath stupa — a 1970s Austrian modernist structure designed by Carl Pruscha, with circular forms that have drawn comparisons to the Star Wars universe. The museum documents the history of Kathmandu's architectural heritage and the international research community that worked in Nepal during the Cold War decades, when the country was a centre for the study of Himalayan culture and art.

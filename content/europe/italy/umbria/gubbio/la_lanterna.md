@@ -10,6 +10,7 @@ tags:
 tel: +39 075 9276694
 title: La Lanterna
 type: poi
+score: 6.3
 ---
 
 A central restaurant with a speciality in white truffle dishes. More relaxed and less formal than Taverna del Lupo, with truffle bruschetta and a good range of pasta. Closed on Thursdays.

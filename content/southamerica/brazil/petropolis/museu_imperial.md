@@ -10,6 +10,7 @@ story: >
   parquet floors. The crown jewels are displayed under lock and key, and it is said that the
   diamond-encrusted imperial crown weighs enough that Dom Pedro II complained of headaches after
   ceremonies requiring him to wear it.
+score: 9.5
 ---
 
 The Museu Imperial is the most important building in Petrópolis and one of the best-preserved imperial-era palaces in South America. Built from 1845 as the summer residence of Emperor Pedro II, the neoclassical pink palace houses the imperial crown and sceptre, the emperor's personal effects, period furniture, and an extensive collection documenting the Brazilian Empire from 1822 to 1889.

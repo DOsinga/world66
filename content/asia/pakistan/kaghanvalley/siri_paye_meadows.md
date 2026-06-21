@@ -8,6 +8,7 @@ tags:
   - nature
 latitude: 34.6856
 longitude: 73.5261
+score: 7.8
 ---
 
 Siri Paye is a high alpine meadow above Shogran, reached by a one- to two-hour trek or horse ride from the plateau below. At around 3,000 metres, it sits above the treeline on the southern flank of Makra Peak, and on clear days the panorama across the valley takes in a long stretch of snow-covered peaks. In late June and July, the meadow is carpeted with wildflowers — blue gentians, yellow buttercups, and patches of wild strawberry near the snowmelt streams.

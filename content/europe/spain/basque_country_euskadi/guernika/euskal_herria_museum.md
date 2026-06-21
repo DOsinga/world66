@@ -7,6 +7,7 @@ tags:
 - museum
 title: Euskal Herria Museoa
 type: poi
+score: 7.4
 ---
 
 Set in the 18th-century baroque Palacio de Allende-Salazar, this is the most comprehensive museum of Basque ethnography and political history outside Bilbao. Twelve rooms cover prehistory, the medieval House of Biscay, the Carlist wars, the *fueros*, Basque emigration to the Americas, and modern Basque nationalism.

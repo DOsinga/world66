@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Small but well-stocked military history museum in Huntington Park"
+score: 7.0
 ---
 
 A small, slightly dusty but genuinely interesting museum covering American military history from the Revolution to the present. The collection runs to about 60,000 objects, including a wing from a captured German Junkers Ju 388 night fighter, a piece of Berlin Wall complete with original graffiti, a Civil War Gatling gun, and a Soviet-made anti-aircraft gun captured in Grenada.

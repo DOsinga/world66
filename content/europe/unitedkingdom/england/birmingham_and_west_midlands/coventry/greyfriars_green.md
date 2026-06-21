@@ -7,6 +7,7 @@ tags:
   - sight
 title: Greyfriars Green and Christ Church Ruins
 type: poi
+score: 6.5
 ---
 
 Greyfriars Green is a small park on the southern edge of the city centre, notable for the skeletal remains of the medieval Franciscan friary that stand at its northern end. The Grey Friars arrived in Coventry in the 1230s and built a priory that survived until the Dissolution of 1539; what remains today is the 14th-century spire and tower of Christ Church, preserved as a picturesque ruin in the middle of the Georgian terraces that surround the green.

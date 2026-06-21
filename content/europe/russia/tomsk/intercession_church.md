@@ -9,6 +9,7 @@ longitude: 84.9525
 snippet: A striking Catholic church in Siberia, built for the city's Polish exile community in the 19th century
 story: >
   The congregation that built this church was largely made up of Poles exiled to Siberia after the failed uprisings of 1830 and 1863. At its peak, Tomsk had one of the largest Polish communities in Siberia — the Catholic church was their centre of cultural life, and services were conducted in Polish throughout the Tsarist period.
+score: 7.1
 ---
 
 Tomsk's Roman Catholic church is one of the more unexpected buildings in the city — a full neo-Gothic Catholic church, built in red brick with pointed arches and a small tower, sitting incongruously on a Siberian street. It was built between 1897 and 1900 to serve the city's substantial Polish exile community, deported to Siberia following the failed Polish uprisings against Russian rule.

@@ -15,6 +15,7 @@ story: >
   Bohemian soft water, locally grown Saaz hops, and a new bottom-fermentation technique imported from
   Bavaria. The pale golden result was so unlike any beer seen before that it created an entirely new
   category — and roughly 90% of all beer brewed worldwide today is descended from that first batch.
+score: 9.2
 ---
 
 The Pilsner Urquell Brewery is the most important brewing site in the world. Founded in 1842 as the Citizens' Brewery of Plzeň (Měšťanský pivovar), it has operated continuously ever since on the same plot of land southeast of the old town. The brewery complex is large — around 26 hectares — and the guided tour takes you through the full production process, from the malting house to the fermentation cellar.

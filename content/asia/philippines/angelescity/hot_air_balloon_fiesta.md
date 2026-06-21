@@ -7,6 +7,7 @@ tags:
 latitude: 15.1850
 longitude: 120.5600
 story: "Clark Field's long, flat runway — built for American B-52 bombers — turns out to be perfectly suited to launching hot air balloons. The base was one of the most important strategic installations in the Pacific during the Cold War; today the same tarmac hosts hundreds of colorful balloons each February in an event that has grown into the largest sports aviation event in Asia."
+score: 6.6
 ---
 
 The Philippine International Hot Air Balloon Fiesta takes place each February at Clark Field, the former American air force base whose long runway now serves commercial aviation as well as events like this one. The four-day festival fills the skies over the Clark Freeport Zone with balloons of every size and design, attracting participants from across Asia and beyond.

@@ -10,6 +10,7 @@ story: >
   Voco Point was a key Japanese logistics base during the occupation of Lae in 1942-43.
   After the Allied recapture in September 1943, it became a staging area for Australian
   and American forces pushing further along the coast.
+score: 5.8
 ---
 
 Voco Point is a waterfront suburb at the southern edge of Lae, jutting out into the Huon Gulf. During World War II it served as a major Japanese supply point, and the area still carries traces of that history — rusted equipment and wartime debris surface from time to time. Today it is a residential and light industrial area, but the real draw is the view across the gulf and back toward the Markham River delta.

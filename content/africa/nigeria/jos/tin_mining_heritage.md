@@ -12,6 +12,7 @@ story: >
   Mining dredged and panned millions of tonnes of cassiterite ore
   from the streams and pits around Jos — leaving a landscape
   pocked by old workings and ringed by spoil heaps.
+score: 8.0
 ---
 
 The Jos Plateau is one of the world's classic tin-mining landscapes — a hundred years of cassiterite extraction left thousands of pits, dams, dredge ponds, and small "tin sheds" scattered across the country south and west of the city. Many of the larger ponds are now stocked with fish or used for irrigation; some are accessible swimming spots; the abandoned dredges rusting in the bush at sites like Bukuru and Barkin Ladi are oddly impressive ruins of an industrial era that ended within living memory.

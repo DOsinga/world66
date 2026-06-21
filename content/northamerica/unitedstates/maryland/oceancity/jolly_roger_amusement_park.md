@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.3599
 longitude: -75.0765
+score: 6.7
 ---
 
 Jolly Roger at 30th Street is Ocean City's larger, more modern amusement park, with a classic wooden roller coaster (the Wildcat), water rides, go-karts, and mini golf. It runs a separate water park (SplashMountain) with slides and a wave pool. Unlike Trimper's, this one is oriented squarely at thrill seekers and families with young children rather than nostalgia.

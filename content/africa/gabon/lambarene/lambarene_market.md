@@ -8,6 +8,7 @@ tags:
   - market
   - shopping
 snippet: Riverside market with fish straight off the pirogues
+score: 6.2
 ---
 
 Lambarene's market runs along the river on the western bank and is at its best in the morning, when the pirogues come in with the night's catch — capitaine, tilapia, electric catfish and the occasional river prawn. Inland you will find the usual West African staples: cassava (manioc), plantains, bunches of small smoked fish, palm oil sold from old water bottles, and bunches of fresh forest greens. Prices are reasonable and stallholders are friendly. Bring small change and not too much in the way of camera gear.

@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 19.1283
 longitude: -96.1131
+score: 3.0
 ---
 
 The blue glass tower that anchors the modern business district of Boca del Río, visible from most of the seafront. Combined with the adjacent Centro de Convenciones, it is the largest exhibition and conference complex on the Gulf Coast of Mexico, and the reason the city hosts everything from international medical congresses to the Carnaval state ball.

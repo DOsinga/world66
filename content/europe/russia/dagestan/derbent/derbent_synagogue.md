@@ -14,6 +14,7 @@ story: >
   all of it.
 sources:
   - https://en.wikipedia.org/wiki/Derbent_Synagogue
+score: 7.3
 ---
 
 Derbent has a small but ancient Jewish community, the Mountain Jews (Juhuro in their own language), who have lived in this part of the Caucasus since antiquity. Their synagogue in the old town is one of the most historically layered buildings in an already historically layered city. It remains in active use by the surviving Mountain Jewish community.

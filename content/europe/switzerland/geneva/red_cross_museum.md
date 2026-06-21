@@ -14,6 +14,7 @@ story: >
   decades trying to trace relatives. The sheer physical scale of the records,
   visible through a glass wall, is one of the most affecting exhibits in the
   building.
+score: 8.0
 ---
 
 The International Red Cross and Red Crescent Museum sits adjacent to the ICRC headquarters on Avenue de la Paix, a short walk from the Palais des Nations. It opened in 1988 and was extensively renovated in 2013. The permanent collection takes visitors through three core themes: defending human dignity, restoring family links, and reducing natural risks — presented through a combination of objects, testimony, film, and interactive displays.

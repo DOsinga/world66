@@ -13,6 +13,7 @@ story: >
   theatre finally opened in 1856 — by which time the architect had died and several construction 
   crews had come and gone. A major restoration completed in 2004 preserved the neoclassical 
   exterior while transforming the interior into a fully modern performance space.
+score: 9.2
 ---
 
 Uruguay's most important theatre occupies a neoclassical building on the edge of the Ciudad Vieja, a short walk from Plaza Independencia. The Solís hosts opera, ballet, theatre, and classical music and functions as the country's premier cultural venue. The building was restored extensively in the early 2000s and the combination of period exterior with modern facilities is well done.

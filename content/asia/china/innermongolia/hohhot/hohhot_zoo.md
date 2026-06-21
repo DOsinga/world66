@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 40.7800
 longitude: 111.6100
+score: 7.1
 ---
 
 The Hohhot Zoo contains Inner Mongolia's most important collection of Przewalski's horses — the only truly wild horse species (all other "wild" horses are feral domestics) and one of the great conservation successes of the late twentieth century. The species was extinct in the wild by the 1960s; captive breeding programmes, including at Hohhot, eventually allowed reintroduction into the Mongolian steppe. The animals on display are descendants of the original wild population and look strikingly different from domestic horses: heavier neck, larger head, dun colouring with a dark dorsal stripe.

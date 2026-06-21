@@ -10,6 +10,7 @@ tags:
 - beaches
 title: Geraldton Beaches
 type: poi
+score: 7.4
 ---
 
 Geraldton sits 400 kilometres north of Perth on the Batavia Coast, and its beaches are some of the best in Western Australia for water sports. The strong, reliable winds make it one of the world's top spots for windsurfing and kiteboarding, while the coastal reefs and breaks draw surfers from across the state.

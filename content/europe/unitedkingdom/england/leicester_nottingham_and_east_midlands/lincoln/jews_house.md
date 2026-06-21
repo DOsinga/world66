@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.8
 ---
 
 Halfway up Steep Hill, the Jew's House is a stone-built two-storey dwelling that has been continuously occupied since the 1150s. Lincoln had a sizeable medieval Jewish community — important as moneylenders to the crown — and this surviving house belonged to one of the wealthier families. The decorated Norman doorway, with its surviving fragments of carved ornament, is one of the earliest of its kind to remain in domestic context anywhere in England.

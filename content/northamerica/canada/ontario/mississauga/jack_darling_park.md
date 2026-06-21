@@ -8,6 +8,7 @@ tags:
 neighbourhood: Port Credit
 latitude: 43.5232
 longitude: -79.6171
+score: 6.6
 ---
 
 Jack Darling is one of the bigger lakefront parks on Mississauga's south coast, west of Port Credit. It has a long pebble and sand beach with a clear view east to the city of Toronto, a fenced off-leash dog park (one of the largest in the GTA), tennis courts, a splash pad, and a connection to the Waterfront Trail.

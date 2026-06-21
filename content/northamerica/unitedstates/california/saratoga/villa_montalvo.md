@@ -7,6 +7,7 @@ tags:
 - sight
 title: Montalvo Arts Center
 type: poi
+score: 8.2
 ---
 
 Villa Montalvo was built in 1912 as the country retreat of US Senator James Phelan, who modelled it on a Mediterranean villa and surrounded it with formal gardens, an arboretum, and miles of hiking trails in the Santa Cruz Mountain foothills. Phelan used the estate to host California's literary and artistic elite, and when he died in 1930 he left it in trust as an arts centre — a role it still fulfils today. The Montalvo Arts Center runs a year-round programme of concerts, theatre, and exhibitions, and the Lucas Artists Residency brings writers, composers, and visual artists to work on the grounds.

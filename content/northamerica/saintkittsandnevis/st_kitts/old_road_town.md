@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Old Road was the first English settlement in the Caribbean, founded in 1624 by Sir Thomas Warner with a handful of colonists. Within a year the French had landed beside them, and the two nations agreed to split the island between them — an arrangement that lasted, on and off, for the next century and a half."
+score: 6.4
 ---
 
 A small fishing village on the west coast that holds the unlikely distinction of being the very first English settlement anywhere in the Caribbean. There is not much left to mark it — a roadside plaque, an old church, and a few stone walls — but the setting beneath the green flank of Mount Liamuiga is striking.

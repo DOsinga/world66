@@ -9,6 +9,7 @@ latitude: 52.2043
 longitude: 0.1184
 story: >
   The Arts Theatre was founded in 1936 by John Maynard Keynes, the economist, who paid for it himself. He designed the original building, chose the productions, and ran it personally in its early years. Keynes loved ballet and theatre with an intensity that surprised people who only knew his economics; the Arts Theatre was his attempt to give Cambridge a proper cultural venue rather than relying entirely on the university's amateur scene.
+score: 6.5
 ---
 
 The Arts Theatre on Peas Hill is Cambridge's main professional theatre, a 666-seat venue that since its founding in 1936 has presented a wide range of drama, dance, comedy, and musical productions. The building has been significantly modernised but retains its central location a minute's walk from King's Parade.

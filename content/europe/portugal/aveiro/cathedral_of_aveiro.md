@@ -13,6 +13,7 @@ story: >
   remaining 18 years of her life as a nun despite repeated papal pressure to leave and make a politically useful marriage.
   She was beatified in 1693 and her gilded tomb, in the convent church, became one of the finest pieces of Portuguese
   Baroque carving. She has been Aveiro's patron ever since.
+score: 8.6
 ---
 
 The Cathedral of Aveiro occupies the former Convent of Jesus, a Dominican convent founded in 1461. The church itself is a fine example of Gothic-Manueline architecture, with an elaborately carved facade added in the 18th century. The interior is notable for its 18th-century azulejo panels — blue-and-white tile compositions covering the nave walls — and the gilded wood of the chapels, which represent the height of Portuguese Baroque woodworking.

@@ -8,6 +8,7 @@ tags:
 - culture
 title: Théâtre du Grütli
 type: poi
+score: 6.7
 ---
 
 A publicly funded independent theatre in central Geneva, housed in the Maison des Arts du Grütli alongside galleries and rehearsal spaces. The programming leans toward contemporary and experimental work -- dance, theatre, and performance art from Swiss and international companies. It is one of the more adventurous venues in a city better known for classical culture.

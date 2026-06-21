@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.4843
 longitude: 11.9645
+score: 7.7
 ---
 
 The Dom, despite the name, has never been a cathedral seat. It was built in the 13th century as a Dominican monastery church and given its current form in the 1520s by Cardinal Albrecht of Brandenburg, who wanted a flashy upgrade for his collegiate court. The flat west front, the rounded gables, and the early-Renaissance trim are the result.

@@ -8,6 +8,7 @@ latitude: 40.2169
 longitude: -74.7594
 sources:
   - https://en.wikipedia.org/wiki/Mill_Hill,_Trenton,_New_Jersey
+score: 7.6
 ---
 
 Mill Hill is Trenton's most intact historic neighbourhood, a grid of Federal and Victorian rowhouses on the southern edge of downtown. The area fell into disrepair through the mid-20th century but was rescued by a community preservation effort starting in the 1970s — today the streets around Jackson and Montgomery are lined with well-maintained 18th and 19th-century houses that look much as they did 150 years ago.

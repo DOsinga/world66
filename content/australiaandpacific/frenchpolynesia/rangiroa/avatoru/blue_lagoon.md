@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: -14.885
 longitude: -147.805
+score: 8.7
 ---
 
 A shallow turquoise pool inside the atoll formed by a ring of coral motu (islets), about an hour by boat west of Avatoru. The water is so clear and so shallow that it glows an electric blue from the air and a vivid green at the surface. Blacktip reef sharks patrol the shallows in numbers — dozens of juveniles circling in knee-deep water — and are entirely harmless.

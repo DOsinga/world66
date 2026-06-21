@@ -6,6 +6,7 @@ latitude: 43.539
 longitude: 10.954
 story: >
   The curative properties of the Gambassi springs were documented by the Florentine physician Giorgio Santi in the 18th century, who analysed the waters and attributed their effectiveness to their unusually high sodium bicarbonate and sulphate content. The waters were particularly valued for liver and digestive ailments — which partly explains why Florentines, famous for their rich food, have been coming here for centuries.
+score: 7.1
 ---
 
 The thermal springs of Gambassi have been valued since at least the medieval period, and the waters from the Pillo source — rich in sodium bicarbonate and sulphate salts — are particularly recommended for digestive treatments, respiratory conditions, and skin complaints. The spa complex in the old centre connects to a large public garden planted with centuries-old trees, making it a genuinely pleasant setting for a treatment.

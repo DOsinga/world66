@@ -13,6 +13,7 @@ tags:
 - sight
 title: Juma Mosque
 type: poi
+score: 8.7
 ---
 
 The Juma Mosque is Derbent's most historically layered religious building, housed in a 6th-century Christian basilica that was converted to a mosque after the Arab conquest of 654 AD. The structure retains elements of its original basilica form while serving as an active place of Islamic worship. A 15th-century madrassa stands in the courtyard. Together they represent the successive religious influences — Christian and Muslim — that have shaped Derbent over fifteen centuries.

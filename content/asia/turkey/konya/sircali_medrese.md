@@ -8,6 +8,7 @@ tags:
 - museum
 - sight
 snippet: "Thirteenth-century 'Glazed' madrasa, now Konya's tombstone museum"
+score: 7.6
 ---
 
 The Sırçalı Medrese — the "Glazed Madrasa" — was built in 1242 as a theological school and takes its name from the elaborate tile decoration of its main iwan. The building is smaller and less elaborate than Karatay or İnce Minareli, but the surviving glazed tilework on the iwan is among the earliest large-scale Seljuk tile schemes in Turkey and an important transitional piece between Persian and Anatolian decorative traditions.

@@ -1,5 +1,0 @@
-europe/switzerland/klosters
-northamerica/unitedstates/california/menlo_park
-asia/thailand/nakhon_pathom
-northamerica/unitedstates/indiana/evansville
-asia/philippines/iloilo

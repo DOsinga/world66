@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, bar]
 latitude: 9.7375
 longitude: -82.8387
+score: 6.3
 ---
 
 Coco Bar has the easy, unpretentious quality that suits Cahuita well. It sits at the social centre of the village, with an open-air layout that catches whatever breeze is going, and a soundtrack that leans on reggae and dancehall without being aggressive about it. The drinks menu is rum-heavy — coco loco, rum punch, and straight rum with something cold are the standards — and the prices are low enough that an evening here does not require a budget revision.

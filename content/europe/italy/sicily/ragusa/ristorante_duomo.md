@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 36.9267
 longitude: 14.7417
+score: 7.3
 ---
 
 Ristorante Duomo is Ragusa's most celebrated restaurant, holding two Michelin stars under chef Ciccio Sultano. It sits on Via Capitano Bocchieri in the heart of Ibla, a short walk from the Duomo di San Giorgio. The cooking is rooted in Sicilian ingredients — the olive oils, almonds, capers, and fish of the surrounding region — reinterpreted with modern technique.

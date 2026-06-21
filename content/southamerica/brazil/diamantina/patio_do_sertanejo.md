@@ -7,6 +7,7 @@ tags:
 latitude: -18.2437
 longitude: -43.5984
 snippet: Regional Minas Gerais cooking in the old town centre
+score: 5.9
 ---
 
 One of the better places in Diamantina to eat comida mineira — the hearty Minas Gerais cooking of beans, pork, greens cooked in fat, and tutu (mashed beans). The kitchen here keeps to the regional tradition: feijão tropeiro, carne seca, frango ao molho pardo, with rice and couve (kale) on everything. Portions are generous by any standard.

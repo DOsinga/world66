@@ -8,6 +8,7 @@ tags:
 title: Malagos Garden Resort
 type: poi
 snippet: "Orchid gardens, butterfly sanctuary, and weekend bird shows"
+score: 6.1
 ---
 
 A sprawling garden resort in the highlands above Davao City, Malagos is packed with orchids and flowering plants laid out across landscaped grounds. There's a butterfly sanctuary, an ostrich farm, and a collection of birds — including a weekend bird show that draws families from the city.

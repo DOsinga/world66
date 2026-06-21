@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.5765
 longitude: 35.4186
+score: 4.2
 ---
 
 The modern visitor centre at the entrance to the Wadi Rum Protected Area is where every visit officially begins. You pay the entrance fee here (5 JD, or free with a Jordan Pass), and this is where most guides and tour operators meet their groups.

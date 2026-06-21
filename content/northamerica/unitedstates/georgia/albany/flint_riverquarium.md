@@ -7,6 +7,7 @@ tags:
 snippet: "Freshwater aquarium focused on the ecology of the Flint River and Georgia's rivers"
 latitude: 31.5762
 longitude: -84.1485
+score: 7.0
 ---
 
 The Flint RiverQuarium on Pine Avenue is one of the few aquariums in the country dedicated entirely to a single freshwater river system. The centerpiece is a 175,000-gallon open cylindrical tank — the Blue Hole Spring, replicating a natural spring — visible from four floors, home to alligators, gar, catfish, and freshwater turtles.

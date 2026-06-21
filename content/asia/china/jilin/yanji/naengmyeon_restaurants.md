@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.1235
 longitude: 129.3880
+score: 8.1
 ---
 
 Cold buckwheat noodles in icy broth — naengmyeon — is the dish most associated with Yanbian Korean cooking and the thing to eat in Yanji. The noodles are made from buckwheat and have a darker, earthier character than wheat noodles; the broth is chilled, lightly seasoned, and sometimes sour from fermentation. The dish arrived here with the Hamgyong migrants who brought northern Korean food culture across the Tumen River, and the Yanji version is arguably closer to the original Hamgyong style than anything now served in South Korea.

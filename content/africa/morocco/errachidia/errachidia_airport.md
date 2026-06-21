@@ -10,6 +10,7 @@ tags:
 - getting_there
 title: Errachidia Airport
 type: poi
+score: 4.6
 ---
 
 Officially named Moulay Ali Cherif Airport (ERH), this small facility serves as the gateway to the Ziz Valley and the Tafilalet oasis region. Royal Air Maroc operates regular flights from Casablanca, taking about an hour. The airport is roughly 3 km northwest of town.

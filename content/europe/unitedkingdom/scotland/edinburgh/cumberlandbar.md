@@ -10,6 +10,7 @@ tags:
 - bar
 title: The Cumberland Bar
 type: poi
+score: 7.4
 ---
 
 A handsome, slightly clubby pub in the heart of the second New Town, with one of the best beer gardens in the city — sunken, flagged and surprisingly large for somewhere five minutes from Princes Street. Good cask ales, a strong gin list, and the kind of well-behaved Georgian-terrace crowd that stays for the food.

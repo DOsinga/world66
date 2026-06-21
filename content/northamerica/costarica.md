@@ -13,7 +13,7 @@ quick_facts:
   USD Accepted: "Widely accepted alongside local colón"
   No Army: Abolished in 1948
   Biodiversity: "~5% of world's species on 0.03% of its land"
-score: 0.64
+score: 0.78
 title: Costa Rica
 type: location
 loc_type: country

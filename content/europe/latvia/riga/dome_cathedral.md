@@ -9,6 +9,7 @@ tags:
   - sight
 title: Riga Dome Cathedral
 type: poi
+score: 8.4
 ---
 
 The Dome Cathedral (Rīgas Doms) is the largest church in the Baltic states and the oldest building in Riga, begun in 1211 by Bishop Albert who founded the city. Its architecture is a layered record of eight centuries of building — Romanesque foundations, a Gothic nave, Baroque additions — all accumulated without anyone quite agreeing on a single style.

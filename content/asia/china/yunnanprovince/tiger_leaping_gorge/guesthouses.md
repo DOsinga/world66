@@ -14,6 +14,7 @@ story: >
   for decades and knows the trail conditions better than anyone. Booking ahead in peak season
   (October and May) is necessary; turning up unannounced in those months often means
   sleeping on a dining room bench.
+score: 8.8
 ---
 
 The trail guesthouses are as much a part of the Tiger Leaping Gorge experience as the landscape. A series of family-run places spaced roughly a day's walk apart — the Naxi Family Guesthouse at the start, several options in the middle section including the Halfway Guesthouse and Tea Horse Guesthouse, and Tina's at the end near Walnut Grove — provide food, beds, and cold beer at prices that have barely changed in decades. The rooms are simple and sometimes cold; the food is basic Chinese with Naxi variations.

@@ -11,6 +11,7 @@ longitude: -2.6445
 snippet: Oldest and most imposing of Figuig's fortified villages, with a panoramic viewpoint
 story: >
   The platform above Zenaga has been used as a lookout for centuries — from here, defenders could see enemies approaching across the desert long before they reached the walls. In the 19th century, the ksour of Figuig fought each other from these platforms, launching raids across the intervening palm gardens.
+score: 8.4
 ---
 
 Zenaga is the oldest of Figuig's seven ksour and the best place to begin exploring the town. Its high earthen walls and watchtowers are in good condition, and a platform above the main gate gives a commanding view over the whole oasis — the sea of date palms below, the surrounding mountains, and (on clear days) the Algerian desert beyond.

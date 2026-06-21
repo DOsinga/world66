@@ -7,6 +7,7 @@ tags:
 latitude: 50.3604
 longitude: 7.5970
 story: "The 'Schängel' is the nickname for a native Koblenzer — a small-town brat — and dates from the French occupation of the early 1800s, when locally born children with French given names like Jean were nicknamed 'Schang'. The bronze boy in the fountain stands for the whole tribe."
+score: 6.0
 ---
 
 A small fountain in the courtyard of the old town hall on the Florinsmarkt featuring a bronze boy who spits a stream of water at random intervals. The locals know the rhythm; visitors usually take a face-full before they understand the joke.

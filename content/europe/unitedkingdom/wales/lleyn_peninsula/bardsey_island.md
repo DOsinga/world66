@@ -10,6 +10,7 @@ tags:
   - wildlife
 title: Bardsey Island (Ynys Enlli)
 type: poi
+score: 9.3
 ---
 
 Bardsey Island — Ynys Enlli in Welsh, meaning "Island in the Currents" — sits 3 km off the tip of the Llŷn Peninsula, separated by one of the most treacherous tidal races in Wales. For medieval pilgrims, three journeys to Bardsey equalled one to Rome. The island was said to be the burial place of 20,000 saints, and the ruins of the 13th-century St Mary's Abbey still stand at the northern end.

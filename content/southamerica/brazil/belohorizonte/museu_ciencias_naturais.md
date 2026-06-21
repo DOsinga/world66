@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museu de Ciências Naturais PUC Minas
 type: poi
+score: 6.9
 ---
 
 The Museu de Ciências Naturais on the campus of the Catholic University (PUC) is the main natural history museum in the city. It is best known for its paleontology collection — fossils from the Mesozoic, including some impressive dinosaur skeletons from sites in Minas Gerais — and for an extensive set of zoological and ecological dioramas covering the Atlantic Forest and the cerrado.

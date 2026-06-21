@@ -15,6 +15,7 @@ story: >
   that never exceeded 17,000 men. Lincoln himself grew so frustrated that he began issuing direct operational 
   orders to Union commanders in the Valley, interfering with the chain of command in ways that made the 
   problem worse.
+score: 6.1
 ---
 
 The small Gothic Revival cottage on North Braddock Street served as Stonewall Jackson's headquarters from November 1861 to March 1862, during the planning phase of his legendary Shenandoah Valley Campaign. Jackson used the house — owned at the time by a Lieutenant Colonel Lewis T. Moore — as his base of operations while organizing the Army of the Valley into the fast-moving force that would confound Union commanders for the next six months. The house still contains period furnishings and several of Jackson's personal effects, including his prayer table and camp equipment.

@@ -6,6 +6,7 @@ longitude: 11.0686
 tags:
   - things_to_do
   - museum
+score: 7.3
 ---
 
 The town's small archaeological museum sits just inside the Skifa Kahla and is built around finds from the Mahdia shipwreck — a Roman cargo vessel that sank around 80 BC off the coast loaded with bronzes, marble columns and luxury furniture, discovered by Greek sponge divers in 1907. The originals are mostly in the Bardo, but the casts and explanatory panels make the local context clear.

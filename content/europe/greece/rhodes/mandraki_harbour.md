@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.4511
 longitude: 28.2278
+score: 7.7
 ---
 
 Mandraki is the oldest and most picturesque of the three harbours of Rhodes City, used continuously since ancient times. The mole is lined with windmills — three remain of the original fourteen that once stood there, used to grind grain unloaded from ships. The tower of St. Nicholas stands at the far end of the mole, and the bronze deer atop columns at the harbour entrance mark the traditional (if unverifiable) site of the Colossus.

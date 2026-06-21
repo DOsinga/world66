@@ -12,6 +12,7 @@ story: >
   would be impossible to find in open reef environments. Photographers
   travel from around the world specifically to photograph species here
   that cannot reliably be found anywhere else.
+score: 9.2
 ---
 
 Laha, a small village on the northern coast of Ambon Bay, is the centre of one of the world's finest muck diving destinations. The black sand slopes and rubble substrate around Laha host an astonishing concentration of cryptic marine life: Rhinopias scorpionfish, mimic octopus, flamboyant cuttlefish, ghostly frogfish in a dozen colour variants, pygmy seahorses, blue-ringed octopus, and nudibranchs in extraordinary variety.

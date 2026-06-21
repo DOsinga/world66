@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 41.6167
 longitude: 45.9167
+score: 8.4
 ---
 
 Sighnaghi is the most photogenic town in Kakheti, a hilltop settlement perched on the Gombori ridge above the Alazani Valley. The town was heavily restored in the 2000s under President Saakashvili — balconies repainted, cobblestones relaid, the 18th-century fortress wall reinforced — and the result is somewhere between a genuine old town and a very convincing stage set. It works, regardless of how you feel about the politics behind it.

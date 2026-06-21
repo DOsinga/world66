@@ -6,6 +6,7 @@ longitude: 125.5810
 tags:
   - eating_out
   - restaurant
+score: 6.7
 ---
 
 Dilicious is one of the more reliably good cafe-restaurants in central Dili — a small white-walled room with a few outdoor tables, run by a Timorese-Australian team. The kitchen does Western dishes well (good salads, generous burgers, proper coffee) and a short list of Timorese classics including grilled reef fish and *modo* — papaya-leaf greens with onion and chilli.

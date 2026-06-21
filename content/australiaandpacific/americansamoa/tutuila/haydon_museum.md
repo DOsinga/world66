@@ -7,6 +7,7 @@ tags:
 latitude: -14.2789
 longitude: -170.6985
 snippet: American Samoa's main museum, in a 1917 former navy headquarters in Fagatogo
+score: 7.6
 ---
 
 The Jean P. Haydon Museum is housed in a 1917 building that served as the US Navy headquarters when American Samoa was administered by the Navy Department. After civilian administration took over in 1951, the building became the territory's main museum, covering American Samoan history, traditional culture, and the natural environment.

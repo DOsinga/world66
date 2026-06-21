@@ -7,6 +7,7 @@ neighbourhood: Roma
 address: "Av. Álvaro Obregón 106, Roma Norte"
 latitude: 19.4192
 longitude: -99.1604
+score: 7.1
 ---
 
 Licorería Limantour opened in 2011 and quickly became Mexico City's most internationally recognised cocktail bar. The drinks list runs heavily to Mexican spirits — mezcal, tequila, sotol — with a few signatures that recur every year (the Margarita al Pastor, mezcal with pineapple and coriander, is the one to ask for).

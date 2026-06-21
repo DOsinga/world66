@@ -7,6 +7,7 @@ tags:
 latitude: 50.626
 longitude: 3.046
 snippet: Multicultural working-class neighbourhood with one of the best Sunday markets in France
+score: 8.4
 ---
 
 Wazemmes is Lille's most characterful neighbourhood and the city's least-gentrified — a dense, multicultural quarter about a kilometre southwest of the city centre, anchored by the **Place de la Nouvelle Aventure** and its enormous Sunday market. The neighbourhood has been working-class since the 19th century, when textile workers filled its terraced streets; today it has a large North African and West African population alongside long-established Lillois families and a growing number of students and artists drawn by cheap rents and the neighbourhood's unaffected vitality.

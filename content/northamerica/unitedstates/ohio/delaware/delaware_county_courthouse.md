@@ -9,6 +9,7 @@ latitude: 40.3017
 longitude: -83.0683
 sources:
   - https://en.wikipedia.org/wiki/Delaware_County_Courthouse_(Ohio)
+score: 6.3
 ---
 
 The Delaware County Courthouse stands on the north end of the downtown core, a Victorian-era public building in the Italianate style that anchors the civic heart of the city. Built in 1868, it is listed on the National Register of Historic Places and remains in active use as the county seat.

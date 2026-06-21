@@ -13,6 +13,7 @@ tags:
 - christmas
 title: Santa Park
 type: poi
+score: 6.0
 ---
 
 An underground theme park built inside a natural cave on the Arctic Circle, billed as the official cave of Santa Claus. The complex includes an elf training school, gingerbread bakery, ice gallery, and various winter-themed experiences. It operates in winter only (typically November through January), with the peak around Christmas.

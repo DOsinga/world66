@@ -9,6 +9,7 @@ latitude: 37.8228
 longitude: -112.4358
 sources:
   - https://en.wikipedia.org/wiki/Paunsaugunt_Wildlife_Museum
+score: 5.4
 ---
 
 The Paunsaugunt Wildlife Museum on Center Street is an unusual small-town institution: a large private collection of taxidermied animals from around the world displayed in natural-looking dioramas. The collection runs to several hundred specimens and includes African big game, North American bears, deer, and mountain lions, alongside exotic species most visitors won't recognize from the wild.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 5.8500
 longitude: 48.2700
+score: 6.8
 ---
 
 The coast around Hobyo is fringed by a long belt of pale sand dunes — part of the Hobyo grassland and shrubland ecoregion, which runs for several hundred kilometres along the Somali coast. The dunes have been moving slowly inland for decades, encroaching on grazing land and pushing villages back from the shore.

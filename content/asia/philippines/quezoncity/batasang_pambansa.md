@@ -14,6 +14,7 @@ story: >
   impressive enough to host ASEAN summits. On July 27, 1987, it was the site of a
   coup attempt during the early Aquino presidency — rebel soldiers seized the
   building and held it for nine hours before surrendering.
+score: 6.8
 ---
 
 The Batasang Pambansa Complex is the seat of the Philippine House of Representatives, located in the Batasan Hills area in the north of Quezon City. When Quezon City was the national capital, this was the symbolic centre of Philippine government — a grand complex of modernist buildings set on a wide hilltop with views across the Metro.

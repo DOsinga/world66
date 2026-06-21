@@ -8,6 +8,7 @@ tags:
 - swimming
 title: Praia de Fora
 type: poi
+score: 8.1
 ---
 
 The "Outer Beach" runs along the Atlantic side of the island's southern half, a long stretch of fine sand with steady surf and almost nobody on it. It is the best beach on Ilha do Mel for swimming and for surfing — small surf schools in Encantadas rent boards by the hour and run beginner lessons.

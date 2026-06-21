@@ -7,6 +7,7 @@ tags:
 title: York Racecourse
 type: poi
 snippet: "One of the finest flat racing venues in Britain, on the Knavesmire south of the city"
+score: 6.5
 ---
 
 York Racecourse occupies the Knavesmire, a large area of common ground on the south side of the city that has been used for horse racing since 1731. The course is considered one of the best in Britain for flat racing, with wide galloping ground and good sightlines from the stands. The summer Ebor Festival in August is the main annual meeting, bringing some of the best flat horses in Europe. The Yorkshire Oaks and the International Stakes are the headline races.

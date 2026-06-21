@@ -7,6 +7,7 @@ latitude: 69.7117
 longitude: 30.1589
 story: >
   For most of the Cold War, this stretch of fence was one of the most heavily militarised borders in Europe. The border zone was sealed, local residents needed special passes, and Norwegian and Soviet soldiers watched each other across the wire. Today the same crossing handles a steady flow of Russian shoppers coming to Kirkenes for Norwegian goods — though that traffic has changed dramatically since 2022.
+score: 5.8
 ---
 
 The Storskog crossing, 15 km east of Kirkenes, is the only road border post between Norway and Russia. The crossing itself is a study in contrasts: Norwegian efficiency on one side, Russian bureaucracy on the other, and a few hundred metres of no-man's-land between them.

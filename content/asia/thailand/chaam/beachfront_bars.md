@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 12.7978
 longitude: 99.9702
+score: 4.7
 ---
 
 The bars lining Ruamchit Road are mostly extensions of the seafood restaurants — plastic tables on the pavement, bottles of Singha and Chang in ice buckets, and a view of the beach through the casuarina trees. None of them are sophisticated, and that is the point. You drink cold beer, eat grilled prawns, and watch the sun go down over the Gulf.

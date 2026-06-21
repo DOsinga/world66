@@ -8,6 +8,7 @@ latitude: 26.9950
 longitude: 14.4280
 sources:
   - https://en.wikipedia.org/wiki/Sabha,_Libya
+score: 7.5
 ---
 
 The Fezzan Regional Museum in Sebha is the main repository for the archaeological and ethnographic heritage of the region. The collection covers the Garamantian civilisation — the ancient Saharan people who built an elaborate underground irrigation system, the foggara, across the Fezzan more than two thousand years ago — as well as pre-Islamic rock art, caravan-era artefacts and traditional Tuareg material culture.

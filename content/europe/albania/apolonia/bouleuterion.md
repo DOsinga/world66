@@ -9,6 +9,7 @@ snippet: Restored portico of the second-century council house, the iconic image 
 latitude: 40.7220
 longitude: 19.4725
 story: "The portico was reassembled by French archaeologists in the 1930s from columns and entablature blocks scattered across the hillside. The structure honoured the agonothetes — the magistrates who organised the city's athletic games — and the engraved dedications around the architrave still record their names."
+score: 8.4
 ---
 
 The Bouleuterion, sometimes called the Monument of the Agonothetes, is the most photographed building at Apollonia and the one most visitors come specifically to see. Six tall Corinthian columns support an entablature carved with a frieze of metopes and triglyphs; the rear wall is partially preserved.

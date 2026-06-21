@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - art
+score: 5.8
 ---
 
 The Escola d'Olot — the Olot School — refers both to the 19th-century landscape painting movement that grew up around Joaquim Vayreda and to the institution that still trains artists in the town. The painters of the Escola worked outdoors in the Garrotxa countryside in the 1870s and 1880s, in conscious response to the French Barbizon school, and produced a body of work that helped define a distinctly Catalan landscape vision.

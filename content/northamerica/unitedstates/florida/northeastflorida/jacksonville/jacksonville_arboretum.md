@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.2750
 longitude: -81.7100
+score: 6.8
 ---
 
 The Jacksonville Arboretum covers 120 acres of natural Florida landscape in the southwestern part of the city, with trails through longleaf pine forest, hardwood hammock, wetlands, and upland habitat. Unlike a traditional botanical garden, much of the collection consists of native Florida plants growing in their natural community rather than in formal beds, which gives it a more naturalistic and less manicured quality than most municipal gardens.

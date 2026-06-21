@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.7
 ---
 
 The Castello Barbacane is the squat black-lava fortress on the harbour front of Pantelleria town, and very nearly the only pre-1943 building that survived the Allied bombing intact. It was built by the Normans in the twelfth century, expanded under the Spanish in the sixteenth, and used as a prison well into the twentieth.

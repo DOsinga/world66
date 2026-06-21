@@ -8,6 +8,7 @@ tags:
   - village
 latitude: -4.2912
 longitude: 143.3963
+score: 6.8
 ---
 
 Mindimbit sits on the lower end of the Middle Sepik, on the river itself near the cut-off that leads south into the Chambri Lakes. The village is a useful staging point for trips between the Middle Sepik villages and the lake country: by canoe it is a couple of hours to Tambanum downstream or several hours back upstream to Kanganamun.

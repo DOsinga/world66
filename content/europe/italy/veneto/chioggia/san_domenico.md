@@ -7,6 +7,7 @@ tags:
 latitude: 45.2207
 longitude: 12.2832
 story: "The Crucifixion above the high altar is attributed to Vittore Carpaccio and is signed and dated 1520, said to be one of his last works before his death — making it the last documented painting by one of the great Venetian masters of the early Renaissance."
+score: 7.9
 ---
 
 The Dominican church of San Domenico stands on its own small island at the eastern edge of the old town, connected by a short bridge from the main quayside. The current building is 18th century, but the bell tower is older — built in the 14th century when the first Dominican community settled here.

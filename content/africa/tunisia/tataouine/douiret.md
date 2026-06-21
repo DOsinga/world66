@@ -8,6 +8,7 @@ tags:
   - sight
   - landmark
 snippet: Abandoned hilltop Berber village with troglodyte houses and a ruined citadel
+score: 8.4
 ---
 
 Douiret, about 22 kilometres southwest of Tataouine, is perhaps the most evocative of the ruined Berber hilltop villages in the Dahar region. The old settlement clings to a steep ridge, its troglodyte houses carved into the cliff face and stacked in tiers above a winding footpath. At the top, the ruined citadel — a ksar used for storing grain — commands a panoramic view over the desert plain and the mountains of the Libyan border to the south-east. A small mosque, partly restored, sits among the ruins.

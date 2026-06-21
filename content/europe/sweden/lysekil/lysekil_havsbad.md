@@ -8,6 +8,7 @@ tags:
 - sight
 title: Lysekil Havsbad
 type: poi
+score: 7.6
 ---
 
 The Havsbad ("sea-bath") is a wooden bathing pavilion on the rocks at the western edge of Lysekil, the last surviving piece of the 1864 spa complex that put the town on the map. It still functions: changing rooms, a sauna, jetties to swim from, and a small cafe in season. The building itself is the attraction — gabled, ornate, gloriously over-engineered for a small fishing town.

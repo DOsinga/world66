@@ -6,6 +6,7 @@ longitude: 35.3981
 snippet: "Phoenician healing sanctuary 3 km north of the city — the only substantially preserved Phoenician temple in Lebanon"
 tags: [things_to_do, sight, historic]
 story: "Eshmun was the Phoenician god of healing, the equivalent of Greek Asclepius. Pilgrims came from across the Phoenician world to leave votive offerings: hundreds of small marble statues of children have been recovered, dedicated by parents either grateful for or hoping for a cure. The exquisite Tribune of Eshmun, carved with scenes of dancing maenads, was found here and now sits in the Beirut National Museum."
+score: 9.1
 ---
 
 The Temple of Eshmun lies in a green valley about three kilometres north of Sidon, where the Awali river runs down from the mountains. It is the only substantially preserved Phoenician temple in Lebanon, and one of the most evocative ancient sites in the country — far less visited than the Roman ruins at Baalbek or Tyre, but worth the trip for anyone interested in the Phoenicians.

@@ -11,6 +11,7 @@ tags:
 title: Ristorante Pizzeria 'Da Franco'
 type: poi
 url: www.dafrancobergamo.it
+score: 5.4
 ---
 
 In the heart of the Old Town "Franco" serves delicious healthy food at a good price. Local food, regional food and fish is served as well as pizza baked in a wood burning oven.

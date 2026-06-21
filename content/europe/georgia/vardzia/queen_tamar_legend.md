@@ -14,6 +14,7 @@ story: >
   out in fear. She answered: "Aq var, dzia" — "I am here, uncle" in Georgian.
   True or not, the story captures something of the place: it is a site where
   a ruler became a legend.
+score: 4.8
 ---
 
 Queen Tamar (1160–1213) is the most celebrated monarch in Georgian history, and Vardzia is her most visible monument. She expanded the cave city begun by her father George III into a full monastic and defensive complex, had the Church of the Assumption excavated and painted, and reportedly visited regularly from the royal court. Her portrait in the church is the reason many Georgians make the trip.

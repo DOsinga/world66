@@ -8,6 +8,7 @@ latitude: 31.8756
 longitude: 76.3244
 story: >
   The Mughal Emperor Akbar, visiting Jwalamukhi in the 16th century, was so impressed — and reportedly so sceptical — that he tried to extinguish the flames by covering them with an iron shield and diverting water over them. Both attempts failed. He then donated the golden dome that still covers the main shrine, and is said to have acknowledged the power of the goddess. The story is repeated at every telling by the temple's priests.
+score: 7.7
 ---
 
 Jwalamukhi, about 56 kilometres from Dharamsala, is one of the most unusual Hindu pilgrimage sites in northern India. The temple contains no idol: instead, nine natural gas flames burn from fissures in the rock — blue, steady, and apparently inexhaustible — and these flames are the goddess herself. The phenomenon is caused by natural hydrocarbon seepage from the earth below the temple; the theological interpretation is that it is the tongues of the goddess Sati.

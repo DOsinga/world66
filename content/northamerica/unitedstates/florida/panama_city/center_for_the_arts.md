@@ -6,6 +6,7 @@ longitude: -85.6599
 tags:
   - things_to_do
   - museum
+score: 6.9
 ---
 
 The Center for the Arts occupies the handsome 1926 City Hall and old fire station at the corner of Harrison Avenue and 4th Street, anchoring the south end of the downtown historic district. The free art gallery rotates exhibitions every six to eight weeks, with a deliberate balance between local and travelling artists, and a permanent collection that emphasises northwest Florida painters and ceramicists.

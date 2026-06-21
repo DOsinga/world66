@@ -9,6 +9,7 @@ tags:
 - sight
 title: Lezha Castle
 type: poi
+score: 7.1
 ---
 
 Before you spend the afternoon on the beach in Shengjin, take the

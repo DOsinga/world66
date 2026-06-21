@@ -5,6 +5,7 @@ latitude: 33.270
 longitude: 35.195
 snippet: "Small local museum with marine exhibits covering the sea life of the eastern Mediterranean"
 tags: [things_to_do, museum]
+score: 5.4
 ---
 
 The Sea Life Museum is a modest local institution with exhibits on the marine environment of the eastern Mediterranean coast — fish species, sea turtles, coral, and the coastal ecosystem of the Tyre area. It is not large, and a visit takes less than an hour, but it provides useful context for the sea turtle nesting that happens on Tyre Beach and the broader ecology of the Tyre Coast Nature Reserve.

@@ -8,6 +8,7 @@ tags:
 - bar
 title: Bar Papaia
 type: poi
+score: 5.2
 ---
 
 Relaxed bar on Via dei Priori with a long counter, plenty of seating, and decent panini. Popular with students from the nearby university, it gets lively in the early evening. Good selection of wine and aperitivi at reasonable prices.

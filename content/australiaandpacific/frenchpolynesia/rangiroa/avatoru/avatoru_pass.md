@@ -9,6 +9,7 @@ latitude: -14.943
 longitude: -147.712
 sources:
   - https://en.wikipedia.org/wiki/Avatoru_Pass
+score: 8.9
 ---
 
 The western pass through the Rangiroa reef, where the open Pacific pours into the atoll lagoon twice daily on the incoming tide. The current is powerful enough to pull a diver effortlessly along the channel at several knots — this is drift diving at its finest.

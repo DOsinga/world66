@@ -15,6 +15,7 @@ story: >
   Beach the liveliest corner of the island after dark.
 sources:
   - https://en.wikipedia.org/wiki/Bradenton_Beach,_Florida
+score: 7.7
 ---
 
 The Bradenton Beach Historic City Pier extends into the waters off the south end of Anna Maria Island at the foot of Bridge Street, the town's main commercial strip. Fishing is popular from the pier at all hours, and pelicans and brown pelicans work the water below. The views from the end of the pier — back across to the island's beach cottages, and out to the Gulf — are among the best on the island.

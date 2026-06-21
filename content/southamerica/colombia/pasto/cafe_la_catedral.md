@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 1.2156
 longitude: -77.2795
+score: 5.4
 ---
 
 A relaxed café on Plaza de Nariño with views of the cathedral, equally good for a morning tinto (Colombian-style black coffee) and an afternoon hot chocolate. The pastries are decent and there's an upstairs balcony for watching the plaza.

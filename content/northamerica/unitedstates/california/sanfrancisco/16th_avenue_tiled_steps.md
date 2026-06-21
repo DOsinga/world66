@@ -8,6 +8,7 @@ tags:
 - sight
 title: 16th Avenue Tiled Steps
 type: poi
+score: 7.2
 ---
 
 A staircase of 163 steps on 16th Avenue in the Inner Sunset, every riser covered in handmade mosaic tiles that together form a flowing design of sea, sky, and stars rising from the bottom to the top. The project was a community effort completed in 2005, inspired by the famous Escadaria Selarón in Rio de Janeiro.

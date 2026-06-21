@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.2902
 longitude: -76.6011
+score: 7.4
 ---
 
 The Jewish Museum of Maryland is located in the Jonestown neighbourhood, one of Baltimore's oldest, and is built around two of the oldest synagogues in the country — the Lloyd Street Synagogue (1845) and the B'nai Israel Synagogue (1876). Both buildings are architecturally significant, and the museum uses them as its primary exhibit spaces, showing the history of Jewish life in Maryland from the colonial period to the present.

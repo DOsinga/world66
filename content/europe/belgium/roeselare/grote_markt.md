@@ -7,6 +7,7 @@ tags:
 snippet: Flemish market square rebuilt after WWI with Sint-Michielskerk and cafes
 latitude: 50.9458
 longitude: 3.1258
+score: 5.8
 ---
 
 The Grote Markt is Roeselare's central square, lined with cafes and dominated by the Sint-Michielskerk. Like most of the town, it was almost completely destroyed during the First World War and rebuilt in the interwar period. The church tower is the town's landmark, visible from the surrounding flat countryside.

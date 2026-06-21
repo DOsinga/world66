@@ -7,6 +7,7 @@ tags:
 - books
 title: 'Balkan Cinema: Evolution after the Revolution'
 type: poi
+score: 5.8
 ---
 
 Michael Jon Stoil's *Balkan Cinema: Evolution after the Revolution* traces the development of film culture in Albania and the wider Balkan region through the turbulent post-communist transition. It's an academic work, but one that takes the subject seriously — examining how filmmakers navigated state censorship, ideological collapse, and the challenge of building new cinematic identities.

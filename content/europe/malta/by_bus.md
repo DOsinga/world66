@@ -8,6 +8,7 @@ tags:
 - getting_around
 title: By bus
 type: poi
+score: 4.8
 ---
 
 Malta has a single integrated bus network operated by Malta Public Transport, covering Valletta, the Three Cities, Sliema, St Julian's, Mdina, and the main resort areas in the south. Valletta's bus terminus outside the City Gate is the hub for most routes.

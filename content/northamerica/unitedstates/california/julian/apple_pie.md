@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 33.0709
 longitude: -116.5856
+score: 7.8
 ---
 
 Julian's apple orchards have been producing since the 1870s, when settlers planted the first trees after the gold played out. The apples found in the cooler mountain air turned out to be excellent, and apple growing replaced mining as the town's main industry for decades. Today the orchards are primarily a tourist draw, and several bakeries on Main Street compete fiercely for the title of best apple pie in San Diego County.

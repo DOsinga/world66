@@ -8,6 +8,7 @@ tags:
 latitude: 9.5618
 longitude: 44.0638
 story: "The cultural centre houses what is believed to be one of the largest surviving collections of Somali cassette tapes in existence — thousands of recordings that were hidden during the civil war and smuggled out of the country before the bombardment reached them. They represent decades of Somali music, poetry, and oral history that would otherwise have been lost."
+score: 8.5
 ---
 
 The Hargeisa Cultural Centre, run by the Redsea Cultural Foundation, opened formally in 2014 and occupies a compound near the city centre. Its main gallery contains antique Islamic manuscripts, traditional Somali artefacts, art paintings, and a remarkable wall of cassette tapes — thousands of recordings that survived the civil war and now represent an irreplaceable archive of Somali cultural memory.

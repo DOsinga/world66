@@ -6,6 +6,7 @@ longitude: -1.5210
 tags:
   - bars_and_cafes
   - bar
+score: 5.9
 ---
 
 A long-standing maquis (open-air bar/grill) southwest of the central district, beloved of taxi drivers and journalists. The set-up is the standard one — plastic chairs, plastic tables, fluorescent lights, a charcoal grill out the back — but the chicken and brochettes are particularly good and the atmosphere is friendly.

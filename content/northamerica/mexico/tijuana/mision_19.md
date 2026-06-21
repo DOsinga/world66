@@ -7,6 +7,7 @@ tags:
 latitude: 32.5311
 longitude: -117.0192
 snippet: "Flagship restaurant of Javier Plascencia, the chef who put Tijuana on the food map."
+score: 7.6
 ---
 
 Misión 19 is the restaurant that made the world pay attention to Tijuana's food scene. Chef Javier Plascencia opened it in 2011 and quickly won international recognition for his Baja Med cuisine — a cooking philosophy that fuses the produce of Baja California (olive oil, wine, seafood, valley vegetables) with the techniques of Mediterranean cooking and the flavours of Baja's Asian immigrant communities.

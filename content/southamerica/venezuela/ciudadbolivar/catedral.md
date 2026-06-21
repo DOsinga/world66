@@ -8,6 +8,7 @@ tags:
 latitude: 8.1438
 longitude: -63.5511
 snippet: Eighteenth-century cathedral on the Plaza Bolívar
+score: 6.9
 ---
 
 The Catedral Metropolitana de Nuestra Señora de las Nieves stands on the Plaza Bolívar at the centre of the old town. Building began in 1764 and dragged on for nearly a century — the result is a relatively plain colonial Spanish church with a single tower, painted white with deep ochre trim. The two-storey façade and the simple wood ceiling inside are typical of late Spanish colonial work in eastern Venezuela.

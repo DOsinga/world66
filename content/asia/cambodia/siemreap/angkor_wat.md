@@ -17,6 +17,7 @@ tags:
 - landmark
 title: Angkor Wat
 type: poi
+score: 9.8
 ---
 
 **Angkor Wat** — literally "Temple City" — is the largest religious monument ever built and the centrepiece of the Angkor Archaeological Park. Commissioned by King **Suryavarman II** in the early 12th century as his state temple and eventual mausoleum, it was originally dedicated to the Hindu god Vishnu and converted to a Buddhist temple in the late 13th century. Its five lotus-bud towers, rising from a huge rectangular moat, have become the symbol of modern Cambodia and appear on the national flag.

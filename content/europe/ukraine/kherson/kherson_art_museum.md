@@ -8,6 +8,7 @@ latitude: 46.6298
 longitude: 32.6095
 story: >
   The museum is named after Oleksiy Shovkunenko, a Ukrainian painter born in Kherson in 1884. During the 2022 Russian occupation, occupying forces removed significant parts of the collection to Crimea. Ukrainian authorities have been working to recover the stolen artworks since the city's liberation in November 2022.
+score: 6.2
 ---
 
 The Kherson Regional Art Museum housed one of the largest art collections in southern Ukraine, with over 13,000 works covering Ukrainian painting from the 18th century to the present day, plus European prints and graphic art. The collection was particularly strong in 19th-century Ukrainian landscape and genre painting.

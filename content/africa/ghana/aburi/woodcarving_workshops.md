@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, craft, shopping]
 latitude: 5.851
 longitude: -0.18
+score: 7.0
 ---
 
 The road from Accra to Aburi passes through a string of Akuapem towns whose primary industry is woodcarving. Roadside workshops and open-fronted stalls line the highway for several kilometres, with craftsmen carving everything from small souvenir masks to enormous ceremonial stools, fertility dolls, and decorative doors.

@@ -10,6 +10,7 @@ tags:
 - museums
 title: Simon Janashia Museum of Georgia
 type: poi
+score: 8.5
 ---
 
 The main branch of the Georgian National Museum, housed in a grand building on Rustaveli Avenue. The highlight is the treasury on the top floor, an extraordinary collection of pre-Christian gold and silver work from Colchis and Iberia dating back to the 3rd millennium BC. The archaeological galleries downstairs cover the full sweep of Georgian history, from Stone Age skulls found at Dmanisi (among the oldest hominid remains outside Africa) to medieval manuscripts.

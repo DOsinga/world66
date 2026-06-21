@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Reliable Madikeri restaurant for traditional Kodava dishes."
+score: 5.8
 ---
 
 Coorg Cuisine sits on the bazaar end of Madikeri and is one of the safest bets in town for a proper Kodava meal — pandi curry with kadambuttu, noolputtu with chicken curry, or a thali that runs you through most of the local specialties at once. Plain dining room, no atmosphere, but the food is the point.

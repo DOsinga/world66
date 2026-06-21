@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - architecture
 snippet: Restored 1927 hotel anchoring the downtown commercial district.
+score: 6.8
 ---
 
 The Bothwell opened in 1927 as Sedalia's flagship hotel, financed in part by the lawyer and gentleman farmer John Homer Bothwell whose country estate lies a few miles north. Eight storeys of brick and limestone in a restrained Renaissance Revival style, it was for decades the tallest building in town and the social heart of downtown. After a long decline it was restored in the 2000s and now operates as a Marriott Tapestry property.

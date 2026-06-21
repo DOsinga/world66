@@ -9,6 +9,7 @@ latitude: 29.95694
 longitude: -90.06917
 story: >
   The museum's founder, Louis Dufilho Jr., was in 1816 the first licensed pharmacist in the United States. The building was originally his apothecary. Among the exhibits are leeches, bloodletting equipment, opium preparations, and early surgical instruments that explain why nineteenth-century patients feared the doctor as much as the disease.
+score: 7.7
 ---
 
 The New Orleans Pharmacy Museum occupies the 1823 apothecary of Louis Dufilho Jr., the first licensed pharmacist in the United States. The two floors are packed with nineteenth-century medical equipment: leech jars, apothecary cabinets full of herbal remedies and patent medicines, surgical tools, and a marble soda fountain installed in 1855 — when pharmacists dispensed soda water as a medicinal treatment. The courtyard garden grows medicinal plants used in Creole medicine, including several with voodoo associations.

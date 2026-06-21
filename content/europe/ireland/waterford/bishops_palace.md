@@ -12,6 +12,7 @@ story: >
   The Bishop's Palace was designed by Richard Castle, the German-born architect who designed more great Irish country houses than any other single architect — Powerscourt, Westport House, Russborough — and who brought a restrained Palladian elegance to Irish architecture in the mid-eighteenth century. This is his only major urban building, and it sits incongruously grand on The Mall, a reminder that Georgian Waterford was a prosperous commercial city that could afford to build on this scale.
 sources:
   - https://en.wikipedia.org/wiki/Waterford_Treasures
+score: 8.2
 ---
 
 The Bishop's Palace was designed in 1741 by Richard Castle, the most prolific architect of Georgian Ireland, and it served as the residence of the Church of Ireland bishops of Waterford and Lismore until the early twentieth century. It is the oldest complete Georgian townhouse in Ireland and is now one of the Waterford Treasures museums, covering the city's social, commercial, and cultural history from about 1700 to 1970.

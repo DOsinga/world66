@@ -8,6 +8,7 @@ tags:
 - spa
 title: Cabreiroá Spa
 type: poi
+score: 6.9
 ---
 
 A kilometre south of Verín, the springs at Cabreiroá have been bottled commercially since 1906 and the brand is one of the best-known mineral waters in Spain. The original spa pavilion, a 19th-century granite building set in landscaped grounds, has been restored and is open for tours that explain the geology and the bottling process; the bottling plant itself can sometimes be visited by appointment.

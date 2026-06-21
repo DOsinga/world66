@@ -14,6 +14,7 @@ story: >
   instruments and models that were cutting-edge when the mines were at their peak in the eighteenth century.
 sources:
   - https://en.wikipedia.org/wiki/Mining_Academy_(Bansk%C3%A1_%C5%A0tiavnica)
+score: 8.4
 ---
 
 The Slovak Mining Museum is the heart of Banská Štiavnica's heritage industry, spread across several historic buildings including the Mining Academy of 1762. The collection covers the full history of silver and gold mining in the Štiavnica Hills, from Roman-era workings through the medieval and Renaissance peak to the industrial era. There are original mining tools, mineralogical specimens, scale models of shaft systems, and exhibits on the engineering innovations — including early pumping technology — that allowed the mines to go deeper.

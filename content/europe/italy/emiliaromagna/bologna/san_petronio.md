@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 9.1
 ---
 
 The Basilica of San Petronio dominates Piazza Maggiore from its southern side. Begun in 1390, it was the city's gesture of civic pride — built and paid for by the commune rather than the Church, which is why the facade remains half-finished: when papal money paid for the project, work proceeded; when it didn't, work stopped.

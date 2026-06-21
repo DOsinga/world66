@@ -13,6 +13,7 @@ story: >
   Kengal Hanumanthaiah insisted on building it entirely without foreign materials or expertise,
   to prove post-independence India's self-sufficiency. The dome was modeled after the Mysore
   palace.
+score: 7.8
 ---
 
 Vidhana Soudha is Karnataka's legislative assembly building, one of the largest and most imposing government buildings in India. The granite structure was built in neo-Dravidian style, blending traditional South Indian temple architecture with the scale of a colonial-era secretariat. It houses both the Karnataka Legislative Assembly and the Legislative Council, and the main entrance is flanked by four large gates. The inscription above the central portico reads "Government Work is God's Work."

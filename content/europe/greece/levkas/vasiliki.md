@@ -6,6 +6,7 @@ longitude: 20.6133
 tags:
 - things_to_do
 - sight
+score: 7.4
 ---
 
 A village and small harbour at the southwestern corner of Lefkada, ringed by mountains. Vasiliki has been a fixture on the international windsurfing circuit since the 1980s — the geography produces an almost daily afternoon thermal wind ("Eric" to the windsurfers) that builds from gentle morning conditions to force 6 or 7 by mid-afternoon, ideal for beginners in the morning and advanced sailors later in the day.

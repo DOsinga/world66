@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 28.1960
 longitude: 112.9780
+score: 6.8
 ---
 
 Pozi Street is Changsha's main heritage commercial street, running through the old city centre with restored Qing and Republican-era facades lining a pedestrianised lane. The format — traditional architecture housing street food stalls, craft shops, and teahouses — is familiar from similar projects in other Chinese cities, but Changsha's version is denser and more genuinely food-focused than most. This is where locals come as much as tourists, particularly in the evenings.

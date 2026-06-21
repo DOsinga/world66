@@ -9,6 +9,7 @@ tags:
 - museum
 title: Columbus Museum of Art
 type: poi
+score: 6.9
 ---
 
 Not the most sweeping collection, but a solid regional art museum with a Rubens in the old masters gallery and a decent survey of Impressionism and Post-Impressionism. The range runs from Italian Renaissance to modern art. The children's wing is genuinely imaginative and worth visiting even without kids.

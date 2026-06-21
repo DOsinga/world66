@@ -7,6 +7,7 @@ tags:
 - sight
 title: Puntledge River
 type: poi
+score: 6.7
 ---
 
 The 22-km Puntledge runs out of Comox Lake, through downtown Courtenay, and into the Courtenay River estuary. It is the largest of the valley's salmon-bearing rivers — all five Pacific species spawn here — and a paved walking trail follows the lower riverbank for several kilometres past pools and gravel bars.

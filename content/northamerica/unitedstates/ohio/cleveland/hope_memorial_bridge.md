@@ -7,6 +7,7 @@ snippet: A 1932 truss bridge guarded by giant Art Deco Guardians of Traffic
 tags:
   - things_to_do
   - architecture
+score: 8.1
 ---
 
 The Hope Memorial Bridge carries Lorain–Carnegie Avenue across the Cuyahoga River and is anchored at each end by four monumental Art Deco figures — the Guardians of Traffic — each over forty feet tall and clutching a different mode of transport: a covered wagon, a stagecoach, an automobile, a truck. They were designed by Henry Hering in 1932 and are unique to Cleveland.

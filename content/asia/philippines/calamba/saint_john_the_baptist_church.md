@@ -7,6 +7,7 @@ tags:
 snippet: "Centuries-old parish church where José Rizal was baptised"
 latitude: 14.2135
 longitude: 121.1675
+score: 7.3
 ---
 
 The oldest church in Calamba, founded by Franciscans in the late 16th century and rebuilt several times after fires and earthquakes. The current façade dates largely from the 19th century. José Rizal was baptised here on 22 June 1861 — the entry in the parish register is still preserved.

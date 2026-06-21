@@ -15,6 +15,7 @@ tags:
   - swimming
 title: Zavratnica
 type: poi
+score: 9.2
 ---
 
 Zavratnica is the defining attraction near Jablanac — a narrow inlet that cuts 900 metres into the Velebit mountains, its sheer limestone walls rising to 100 metres on either side. The water inside is deep, still, and extraordinarily clear. Swimming here is one of the finest experiences on this stretch of the Adriatic coast: cool, sheltered, and completely different from the open sea beaches a few kilometres away.

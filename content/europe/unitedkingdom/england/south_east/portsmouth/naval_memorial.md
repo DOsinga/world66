@@ -8,6 +8,7 @@ tags:
   - sight
   - southsea
 neighbourhood: Southsea
+score: 7.1
 ---
 
 A 30-metre obelisk on Southsea Common, raised in 1924 to commemorate Royal Navy personnel of the First World War with no grave but the sea. Bronze panels around the base list 9,666 names. A separate Second World War extension behind the original memorial adds another 14,920 names.

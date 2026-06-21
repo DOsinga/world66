@@ -8,6 +8,7 @@ tags:
   - sight
   - old_town
 neighbourhood: Old Town
+score: 6.4
 ---
 
 The San Francisco Giants have done their Major League Baseball spring training in Scottsdale every February and March since 1984, playing at this 12,000-seat ballpark a couple of blocks south of Old Town. Cactus League spring training games are an institution of the southwestern winter — cheaper, looser, and more accessible than regular-season MLB.

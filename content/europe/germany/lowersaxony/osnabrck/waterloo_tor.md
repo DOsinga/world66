@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.2763
 longitude: 8.0388
+score: 5.8
 ---
 
 The Waterloo Gate — Waterloo-Tor — is an early nineteenth-century memorial arch built to commemorate the soldiers from Osnabrück who fought at Waterloo in 1815 as part of the British King's German Legion. It stands at the western edge of the old town, one of several historic gates and towers that survive from the city's earlier fortification system. The arch itself is neoclassical, modest in scale but well-proportioned, and carries inscriptions recording the names of those who died.

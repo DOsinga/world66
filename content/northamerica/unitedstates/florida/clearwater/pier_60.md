@@ -9,6 +9,7 @@ tags:
   - sight
 story: >
   Every evening, about two hours before sunset, Pier 60 transforms into an open-air festival. Street performers, craft vendors, and musicians set up along the pier and the surrounding park. The tradition has run nightly since 1994 and draws hundreds of people who gather to watch the sun drop into the Gulf of Mexico.
+score: 6.8
 ---
 
 Pier 60 juts 1,080 feet into the Gulf of Mexico from the heart of Clearwater Beach. It is open around the clock and serves as both a fishing pier and a gathering point for the nightly Sunsets at Pier 60 festival. You can rent fishing rods and buy a daily license on site, and the railing regulars pull in sheepshead, snook, and the occasional tarpon.

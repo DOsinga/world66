@@ -11,6 +11,7 @@ latitude: 13.5097
 longitude: 120.9273
 sources:
   - https://en.wikipedia.org/wiki/Puerto_Galera
+score: 7.7
 ---
 
 White Beach lives up to its name — a long crescent of pale sand facing a calm bay, lined with resorts and small restaurants. It is noticeably quieter than [Sabang](/asia/philippines/puerto_galera/sabang_beach), making it the preferred choice for families and anyone who wants to actually relax. The snorkelling just off the beach is decent, and kayaks and outriggers are available for rent along the shore.

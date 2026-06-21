@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: Downtown brewpub with rooftop deck and Cook Inlet views
+score: 6.7
 ---
 
 A spacious brewpub in downtown Anchorage with a rooftop deck overlooking Cook Inlet — one of the few drinking-with-a-view options in the city. Twenty taps of house and guest beer, a kitchen turning out solid burgers and seafood, and live music several nights a week. The Solstice IPA and the Baked Blonde are the regulars to try.

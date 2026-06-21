@@ -14,6 +14,7 @@ story: >
   so associated with the city that replicas appear on everything from taxi
   livery to hotel key cards. The original is 8.7 metres tall, carved from
   a single piece of granite.
+score: 6.8
 ---
 
 Lovers' Road is the coastal promenade that defines the character of Zhuhai's waterfront — a broad walkway extending for several kilometres along the eastern shore, with the sea to one side and gardens and low-rise buildings to the other. The views across to the Macau skyline are the best available from anywhere on the Chinese side: the casino towers of Cotai visible in the distance, with fishing boats working the straits in between.

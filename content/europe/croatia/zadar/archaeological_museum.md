@@ -6,6 +6,7 @@ longitude: 15.2247
 tags:
   - things_to_do
   - museum
+score: 8.4
 ---
 
 A three-floor museum facing the Roman forum, with collections covering prehistoric Liburnian culture through the Roman and early-medieval period in northern Dalmatia. The Roman gallery in particular is excellent — sarcophagi, glass, jewellery, the recovered architectural fragments from the forum itself.

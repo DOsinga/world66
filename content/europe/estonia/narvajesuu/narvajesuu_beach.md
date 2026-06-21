@@ -9,6 +9,7 @@ latitude: 59.4670
 longitude: 28.0410
 sources:
   - https://en.wikipedia.org/wiki/Narva-J%C3%B5esuu
+score: 7.2
 ---
 
 The beach at Narva-Jõesuu stretches for several kilometres along the Gulf of Finland, backed by dense stands of Scots pine that keep the sand cool even on the hottest summer days. The sand itself is fine and pale, the water shallow enough for families — and cold enough to feel genuinely refreshing in July. At the height of summer, Estonian families from as far as Tallinn make the drive east for the weekend.

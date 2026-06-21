@@ -6,6 +6,7 @@ longitude: 13.7700
 tags:
   - eating_out
   - restaurant
+score: 5.6
 ---
 
 A traditional alpine hut on the Loser plateau, reached by the panoramic road or the chairlift in summer. The fare is what mountain huts have served for centuries: Tiroler Gröstl, dumplings in clear broth, brettljause boards of cured ham and mountain cheese, apfelstrudel with cream. Tables outside have one of the best mountain panoramas in the region.

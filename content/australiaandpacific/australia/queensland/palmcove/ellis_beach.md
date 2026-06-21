@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: -16.7261
 longitude: 145.6725
+score: 6.9
 ---
 
 Ellis Beach is the last of the northern beaches before the Captain Cook Highway climbs into the hills above the Coral Sea. It sits in a small curved bay, tree-lined and unhurried, with a stinger net enclosure for safe wet-season swimming. The caravan park at one end has been here for decades and gives the place a pleasantly unpolished feel.

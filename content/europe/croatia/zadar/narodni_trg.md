@@ -6,6 +6,7 @@ longitude: 15.2300
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 The civic heart of the old town, Narodni Trg has been Zadar's main public square since the Renaissance — when the Venetian loggia (a long, columned building used as a public court and assembly hall) and the Town Guard House were built on its eastern side. Both buildings are still standing, the loggia now hosting exhibitions and the Guard House serving as an ethnographic museum.

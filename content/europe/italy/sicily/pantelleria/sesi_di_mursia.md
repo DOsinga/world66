@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Excavations have dated the Sesi village to around 1800–1600 BC, making it contemporary with the Aeolian Capo Graziano culture and the earliest Mycenaean palaces in Greece. Who exactly built it remains a mystery — the pottery is unlike anything else in the central Mediterranean, and the people seem to have abandoned the island around 1200 BC for no obvious reason."
+score: 8.3
 ---
 
 The Sesi are a group of Bronze Age corbelled stone tombs scattered across a windswept terrace above the sea at Mursia, on the south-west coast. Built between roughly 1800 and 1600 BC by an unknown people, they resemble Sardinian *nuraghi* in technique but not in form — round mounds of evenly-cut lava blocks, each containing one or several burial chambers reached through narrow passages.

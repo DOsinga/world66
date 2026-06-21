@@ -9,6 +9,7 @@ tags:
 - eating_out
 title: Fil-India Indian Restaurant
 type: poi
+score: 5.1
 ---
 
 A genuinely good Indian kitchen — rare in Eastern Visayas — set on the Coca Cola Rotunda just outside the city centre, near Robinsons Place. The menu runs through mutton, beef, chicken, fish, and vegetable curries in coconut, tomato, or yoghurt-based styles, plus biryanis and the usual breads. Spice levels can be dialled up on request. Mains around PHP 150-250.

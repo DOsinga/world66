@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 6.1304
 longitude: 1.2174
+score: 7.8
 ---
 
 The Musée National sits on Place de l'Indépendance, in the wing of the Maison du RPT — the old single-party headquarters of the Eyadéma years. It is small by international standards but useful: a single floor of well-displayed ethnographic objects from each of Togo's main cultural groups, including Ewe masks, Kabiyè iron work, Bassar pottery and a number of pre-colonial royal regalia.

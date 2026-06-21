@@ -6,6 +6,7 @@ longitude: 79.3100
 tags:
   - things_to_do
   - sight
+score: 5.4
 ---
 
 The Panchamukha Anjaneya Swami Temple — the Five-Faced Hanuman Temple — is one of Rameshwaram's most visited secondary shrines, dedicated to Hanuman in his five-faced form representing five different divine manifestations. The temple is included in most pilgrimage circuits and is particularly active on Tuesdays and Saturdays, the traditional days for Hanuman worship.

@@ -11,6 +11,7 @@ tags:
 title: Sol de Mayo
 type: poi
 url: restaurantsoldemayo.com
+score: 6.8
 ---
 
 Sol de Mayo has been running in Yanahuara since 1897 and is the standard against which Arequipa's other picanterías are judged. The dining room sits around a large interior patio with palm trees and live música criolla on weekends. The menu is a who's who of regional dishes — rocoto relleno, chupe de camarones, adobo, sopa Americana, ocopa — and all of them are done to a high standard.

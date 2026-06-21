@@ -8,6 +8,7 @@ tags:
   - sight
   - mosque
   - architecture
+score: 7.4
 ---
 
 A large turquoise-domed Friday mosque on the south side of Ordabasy Square, built in the 2010s in a deliberately old-Bukhara style — fluted dome, tall minaret, blue and green tile work. It is the largest mosque in the south of the country and a focal point of the city's Friday prayers, when the square overflows with the men of the surrounding districts.

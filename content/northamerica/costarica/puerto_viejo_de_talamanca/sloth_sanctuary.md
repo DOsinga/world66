@@ -8,6 +8,7 @@ tags:
 - sight
 title: Sloth Sanctuary
 type: poi
+score: 7.5
 ---
 
 The Aviarios Sloth Sanctuary, on the Estrella River about 20 minutes north of Puerto Viejo near Cahuita, was the first dedicated sloth-rescue centre in the world. Orphaned and injured sloths arrive here from across Costa Rica; those that recover are released into the surrounding forest, those that can't stay in the sanctuary's enclosures and garden.

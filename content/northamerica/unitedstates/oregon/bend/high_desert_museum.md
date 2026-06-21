@@ -16,6 +16,7 @@ story: >
   at a sagebrush.
 sources:
   - https://en.wikipedia.org/wiki/High_Desert_Museum
+score: 8.7
 ---
 
 The High Desert Museum, five miles south of Bend on Highway 97, is one of the Pacific Northwest's most engaging regional museums. It covers the natural and cultural history of the Columbia Plateau and Great Basin — an area that doesn't get the attention of the Cascades or the coast, but is richer and stranger than most people expect.

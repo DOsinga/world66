@@ -7,6 +7,7 @@ tags:
   - federal_hill
 latitude: 39.2768
 longitude: -76.6133
+score: 7.0
 ---
 
 Cross Street Market is Federal Hill's covered food market, a Baltimore institution that has been operating since 1846. The market was renovated in recent years and now combines traditional market stalls with a bar and communal eating area, making it as much a social space as a place to shop. Locals come here for oysters, crab, fresh produce, and a drink at the long bar in the centre.

@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Brahmin's Coffee Bar
 type: poi
+score: 7.4
 ---
 
 Brahmin's Coffee Bar in Basavanagudi has been serving the same breakfast since 1943: idli, vada, and filter coffee, and nothing else. The coffee arrives in a steel tumbler and davara, frothy and strong, and the idlis are as light as they should be but rarely are. No menu, no Wi-Fi, no music, no concessions to modernity of any kind. The place is tiny — a few tables in a narrow room with bare walls — and opens only in the morning until the food runs out, which it always does before noon.

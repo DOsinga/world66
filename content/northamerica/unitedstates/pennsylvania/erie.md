@@ -1,7 +1,11 @@
 ---
 done:
   location_cleanup: 2026-04-10
-  location_enrich: '2026-05-21'
+  location_enrich: '2026-06-03'
+image: erie.jpg
+image_attribution: dgjarvis10@gmail.com on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/22490717@N02/52770780865
 latitude: 42.129471
 loc_type: city
 longitude: -80.085269

@@ -14,6 +14,7 @@ story: >
   awoke, the cannon was already aimed down at their walls from the high ground
   above. The commander surrendered without firing a shot — one of the first
   American defeats of the War of 1812, and one of the most bloodless.
+score: 9.0
 ---
 
 Fort Mackinac sits on a limestone bluff 150 feet above the harbour, commanding views across the Straits of Mackinac that make immediately clear why both the British and Americans fought over this position. The fort was active from 1780 to 1895, passing between British and American hands twice during its early years, and its fourteen restored buildings now house some of Michigan's best historical interpretation.

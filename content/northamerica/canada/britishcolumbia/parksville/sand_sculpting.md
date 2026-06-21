@@ -7,6 +7,7 @@ tags:
 latitude: 49.317
 longitude: -124.312
 sources: []
+score: 6.9
 ---
 
 Every July and August, Parksville's beach hosts the Canadian Open Sand Sculpting Competition, one of the country's largest sand sculpting events. Professional sculptors from across Canada and internationally compete to build elaborate, often monumental figures in the sand — the standard of work is genuinely impressive, and the exhibition period that follows lets visitors walk among the finished pieces for several weeks.

@@ -14,6 +14,7 @@ story: >
   way to reach Bahrain from Saudi Arabia was by air or boat. Today more than
   twelve million crossings are made each year, mostly by Saudis heading to
   Bahrain for a weekend where alcohol is legal and entertainment more varied.
+score: 5.8
 ---
 
 The King Fahd Causeway is a 25-kilometre twin bridge connecting the Saudi city of Al-Khobar (adjacent to Dammam) to the island kingdom of Bahrain. Opened in November 1986, it is one of the longest causeways in the world and the sole road link between the two countries. A midpoint island checkpoint handles customs and immigration; Saudi nationals and residents can cross in either direction, and the causeway sees heavy weekend traffic.

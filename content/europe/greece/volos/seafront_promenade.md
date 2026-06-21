@@ -7,6 +7,7 @@ tags:
 latitude: 39.3625
 longitude: 22.9402
 snippet: "Pedestrianised waterfront lined with tsipouradika and cafes, best at dusk"
+score: 6.7
 ---
 
 The pedestrianised seafront promenade — the Papadiamantopoulou and the adjacent quays — is the centre of gravity of daily life in Volos. Tsipouradika, cafes, and tavernas line the waterfront in an almost unbroken run, and on warm evenings the whole city seems to be out: families, couples, groups of friends making their way along the quay with no particular destination. It is unhurried in the way that Greek cities at dusk tend to be, and it does not feel arranged for tourists.

@@ -7,6 +7,7 @@ tags:
 latitude: 19.0470
 longitude: -98.2030
 snippet: "Over 4,000 Mexican marionettes, shadow puppets, and political satire figures in a converted textile factory"
+score: 6.7
 ---
 
 A private museum housed in a former textile factory north of the historic centre, dedicated to the collection of puppetry assembled over decades by Puebla collector Roberto Morales. Over 4,000 puppets fill the rooms: Mexican marionettes with elaborate jointed limbs, shadow puppets of regional traditions, hand puppets, bullfighting marionette tableaux, and a striking collection of Día de los Muertos figures with articulated skeletons.

@@ -5,6 +5,7 @@ latitude: 33.656
 longitude: -117.8318
 snippet: "A 346-acre park with a lake and walking trails — a genuine green escape inside the suburban grid"
 tags: [things_to_do, nature]
+score: 6.5
 ---
 
 William R. Mason Regional Park is one of the larger green spaces in Irvine, covering 346 acres of grass, trees, and a central lake. In a city where most of the open space is decorative — the ornamental medians and village greens that are part of Irvine's branding — Mason Park is the real thing: a place where people actually go to spend an afternoon, walk a dog, have a picnic, or just sit somewhere that isn't a parking lot.

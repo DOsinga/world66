@@ -15,6 +15,7 @@ story: >
   behind walls up to 1.8 metres thick, with no ground-floor windows and a single
   iron-reinforced gate. When that gate was shut and the well inside provided water,
   the community inside could hold out for months.
+score: 4.4
 ---
 
 The Yongding Tulou are the most famous cluster of Hakka earthen roundhouses in Fujian, and the Hongkeng Folk Village is the most visited section of that cluster. The village packs in a dozen tulou of different sizes and periods, ranging from the showpiece **Zhencheng Lou** (1912) — a circular structure with a ground-floor ring laid out like an octagonal bagua symbol — to the tiny **Rusheng Lou**, barely 17 metres across and said to be the smallest tulou in the county.

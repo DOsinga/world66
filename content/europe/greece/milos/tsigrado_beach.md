@@ -5,6 +5,7 @@ tags:
   - beaches
 latitude: 36.6679
 longitude: 24.4895
+score: 7.6
 ---
 
 Tsigrado is the beach that earns its visitors. Getting down to it requires descending a wooden ladder bolted into the cliff face, then a short section of rope, then picking your way down a narrow rocky slot to reach the cove at the bottom. The whole descent takes a few minutes and is not technically difficult, but anyone with a strong dislike of heights or uncertain footing will find it uncomfortable. There is no other way in or out by land, which is precisely the point.

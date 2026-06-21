@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 59.5780
 longitude: 25.9540
+score: 6.8
 ---
 
 The beach at Võsu stretches for about three kilometres along the Baltic coast, backed by a belt of pine-covered dunes that keep the wind off and give the whole place a sheltered, peaceful feeling. The sand is wide and pale, and the shallow water warms up enough for comfortable swimming in July and August — Baltic summer is short but genuine. On a warm weekend afternoon, Estonians drive out from Tallinn (about 80 kilometres west) to fill the beach; on a Tuesday morning in late June it can feel like your private strip of coast.

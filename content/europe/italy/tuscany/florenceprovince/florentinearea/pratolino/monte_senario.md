@@ -8,6 +8,7 @@ latitude: 43.8953
 longitude: 11.3335
 sources:
   - https://en.wikipedia.org/wiki/Monte_Senario
+score: 7.5
 ---
 
 Monte Senario is a Servite monastery perched at 817 metres on a wooded ridge a few kilometres north of Pratolino. It was founded in 1234 by seven Florentine merchants who retreated from the city to live as hermits — the Seven Holy Founders of the Servite Order, all of whom were later canonised together. The monastery has been inhabited almost continuously since, except for a brief suppression during the Napoleonic period.

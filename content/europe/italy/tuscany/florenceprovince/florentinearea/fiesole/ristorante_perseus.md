@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.8065
 longitude: 11.2930
+score: 5.6
 ---
 
 Perseus is the most established restaurant on Piazza Mino, and one of the few places in Fiesole with a serious local following rather than just a passing tourist trade. The menu is straightforwardly Tuscan — bistecca alla fiorentina, ribollita, pappardelle with wild boar, seasonal vegetables from the Mugello hills above. Nothing is precious or reinvented; the kitchen has been cooking this food for decades and knows what it's doing.

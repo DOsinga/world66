@@ -14,6 +14,7 @@ story: >
   shallows. The Spanish called it "La Anegada" — the drowned one. Today the wrecks on 
   the reef floor attract both marine life and divers, creating an accidental underwater 
   museum stretching for kilometres.
+score: 8.5
 ---
 
 Horseshoe Reef wraps around the eastern and northern shores of Anegada, extending for kilometres and reaching depths that range from snorkellable shallows to 30-metre walls. It is one of the largest barrier reefs in the Caribbean, and over the centuries it has been one of the most dangerous — hundreds of ships lie on its floor, from Spanish galleons to 20th-century freighters.

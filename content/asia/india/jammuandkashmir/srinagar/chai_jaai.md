@@ -8,6 +8,7 @@ tags:
 latitude: 34.0920
 longitude: 74.8090
 address: "Nowhatta, Old City, Srinagar"
+score: 7.2
 ---
 
 A traditional kahwa house in the Nowhatta area of the old city, a short walk from the Jamia Masjid. Kahwa — the Kashmiri saffron green tea — is served from a copper samovar into small handle-less cups, and Chai Jaai does it properly: the tea is brewed with cardamom, cinnamon, and a few strands of genuine saffron, finished with a sprinkle of crushed almonds. The result is fragrant, warming, and entirely unlike anything else you will drink in India.

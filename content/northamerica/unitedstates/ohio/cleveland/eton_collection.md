@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Eton Collection
 type: poi
+score: 4.4
 ---
 
 A low-key shopping complex in Woodmere with a pleasant mix of independent boutiques and restaurants arranged around an outdoor streetscape and indoor atrium. It sits off I-271 near Beachwood Place and Legacy Village, and makes a convenient stop if you're heading to Chagrin Falls. Less hectic than the nearby malls, with better dining options too.

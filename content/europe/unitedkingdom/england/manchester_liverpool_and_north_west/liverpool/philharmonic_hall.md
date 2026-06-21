@@ -10,6 +10,7 @@ tags:
 - georgian_quarter
 title: Philharmonic Hall
 type: poi
+score: 8.2
 ---
 
 A handsome Art Deco concert hall on Hope Street, opened in 1939 and home to the Royal Liverpool Philharmonic Orchestra — the oldest continuously performing orchestra in the UK, founded in 1840. The hall is considered acoustically among the best in Britain and hosts a varied programme of classical concerts, jazz, comedy and film screenings.

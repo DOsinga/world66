@@ -8,6 +8,7 @@ snippet: "Restaurant in a restored noble house, the town's go-to for Maramureș 
 tags:
 - eating_out
 - restaurant
+score: 5.7
 ---
 
 In a restored 18th-century noble's house on the main square, Casa Iurca de Călinești is the most polished restaurant in Sighet and the place to try regional Maramureș cooking. The menu runs to *sarmale* (cabbage rolls with mince and rice), *tochitură* (pork stew with polenta and a fried egg), trout from the Iza valley, and game from the surrounding hills. The cellar has good Romanian wines, particularly from the Recaș and Murfatlar regions. Reservations advised at weekends.

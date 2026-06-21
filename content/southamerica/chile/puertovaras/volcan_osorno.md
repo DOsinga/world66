@@ -8,6 +8,7 @@ snippet: "Perfectly symmetrical 2,652-metre cone east of town with a small ski a
 latitude: -41.10000
 longitude: -72.49500
 story: "Volcán Osorno last erupted in 1869 and is now classified as dormant, but Chilean volcanologists watch it closely. Charles Darwin saw it erupting on the night of 19 January 1835 from the deck of HMS Beagle, while anchored two hundred kilometres further south, and described the spectacle in detail in The Voyage of the Beagle."
+score: 8.8
 ---
 
 Osorno, the symmetric snow-covered cone that dominates the view across Lago Llanquihue, is one of the most photogenic volcanoes in the Andes. It rises to 2,652 metres and looks impossibly perfect — locals call it the "Fujiyama of Chile." A paved road climbs from the lakeside village of Ensenada up the lower slopes to two chairlifts that operate year-round.

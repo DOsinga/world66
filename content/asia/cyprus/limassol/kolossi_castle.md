@@ -9,6 +9,7 @@ title: Kolossi Castle
 type: poi
 story: >
   Kolossi was the headquarters of the Knights Hospitalier in Cyprus from the 14th century, and the estate produced the famous Commandaria wine — a sweet fortified wine made from dried grapes that has been produced in the area for at least 800 years. Richard the Lionheart is said to have toasted his wedding with it in 1191. Commandaria is named after the Commanderie (the Hospitaller estate) at Kolossi, and is believed to be the world's oldest wine still in commercial production.
+score: 8.3
 ---
 
 Kolossi Castle, 14 kilometres west of Limassol, is the best-preserved medieval castle in Cyprus — a compact, well-maintained Lusignan tower house dating from the 15th century, built on the site of an earlier fortification. The castle served as the headquarters of the Knights Hospitalier in Cyprus and later as the administrative centre of the sugar cane and wine estates they controlled in this fertile corner of the island.

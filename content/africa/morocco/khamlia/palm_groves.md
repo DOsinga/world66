@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, walking]
 latitude: 31.0348
 longitude: -4.0085
+score: 6.4
 ---
 
 A narrow band of date palms and tamarisk trees runs along the edge of Khamlia, fed by subsurface water that the dunes somehow channel toward the village. It is small enough to walk through in half an hour and easy enough to miss if you head straight for the dunes — which would be a small shame. The shade is welcome in summer, and the contrast between the soft green of the palms and the orange wall of sand behind them is one of those desert sights that photographs can only approximate.

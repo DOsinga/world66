@@ -8,6 +8,7 @@ snippet: Sixteenth-century cellar that has run a serious jazz programme for fort
 tags:
 - bars_and_cafes
 - university_quarter
+score: 6.8
 ---
 
 The Cantina Bentivoglio occupies the vaulted brick cellars of a sixteenth-century palazzo just off Piazza Verdi. Live jazz seven nights a week makes it the city's best-known music venue — small enough that even the back row is close to the stage.

@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 11.4685
 longitude: -86.1220
+score: 7.5
 ---
 
 Guasacate is the beach break a short walk south of the main Popoyo reef, and the better option for beginners and intermediate surfers who want a more forgiving wave. The sand bottom means wipeouts are less punishing, and the peak breaks in both directions on most swells.

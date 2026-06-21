@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 71.1725
 longitude: 25.7844
 story: The North Cape globe monument was not placed at the true northernmost point of Europe — that honour belongs to Knivskjelodden, a peninsula to the west accessible only on foot. The plateau became famous after King Oscar II visited in 1873, and tourism has been building ever since, though the wind and the sheer drop to the Arctic Ocean below never stop feeling raw and real.
+score: 8.0
 ---
 
 The North Cape plateau rises 307 metres above the Arctic Ocean at the northern tip of Magerøya island, and most people who come to this part of Norway come specifically to stand on it. The famous steel globe sculpture sits at the edge of the cliff, and on a clear day the view north is nothing but open sea until the polar ice cap. The horizon is genuinely the Arctic Ocean.

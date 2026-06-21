@@ -14,6 +14,7 @@ story: >
   cannot be developed, the seven-mile stretch of beach has remained completely
   wild since the park was established. Shorebirds nest here undisturbed by the
   thousand or so visitors who arrive daily by boat in high season.
+score: 8.3
 ---
 
 Shell Island is an undeveloped barrier island sitting across the inlet from St. Andrews State Park, accessible only by boat. There are no facilities, no vendors, and no cars — just seven miles of white beach and dune scrub. Small ferries run from the state park marina and from various outfitters along the main strip.

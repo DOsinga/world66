@@ -8,6 +8,7 @@ tags:
   - historic_house
 latitude: 44.5228
 longitude: -69.8872
+score: 5.8
 ---
 
 The Birches is a private summer cottage on Foster Lane, just south of the village, built in 1900 in the shingle style that defined the first generation of Maine lake camps. It is a rare and unaltered survival of the period when wealthy families from New York, Boston and Philadelphia first began building substantial summer homes on the Belgrade chain, and it is listed on the National Register of Historic Places.

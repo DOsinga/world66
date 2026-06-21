@@ -10,6 +10,7 @@ phone: "202-633-1000"
 url: "hirshhorn.si.edu"
 latitude: 38.8882
 longitude: -77.0230
+score: 7.8
 ---
 
 The Hirshhorn is the Smithsonian's dedicated modern and contemporary art museum, housed in a striking cylindrical building designed by Gordon Bunshaft that opened in 1974. Where the other Smithsonian museums tend toward permanent collections displayed in familiar arrangements, the Hirshhorn rotates its exhibitions frequently, so repeat visits rarely feel the same.

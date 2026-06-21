@@ -6,6 +6,7 @@ tags:
   - sight
 title: Mount Uluigalau
 type: poi
+score: 7.8
 ---
 
 Mount Uluigalau is Taveuni's highest point at 1,241 metres, and the second-highest peak in Fiji. The mountain sits at the centre of the island's volcanic massif and is surrounded by dense rainforest, much of it within Bouma National Heritage Park. On clear days the summit offers views over both coasts of the island and across the Somosomo Strait to Vanua Levu.

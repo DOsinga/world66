@@ -15,6 +15,7 @@ story: >
   the machinery still in place, the workers' personal belongings still in the lockers,
   and decades of manufacturing records intact — as if the workforce had simply not come
   in one morning.
+score: 8.7
 ---
 
 A preserved Victorian factory in the Jewellery Quarter that manufactured coffin fittings and funeral furniture for over a century. The building is largely intact as it was on the day it closed in 1998: the same machinery, the same cramped workrooms, the same clocking-in system. It is now a museum, managed by the Birmingham Conservation Trust.

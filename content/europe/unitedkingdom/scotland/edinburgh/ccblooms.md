@@ -10,6 +10,7 @@ tags:
 - club
 title: CC Blooms
 type: poi
+score: 6.3
 ---
 
 The biggest gay bar and club in Edinburgh, two floors at the foot of Calton Hill. Everyone complains about it, everyone ends up there. Open every night until 3am with cheap drinks, a packed dance floor and a friendly mixed crowd.

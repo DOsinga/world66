@@ -14,6 +14,7 @@ tags:
 - gamla_stan
 title: The German Church
 type: poi
+score: 7.7
 ---
 
 The Tyska kyrkan (German Church) rises above Gamla Stan with its distinctive copper spire, one of the Old Town's most recognizable landmarks. Founded in the 14th century by Stockholm's German merchant community, the current building dates mostly from the 17th century. Inside, the ornate royal gallery and elaborate baroque pulpit are the highlights — richly carved and gilded, a reminder of how wealthy and influential the German trading community once was.

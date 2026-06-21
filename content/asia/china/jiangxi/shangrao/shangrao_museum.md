@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 28.4545
 longitude: 117.9685
+score: 6.4
 ---
 
 The Shangrao Museum covers the history of the prefecture with an emphasis on the extraordinary cultural geography of the region — the meeting point of Jiangxi, Zhejiang, Fujian, and Anhui. The collection includes examples of local porcelain and ceramics influenced by the proximity to Jingdezhen, Qing-dynasty documents from the Huizhou merchant community who built the Wuyuan villages, and natural history exhibits covering the Sanqingshan geology and the ecological diversity of the region's mountain ranges.

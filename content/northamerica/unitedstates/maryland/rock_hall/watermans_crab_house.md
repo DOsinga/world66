@@ -8,6 +8,7 @@ tags:
 snippet: "Outdoor crab deck on the harbour with steamed crabs by the dozen"
 latitude: 39.13530
 longitude: -76.24450
+score: 6.8
 ---
 
 Watermans is the kind of crab house Maryland is famous for and Rock Hall depends on. Long picnic tables under a tin roof on a deck right over the water, crab mallets, paper towels, brown paper down the middle of the table, and a Bud Light in your hand. You order steamed blue crabs by the dozen and crack them yourself.

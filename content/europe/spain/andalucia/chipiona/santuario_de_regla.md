@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 8.0
 ---
 
 The Sanctuary of Our Lady of Regla is Chipiona's spiritual centre — a Franciscan monastery on the seafront, founded in the fourteenth century, rebuilt in neo-gothic style in the nineteenth, and home to a small wooden statue of the Virgin that is the object of one of the most attended pilgrimages in Andalucía. On the second Sunday of September the streets of Chipiona fill with pilgrims from across the south, many on horseback, for the Romería de la Virgen de Regla.

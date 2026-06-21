@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Proleek_Dolmen
   - https://heritageireland.ie/unguided-sites/proleek-dolmen/
+score: 7.6
 ---
 
 Proleek Dolmen is one of the finest portal tombs in Ireland, a Neolithic monument dating to approximately 3000–2500 BC located 4 km northeast of Dundalk in a peaceful field beside Ballymascanlan Hotel. Three upright stones support a massive 47-tonne granite capstone, creating the characteristic mushroom shape of a portal tomb. The site is in good condition and freely accessible.

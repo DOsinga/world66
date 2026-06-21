@@ -14,6 +14,7 @@ story: >
   meaning the great minaret at the heart of Marrakech is a direct descendant of a building
   in this mountain village. It is one of only two mosques in Morocco that non-Muslims are
   permitted to enter.
+score: 8.1
 ---
 
 Tin Mal Mosque sits about an hour's drive south of Ouirgane along the road to Tizi n'Test, in the village of Tinmel. It was built in 1156 to commemorate Ibn Tumart, the religious scholar who founded the Almohad dynasty and launched his reform movement from this remote valley. When the Almohads went on to conquer most of North Africa and Andalusia, they brought the architectural ideas worked out here with them — the Koutoubia mosque in Marrakech was modelled directly on Tin Mal.

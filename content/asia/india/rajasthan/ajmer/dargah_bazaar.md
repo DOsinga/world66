@@ -7,6 +7,7 @@ tags:
   - shopping
   - market
   - things_to_do
+score: 7.3
 ---
 
 The lane leading up to the Dargah's Nizam Gate is the most concentrated and atmospheric bazaar in Ajmer. Vendors sell rose petals by the basket, attar perfume in small glass bottles, embroidered chadors, prayer caps and miniature framed images of the saint. Sweet shops along the route sell motichoor laddoos and Dargah-style biryani.

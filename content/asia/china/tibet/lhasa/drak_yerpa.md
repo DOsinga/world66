@@ -8,6 +8,7 @@ tags:
 - historical_site
 title: Drak Yerpa
 type: poi
+score: 8.6
 ---
 
 Drak Yerpa is a cluster of meditation caves and chapels carved into a limestone cliff thirty kilometres east of Lhasa. Padmasambhava, the Indian master who brought tantric Buddhism to Tibet in the 8th century, is said to have meditated here, as did the Bengali sage Atisha three centuries later. King Songtsen Gampo's consorts retired here for contemplation. Even by the standards of Tibetan sacred geography, the density of associations is high.

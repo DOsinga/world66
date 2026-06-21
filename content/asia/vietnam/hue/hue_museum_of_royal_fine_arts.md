@@ -12,6 +12,7 @@ story: >
   private retreat for reading and composing poetry. After France took control of Vietnam,
   the palace served as the residence of the Governor-General of Indochina before being
   converted into a museum in 1923.
+score: 7.7
 ---
 
 Housed in Long An Palace inside the Imperial Enclosure, the Hue Museum of Royal Fine Arts holds the most significant collection of Nguyen dynasty objects in Vietnam — bronze ritual vessels, ceramics, jade carvings, royal furniture, embroidered imperial robes, and weapons. The palace itself, built in 1845, is one of the best-preserved structures in the Citadel complex, with elaborate woodcarving covering its interior columns and screens.

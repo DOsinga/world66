@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 50.55
 longitude: -4.1442
+score: 6.8
 ---
 
 The town hall on Bedford Square is the centrepiece of the Duke of Bedford's mid-nineteenth century rebuild of Tavistock. It is a confident Gothic Revival pile in local green granite, designed by Edward Rundle and completed in 1864, with a steep slate roof and a clock tower that anchors the view from every direction.

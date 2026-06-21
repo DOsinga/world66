@@ -6,6 +6,7 @@ latitude: 25.4423
 longitude: 81.8209
 story: >
   Khusro, after whom the garden is named, was the eldest son of Emperor Jahangir — and his father's enemy. He led a failed rebellion against Jahangir in 1606 and was subsequently blinded and imprisoned. He died in captivity in 1622, and the tomb in this garden was built for his mother, Shah Begum, who chose to build here after Akbar. The garden's melancholy beauty suits its history: a place of powerful people broken by the politics of empire.
+score: 7.7
 ---
 
 Khusro Bagh is a large walled Mughal garden near Prayagraj Junction railway station, containing three remarkable sandstone mausoleums from the early 17th century. The tombs belong to Prince Khusro (eldest son of Emperor Jahangir), his mother Shah Begum, and his sister Nithar Begum. All three are built in the same restrained but elegant Mughal style, with carved screens, domed chambers, and delicate stonework.

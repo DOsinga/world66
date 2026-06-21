@@ -8,6 +8,7 @@ tags:
 title: Tikrit Citadel
 type: poi
 story: "The citadel's origins go back to the Abbasid period, when Tikrit was an important crossing point on the Tigris and a garrison town on the northern frontier. The site was developed and modified by successive rulers over centuries, and its commanding position above the river made it a natural fortification long before the Abbasid caliphs took an interest in it."
+score: 7.4
 ---
 
 The citadel sits on a bluff above the western bank of the Tigris, dominating the bend in the river that made Tikrit strategically valuable for centuries. It was badly damaged during the fighting that accompanied the ISIS occupation and the subsequent recapture of the city in 2015, and parts of it remain unstable.

@@ -8,6 +8,7 @@ latitude: 29.3499
 longitude: 110.4352
 story: >
   The column known as Avatar Hallelujah Mountain was renamed in 2010 — originally called Southern Sky Column, it was officially rechristened after James Cameron confirmed that Zhangjiajie's landscape had been a reference point for Avatar's floating Hallelujah Mountains. The park administration reportedly sought and received permission from Fox before changing the name. The original Southern Sky Column designation still appears on older maps.
+score: 9.1
 ---
 
 The Yuanjiajie plateau is the section of Wulingyuan most visitors prioritise, and for good reason: it holds the highest concentration of dramatic viewpoints and is the area that became globally recognizable after the Avatar films. The plateau is reached by the Bailong Elevator from the valley, or by cable car from Wulingyuan village, or on foot via steep mountain paths.

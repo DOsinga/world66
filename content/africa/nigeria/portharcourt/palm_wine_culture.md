@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - old_gra
   - bar
+score: 7.4
 ---
 
 Palm wine — the naturally fermented sap of the raffia or oil palm — is central to social life across the Niger Delta, and Port Harcourt still has drinking spots that serve it fresh. The wine is tapped from the cut palm and is lightly alcoholic, slightly fizzy, and almost sweet when fresh. It ferments rapidly; within twelve hours of tapping it becomes much stronger and more acidic.

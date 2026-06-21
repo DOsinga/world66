@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
 snippet: "The working fishing harbour — brightly painted boats, the morning fish auction, and the best seafood restaurants on the waterfront"
+score: 7.8
 ---
 
 A genuinely working harbour rather than a marina, with a fleet of small inshore boats that go out for shellfish, octopus, and sardines and come back to the dock around midday. The **fish auction (lonja)** at the harbour-side market is open to anyone who arrives early enough — Monday to Friday, around 12:30 — and is loud, fast, and theatrical. Restaurant buyers from across Galicia bid against each other for the best catch.

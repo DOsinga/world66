@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, neighbourhood]
 latitude: 45.6778
 longitude: 13.3886
+score: 8.1
 ---
 
 The centro storico of Grado occupies the western tip of the island, a compact maze of narrow paved calli and small campielli that recalls a miniature, low-rise Venice. The houses are typically two or three storeys, painted in warm pastels, with stone door frames and washing strung between balconies in the summer.

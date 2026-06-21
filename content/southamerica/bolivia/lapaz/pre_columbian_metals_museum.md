@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museo de Metales Preciosos Precolombinos
 type: poi
+score: 8.1
 ---
 
 The Museo de Metales Preciosos Precolombinos (Museum of Pre-Columbian Precious Metals) is on [Calle Jaén](/southamerica/bolivia/lapaz/calle_jaen), the best-preserved colonial street in La Paz, and it occupies one of the old whitewashed houses along the block. The collection focuses on metalwork from the cultures that preceded and surrounded the Inca: Tiwanaku objects in gold and bronze, ornaments and ritual figures, tools and weapons. The craftsmanship is remarkable in ways that photographs do not capture — the weight and finish of the objects, the precision of the casting, the scale of things made without industrial tools.

@@ -13,6 +13,7 @@ story: At the very top of the falls, perched on a cliff ledge 120 metres above t
   Tesla over Edison — helped establish AC as the standard for long-distance power transmission.
   The building is only accessible by a steep trail or in winter by ice climbers who
   use the frozen falls as their route.
+score: 8.8
 ---
 
 At 99 metres, Bridal Veil Falls is the tallest free-falling waterfall in Colorado, dropping in a single white curtain from the headwall at the east end of the box canyon down into the valley below. It is visible from almost anywhere in town, a permanent backdrop that makes Telluride's setting even more theatrical than it would otherwise be.

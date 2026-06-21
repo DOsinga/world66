@@ -11,6 +11,7 @@ story: >
   construction in terrain so sheer that all materials had to be delivered by helicopter,
   it was the largest aerial tramway in the world. Workers were lowered by rope to hand-drill
   the anchor bolts for the support towers into sheer granite faces no vehicle could reach.
+score: 9.2
 ---
 
 The most dramatic thing you can do in Palm Springs is take the rotating cable car from the desert floor at 811 metres up to the Mountain Station at 2,596 metres on the shoulder of Mount San Jacinto. The 10-minute ride passes through five distinct ecological zones — from Sonoran Desert scrub to subalpine forest — and the temperature at the top is typically 15 to 20°C cooler than at the bottom.

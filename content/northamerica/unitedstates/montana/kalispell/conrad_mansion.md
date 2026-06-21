@@ -15,6 +15,7 @@ story: >
   founding the town — and filled it with original furnishings that have stayed
   largely intact ever since, making it one of the best-preserved Victorian
   interiors in Montana.
+score: 8.1
 ---
 
 The Conrad Mansion is the best single stop in Kalispell, a 26-room Norman Revival manor built in 1895 for the town's founder, Charles Conrad. Tours take you through a house full of original furnishings — painted ceilings, carved woodwork, period clothing, and the personal effects of the family that lived here until 1975. It's the kind of house that makes the frontier era feel genuinely lived-in rather than reconstructed.

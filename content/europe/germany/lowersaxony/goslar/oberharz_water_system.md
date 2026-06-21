@@ -7,6 +7,7 @@ tags:
 - sight
 title: Oberharz Water Management System
 type: poi
+score: 8.0
 ---
 
 The Rammelsberg and the deeper mines higher in the Harz could not have operated without enormous quantities of moving water. From the thirteenth century onward, the foresters and engineers of the Oberharz built a system of dams, ponds, and channels that captured rain and snowmelt and routed it down to the wheels that pumped the mines and crushed the ore. By 1900 there were more than 100 ponds and 500 kilometres of ditches.

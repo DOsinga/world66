@@ -10,6 +10,7 @@ title: Valle de la Concepción
 type: poi
 story: >
   Bolivian wine was largely unknown outside the country until the late 1990s, when Tarija producers began entering international competitions. The valley's extreme conditions — high altitude, intense UV radiation, and a wide diurnal temperature range — produce grapes with unusual concentration. The Tannat grape, which thrives here better than in almost anywhere else in South America, produces deeply colored wines that have surprised European judges who expected little from Bolivia.
+score: 8.5
 ---
 
 The Valle de la Concepción is the centre of Bolivian viticulture — a warm, sheltered valley 15 km south of Tarija where the Concepción and Kohlberg wineries produce Bolivia's best-known bottles. The altitude (around 1,700 metres in the valley floor) and the dramatic temperature swings between night and day give the grapes an intensity that wine from lower elevations rarely achieves.

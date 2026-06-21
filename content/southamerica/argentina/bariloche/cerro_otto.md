@@ -7,6 +7,7 @@ tags:
 latitude: -41.1442
 longitude: -71.3763
 snippet: "Cable car to a 1,400 m peak with a rotating restaurant"
+score: 7.2
 ---
 
 Cerro Otto rises to 1,405 metres just five kilometres west of Bariloche. The cable car climbs out of Avenida de los Pioneros and lifts visitors to a summit station with a famously rotating panoramic restaurant, opened in 1980 — one full rotation per coffee. The view sweeps across Nahuel Huapi to the Cuernos del Catedral and out toward the Chilean border.

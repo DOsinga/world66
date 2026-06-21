@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 26.5272
 longitude: -80.0650
+score: 5.8
 ---
 
 Ocean Avenue runs east-west from US-1 to the beach, and the stretch from Seacrest Boulevard to the water has become Boynton Beach's revived downtown strip. The area had long been quiet — a victim of the suburban sprawl that pulled activity away from old downtowns — but a push over the past decade brought new restaurants, breweries, a weekly green market, and events that draw people from across the county.

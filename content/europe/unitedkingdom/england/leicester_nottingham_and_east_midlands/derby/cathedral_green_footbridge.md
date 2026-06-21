@@ -8,6 +8,7 @@ latitude: 52.9252
 longitude: -1.4755
 sources:
   - https://en.wikipedia.org/wiki/Cathedral_Green_Footbridge
+score: 6.7
 ---
 
 Cathedral Green is a riverside open space just east of the Cathedral Quarter where the Derwent makes a bend below the old town. The Cathedral Green Footbridge, a pedestrian and cycle swing bridge opened in 2008, connects the green to the opposite bank and completes a riverside walking circuit from the Silk Mill downstream to the Cathedral. It is a pleasant piece of contemporary engineering in a setting that makes the most of the river.

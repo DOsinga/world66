@@ -6,6 +6,7 @@ tags:
   - shopping
 latitude: 37.7666
 longitude: -120.7913
+score: 6.6
 ---
 
 A small family-run cheese factory on Highway 120 a few kilometres east of town, started by a Dutch family who brought their gouda recipes with them from the Netherlands. The shop sells the full range — young, aged, smoked, and herbed goudas — along with imported Dutch groceries, sandwiches and ice cream, and you can usually watch the cheesemakers at work through the production-floor windows on weekday mornings.

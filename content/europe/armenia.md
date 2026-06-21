@@ -14,7 +14,7 @@ quick_facts:
   Religion: "97% Armenian Apostolic Christian"
   First Christian Nation: "Adopted in 301 AD"
   Chess: "Compulsory school subject since 2011"
-score: 0.41
+score: 0.69
 title: Armenia
 type: location
 loc_type: country

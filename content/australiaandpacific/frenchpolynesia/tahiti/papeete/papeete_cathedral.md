@@ -9,6 +9,7 @@ tags:
   - architecture
   - church
 story: "Construction took 30 years — from 1856 to 1886 — because the small Catholic congregation had to import most of the building materials from France. The site was a gift from Queen Pōmare IV, who tolerated rather than welcomed the French Catholic mission; her preference, like that of most Tahitians at the time, was the older London Missionary Society Protestants."
+score: 7.4
 ---
 
 The Cathédrale de Papeete Notre-Dame de L'Immaculée Conception sits on the rue du Général de Gaulle a block back from the waterfront. Twin-towered, painted yellow and white, it is the prettiest colonial building in the city — though "pretty" is a low bar in Papeete — and the cathedral of the Catholic Archdiocese of Papeete.

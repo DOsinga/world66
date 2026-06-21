@@ -6,6 +6,7 @@ tags:
 - books
 title: Moon Handbooks Fiji
 type: poi
+score: 7.5
 ---
 
 A comprehensive guide to Fiji by veteran South Pacific writer David Stanley. Covers all the main islands with practical detail and good background on history and culture. Older editions are still useful for the non-resort side of Fiji.

@@ -6,6 +6,7 @@ longitude: -6.6186
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 A well-preserved Iron Age broch a few kilometres north of Dunvegan village, standing on a low promontory above the loch. The drystone walls still rise to a few metres in places and the circular plan is clear; the interior arrangements — guard cells, intramural staircase — can be made out with a little patience.

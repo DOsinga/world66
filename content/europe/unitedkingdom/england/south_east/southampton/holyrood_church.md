@@ -10,6 +10,7 @@ tags:
   - architecture
 snippet: Ruined medieval church preserved as a memorial to merchant sailors and Titanic victims
 story: "The church was burned out by a Luftwaffe raid on the night of 30 November 1940. The roofless shell was preserved as a war memorial to the Merchant Navy and to the Titanic crew, particularly the stewards from the parish. Among those who worshipped here in the early 1900s were several of the Titanic's officers."
+score: 7.5
 ---
 
 The roofless shell of a medieval church on the High Street, kept as a memorial to merchant seamen lost at sea and to the crew of the Titanic. The original twelfth-century church served the parish of merchants and ship workers around the medieval port. On 30 November 1940 it was burned out by German incendiaries; the walls and arcades survived, and the city decided to preserve the ruin rather than rebuild.

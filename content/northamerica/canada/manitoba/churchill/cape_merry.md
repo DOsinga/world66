@@ -8,6 +8,7 @@ tags:
 latitude: 58.7789
 longitude: -94.1875
 snippet: Cannon battery ruins at the tip of the peninsula overlooking Hudson Bay
+score: 6.8
 ---
 
 Cape Merry is the rocky promontory at the northern tip of the Churchill peninsula, 2 km from town on a walkable trail along the river. The crumbling remains of an 18th-century cannon battery built to defend the river mouth still stand here, with a single cannon pointing at the water. The views across to Prince of Wales Fort on the opposite shore and out over Hudson Bay are wide and excellent.

@@ -15,6 +15,7 @@ title: Yablunytsia Pass
 type: poi
 sources:
 - https://en.wikipedia.org/wiki/Yablunytsia_Pass
+score: 7.0
 ---
 
 Yablunytsia Pass sits at 931 metres and carries the main road through the Carpathians between Vorokhta and the lower Carpathian foothills to the northwest. The pass is a natural stopping point on the road between Yaremche and the high mountain towns, and the views from the top of the road cut are excellent — a wide panorama across the forested ridges with the Chornohora peaks rising to the south.

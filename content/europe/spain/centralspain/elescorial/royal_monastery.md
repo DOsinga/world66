@@ -16,6 +16,7 @@ story: >
   gridiron — on which he was roasted alive — and the monastery's austere grid plan of courtyards,
   towers, and corridors is said to be a deliberate architectural echo of that instrument. Philip approved
   the design personally and oversaw construction from a granite seat carved into the hillside above.
+score: 9.8
 ---
 
 The Royal Monastery of San Lorenzo de El Escorial is one of the great buildings of the Renaissance world. Philip II commissioned it in 1563 as a monastery, royal palace, library, and dynastic mausoleum combined — a statement of Counter-Reformation piety and Habsburg power built in granite over the course of 21 years. It is vast, geometrically severe, and utterly unlike anything else in Spain.

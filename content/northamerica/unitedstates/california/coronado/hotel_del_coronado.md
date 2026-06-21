@@ -10,6 +10,7 @@ latitude: 32.6809
 longitude: -117.1784
 sources:
   - https://en.wikipedia.org/wiki/Hotel_del_Coronado
+score: 8.9
 ---
 
 The Del, as regulars call it, is one of the last grand Victorian seaside resorts in the United States. Built in 1888 entirely without electric lights — Thomas Edison personally installed the electrical system a year later — the red-roofed wooden building with its conical towers and wrap-around verandas sprawls across the beach in a way that feels almost theatrical. Even if you are not staying here, the public areas are worth exploring: the Crown Room with its sugar-pine ceiling (assembled without a single nail), the long seafront terrace, and the broad beach that stretches in front of it.

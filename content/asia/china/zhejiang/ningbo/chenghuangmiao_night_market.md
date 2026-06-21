@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 29.867
 longitude: 121.549
+score: 6.4
 ---
 
 The Chenghuangmiao area around the City God Temple is Ningbo's most atmospheric street food district, with a concentration of stalls and small restaurants that serve the full range of Ningbo snacks: *tang yuan* (glutinous rice balls in broth), fermented tofu preparations, stewed offal, *ci fan* (sticky rice rolls with various fillings), and grilled items on skewers. The market is most active in the evenings from around 6pm until midnight.

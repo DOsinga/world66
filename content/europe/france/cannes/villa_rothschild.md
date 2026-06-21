@@ -9,6 +9,7 @@ latitude: 43.5516
 longitude: 7.0025
 sources:
   - https://en.wikipedia.org/wiki/Villa_Rothschild
+score: 6.9
 ---
 
 The Villa Rothschild is a 19th-century mansion in the Croix-des-Gardes district west of the Croisette, surrounded by a park of rare trees and Mediterranean gardens. The villa was built for the Rothschild banking family and has served various purposes over the years, including as a military hospital in both World Wars. Today it functions as a media library and cultural centre managed by the city.

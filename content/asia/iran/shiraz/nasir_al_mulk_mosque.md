@@ -13,6 +13,7 @@ tags:
 - sight
 title: Nasir al-Mulk Mosque
 type: poi
+score: 9.0
 ---
 
 Built in the 1880s during the late Qajar period, the Nasir al-Mulk Mosque — universally known as the Pink Mosque for the rose-pink tiles that cover much of its façade — is one of the most photographed buildings in Iran. The exterior tilework is exquisite, but the real reason to come is the western winter prayer hall, where stained-glass windows fill the room with coloured light at sunrise.

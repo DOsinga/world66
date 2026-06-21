@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 19.8905
 longitude: 102.1370
+score: 6.8
 ---
 
 Tamarind is the most consistently praised restaurant in Luang Prabang for traditional Lao food. It sits in a wooden house near the Royal Palace and focuses on dishes that many restaurants in town don't bother with: jeow (Lao dipping sauces served with sticky rice), mok pa (fish steamed in banana leaves), and a wide selection of the fermented and preserved ingredients that define authentic Lao home cooking.

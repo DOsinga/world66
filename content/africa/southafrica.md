@@ -14,7 +14,7 @@ quick_facts:
   Currency: Rand (ZAR)
   Official Languages: "11"
   Capitals: "3"
-score: 0.48
+score: 0.86
 title: South Africa
 type: location
 loc_type: country

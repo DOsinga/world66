@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-01'
 image: buljarica.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Buljarica_beach.jpg
@@ -12,8 +13,8 @@ title: Buljarica
 type: location
 ---
 
-Buljarica is a small, low-key resort village on the coast south of [Budva](/europe/montenegro/budva), about 2km from Petrovac. The main draw is the beach — a long, wide stretch of sand and fine pebble that's significantly less crowded than the Budva beaches in summer. The village is quiet, without the nightlife or resort infrastructure of Budva.
+Buljarica is a small, low-key resort village on the coast south of [Budva](/europe/montenegro/budva), about 2km from [Petrovac](/europe/montenegro/buljarica/petrovac_old_town). The main draw is the [beach](/europe/montenegro/buljarica/buljarica_beach) — a long, wide stretch of sand and fine pebble that's significantly less crowded than the Budva beaches in summer. The village is quiet, without the nightlife or resort infrastructure of Budva.
 
-A small stream flows into the sea at Buljarica, creating a marshy area behind the beach that attracts birds. The beach itself is backed by the lower slopes of the mountains, with olive groves above.
+A small stream flows into the sea at Buljarica, creating a [marshy area](/europe/montenegro/buljarica/buljarica_marsh) behind the beach that attracts birds. The beach itself is backed by the lower slopes of the mountains, with olive groves above and the 14th-century [Gradište Monastery](/europe/montenegro/buljarica/gradiste_monastery) on the hill behind.
 
 Buljarica is good for a day trip from Budva or as a base if you want a quieter coast experience close to the main resort area. There are a few small restaurants and apartment rentals, but accommodation options are limited compared to Budva or Petrovac.

@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 49.3917
 longitude: -122.9494
+score: 8.7
 ---
 
 Mount Seymour is the easternmost and quietest of the North Shore mountains — a 3,500-hectare provincial park rising to 1,455 metres at Mount Seymour summit, with a small ski operation on the south face in winter and an extensive trail network through old-growth hemlock and Western red cedar in summer.

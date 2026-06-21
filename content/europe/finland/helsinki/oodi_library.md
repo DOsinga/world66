@@ -9,6 +9,7 @@ story: Oodi opened in 2018 to mark the centenary of Finnish independence. It con
   far fewer books than a building of its size could hold — most of the space is
   given over to meeting rooms, recording studios, sewing machines, 3D printers, and
   the simple act of sitting somewhere warm.
+score: 9.4
 ---
 
 The flagship of Helsinki's central library system, opposite the Parliament Building. The undulating timber-and-glass volume by ALA Architects is built like an upside-down ship — a steel arch spanning 100 metres lifts the roof clear of internal columns, so the top-floor reading room is a single column-free space looking out over Töölö Bay and the city.

@@ -8,6 +8,7 @@ tags:
 latitude: 9.0580
 longitude: 7.4810
 snippet: Abuja's main venue for Nigerian art and cultural exhibitions
+score: 6.9
 ---
 
 The Abuja Arts and Culture Centre (also known as the National Arts and Culture Centre) is Abuja's main facility for Nigerian art exhibitions and cultural events. The galleries rotate exhibitions of painting, sculpture, photography, and traditional craft from around Nigeria — quality and interest level varies considerably depending on what's on, but at its best it offers a real window into contemporary Nigerian artistic culture.

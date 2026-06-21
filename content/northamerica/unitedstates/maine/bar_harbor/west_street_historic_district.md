@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 latitude: 44.3906
 longitude: -68.2100
+score: 7.4
 ---
 
 A short stretch of West Street, west of downtown, lined with the surviving "cottages" of Bar Harbor's Gilded Age summer colony. Shingle-style houses with broad porches and turrets sit behind hedges with the bay glinting beyond. Most are still private, but the streetscape is the point.

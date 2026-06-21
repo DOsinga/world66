@@ -8,6 +8,7 @@ latitude: 42.6975
 longitude: -73.7344
 story: >
   President Chester A. Arthur is buried here — the only US president interred in New York State. Arthur became president when Garfield was assassinated in 1881, and served one term; he died in Albany in 1886. His grave is marked by an imposing monument, and his is the most visited burial in the cemetery, though many visitors are primarily interested in the extraordinary Victorian funerary sculpture elsewhere on the grounds.
+score: 8.4
 ---
 
 Albany Rural Cemetery in Menands, just north of Albany, is one of the great 19th-century rural cemeteries of the United States. Founded in 1841 on the rural cemetery model pioneered at Mount Auburn in Cambridge, it covers 467 acres of rolling landscape with mature trees, ponds, and extraordinary Victorian funerary sculpture.

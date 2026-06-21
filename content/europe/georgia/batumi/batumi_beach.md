@@ -7,6 +7,7 @@ tags:
 - beach
 title: Batumi Beach
 type: poi
+score: 6.6
 ---
 
 Batumi's beach runs the full length of the seaside boulevard — a long, narrow ribbon of grey pebbles between the promenade and the Black Sea. It is not a soft-sand beach: the stones are smooth but small, and most people use a mat or a rented lounger. The water shelves quickly, the surf is usually mild, and the swimming season runs from late May to early October.

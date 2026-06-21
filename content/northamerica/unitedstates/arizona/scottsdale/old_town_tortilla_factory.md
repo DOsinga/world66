@@ -8,6 +8,7 @@ tags:
   - restaurant
   - old_town
 neighbourhood: Old Town
+score: 6.1
 ---
 
 An adobe restaurant on Brown Avenue in the old Scottsdale grid, with a shaded courtyard under cottonwoods that is one of the most pleasant evening spots in town. The kitchen makes its own corn and flour tortillas in-house and uses them as the base for everything from blue-corn enchiladas to filet mignon tacos. The signature stuffed chicken with prickly pear glaze is a long-running staple.

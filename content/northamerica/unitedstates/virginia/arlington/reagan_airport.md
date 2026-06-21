@@ -14,6 +14,7 @@ story: >
   original tile work, and a clock tower that was considered a model of modern
   airport design. It was largely bypassed by expansions in the 1960s and largely
   intact as a result. The FAA has required it to be preserved as a historic structure.
+score: 5.8
 ---
 
 Ronald Reagan Washington National Airport (DCA), in southern Arlington, is one of the most conveniently situated major airports in the United States — a direct Metro connection on the Blue and Yellow lines puts the centre of DC twenty minutes away. The proximity to the capital creates a unique sight at Gravelly Point, the small park just north of the runway perimeter, where aircraft land and take off directly overhead at low altitude.

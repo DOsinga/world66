@@ -7,6 +7,7 @@ tags:
   - shopping
 latitude: -5.0564
 longitude: 12.3212
+score: 6.9
 ---
 
 The central market in Cabinda is the social and commercial heart of the city, and the best place to understand daily life here. Vendors sell everything from fresh fish landed that morning on the beach to palm oil, dried goods, and household supplies. The market reflects Cabinda's unique cultural position — you'll hear Kikongo alongside Portuguese, and the produce includes items sourced from both Congos across the border.

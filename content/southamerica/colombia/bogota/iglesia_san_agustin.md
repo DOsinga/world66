@@ -12,6 +12,7 @@ tags:
 - church
 title: Iglesia de San Agustin
 type: poi
+score: 7.8
 ---
 
 One of Bogota's oldest churches, dating to 1637, with elaborate baroque decoration and paintings by Gregorio Vasquez de Arce y Ceballos. The richly ornamented interior is worth a quiet visit even if churches are not normally your thing.

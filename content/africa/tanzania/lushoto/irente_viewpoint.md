@@ -8,6 +8,7 @@ tags:
 latitude: -4.8000
 longitude: 38.3000
 story: "On a clear morning you can see Mkomazi Game Reserve, the Pangani River and — when conditions are right — the southern outline of Kilimanjaro, more than 200 km away. The cliff drops nearly a thousand metres straight down to the Maasai plains below."
+score: 8.8
 ---
 
 The classic walk from Lushoto: a flat one-hour stroll west out of town along the ridge, ending at a sheer escarpment with one of the best views in East Africa. The Maasai Steppe stretches away below; a small lookout point on the cliff edge has a guardrail and a bench, and on weekends a few women sell tea and mandazi from a thatched shelter.

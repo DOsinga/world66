@@ -9,6 +9,7 @@ latitude: 1.88675
 longitude: -76.28694
 story: >
   The civilisation that carved these statues remains largely unknown. They left no writing, no recorded name for themselves, and no clear descendants. Archaeologists estimate they flourished here from roughly the 1st to the 8th century AD, then vanished — possibly through migration, possibly through warfare or disease. What remains are the stones, the burial mounds, and the elaborate guardian figures, standing silent in the Colombian highlands for a thousand years before the first archaeologists arrived.
+score: 9.5
 ---
 
 The Parque Arqueológico de San Agustín, a UNESCO World Heritage Site since 1995, is the main concentration of the extraordinary carved statues and burial mounds left by a pre-Columbian civilisation that flourished in this highland valley between roughly the 1st and 8th centuries AD. The park contains several distinct sites — the Mesitas (earthen burial mounds with stone chambers), the Fuente de Lavapatas (a carved stone channel in a riverbed), and various tomb groups — spread across several kilometres of forested hills.

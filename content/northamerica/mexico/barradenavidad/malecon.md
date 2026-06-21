@@ -6,6 +6,7 @@ latitude: 19.1992
 longitude: -104.6850
 sources:
   - https://www.openstreetmap.org
+score: 6.8
 ---
 
 The malecón runs along the lagoon side of town, facing the calm, mangrove-fringed water of the Laguna de Barra de Navidad. It is the social heart of the town — lined with palms and simple benches, and busy in the evenings when families stroll and fishermen return with the day's catch.

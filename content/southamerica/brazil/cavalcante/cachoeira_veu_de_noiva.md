@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - waterfall
+score: 7.8
 ---
 
 Véu de Noiva — Bridal Veil — is one of the tallest accessible falls near Cavalcante, plunging some 80 metres in a long, narrow ribbon down a sheer cliff. The trail to the base passes through cerrado scrub and arrives at a wide rocky platform from which you can swim out toward the pounding water.

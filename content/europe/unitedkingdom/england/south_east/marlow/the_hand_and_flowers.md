@@ -9,6 +9,7 @@ tags:
 - eating_out
 - restaurant
 url: 'https://www.thehandandflowers.co.uk'
+score: 7.9
 ---
 
 Tom Kerridge opened The Hand and Flowers in 2005 with his wife Beth, and within a year it had its first Michelin star. The second came in 2012, making it the first — and still the only — pub in the UK to hold two stars. The setting is deliberately unpretentious: a whitewashed coaching inn on West Street with low ceilings, wooden floors, and a pub-like atmosphere despite the serious cooking happening in the kitchen.

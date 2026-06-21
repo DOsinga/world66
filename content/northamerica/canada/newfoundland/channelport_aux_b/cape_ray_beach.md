@@ -12,6 +12,7 @@ story: >
   at the far southwestern corner of Newfoundland. The station relayed messages across the 
   Cabot Strait and was part of the network that made wireless communication commercially viable. 
   The ruins of the building are still visible at the cape.
+score: 6.8
 ---
 
 Cape Ray Beach, about 15 kilometres southwest of Port aux Basques, is a stretch of wild, wind-exposed Atlantic coast with fine gravel and sand, backed by low coastal heath. It's one of the few nesting sites in Newfoundland for piping plovers — a threatened shorebird — and the beach is managed to protect the nesting areas in summer.

@@ -6,6 +6,7 @@ longitude: -118.4406
 tags:
   - eating_out
   - restaurant
+score: 6.6
 ---
 
 A long-running Russian and Doukhobor restaurant on Market Avenue downtown — the most reliable place in town for the local cooking. The borscht is creamy with cabbage, potato, dill and tomato (very little beetroot, by Doukhobor tradition) and the perogi platter is generous.

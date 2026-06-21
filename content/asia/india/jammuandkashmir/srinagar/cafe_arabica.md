@@ -7,6 +7,7 @@ tags:
 latitude: 34.0833
 longitude: 74.8000
 address: "Maulana Azad Road, Rajbagh, Srinagar"
+score: 5.8
 ---
 
 The most established Western-style coffee shop in Srinagar, Coffee Arabica on Maulana Azad Road in the Rajbagh neighbourhood attracts students, young professionals, and travellers who need a reliable espresso. The coffee is reasonably good by Indian standards — better than anything you'll find in the hotel restaurants — and the atmosphere is relaxed and unhurried. The seating area fills up in the late afternoon with people treating it as an after-work social space.

@@ -7,6 +7,7 @@ tags:
 latitude: 40.9875
 longitude: 117.9375
 snippet: Imperial walking tour of seventy-two named viewpoints inside the Mountain Resort
+score: 7.8
 ---
 
 When the Kangxi Emperor first laid out the Mountain Resort he selected and named thirty-six "scenic spots" — particular views, pavilions, and pieces of garden that he wanted to be experienced in a particular order. His grandson Qianlong added another thirty-six. Together they form a kind of imperial walking tour of the park.

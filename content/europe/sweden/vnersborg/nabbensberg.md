@@ -8,6 +8,7 @@ tags:
 - park
 title: Nabbensberg
 type: poi
+score: 6.5
 ---
 
 The Nabbensberg is a wooded hill rising gently from the town centre to a ridge above the lake. It has served as the city's main public park since the 19th century, and the paths through the linden and oak trees feel well-worn without being manicured. The museum building sits on the lower edge, and higher up the hill there are benches with open views across the town rooftops and out over Lake Vänern.

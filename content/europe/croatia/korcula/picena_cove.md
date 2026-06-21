@@ -9,6 +9,7 @@ tags:
 - nature
 title: Picena cove
 type: poi
+score: 7.5
 ---
 
 A small, sheltered beach enclosed by pine trees and hidden behind a rocky promontory on Korcula's southern coast. The only way in is on foot along a trail through the woods or by boat, which keeps it blissfully uncrowded even in high season.

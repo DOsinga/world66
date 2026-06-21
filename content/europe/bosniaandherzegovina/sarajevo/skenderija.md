@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Skenderija
+score: 6.3
 ---
 
 Skenderija is a large multi-purpose cultural and sports complex built in the late 1960s as a showcase of Yugoslav modernism — a blocky, ambitious structure that served as an exhibition centre, sports arena, and venue for the 1984 Winter Olympics. It still functions as the main indoor arena for Sarajevo, hosting concerts, sporting events, and trade fairs.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.9773
 longitude: 73.2985
+score: 6.1
 ---
 
 Bhatye Beach stretches along the edge of Ratnagiri town where the Bhatye Creek opens into the Arabian Sea. It is a calm, sheltered beach backed by casuarina trees and is the most accessible of the beaches in the Ratnagiri area — a short auto-rickshaw ride from the town centre. The water is calmer here than at the exposed Atlantic beaches north and south, which makes it better for swimming.

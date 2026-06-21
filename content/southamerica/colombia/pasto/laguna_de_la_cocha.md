@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 1.0833
 longitude: -77.1500
+score: 8.2
 ---
 
 A large alpine lake 27 km east of Pasto at 2,800 m, ringed by green hills and morning mists. In the middle of the lake sits the tiny Isla de La Corota, a nature reserve and the smallest national park in Colombia, with a small chapel that pilgrims visit by canoe.

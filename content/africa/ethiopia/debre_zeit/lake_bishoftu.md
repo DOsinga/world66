@@ -8,6 +8,7 @@ tags:
   - sight
   - lake
   - swimming
+score: 7.4
 ---
 
 The largest of the five crater lakes and the one the town is named after. It sits in a deep, near-circular caldera around 350 metres across, with steep wooded slopes dropping straight down to the water. The water is dark, clean, and warm.

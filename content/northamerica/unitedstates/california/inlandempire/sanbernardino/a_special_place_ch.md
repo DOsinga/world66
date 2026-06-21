@@ -11,6 +11,7 @@ tags:
 - museum
 title: A Special Place Children's Museum
 type: poi
+score: 4.8
 ---
 
 A small, hands-on museum geared toward younger children. The main floor has a dress-up area with costumes ranging from firefighter gear to princess outfits, a karaoke station, arts and crafts tables, and computers with educational games. A separate toddler area keeps the littlest ones occupied with age-appropriate toys.

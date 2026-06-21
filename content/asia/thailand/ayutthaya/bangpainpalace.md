@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Bang Pa-In Palace
 type: poi
+score: 8.3
 ---
 
 A royal summer palace 18 kilometres south of Ayutthaya, still used by the Thai royal family. The grounds mix Thai, Chinese, and European architectural styles in a way that feels wonderfully eclectic. The Chinese-style Wehat Chamrun Palace and the Thai pavilion in the middle of the lake are the highlights.

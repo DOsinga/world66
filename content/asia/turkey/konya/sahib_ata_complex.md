@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Late-Seljuk mosque, dervish lodge and mausoleum built by a powerful vizier"
+score: 8.2
 ---
 
 The Sahib Ata Külliyesi is a Seljuk religious complex commissioned in the 1270s by Sahib Ata Fahreddin Ali, the same vizier who built the İnce Minareli Medrese. The complex originally comprised a mosque, a dervish lodge (hanikah), a mausoleum, and a public bath, of which the bath and parts of the lodge survive.

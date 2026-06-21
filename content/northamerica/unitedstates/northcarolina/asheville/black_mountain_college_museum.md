@@ -6,6 +6,7 @@ longitude: -82.5505
 tags:
   - things_to_do
   - museum
+score: 7.8
 ---
 
 Black Mountain College ran for just twenty-three years, between 1933 and 1957, in a few buildings outside town. In that short window its faculty and students included Josef and Anni Albers, Robert Rauschenberg, Cy Twombly, Buckminster Fuller, John Cage, Merce Cunningham, and Willem de Kooning. The college had no exams, no grades, and a curriculum centred on the arts. It went bankrupt and closed.

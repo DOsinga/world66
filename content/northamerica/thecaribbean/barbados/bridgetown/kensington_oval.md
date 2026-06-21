@@ -9,6 +9,7 @@ latitude: 13.1040
 longitude: -59.6189
 story: >
   Kensington Oval hosted the 2007 Cricket World Cup final, but its greatest moment — at least for Barbadians — was the day in 1994 when Brian Lara walked out here and scored 375 to break the world Test record. The crowd was reportedly audible from miles away. The record stood for a decade before Lara broke it again himself, this time in Antigua.
+score: 7.1
 ---
 
 Kensington Oval is the oldest and most celebrated cricket ground in the Caribbean, having hosted Test cricket since 1930. It sits about a kilometre north-west of the city centre in the St. Michael district, and its presence explains a great deal about Barbadian culture: cricket here is not a sport so much as a civic religion.

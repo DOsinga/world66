@@ -7,6 +7,7 @@ tags:
 title: York Dungeon
 type: poi
 snippet: "A theatrical walk-through history attraction covering York's darkest episodes, from the plague to Dick Turpin"
+score: 4.9
 ---
 
 The York Dungeon is an unashamed tourist attraction — live actors, theatrical sets, jump scares — that covers the nastier episodes of York's past. The show moves through a series of scenes: the Viking raid, the 1190 massacre at Clifford's Tower, the Black Death in medieval York, the hanging judge, Dick Turpin, and Guy Fawkes (who was born in York). It is professionally done and not particularly educational, but if you are travelling with teenagers who need to be entertained, it tends to go down well.

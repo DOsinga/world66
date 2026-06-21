@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.8994
 longitude: 91.8748
+score: 5.1
 ---
 
 Madani Square (locally Madani Chattar) is a small monument on Nayasarak Road built to commemorate Sayyid Hussain Ahmad Madani, an Indian Muslim scholar who spent years in Sylhet preaching and teaching. The square itself is little more than a roundabout, but it is a central reference point in the modern city and a common meeting spot.

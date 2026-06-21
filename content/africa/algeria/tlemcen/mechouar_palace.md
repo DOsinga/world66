@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 34.8815
 longitude: -1.3089
+score: 8.7
 ---
 
 The Mechouar was the royal palace of the Zayyanid dynasty, who ruled Tlemcen from 1235 until the Spanish conquest in 1554. Most of the medieval palace was demolished or absorbed into a French military barracks, but a reconstruction since 2010 has restored much of its layout — a walled enclosure with the royal mosque, the audience hall, and gardens — using surviving foundations and historical drawings.

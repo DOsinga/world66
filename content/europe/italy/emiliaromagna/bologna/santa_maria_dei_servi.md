@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 7.9
 ---
 
 Santa Maria dei Servi sits on Strada Maggiore behind a four-sided portico — a Gothic cloister opening onto the street. The interior is tall, brick, and unusually atmospheric, with the polygonal apse glowing in the late afternoon.

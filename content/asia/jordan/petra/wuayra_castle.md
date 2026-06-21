@@ -8,6 +8,7 @@ tags:
 latitude: 30.3330
 longitude: 35.4658
 story: "The Crusaders called it Li Vaux Moise — the Valley of Moses. Built in 1116, it was the southernmost outpost of the Latin Kingdom of Jerusalem and held out for less than seventy years before Saladin's forces took it."
+score: 7.1
 ---
 
 A Crusader castle on a rock-cut promontory above Wadi Musa, perched at the edge of a sheer drop and reached by a stone bridge over a narrow ravine. Built by King Baldwin I as part of his lordship of Transjordan, it commanded the trade route from Damascus to the Red Sea and the approach to Petra.

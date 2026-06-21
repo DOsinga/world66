@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "At around 90 metres, St Columba Falls is one of the tallest waterfalls in Tasmania — the South Esk River drops over a series of dolerite shelves in the Pyengana valley, fed by the second-highest rainfall in the state."
+score: 7.6
 ---
 
 St Columba Falls is in the rainforest of the Pyengana valley, around 50 km west of St Helens. A short, well-built path through tree ferns and myrtle leads from the car park to a viewing platform at the base of the falls; the spray is heavy, so expect to get wet.

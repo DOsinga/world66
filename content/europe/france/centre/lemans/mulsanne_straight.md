@@ -9,6 +9,7 @@ latitude: 47.9408
 longitude: 0.2353
 sources:
   - https://en.wikipedia.org/wiki/Mulsanne_Straight
+score: 6.4
 ---
 
 The Mulsanne Straight — formally the Ligne droite des Hunaudières — is the most famous stretch of road in endurance racing. Cars once reached over 400km/h on this 6km straight before chicanes were added in 1990 for safety reasons. For the rest of the year it is the D338 departmental road, used by farm vehicles and cyclists.

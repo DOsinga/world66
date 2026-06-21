@@ -7,9 +7,9 @@ longitude: 4.897434
 snippet: Touristy coffeeshop near the Red Light District
 tags:
 - drugs
-- canal_ring
 title: De Grasshopper
 type: poi
+score: 3.4
 ---
 
 Don't go here to meet the locals. This is firmly tourist territory — if you're a seasoned stoner you'll probably prefer one of the smaller, less conspicuous establishments. On the other hand, the staff are completely unfazed by newcomers, so it's a decent first stop if you're new to the Amsterdam coffeeshop scene.

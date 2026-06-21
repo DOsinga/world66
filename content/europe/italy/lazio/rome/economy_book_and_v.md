@@ -9,6 +9,7 @@ tags:
 snippet: "English-language bookshop near Termini for holiday reading"
 title: Economy Book and Video Center
 type: poi
+score: 5.2
 ---
 
 English-language bookshop near Termini with a wide selection of new and used books, plus greeting cards and videos. A good stop for English readers looking to stock up on holiday reading.

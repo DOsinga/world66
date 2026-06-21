@@ -14,6 +14,7 @@ story: >
   to a park on the edge of town, where it stands today in splendid isolation,
   surrounded by empty space and a few park benches. It was simply too large and too
   expensive to destroy.
+score: 7.6
 ---
 
 At 22 metres from base to fingertip, the Lenin statue in Khujand is the largest remaining statue of Lenin in Central Asia, a category of monument that was once common across the region but is now rapidly disappearing. Most post-Soviet governments demolished their Lenins within a few years of independence; Khujand's administration moved theirs instead, relocating the colossal figure from its original prominent position to a quieter park on the east side of the city.

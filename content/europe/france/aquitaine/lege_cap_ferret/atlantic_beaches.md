@@ -8,6 +8,7 @@ latitude: 44.7115
 longitude: -1.2310
 story: >
   The beaches on the Atlantic side of the Cap Ferret peninsula are consistently rated among the finest in France — long, wild, and relatively unspoiled. The pine trees come down almost to the dune edge in places, and the lack of resort development along most of the strip reflects a deliberate preservation policy that has kept the peninsula far less built-up than comparable stretches of the Landes coast.
+score: 7.4
 ---
 
 The western side of the Lège-Cap Ferret peninsula faces the open Atlantic and is lined with a nearly continuous strip of sandy beach stretching for about 25 kilometres from Lège in the north to the lighthouse at the tip in the south. The water is clean, the waves are powerful (making it popular with surfers), and the crowd is generally thinner than at the better-known beaches of Biarritz or the Landes coast to the south.

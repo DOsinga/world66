@@ -15,6 +15,7 @@ story: >
   style. In the 1870s, the future Prime Minister Lord Aberdeen set up a choral and
   orchestral society on the estate that still performs today, making Haddo one of the
   few country houses in Scotland with an unbroken tradition of professional music-making.
+score: 8.1
 ---
 
 Haddo House is a handsome Georgian mansion designed by William Adam and now owned by the National Trust for Scotland. It sits about 8 miles south-east of Fyvie and is easily combined with a visit to Fyvie Castle. The interior has fine furniture, family portraits, and a private chapel. The terraced gardens and the designed parkland around the house are pleasant to walk.

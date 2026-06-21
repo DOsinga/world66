@@ -7,6 +7,7 @@ tags:
 - sight
 title: Daxiongbaodian Hall
 type: poi
+score: 7.8
 ---
 
 The main hall of Guiyuan Temple and its spiritual centrepiece. Inside stands a statue of Sakyamuni, the founder of Buddhism, flanked by two of his ten principal disciples: Mahakasyapa on the right, regarded as the first patriarch who carried on Sakyamuni's teaching after his death, and Ananda on the left, known for his prodigious memory and credited with compiling the Buddhist sutras.

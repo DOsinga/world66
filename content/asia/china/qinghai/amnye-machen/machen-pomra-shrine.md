@@ -7,6 +7,7 @@ tags:
   - sacred
 latitude: 34.9100
 longitude: 99.2100
+score: 7.6
 ---
 
 Scattered along the kora route are several small shrines and cairn sites dedicated to Machen Pomra, the mountain deity who calls this massif home. The most significant cluster sits near the base of the main peak on the southern approach, where generations of pilgrims have stacked mani stones carved with the six-syllable mantra and draped the surrounding juniper trees with hundreds of prayer flags.

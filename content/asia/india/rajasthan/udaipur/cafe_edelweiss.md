@@ -6,6 +6,7 @@ longitude: 73.6829
 tags:
   - bars_and_cafes
   - cafe
+score: 5.7
 ---
 
 A small German-Austrian bakery cafe near Hanuman Ghat, **Edelweiss** is where travellers stop for a proper breakfast — flaky croissants, brown bread, real coffee, and apple strudel — after a week of *aloo paratha*. The mosaic floors and small wrought-iron tables feel slightly out of place in Udaipur, which is part of the appeal.

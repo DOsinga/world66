@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Ciğer Tava (Fried Liver)
 type: poi
+score: 6.9
 ---
 
 Ciğer tava — fried liver — is Edirne's most famous dish, and the city takes its reputation seriously. The preparation is specific: lamb's liver is sliced paper-thin, dusted lightly with flour, and fried quickly in very hot oil until the edges crisp while the inside stays just cooked through. It is served immediately with sliced raw onion, fresh flatbread, hot green peppers fried alongside the liver, and sometimes a pinch of dried red pepper. The dish requires no waiting and no ceremony; you sit down, it arrives, you eat it fast while it is hot.

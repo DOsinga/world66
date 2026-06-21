@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 47.5668
 longitude: -52.6897
+score: 8.1
 ---
 
 The Battery is one of the most photographed neighbourhoods in Canada — a cluster of tiny wooden houses jammed between the cliff face and the harbour entrance at the foot of Signal Hill. The houses are stacked improbably on the rocks, connected by narrow paths and staircases, their bright paint colours intensified by the grey Atlantic light. People have lived here continuously since the early 18th century.

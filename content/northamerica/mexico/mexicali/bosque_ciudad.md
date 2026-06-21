@@ -7,6 +7,7 @@ snippet: "Shaded park complex with the city zoo and an interactive science museu
 tags:
 - things_to_do
 - park
+score: 5.8
 ---
 
 The Bosque de la Ciudad is the largest green space in Mexicali — a leafy, well-irrigated park complex on the southern edge of downtown, with a small zoo, a botanical garden, a fishing lake, and several pavilions for events. The zoo focuses on regional species — desert big-horn sheep, sea lions, jaguars, eagles — and is more research-oriented than spectacle.

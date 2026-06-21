@@ -11,6 +11,7 @@ tags:
 - beaches
 title: Morriscastle Beach
 type: poi
+score: 5.7
 ---
 
 Morriscastle Beach is a long, undeveloped strand on the Wexford coast near Kilmuckridge. It holds a Blue Flag designation for water quality and connects at its southern end with Ballinesker Beach — where Steven Spielberg shot the Normandy landing sequences for Saving Private Ryan in 1998.

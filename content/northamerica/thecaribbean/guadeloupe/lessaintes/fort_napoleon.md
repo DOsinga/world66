@@ -8,6 +8,7 @@ latitude: 15.875
 longitude: -61.5825
 story: >
   Fort Napoléon was built on the site of an older fortification to commemorate the Battle of Les Saintes, fought in the bay below in April 1782. The battle was one of the most significant naval engagements of the 18th century — the British fleet under Admiral Rodney defeated the French under de Grasse, changing the course of the American Revolutionary War by preventing a planned French attack on Jamaica. The fort itself was never tested in battle.
+score: 8.5
 ---
 
 Fort Napoléon crowns the hill above Terre-de-Haut's village, reached by a steep path that takes about 20 minutes from the waterfront. Built in the 19th century to commemorate the 1782 naval Battle of Les Saintes, it was never attacked — the era of Caribbean island fortifications was essentially over by the time it was completed.

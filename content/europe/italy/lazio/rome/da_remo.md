@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Pizzeria Da Remo
 type: poi
+score: 7.6
 ---
 
 The archetypal Roman pizzeria — paper-thin crust, charred edges, no-frills tables, constant noise. Da Remo has been feeding Testaccio since the 1960s. No reservations, so expect to queue after 20:00; it moves fast. Order the margherita, the diavola, or the classic romana with anchovies and capers. Don't expect Neapolitan softness — this is Roman pizza, which is a different and equally serious thing. Evening only.

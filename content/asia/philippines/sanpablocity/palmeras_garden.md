@@ -7,6 +7,7 @@ tags:
 snippet: Long-standing lakeside restaurant serving fresh tilapia and Filipino food
 latitude: 14.0701
 longitude: 121.3255
+score: 5.8
 ---
 
 Palmeras Garden sits on the edge of Sampaloc Lake, its tables set in an open-air garden with views across the water to the fish pens on the far shore. The menu is built around lake fish: tilapia and catfish grilled, steamed, or cooked in soups, along with standard Filipino comfort food — kare-kare, sinigang, adobo, and lechon. The fish are often caught from the lake's own commercial pens and served within hours.

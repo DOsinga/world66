@@ -13,6 +13,7 @@ story: >
   farmland and several small communities, whose cemeteries now lie underwater.
   In dry years, old stone walls and foundations emerge from the shallows —
   ghost architecture from the drowned landscape beneath.
+score: 7.2
 ---
 
 Lake Hartwell is one of the largest reservoirs in the Southeast, stretching across 56,000 acres of water on the South Carolina-Georgia border. Anderson sits at the northern end of the lake, with easy access to public boat ramps, fishing piers, and swimming areas within a ten-minute drive of downtown.

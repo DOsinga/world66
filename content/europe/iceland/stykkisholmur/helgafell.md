@@ -14,6 +14,7 @@ story: >
   saga also records that Þórólfr Mostrarskegg, who settled the area in the
   9th century, considered the mountain so sacred that no man could look upon
   it unwashed, and none were permitted to kill animals on its slopes.
+score: 6.9
 ---
 
 Helgafell — "holy mountain" in Icelandic — is a small but conspicuous hill about 3.5 kilometres south of Stykkishólmur, rising sharply from the flat peninsula farmland. At just 73 metres high, the climb takes about 15 minutes and is manageable by anyone. At the summit are the ruins of a small chapel and cairns; the view across Breiðafjörður to the northwest is the reward.

@@ -12,6 +12,7 @@ tags:
 title: Rochelle Canteen
 type: poi
 url: www.arnoldandhenderson.com
+score: 8.3
 ---
 
 Rochelle Canteen occupies a converted bike shed in the playground of a former Shoreditch school, now an arts complex. You ring a bell to get in, which sets the tone. The food — British seasonal cooking done with total integrity — changes daily and is some of the most honest and delicious in London. Chefs from across the city eat here on their days off.

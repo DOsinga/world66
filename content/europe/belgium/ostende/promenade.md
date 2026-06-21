@@ -8,6 +8,7 @@ tags:
 - sights
 title: Promenade Albert I
 type: poi
+score: 6.3
 ---
 
 The Albert I Promenade runs the length of Ostend's seafront, a wide, traffic-free walkway between the beach and a row of cafes and tearooms with terraces. On a clear day you can watch the ferries and container ships moving through the Channel. In summer the adjacent beach fills up with families; the stretch known as the Lido has a designated area for sunbathing and beach sports.

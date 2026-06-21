@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.7
 ---
 
 Sazova Park is the city's outsized landscaped park, complete with an artificial lake, a children's railway, a pirate-ship playground, a science centre, an aviation pavilion with a couple of decommissioned jets, and a startlingly large replica medieval castle that floods with families on weekends. It is unapologetically themed and a great place if you are travelling with children.

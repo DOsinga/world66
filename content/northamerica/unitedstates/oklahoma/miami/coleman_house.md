@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 36.8833
 longitude: -94.8611
+score: 5.7
 ---
 
 The 1916 home of zinc-mining tycoon George L. Coleman Sr., the man who built the Coleman Theatre, sits in a leafy residential district on the east side of Miami. The house is a substantial brick Prairie School design and is on the National Register of Historic Places.

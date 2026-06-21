@@ -7,6 +7,7 @@ tags:
 latitude: 51.6460
 longitude: -2.6684
 snippet: "A 136-mile long-distance trail along the River Wye from Chepstow to Plynlimon, passing through some of the finest river scenery in Britain."
+score: 8.1
 ---
 
 The Wye Valley Walk begins at Chepstow Castle and follows the river upstream through the Wye Valley Area of Outstanding Natural Beauty, passing Tintern Abbey before heading into Herefordshire and eventually to the river's source in mid-Wales. The full route is 136 miles, but the section from Chepstow to Monmouth — roughly 17 miles — is the most dramatic and frequently walked stretch, with the river cutting through a deep wooded limestone gorge that feels far wilder than its proximity to the M4 would suggest.

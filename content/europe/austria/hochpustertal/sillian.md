@@ -6,6 +6,7 @@ longitude: 12.4194
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 Sillian is the largest village in the Hochpustertal and the natural base for visitors. It sits at 1,100 metres on the Drava river with a small main square, a baroque parish church, and the valley's main supermarkets and rental shops. The cable car to the Thurntaler ski area starts here.

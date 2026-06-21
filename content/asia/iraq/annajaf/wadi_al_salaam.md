@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Wadi al-Salaam — the Valley of Peace — is one of the largest cemeteries in the world, with millions of graves spread across more than six square kilometres. Shia tradition holds that the souls of all believers gather here, and that the prophets Hud and Salih are buried in the older quarter."
+score: 9.2
 ---
 
 West of the shrine, Wadi al-Salaam unrolls across the desert as far as the eye can see — an entire city of the dead, denser and larger than the city of the living. Burial here is regarded as a guarantee of safe passage in the afterlife, so Shia families from Iraq, Iran, Lebanon and beyond bring their dead to Najaf to be interred. The cemetery has been in use for over fourteen centuries.

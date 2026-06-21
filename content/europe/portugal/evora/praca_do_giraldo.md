@@ -14,6 +14,7 @@ story: >
   the city until King Afonso Henriques could arrive with reinforcements.
   Whether the story is accurate or not, the square bearing his name has been
   the civic heart of Évora ever since.
+score: 7.2
 ---
 
 Praça do Giraldo is the main square of Évora and the natural centre of any visit. It's a wide, arcaded space with a 16th-century marble fountain at its centre and café terraces under the arches — the perfect place to eat a pastel de nata and watch the city go about its business before heading into the maze of lanes beyond.

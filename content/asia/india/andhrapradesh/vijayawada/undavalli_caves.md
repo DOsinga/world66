@@ -8,6 +8,7 @@ tags:
 latitude: 16.4974
 longitude: 80.5572
 story: "The reclining Vishnu in the second storey was carved from a single granite block — five metres long and impossible to move. Originally Jain, the caves were later converted to Hindu use, leaving a layered religious history visible in the sculpture."
+score: 8.4
 ---
 
 About 8 km southwest of Vijayawada on the south bank of the Krishna, the Undavalli Caves are a four-storey rock-cut monastic complex hewn from a sandstone hillside between the fourth and seventh centuries. The main attraction is a colossal reclining Vishnu carved from a single stone, occupying most of the second floor.

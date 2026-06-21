@@ -16,6 +16,7 @@ story: >
   traditional protection that followed changed American climbing culture.
 sources:
   - https://en.wikipedia.org/wiki/Smith_Rock_State_Park
+score: 9.5
 ---
 
 Smith Rock State Park, about 30 miles north of Bend near the town of Terrebonne, is one of the most dramatic landscapes in the Pacific Northwest. The Crooked River has carved a deep canyon through orange and red volcanic tuff, leaving sheer walls and spires up to 500 feet tall that catch the afternoon light in a way that makes photographers chase the golden hour.

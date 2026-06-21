@@ -7,6 +7,7 @@ tags:
   - ortigia
 latitude: 37.057805555555554
 longitude: 15.294583333333334
+score: 8.1
 ---
 
 The Bellomo Palace is a 13th-century Norman palace converted in the 15th century into a Catalan-Gothic mansion, now housing the Regional Gallery with a collection of medieval and early modern Sicilian art. The building itself — with its external staircase, Gothic windows, and courtyard — is more interesting than many of its contents, but the collection includes Antonello da Messina's "Annunciation" and Caravaggio's "Burial of Saint Lucy," painted in Syracuse in 1608-09.

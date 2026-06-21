@@ -10,6 +10,7 @@ tags:
 - museum
 title: Porsche Museum
 type: poi
+score: 8.0
 ---
 
 The Porsche Museum in Zuffenhausen is housed in a striking angular building that seems to float above its supports. Inside, around 80 vehicles trace the company's history from Ferdinand Porsche's early engineering work through the iconic 356 and 911 to modern hypercars. The exhibits cover both road and racing cars, with a strong emphasis on the engineering innovations that made Porsche's reputation.

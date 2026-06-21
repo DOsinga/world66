@@ -10,6 +10,7 @@ latitude: 42.8148
 longitude: -1.6521
 sources:
   - https://en.wikipedia.org/wiki/Citadel_of_Pamplona
+score: 8.4
 ---
 
 The Ciudadela is the great pentagonal fortress that anchors the southwest corner of the old city. Built in the late 16th century under Philip II to plans by the military engineer Giacomo Palearo Fratín, it was one of the most formidable defensive works in Europe. Five arrow-shaped bastions project from the main body, surrounded by ditches and outworks, all oriented to cover every angle of approach.

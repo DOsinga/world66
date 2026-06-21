@@ -4,6 +4,7 @@ type: poi
 author: "Rolf Schneider"
 tags:
   - books
+score: 6.1
 ---
 
 Schneider's novel follows the young Goethe arriving in Weimar in 1775 at the invitation of Duke Karl August. It captures the peculiar atmosphere of a tiny German court town becoming, almost by accident, the intellectual centre of Europe. The social dynamics between the ambitious young poet and the provincial aristocracy are rendered with dry precision.

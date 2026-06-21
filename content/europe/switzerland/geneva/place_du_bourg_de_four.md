@@ -9,6 +9,7 @@ tags:
 - sight
 - old_town
 story: "The square was a Roman forum, then a medieval cattle market, then a refuge for thousands of Huguenot refugees fleeing France after the 1685 revocation of the Edict of Nantes. The wooden buildings of that earlier era are all gone, but the rebuilt stone facades around the square preserve the medieval irregular layout — narrow alleys, varying angles, no two buildings the same."
+score: 7.1
 ---
 
 Place du Bourg-de-Four is the oldest square in Geneva, in continuous use since Roman times when it was the city's forum and crossroads. In the medieval period it was the main market square — cattle, grain, wool — and the focus of the small walled town below the cathedral. The current arrangement of cafés, fountain, and irregularly-aligned stone shophouses dates mostly from the 18th and 19th centuries, after several fires destroyed earlier wooden buildings.

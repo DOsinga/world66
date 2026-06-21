@@ -9,6 +9,7 @@ tags:
   - sight
   - historic
 snippet: "Renaissance palace housing the Arab Baths and two small museums."
+score: 7.9
 ---
 
 The Palacio de Villardompardo is the 16th-century Renaissance palace built directly over the Arab Baths. The palace itself is open as a free museum — two collections occupy the upper floors. The Museum of Popular Arts and Customs covers traditional Jaén life: olive harvesting, the agrarian household, religious processions. Upstairs is the International Museum of Naive Art, an unexpected and very enjoyable collection.

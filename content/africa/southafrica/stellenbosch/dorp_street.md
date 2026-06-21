@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: -33.9376
 longitude: 18.8620
+score: 8.6
 ---
 
 Dorp Street (Church Street in English, but universally called by its Afrikaans name) is the most beautiful street in Stellenbosch and one of the finest historic streetscapes in South Africa. The street is lined with restored Cape Dutch and Victorian houses, many of which date to the eighteenth and early nineteenth centuries, shaded by the oak trees that give Stellenbosch its other nickname — the "City of Oaks."

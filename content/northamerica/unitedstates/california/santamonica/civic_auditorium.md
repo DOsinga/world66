@@ -7,6 +7,7 @@ tags:
 latitude: 34.0068
 longitude: -118.4863
 snippet: "The 3,000-seat auditorium that hosted the Academy Awards from 1961 to 1968"
+score: 6.3
 ---
 
 The Santa Monica Civic Auditorium, opened in 1958, hosted the Academy Awards ceremony from 1961 through 1968 — the years of Audrey Hepburn and Lawrence of Arabia, of Cleopatra and My Fair Lady. The building's International Style design is modest enough that its history is the attraction rather than the architecture. It has since hosted concerts, graduations, and other large events.

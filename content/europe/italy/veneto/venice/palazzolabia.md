@@ -7,11 +7,15 @@ longitude: 12.327037
 opening_hours: Wed-Fri, 3pm-4pm
 phone: +39 041 5242812
 snippet: RAI-owned palace with Tiepolo's Antony and Cleopatra frescoes
+neighbourhood: Cannaregio
 tags:
 - things_to_do
-- palace
+- cannaregio
+- sight
+- architecture
 title: Palazzo Labia
 type: poi
+score: 7.6
 ---
 
 A grand 18th-century palace in Cannaregio notable for its extraordinary frescoes by Giambattista Tiepolo depicting the story of Antony and Cleopatra. The palazzo is owned by RAI, Italy's public broadcaster, and open for limited hours.

@@ -6,6 +6,7 @@ tags:
 - day_trips
 title: Ouro Preto day trip
 type: poi
+score: 9.3
 ---
 
 Ouro Preto is the most rewarding day trip from Belo Horizonte and one of the best-preserved colonial cities in the Americas. About 100 km southeast of the city, two hours by bus, it sits on a steep hill flanked by older mining hills and is a UNESCO World Heritage site for its baroque churches, sculpted-stone street plans, and the work of the sculptor Aleijadinho.

@@ -9,6 +9,7 @@ tags:
 latitude: -35.7218
 longitude: 174.3409
 story: Parihaka is a former Maori pa site — the summit and ridges still show the earthworks of terracing and defensive ditches built by Te Parawhau iwi in the 18th century. The hill also held some of the largest pa in Northland, evidence of how strategically important this harbour was before European arrival.
+score: 7.6
 ---
 
 Mount Parihaka is the bush-covered hill that looms over Whangarei from the east — a 241-metre volcanic cone with a 360-degree view from the summit. A road runs to the top for those in a hurry, but the better approach is one of the half-dozen walking tracks that climb from Mair Park or the Dundas Road end through native forest.

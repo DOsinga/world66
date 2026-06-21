@@ -16,6 +16,7 @@ story: >
   it created its own weather system, drawing air in through one portal and venting
   flame and gases through the other. The tunnel was repaired and reopened within
   a year.
+score: 6.8
 ---
 
 Summit Tunnel, south of Todmorden near the village of Walsden, is one of the world's oldest railway tunnels. Completed in 1841 by George Stephenson's engineers, it runs for over a mile through the Pennines and carries the Calder Valley line between Yorkshire and Lancashire. When it opened it was the longest railway tunnel in the world, and its construction was a considerable feat of mid-Victorian engineering.

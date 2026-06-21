@@ -12,6 +12,7 @@ story: >
   during the Cultural Revolution and rebuilt from the 1980s onward. The monks kept the
   original name and the institutional memory of the older foundation, which gives the rebuilt
   buildings a continuity that pure reconstruction rarely achieves.
+score: 7.6
 ---
 
 Dongzhulin Monastery sits at around 3,000 metres in Benzilan Township, about 100 kilometres south of Deqin on the road toward Shangrila, built against a hillside above the west bank of the Mekong River. It is one of the most important Tibetan Buddhist monasteries in Yunnan, belonging to the Gelug school, and its main assembly hall can accommodate several hundred monks. The morning chanting sessions, when monks gather in the hall and the percussion and horns carry across the courtyard, are the most memorable experience on offer.

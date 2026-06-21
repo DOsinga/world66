@@ -7,6 +7,7 @@ tags:
   - beaches
   - sight
 snippet: "Resort beach with smooth white sand and good snorkelling among the granite rocks"
+score: 7.1
 ---
 
 Parai Tenggiri is the most polished of Bangka's beach resorts — a well-maintained stretch of smooth white sand with a resort hotel and water sports on offer. The snorkelling around the offshore rocks is among the best accessible from the beach; rent a mask and fins from the resort and you'll find reef fish sheltering in the granite formations just a short swim from shore.

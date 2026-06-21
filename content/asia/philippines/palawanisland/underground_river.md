@@ -8,6 +8,7 @@ tags:
   - sight
   - unesco
 story: "The Puerto Princesa Subterranean River was voted one of the New Seven Wonders of Nature in 2012, after a global online vote — a campaign managed largely from a small office on Rizal Avenue in Puerto Princesa, where the local government had organised a national text-message effort to bring in votes."
+score: 9.3
 ---
 
 The **Puerto Princesa Subterranean River**, a UNESCO World Heritage Site about 80 km north of the city, is the most famous single sight on Palawan. The river flows for more than eight kilometres entirely underground through a vast limestone cave system before emerging directly into the South China Sea — making it one of the longest navigable underground rivers in the world.

@@ -14,6 +14,7 @@ story: >
   the 1950s, they found the stone settings, grave goods, and structural remains in
   extraordinary condition. Without the sand, Viking-era erosion would have flattened the
   site centuries ago.
+score: 9.0
 ---
 
 Lindholm Høje, 3km north of Aalborg across the Limfjord, is one of Scandinavia's most evocative ancient sites. The ridgeline holds 682 cremation graves from the Nordic Iron Age (5th–10th century AD) and Viking Age (10th–11th century), marked by stone settings in ship, oval, and triangular shapes. The southern, lower part of the field is the newest — Viking Age, around 1000 AD. The northern section is several centuries older, with some of Scandinavia's largest ship settings.

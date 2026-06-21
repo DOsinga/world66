@@ -8,6 +8,7 @@ latitude: 27.5728
 longitude: 83.0561
 story: >
   Excavations at Tilaurakot since the 1960s have uncovered the foundations of palaces, fortified walls, gates, and a moat consistent with the description of **Kapilavastu** in early Buddhist texts. Nepali and Indian archaeologists agree it is the most likely location of the city where Prince Siddhartha grew up; some Indian scholars argue for the rival site of **Piprahwa** across the border.
+score: 8.1
 ---
 
 The brick mounds and excavated ruins of what is most likely the ancient city of **Kapilavastu**, capital of the Shakya kingdom and the city where Prince Siddhartha lived for the first 29 years of his life before renouncing it for the homeless life that led to his enlightenment. Located 27 kilometres west of Lumbini.

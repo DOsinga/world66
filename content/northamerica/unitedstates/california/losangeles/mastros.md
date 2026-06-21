@@ -12,6 +12,7 @@ tags:
 - eating_out
 title: Mastro's
 type: poi
+score: 5.7
 ---
 
 A classic Beverly Hills steakhouse with two cocktail lounges (including a lively upstairs bar with a live pianist) and a menu of prime steaks and seafood. Old-school-meets-modern decor, reliably excellent food, and a see-and-be-seen crowd.

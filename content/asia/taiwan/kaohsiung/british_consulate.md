@@ -8,6 +8,7 @@ tags:
 latitude: 22.6175
 longitude: 120.2640
 snippet: 19th-century British consulate on Shoushan hill, now a museum with bay views
+score: 8.3
 ---
 
 The first European-style building erected in Taiwan, completed in 1879 as the British consulate for the port of Takao (the old name for Kaohsiung). The red-brick complex sits on a small cliff at the harbour mouth, with arched verandahs and outstanding views across the bay and Cijin Island.

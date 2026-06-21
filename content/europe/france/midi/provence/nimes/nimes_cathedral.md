@@ -9,6 +9,7 @@ longitude: 4.36056
 snippet: Romanesque cathedral rebuilt after destruction in the Wars of Religion
 sources:
   - https://en.wikipedia.org/wiki/N%C3%AEmes_Cathedral
+score: 6.9
 ---
 
 The Cathédrale Notre-Dame-et-Saint-Castor de Nîmes stands at the top of the old town, a short walk from the Maison Carrée. The original 11th-century Romanesque cathedral was largely destroyed during the Wars of Religion — Nîmes was a major Huguenot stronghold and the violence here was particularly severe — and what you see today is a 17th-century rebuild with later additions.

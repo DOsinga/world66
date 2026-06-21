@@ -14,6 +14,7 @@ tags:
 title: Hall of Flame Museum of Firefighting
 type: poi
 url: www.hallofflame.org
+score: 6.9
 ---
 
 The Hall of Flame claims to be the world's largest museum of firefighting equipment and memorabilia. Housed in a massive warehouse near the Phoenix Zoo, it displays beautifully restored antique fire trucks from the Civil War era to the present. Admission runs from one to five dollars, making it a cheap and cheerful stop, especially for kids who love fire trucks.

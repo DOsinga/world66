@@ -13,6 +13,7 @@ story: >
   Trust raised and restored her. Ruskin was a regular passenger on her first
   incarnation; he wrote about seeing her from Brantwood and described the sound
   of her engine as "the softest and sweetest imaginable."
+score: 8.4
 ---
 
 The SY Gondola is a Victorian steam yacht launched in 1859 that carries passengers up and down Coniston Water between the village pier and Brantwood. The vessel — elegant, low-slung, with a canopied saloon and polished brass fittings — is operated by the National Trust and runs from spring to autumn. A round trip takes about an hour.

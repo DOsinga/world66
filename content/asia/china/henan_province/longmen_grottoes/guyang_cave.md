@@ -15,6 +15,7 @@ story: >
   writing. For centuries, students of calligraphy made rubbings of these
   inscriptions to study from; the practice removed enough surface stone that
   some inscriptions are noticeably shallower than they were a hundred years ago.
+score: 8.8
 ---
 
 The Guyang Cave is the oldest in the Longmen complex, begun before the Northern Wei emperor transferred his capital to Luoyang in 494 CE and continuing for several decades thereafter. It contains some of the finest early Wei-style Buddhist carving, with a formal, angular quality that distinguishes it from the more flowing Tang work visible elsewhere in the site. The main niche contains a large Buddha with the distinctive elongated face and stylised drapery of the Northern Wei aesthetic; the surrounding walls are covered with hundreds of donation niches carved by nobles and officials commemorating their piety.

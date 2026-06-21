@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Italianate redbrick town hall on the central Flakhaven square
+score: 6.5
 ---
 
 Odense Rådhus, completed in 1883 and extended in 1955, is the city's town hall — a redbrick neo-Renaissance building on the central square Flakhaven, opposite the cathedral. The 1880s wing is the more eye-catching, with arched windows, a clock tower, and a sgraffito frieze. The 1950s extension is plainer but well integrated.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: National Museum of Namibia
 type: poi
+score: 7.2
 ---
 
 The National Museum of Namibia is divided between two sites in the city. The historical exhibits in the Alte Feste covered the liberation struggle and colonial period; that wing is currently closed for renovation. The natural history collection at the Owela Museum on Robert Mugabe Avenue is open daily — fossils, rocks, San hunting tools, ostrich-eggshell beadwork, and stuffed Namibian fauna.

@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Uptown 17th Avenue
 type: poi
+score: 7.8
 ---
 
 A lively stretch of 17th Avenue SW between 14th Street and 2nd Street, just south of downtown Calgary. The strip mixes independent boutiques, galleries, and restaurants with enough variety to fill an afternoon of browsing. Mount Royal Village anchors the western end with fashion and gourmet food shops. On warm evenings the restaurant patios spill onto the sidewalks and the street takes on a relaxed, neighbourhood feel.

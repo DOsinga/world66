@@ -11,6 +11,7 @@ tags:
 - bar
 title: O'Hanlon's
 type: poi
+score: 5.7
 ---
 
 Widely considered the best Irish pub in Regina. The decor, music, and staff make it as authentic as possible. The food is excellent and good value. The outdoor deck is a fine spot for a pint with friends on a warm evening.

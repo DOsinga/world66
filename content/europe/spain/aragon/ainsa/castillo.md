@@ -10,6 +10,7 @@ latitude: 42.4191
 longitude: 0.1356
 sources:
   - https://en.wikipedia.org/wiki/A%C3%ADnsa
+score: 7.9
 ---
 
 The castle at the northwest corner of the old town dates from the 11th and 12th centuries, built on a rocky spur above the confluence of the Cinca and Ara rivers. The outer walls and towers are largely intact; the interior courtyard has been restored and hosts occasional events.

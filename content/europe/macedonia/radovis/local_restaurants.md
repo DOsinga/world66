@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 41.6398
 longitude: 22.4646
+score: 5.4
 ---
 
 The handful of restaurants clustered around the main square and along the streets leading to Park na Mladite serve the full range of Macedonian staples: tavče gravče (beans baked in a clay pot, the national comfort food), ajvar (the roasted pepper relish that appears on every table), and various grilled meats — kebapčinja, mešano meso, and the pleskavica burger that every Macedonian town does slightly differently. Portions are generous and prices are low — a full meal with a beer costs well under five euros.

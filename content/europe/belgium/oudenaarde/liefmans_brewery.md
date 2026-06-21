@@ -10,6 +10,7 @@ latitude: 50.8466
 longitude: 3.6158
 story: >
   Liefmans' oud bruin (old brown) is brewed through a warm fermentation process that produces a lactic sourness quite different from the spontaneous fermentation of lambic beers to the west. The brewery wraps its most celebrated bottles in tissue paper by hand — a tradition dating from the early 20th century when the paper protected the labels during warm cellar ageing. The Goudenband, their flagship, improves in the bottle for years.
+score: 7.4
 ---
 
 Liefmans Brewery is one of the oldest breweries in Belgium, with origins in Oudenaarde dating to 1679. It is the home of oud bruin — old brown ale — a regional style native to the Oudenaarde area, darker and sourer than the pale ales of the Brabant and quite different from the abbey ales of the rest of Belgium. The brewery also produces Cuvée Brut and the celebrated Fruitesse, a fruit beer built on an oud bruin base.

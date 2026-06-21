@@ -6,6 +6,7 @@ longitude: -93.7370
 tags:
   - eating_out
   - restaurant
+score: 7.0
 ---
 
 A small, family-run Cajun spot tucked into a strip mall on Pierremont. The menu is short and good: gumbo, étouffée, fried catfish, blackened redfish, and bread pudding. The owners are from south Louisiana and the cooking shows it — this is the closest thing in Shreveport to the food of the bayou parishes.

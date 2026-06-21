@@ -8,6 +8,7 @@ tags:
 title: Chalice Well
 type: poi
 story: "The legend holds that Joseph of Arimathea, fleeing the Holy Land after the Crucifixion, hid the cup that had caught Christ's blood — the Holy Grail — beneath the spring. The water has run rust-red ever since, the stain of that blood. Geologists prefer a more mundane explanation: high concentrations of dissolved iron oxide."
+score: 8.4
 ---
 
 The Chalice Well sits at the foot of Glastonbury Tor in a small walled garden of yew trees, pools, and flower beds. The spring has flowed continuously for at least two thousand years and produces about 25,000 gallons a day at a steady 11°C, even through droughts. The water is heavy with iron, which stains the stones and surrounding channels a deep rust-red — the source of the alternative name, the Red Spring.

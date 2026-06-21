@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The three limestone statues called the Races of Man originally adorned the 1898 St. Paul Building in Manhattan. When the New York skyscraper was demolished in 1958, the sculptures were given to a nationwide competition for the best plan to preserve them. Elmer Taflinger's Indianapolis design won — and the statues have stood here since 1973, slowly weathering."
+score: 7.0
 ---
 
 A romantic outdoor folly hidden in the woods of Holliday Park on the city's north side. The "Ruins" is a stage set of columns, urns, and broken arches built around three monumental 1898 limestone figures rescued from a demolished New York office building. The effect is somewhere between Greek temple and Edwardian garden.

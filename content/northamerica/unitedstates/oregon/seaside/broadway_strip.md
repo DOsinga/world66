@@ -3,10 +3,11 @@ title: "Broadway Strip"
 type: poi
 latitude: 45.9947
 longitude: -123.9258
-snippet: The main drag from the highway to the beach: salt-water taffy, bumper cars, surf rentals, and the full seaside resort experience
+snippet: "The main drag from the highway to the beach: salt-water taffy, bumper cars, surf rentals, and the full seaside resort experience"
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 Broadway runs from US-101 straight down to the beach and the Promenade, and it is a classic American resort strip executed with conviction. Salt-water taffy shops, bumper cars, mini-golf, a bowling alley, ice cream parlors, and surf shops renting boards and wetsuits line both sides for several blocks. It is unashamedly commercial and cheerfully so — Seaside has been catering to Portland day-trippers for over a hundred years and has no identity crisis about it.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Kabul River Bridge
 type: poi
+score: 5.9
 ---
 
 The Kabul river — the same river that flows through the Afghan capital — runs north of central Nowshera and is crossed by an old British-built iron-truss railway bridge as well as the modern road bridge that carries the N-5 highway. Looking upstream from the road bridge, the river curves through wide gravel beds toward the foothills of the Khyber.

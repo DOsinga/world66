@@ -9,6 +9,7 @@ tags:
   - park
   - historic
 story: "Zheng He, born Ma He in Kunyang in 1371, was a Hui Muslim from Yunnan who was castrated and taken into the imperial court as a boy. He became one of the most trusted commanders of the Yongle Emperor and led seven enormous diplomatic and trading expeditions to Southeast Asia, India, Arabia, and the east coast of Africa between 1405 and 1433 — voyages that pre-dated Columbus and Vasco da Gama by most of a century."
+score: 6.1
 ---
 
 Sixty kilometres south of Kunming, on the western shore of Dianchi Lake at Kunyang, a memorial park commemorates Zheng He, the great Ming-dynasty admiral born in the town. The park opened in 1980 on the site of his ancestral home and includes a museum, a memorial pavilion, the tomb of Zheng's father Ma Haizi, and a series of reliefs depicting the admiral's seven treasure voyages.

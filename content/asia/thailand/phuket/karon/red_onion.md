@@ -1,9 +1,10 @@
 ---
 title: "Red Onion"
 type: poi
-tags: [eating_out, restaurant, restaurant]
+tags: [eating_out, restaurant]
 latitude: 7.8465
 longitude: 98.2985
+score: 5.4
 ---
 
 Red Onion is a long-running local favourite on the beach road in Karon, popular with both residents and returning visitors. The menu covers Thai standards — pad thai, green curry, tom yum soup, massaman, and grilled seafood — at prices well below what the resort-facing restaurants charge. The portions are generous and the quality consistent.

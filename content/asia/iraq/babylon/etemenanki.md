@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Etemenanki — its name means 'Temple of the Foundation of Heaven and Earth' — is widely thought to be the original Tower of Babel of the Book of Genesis. Alexander the Great ordered the ruined ziggurat to be cleared for restoration in 323 BC, but he died in Babylon before the work could begin, and the platform was never rebuilt."
+score: 8.1
 ---
 
 The great ziggurat of Babylon was a stepped pyramid 91 metres on each side and originally about the same height, dedicated to the city's chief god Marduk. It stood next to the Esagila temple complex and dominated the skyline of the ancient city.

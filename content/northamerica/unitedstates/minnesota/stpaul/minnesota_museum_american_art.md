@@ -10,6 +10,7 @@ longitude: -93.0895
 story: >
   The museum is housed in the Historic Pioneer-Endicott Building, a pair of 1889 commercial skyscrapers connected by a sky bridge — the buildings were among the first steel-frame structures in Minnesota and are now a designated landmark.
   The restoration of the building for the museum's 2019 reopening uncovered a spectacular original lobby with terrazzo floors and ornate ironwork that had been hidden under decades of commercial renovations.
+score: 7.8
 ---
 
 The Minnesota Museum of American Art — known locally as "The M" — focuses on American art across all periods, with particular strength in works connected to the Upper Midwest. The collection ranges from 19th-century landscape painting to contemporary work, and the museum has a strong commitment to local and indigenous artists. Admission is free.

@@ -8,6 +8,7 @@ tags:
   - sight
   - southeast_peninsula
 neighbourhood: Southeast Peninsula
+score: 7.2
 ---
 
 A wide sweep of pale sand on the Caribbean side of the peninsula, with calm shallow water and a row of relaxed beach bars under almond trees. South Friars is where locals come for Sunday lunch — barbecue smoke, soca and reggae, picnics that last until sunset.

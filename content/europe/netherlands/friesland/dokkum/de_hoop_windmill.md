@@ -7,6 +7,7 @@ tags:
 latitude: 53.322778
 longitude: 5.998056
 snippet: "One of two working windmills that stand within the old town fortifications."
+score: 6.6
 ---
 
 De Hoop (The Hope) is a corn mill standing within the old rampart circuit of Dokkum, one of two windmills that give the town its distinctive skyline. It's a grondzeiler (a mill set on the ground rather than a raised structure) and has been grinding grain on this site since the 18th century.

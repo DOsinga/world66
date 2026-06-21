@@ -8,6 +8,7 @@ longitude: -75.5833
 story: The flora and fauna sanctuary protects 489 hectares of Andean cloud forest
   that recovered from coffee plantations and timber concessions in only a few decades
   — a useful counterargument to the idea that tropical forests cannot heal.
+score: 8.4
 ---
 
 A small but rich flora and fauna sanctuary in the Otún river valley, an hour east of Pereira on the road towards Parque Nacional Los Nevados. The reserve is administered by Colombia's national parks system and protects one of the best preserved patches of Andean cloud forest on the western slope of the cordillera.

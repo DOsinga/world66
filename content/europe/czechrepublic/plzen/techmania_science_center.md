@@ -8,6 +8,7 @@ latitude: 49.7409
 longitude: 13.3615
 sources:
   - https://en.wikipedia.org/wiki/Techmania_Science_Center
+score: 6.5
 ---
 
 Techmania Science Center occupies a former Škoda factory hall in the Borská pole industrial zone southwest of the city centre and is one of the best science museums in the Czech Republic. The building — a large 20th-century industrial shed — has been converted into an open exhibition space filled with over 300 interactive exhibits on physics, biology, technology, and mathematics.

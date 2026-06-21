@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 67.79
 longitude: 12.53
 story: The Norwegian word "malstrøm" — meaning grinding stream — entered the English language as "maelstrom" specifically because of this tidal current; Poe based his 1841 story on accounts by real sailors who had survived crossings, and the word has since come to mean any kind of overwhelming chaos.
+score: 7.6
 ---
 
 The Moskstraumen is the tidal current that runs between the southern tip of Moskenesøya and the small islands of Mosken and Vaeroy — one of the strongest tidal currents anywhere in the world, reaching speeds of up to five knots when wind and tide oppose each other. Medieval sailors described it as a permanent whirlpool capable of swallowing ships whole. That was exaggeration, but not by as much as you might expect: in rough conditions the Moskstraumen creates standing waves, violent eddies, and a surface chop that is deeply disorienting. Vessels do still get into trouble here.

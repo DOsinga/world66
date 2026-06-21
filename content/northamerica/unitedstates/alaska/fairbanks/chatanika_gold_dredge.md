@@ -11,6 +11,7 @@ story: >
   Built in 1928, the dredge operated until 1962, chewing through the creek valleys
   north of Fairbanks and leaving behind the distinctive tailings piles still visible
   from the road today. It was designated a National Historic Landmark in 1986.
+score: 6.8
 ---
 
 Gold Dredge No. 3 sits alongside the Steese Highway about 30 miles north of Fairbanks, near the old mining settlement of Chatanika. The massive steel structure — essentially a floating factory — was used to extract gold from creek-bottom gravel during the industrial mining boom of the early and mid-twentieth century.

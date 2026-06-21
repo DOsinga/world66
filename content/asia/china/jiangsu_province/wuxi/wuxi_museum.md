@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 31.5450
 longitude: 120.3141
+score: 7.2
 ---
 
 The Wuxi Museum occupies a large modern building in the eastern part of the city and holds the main civic collection of local history, art, and culture. The permanent galleries cover the city's commercial history (it was one of the four major rice-trading cities of imperial China), its silk and textile industries, and the development of the lake region. There are also rotating exhibitions of Chinese calligraphy and traditional painting.

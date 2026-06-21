@@ -1,5 +1,0 @@
-europe/germany/badenwrttemberg/schiltach
-northamerica/mexico/yucatan/rio_lagartos
-northamerica/unitedstates/arkansas/springdale
-northamerica/unitedstates/massachusetts/stockbridge
-europe/germany/northrhinewestphalia/essen

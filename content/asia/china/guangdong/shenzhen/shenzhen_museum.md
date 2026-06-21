@@ -10,6 +10,7 @@ story: >
   The museum's permanent exhibition compresses Shenzhen's transformation from a fishing village of 30,000 people to a megacity of seventeen million into a single gallery. The photographs alone are extraordinary: aerial shots from 1980 showing paddy fields and mud-brick houses stand next to near-identical angles taken forty years later showing nothing but towers.
 sources:
   - https://en.wikipedia.org/wiki/Shenzhen_Museum
+score: 8.4
 ---
 
 The Shenzhen Museum sits in the Civic Center complex in Futian District and is one of the few places in the city designed to make you reflect on what Shenzhen actually is. The main building houses two permanent exhibitions: one on the ancient history of Shenzhen and the Pearl River Delta region, and the other — the remarkable one — on the modern history of the Special Economic Zone.

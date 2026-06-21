@@ -14,7 +14,7 @@ quick_facts:
   Drives On: Left
   Languages: "~140 — most per capita on Earth"
   Land Diving on Pentecost: The original bungee jumping
-score: 0.6
+score: 0.52
 loc_type: country
 ---
 

@@ -8,6 +8,7 @@ latitude: 51.1900
 longitude: 5.1000
 address: "Waterstraat 53"
 phone: "+32 (0)14 817722"
+score: 5.8
 ---
 
 This is a retired canal boat moored along the Bocholt-Herentals canal near Sas III — Lock 3 to non-Dutch speakers. It is not actually a tall ship, despite the name, but a converted working barge that has traded its cargo for a kitchen and a dining room. Eating here means sitting on the water, which adds something that no amount of interior decoration can replicate.

@@ -6,6 +6,7 @@ longitude: -8.36
 tags:
   - bars_and_cafes
   - bar
+score: 5.8
 ---
 
 A run of summer beach bars sets up directly on the sand along the central stretch of the seafront, with sunbeds, cold beer, and quick grilled food. The atmosphere shifts from low-key family in the day to lively but not rowdy in the evening.

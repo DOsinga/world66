@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "Modena's opera house, named for its two world-famous native singers"
 latitude: 44.6467
 longitude: 10.9302
+score: 7.0
 ---
 
 Modena's opera house carries the names of two of the 20th century's greatest singers — Luciano Pavarotti and Mirella Freni — both born in the city within months of each other in 1934. The theatre dates from 1841, rebuilt after a fire in the late 18th century, and is a handsome neoclassical building in the city centre. Its programme runs from October to May, with opera, ballet, and orchestral concerts.

@@ -8,6 +8,7 @@ tags:
 - getting_around
 title: Bergamo Bus Station
 type: poi
+score: 2.7
 ---
 
 Bergamo has two main bus stations. The principal one is on Via Bono, directly across the street from the train station (slightly to the left as you exit). This is where Autostradale and Zani buses depart, including services to Orio al Serio airport and Milan.

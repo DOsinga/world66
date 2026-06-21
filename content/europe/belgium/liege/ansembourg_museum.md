@@ -7,6 +7,7 @@ tags:
 latitude: 50.6470
 longitude: 5.5822
 snippet: 18th-century patrician mansion preserved with its original furniture and decoration
+score: 7.9
 ---
 
 The Musée d'Ansembourg occupies a magnificent 18th-century mansion on the Féronstrée, one of the oldest streets in Liège. Unlike most house museums, the Ansembourg has kept its original interior largely intact — the panelled salons, the painted ceilings, the parquet floors, the furniture and clocks and silverware are all in their original positions, giving a vivid picture of patrician life in the Prince-Bishopric at its height.

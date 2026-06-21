@@ -8,6 +8,7 @@ tags:
   - restaurant
 sources:
   - https://en.wikipedia.org/wiki/Bender%27s_Restaurant
+score: 6.8
 ---
 
 Bender's Tavern is one of Canton's oldest restaurants, operating since 1902 in a building that has changed remarkably little. The long mahogany bar, dark wood panelling, pressed tin ceiling, and stained glass windows are all original, giving the place the atmosphere of a pre-Prohibition saloon still in working order. It is a genuine piece of downtown Canton's history.

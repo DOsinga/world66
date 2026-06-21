@@ -15,6 +15,7 @@ story: >
   the tank, making use of the vast interior in a way that no conventional gallery
   could. Since then, artists including Christo, Robert Longo, and Ólafur Elíasson
   have used the space for installations that depend entirely on its extraordinary scale.
+score: 9.0
 ---
 
 The Gasometer Oberhausen is the most striking industrial heritage conversion in the Ruhr — a decommissioned gas holder built in 1929, standing 117.5 metres tall with an interior diameter of 67.6 metres, now serving as one of Europe's most unusual exhibition spaces. The sheer scale of the thing is the point: installations hang from the ceiling 100 metres above, and visitors take lifts to an outdoor viewing platform at the top for panoramic views across the Ruhr.

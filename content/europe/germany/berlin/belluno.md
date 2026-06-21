@@ -10,6 +10,7 @@ tags:
 - prenzlauerberg
 title: Belluno
 type: poi
+score: 5.4
 ---
 
 An Italian restaurant on Kollwitzstrasse in Prenzlauer Berg, one of the liveliest dining streets in the neighborhood. The location near Kollwitzplatz puts it in the middle of the weekend farmers' market area. Nearest U-Bahn is Senefelderplatz on the U2 line.

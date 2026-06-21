@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Malay Annals — the founding text of the Malay world — open with the descent of three princes onto the summit of Bukit Seguntang, who then sail off to found the kingdoms of Singapura, Tanjung Pura, and Palembang itself. To this day the hill is a place of pilgrimage for Malay royalty from Malaysia, Brunei, and Indonesia who trace their ancestry back to it."
+score: 8.1
 ---
 
 Bukit Seguntang is a small thirty-metre hill on the northwestern outskirts of Palembang, surrounded by a quiet green park. The hill itself is unremarkable, but the legends and the relics scattered across its summit are extraordinary: a cluster of seven medieval graves attributed to early Malay royalty, several large Buddhist statues, and a famous inscription stone.

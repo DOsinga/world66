@@ -10,6 +10,7 @@ latitude: 22.6204
 longitude: 120.2826
 snippet: Cluster of converted warehouses now full of galleries, studios and street art
 story: "The warehouses were abandoned in the 1990s when the port shifted further south. A group of local artists began to use them as studios from 2001, and the city government formally redeveloped them as an arts centre in 2006. The Star line of the light rail now runs straight through the middle, sharing space with the public art."
+score: 8.7
 ---
 
 A long line of former dock warehouses converted into galleries, performance spaces, indie shops and cafes along the inner harbour. Pier-2 has become the cultural heart of new Kaohsiung — a place to spend half a day wandering between exhibitions of contemporary Taiwanese art, oversized public sculptures on the harbourside lawn, and craft markets at weekends.

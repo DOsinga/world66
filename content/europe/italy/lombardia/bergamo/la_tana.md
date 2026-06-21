@@ -12,6 +12,7 @@ tags:
 - eating_out
 title: La Tana
 type: poi
+score: 6.3
 ---
 
 A wine bar and trattoria set inside one of Bergamo Alta's medieval towers — a stone building from around 1400, with ceiling beams, an old well at the entrance, and a fireplace crackling in winter. The front door was once the entrance for horses and carriages. Come for local wines, a board of cheeses and salame, or simple grilled meats. The setting does a lot of the work, but the food holds up.

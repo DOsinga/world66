@@ -14,6 +14,7 @@ tags:
 - landmark
 title: Kofar Mata Dye Pits
 type: poi
+score: 8.1
 ---
 
 Located at the Kofar Mata Gate at the edge of the Old City, these ancient indigo dye pits are one of Kano's most vivid sights. Lengths of cloth hang drying from wooden frames while workers pound the fabric in deep pits filled with a fermented indigo solution. You can watch from the walkway above or buy finished cloth directly from the craftsmen.

@@ -5,6 +5,7 @@ tags: [day_trips, sight, nature]
 latitude: 14.2283
 longitude: 74.7953
 story: Jog Falls was once described as the second highest untiered waterfall in the world, though the Linganmakki Dam upstream now controls its flow — the falls only thunder at full volume during the monsoon or when Karnataka Power Corporation releases water, which it announces in advance.
+score: 9.2
 ---
 
 Jog Falls is the most famous natural sight in the region and justifies a full day from Shimoga. The Sharavathi river drops 253 metres in four distinct plunges — the Raja, the Rani, the Rover, and the Roarer — over a rocky escarpment at the edge of the Western Ghats. At full flow it is genuinely breathtaking: a curtain of white water crashing into a mist-filled gorge.

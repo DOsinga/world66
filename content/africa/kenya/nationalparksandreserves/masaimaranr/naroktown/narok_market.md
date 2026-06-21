@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -1.0887
 longitude: 35.8715
+score: 6.1
 ---
 
 Narok's main market is the commercial engine of a region that stretches across the Mara grasslands and beyond. Traders come from across Narok County to buy and sell livestock, produce, household goods, and the handcrafted beadwork for which Maasai artisans are famous. The beadwork sold here — necklaces, bracelets, bangles in the signature reds, blues, and whites of Maasai culture — is generally less expensive than at the tourist stalls inside the reserve.

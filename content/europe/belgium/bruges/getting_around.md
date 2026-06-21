@@ -29,7 +29,7 @@ One Day pass : unlimited travel on all city buses (€27,50).
 
 Arriving by car, you will be able to use one of the five underground parkings (3.675 pl.) in the inner city or one of the parking lots alongside the ring road from where you will quickly reach downtown, walking or using one of the frequently operated bus lines.
 
-In the big parking garage near [more..](/europe/belgium/bruges/gettingaround/arrivingbycar)
+In the big parking garage near the railway station, your parking ticket also covers a return bus ride into the centre for everyone in the car.
 
 **Arriving by train**
 

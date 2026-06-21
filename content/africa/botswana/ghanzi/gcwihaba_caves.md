@@ -8,6 +8,7 @@ latitude: -20.023
 longitude: 21.355
 story: >
   Gcwihaba means "hyena's den" in the Zu/'hoasi San language, and the caves have been known to local San for centuries. When farmer Martinus Drotsky was shown them by his San workers in 1932, they were still filled with sub-fossil remains of lions, leopards, and brown hyenas that had used the cave as a lair long before the climate dried out.
+score: 8.0
 ---
 
 Gcwihaba is one of Botswana's few significant cave systems — about 100 kilometres north of Ghanzi near the Namibian border, it requires serious planning to visit but rewards the effort. The caverns extend for several kilometres underground, with impressive stalactite and stalagmite formations that testify to a wetter climate in the distant past. The caves are on Botswana's UNESCO World Heritage tentative list.

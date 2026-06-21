@@ -7,6 +7,7 @@ tags:
   - anping
 latitude: 23.0006
 longitude: 120.1622
+score: 6.8
 ---
 
 Shrimp rolls — xia juan — are one of the quintessential Anping district snacks: a filling of minced shrimp, pork fat, and seasoning wrapped in a thin tofu skin casing, then deep-fried until the outside crisps and the interior stays juicy. They are eaten with a dipping sauce of plum paste or chilli. Several shops along the old streets of the Anping district sell them, and the best are made to order rather than sitting in a warming case.

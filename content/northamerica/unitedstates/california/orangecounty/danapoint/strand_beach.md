@@ -8,6 +8,7 @@ tags:
 latitude: 33.4789
 longitude: -117.7113
 story: "The Strand inclined elevator was built in 2009 as a condition of the gated luxury development on the bluffs above. California coastal access laws required developers to provide public access to the sand below, and the funicular — a free, public, glass-walled cabin running down a 35-degree slope — was their solution. It is the only public beach funicular in California."
+score: 7.2
 ---
 
 Strand Beach is the stretch of sand directly below the gated cliff-top development of the same name, accessed by either a long stairway or — much more pleasantly — by a free public funicular that descends the cliffs in glass-walled cabins. The cabin runs from 8am to sunset.

@@ -8,6 +8,7 @@ latitude: -5.785
 longitude: -35.209
 sources:
   - https://en.wikipedia.org/wiki/Andr%C3%A9_de_Albuquerque_Square
+score: 6.8
 ---
 
 The Praça André de Albuquerque, known locally as the Praça Vermelha (Red Square) for its reddish paving, is the historic center of Natal. The square is flanked by the old cathedral and a cluster of 17th-century buildings that represent some of the oldest surviving colonial architecture in Rio Grande do Norte. It is where the city was formally founded in 1599.

@@ -14,6 +14,7 @@ story: >
   have been decimated by introduced mongooses, feral cats, and habitat loss. A
   small sanctuary on Yadua Taba Island holds the main breeding population, but
   Wayasewa has a remnant wild group.
+score: 8.0
 ---
 
 Wayasewa (sometimes spelled Waya Sewa) is one of the more dramatic islands in the southern Yasawas, with steep volcanic ridges rising sharply from the coastline and a rugged interior that rewards those willing to walk. The main hike climbs to the highest point on the island — roughly 350 metres — from where the views across the Yasawa chain and back toward the Mamanucas are exceptional on a clear day.

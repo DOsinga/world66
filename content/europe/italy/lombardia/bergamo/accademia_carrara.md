@@ -15,6 +15,7 @@ tags:
 title: Accademia Carrara
 type: poi
 url: www.accademiacarrara.bergamo.it
+score: 9.0
 ---
 
 Bergamo's main art museum holds one of the best collections of northern Italian painting outside Milan. Botticelli, Raphael, Titian, Lorenzo Lotto — the permanent collection is genuinely strong. Lotto's work here is especially worth seeking out; he spent years in Bergamo and the city shaped his best period.

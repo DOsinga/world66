@@ -7,6 +7,7 @@ snippet: The triangular village green at the heart of old Laren
 tags:
 - things_to_do
 - sight
+score: 7.0
 ---
 
 The Brink is the wide triangular common at the centre of Laren, the medieval village green where farmers once drove their cattle and where the village fairs still take place. The basilica sits on one side, café terraces line the others, and old oaks shade most of it through summer. On Saturday mornings a small market runs along the south edge.

@@ -10,6 +10,7 @@ story: >
   The spring that gives the park its name is the resurgence point of the Loiret river, which disappears into the ground 12 km upstream at Saint-Benoît-sur-Loire and travels underground — filtering through limestone — before reappearing here. The flow rate of the spring varies with rainfall, but at its strongest the water erupts from the ground with considerable force.
 sources:
   - https://en.wikipedia.org/wiki/Parc_floral_de_la_Source
+score: 7.2
 ---
 
 The Parc Floral de la Source is a large botanical garden and park on the southern edge of the city, built around the natural spring that is the source of the Loiret. Laid out for the 1967 International Flower Show, it covers about 35 hectares and contains formal French gardens, rose collections, an iris garden, and areas of more naturalistic planting around the waterways.

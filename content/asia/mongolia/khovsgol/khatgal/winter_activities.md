@@ -8,6 +8,7 @@ latitude: 50.4439
 longitude: 100.1617
 story: >
   Lake Khövsgöl freezes so solidly each winter that it has historically served as a road for trucks carrying supplies north to remote communities. The ice can reach a metre in thickness by February, and local fishermen chop holes through it to fish in the cold clear water below.
+score: 7.6
 ---
 
 From December through April, Lake Khövsgöl freezes into a vast natural rink, and the landscape around Khatgal transforms completely. Ice fishing is the most popular activity — locals cut holes through the thick ice and pull out Arctic grayling and Siberian whitefish. Visitors can join them with simple borrowed equipment.

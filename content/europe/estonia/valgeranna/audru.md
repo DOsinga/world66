@@ -8,6 +8,7 @@ latitude: 58.4122
 longitude: 24.3553
 sources:
   - https://en.wikipedia.org/wiki/Audru
+score: 5.6
 ---
 
 Audru is a small borough about 3 km north of Valgeranna, and the nearest settlement of any size. It has a late 18th-century manor house — Audru Manor — built in a restrained neoclassical style that is characteristic of Estonian rural architecture of the period. The manor and its grounds are worth a brief stop if you are passing through.

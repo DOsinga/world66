@@ -7,6 +7,7 @@ tags:
 snippet: European-style themed park north of Bandung, very popular with Indonesians
 latitude: -6.8175
 longitude: 107.6105
+score: 4.7
 ---
 
 A self-consciously themed European-village complex on the Lembang plateau: a Bavarian-looking gatehouse, a Swiss-style farmhouse, alpacas, miniature goats, and rentable medieval costumes for photographs. Touristy in an unmistakably Indonesian way, and very popular with domestic visitors and local Instagrammers.

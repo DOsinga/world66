@@ -7,6 +7,7 @@ snippet: Local general-aviation airport, named for an Arctic explorer
 tags:
 - things_to_do
 - sight
+score: 5.3
 ---
 
 The county airport at Queensbury is named for Floyd Bennett, the naval aviator from the area who flew Richard E. Byrd on the first claimed flight over the North Pole in 1926. (The claim has been disputed since, but Bennett's award of the Medal of Honor for the flight stands.)

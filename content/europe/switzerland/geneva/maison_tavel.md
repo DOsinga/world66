@@ -15,6 +15,7 @@ story: >
   and the repaired structure incorporates medieval stonework from both before
   and after the disaster. A carved relief of animal heads still decorates the
   facade, Geneva's oldest surviving architectural ornament.
+score: 8.2
 ---
 
 The Maison Tavel is the oldest private house in Geneva still standing, parts of it dating to the 12th century. It sits on rue du Puits-Saint-Pierre in the Vieille Ville and has been a museum since 1986, housing the city's collection of objects relating to Genevan history and urban life.

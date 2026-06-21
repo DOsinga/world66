@@ -14,6 +14,7 @@ story: >
   one of India's great street food destinations, operating until 2 or 3 in the morning.
   The combination was deliberate: the jewellery traders, nervous about thieves, had lobbied
   the city to keep the street active at night, and the food vendors were the solution.
+score: 8.7
 ---
 
 Sarafa Bazaar is a narrow lane in the old city near the Rajwada that operates as a jewellery market by day and India's most celebrated street food market by night. From around 9pm, vendors set up carts and stalls selling an extraordinary range of Indori specialties: garadu (a fried yam snack seasoned with spices), bhutte ka kees (grated corn cooked with milk and spices), jalebi served with fafda, shikhanji (a spiced lemon drink), and various types of chaat and mithai.

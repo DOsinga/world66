@@ -9,6 +9,7 @@ tags:
 - sight
 title: Tschudi Complex
 type: poi
+score: 9.2
 ---
 
 The main visitor circuit inside Chan Chan. Tschudi is one of the nine royal ciudadelas — walled palace compounds built by successive Chimú kings. A restored walking trail leads through high adobe corridors decorated with geometric friezes of pelicans, fish, and waves. It gives a real sense of the scale of the city, even in its eroded state.

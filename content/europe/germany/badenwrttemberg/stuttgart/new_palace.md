@@ -18,6 +18,7 @@ story: >
   the public.
 sources:
   - https://en.wikipedia.org/wiki/New_Palace,_Stuttgart
+score: 7.3
 ---
 
 The New Palace is Stuttgart's most imposing building — a long baroque facade facing onto Schlossplatz, with wings extending back toward the royal gardens. Construction began in 1746 and took 61 years to complete, spanning several generations of Württemberg rulers and the shift from duchy to kingdom. The interior was destroyed in World War II bombing; reconstruction was completed in 1978.

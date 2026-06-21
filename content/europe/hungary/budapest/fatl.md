@@ -9,6 +9,7 @@ tags:
 - gellert_hill
 title: Fatál
 type: poi
+score: 5.6
 ---
 
 The name means "wooden platter," which is exactly how most dishes arrive at your table — heaped with goulash, stuffed cabbage, or grilled meats. This is no-frills Hungarian country cooking served in a rustic cellar setting on Váci utca, Budapest's busiest pedestrian shopping street.

@@ -7,6 +7,7 @@ snippet: Frederick Olmsted-designed downtown park with the city's signature rose
 tags:
 - things_to_do
 - park
+score: 7.2
 ---
 
 Montebello Park sits in the heart of downtown St. Catharines, a six-acre Victorian park laid out in 1888 by the firm of Frederick Law Olmsted (the designer of New York's Central Park). The park is shaped like a long lozenge, with curving paths, a Victorian bandshell, a large fountain, and one of the largest rose gardens in southern Ontario — more than 1,400 bushes that flower from June through October.

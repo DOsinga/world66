@@ -9,6 +9,7 @@ tags:
   - bar
 title: Café Rojo
 type: poi
+score: 6.1
 ---
 
 Barrio Escalante has a cluster of specialty coffee shops sourcing directly from Costa Rican farms, and Café Rojo is among the best of them. The baristas know their varieties — Tarrazú, Naranjo, Tres Ríos — and will discuss the differences if you're interested. Espresso and filter are both done carefully.

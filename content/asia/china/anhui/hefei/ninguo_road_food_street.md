@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 31.8600
 longitude: 117.2900
+score: 4.5
 ---
 
 Ninguo Road and the surrounding streets in central Hefei constitute the city's best-known food destination — specifically for xiaolongxia, the freshwater crayfish that Hefei has made its own. Restaurants here start filling in the early evening and reach peak intensity around 9pm, when tables spill onto the pavement and the smell of garlic, chili oil, and river crustaceans pervades the street.

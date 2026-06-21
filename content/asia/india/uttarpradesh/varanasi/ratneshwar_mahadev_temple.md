@@ -14,6 +14,7 @@ story: >
   earth and tilt toward the Ganges.
 sources:
   - https://en.wikipedia.org/wiki/Ratneshwar_Mahadev_temple
+score: 7.6
 ---
 
 The Ratneshwar Mahadev Temple, also known as the Kashi Karvat Temple, is one of Varanasi's most arresting visual surprises. The small Shiva temple leans dramatically at nine degrees from vertical — visibly crooked to the naked eye — and has partly submerged into the earth beside the Ganges. During the monsoon, when the river rises, it floods entirely.

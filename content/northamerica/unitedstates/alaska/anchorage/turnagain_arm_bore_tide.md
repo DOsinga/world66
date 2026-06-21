@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: One of the world's largest bore tides, surfable in summer along the Seward Highway
 story: "Captain Cook named Turnagain Arm in 1778 after his ships had to turn back from the dead-end inlet. The arm has the second-largest tidal range in North America, almost forty feet at peak; the incoming tide rolls up the inlet as a single wave up to six feet high, fast enough for stand-up paddlers to ride."
+score: 8.4
 ---
 
 Twice a day the tide rolls up Turnagain Arm — the long, shallow inlet south of Anchorage — as a single wave, sometimes six feet high, travelling at fifteen miles an hour. It is one of the largest bore tides in the world. In summer surfers and stand-up paddleboarders catch it; on a still day you can hear it coming.

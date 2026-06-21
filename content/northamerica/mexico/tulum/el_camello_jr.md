@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 - tulum_pueblo
+score: 6.9
 ---
 
 El Camello — "the little camel" — is the busiest marisquería in the pueblo, a large open-fronted dining room on the main highway where fishermen and families pile in at lunchtime. The menu is built around what comes in off the boats that morning: ceviche by the small or large bowl, grilled whole fish, octopus with garlic, shrimp every way they can think of.

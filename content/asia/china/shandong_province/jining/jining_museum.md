@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.4200
 longitude: 116.5900
+score: 7.3
 ---
 
 The Jining City Museum covers the history of the region from Neolithic times through the canal era and into the Republican period. The collection is strongest on Han Dynasty material — this region of southwestern Shandong has yielded significant Han-era tomb finds — and on the canal period, when Jining was one of the major entrepôts on the Beijing-Hangzhou route.

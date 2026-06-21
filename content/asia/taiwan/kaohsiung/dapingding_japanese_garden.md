@@ -7,6 +7,7 @@ tags:
 latitude: 22.6233
 longitude: 120.2792
 snippet: Restored Japanese colonial-era garden and house in central Kaohsiung
+score: 6.9
 ---
 
 A small Japanese garden with a faithful reconstruction of the Japanese house that once stood here for a senior colonial-era civil servant. The garden uses the classic shakkei (borrowed-landscape) technique, with stepping stones, a koi pond, lanterns and clipped pines arranged in a tight courtyard.

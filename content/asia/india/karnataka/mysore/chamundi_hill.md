@@ -12,6 +12,7 @@ story: >
   numbered and the count has become a point of local pride: pilgrims, fitness enthusiasts,
   and curious tourists all descend to count them. Most people ride to the top by road and
   walk down — the views improve with each flight of steps.
+score: 8.4
 ---
 
 Chamundi Hill rises 1,062 metres above sea level south of the city and has dominated the Mysore skyline since the Wadiyar dynasty chose the hill goddess Chamundeshwari as their family deity. The temple at the summit is one of the important Shakti temples of South India — large, active, and wrapped in the usual infrastructure of a busy pilgrimage site: flower stalls, prasad vendors, shoe deposit counters, and a persistent queue at the inner sanctum. Non-Hindus can visit the outer precincts and the gopuram (tower) area; the inner sanctum is restricted.

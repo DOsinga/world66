@@ -6,6 +6,7 @@ longitude: 78.8225
 tags:
   - eating_out
   - restaurant
+score: 6.8
 ---
 
 Nagaraju Hotel, in the cluster of small eateries opposite Laxmiranga Theatre near the old bus stand, is the right place to eat classic Rayalaseema food. The menu runs to ragi sangati served with natukodi (country chicken) curry, mutton gravies, and the standard offal preparations — boti, paya, gunpowder-style fries — that define inland Andhra cooking. Prices are low; most dishes run Rs 50–150.

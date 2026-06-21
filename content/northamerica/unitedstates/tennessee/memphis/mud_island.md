@@ -9,6 +9,7 @@ tags:
   - downtown
   - sight
   - museum
+score: 7.5
 ---
 
 Mud Island is a small peninsula jutting into the Mississippi from downtown Memphis, connected to the mainland by a pedestrian bridge and monorail. The park's defining feature is the River Walk — a scale model of the entire lower Mississippi River, from Cairo, Illinois, to the Gulf of Mexico, rendered at 1:1500 scale. You can walk the length of it in about 45 minutes, with the river's curves, tributaries, and cities marked along the way, ending at a scale model of the Gulf that you can wade in during summer.

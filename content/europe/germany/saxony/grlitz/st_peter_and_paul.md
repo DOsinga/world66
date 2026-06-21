@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.1563
 longitude: 14.9910
+score: 8.7
 ---
 
 The Church of Saints Peter and Paul (Stadtkirche St. Peter und Paul) is the main church of Görlitz and one of the most impressive Gothic churches in Saxony. Its twin towers are visible from across the city and serve as a navigational landmark in the Old Town. The church was built in stages from the 13th to the 15th century, and its interior contains the famous "sun organ" — an 18th-century instrument with a remarkably preserved case that is still used for regular concerts.

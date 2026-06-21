@@ -9,6 +9,7 @@ latitude: 41.3675
 longitude: 48.5097
 sources:
   - https://en.wikipedia.org/wiki/Museum_of_Mountain_Jews
+score: 7.8
 ---
 
 The Museum of Mountain Jews traces the history of the Juhuro people — the Mountain Jews of the eastern Caucasus — from their origins in ancient Persia through centuries of settlement in Azerbaijan and Dagestan to the present day. The collection includes traditional dress, household objects, religious artefacts, and photographs that document community life in the 19th and early 20th centuries.

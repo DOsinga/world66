@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.751
 longitude: -97.0877
+score: 6.6
 ---
 
 Caelum Moor is a large outdoor sculpture installation consisting of five groups of standing granite stones — a Stonehenge-like arrangement that was originally built in 1986 for a corporate headquarters in Irving, then relocated to a park near AT&T Stadium. The artist, Norman Hurd, modelled the installation on megalithic stone circles, and the scale is imposing: the largest stones stand five metres tall.

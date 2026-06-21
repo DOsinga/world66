@@ -9,6 +9,7 @@ tags:
 - sights
 title: Mir Castle
 type: poi
+score: 9.1
 ---
 
 The red-brick Mir Castle is one of Belarus's standout sights and a UNESCO World Heritage Site since 2000. Built in the early 16th century, the castle blends Gothic, Renaissance, and Baroque styles — the result of centuries of rebuilding by successive owners including the Ilyinich, Radziwill, and Svyatopolk-Mirsky families.

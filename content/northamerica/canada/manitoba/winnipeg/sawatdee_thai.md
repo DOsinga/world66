@@ -1,19 +1,13 @@
 ---
-address: 555 Osborne
-latitude: 42.931239
-longitude: -76.562901
+address: 555 Osborne St
+latitude: 49.8751
+longitude: -97.1462
 tags:
 - eating_out
+- restaurant
 title: Sawatdee Thai
 type: poi
+score: 5.4
 ---
 
-Well prepared and reasonably priced Thai. Pleasant and unpretentious. Friendly service.
-
-type: Thai
-
-
-
-
-
-address: 555 Osborne
+Well-prepared, reasonably priced Thai food on Osborne Street in the Village. Pleasant, unpretentious atmosphere and friendly service. A reliable neighbourhood standby for pad thai, curries, and larb.

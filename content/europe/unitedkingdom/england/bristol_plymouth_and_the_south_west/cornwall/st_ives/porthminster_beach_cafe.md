@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 50.2094
 longitude: -5.4762
+score: 6.3
 ---
 
 Porthminster Beach Cafe is the best restaurant in St Ives by a comfortable margin and one of the best in Cornwall. It sits on the beach at Porthminster with views across the bay, which is reason enough to book a table, but the food matches the setting. The menu centres on fish and seafood landed locally — monkfish, crab, sea bass, scallops — cooked with genuine skill and a light Mediterranean touch.

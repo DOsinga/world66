@@ -8,6 +8,7 @@ tags:
   - sight
   - old_san_juan
 neighbourhood: Old San Juan
+score: 8.6
 ---
 
 A wide tree-shaded promenade running along the south wall of Old San Juan, from the cruise terminals up to the Puerta de San Juan and around the base of the walls to El Morro. It is the most pleasant evening walk in the city — cafés and benches on one side, the harbour and the bronze Raíces fountain on the other.

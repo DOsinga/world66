@@ -7,6 +7,7 @@ tags:
   - walking
 latitude: 50.5273
 longitude: -3.5957
+score: 7.8
 ---
 
 The Templer Way is an 18-mile waymarked footpath that follows the route along which Dartmoor granite was once hauled down to the sea — first by horse-drawn tramway and then by canal and barge — for shipping to London. The Newton Abbot end of the trail follows the Teign estuary out to Teignmouth, a flat, easy walk of about eight miles past mudflats, herons, and old quayside warehouses.

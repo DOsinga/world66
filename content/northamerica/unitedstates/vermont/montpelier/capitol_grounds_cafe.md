@@ -7,6 +7,7 @@ address: 27 State Street, Montpelier, VT
 tags:
   - bars_and_cafes
   - cafe
+score: 6.8
 ---
 
 The legislators' coffee shop — directly across State Street from the capitol, roasting its own beans on the premises since 1992. A long counter, a clutch of tables, free wifi, and a steady stream of lobbyists and staffers when the Assembly is in session.

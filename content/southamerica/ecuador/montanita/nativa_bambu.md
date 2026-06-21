@@ -7,6 +7,7 @@ tags:
 latitude: -1.8285
 longitude: -80.7530
 snippet: "Montañita's biggest beach bar, a beachfront bamboo structure with a dance floor"
+score: 6.8
 ---
 
 Nativa Bambu is the biggest bar in Montañita — a large open-sided bamboo structure right on the beach with a dance floor that fills on Friday and Saturday nights. The music ranges from reggaeton to cumbia to electronic, and by midnight on a weekend it is genuinely packed. The cocktails are cheap by any standard outside Ecuador, the rum-based drinks particularly so.

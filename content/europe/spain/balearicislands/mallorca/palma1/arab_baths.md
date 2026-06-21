@@ -9,6 +9,7 @@ latitude: 39.5682
 longitude: 2.6519
 story: >
   The twelve columns supporting the domed chamber are all different — different heights, different capitals, different origins — because they were salvaged from demolished Roman and early Christian buildings. This improvised approach was typical of Almohad builders, who saw reused columns as practical rather than improper.
+score: 7.6
 ---
 
 Tucked into a private garden in the La Calatrava quarter, the Arab Baths are among the best-preserved Islamic remains in the Balearic Islands and the most complete baths surviving from the Moorish period on Mallorca. Dating from the tenth or eleventh century, when Palma was the thriving capital of a Muslim-ruled island, the baths consist of two rooms: a cold room and the domed hot room, whose ceiling is pierced by small circular lights that admit diffused shafts of light into the steam-filled space.

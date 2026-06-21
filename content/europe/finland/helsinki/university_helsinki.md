@@ -5,6 +5,7 @@ tags: [things_to_do, architecture]
 snippet: Engel's neoclassical university on the west side of Senate Square
 latitude: 60.169444
 longitude: 24.950556
+score: 6.4
 ---
 
 The main building of the University of Helsinki, on the western side of Senate Square, designed by Carl Ludwig Engel in 1828–32 to mirror the Government Palace opposite. The Finlandia of Finnish learning, founded in 1640 in Turku and moved to Helsinki in 1828 after the great Turku fire. The university now has 30,000 students across multiple campuses, but this is still the historic heart.

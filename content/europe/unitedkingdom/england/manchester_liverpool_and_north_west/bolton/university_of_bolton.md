@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 Le Mans Crescent is the curved civic building at the heart of Bolton's town centre, a confident piece of inter-war municipal architecture that houses the town's library, museum and art gallery, and council offices in a single continuous structure. Built in the 1930s, it sweeps around a central square in a concave arc of pale stone, creating one of the more distinctive townscapes in Greater Manchester. The building reflects the same civic ambition that produced the Town Hall seventy years earlier — a sustained investment in public architecture that gave Bolton a civic centre well above the average for a manufacturing town of its size.

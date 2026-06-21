@@ -7,6 +7,7 @@ tags:
   - viewpoint
 latitude: 38.6275
 longitude: 34.8021
+score: 7.3
 ---
 
 A short walk south-west of Uçhisar Castle, along the rim of Pigeon Valley, brings you to a series of cliff-edge viewpoints favoured by locals and tour groups for sunset. The light catches the back of the castle, the valley cuts deepen into shadow, and the snow-capped cone of Mount Erciyes turns gold on the eastern horizon.

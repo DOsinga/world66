@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 59.2200
 longitude: 23.6200
+score: 7.7
 ---
 
 The Nõva Nature Reserve protects a section of the northwest Estonian coast with its characteristic landscape of juniper meadows, alvars (limestone grasslands), pine forests, and shoreline. The reserve is habitat for a range of wading birds and raptors, and the coastal meadows in spring and early summer have a good selection of orchids.

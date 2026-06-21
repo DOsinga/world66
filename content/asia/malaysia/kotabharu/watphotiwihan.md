@@ -15,6 +15,7 @@ story: >
   Asia outside Thailand. The temple belongs to a community of ethnic Thai-Kelantanese Buddhists
   who have lived in this corner of Kelantan for centuries, predating the state's current
   Muslim majority.
+score: 7.5
 ---
 
 Wat Photiwihan is a Thai Buddhist temple at Kampung Jambu, about 12 kilometres west of Kota Bharu, home to a 40-metre reclining Buddha that ranks among the largest in Southeast Asia. The statue is an impressive piece of work — the serene face above the length of the gilded body is visible from the road long before you reach the entrance.

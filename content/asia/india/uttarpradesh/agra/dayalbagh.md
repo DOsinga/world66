@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Construction on the white marble Samadh — the memorial to the Radhasoami sect's founder Swamiji Maharaj — began in 1904 and has continued without interruption for more than 120 years. The building is still unfinished. Devotees consider that this is the point: the work itself is a form of devotion."
+score: 7.3
 ---
 
 Dayalbagh, 5 km north of central Agra, is the headquarters of the Radhasoami Satsang Beas religious community. The main sight is the **Samadh of Swamiji Maharaj**, a white marble memorial in progress for over a century, with intricate carving and *parchin kari* inlay still being added by hereditary craftsmen.

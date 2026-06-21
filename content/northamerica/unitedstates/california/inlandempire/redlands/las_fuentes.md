@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - mexican
+score: 5.4
 ---
 
 Las Fuentes is the dependable downtown Mexican restaurant — a long-running family-run kitchen with a wide menu of standard Sonoran-Californian dishes (combination plates, fajitas, tacos al pastor, decent enchiladas) at moderate prices. The dining room is large, the bar makes a serviceable margarita, and they take walk-ins easily even on busy nights.

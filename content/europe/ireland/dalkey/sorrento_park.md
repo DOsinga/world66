@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: Small hillside park with views across the bay and out to Wales on clear days
+score: 7.3
 ---
 
 Tucked above the headland east of the village, Sorrento Park is almost hidden behind the houses of Sorrento Terrace and easily missed by visitors. A short steep path takes you up to a clearing with benches and the best ground-level view in Dalkey: Killiney Bay sweeping south, the Sugar Loaf mountain inland, the island and its Martello tower close offshore, and on the clearest of days the Welsh coast as a low smudge across the Irish Sea.

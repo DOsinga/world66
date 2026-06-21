@@ -13,6 +13,7 @@ story: >
   operation. Watching a cut of cars roll silently away from the hump crest and
   slot themselves into place without any locomotive involvement is a strangely
   satisfying piece of industrial choreography.
+score: 8.5
 ---
 
 The Bailey Yard is the largest railroad classification yard in the world, owned and operated by Union Pacific, and it sits right on the edge of North Platte. The Golden Spike Tower is a purpose-built eight-storey observation structure that gives the public a panoramic view directly over the yard.

@@ -7,6 +7,7 @@ longitude: 113.1317
 snippet: 53 cave temples carved into sandstone cliffs, with 51,000 Buddhist statues
 story: >
   Cave 20 at Yungang is the most photographed image in Shanxi — a colossal seated Buddha, nearly 14 metres tall, whose upper body is now fully exposed because the wooden structure that once enclosed the cave collapsed centuries ago. The figure's face shows a direct influence of Gandharan art from what is now Pakistan and Afghanistan, a reminder that the Silk Road ran through Datong during the Northern Wei dynasty.
+score: 9.5
 ---
 
 Fifteen kilometres west of central Datong, the Yungang Grottoes are carved into a sandstone cliff along the south bank of the Shi Li river and rank among the greatest achievements of Buddhist cave art in Asia — alongside Dunhuang's Mogao Caves and Luoyang's Longmen Grottoes. The complex contains 53 principal caves and more than 50,000 stone sculptures, ranging from tiny relief carvings to Buddha figures standing over 15 metres high.

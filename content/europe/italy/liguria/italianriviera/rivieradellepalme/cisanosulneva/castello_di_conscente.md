@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 44.0930
 longitude: 8.1610
+score: 7.2
 ---
 
 The hamlet of Conscente sits on a low hill 1.5 km north of Cisano, crowned by a 15th-century castle with multiple towers — the best-preserved fortified building in the lower Neva valley. The castle was built by the Del Carretto marquises and later passed to the Republic of Genoa.

@@ -9,6 +9,7 @@ latitude: 32.2157
 longitude: 119.4268
 story: >
   Xijindu — "Western Ferry Crossing" — was the name of the boat landing where travellers crossed the Yangtze for centuries before the first bridge was built. For a thousand years this was one of the most important crossing points in China, the gateway between north and south, and the buildings that lined the approach to it accumulated the prosperity of all that traffic. The British consulate was built here in 1858 because the British understood the strategic significance of controlling the crossing.
+score: 8.2
 ---
 
 Xijindu is the most historically layered street in Zhenjiang — a restored ancient ferry district along the Yangtze waterfront where the buildings reflect successive periods of the city's importance. The street runs parallel to the river and includes the former British Consulate (now a museum), several late Qing Dynasty shophouses, and a small cluster of restaurants and tea rooms.

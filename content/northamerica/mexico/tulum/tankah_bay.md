@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - beach
+score: 7.5
 ---
 
 Tankah is the kind of beach Tulum used to be twenty years ago. A small bay ten kilometres north of the ruins, the road in is unpaved, the cabañas are simple, and the swimming is direct from the sand: a coral reef begins about thirty metres offshore and runs the length of the bay. Snorkelling here is excellent and free — the reef is in better shape than the one off the main Tulum beach, and you will see tropical fish, fan corals, sometimes a turtle.

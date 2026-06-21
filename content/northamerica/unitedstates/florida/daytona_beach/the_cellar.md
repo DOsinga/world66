@@ -10,6 +10,7 @@ tags:
 title: The Cellar
 type: poi
 url: https://www.thecellarrestaurant.com
+score: 6.9
 ---
 
 The Cellar is the closest thing downtown Daytona has to fine dining. The restaurant occupies the former winter home of US President Warren G. Harding, an 1907 wood-frame house a block back from the river, with intimate small dining rooms and a brick-walled wine cellar still used for storage.

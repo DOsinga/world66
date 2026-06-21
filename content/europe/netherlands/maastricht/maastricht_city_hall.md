@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The double staircase was not just decorative. During the period of joint governance, Spanish and Dutch administrators needed to enter the building simultaneously without having to acknowledge each other — a small architectural response to a large political problem.
+score: 7.5
 ---
 
 The Stadhuis on the Markt is a confident piece of 17th-century Dutch classicism, designed by Pieter Post and completed in 1664. The double staircase at the main entrance is the defining feature — it was designed so that the city's Spanish and Dutch governors, who shared power over Maastricht under the peculiar arrangement that lasted until 1794, could each enter without yielding precedence to the other.

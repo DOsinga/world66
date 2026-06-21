@@ -12,6 +12,7 @@ tags:
 title: Days Gone By Bakery & Restaurant
 type: poi
 url: https://www.daysgoneby.ca
+score: 4.8
 ---
 
 Home-cooked meals and a scratch bakery in the centre of town. Seating for 80 with ample parking. A reliable, affordable stop for comfort food.

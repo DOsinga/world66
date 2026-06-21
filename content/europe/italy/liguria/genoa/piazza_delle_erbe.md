@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 type: poi
 snippet: Lively medieval square at the heart of the caruggi nightlife scene
+score: 6.4
 ---
 
 A small square deep in the old city, Piazza delle Erbe is where Genoa's aperitivo and late-night bar scene concentrates. The surrounding buildings date from the medieval period — some of the caruggi feeding into the square are so narrow that two people can barely pass. By early evening the square fills with tables and standing drinkers spilling out from the bars that ring it.

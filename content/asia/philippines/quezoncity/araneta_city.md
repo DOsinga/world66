@@ -7,6 +7,7 @@ tags:
 latitude: 14.6195
 longitude: 121.0551
 snippet: Entertainment and commercial hub anchoring the Cubao district
+score: 6.0
 ---
 
 Araneta City, built around the historic Smart Araneta Coliseum and Gateway Mall, is the commercial centre of Cubao and one of the busiest transit hubs in Metro Manila. The Coliseum — a large domed arena that has hosted Manny Pacquiao fights, boxing world championships, and concerts by artists from Frank Sinatra to Taylor Swift — remains one of the great mid-century venues in Southeast Asia.

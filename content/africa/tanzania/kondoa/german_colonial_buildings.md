@@ -5,6 +5,7 @@ latitude: -4.9055
 longitude: 35.7860
 tags: [things_to_do, sight, architecture]
 snippet: Solid German-era administrative buildings east of the river bridge, now housing Kondoa's district offices
+score: 6.4
 ---
 
 East of the narrow bridge that carries the main road into Kondoa, a cluster of sturdy low buildings survives from the German colonial administration that preceded British rule in Tanganyika. Built in the late nineteenth and early twentieth centuries from local stone with wide shaded verandas, they were designed to function in the heat and to project permanence. The post office is the most architecturally confident of the group — a well-proportioned building that still dominates its corner of the street.

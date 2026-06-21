@@ -2,9 +2,13 @@
 address: Red square, 3
 latitude: 55.754703
 longitude: 37.621438
+tags:
+- shopping
+- market
 title: GUM
 type: poi
 url: www.gum.ru
+score: 6.7
 ---
 
 GUM is ***the*** first shopping center in Moscow. Now, you can find shops there such as: Sisley, Benetton, Yve Roche, Morgan, 4You, Levi's, Escada, Christian Dior, Clinique, Naf Naf, Puma, and ect. There are also a lot of cafes, restaurants, and a cinema.

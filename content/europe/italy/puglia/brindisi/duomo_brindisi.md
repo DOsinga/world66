@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Brindisi
 story: >
   It was here in 1225 that Holy Roman Emperor Frederick II married Yolanda of Jerusalem, making Brindisi briefly the centre of medieval European politics. Frederick had assembled a court that spanned Christian and Islamic scholarship, and the wedding was attended by ambassadors from across the known world.
+score: 7.0
 ---
 
 The Cathedral of San Giovanni Battista stands at the heart of Brindisi's old town, its origins going back to the eleventh century, though the current façade is an eighteenth-century reconstruction after earthquake damage. Step inside and the building reveals its medieval bones: thick Norman columns, a mosaic floor in the nave, and fragments of original Romanesque stonework visible in the side chapels.

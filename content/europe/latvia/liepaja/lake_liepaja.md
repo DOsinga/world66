@@ -9,6 +9,7 @@ tags:
   - wildlife
 sources:
   - https://en.wikipedia.org/wiki/Lake_Liep%C4%81ja
+score: 6.3
 ---
 
 Lake Liepāja (Liepājas ezers) is the fifth-largest lake in Latvia, a shallow, reed-fringed body of water that forms the eastern boundary of the city. It is connected to the Baltic Sea by a canal through the port district, which keeps it slightly saline and gives it a different ecology from most Latvian inland lakes.

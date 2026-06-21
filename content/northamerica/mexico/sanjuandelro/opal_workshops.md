@@ -8,6 +8,7 @@ tags:
 latitude: 20.3920
 longitude: -99.9850
 story: "Mexican fire opals are distinct from Australian opals in both appearance and origin. They come from ancient volcanic deposits — lava flows that trapped silica-rich water, which solidified over millions of years into the translucent orange and red stones. The San Juan del Río region sits on one of the most productive of these volcanic opal fields, and the stone is extracted from soft rhyolite rock by hand with relatively simple tools."
+score: 7.2
 ---
 
 The area around San Juan del Río is one of Mexico's principal opal-producing regions, known particularly for fire opals — translucent stones in shades of orange, gold, and red, sometimes with the shifting play of colour called "fire." Several workshops in and around the city offer tours where you can watch stones being extracted and polished, and purchase directly at prices well below what you would pay in Mexico City or tourist towns.

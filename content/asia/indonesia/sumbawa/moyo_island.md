@@ -8,6 +8,7 @@ tags:
   - beaches
 latitude: -8.3333
 longitude: 117.5000
+score: 8.0
 ---
 
 Pulau Moyo (Moyo Island) lies in the Flores Sea about 8 km off the north coast of Sumbawa, reached by boat from Labuhan Sumbawa in roughly one hour. Most of the island is a nature reserve protecting diverse lowland tropical forest, mangroves, and offshore coral reefs. The diving and snorkelling around the island's eastern coast is considered among the best in West Nusa Tenggara — visibility is high and the coral is relatively undamaged.

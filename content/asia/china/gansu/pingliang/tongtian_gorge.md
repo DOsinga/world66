@@ -13,6 +13,7 @@ story: >
   in vivid cross-section. Geologists have read these layers as a record of climate
   change going back tens of millions of years; pilgrims, predictably, see the sculpted
   forms in the rock as the work of immortals. Both perspectives have their merits.
+score: 7.4
 ---
 
 Tongtian Gorge is a dramatic ravine on the western flank of Kongtong Mountain, accessible as part of the main scenic area ticket. The walls of the gorge are steep and close, with the path following the stream along the gorge floor before climbing back up to the main temple area above. The combination of dense vegetation, carved rock faces, and several small waterfalls makes this the most purely scenic section of the Kongtong Mountain complex.

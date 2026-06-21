@@ -6,6 +6,7 @@ longitude: -0.6072
 tags:
   - things_to_do
   - museum
+score: 6.4
 ---
 
 The Windsor and Royal Borough Museum, housed inside the Guildhall on the High Street, is the local history museum for Windsor and Maidenhead. The collection covers the town from prehistoric times — there are Bronze Age finds from the Thames — through Roman, Saxon, and medieval Windsor to the more recent past. The displays are compact and unfussy.

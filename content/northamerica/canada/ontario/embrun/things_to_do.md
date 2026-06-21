@@ -7,6 +7,7 @@ phone: none
 title: Things to do
 type: poi
 url: none
+score: 2.0
 ---
 
 Here are a few things you can do in Embrun.

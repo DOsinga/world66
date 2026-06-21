@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, festival, event]
 latitude: 51.6209
 longitude: 7.1853
+score: 8.2
 ---
 
 The Ruhrfestspiele is held each May and June and is one of Germany's most important theater festivals — unusual among major festivals for having a genuine working-class founding story. In the winter of 1947, miners from the Recklinghausen pits delivered emergency coal supplies to theaters in Hamburg; Hamburg's actors returned the favour by coming to perform for the miners. The festival has run every year since.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - shopping
+score: 8.0
 ---
 
 The Mercado del Norte is the city's main covered food market, a busy hall a few blocks south of Plaza Independencia where you can see the full range of northwestern Argentine produce in one place. Sugar from the local plantations, quesillo and honey from the sierra, dried herbs and spices, salame and chacinados from the surrounding farms, plus stacks of seasonal fruit — papaya, mango, citrus from nearby Famaillá — all pile up under the metal roof.

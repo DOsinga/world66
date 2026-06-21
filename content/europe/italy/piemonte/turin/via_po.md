@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 45.0695
 longitude: 7.6900
+score: 8.6
 ---
 
 The grandest of Turin's seventeenth-century arcaded streets, running for a full kilometre from Piazza Castello down to the river. The porticoes are deep enough to be a building in their own right; you can walk the entire length in the rain without getting wet, and on a hot day you stay in the shade.

@@ -15,6 +15,7 @@ story: >
   dedicated academy on the banks of the Bharathapuzha River, where the art form
   has been taught continuously ever since. Today Kalamandalam is a deemed university,
   the only one in the world dedicated to a performing art tradition.
+score: 8.3
 ---
 
 The premier institution for Kerala's classical performing arts, located at Cheruthuruthy on the Bharathapuzha River, about 30 km north of Thrissur. Founded in 1930 to preserve Kathakali — the elaborate costumed dance-drama of Kerala — the Kalamandalam has expanded to teach Mohiniyattam (the feminine lyrical dance form), Koodiyattam (the ancient Sanskrit theatre tradition, a UNESCO intangible heritage), Thullal, and classical music. Students train for years in the traditional guru-shishya (teacher-student) method.

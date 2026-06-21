@@ -11,6 +11,7 @@ story: >
   and 1698, earning it the nickname "Sobieski Shul" — the only synagogue in Eastern Europe
   known to have been directly patronised by a ruling Christian monarch. Sobieski's
   protection of Zhovkva's Jewish community was unusual for the era.
+score: 8.2
 ---
 
 The Great Synagogue of Zhovkva, also called the Sobieski Shul, is one of the finest surviving examples of a fortress synagogue in Eastern Europe — a type that combined the functions of a house of worship with genuine defensive capability. Built between 1692 and 1698, its walls are two metres thick and the heavy doors could withstand attack during times of violence.

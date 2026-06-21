@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 48.6700
 longitude: 126.1300
+score: 8.1
 ---
 
 The five interconnected lakes that give Wudalianchi its name — wudalianchi means literally "five large linked pools" — were created when the 1719–1720 lava flows dammed the Bai River. The resulting chain of lakes stretches across the volcanic landscape, their blue water in striking contrast to the black basalt that surrounds them. Boat trips on the lakes operate in summer, offering views of the volcanic cones from the water and a perspective on the scale of the 300-year-old geological event.

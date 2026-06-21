@@ -5,6 +5,7 @@ tags: [shopping, market]
 latitude: 37.0186
 longitude: -7.9320
 snippet: "Faro's food market — fish, fruit, cheese, cured meats"
+score: 6.7
 ---
 
 The city's covered market on Largo Doutor Francisco Sá Carneiro is at its best before 10am, when the fish hall is still ringing with the morning's auction. Sardines, mackerel, sea bass, octopus, razor clams, percebes — all of it landed that morning at the harbour.

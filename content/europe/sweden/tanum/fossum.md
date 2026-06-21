@@ -6,6 +6,7 @@ longitude: 11.3500
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 The Fossum panel is one of the four main rock-carving sites in the Tanum World Heritage area, a few kilometres north-east of Vitlycke. The carvings here are more recent — late Bronze Age, around 800 BC — and the figures are larger, more confident, and more dynamic. A line of armed warriors and a procession of boats dominate the rock.

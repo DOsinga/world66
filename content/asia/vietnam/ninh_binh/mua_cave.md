@@ -8,6 +8,7 @@ tags:
 latitude: 20.2246
 longitude: 105.9497
 snippet: "500-step climb to the most photographed viewpoint over the Tam Coc valley"
+score: 8.5
 ---
 
 Mua Cave (Hang Mua, or Dragon Mountain) involves a climb of 500 stone steps up the side of a karst peak to a viewing platform and a large stone dragon sculpture at the summit. The panoramic view from the top takes in the entire Tam Coc valley — rice paddies, rivers, and limestone peaks extending in every direction — and is the most photographed viewpoint in Ninh Binh.

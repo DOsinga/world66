@@ -8,6 +8,7 @@ tags:
   - sight
   - temple
   - buddhist
+score: 7.1
 ---
 
 A small but historic Buddhist temple in the eastern part of central Kunming, Tanhua Si dates to the Ming dynasty and is locally famous for its tanhua tree — a night-blooming cactus, planted in the temple courtyard, that flowers very briefly once a year. The phrase "as rare as a tanhua flower" is proverbial in Chinese, and on flowering night the temple is open through to dawn for viewing.

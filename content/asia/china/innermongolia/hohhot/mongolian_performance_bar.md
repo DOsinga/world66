@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 40.8120
 longitude: 111.6700
+score: 6.6
 ---
 
 Several venues in central Hohhot combine dinner, traditional Mongolian music and dance performances, and the ceremonial drinking of airag — fermented mare's milk, the alcoholic drink of the Mongolian steppe — into an evening event that is simultaneously touristy and genuinely entertaining. The performances include morin khuur (horsehead fiddle) music, throat singing (khoomei), and wrestling demonstrations, and the airag is actually served (and is much more palatable than you might expect from a drink made from horse milk). These venues cater primarily to Chinese tourists from outside Inner Mongolia rather than foreign visitors, which keeps them more honest than the equivalent entertainment dinners in many Chinese cities.

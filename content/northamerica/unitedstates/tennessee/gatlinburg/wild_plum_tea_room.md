@@ -7,6 +7,7 @@ tags:
 latitude: 35.7185
 longitude: -83.4888
 snippet: "Charming tearoom in Gatlinburg's Arts and Crafts Community"
+score: 7.5
 ---
 
 The Wild Plum Tea Room sits in a converted house along Glades Road in the Arts and Crafts Community, east of downtown, and operates as a genuine counterpoint to the strip's noise and crowds. Lunch is served in a garden setting — tables outside under the trees when the weather cooperates, an enclosed porch when it doesn't. The menu leans toward soups, salads, and sandwiches, with house-baked breads and a proper tea service that includes a rotating selection of loose-leaf teas and traditional accompaniments.

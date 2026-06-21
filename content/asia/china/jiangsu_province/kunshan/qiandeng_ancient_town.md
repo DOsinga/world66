@@ -9,6 +9,7 @@ latitude: 31.2194
 longitude: 121.0428
 story: >
   Qiandeng means "thousand lamps" in Chinese, a name that comes from an ancient legend about a monk who lit lamps here to guide travellers. The town's Thousand Lamp Museum displays over a thousand lamps dating from the Neolithic period through the modern era — a narrow but genuine collection that illuminates (literally and otherwise) the archaeology of light in China.
+score: 7.8
 ---
 
 Qiandeng is the quieter, more authentic counterpart to Zhouzhuang, 15 km south of Kunshan city. The ancient town has a 2,500-year history, stone bridges over its canal network, and slate-paved streets lined with Ming and Qing dynasty canal-side residences where daily life still happens rather than being performed for visitors. The contrast with Zhouzhuang is instructive: Qiandeng receives a fraction of the visitor numbers and has not been developed to the same commercial intensity.

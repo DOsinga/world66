@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.9545
 longitude: 100.9097
+score: 5.4
 ---
 
 Mini Siam is an open-air miniature park on Sukhumvit Road in north Pattaya, displaying scale models of Thailand's most famous monuments and a selection of world landmarks. The Thai section includes the Grand Palace, Wat Arun, and Prasat Hin Phimai at 1:25 scale; the Mini Europe annex adds the Eiffel Tower, Colosseum, and others. It opened in 1986 and covers about 4000 square metres.

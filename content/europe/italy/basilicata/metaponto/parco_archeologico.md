@@ -9,6 +9,7 @@ tags:
 - archaeological_site
 title: Parco Archeologico
 type: poi
+score: 8.4
 ---
 
 The archaeological park covers the heart of ancient Metapontum: the agora, the temples of Apollo Lycaeus and Hera, the theatre cut into a low rise, and the orthogonal street grid laid out by the original Greek settlers. The remains are foundation-level rather than upright, but the scale is impressive — this was a Greek city of perhaps 40,000 people at its peak.

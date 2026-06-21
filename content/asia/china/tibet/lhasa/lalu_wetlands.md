@@ -8,6 +8,7 @@ tags:
 - park
 title: Lalu Wetlands
 type: poi
+score: 6.8
 ---
 
 The Lalu Wetlands are an unlikely thing to find inside a city — a 12-square-kilometre marshland in the northwest of Lhasa, fed by springs from the surrounding hills. At 3,650 metres they are among the highest urban wetlands in the world and serve as a stopover for cranes, bar-headed geese and black-necked storks on their Himalayan migrations.

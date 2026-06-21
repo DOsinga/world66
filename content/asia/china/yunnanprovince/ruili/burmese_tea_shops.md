@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 24.0170
 longitude: 97.8520
+score: 7.4
 ---
 
 Several tea shops in central Ruili operate in the Burmese and Shan style, serving sweet condensed-milk tea alongside simple snacks — mohinga (rice noodle soup), samosas, and small fried things that belong to a culinary tradition with nothing Chinese about it. The clientele mixes Burmese traders, local Dai residents, and the occasional curious traveller who has wandered in from the street.

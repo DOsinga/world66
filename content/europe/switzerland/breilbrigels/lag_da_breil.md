@@ -8,6 +8,7 @@ latitude: 46.7717
 longitude: 9.0717
 sources:
   - https://en.wikipedia.org/wiki/Lag_da_Breil
+score: 6.9
 ---
 
 Lag da Breil — the Brigelser See in German — is a small alpine lake set in the meadows just east of the village at around 1,300 metres. It's an easy walk from the village centre, taking perhaps 20 minutes, and the lake is a pleasant spot for a picnic, a swim in summer, or simply to sit and look at the surrounding ridgeline.

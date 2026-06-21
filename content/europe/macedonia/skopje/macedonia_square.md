@@ -13,6 +13,7 @@ story: >
   The statue cost an estimated 10 million euros.
 sources:
   - https://en.wikipedia.org/wiki/Macedonia_Square,_Skopje
+score: 6.8
 ---
 
 Macedonia Square is the main public square of Skopje, redesigned as the centrepiece of the "Skopje 2014" urban project that spent an estimated 500 million euros transforming the city centre into an eclectic fantasy of neo-baroque fountains, bronze statues, and triumphal arches. The square is dominated by the enormous equestrian statue — officially nameless, actually Alexander the Great — and ringed by a fountain with water jets that are illuminated at night.

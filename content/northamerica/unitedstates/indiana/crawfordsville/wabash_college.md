@@ -8,6 +8,7 @@ tags:
 latitude: 40.0381
 longitude: -86.9050
 snippet: One of the last all-male liberal arts colleges in the United States
+score: 6.8
 ---
 
 Wabash College was founded in 1832 and remains, stubbornly, one of only three all-male liberal arts colleges left in the United States. The campus on the south side of Crawfordsville is small and handsome — mostly 19th-century brick buildings on a green quadrangle — and gives the city its academic character. The college has a strong academic reputation, particularly in the humanities, and its alumni have gone on to positions far out of proportion to the school's size.

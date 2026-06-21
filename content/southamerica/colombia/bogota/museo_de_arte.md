@@ -8,6 +8,7 @@ tags:
 snippet: "Free art museum next to Museo Botero in La Candelaria"
 title: Museo de Arte del Banco de la Republica
 type: poi
+score: 6.7
 ---
 
 Next door to the Museo Botero, this gallery opened in 2004 and houses the bank's permanent art collection alongside rotating exhibitions. Free admission. Open Monday to Saturday 9am--7pm (closed Tuesdays), Sunday 10am--5pm.

@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/San_Carlos,_Sonora
 story: >
   The name Tetakawi comes from the Yaqui language and means "hill of the goat" — the twin summits are said to resemble the horns of a goat when seen from the sea. Spanish sailors used the distinctive silhouette as a navigation landmark for entering the bay of Guaymas, and it appears on colonial-era nautical charts dating back to the 17th century.
+score: 8.1
 ---
 
 The twin volcanic peaks of Cerro Tetakawi rise sharply above the bay, topping out around 200 metres, and are the defining feature of the San Carlos skyline. The rock is rust-coloured rhyolite, jagged and dramatic against the blue water below. There are two summits — the east peak is more commonly climbed and offers the better view.

@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Eagles_Temple_(Canton,_Ohio)
+score: 6.3
 ---
 
 The Eagles Temple is a Spanish Colonial Revival building completed in 1928 for the Fraternal Order of Eagles, and one of the more architecturally distinctive structures in downtown Canton. The terracotta-ornamented facade, with its arched entrance and decorative tile work, stands out sharply among Canton's predominantly Romanesque and Neoclassical downtown buildings.

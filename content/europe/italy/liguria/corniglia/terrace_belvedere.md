@@ -6,6 +6,7 @@ longitude: 9.7078
 tags:
   - things_to_do
   - sight
+score: 8.8
 ---
 
 The belvedere at the western end of the village is the best viewpoint in Corniglia and one of the finest in the Cinque Terre. From here you look north to Vernazza, its harbour tucked between two cliffs, and south past Manarola to Riomaggiore. On clear days the coast stretches as far as the Gulf of La Spezia. This is where people come for the famous Cinque Terre sunsets.

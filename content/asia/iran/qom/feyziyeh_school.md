@@ -14,6 +14,7 @@ story: >
   celebrations, killing several students. The attack turned the seminary into a symbol of
   clerical resistance and helped transform Ayatollah Khomeini — who was teaching there —
   into the revolution's figurehead. He was arrested and exiled two months later.
+score: 8.1
 ---
 
 The Feyziyeh School is the most celebrated of Qom's many seminaries and a building of immense significance in modern Iranian history. Founded during the Safavid era and rebuilt in 1787, it is an arcaded courtyard madrasa in the classical Iranian style — cool, contemplative, and beautiful. Hundreds of theology students still study here.

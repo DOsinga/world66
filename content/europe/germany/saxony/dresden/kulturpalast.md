@@ -7,6 +7,7 @@ tags:
 title: Kulturpalast
 type: poi
 story: "Built in 1969 as the GDR's showpiece concert hall, the Kulturpalast was controversially renovated between 2013 and 2017, dividing the building into a concert hall and a public library. The original Socialist Realist mural on the facade — depicting utopian workers in gleaming solidarity — survived the renovation and remains startling in the middle of all this Baroque."
+score: 7.4
 ---
 
 Dresden's main concert hall sits at the edge of the Altmarkt, an angular piece of East German modernism that looks aggressively out of place among the surrounding Baroque reconstruction — and is all the more interesting for it. Completed in 1969 as a prestige cultural project of the GDR, it was the home of the Dresden Philharmonic and a venue for state functions and pop concerts. The Socialist Realist mosaic wrapping the exterior is among the finest surviving examples of that genre in Germany.

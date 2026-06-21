@@ -7,6 +7,7 @@ tags:
 latitude: 51.8901
 longitude: 0.9044
 snippet: Georgian townhouse museum of Colchester domestic life
+score: 5.9
 ---
 
 Hollytrees is a handsome 1718 Georgian townhouse on the edge of Castle Park, now run as a free museum of three centuries of Colchester domestic life. The collection is small and engagingly local — toys, costumes, kitchen equipment, photographs of long-vanished shops — and the period rooms work well as a quick counterpoint to the Roman heaviness of the castle museum next door.

@@ -9,6 +9,7 @@ latitude: 49.8019
 longitude: -119.3125
 story: >
   The Kettle Valley Railway was built between 1910 and 1916 through terrain so difficult that the engineering required 18 wooden trestles and two tunnels just to cross Myra Canyon. The original trestles were almost all destroyed in the Okanagan Mountain Park wildfire of 2003; the rebuilt versions, completed in 2008, are actually stronger and better preserved than the originals.
+score: 8.8
 ---
 
 The Myra Canyon section of the Kettle Valley Railway trail is one of the finest rail trail experiences in Canada — an 18-kilometre out-and-back route along the old KVR roadbed through a dramatic mountain canyon above Kelowna, crossing 18 wooden trestles and two tunnels as it traverses the cliff faces above Okanagan Lake. The views from the trestles, looking down into the canyon and across the lake, are spectacular.

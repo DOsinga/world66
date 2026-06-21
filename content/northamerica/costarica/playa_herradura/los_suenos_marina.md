@@ -8,6 +8,7 @@ latitude: 9.6410
 longitude: -84.6590
 story: >
   Los Sueños Marina is the largest marina on Costa Rica's Pacific coast, with berths for over 200 vessels. It holds annual billfish tournaments that draw competitors from across the Americas — the waters off Herradura are among the most productive sportfishing grounds in the eastern Pacific, with year-round sailfish and peak marlin season from May to September.
+score: 6.6
 ---
 
 The Los Sueños marina complex anchors the north end of Herradura Bay with a full-service marina, restaurants, shops, and the Marriott resort behind it. Even if you are not staying at the resort or booking a fishing charter, the marina is worth walking around — the boats are impressive, the pelicans are brazen, and the palm-lined boulevard along the waterfront gives a flavour of what Pacific coast resort development looks like at its more polished end.

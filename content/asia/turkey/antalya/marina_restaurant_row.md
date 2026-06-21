@@ -8,6 +8,7 @@ tags:
   - seafood
 latitude: 36.88230
 longitude: 30.70147
+score: 5.4
 ---
 
 The quayside at the old harbour is lined with fish restaurants whose terraces hang over the water. The setting is superb — boats bobbing, cliff above, open sea ahead — though you pay for it. Most restaurants display their fish on ice at the entrance; point at what you want, agree on a price, and let them grill it. Sea bass (levrek), sea bream (çipura), and red mullet (barbun) are the staples.

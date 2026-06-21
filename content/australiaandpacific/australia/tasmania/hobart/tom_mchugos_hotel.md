@@ -11,6 +11,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: "Hobart's best modern pub — small Tasmanian breweries on tap, properly-cooked counter food, and excellent natural wine"
+score: 6.8
 ---
 
 A 19th-century corner pub on Macquarie Street that was bought and restored in 2017 by chef-owner Tom Westcott, who reopened it as exactly the kind of pub Hobart had been missing. The tap list is short and almost exclusively small Tasmanian breweries (Moo Brew, T-Bone, Two Metre Tall, Van Dieman); the wine list runs natural and Tasmanian-heavy; and the food, served at the long bar or in the back dining room, is properly cooked counter fare — a Cape Grim cheeseburger, deep-fried squid, lamb shoulder pies, fish and chips.

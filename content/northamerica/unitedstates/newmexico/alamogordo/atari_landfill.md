@@ -13,6 +13,7 @@ story: >
   The burial was confirmed in 2014 when a documentary crew excavated the site
   and recovered around 1,300 cartridges, some of which sold at auction for
   hundreds of dollars each.
+score: 5.8
 ---
 
 A modest but historically significant spot at the Alamogordo municipal landfill, about 9 miles south of town on US-54. In 1983, Atari buried truckloads of unsold game cartridges here — including E.T. the Extra-Terrestrial, the notoriously bad game often blamed for accelerating the 1983 video game crash. The burial was an urban legend for thirty years before a 2014 excavation confirmed it on camera.

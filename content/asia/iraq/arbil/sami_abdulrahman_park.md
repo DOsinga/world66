@@ -7,6 +7,7 @@ tags:
 - sight
 title: Sami Abdulrahman Park
 type: poi
+score: 6.5
 ---
 
 Sami Abdulrahman Park covers around 200 hectares in the western part of Erbil and is the largest urban park in the city — a place that feels genuinely important to daily Kurdish life rather than a tourist attraction. In the evenings, particularly around sunset, families spread out across the grass, vendors sell corn and sunflower seeds, and the cafes along the park edges fill with young people. It is one of the best places in Erbil to observe the city as it actually lives.

@@ -13,6 +13,7 @@ story: >
   The first execution by electric chair in history took place in Auburn Prison on August 6, 1890.
   The condemned man, William Kemmler, had been convicted of murdering his common-law wife.
   The execution was badly botched — the first charge failed to kill him, and a second was needed — but it established electrocution as the standard method of execution in New York and eventually across the United States.
+score: 5.6
 ---
 
 Auburn Correctional Facility, opened in 1817, is one of the oldest prisons in the United States still in operation. It is historically significant as the birthplace of the "Auburn System" of prison discipline — a regime of enforced silence, congregate labour, and strict routine that became the dominant model for American prisons throughout the 19th century and influenced prison design worldwide.

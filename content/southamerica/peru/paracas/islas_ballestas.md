@@ -11,6 +11,7 @@ story: >
   The Islas Ballestas are sometimes called the "poor man's Galápagos" — which is both accurate and somewhat unfair. The wildlife density is extraordinary: it is common to see 50,000 sea lions in a single colony, a million or more seabirds in flight, and Humboldt penguins so unconcerned by boat traffic that they swim directly alongside. The Galápagos has unique species; Ballestas has sheer abundance. Both are worth going to if you can.
 sources:
   - https://en.wikipedia.org/wiki/Paracas_National_Reserve
+score: 8.7
 ---
 
 The Islas Ballestas are a group of rocky islands about 20 km from Paracas, accessible only by boat. They are covered — literally covered — in wildlife: hundreds of thousands of seabirds including Peruvian boobies, pelicans, and cormorants, plus huge colonies of South American sea lions lounging on every ledge and flat surface, and Humboldt penguins nesting in crevices along the base of the cliffs.

@@ -13,6 +13,7 @@ story: >
   saved rise serenely to the right while the damned are chained in a
   procession to the left — was once the most politically loaded doorway in
   southern France.
+score: 9.0
 ---
 
 The portal of Saint-Trophime is one of the supreme achievements of Romanesque sculpture. The Last Judgement carved above the door, and the frieze of saints and apostles flanking it, represent 12th-century stonework at its finest — intricate, confident, and deeply expressive. It is easy to spend half an hour just at the entrance.

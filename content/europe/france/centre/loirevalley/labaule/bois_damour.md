@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: "Pine forest with cycling trails behind La Baule-les-Pins."
+score: 6.3
 ---
 
 The Bois d'Amour is the remnant of the maritime pine plantation that originally fixed the dunes of La Baule. It is now a sprawling municipal park behind La Baule-les-Pins, criss-crossed with sandy paths and cycle trails through the pines.

@@ -13,6 +13,7 @@ story: >
   The Sultan and Nyai Roro Kidul, the Spirit Queen of the South Sea, are considered spiritual consorts; annual
   offerings are still made to the sea on behalf of the palace, and a room in the Kraton is kept permanently
   ready for the Queen's visits.
+score: 8.6
 ---
 
 The Sultan's Palace is a vast walled compound built in the mid-18th century — less a single building than a city within the city, with open pavilions, gardens, performance stages, and museums spread over several hectares. The current sultan, Hamengkubuwono X, still resides here and serves simultaneously as the elected governor of the Yogyakarta Special Region — the only arrangement of its kind in Indonesia.

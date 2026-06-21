@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.3
 ---
 
 Alexandria Bay, on the far eastern side of Noosa headland, is a long, broad, wild beach reached only by a forty-minute walk through the national park. It feels nothing like the manicured, sheltered Main Beach back in town — the swell rolls in hard, the sand stretches uninterrupted for over a kilometre, and on most weekdays you might share the whole beach with a handful of other people.

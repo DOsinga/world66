@@ -6,6 +6,7 @@ tags:
 - bars_and_cafes
 title: Avondale Brewing Company
 type: poi
+score: 6.2
 ---
 
 The brewery that put the Avondale neighborhood on the map, with a large taproom, outdoor beer garden, and a rotating lineup of ales and lagers including the flagship Spring Street Saison. The outdoor stage hosts live music on weekends and the large covered porch is almost always occupied. The taproom's interiors feature local art and the kind of deliberately imperfect renovation that suits the neighborhood's character.

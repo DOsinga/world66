@@ -10,6 +10,7 @@ tags:
   - nasese
 neighbourhood: Nasese
 story: "When the building's clock tower was struck by lightning in 1972, the bell that fell out turned out to have been cast from a melted-down cannon salvaged from a 19th-century shipwreck off the Fiji coast."
+score: 7.2
 ---
 
 The big Art Deco government complex on the corner of Victoria Parade and Gladstone Road, finished in 1939 as the seat of the colonial administration. It still houses the Prime Minister's office, the High Court, and several ministries.

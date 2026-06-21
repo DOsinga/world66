@@ -9,6 +9,7 @@ latitude: 29.5760
 longitude: 106.4690
 story: >
   Ciqikou's name — "porcelain mouth" — comes from the kilns that once operated here, producing ceramics that were shipped down the Jialing River to the rest of China. The kilns closed long ago, but the town retains its Ming and Qing dynasty street layout. It was also a centre of Buddhist monastic life: the Bao'en Temple at the top of the main street dates to the Song dynasty, and several other temples survive in the surrounding hills.
+score: 7.5
 ---
 
 Ciqikou is a well-preserved ancient town on the banks of the Jialing River, about 14 kilometres from central Chongqing. Its narrow stone-paved lanes, wooden shophouses, and traditional teahouses have made it the city's most popular heritage district, and on weekends it is correspondingly busy.

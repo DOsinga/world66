@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 34.42028
 longitude: -119.69917
+score: 7.7
 ---
 
 This single-storey adobe was the home of José de la Guerra y Noriega, the fifth commandant of the Presidio of Santa Barbara, and the social centre of the city for much of the 19th century — Richard Henry Dana's 1840 *Two Years Before the Mast* describes a wedding here in detail. The house is now a small museum focused on Californio domestic life, with rooms furnished as they would have been during the 1830s and 1840s.

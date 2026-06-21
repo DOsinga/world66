@@ -11,6 +11,7 @@ story: >
   Khwaja Abdullah Ansari was born in Herat in 1006 and died there in 1088. His verses in Dari — short, intense meditations on love, longing, and God — are still memorized across the Persian-speaking world. At his shrine you will often find pilgrims simply sitting and reciting his lines quietly, as if in conversation with him.
 sources:
   - https://en.wikipedia.org/wiki/Abdullah_Ansari
+score: 8.0
 ---
 
 The Shrine of Khwaja Abdullah Ansari at Gazargah, about 12km northeast of Herat, is one of the most important Timurid religious sites in Afghanistan. Ansari was an 11th-century Sufi mystic and poet — his *Munajat* (intimate prayers) are among the most beloved texts in the Persian literary tradition — and his tomb became a major pilgrimage site.

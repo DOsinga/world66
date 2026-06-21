@@ -8,6 +8,7 @@ latitude: 35.5800
 longitude: 91.4600
 story: >
   The reserve station at Suonan Dajie is named after the anti-poaching ranger who was killed here by poachers in 1994. A film about Sonam Dargye, "Kekexili: Mountain Patrol" (2004), brought international attention to the conservation story and became the most widely distributed Chinese-language film about environmental activism of its era.
+score: 5.8
 ---
 
 The Hoh Xil Nature Reserve headquarters at Suonan Dajie (Sonam Dargye Station) is located along the Qinghai-Tibet Highway and is accessible to travellers passing through. This is the main legitimate entry point for experiencing something of the reserve, and the staff can explain the conservation history of the plateau — the poaching crisis of the 1980s and 1990s, the ranger deaths, and the eventual recovery of the chiru population.

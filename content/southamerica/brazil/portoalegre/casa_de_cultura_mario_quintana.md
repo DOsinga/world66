@@ -8,6 +8,7 @@ tags:
 story: The Hotel Majestic was the finest hotel in Porto Alegre from 1933 until it closed in the 1980s. Among its long-term residents was the poet Mário Quintana, who lived in a tiny room on the seventh floor for forty years, writing poems on the backs of paper scraps. After the hotel closed and the building was threatened with demolition, a public campaign to save it was partly fuelled by the poet's presence; he lived in the building until he died in 1994 at the age of 90.
 title: Casa de Cultura Mário Quintana
 type: poi
+score: 8.0
 ---
 
 The Casa de Cultura Mário Quintana occupies the former Hotel Majestic on Rua dos Andradas, a dignified 1930s building that was for half a century the most fashionable address in Porto Alegre. When the hotel closed, the city converted it into a multi-purpose cultural centre: today it houses theatre spaces, exhibition galleries, a cinema, a library, artists' studios, a good bookshop, and — most importantly — a rooftop café with a terrace overlooking the city. The building has been thoughtfully adapted, preserving the old guest corridors and some of the original hotel fittings alongside the contemporary cultural spaces.

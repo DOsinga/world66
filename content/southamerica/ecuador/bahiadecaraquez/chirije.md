@@ -12,6 +12,7 @@ story: >
   stretching from Mexico to Chile, suggesting a pre-Columbian network of
   Pacific coast traders who navigated the Humboldt Current in large balsa
   log rafts — centuries before European explorers reached these shores.
+score: 8.4
 ---
 
 Chirije is an archaeological and ecological reserve about 30 kilometres south of Bahia de Caraquez, accessible by a rough dirt road or by boat. The reserve protects a stretch of dry tropical forest, several kilometres of unspoiled Pacific beach, and the site of a major pre-Columbian settlement of the Bahia culture — a seafaring civilisation that flourished on this coast between 500 BC and AD 500.

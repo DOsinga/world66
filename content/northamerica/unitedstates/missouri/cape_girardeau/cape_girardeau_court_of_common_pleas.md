@@ -9,6 +9,7 @@ latitude: 37.305
 longitude: -89.52
 story: >
   The courthouse was built in 1854, when Cape Girardeau was still a minor river port. During the Civil War, Union forces used it as a command post, and the building's walls absorbed decisions that shaped the fate of southeastern Missouri. Unlike most Missouri courthouses destroyed in the fighting, this one survived intact.
+score: 7.4
 ---
 
 The Cape Girardeau Court of Common Pleas is an 1854 federal-style courthouse that stands on a limestone bluff overlooking the Mississippi River and constitutes one of the finest examples of pre-Civil War public architecture in Missouri. The building's bluff setting — with the broad river visible below — gives it a commanding presence that courthouse architects of the era deliberately cultivated.

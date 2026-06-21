@@ -9,6 +9,7 @@ longitude: 75.8102
 address: M.I. Road, Jaipur
 opening_hours: 10:00-23:00 daily
 snippet: Jaipur's most storied restaurant, serving reliable Indian and continental food since 1949
+score: 5.9
 ---
 
 Niros has been on MI Road since 1949 — a remarkable run in the notoriously fickle Indian restaurant trade. The decor is pleasantly dated, the air conditioning works, the menu covers Mughlai, Rajasthani, Chinese, and continental food, and virtually everything on it is done well if not spectacularly. This is the kind of place that has survived by doing the basics right, consistently, for three generations of customers.

@@ -11,6 +11,7 @@ tags:
 - nightlife
 title: Stanislavsky
 type: poi
+score: 3.5
 ---
 
 Stanislavsky occupies a grand space on Tverskaya Ulitsa, Moscow's main boulevard. By day it runs as a restaurant and bar; by night it shifts into club mode with a dance floor and DJ sets running until the small hours on weekends.

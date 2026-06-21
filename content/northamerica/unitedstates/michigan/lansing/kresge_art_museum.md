@@ -12,6 +12,7 @@ tags:
 title: Kresge Art Museum
 type: poi
 url: artmuseum.msu.edu
+score: 7.3
 ---
 
 The Kresge Art Museum sits on the Michigan State University campus and holds a permanent collection spanning over 5,000 years of art and artifacts. Greek and Roman antiquities share space with Egyptian objects, African sculpture, Asian works, and American paintings and prints. The breadth is genuinely impressive for a university collection, and admission is free.

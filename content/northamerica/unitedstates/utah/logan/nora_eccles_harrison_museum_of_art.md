@@ -8,6 +8,7 @@ latitude: 41.74306
 longitude: -111.80611
 story: >
   The museum's collection of pre-Columbian ceramics is particularly strong — over 400 pieces assembled by Nora Eccles Harrison, who donated her collection and the funds to build the museum in 1982. The ceramic figures from west Mexico, some dating to 200 BCE, are displayed in a dedicated gallery that gives them the full attention they deserve.
+score: 7.4
 ---
 
 The Nora Eccles Harrison Museum of Art on the Utah State University campus is an accredited art museum with a strong permanent collection of 20th-century American art, Ceramics of the Americas, and works on paper. The collection includes pieces by Georgia O'Keeffe, Arthur Dove, and other American modernists alongside a significant holding of Native American and pre-Columbian ceramics.

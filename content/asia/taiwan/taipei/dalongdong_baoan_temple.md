@@ -10,6 +10,7 @@ tags:
 title: Dalongdong Baoan Temple
 type: poi
 url: https://www.baoan.org.tw
+score: 8.4
 ---
 
 Baoan is one of the finest temples in Taiwan: a generous courtyard temple complex begun in 1805, restored in the 1990s in such an exemplary fashion that it received a UNESCO Asia-Pacific Heritage Award for cultural conservation. The principal deity is the **Baosheng Dadi**, the god of medicine, and the temple is at its most lively during his birthday festival in March-April.

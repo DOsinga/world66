@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A green terraced valley north-west of the city, home to the Rock Palace
+score: 7.4
 ---
 
 Wadi Dhahr is a deep, green agricultural valley about half an hour by road north-west of Sana'a — a sudden break in the dry plateau, lush with vineyards, fruit orchards, and terraced fields fed by ancient irrigation channels. The cliffs around the valley rise sharply, and on a rock pinnacle in the middle stands the Dar al-Hajar (Rock Palace), Yemen's most photographed building.

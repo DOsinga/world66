@@ -7,6 +7,7 @@ tags:
 - beach
 title: Anse d'Azur
 type: poi
+score: 7.2
 ---
 
 The closest swimmable beach to Jérémie — a curved cove a short drive west of town, in a quiet bay framed by cliffs and palms. Clear water, white sand, and at the western end a sea cave that you can swim into when conditions are calm.

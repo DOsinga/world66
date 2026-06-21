@@ -9,6 +9,7 @@ tags:
 title: Reconstruction Era National Historical Park
 type: poi
 story: "The park was created by presidential proclamation in 2017, making it the first unit in the National Park System dedicated to the Reconstruction period — a chapter of American history that had previously gone almost entirely uncommemorated nationally."
+score: 8.5
 ---
 
 The Reconstruction Era National Historical Park is centred on Beaufort because the Sea Islands were, in effect, the laboratory for Reconstruction. After Union forces took the islands in 1861, the formerly enslaved population farmed the land, built schools, and elected officials years before the rest of the South — a brief experiment in Black self-governance that the country then walked away from.

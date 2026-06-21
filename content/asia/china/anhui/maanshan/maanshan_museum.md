@@ -8,6 +8,7 @@ latitude: 31.6700
 longitude: 118.5010
 story: >
   Among the museum's most interesting holdings are the battle relics recovered from Three Kingdoms period sites in the surrounding area — the region around modern Ma'anshan was heavily contested between the Wu and Wei kingdoms in the third century CE, and the fields regularly yield weapons, armor fragments, and military equipment that provide physical evidence of the campaigns described in the historical record.
+score: 9.1
 ---
 
 The Ma'anshan Museum houses close to ten thousand artifacts in its collection, with particular strength in material from the Chu and Han dynasties recovered from tombs in the surrounding region. The Three Kingdoms period is well-represented — the Yangtze valley here was the frontier between the Wu and Wei kingdoms for decades — and the museum has assembled a creditable display of military artifacts and household objects from this era.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 24.2161
 longitude: 55.7739
+score: 6.8
 ---
 
 The Al Ain Museum is the UAE's oldest national museum, founded in 1969 in a building next to Sultan bin Zayed Fort. The collection covers archaeology — strong on local Bronze Age finds from Hili — ethnography, traditional dress, weapons, and the early oil era. There are good displays on Bedouin life and the falaj irrigation system.

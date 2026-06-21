@@ -8,6 +8,7 @@ tags:
   - grund
   - sight
   - historical_site
+score: 7.9
 ---
 
 The Benedictine abbey at the foot of the Bock cliff is now Luxembourg's main cultural centre. The buildings have served as a monastery, a barracks, a prison (Hitler's army used it for political prisoners), and a state archive before their conversion into a venue for concerts, exhibitions, and conferences in 2004.

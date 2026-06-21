@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Small ethnographic museum on Catalan rural traditions in the Albères massif
+score: 6.4
 ---
 
 A modest but well-curated ethnographic museum in the old village of Argelès, opened in 2003 to document the rural traditions of the Albères region — the easternmost spur of the Pyrenees that runs from here south into Catalan Spain. Displays cover cork-stripping, viticulture, sheep-farming, cooperage and the everyday life of an Albères farming household.

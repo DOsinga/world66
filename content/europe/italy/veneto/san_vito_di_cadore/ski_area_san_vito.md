@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 46.45
 longitude: 12.2167
+score: 6.7
 ---
 
 The ski area at San Vito di Cadore connects into the broader Cortina ski domain, giving access to 50 lifts and 160 kilometres of marked pistes in the Dolomiti Superski network. San Vito's own lifts start almost from the village, with pistes descending through the pine forest back to town — convenient for families and those who want to ski directly from their accommodation. A ski bus runs between San Vito and Cortina for access to the fuller Cortina circuit.

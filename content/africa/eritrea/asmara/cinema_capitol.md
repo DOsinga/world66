@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.5
 ---
 
 A 1930s cinema on Beleza Street, two blocks east of Liberation Avenue. The facade has the deeply moulded vertical fins and ribbon windows characteristic of late Italian Rationalism. Inside, the auditorium retains its original seating layout but is rarely used for screenings now.

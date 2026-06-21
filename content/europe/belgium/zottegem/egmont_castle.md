@@ -8,6 +8,7 @@ tags:
 latitude: 50.8728
 longitude: 3.8091
 story: "When Count Lamoral of Egmont was executed in 1568 in Brussels for opposing Habsburg religious policy, his body was secretly carried back to Zottegem and buried in the crypt of the Onze-Lieve-Vrouw-Hemelvaart church. He has remained there ever since — a national hero who is also a footnote in his own town."
+score: 6.9
 ---
 
 The former seat of the Counts of Egmont, set in a small park at the edge of the centre. The current building is largely an 18th- and 19th-century reconstruction on much older foundations, but it remains the most evocative spot in Zottegem and houses some municipal functions.

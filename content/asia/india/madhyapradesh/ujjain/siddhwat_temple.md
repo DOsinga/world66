@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.2239
 longitude: 75.7769
+score: 6.3
 ---
 
 The Siddhwat temple in Bhairavgarh, on the northern outskirts of Ujjain, is centred on a large sacred banyan tree (the Vat) on the bank of the Kshipra. The tree is considered a manifestation of Shiva and is connected in local legend to the wandering of souls after death — making it a site of particular importance for death rituals and ancestor worship.

@@ -10,6 +10,7 @@ tags:
 - architecture
 snippet: Gothic brick church with a 108m tower that leans 2.2m off vertical
 story: "The 108-metre tower of St. John's leans 2.2 metres off vertical at the top, more than the famous tower in Pisa as a proportion of height — a result of the foundations sinking unevenly into salt-leached subsoil. Local legend has it that the medieval builder, mortified by his error, threw himself from the tower, hit a passing hay cart, lived, then drank himself to death in the ensuing celebration."
+score: 8.0
 ---
 
 The towering brick mass at the eastern end of Am Sande is St. John the Baptist, the city's main parish church and one of the most striking examples of North German Backsteingotik (brick Gothic) anywhere. The choir was begun around 1300; the great west tower, finished in 1406, was for some time the tallest in Germany. It famously leans — a problem since at least the 16th century — and surveys show the lean is still slowly increasing.

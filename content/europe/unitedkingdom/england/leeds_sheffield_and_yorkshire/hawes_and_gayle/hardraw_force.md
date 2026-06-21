@@ -7,6 +7,7 @@ tags:
 latitude: 54.3211
 longitude: -2.2022
 story: "In the great flood of 1899, Hardraw Force was overwhelmed by a landslide that blocked the beck and temporarily created a lake behind the fall. When the blockage broke, a wall of water swept through Hardraw hamlet. A brass band competition has been held in the natural amphitheatre formed by the gorge since 1881 — the acoustic properties of the curved limestone cliffs make it a remarkable outdoor venue."
+score: 9.1
 ---
 
 Hardraw Force, about 1.5 kilometres north of Hawes in the hamlet of Hardraw, is the highest single-drop waterfall in England above ground, with a 30-metre plunge into a gorge of limestone and shale. To reach it, you walk through the Green Dragon Inn — the landowner charges a small access fee, usually collected at the pub — and follow a short path through a wooded gorge to the base of the fall.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Le Navi occupies a 1934 Fascist-era complex originally built as a children's seaside colony for the children of railway workers — the four pavilions were designed in the shape of ships docking on land, hence the modern aquarium's name."
+score: 6.7
 ---
 
 By far the biggest visitor attraction on this stretch of the Adriatic, **Le Navi** is Italy's second-largest aquarium (after Genoa). It is housed in a remarkable Mussolini-era complex of buildings designed as four ships moored in a row along the seafront, restored in the 1990s and now home to about 100 tanks of Mediterranean and tropical species — sharks, rays, sea turtles, otters, jellyfish, penguins.

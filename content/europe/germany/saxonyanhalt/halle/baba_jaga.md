@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Restaurant Baba Jaga
 type: poi
+score: 5.1
 ---
 
 Russian and Ukrainian cuisine in an unusual setting at the old Moritz fortifications. One of the few places in town to try Eastern European food.

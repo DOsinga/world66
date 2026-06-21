@@ -6,6 +6,7 @@ longitude: 0.5500
 tags:
   - things_to_do
   - sight
+score: 5.5
 ---
 
 Gillingham Park is the town's main public open space, a Victorian-laid-out 24-hectare park immediately north of the town centre. The bandstand and the formal flower beds around the bowling green date from the original 1903 layout, restored in recent years with heritage funding.

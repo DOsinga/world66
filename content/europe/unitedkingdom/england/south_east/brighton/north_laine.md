@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 50.8258
 longitude: -0.1398
+score: 8.6
 ---
 
 North Laine (note the spelling — it is not a lane) is Brighton's bohemian quarter, a grid of streets running north from the train station that fill up with independent record shops, vintage clothing stores, vegetarian cafes, and the kind of tattoo parlours that have been there long enough to be considered institutions. Sydney Street is the main drag; Kensington Gardens, Gardner Street, and Gloucester Road branch off it.

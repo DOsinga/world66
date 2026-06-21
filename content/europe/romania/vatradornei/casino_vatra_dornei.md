@@ -13,6 +13,7 @@ story: >
   gambling in 1948, it was converted into a cultural centre and ballroom. Today it has been
   restored and is the architectural centrepiece of the spa park, though it no longer functions
   as a casino.
+score: 6.9
 ---
 
 The Vatra Dornei Casino is the grandest building in town — a 19th-century ornamental structure with towers, balconies, and decorative ironwork that looks like it was lifted from a Mitteleuropean spa resort of the Belle Époque. It stands in the main park near the mineral springs, surrounded by old trees and gardens.

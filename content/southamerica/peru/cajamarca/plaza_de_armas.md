@@ -16,6 +16,7 @@ story: >
   ended. The plaza looks peaceful today. It is hard to reconcile it with what happened here.
 sources:
   - https://en.wikipedia.org/wiki/Battle_of_Cajamarca
+score: 8.4
 ---
 
 Cajamarca's Plaza de Armas is one of the finest in Peru — a broad, elegant square flanked on two sides by the colonial buildings of the Cathedral and the church of San Francisco, both built in the golden volcanic stone that gives this city its warm colour. A large central fountain anchors the space, and the arcaded buildings around the perimeter house cafes, shops, and government offices.

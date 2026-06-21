@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.7564
 longitude: -155.9893
+score: 9.1
 ---
 
 The Hana Highway on [Maui](/northamerica/unitedstates/hawaii/maui) is one of the great road trips in America: 83 kilometres of two-lane highway through dense rainforest, past 54 one-lane bridges, 600 curves, dozens of waterfalls, bamboo groves, and black and red sand beaches. The journey from Kahului to Hana takes about three hours minimum without stops — most visitors take the full day.

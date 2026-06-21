@@ -14,6 +14,7 @@ story: >
   a common act of quiet defiance in this corner of rural France.
 sources:
   - https://en.wikipedia.org/wiki/Rochebrune,_Dr%C3%B4me
+score: 5.4
 ---
 
 A medieval château set in the woodland above the hamlet, the seat of the Lords of Chabanais since the eleventh century. The main façade presents a handsome ensemble of towers and curtain walls in the pale limestone typical of this part of the Drôme, surrounded by old oaks and chestnut trees that keep the interior cool in summer. The whole ensemble feels deeply rooted in the landscape — not a tourist attraction so much as a place that has simply been here forever.

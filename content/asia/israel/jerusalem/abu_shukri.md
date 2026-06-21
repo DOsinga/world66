@@ -8,6 +8,7 @@ tags:
   - restaurant
 title: Abu Shukri
 type: poi
+score: 6.8
 ---
 
 The most celebrated hummus counter in the Old City, on Al-Wad Street in the Muslim Quarter near the Fifth Station of the Cross on the Via Dolorosa. The hummus is served warm, topped with a puddle of olive oil and a scattering of chickpeas, with fresh-baked bread and pickles. The portions are generous, the price is low, and there is almost always a queue.

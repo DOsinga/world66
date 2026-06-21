@@ -22,6 +22,7 @@ tags:
 title: British Museum
 type: poi
 url: www.britishmuseum.org
+score: 10.0
 ---
 
 The British Museum holds one of the world's greatest collections of human history — eight million objects spanning two million years, though only around 80,000 are on display at any time. The building itself, with Norman Foster's Great Court glass roof enclosing the circular Reading Room, is worth the visit alone.

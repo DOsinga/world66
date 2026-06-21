@@ -8,6 +8,7 @@ latitude: 12.639
 longitude: -61.394
 story: >
   The hilltop church of Our Lady of Mount Carmel was built by residents of Mayreau in the 1950s using materials carried up by hand from the beach. From its steps you can see both the Atlantic and the Caribbean simultaneously — a view that takes in two oceans at once.
+score: 7.4
 ---
 
 Station Hill is the only village on Mayreau, perched on a ridge above the island's south coast. It is home to virtually the entire population of around 300 people. The lanes between the brightly painted houses are steep and unpaved; goats wander freely, and there is no traffic because there are no cars.

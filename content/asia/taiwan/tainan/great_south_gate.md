@@ -9,6 +9,7 @@ longitude: 120.2035
 story: "The gate is one of the last remaining portions of the wall that once enclosed the city of Tainan during the Qing dynasty. The city wall was extended and reinforced multiple times between the 17th and 19th centuries, and at its greatest extent it had 14 gates. The Japanese colonial government demolished most of the wall in the early 20th century to build modern roads, but preserved a handful of the gates as historical monuments. The Great South Gate is the best preserved and still has its original moongate — a round secondary entrance beside the main gate."
 sources:
   - https://en.wikipedia.org/wiki/Great_South_Gate
+score: 7.7
 ---
 
 The Great South Gate is one of the best-preserved remnants of Tainan's historic city walls, built during the Qing dynasty and dating in its current form to the early 19th century. The gate retains an unusual feature for a Chinese city gate: a secondary circular entrance, called a moongate, sitting next to the main arched gateway. The Japanese colonial administration demolished much of the wall when building modern roads through the city, but preserved several of the gates as historical monuments, and the Great South Gate survived with more of its surrounding wall section intact than most.

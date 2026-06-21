@@ -5,8 +5,10 @@ longitude: 13.383593
 opening_hours: Tu-Sa 11am -6pm
 tags:
 - shopping
+- berlinmitte
 title: Galerie Neu
 type: poi
+score: 6.6
 ---
 
 A wide range, from painting and photography to video installations. There are no narrow categories here -but the art has to be international and contemporary.

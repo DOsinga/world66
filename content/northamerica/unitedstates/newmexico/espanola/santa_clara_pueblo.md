@@ -15,6 +15,7 @@ story: >
   generations — transformed both the art market and the pueblo's economy. The
   technique she developed became the signature style of San Ildefonso Pueblo, but
   her own roots were in Santa Clara.
+score: 7.6
 ---
 
 Santa Clara Pueblo, south of Española, is a community of Kha'p'o Owingeh — "singing water village" in Tewa — with a population of around 1,500 tribal members. The pueblo is particularly known for its carved black and red polished pottery, which is distinctly different from the black-on-black work associated with neighboring San Ildefonso Pueblo.

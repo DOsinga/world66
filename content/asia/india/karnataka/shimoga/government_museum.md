@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 14.0570
 longitude: 75.2395
+score: 6.2
 ---
 
 The Government Museum in central Shimoga is a modest but worthwhile stop if you want context on the region's history before heading into the countryside. The collection covers the Keladi Nayaka period (16th–18th century) that shaped much of the district's temple architecture, with stone inscriptions, sculptures, bronze figures, coins, and exhibits on the natural history of the Western Ghats.

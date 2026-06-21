@@ -14,6 +14,7 @@ story: >
   Russia: every surface above the arcade level is covered in a dense relief of biblical figures, animals,
   plants, and mythological creatures, about 600 in total. Among them are Alexander the Great ascending
   to heaven on a griffin, and a lion that has been identified as the emblem of the Vladimiran princes.
+score: 9.2
 ---
 
 A small but extraordinary church from 1194, the Cathedral of Saint Demetrius is famous above all for the carving that covers its upper exterior walls: hundreds of figures in white limestone — saints, warriors, peacocks, lions, griffins, centaurs, and plants — worked with the precision and inventiveness of manuscript illumination translated into stone. The carving covers every surface above the blind arcade that rings the building at about half height, and no two figures are exactly alike.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.7050
 longitude: 112.4280
+score: 6.1
 ---
 
 The rice paddies surrounding Jinci Temple are an agricultural anomaly in the dry loess plateau landscape of Shanxi. Fed by the Jinci springs, these fields have been cultivated continuously for over a thousand years and produce a high-quality glutinous rice that has been tribute grain since the Tang dynasty. Walking through the paddy fields on the paths that surround the temple — particularly in June when the young rice is vivid green, or at harvest time in September — gives a strong sense of the agricultural landscape that made this spring sacred long before the temples were built.

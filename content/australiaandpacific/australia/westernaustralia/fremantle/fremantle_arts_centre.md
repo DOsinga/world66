@@ -16,6 +16,7 @@ story: >
   and a technical college, before reopening as a contemporary arts centre
   in 1972 — the conversion that saved one of the finest convict-era
   buildings in the country.
+score: 7.9
 ---
 
 The Fremantle Arts Centre occupies a graceful Gothic limestone complex on a quiet hill ten minutes' walk north-east of the centre. It is one of the leading contemporary arts venues in Western Australia, with rotating exhibitions across several gallery spaces, a working artists' residency programme, a craft shop, and a courtyard café.

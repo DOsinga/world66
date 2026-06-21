@@ -7,6 +7,7 @@ tags:
 latitude: 35.2397
 longitude: -116.6906
 snippet: "A cluster of desert boulders covered in military insignia near Fort Irwin — strange, remote, and strangely compelling"
+score: 5.8
 ---
 
 Painted Rocks is a cluster of desert boulders on the edge of Fort Irwin Military Reservation, north of Barstow, covered over decades in military unit insignia, division patches, and hand-painted tributes from soldiers who trained at the National Training Center. The rocks stand in open desert with no explanation, no facilities, and no other visitors — just layers of military iconography accumulating on granite.

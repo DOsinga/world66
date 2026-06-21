@@ -7,6 +7,7 @@ tags:
 latitude: 33.9524
 longitude: -84.5497
 snippet: Local history museum inside the 1845 Kennesaw House hotel, once a Civil War hospital
+score: 7.0
 ---
 
 The Marietta Museum of History occupies the upper floors of the historic Kennesaw House, an 1845 brick hotel on the square that served as a hospital during the Civil War and is connected to one of the war's stranger episodes — James Andrews' Union Raiders assembled here the night before the Great Locomotive Chase of 1862. The museum traces the history of Cobb County from the Cherokee Nation through the Civil War, Reconstruction, and into the twentieth century.

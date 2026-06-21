@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Long-running upscale Southern restaurant with rotating regional menus
+score: 6.5
 ---
 
 Lucky 32 is one of those Triad institutions that quietly does Southern food well year after year. The menu rotates every few months around a different region — the Lowcountry one month, Mississippi the next — and the kitchen takes itself seriously enough to do scratch sauces, regional pickles, and house-cured meats.

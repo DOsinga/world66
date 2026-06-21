@@ -8,6 +8,7 @@ tags:
 latitude: 35.229521
 longitude: 75.630398
 story: "Satpara Lake sits at 2,636 metres above sea level south of Skardu, formed by a natural rock dam across the Satpara stream — a dam that a company town of nitrate miners would recognise as the precursor of the Satpara Dam built in 2011, which raised the water level and now generates electricity for much of Gilgit-Baltistan. The lake is one of the few places in Pakistan where golden trout were introduced; fishing permits are available and the trout fishing is the main local boast."
+score: 7.2
 ---
 
 Satpara Lake is a natural glacial lake about 8 kilometres south of Skardu at 2,636 metres elevation, set among arid mountains with the blue-green water characteristic of high-altitude Karakoram lakes. The Satpara Dam, completed in 2011, has raised the water level somewhat from the natural baseline, creating a larger reservoir while preserving much of the scenic character.

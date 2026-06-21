@@ -14,6 +14,7 @@ story: >
   Love. During their stay, they wrote many of the songs that would become The
   White Album. Lennon later soured on Maharishi amid rumours of misconduct;
   his departure reportedly produced the song "Sexy Sadie."
+score: 8.1
 ---
 
 The Maharishi Mahesh Yogi ashram — better known as the Beatles Ashram — sits in a forested area along the Ganges east of town. The complex was abandoned after the Maharishi left India in 1968 and was taken over by the forest department. It reopened as a heritage site in 2015 and the ruins, covered in colourful graffiti murals, have become the most photographed destination in Rishikesh.

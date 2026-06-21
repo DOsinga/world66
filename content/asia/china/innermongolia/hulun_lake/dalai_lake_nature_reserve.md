@@ -9,6 +9,7 @@ latitude: 48.9731
 longitude: 117.4358
 story: >
   Hulun Lake is technically endorheic — normally it has no outflow, water entering only from the Kherlen and Ului rivers and leaving only through evaporation. In exceptionally wet years, however, the lake level rises enough to overflow northward through the Manzhouli outlet toward the Argun River and the Russian border. The last such overflow occurred in the 1990s, temporarily connecting Hulun Lake to the Argun River system and, through it, to the Amur and ultimately the Pacific Ocean. This hydrological ambiguity — a lake that is sometimes part of an ocean drainage, sometimes not — is unusual anywhere in the world.
+score: 8.8
 ---
 
 The Dalai Lake National Nature Reserve covers the entirety of Hulun Lake and its surrounding wetland margin, protecting one of the most important freshwater ecosystems in northeast Asia. The reserve encompasses 2,339 square kilometres of open water, reed beds, marshes, and grassland fringe — a mosaic of habitats that supports exceptional biodiversity. The reed beds alone are among the most extensive in China, providing breeding and staging habitat for tens of thousands of waterbirds.

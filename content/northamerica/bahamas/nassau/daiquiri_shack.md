@@ -7,6 +7,7 @@ tags:
   - cable_beach_road
 latitude: 25.0832
 longitude: -77.3665
+score: 4.9
 ---
 
 A small Arawak Cay shack devoted entirely to frozen rum daiquiris in twenty colourful flavours. Mango, guava, coconut, pina colada, strawberry, the bright-blue raspberry that ruins your teeth. The drinks are cheap, strong, and served fast.

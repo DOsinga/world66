@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.3
 ---
 
 Otis Park sits on the east side of Bedford and combines a public golf course with a Depression-era picnic shelter, swimming pool, and woodland trails. The park is on the National Register and preserves a number of the limestone-and-timber rustic structures built during the 1930s.

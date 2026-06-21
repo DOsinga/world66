@@ -7,6 +7,7 @@ tags:
 - cinema
 latitude: 37.0867
 longitude: -8.7252
+score: 4.7
 ---
 
 The Luz Cinema is a small, unassuming venue tucked into the village that shows current films in their original language with Portuguese subtitles — a rarity in the Algarve, where dubbing is the norm only in children's films but where most rural cinemas have simply closed. The screen is modest, the seats are comfortable, and tickets are cheap.

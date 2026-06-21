@@ -6,9 +6,11 @@ done:
 latitude: 1.3065
 longitude: 103.8519
 phone: +65 9828 9829
+score: 5.8
 snippet: Boisterous Australian backpacker pub in the heart of Little India
 tags:
 - bars_and_cafes
+- little_india
 title: Prince of Wales
 type: poi
 ---

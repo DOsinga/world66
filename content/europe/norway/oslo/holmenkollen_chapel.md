@@ -8,6 +8,7 @@ tags:
 - holmekollen
 title: Holmenkollen Chapel
 type: poi
+score: 5.9
 ---
 
 Holmenkollen Chapel is a small, dark-painted wooden church set in the forest near the ski jump, consecrated in 1903. It is quiet and easy to miss — which is part of its appeal. The surrounding pine trees and the simple Norwegian timber construction give it a stillness that the busier tourist attractions nearby lack.

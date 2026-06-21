@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-07'
+  location_enrich: '2026-06-03'
 image: cagne.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Haut-de-Cagnes_(vue_depuis_le_chateau).jpg

@@ -1,10 +1,8 @@
 ---
-title: "Day Trips"
+title: Day Trips
 type: section
 ---
 
-**all**
+From Alishan, the forest railway's branch lines take you to different areas of the scenic zone that feel distinct from the resort village. The Zhaoping branch runs to a section of the old Japanese-era forest with walking trails that see fewer visitors than the main circuit. The Erwanping area, reachable by train, has further old-growth forest and a network of hiking paths.
 
-[Alishan Forest Railway
-
-The Alishan Forest Railway is one of the only three steep-gradient alpine railways in the world, the others being from Darjeeling in India into the Himalayas and from Chile through the Andes to Argentina. Construction of the Alishan Forest Railway was commenced in 1899 by the Japanese. Intended to transport logs down the mountain, it has a 762mm gauge, a gradient of 6.25%, and a minimum turning radius of 40 meters. Traffic was opened on the 66.6-kilometer stretch between Chiai and Erwanping in 1912, and was extended up Alishan to a full length of 71.4 kilometers in 1914. The railway climbs from 30 meters above sea level to 2,216 meters, has 49 tunnels and 77 bridges, and passes through a cross-section of climates and terrain types. more..](/asia/taiwan/alishan/daytrips/alishanforestrailway)
+For longer excursions, Chiayi city (at the base of the railway) is worth an afternoon in its own right — the Chiayi City Museum covers the history of the region, and the Hinoki Village (Hinokicho) preserves a block of Japanese colonial-era cypress wood buildings. The Fenqihu station, about halfway up the mountain railway, has a village worth a stop for the station-platform lunch boxes that have been sold there since the railway was built.

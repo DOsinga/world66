@@ -9,6 +9,7 @@ title: Aura River
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Aura_(river)
+score: 8.4
 ---
 
 The Aura River runs through the heart of Turku for about 60 kilometres before emptying into the sea near the castle, and its banks are where the city comes to life. Walking the riverside promenade from the cathedral down to the harbour takes about twenty minutes and passes the main bridges, student bars, and a string of *ravintolalaivat* — restaurant boats permanently moored along both banks.

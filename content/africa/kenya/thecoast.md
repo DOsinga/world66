@@ -24,6 +24,6 @@ It sometimes seams as if the Swahili Coast is not part of Kenya at all. The cult
 [South of Mombasa](/africa/kenya/thecoast/southofmombasa)
 [Kilifi](/africa/kenya/thecoast/kilifi)
 [Watamu](/africa/kenya/thecoast/watamu)
-[Shimoni and Wasini Island](/africa/kenya/thecoast/shimoniandwasiniisland)
+Shimoni and Wasini Island
 [North of Mombasa](/africa/kenya/thecoast/northofmombasa)
-[Maweni Beach cottages- Tiwi](/africa/kenya/thecoast/southofmombasa/mawenibeachcottagestiwi)
+Maweni Beach cottages- Tiwi

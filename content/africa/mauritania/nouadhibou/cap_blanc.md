@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
 story: "Cap Blanc holds one of the last viable colonies of the Mediterranean monk seal — fewer than seven hundred animals remain worldwide, and the largest single population lives in the sea caves at the tip of this peninsula."
+score: 9.3
 ---
 
 The tip of the Cap Blanc peninsula, about 50 km south of Nouadhibou, is one of the most important pinniped sites in the world. Around two to three hundred Mediterranean monk seals — one of the rarest mammals on Earth — breed in the sea caves along its limestone cliffs. The Cabo Blanco Satellite Reserve protects the colony from the land side.

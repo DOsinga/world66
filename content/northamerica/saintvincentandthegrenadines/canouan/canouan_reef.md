@@ -7,6 +7,7 @@ latitude: 12.7167
 longitude: -61.3333
 story: >
   The reef running along Canouan's Atlantic side is part of the Tobago Cays Marine Park system — one of the best-preserved coral ecosystems in the Eastern Caribbean. Sea turtles nest on the beaches nearby and are commonly spotted in the shallows.
+score: 8.1
 ---
 
 A barrier reef runs along the eastern, Atlantic-facing side of Canouan, sheltering a series of calm turquoise lagoons. The coral is in good health and the water clarity is exceptional — visibility frequently exceeds 30 metres. Snorkelling is possible directly from the beach without a boat; diving operators are based at the resort on the northern half of the island.

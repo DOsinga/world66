@@ -15,6 +15,7 @@ story: >
   urban communities in Port Moresby where traditional Motu culture — including
   the legendary hiri trade voyages, which once sent outrigger canoes as far as
   the Gulf of Papua — is still discussed and remembered.
+score: 8.3
 ---
 
 Hanuabada is a large stilt village of the Motu people built partly over the sea just northwest of the city centre, one of the oldest settled communities on the coast. Traditional wooden houses on piles line narrow walkways above the water, making it visually unlike anything else in Port Moresby.

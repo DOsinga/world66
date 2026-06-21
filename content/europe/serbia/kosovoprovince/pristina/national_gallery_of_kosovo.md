@@ -8,6 +8,7 @@ latitude: 42.6571
 longitude: 21.164
 sources:
   - https://en.wikipedia.org/wiki/National_Gallery_of_Kosovo
+score: 6.4
 ---
 
 The National Gallery of Kosovo, situated on the University of Pristina campus, focuses on 20th-century Kosovar and Albanian art. The permanent collection spans painting, sculpture, and graphic arts from the early socialist-realist period through to more recent contemporary work. Temporary exhibitions often feature living artists from Kosovo and the wider Albanian diaspora.

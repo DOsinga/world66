@@ -8,6 +8,7 @@ snippet: Bologna's modern and contemporary art museum, inside a former municipal
 tags:
 - things_to_do
 - museum
+score: 7.8
 ---
 
 The Museo d'Arte Moderna di Bologna occupies the long brick shed of the former Forno del Pane, the municipal bakery that fed Bologna through the early twentieth century. The conversion preserves the industrial bones — exposed brick, ironwork, generous skylights — and uses them as a foil for a strong permanent collection of post-war Italian art.

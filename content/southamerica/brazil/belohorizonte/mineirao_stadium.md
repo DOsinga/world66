@@ -8,6 +8,7 @@ tags:
 story: "On 8 July 2014 the Mineirão was the site of one of the most catastrophic results in football history — Brazil's 7-1 World Cup semifinal loss to Germany. The match is still known in Brazil simply as 'o Mineiraço,' and the stadium has been part of national mourning ever since."
 title: Mineirão Stadium
 type: poi
+score: 6.6
 ---
 
 The Mineirão sits at the north end of the Pampulha district and is the largest football stadium in Minas Gerais — capacity around 62,000 after the renovation for the 2014 World Cup. It was inaugurated in 1965, and Pele famously scored his thousandth career goal here in 1971. Today it is home to both of the city's big clubs, Cruzeiro and Atlético Mineiro, who alternate weekly matches.

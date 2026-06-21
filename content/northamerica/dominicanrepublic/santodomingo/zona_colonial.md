@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 18.4733
 longitude: -69.8903
+score: 9.5
 ---
 
 The Zona Colonial is the historic heart of Santo Domingo and the oldest European neighbourhood in the Americas, founded by Bartholomew Columbus in 1498. The entire district is a UNESCO World Heritage Site, and its cobblestone streets contain a remarkable concentration of firsts: the first street in the New World (Calle de las Damas), the first cathedral (Catedral Santa María la Menor), the first hospital (ruins of San Nicolás de Bari), and the first fortress (Fortaleza Ozama) still in the Western Hemisphere.

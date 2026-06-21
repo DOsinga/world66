@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 42.4529
 longitude: -76.4916
+score: 7.3
 ---
 
 The most accessible of the city's waterfalls. Park at the small lot on Lake Street, walk five minutes along the path through hemlocks, and the sound of falling water arrives before you see anything. The falls drop 150 feet in six broken tiers across the width of Fall Creek — wider than they are tall, and especially full after spring snowmelt.

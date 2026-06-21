@@ -14,6 +14,7 @@ story: >
   Every soldier who stopped got a paper bag of food and a handshake. The
   organiser, Rae Wilson, reportedly never missed a single day of volunteering
   for the canteen's entire four-year run.
+score: 5.8
 ---
 
 Between Christmas 1941 and April 1946, volunteers from North Platte and surrounding Nebraska communities ran a canteen inside the Union Pacific station that served free food and hospitality to every troop train passing through. At its peak, as many as a hundred trains a day stopped here — North Platte was a major junction on the transcontinental line — and the volunteers met them all, around the clock.

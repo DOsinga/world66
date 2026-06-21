@@ -10,6 +10,7 @@ latitude: 25.0765
 longitude: -77.3405
 story: >
   The octagonal pink building was originally the colonial **gaol**, built in 1797. The cells became bookshelves in 1873. You can still see the small windows where the prisoners' light came in; some of the shelves are arranged in what used to be solitary confinement.
+score: 7.3
 ---
 
 A two-storey octagonal pink building, oddly proportioned and immediately recognisable, on Shirley Street. Founded as a library in 1873 in what had been the city's main prison. The collection itself is unexceptional, but the building is the most architecturally distinctive small public structure in Nassau.

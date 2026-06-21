@@ -10,6 +10,7 @@ tags:
   - wildlife
 story: >
   Lake Naivasha sits in the floor of the Great Rift Valley at around 1,890 metres above sea level — making it one of the highest freshwater lakes in Africa. The lake has no surface outlet; its level fluctuates dramatically with rainfall, and in the mid-twentieth century it shrank so severely that the shoreline moved hundreds of metres. It has recovered substantially since, helped partly by the cessation of large-scale papyrus cutting, and the resident hippo and bird populations have rebounded with it.
+score: 8.7
 ---
 
 Lake Naivasha is a large, shallow freshwater lake about 13 kilometres south of Naivasha town, fringed with dense papyrus beds and stands of yellow fever trees. It is home to substantial populations of hippos, which you will see on any boat trip — usually in groups of five to fifteen animals, submerged to their eyes in the shallower bays near the papyrus. Fish eagles are everywhere, calling from the fever trees with the most distinctive sound in East Africa.

@@ -8,6 +8,7 @@ latitude: 48.4008
 longitude: 11.729
 sources:
   - https://en.wikipedia.org/wiki/Sichtungsgarten_Weihenstephan
+score: 7.1
 ---
 
 The Sichtungsgarten — literally "sighting garden" or trial garden — is a perennial display and testing ground maintained by Weihenstephan-Triesdorf University of Applied Sciences. It covers about 1.5 hectares on the western slopes of the Weihenstephan hill and contains one of the most comprehensive collections of ornamental perennials in central Europe, with over 2,500 species and varieties assessed for performance in Bavarian conditions.

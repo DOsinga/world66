@@ -12,6 +12,7 @@ story: >
   Tens of thousands of unmarried Swazi women cut reeds from the riverbed, carry them to
   the royal homestead, and dance before the king over eight days. It is one of the largest
   traditional ceremonies in Africa.
+score: 6.9
 ---
 
 Ludzidzini is the royal homestead of the Swazi royal family — the residence of the Ndlovukati, the Queen Mother, and the site of the kingdom's most significant traditional ceremonies. The homestead is not open to casual visitors, but it forms a visible part of the valley's landscape, and understanding what it represents gives the Ezulwini Valley much of its cultural weight.

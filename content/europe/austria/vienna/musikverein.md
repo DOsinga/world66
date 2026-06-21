@@ -9,6 +9,7 @@ tags:
   - architecture
   - innere_stadt
 story: "The Musikverein's Golden Hall is the venue for the Vienna Philharmonic's New Year's Concert, broadcast live to around 90 countries every January. The hall's acoustic — the result of a wooden floor over a hollow space and shallow ceiling decorations — is widely considered one of the three finest in the world."
+score: 9.2
 ---
 
 Home of the Vienna Philharmonic and one of the great concert halls. The Musikverein opened in 1870, designed in the Greek Revival style by Theophil Hansen, and contains five concert halls — the Goldener Saal (Golden Hall), with its caryatid columns and coffered gilt ceiling, is the famous one.

@@ -12,6 +12,7 @@ story: >
   and from the Cape Verdean diaspora in Portugal, the Netherlands, and the
   United States. It takes place on the beach itself in August, and in its
   heyday attracted crowds of 10,000 or more to this otherwise quiet bay.
+score: 7.7
 ---
 
 Baia das Gatas is a shallow natural bay on the northeastern coast of São Vicente, about 12 kilometres from Mindelo by road. A reef of volcanic rock forms a natural pool sheltered from the open Atlantic, making the water calm and good for swimming even when the ocean beyond is rough. The beach is popular with locals on weekends and largely empty midweek.

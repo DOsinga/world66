@@ -7,6 +7,7 @@ snippet: Underground lake visible through a sinkhole, fed by the same system as 
 tags:
 - things_to_do
 - sight
+score: 7.4
 ---
 
 Devils Well is a sinkhole that opens into the roof of a large underground cavern with a permanent lake at the bottom. From the wooden viewing platform you look down a vertical shaft into a chamber the size of a small church, with the still surface of the lake visible thirty metres below. A spotlight illuminates the chamber.

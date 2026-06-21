@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Kaiserpfalz
 type: poi
+score: 8.9
 ---
 
 The Imperial Palace of Goslar is the largest, oldest, and best preserved secular building of the Romanesque world. Begun by Henry III in around 1040, it served for two centuries as a residence and meeting place of the German kings — diets were held here, charters signed, hunts organised in the surrounding Harz forests. The vast Reichssaal hall, with its rebuilt nineteenth-century murals, still gives a sense of imperial scale.

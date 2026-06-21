@@ -7,6 +7,7 @@ tags:
 latitude: 44.8380
 longitude: -0.5714
 snippet: The medieval heart of Bordeaux, centred on the Place du Parlement and its café terraces
+score: 9.0
 ---
 
 Saint-Pierre is the oldest quarter of Bordeaux, built on the site of the Roman port and layered with every subsequent century. The street grid is tighter and more irregular here than the 18th-century boulevards to the north, and the facades are a mix of medieval, Renaissance, and Baroque. Place du Parlement is the social heart of the neighbourhood — its café terraces are always busy.

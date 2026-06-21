@@ -7,6 +7,7 @@ tags:
 - sport
 latitude: 45.9304
 longitude: 7.6237
+score: 4.8
 ---
 
 The Cervino Golf Club is a nine-hole course laid out on the flat ground at the southern edge of Cervinia, at 2,050 metres — making it one of the highest courses in Europe. It opened in 1955 and remains a modest, friendly club rather than a destination resort course.

@@ -12,6 +12,7 @@ tags:
 title: Trinity College
 type: poi
 url: www.tcd.ie
+score: 9.0
 ---
 
 Founded in 1592, Trinity College is the sole constituent college of the University of Dublin and the oldest university in Ireland. The campus covers about 40 acres right in the centre of the city — cobbled squares, green lawns, and buildings spanning three centuries of architecture.

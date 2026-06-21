@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Dedicated 56km coastal bike path circling the island"
+score: 6.7
 ---
 
 Kish has a dedicated cycling and walking path that runs along much of the coastline, stretching about 56 kilometres in total. It's one of the better bike infrastructure networks in Iran, and the flat terrain makes it manageable for all fitness levels. Bike rental shops cluster near the main hotels and at several points along the path.

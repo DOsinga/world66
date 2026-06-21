@@ -8,6 +8,7 @@ latitude: 53.5740
 longitude: -6.0860
 story: >
   The Martello tower on Shenick Island is one of around 50 built along the Irish coast between 1804 and 1806, when Napoleon's armies were massing across the Channel. The towers were designed by the British military as a rapid-response defensive network — each tower could theoretically communicate with its neighbours by signal, and each could hold a small garrison with a cannon. Napoleon never came, and the towers were never tested in battle.
+score: 7.4
 ---
 
 Shenick Island lies east of Skerries Harbour, separated from the mainland by a stretch of tidal sand. At low tide it is possible to walk across the sandflats to the island — a genuine tidal island experience in the Dublin commuter belt. The island is home to a Napoleonic-era Martello tower, harbour seals that haul out on the western shore, and nesting seabirds. The views back to the mainland and north along the coast are excellent.

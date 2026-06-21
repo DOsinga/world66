@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: 1.7544
 longitude: 110.3267
+score: 7.9
 ---
 
 A solitary 810-metre forested mountain rising abruptly from a peninsula north of Kuching, with one of the best moderate hikes in southern Sarawak. The main trail starts at the Green Paradise Seafood Centre at the foot of the mountain and climbs through dipterocarp rainforest to a series of ropes and chained sections that ascend the upper rock buttresses, finishing at a small summit clearing with views over the South China Sea.

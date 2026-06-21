@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: Mihkli Trahter
 type: poi
+score: 4.6
 ---
 
 A traditional Estonian bar-restaurant west of the Old Town, with hearty local fare and a cosy back room that seats about ten. Open until midnight on weekends.

@@ -10,6 +10,7 @@ story: >
   On the slopes of Malpaso grow ancient Canary Islands juniper trees, some of them more than a thousand years old. El Hierro was the last stronghold of the critically endangered El Hierro giant lizard, a species that survived only in the uninhabited rocky cliffs around the island's coast. A captive breeding programme established near the peak has been gradually reintroducing the lizards to areas where they were wiped out centuries ago.
 sources:
   - https://en.wikipedia.org/wiki/Pico_de_Malpaso
+score: 8.0
 ---
 
 At 1,501 metres, Pico de Malpaso is the highest point on El Hierro and one of the most accessible high summits in the Canary Islands. The standard route from the plateau road near El Pinar is a straightforward walk of moderate fitness, with minimal technical difficulty. The summit sits on the border between the municipalities of La Frontera and El Pinar.

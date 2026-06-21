@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.7228
 longitude: 12.7531
+score: 7.6
 ---
 
 Monteluco is the wooded hill directly across the gorge from Spoleto's old town, sacred since antiquity. A Roman inscription from the 3rd century BC — the Lex Spoletina — threatened fines for cutting trees in the sacred grove of Jupiter. The grove is still there, a forest of holm oak that has survived two and a half millennia of relative protection, making it one of the oldest continuously protected natural areas in the world.

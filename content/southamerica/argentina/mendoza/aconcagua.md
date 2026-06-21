@@ -18,6 +18,7 @@ story: >
   normally at that elevation.
 sources:
   - https://en.wikipedia.org/wiki/Aconcagua
+score: 9.5
 ---
 
 Aconcagua, at 6,961 metres, is the highest mountain in the Western Hemisphere and the highest outside Asia — a fact that draws climbers and trekkers from around the world. It lies about 112 kilometres northwest of Mendoza city within Aconcagua Provincial Park, accessible via the RN7 highway through the Uspallata Valley toward the Chilean border.

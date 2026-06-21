@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 19.9151
 longitude: 99.8252
+score: 7.9
 ---
 
 Oub Kham is a private museum in the northern part of Chiang Rai dedicated to the art and material culture of the Lanna kingdom, which ruled northern Thailand from the thirteenth to eighteenth centuries. The collection includes royal regalia, ceremonial objects, lacquerware, textiles, weapons, and religious items gathered from across the former Lanna territory — which covered not only northern Thailand but parts of modern Myanmar, Laos, and Yunnan province in China.

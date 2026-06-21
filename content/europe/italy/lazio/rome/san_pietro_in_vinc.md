@@ -13,6 +13,7 @@ tags:
 - church
 title: San Pietro in Vincoli
 type: poi
+score: 7.7
 ---
 
 A 5th-century basilica near the Colosseum, housing two things worth seeing: the chains (vincoli) said to have bound St. Peter in Jerusalem, displayed in a reliquary under the high altar, and Michelangelo's Moses. The seated Moses — part of the never-completed tomb of Pope Julius II — is one of Michelangelo's most powerful sculptures. The horns on Moses's head are a medieval mistranslation of the Hebrew word for "rays of light."

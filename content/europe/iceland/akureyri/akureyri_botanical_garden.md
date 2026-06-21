@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 65.675
 longitude: -18.0933
+score: 7.9
 ---
 
 The Akureyri Botanical Garden — Lystigarðurinn — is one of the world's most northerly botanical gardens, and the fact that anything grows here at all feels like a minor miracle. Opened in 1912, it sits in the southern part of town and is sheltered enough by the surrounding hills to support an impressive collection of plants from around the world, including roses, perennials, and alpine species from similar latitudes.

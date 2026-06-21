@@ -8,6 +8,7 @@ latitude: 41.6878
 longitude: -74.1656
 sources:
   - https://en.wikipedia.org/wiki/Tuthilltown_Bridge
+score: 7.1
 ---
 
 Tuthilltown Spirits is a craft distillery operating out of a historic gristmill complex in Gardiner, about six miles southwest of New Paltz. The distillery produces Hudson Whiskey — including Hudson Baby Bourbon, made entirely from local New York corn — as well as vodka and other spirits. The brand was among the pioneers of the craft distilling movement in New York state when it opened in 2003.

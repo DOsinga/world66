@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - church
 - architecture
+score: 7.3
 ---
 
 The main church of Zell am See's old town, St Hippolytus has stood here since the 8th century, though most of what you see today reflects Romanesque origins refined by Gothic additions over the following centuries. The tower is among the oldest surviving structures in town — solid and square against the alpine skyline.

@@ -8,6 +8,7 @@ latitude: 29.5640
 longitude: 106.5870
 story: >
   Chaotianmen means "Gate Facing Heaven" — the name of the original city gate that stood here when Chongqing was enclosed by walls. The gate was demolished in the 20th century but the name survives on the square at the very tip of the Yuzhong peninsula, where the Jialing and Yangtze meet. In the 1940s, this was where Allied supply ships docked and refugees from the Japanese occupation crowded the riverbank.
+score: 6.6
 ---
 
 Chaotianmen Square sits at the very tip of the Yuzhong peninsula, where the Jialing River flowing from the north meets the Yangtze flowing from the west. It is the literal confluence of Chongqing's two defining geographical features, and the square offers dramatic views in both directions along the rivers and to the south bank hills.

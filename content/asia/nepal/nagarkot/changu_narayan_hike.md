@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.7155
 longitude: 85.4254
+score: 8.2
 ---
 
 The most rewarding way to leave Nagarkot is on foot, following the trail that descends the western side of the ridge for four to five hours down through forest, terraced fields, and traditional Newari villages to the ancient temple of Changu Narayan. The 14-kilometre route is largely downhill and manageable for any reasonably fit walker; a guide is not strictly necessary but local knowledge helps when the path forks.

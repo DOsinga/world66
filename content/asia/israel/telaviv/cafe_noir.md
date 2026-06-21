@@ -10,6 +10,7 @@ tags:
 address: "Echad Ha'am 43 (corner of Nachmani)"
 latitude: 32.0625
 longitude: 34.7742
+score: 6.5
 ---
 
 A Tel Aviv institution that shifts register through the day: coffee and pastries in the morning, proper lunches at midday, and a dim, candle-lit bar scene after dark. The neighbourhood — south of the old centre, dense with Bauhaus-era apartment blocks — gives it more local feel than the tourist strips to the north.

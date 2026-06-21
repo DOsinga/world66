@@ -14,6 +14,7 @@ story: >
   caused widespread suffering and violence. It was partly the chaos caused by the fort that prompted 
   the Canadian government to send the North-West Mounted Police west in 1874, in what became known 
   as the March West.
+score: 7.7
 ---
 
 Fort Whoop-Up is a replica of the original whisky trading post that stood near the confluence of the Oldman and St. Mary rivers in the 1870s. The original fort was built by American traders from Montana who were selling illegal alcohol to First Nations people in what was then essentially ungoverned territory. The replica, located in Indian Battle Park inside the Oldman River valley, does a good job of conveying what the fort looked like and what happened there.

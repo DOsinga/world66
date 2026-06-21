@@ -8,6 +8,7 @@ latitude: 37.7885
 longitude: 20.8987
 story: >
   Dionysios Solomos wrote the Hymn to Liberty in 1823, a 158-stanza poem inspired by the Greek War of Independence. Only the first two stanzas were set to music — and those became the Greek national anthem. Full versions are essentially never performed. Solomos wrote almost entirely in Greek rather than Italian, which was the literary language of educated Zakynthians, a deliberate political as much as artistic choice.
+score: 7.5
 ---
 
 The Museum of Solomos and Eminent Zakynthians on Solomos Square commemorates Dionysios Solomos, the island's most famous son, who wrote the poem that became the Greek national anthem. The museum occupies a neoclassical building that replaced the one destroyed in 1953 and holds manuscripts, personal belongings, portraits, and editions of Solomos's work alongside material relating to other notable Zakynthians.

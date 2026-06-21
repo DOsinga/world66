@@ -7,6 +7,7 @@ tags:
 latitude: 43.4662
 longitude: 11.8831
 story: "The Piazza Grande slopes noticeably from one end to the other — a deliberate medieval design choice that allowed water to drain and made the space more usable as a marketplace. Giorgio Vasari, the artist and art historian who catalogued the lives of Renaissance painters, designed the loggia on the north side in 1573; he was born in Arezzo and considered it his home city."
+score: 8.8
 ---
 
 Arezzo's main medieval square is one of the most dramatically composed public spaces in Tuscany: it slopes, it's irregular, and it's ringed by buildings from different centuries — the Romanesque apse of Santa Maria della Pieve on one side, Vasari's Renaissance loggia on another, medieval towers and palazzo facades filling in the gaps.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 65.6580
 longitude: -18.1710
+score: 7.5
 ---
 
 Hlíðarfjall is the closest thing Iceland has to a proper alpine ski resort, located 6 km from Akureyri in the mountains above town. It has 23 slopes ranging from beginner to black, five lifts, and reliable snow cover from December through April. By any international standard it is modest in size, but for Iceland it is outstanding, and it is one of the main reasons Akureyri has a significant winter tourism season.

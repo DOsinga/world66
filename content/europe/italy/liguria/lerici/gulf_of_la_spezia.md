@@ -14,6 +14,7 @@ story: >
   impressed even his companions. The name "Bay of Poets" came later, a 20th-century
   coinage, though the literary associations were genuine: Shelley drowned here in
   1822, and Lerici became something of a pilgrimage point for the Romantic generation.
+score: 7.0
 ---
 
 The Gulf of La Spezia is the broad bay that Lerici faces — about 8 km across and sheltered enough to feel more like a lake than an open sea on calm days. The water is clear, the depths are moderate, and the combination of the surrounding hills and the naval presence at La Spezia gives the gulf a singular character: at once picturesque and industrial.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 6.4
 ---
 
 The wooded hill of Kreuzbergl, immediately west of the old town, is Klagenfurt's local park and Sunday-morning forest. A short, steep climb leads past the small Calvary chapel to a hilltop with a public observatory, the city's planetarium and a viewing platform over the lake basin.

@@ -6,6 +6,7 @@ longitude: 115.7235
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 The Mandurah Foreshore is the heart of the town: a long landscaped boardwalk along the estuary between the traffic bridge and the marina, lined with cafes, restaurants, ice-cream shops, and a small free water playground. Pelicans hang around the jetty waiting for fishermen to clean their catch.

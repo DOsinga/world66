@@ -12,6 +12,7 @@ story: >
   later than most major western resorts, and has deliberately limited day passes to avoid
   the crowds that have overwhelmed Whistler and Banff.
 snippet: North America's longest vertical ski resort with enormous snowfall and limited crowds
+score: 8.8
 ---
 
 Revelstoke Mountain Resort sits directly above the town, with gondola access from the base lodge at the edge of downtown. The mountain offers over 3,000 acres of skiable terrain, some of it groomed but a large proportion left as natural glades and bowls that fill with the exceptional snowfall this part of the Selkirks receives. The snow here is dry and deep — maritime enough to get heavy accumulation, cold enough not to consolidate — making it some of the best powder skiing in Canada.

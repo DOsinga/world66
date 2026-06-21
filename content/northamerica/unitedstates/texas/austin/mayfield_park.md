@@ -8,6 +8,7 @@ tags:
 address: "3505 W 35th St"
 latitude: 30.3101
 longitude: -97.7742
+score: 7.1
 ---
 
 Mayfield Park is a free public garden on the northwest shore of Lake Austin, donated to the city in 1971 by Allison Mayfield and maintained largely as the family left it: a cottage garden with peacocks and peahens wandering free among the flower beds, koi ponds, and native plantings. The peacocks are the reason most visitors come — they are genuinely wild, roost in the trees at night, and during mating season the males display their full fans in the garden.

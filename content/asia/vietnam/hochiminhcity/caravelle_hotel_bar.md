@@ -1,16 +1,19 @@
 ---
-title: "Caravelle Hotel (Saigon Bar)"
-type: poi
-tags:
-  - bars_and_cafes
-  - bar
-  - history
-  - landmark
 latitude: 10.7761
 longitude: 106.7033
-snippet: "Rooftop bar of the war-era hotel where foreign correspondents filed their dispatches"
+score: 7.6
+snippet: Rooftop bar of the war-era hotel where foreign correspondents filed their
+  dispatches
 sources:
-  - https://en.wikipedia.org/wiki/Caravelle_Hotel
+- https://en.wikipedia.org/wiki/Caravelle_Hotel
+tags:
+- bars_and_cafes
+- bar
+- history
+- landmark
+- district_1
+title: Caravelle Hotel (Saigon Bar)
+type: poi
 ---
 
 The Caravelle Hotel, opened in 1959 on Lam Son Square, was the headquarters of the Australian and New Zealand embassies during the American War and one of the main bases for foreign correspondents. CBS, ABC, NBC, and the New York Times all operated from here. Journalists covering the war would file dispatches from the rooftop bar while watching bombing raids over the Mekong Delta in the distance.

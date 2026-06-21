@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 44.2470
 longitude: 8.4415
+score: 5.1
 ---
 
 One of two medieval watchtowers that survive from Bergeggi's coastal defence network. This one stands at the base of the headland near the beach — a squat, stone structure that once formed part of a chain of signal towers running along the Ligurian coast, allowing coastal communities to raise the alarm when raider ships were sighted at sea.

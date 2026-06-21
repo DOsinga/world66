@@ -14,6 +14,7 @@ story: >
   of the bluff the following year. The story spread quickly among trappers and emigrants,
   and the formation was named for him before it became one of the most recognisable landmarks
   on the Oregon Trail.
+score: 9.1
 ---
 
 Rising 800 feet above the North Platte River valley, Scotts Bluff was one of the most dramatic landmarks on the 19th-century emigrant trails. Between 1841 and 1869, an estimated 400,000 people passed through Mitchell Pass at its base — emigrants on the Oregon, California, and Mormon trails making their way west. The bluff served as a visible landmark from miles away in flat country, confirming to wagon trains that they were on the right track.

@@ -6,6 +6,7 @@ longitude: 118.7228
 tags:
   - things_to_do
   - sight
+score: 4.9
 ---
 
 A hillside complex on the western outskirts of Puerto Princesa, owned by the family of the late Senator Ramon Mitra, is the standard land-tour stop in the city. The **ranch** has a long viewpoint over Honda Bay; the adjoining **Baker's Hill** is a slightly kitsch garden of statues, miniature houses and bakeries, popular with Filipino visitors more than international tourists.

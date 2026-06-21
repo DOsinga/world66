@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.8461
 longitude: 126.5616
+score: 7.3
 ---
 
 The Songhua River embankment walkway is the social heart of Jilin City — a paved riverside promenade that stretches for several kilometres along the city's riverfront and functions as the city's living room in both summer and winter. In summer, families stroll, vendors operate, and boats depart for lake excursions. In winter, it is the front-row seat for the rime ice spectacle that defines the city's international identity.

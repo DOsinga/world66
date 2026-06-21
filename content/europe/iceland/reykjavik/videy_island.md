@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: Small uninhabited island off Reykjavik with Iceland's oldest stone church and Yoko Ono's Imagine Peace Tower
 story: "The Imagine Peace Tower — Yoko Ono's column of light beamed into the sky from a granite well — is switched on every year between John Lennon's birthday (9 October) and the anniversary of his death (8 December), then again at solstice and new year. On a clear winter night the beam is visible from the whole city."
+score: 8.4
 ---
 
 A ten-minute ferry from the old harbour takes you to Viðey, a low green island in the bay that was inhabited from Viking times until the 1940s and is now a public park. Viðey Church (1774) is one of the oldest stone buildings in Iceland; next to it stands Viðey House, the country's first proper masonry residence.

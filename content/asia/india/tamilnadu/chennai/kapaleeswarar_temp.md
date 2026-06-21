@@ -12,6 +12,7 @@ tags:
 - historic
 title: Kapaleeswarar Temple
 type: poi
+score: 8.6
 ---
 
 Chennai's most important Hindu temple, in the Mylapore neighbourhood. Dedicated to Shiva (worshipped here as Kapaleeswarar) and the goddess Karpagambal, the temple has been a centre of Shaivite devotion since at least the 7th century, when it was praised by Tamil saints. The current structure dates from around the 16th century.

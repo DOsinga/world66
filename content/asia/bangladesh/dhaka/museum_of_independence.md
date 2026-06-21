@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 23.7345
 longitude: 90.3983
+score: 7.9
 ---
 
 An underground museum beside Suhrawardy Udyan (the park where Sheikh Mujibur Rahman delivered his historic 7th March 1971 speech calling for independence, and where the Pakistani forces surrendered on 16 December 1971). The museum covers the history of the Bangladesh Liberation War and the events leading to independence — partition, the Language Movement, the political movements of the 1960s, and the war itself.

@@ -16,6 +16,7 @@ story: >
   restoration has been painstaking: craftsmen have recreated the Art Deco
   plasterwork, the French chandeliers, and the original colour schemes from
   archival photographs.
+score: 8.2
 ---
 
 The Teatro Bolívar on Espejo Street in the Historic Centre is one of the finest Art Deco theatres in Latin America — a 1,800-seat venue built in 1933 that combines European Art Deco grandeur with South American scale and ambition. The auditorium, with its gilded plasterwork, ornate ceiling, and horseshoe-shaped balconies, is an extraordinary space when seen at a performance.

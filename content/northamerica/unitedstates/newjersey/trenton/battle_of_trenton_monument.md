@@ -10,6 +10,7 @@ story: >
   Washington's crossing on Christmas night 1776 was a desperate gamble — the Continental Army was losing badly, morale was collapsing, and enlistments were expiring on January 1st. The surprise attack on the Hessian garrison at Trenton caught the defenders unprepared. The victory gave Washington the recruits and momentum to keep fighting. Without Trenton, the revolution might have ended that winter.
 sources:
   - https://en.wikipedia.org/wiki/Battle_of_Trenton
+score: 7.0
 ---
 
 The Battle Monument at the intersection of North Warren, North Broad, and Brunswick Avenue marks the spot where Washington placed his artillery during the Battle of Trenton on 26 December 1776. The 148-foot granite column, completed in 1893, is topped by a bronze figure of Washington and is one of the tallest battle monuments in the United States. An elevator inside takes visitors to a viewing platform near the top — open seasonally and worth the trip for views over the city and toward the Delaware River.

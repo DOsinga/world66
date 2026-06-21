@@ -9,6 +9,7 @@ tags:
 - sight
 title: Scaligero Castle, Sirmione
 type: poi
+score: 8.4
 ---
 
 A 13th-century fortress built by the Scaligeri of Verona at the entrance to the Sirmione peninsula. The castle is still ringed by water and accessed by a drawbridge. You can walk the battlements for views over the southern lake. Crowded in summer — arrive early.

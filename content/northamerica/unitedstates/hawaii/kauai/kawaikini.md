@@ -9,6 +9,7 @@ latitude: 22.0567
 longitude: -159.4967
 sources:
   - https://en.wikipedia.org/wiki/Kawaikini
+score: 6.0
 ---
 
 Kawaikini is the highest point on Kauaʻi at 1,598 metres, sitting just northeast of Mount Waialeale at the soggy centre of the island. The summit lies within the Alakaʻi Wilderness Preserve and is rarely visited — the terrain is genuinely difficult, requiring navigation through dense cloud forest and thick mud with no maintained trail to the top.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "Charming Baroque town of Serbian Orthodox churches, art galleries, and excellent craft shops, 20km from Budapest"
 latitude: 47.6817
 longitude: 19.0742
+score: 8.5
 ---
 
 Szentendre is the most accessible of the Danube Bend towns — just 20 kilometres from Budapest by suburban railway — and the most touristically developed. The compact old town has a dozen Serbian Orthodox churches built by the Serbian refugees who settled here after the Ottoman conquest of their homeland in the late 17th century. The Blagoveštenská Church (1754) is the most impressive, with a richly carved iconostasis.

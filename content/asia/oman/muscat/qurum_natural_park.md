@@ -8,6 +8,7 @@ tags:
   - park
 latitude: 23.6025
 longitude: 58.5333
+score: 6.8
 ---
 
 Qurum Natural Park is a strip of cultivated gardens and natural mangrove habitat behind Qurum Beach, one of the few genuinely green spaces in central Muscat. The park runs along a tidal creek channel where mangroves take hold; at high tide the creek fills and the mangroves reflect in still water, while at low tide the birds that feed in the mudflats — herons, egrets, sandpipers, and occasionally flamingos — are visible from the path along the edge. For anyone interested in birdwatching, it's worth more time than the modest setting might suggest.

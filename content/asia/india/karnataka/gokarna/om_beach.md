@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Om Beach
 type: poi
+score: 7.7
 ---
 
 The most popular of Gokarna's beaches, named for its shape, which roughly resembles the Om symbol. The best waves for swimming and the widest choice of beachside shack guesthouses. About 20 minutes from the Gokarna bus stand by road or a cliff walk from Kudle.

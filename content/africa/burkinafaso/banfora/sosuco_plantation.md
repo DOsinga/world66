@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 10.7000
 longitude: -4.7500
+score: 5.9
 ---
 
 The SOSUCO (Société Sucrière de la Comoé) plantation is the reason Banfora exists in its current form — a 4,000-hectare estate of sugarcane that sprawls north and east of the town, with a refinery, narrow-gauge railway, and worker housing all of its own. It is one of the largest sugar operations in West Africa and provides much of the country's domestic sugar supply.

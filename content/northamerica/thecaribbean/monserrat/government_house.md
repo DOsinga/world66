@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 16.7590
 longitude: -62.2250
+score: 4.7
 ---
 
 The official residence of the Governor of Montserrat — the territory's British-appointed head of government — sits in Woodlands, in the safe northern zone. The building is a modest pink-and-white painted colonial house with a long shaded verandah and a small garden, considerably less grand than the equivalents on other Caribbean islands.

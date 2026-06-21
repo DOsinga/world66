@@ -8,6 +8,7 @@ tags:
 latitude: 51.5586
 longitude: 5.0931
 snippet: One of the Netherlands' best live music venues
+score: 8.2
 ---
 
 013 is one of the best mid-size live music venues in the Netherlands — a former factory building near the city centre that hosts rock, metal, electronic, and indie acts in two halls of different sizes. The programming is eclectic but leans toward alternative and heavy music, and the sound quality is notably good.

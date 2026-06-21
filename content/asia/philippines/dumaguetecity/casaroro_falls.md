@@ -7,6 +7,7 @@ tags:
 latitude: 9.2750
 longitude: 123.2750
 snippet: "Dramatic single-drop waterfall in the forest above Valencia"
+score: 7.2
 ---
 
 A slender, single-drop waterfall that plunges about 30 metres into a cool, boulder-strewn pool in the forest above the town of Valencia, about 14 km from Dumaguete. Reaching it requires a steep downhill hike of around 30 minutes through thick vegetation — concrete steps and a bamboo railing help on the steepest section, but it is still a proper scramble. Bring waterproof footwear.

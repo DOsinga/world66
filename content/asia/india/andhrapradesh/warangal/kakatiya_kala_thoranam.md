@@ -8,6 +8,7 @@ tags:
 latitude: 17.956286
 longitude: 79.616053
 story: One of these four ceremonial arches was adopted as the emblem of the state of Telangana when the state was created in 2014 — a choice that underscored how deeply the Kakatiya legacy is embedded in Telangana's regional identity. You'll see the arch reproduced on government buildings, official seals, and roadside signage across the state.
+score: 8.6
 ---
 
 The Kakatiya Kala Thoranam — the ornamental arched gateways of Warangal Fort — are the most photographed monuments in Warangal and the symbol of Telangana state. These four massive stone arches, built in the 13th century and oriented to the four cardinal directions, originally marked the entrances to the inner court of the Kakatiya palace complex.

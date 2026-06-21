@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Bummerlhaus gets its name from the inn-sign of 'The Golden Lion' that once hung above the entrance — to the Steyr ear the heraldic lion looked more like a 'Bummerl', a small comic dog. The name stuck and the lion stayed."
+score: 6.9
 ---
 
 The Bummerlhaus is the most photographed building in Steyr: a late-Gothic burgher house from around 1497, with a flat-arched entrance opening into an arcaded inner courtyard. The facade still carries traces of the late-medieval painted decoration, and the iron-bracketed sign of the lion hangs over the doorway.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 65.0114
 longitude: 25.4728
+score: 3.8
 ---
 
 A large analogue clock embedded in the floor of the Valkea shopping centre, with backlit numerals shining up through the polished surface. Designed to withstand the constant tread of shoppers, the clock has become a small local landmark in the otherwise generic mall.

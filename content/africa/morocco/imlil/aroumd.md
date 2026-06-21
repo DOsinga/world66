@@ -7,6 +7,7 @@ tags:
 - sight
 title: Aroumd Village
 type: poi
+score: 7.8
 ---
 
 Aroumd (also spelled Aremd) sits at 1,843 metres on a dramatic moraine ridge above the Ait Mizane river, about 4.5 kilometres south of Imlil and the last major village before the refuge. It is the largest Amazigh settlement in the valley and a practical staging post on the Toubkal route. Flat-roofed stone houses step up the spur one above another; the terraced fields below grow barley and vegetables, irrigated by channels cut from the river.

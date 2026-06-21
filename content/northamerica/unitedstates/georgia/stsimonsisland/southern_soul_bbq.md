@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 31.155
 longitude: -81.397
+score: 7.4
 ---
 
 Southern Soul Barbecue, on Demere Road on the way out of the village, has been one of the most respected pit barbecue joints in coastal Georgia for years. It is housed in a converted gas station — green roof, picnic tables in front — with the smokers visible at the back of the lot. Smoke from the pecan and oak wood drifts across the parking lot all afternoon.

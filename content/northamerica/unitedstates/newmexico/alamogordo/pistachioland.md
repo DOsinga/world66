@@ -11,6 +11,7 @@ story: >
   built in 2007 by Tim McGinn to honor his father Tom, who pioneered pistachio
   farming in New Mexico in the 1970s. New Mexico now produces about 10% of the
   US pistachio crop, almost all of it in this corner of the Tularosa Basin.
+score: 5.7
 ---
 
 Four miles north of Alamogordo on US-54, McGinn's PistachioLand is a working pistachio ranch that has embraced its roadside attraction status with genuine enthusiasm. The 30-foot concrete pistachio monument is the centrepiece, but there's also a winery (Arena Blanca Winery, producing wine from desert-grown grapes), a gift shop with free pistachio samples, and tours of the orchards in season.

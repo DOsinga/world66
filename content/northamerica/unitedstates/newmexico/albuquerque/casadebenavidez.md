@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Casa De Benavidez
 type: poi
+score: 6.2
 ---
 
 A long-established New Mexican restaurant on the north side of town, open since 1976. The building is a rambling adobe with a large covered patio that's the best seat in warm weather. Portions are generous and the chile — both red and green — is consistently good. The combination plates and enchiladas are the core of the menu, and the sopapillas come with honey as they should.

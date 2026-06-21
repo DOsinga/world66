@@ -8,6 +8,7 @@ latitude: 24.2280
 longitude: 124.0050
 story: >
   The coral reefs surrounding Kuroshima are part of the Iriomote-Ishigaki National Park, which protects some of the most intact coral ecosystems in Japan. The shallow reef platform around the island supports blue-ringed octopus, hawksbill turtles, and over 200 species of coral — but the same platform that creates spectacular snorkelling also means that some sections of the shoreline are shallow and rocky rather than sandy.
+score: 8.4
 ---
 
 Kuroshima's beaches are uncrowded even in the peak summer season — the island's small visitor numbers ensure that the coral sand and crystal water feel like a private discovery. The western beaches, reached by cycling about 20 minutes from the ferry terminal, offer the best combination of sandy shoreline and accessible reef for snorkelling.

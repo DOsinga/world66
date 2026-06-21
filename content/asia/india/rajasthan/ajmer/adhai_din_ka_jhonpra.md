@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The name means 'Hut of Two and a Half Days', supposedly because a fair held in the courtyard once lasted that long. The mosque was built in 1199 on the orders of Qutb-ud-din Aibak, reusing the columns of a recently demolished Sanskrit college and Hindu temples. If you look closely at the slender pillars, you can still see Hindu and Jain carvings, defaced but not erased."
+score: 8.9
 ---
 
 A short walk west of the Dargah, the Adhai Din Ka Jhonpra is one of the earliest mosques in India and one of the most striking ruined buildings in Rajasthan. Built in the late 12th century from the stones of a demolished Hindu Sanskrit college, it combines Indian column carving with Islamic arched screens — the seven-arched mihrab screen, with its calligraphic friezes, is one of the great masterpieces of early Indo-Islamic architecture.

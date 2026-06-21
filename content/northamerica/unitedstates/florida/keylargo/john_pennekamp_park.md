@@ -16,6 +16,7 @@ story: >
   underwater subjects in the world. The original Italian statue was placed in
   the Mediterranean in 1954, in memory of Dario Gonzatti, the first Italian
   to use an aqualung.
+score: 9.0
 ---
 
 John Pennekamp Coral Reef State Park covers around 70 square nautical miles of Atlantic Ocean waters off Key Largo, extending roughly 25 miles along the coast and 3 miles offshore. Established in 1963, it was the first underwater state park in the United States and remains one of the most visited Florida state parks, receiving over a million visitors a year.

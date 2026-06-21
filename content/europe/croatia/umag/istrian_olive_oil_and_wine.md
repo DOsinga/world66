@@ -8,6 +8,7 @@ latitude: 45.4323
 longitude: 13.5224
 sources:
   - https://en.wikipedia.org/wiki/Umag
+score: 7.4
 ---
 
 Istria produces some of Europe's most acclaimed olive oil, and the area around Umag and Novigrad is among the peninsula's best olive-growing zones. Istrian extra-virgin olive oil has repeatedly topped international competitions, with small producers around Umag winning prizes at the Flos Olei guide — considered the world's most authoritative olive oil competition.

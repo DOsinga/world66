@@ -5,6 +5,7 @@ tags: [things_to_do, sport, nature]
 latitude: 36.7085
 longitude: -2.8090
 story: The levante — the east wind that funnels through the narrow gap between Spain and North Africa — has been shaping life on the Costa de Almería since before recorded history. The same wind that propelled Moorish dhows from North Africa to Andalusia in the 8th-century invasion now drives windsurfers across the bay at Almerimar with enough consistency and force to make this one of southern Spain's established wind sport destinations.
+score: 7.1
 ---
 
 The levante wind that blows consistently along this stretch of the Costa de Almería creates conditions that windsurfers and kitesurfers actively seek out. The wind is predictable, averaging Force 3 to Force 5 in the summer months, and the bay gives enough fetch to generate rideable chop without the dangerous seas that the open Mediterranean can produce. Several schools operate from the beach, and the equipment rental market is well-established for visitors who want to try the sports rather than bring their own kit.

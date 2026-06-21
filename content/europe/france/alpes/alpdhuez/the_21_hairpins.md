@@ -8,6 +8,7 @@ tags:
   - sight
   - cycling
 story: "When Marco Pantani set the climb record of 37 minutes 35 seconds in 1997, the Italian commentator broke down sobbing on live television. The record has never been bettered cleanly — Lance Armstrong rode faster in 2004 but was later stripped, and the climb has since become a yardstick for what was once possible on the Tour."
+score: 8.8
 ---
 
 The 13.8-kilometre road from Le Bourg-d'Oisans to the resort climbs 1,071 metres at an average gradient of 8.1 per cent. The 21 bends are numbered in reverse from the top (so the first you reach from the valley is bend 21, the last is bend 1) and each carries a plaque with the name of a Tour de France stage winner.

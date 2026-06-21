@@ -9,6 +9,7 @@ tags:
   - historic_house
 title: "Sé de Braga"
 type: poi
+score: 8.9
 ---
 
 The Sé is the oldest cathedral in Portugal, founded in 1070 after the Reconquista reached Braga and the city was re-established as an archbishopric. The building you see today is a layered accumulation of styles: a Romanesque core survives in the main portal and nave arcades, but centuries of additions have wrapped it in Gothic chapels, Manueline ornament, and baroque towers. The result is more instructive than pretty — a physical record of a thousand years of Portuguese Christianity.

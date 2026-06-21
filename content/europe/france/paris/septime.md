@@ -12,6 +12,7 @@ tags:
 title: Septime
 type: poi
 url: www.septime-charonne.fr
+score: 7.7
 ---
 
 Septime is the restaurant that defined the new Parisian bistro for the 2010s — seasonal French cooking of real precision and creativity, in a room that manages to feel both serious and relaxed. Chef Bertrand Grébaut trained at Arpège and the cooking shows it, without the formality or the price tag.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 1.4036
 longitude: 110.1228
+score: 6.9
 ---
 
 Two limestone caves near the old gold-mining town of Bau, 40 minutes west of Kuching. The Wind Cave is a 500-metre traverse with three openings, walkable in either direction along an installed boardwalk; it gets its name from the constant cool breeze that flows through the system. The Fairy Cave is a single vast chamber with a partially open roof, the floor a green-mossy cathedral with stalagmite columns that, with imagination, suggest Daoist deities.

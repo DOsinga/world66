@@ -10,6 +10,7 @@ title: Saint Nicholas' Church
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Saint_Nicholas_Church,_Ghent
+score: 8.2
 ---
 
 Saint Nicholas' Church stands between the Belfry and the Korenmarkt, completing Ghent's iconic trio of medieval towers. Built in the Tournai or Scheldt Gothic style characteristic of the region, it was begun in the 13th century and functioned as the church of the powerful merchants' guild. The tower has a distinctive grouping of corner turrets and a large central lantern.

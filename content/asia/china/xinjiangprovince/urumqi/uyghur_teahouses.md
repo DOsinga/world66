@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 43.7890
 longitude: 87.6300
+score: 7.6
 ---
 
 The teahouses tucked into the lanes around the Erdaoqiao bazaar are among the most pleasurable places to stop in Ürümqi. They serve green tea — often a fragrant kok chai — alongside small plates of dried fruit: raisins, apricots, almonds, and sometimes walnuts. You sit, pour, and let the afternoon pass at whatever pace it chooses. The setting is simple: low tables, stools, maybe a television on in the corner. No one is in a hurry.

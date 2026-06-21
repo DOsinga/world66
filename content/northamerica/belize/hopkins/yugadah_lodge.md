@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 16.8633
 longitude: -88.2669
+score: 7.6
 ---
 
 The food in Hopkins is Garifuna, and Garifuna cooking centres on coconut. Almost everything worth eating involves coconut milk in some form — in the fish broth, in the rice, pressed into fresh bread. Hudut is the signature dish: a whole fish simmered in coconut milk and served with fufu, a dense mash of green and ripe plantain worked together in a wooden mortar. It takes time to make and is usually available at lunch rather than on demand.

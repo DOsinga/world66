@@ -7,6 +7,7 @@ tags:
 latitude: 39.9466
 longitude: -75.1746
 snippet: "One of the great Belgian beer bars in America — 200 bottles, excellent food, and a beer list that rewards careful study"
+score: 7.6
 ---
 
 Monk's Cafe has been the reference point for serious beer drinking in Philadelphia since it opened in 1997, and it remains one of the finest Belgian beer bars in the United States. The list runs to 200 bottles and a rotating selection of draft handles, covering the full range of Belgian styles — Trappist ales, lambics, saisons, gueuzes, quadrupels — alongside a well-chosen American craft selection. The staff knows the list and is glad to help navigate it without being condescending about it.

@@ -8,6 +8,7 @@ latitude: 25.45450
 longitude: 75.64440
 story: >
   Rudyard Kipling stayed at Sukh Mahal while writing *Kim*, and Bundi appears in the novel as the unnamed city where Kim studies with the Lama. The summer palace's location beside the calm Jait Sagar Lake, with its lotus blossoms in season, probably accounts for much of its appeal to both Kipling and the Bundi rulers who built it as a retreat from the summer heat of the main palace.
+score: 6.4
 ---
 
 Sukh Mahal (Pleasure Palace) is a small 18th-century summer retreat on the banks of Jait Sagar Lake, a few kilometres from the old city. The setting is the thing here — a white-painted pavilion overlooking a calm lake, surrounded by greenery that feels far removed from the dusty streets of town.

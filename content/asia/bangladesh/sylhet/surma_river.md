@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.8876
 longitude: 91.8681
+score: 7.3
 ---
 
 The Surma is the river that defines Sylhet — broad, slow-moving in the dry season, swollen with monsoon water in summer. The Keane Bridge spans it at the city centre; small wooden ferries run constantly between the north and south banks, carrying people and bicycles for a few taka per crossing.

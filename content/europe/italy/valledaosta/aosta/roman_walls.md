@@ -5,6 +5,7 @@ tags: [things_to_do, sight, ruin]
 latitude: 45.7372
 longitude: 7.3197
 story: "The Roman walls of Aosta enclose a near-perfect rectangle — 724 by 572 metres — that is still the shape of the old city today. Towers were set at regular intervals; most are gone but several survive to significant height, including the Tour du Lépreux at the northwest corner, which was used as a place of quarantine in the medieval period and gives one of the walls' best-preserved stretches."
+score: 7.8
 ---
 
 Augusta Praetoria was laid out on a standard Roman military grid, and that grid has survived as the street plan of Aosta's historic centre for over two thousand years. The cardo maximus (north–south axis) and decumanus maximus (east–west axis) are still the main streets of the old town. The insulae — the rectangular blocks between the streets — remain largely intact in their proportions, even though the buildings on them have been rebuilt many times over.

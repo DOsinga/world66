@@ -9,6 +9,7 @@ latitude: 41.5730
 longitude: 120.4490
 story: >
   The Phoenix Tower is associated with the legendary Phoenix Mountain that gives this part of Chaoyang its name. Local tradition holds that a golden phoenix alighted here during the Northern Yan period, an omen that led to the foundation of the Buddhist complex on the site. The tower was built to mark the spot.
+score: 7.3
 ---
 
 The Phoenix Tower, known in Chinese as Fenghuang Tower, is the third of Chaoyang's trio of ancient pagodas and the least well-documented historically. Dating roughly to the Liao Dynasty period, it stands in the central district and completes a triangle of pagoda architecture that covers over fifteen hundred years of Buddhist construction in a single city.

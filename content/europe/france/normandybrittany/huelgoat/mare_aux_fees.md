@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.3631
 longitude: -3.7300
+score: 7.4
 ---
 
 The Fairies' Pool sits at the far end of the main walking circuit through the Huelgoat forest — a quiet, darkly reflective pool surrounded by old oaks and moss-covered boulders, deep enough in the trees that it stays cool even in high summer. The name is accurate: it is the kind of place where you would not be entirely surprised to encounter something supernatural.

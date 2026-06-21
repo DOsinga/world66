@@ -7,6 +7,7 @@ tags:
 - sight
 title: Ranisar and Padmasar Lakes
 type: poi
+score: 7.0
 ---
 
 Two artificial lakes sit below Mehrangarh's eastern cliff, created by the Jodhpur royals as part of the city's historic water management. Ranisar was built by Rani Jassoji in 1459 and Padmasar by Rani Padmaji in the same era. They are modest in scale but the walk around them — with the fort wall rising sheer above and the old city lanes on the other side — is one of the more peaceful circuits in Jodhpur.

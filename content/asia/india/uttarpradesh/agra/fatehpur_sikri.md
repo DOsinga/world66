@@ -12,6 +12,7 @@ tags:
   - sight
   - architecture
 story: "Akbar built Fatehpur Sikri after the Sufi saint Salim Chishti predicted he would finally have a male heir — which proved correct. The emperor named his son Salim in gratitude; that boy grew up to be the emperor Jahangir. Childless couples still tie threads onto the marble jali screens around the saint's tomb to ask for the same favour."
+score: 9.2
 ---
 
 Built between 1571 and 1585 by Mughal emperor Akbar near the village of the Sufi saint Salim Chishti, Fatehpur Sikri is regarded as Akbar's crowning architectural legacy. The red sandstone city — palaces, halls, mosques, and courtyards — was the Mughal capital for only fourteen years before being abandoned, apparently because the water supply dried up. It is a UNESCO World Heritage Site and one of the best-preserved Mughal complexes in India, 37 km west of Agra.

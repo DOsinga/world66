@@ -6,6 +6,7 @@ longitude: 12.7613
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The headland of **Gabicce Monte** rises immediately south of Cattolica, marking both the regional border with the Marche and the start of the cliffed **Riviera del Conero**-style coastline. A road climbs the headland to the small village at the top, with one of the best long views on this stretch of the Adriatic — north along the resort beaches towards Rimini, south to the wilder cliffs of San Bartolo park.

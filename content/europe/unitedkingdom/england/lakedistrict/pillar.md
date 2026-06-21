@@ -7,6 +7,7 @@ tags:
 - hiking
 title: Pillar
 type: poi
+score: 8.6
 ---
 
 Pillar is one of the Lake District's most rewarding fells. At 892 metres it ranks among the highest in Ennerdale, and its northern face is steep and craggy, dominated by the great pinnacle of Pillar Rock — a separate summit significant enough to appear in most lists of Lakeland two-thousanders, though not in the Marilyn list.

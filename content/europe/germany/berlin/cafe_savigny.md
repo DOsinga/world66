@@ -11,6 +11,7 @@ tags:
 - charlottenburg
 title: Café Savigny
 type: poi
+score: 5.9
 ---
 
 A relaxed café on busy Grolmannstraße — quieter than its neighbours, good for a long breakfast (served until 4pm). One of the better daytime spots near Savignyplatz.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.5762
 longitude: -105.0808
+score: 6.9
 ---
 
 Colorado State University is the institution that defines Fort Collins — a major research university with around 35,000 students, whose presence keeps the city young, progressive, and supplied with concerts, sporting events, and cultural programming. The campus is attractive, with mature trees and a mix of 19th-century brick buildings and modern research facilities.

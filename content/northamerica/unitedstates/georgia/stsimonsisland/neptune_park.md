@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.1342
 longitude: -81.394
+score: 7.1
 ---
 
 Neptune Park sits at the southern tip of the island, between the lighthouse, the pier, and the village. The park is named for Neptune Small, a Black servant who carried his master's body home from the Civil War battlefield of Fredericksburg in 1862 and was given land here in recognition. A statue marks the site.

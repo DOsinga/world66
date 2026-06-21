@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 7.5
 ---
 
 The Medina J'dida — the "New Medina" — is the popular Arab quarter built in the late 19th century as a planned extension to absorb Muslim Algerians displaced from the colonial centre. The grid of narrow streets is dense with markets, workshops, food stalls, and the city's main souk for fabric, jewellery, and household goods.

@@ -12,6 +12,7 @@ tags:
 - bar
 story: >
   The Chandelier Bar is three storeys tall and contains over two million Swarovski crystals. The middle level — accessed through a curtain of crystals — is the bar's most photographed spot and was custom-designed to feel like drinking inside the light fixture itself.
+score: 7.6
 ---
 
 The Cosmopolitan opened in 2010 with the design ethos of "a hotel for people who are tired of Vegas hotels". The result is a property that feels closer to a contemporary big-city hotel than to its themed neighbours — minimal lobby branding, modern art everywhere, balconies on most rooms (a rarity on the Strip), and an Identity Tribute Portrait Wall that displays guest photos in real time.

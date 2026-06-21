@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 7.1
 ---
 
 The Cathedral of Our Lady of Peace is the main Catholic church of Bukavu and the seat of the archdiocese. Completed in the 1950s, it is a striking piece of late-colonial modernist architecture — a tall, simple nave with strip windows, slim concrete buttresses, and a campanile that reads as a landmark from several points across the city.

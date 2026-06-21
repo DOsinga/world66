@@ -8,6 +8,7 @@ latitude: 12.03174
 longitude: 39.04113
 story: >
   At the heart of Timkat is the tabot — a consecrated replica of the Ark of the Covenant kept in every Ethiopian Orthodox church. On Timkat eve, each church's tabot is wrapped in embroidered cloth and carried in procession to a body of water. Priests and deacons chant through the night. At dawn, the water is blessed and pilgrims plunge in. The re-enactment of the baptism of Christ lasts until midday, when the tabots are returned under escort to their churches — a route lined with hundreds of candles.
+score: 9.4
 ---
 
 Timkat is the Ethiopian Orthodox celebration of the Epiphany — the baptism of Christ in the Jordan River — and Lalibela is one of the best places in Ethiopia to experience it. The festival falls on 19 January (or 20 January in a leap year in the Ethiopian calendar), and in the days before it the town fills with pilgrims who have walked from surrounding villages and towns, dressed in white shemmas and carrying wooden staffs.

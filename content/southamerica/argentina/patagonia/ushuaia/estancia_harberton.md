@@ -9,6 +9,7 @@ latitude: -54.8850
 longitude: -67.2000
 story: >
   Harberton was the first estancia in Tierra del Fuego, founded in 1886 by the missionary Thomas Bridges. Bridges spent years compiling a dictionary of the Yagán language — a language with over 32,000 words — which is now considered one of the most important documents of an otherwise lost civilization. His family still runs the estancia today, more than 130 years later.
+score: 8.0
 ---
 
 Estancia Harberton is the oldest ranch in Tierra del Fuego, 85 kilometres east of Ushuaia along the coast of the Beagle Channel. Founded in 1886 by the Anglican missionary Thomas Bridges, it has been in continuous operation by the same family ever since and is now run by his great-great-grandchildren.

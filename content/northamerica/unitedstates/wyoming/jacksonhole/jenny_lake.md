@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.7543
 longitude: -110.7291
+score: 9.4
 ---
 
 Jenny Lake is the most scenic of Grand Teton's lakes, fed by Cascade Creek from the canyon above and hemmed in by the sheer walls of the Teton peaks on its western shore. A 12-km walking trail circumnavigates the lake; the ferry service that crosses to the western shore cuts the hiking distance roughly in half and is very popular.

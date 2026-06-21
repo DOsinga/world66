@@ -8,6 +8,7 @@ latitude: 30.007
 longitude: 120.5979
 story: >
   Shaoxing has over a thousand ancient stone bridges — more than Venice, by the count of some civic authorities — and several of the oldest date from the Song dynasty. Guangning Bridge, built in 1256 CE, is one of the longest surviving Song-era stone arch bridges in eastern China. Bazi Bridge, from the Southern Song dynasty, has a distinctive figure-eight profile created by two separate bridge sections meeting at different angles over a canal junction.
+score: 8.7
 ---
 
 Shaoxing's canal system is crossed by an extraordinary density of stone arch bridges, many centuries old, that define the visual character of the old city's backstreets. The bridges are not collected in a single tourist area but are distributed throughout the canal district — turning a corner from a main street onto a canal path often reveals a Song or Ming dynasty stone arch in daily use as a footbridge, with local residents crossing it with shopping bags and bicycles.

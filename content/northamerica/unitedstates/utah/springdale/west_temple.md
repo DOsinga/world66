@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The 2,380-metre cathedral-like peak that dominates the Towers of the Virgin
+score: 6.2
 ---
 
 The West Temple is the towering Navajo Sandstone monolith that rises 1,200 metres above the canyon floor on the western edge of the park — the dominant peak of the Towers of the Virgin and the highest summit visible from the visitor centre. It is named for its resemblance, real or imagined, to a vast cathedral.

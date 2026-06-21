@@ -8,6 +8,7 @@ tags:
 - historic_site
 title: Água de Prata Aqueduct
 type: poi
+score: 7.8
 ---
 
 The Silver Water Aqueduct (Aqueduto da Água de Prata) is the Roman aqueduct that brought water to Évora — built in the 1st century CE and still carrying water until the 20th century, a remarkable 1,900-year working life. The surviving sections run for several kilometres, entering the city from the northwest and threading through the urban fabric in ways that give you an immediate sense of how the city grew around it.

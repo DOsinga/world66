@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
   - sight
+score: 8.8
 ---
 
 The Palace of Assembly houses both the Punjab and Haryana legislative assemblies under a single roof and is arguably the most theatrical of Le Corbusier's Capitol Complex buildings. A hyperbolic cooling tower rises from the centre of the roof — designed to evoke the funnels of a power station, lit from above by a circular oculus and surmounted by an aluminium hood that catches the wind.

@@ -9,6 +9,7 @@ latitude: 27.6000
 longitude: 114.2800
 story: >
   The mountain's name means "bright moon," a reference to the crescent-shaped ridge visible from the valley below — a natural arc of rock that frames the sky like a drawn bow. On clear nights, locals say you can see the reflection of the actual moon in the reservoir at the mountain's base, doubling the effect.
+score: 8.6
 ---
 
 Mingyue Mountain National Forest Park southwest of Yichun is the city's defining natural attraction and one of the more rewarding mountain parks in Jiangxi for visitors willing to hike beyond the main tourist zones. The park covers several distinct areas connected by trails and road: the hot spring resort at Wentang at the base, Buddhist temple sites in the Yangshan area above, and the upper reaches where ridgeline trails reach peaks above 1,000 metres with views across the forested Jiangxi hills.

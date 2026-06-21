@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.1212
 longitude: -4.1271
+score: 9.4
 ---
 
 The Llanberis Path is the most popular and most forgiving route to the summit of Yr Wyddfa (Snowdon), Wales's highest mountain at 1,085 metres. It starts from the village and follows a clear, well-maintained track for 14.5 kilometres return, gaining around 970 metres of elevation. The gradient is steady rather than brutal, and anyone who is reasonably fit can complete it in five to six hours round trip.

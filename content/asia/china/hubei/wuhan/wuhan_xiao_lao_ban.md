@@ -6,6 +6,7 @@ longitude: 114.2811
 tags:
   - eating_out
   - restaurant
+score: 6.8
 ---
 
 Wuhan and the surrounding Jianghan Plain are the centre of the Chinese crayfish industry, and xiaolongxia — the freshwater crayfish dish boiled with chilli, garlic, and thirteen-spice mixes — is the city's defining summer obsession. Restaurants serve them by the kilogram, with plastic gloves provided, paired with cold beer.

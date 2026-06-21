@@ -18,6 +18,7 @@ story: >
   colonial city she had made her home.
 sources:
   - https://en.wikipedia.org/wiki/Missionaries_of_Charity
+score: 7.4
 ---
 
 The Motherhouse of the Missionaries of Charity on AJC Bose Road is where Mother Teresa lived and worked for most of her life in Kolkata, and where she is buried. The white marble tomb in the ground-floor chapel is a place of quiet pilgrimage for visitors from around the world. A small museum on the upper floor displays her belongings: her simple white-and-blue sari, her sandals, and a few personal letters.

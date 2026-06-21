@@ -13,6 +13,7 @@ story: >
   Ottoman period. The icon is three-dimensional — an extreme rarity in the Orthodox world — 
   and darkened with age. Pilgrims press coins against it and rub their faces on it; 
   the surface is worn smooth by centuries of devotion.
+score: 8.4
 ---
 
 The Monastery of the Taxiarchis (Archangel Michael) stands just outside Mandamados and is the most visited religious site on Lesbos. Its fame rests primarily on its icon of the Archangel, a singular object in the Orthodox tradition: dark-coloured, fully three-dimensional rather than flat, and surrounded by elaborate offerings left by pilgrims from across Greece and the diaspora. The monastery also keeps a large black bull on its grounds as a votive offering — a practice that continues today and tends to surprise first-time visitors.

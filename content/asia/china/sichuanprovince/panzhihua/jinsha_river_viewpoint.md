@@ -8,6 +8,7 @@ latitude: 26.5400
 longitude: 101.7100
 sources:
   - https://en.wikipedia.org/wiki/Jinsha_River
+score: 6.4
 ---
 
 The Jinsha River — the upper course of the Yangtze — flows through Panzhihua in a deep gorge that cuts through the industrial infrastructure of the city. The best viewpoints are on the hills above the south bank, where you can look down on the river's distinctive reddish-brown colour (caused by iron-rich sediment from upstream mining) winding between steep slopes covered in bamboo and subtropical forest.

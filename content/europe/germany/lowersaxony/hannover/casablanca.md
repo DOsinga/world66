@@ -9,6 +9,7 @@ latitude: 52.386978
 longitude: 9.748734
 tags:
 - nightlife
+score: 5.8
 ---
 
 A 65-square-metre institution on the Lister Meile that bills itself as the smallest disco in Germany — and probably is. Three generations of regulars cluster in different parts of the room: older crowd up front with Bodo the patron, thirties at the bar, twenty-somethings on the floor dancing to the charts. The Christmas Eve afternoon party on the pavement outside is a Hannover ritual.

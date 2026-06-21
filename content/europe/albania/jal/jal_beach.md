@@ -9,6 +9,7 @@ latitude: 40.0674
 longitude: 19.8163
 story: >
   The beach at Jalë remained effectively unknown to outsiders through the entire communist period, when Albanians themselves were forbidden to travel abroad and foreigners were rarely admitted. Only after 1991 did the first trickle of visitors begin to arrive, making it one of Europe's last undiscovered beaches well into the 2000s.
+score: 8.1
 ---
 
 The beach at Jalë is a wide crescent of white pebbles and coarse sand, set in a small bay where the limestone mountains come right down to the sea. The water is clear and warm in summer, shading from pale green at the edge to deep blue further out. You can swim, snorkel, or simply sit and watch the fishing boats.

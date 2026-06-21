@@ -10,6 +10,7 @@ story: >
   The dune's intense red colour comes from iron oxide in the sand particles — essentially, the
   desert is rusting. The sand here is finer than elsewhere in Wadi Rum because wind sorts the
   grains by size, carrying the lightest particles highest up the dune.
+score: 7.8
 ---
 
 A towering sand dune banked up against the side of Jabal Umm Ulaydiyya, about eight kilometres south of the village. The dune is the deep, saturated red that photographs of Wadi Rum are famous for, and climbing it is one of those simple pleasures that turns out to be surprisingly fun.

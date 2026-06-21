@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 56.6642
 longitude: 16.3658
+score: 7.7
 ---
 
 Kalmar's Grand Square is an unusually intact piece of Baroque urban planning, designed as part of the same 17th-century rebuilding project that produced the cathedral. The square is large, paved, and lined with period buildings including the old town hall — a white Baroque facade that anchors the southern end opposite the cathedral.

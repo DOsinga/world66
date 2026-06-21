@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Roman legionaries refused to cross the Lima on their march into Iberia, convinced it was the Lethe — the mythical river of forgetfulness that erased all memory of home. Their commander, Decimus Junius Brutus, swam to the far bank and called out the soldiers' names one by one to prove his memory was intact. Whether legend or history, the soldiers crossed.
+score: 9.2
 ---
 
 The bridge that gives Ponte de Lima its name has stood in some form since Roman times, though the surviving structure dates largely from the 14th and 15th centuries when the town held an important crossing on the route north toward Galicia. Twenty arches span the Lima river, and the medieval section joins seamlessly with a later Roman-style extension on the northern end.

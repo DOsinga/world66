@@ -8,6 +8,7 @@ tags:
 - museum
 title: Turkish Museum
 type: poi
+score: 7.1
 ---
 
 The Mevlevi Tekke is a 17th-century former Dervish monastery just inside the Kyrenia Gate, one of the most atmospheric small museums in North Nicosia. The restored building houses exhibits on Ottoman-era daily life, traditional handicrafts, and the whirling dervish order that once used this space for their ceremonies. Six tombs of Mevlevi sheikhs stand in the garden.

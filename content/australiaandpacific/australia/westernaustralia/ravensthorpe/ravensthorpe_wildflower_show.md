@@ -6,6 +6,7 @@ tags: [things_to_do, sight]
 latitude: -33.5816
 longitude: 120.0469
 story: "Around 600 wildflower species grow within a short drive of Ravensthorpe, and roughly a quarter of them are not found anywhere else on Earth. Volunteers gather them fresh from the bush each morning of the show — by the closing weekend the hall holds one of the most diverse cut-flower displays anywhere in Australia."
+score: 6.9
 ---
 
 Held each September in the town hall, the Wildflower Show has run since 1981 and is the centrepiece of the local calendar. Cut specimens are displayed with their botanical names, guided walks head out to the Ravensthorpe Range, and locals sell honey, jam, and craft on the side.

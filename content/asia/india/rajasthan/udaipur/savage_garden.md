@@ -6,6 +6,7 @@ longitude: 73.6815
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 In a 250-year-old indigo-blue haveli tucked into the lanes near Gangaur Ghat, **Savage Garden** does Continental cooking with real care — proper homemade pasta, slow-cooked chicken stews, salads with locally grown herbs. The courtyard, with a small fountain and white-washed walls hung with old miniature paintings, is one of the most atmospheric dining spots in the city.

@@ -9,6 +9,7 @@ latitude: 36.9156
 longitude: -111.4561
 story: >
   These small motels were built in the late 1950s and early 1960s to house the workers constructing Glen Canyon Dam. After construction ended, many workers left and the motels converted to general tourist use. They represent an unself-conscious piece of American mid-century roadside architecture — built for function, not tourism — that's rapidly disappearing from most of the country.
+score: 5.8
 ---
 
 A cluster of mid-century motor courts on a side street in Page represents the town's original reason for existing: housing the workers who built Glen Canyon Dam. The modest, utilitarian design of these small motels — built in the late 1950s and early 1960s — is a study in American vernacular architecture from an era when accommodation was designed for working people rather than leisure travellers.

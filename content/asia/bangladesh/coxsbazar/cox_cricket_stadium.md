@@ -10,6 +10,7 @@ story: >
   When Cox's Bazar International Cricket Stadium hosted its first Test match in 2023, it became one of the few Test grounds in the world where you can see the sea from the pavilion. Bangladesh Cricket Board built it partly to decentralise cricket from Dhaka and partly to give the country a showcase venue in a tourist destination — a rare instance of cricket infrastructure and tourism policy aligning usefully.
 title: Cox's Bazar International Cricket Stadium
 type: poi
+score: 6.2
 ---
 
 A modern international cricket ground set just inland from the beach, built to Test match standard and one of the more scenically located cricket venues in the subcontinent. Cox's Bazar hosted its first international matches here in the early 2020s, and the stadium has since become part of the Bangladesh Cricket Board's regular rotation.

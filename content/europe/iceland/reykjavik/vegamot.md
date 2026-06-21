@@ -9,6 +9,7 @@ tags:
 snippet: "Lively brasserie off Laugavegur; brunch by day, busy bar by night"
 title: Vegamót
 type: poi
+score: 5.8
 ---
 
 A long-running brasserie just off Laugavegur. Light and airy by day with a decent menu of soups, salads, and brunch; one of the busier bars in the centre on weekend nights, when the front terrace fills up and the music gets louder.

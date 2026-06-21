@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.4
 ---
 
 The Emporium is the single most photographed building on Main Street — a tall, two-storey commercial block built in 1897 with iron shutters, a deep cornice and the original signage still painted on the brick. It was built as a general store serving the mining trade and has been adapted continuously since, but the facade has never been altered.

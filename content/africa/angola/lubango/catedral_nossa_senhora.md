@@ -6,6 +6,7 @@ longitude: 13.4981
 tags:
   - things_to_do
   - sight
+score: 6.6
 ---
 
 The Cathedral of Nossa Senhora do Monte stands in the city centre as the seat of the Archdiocese of Lubango, a solid colonial-era structure that survived the civil war years in better shape than much of the surrounding city. The exterior is imposing without being ornate, in the practical Portuguese ecclesiastical style of the mid-twentieth century. Inside, the cool interior is a welcome contrast to the midday sun on the plateau.

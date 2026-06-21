@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 57.7816
 longitude: 14.1605
+score: 5.8
 ---
 
 A reliable waterfront cafe near the Match Museum, Grännäs offers the classic Swedish fika experience: strong coffee, freshly baked cinnamon rolls, and open sandwiches (smörgås) with gravlax, smoked salmon, or shrimp. The terrace has views over the lake and fills up on sunny afternoons.

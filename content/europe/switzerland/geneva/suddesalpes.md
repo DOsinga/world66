@@ -9,6 +9,7 @@ tags:
 - nightlife
 title: Sud des Alpes
 type: poi
+score: 6.7
 ---
 
 The main venue of AMR (Association pour l'encouragement de la Musique impRovisee), Sud des Alpes is Geneva's go-to spot for contemporary jazz and improvised music. The programming leans adventurous, with local and touring acts performing in an intimate room where every seat feels close to the stage. Check their calendar before you go -- the best nights sell out.

@@ -6,6 +6,7 @@ longitude: -118.4400
 tags:
   - things_to_do
   - museum
+score: 7.6
 ---
 
 The Boundary Museum, on 5th Street just south of the river, is a small but well-curated local history museum. The Doukhobor collection is the strongest part — clothing, communal kitchen equipment, photographs of the early villages — but the exhibits also cover the Indigenous Sinixt people, the smelter and mining booms, and the railway era.

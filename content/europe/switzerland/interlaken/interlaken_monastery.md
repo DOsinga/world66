@@ -17,6 +17,7 @@ tags:
 - architecture
 title: Interlaken Monastery
 type: poi
+score: 7.2
 ---
 
 The Augustinian monastery at the heart of Interlaken is easy to walk past without realising what you're looking at — the main buildings now house the Interlaken district government and look more administrative than sacred. But the medieval cloisters tucked behind the facade are the real thing: a well-preserved 12th-century arcade surrounding a quiet courtyard garden, unchanged in its basic structure since the monks walked here.

@@ -8,6 +8,7 @@ latitude: 15.7730
 longitude: -86.7810
 story: >
   La Ceiba's carnival honours Isidore the Laborer, the patron saint of agriculture — an unusual choice for a port city known for fruit exports. At its peak the festival draws roughly half a million visitors, making it one of the largest street parties in Central America.
+score: 7.9
 ---
 
 The Feria Internacional de La Ceiba is held on the third or fourth Saturday of May and is the social event of the Honduran year. The carnival parade is the centrepiece — a procession of floats, marching bands, and dancers that winds through the city in a serious display of organisation and colour. The surrounding week fills with concerts, food stalls, and parties along the Zona Viva.

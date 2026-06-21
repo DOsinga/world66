@@ -5,6 +5,7 @@ snippet: Café in the restored municipal market
 tags: [bars_and_cafes, bar]
 latitude: 35.1765
 longitude: 33.3638
+score: 5.3
 ---
 
 The Bandabuliya, Nicosia's covered municipal market dating from 1932, was restored in 2013 and now houses cafés, a few craft stalls, and occasional events. The main café in the central hall is a calm spot to drink Turkish coffee or fresh juice between sights.

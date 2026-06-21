@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - vegetarian
+score: 4.6
 ---
 
 A small vegetarian restaurant run by the local Hare Krishna community, just east of the Plaza de Armas. Set lunch for a few thousand pesos: lentil curry, salad, rice, juice, dessert. Simple food, kind service.

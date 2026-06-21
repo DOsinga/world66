@@ -6,6 +6,7 @@ longitude: 27.1500
 tags:
   - things_to_do
   - sight
+score: 8.7
 ---
 
 The Dilek Peninsula juts west from the mainland just south of Kuşadası, ending opposite the Greek island of Samos across a narrow strait. The peninsula is a protected national park: pine-clad mountains rising straight from the sea, four signed beach coves on the north coast (İçmeler, Aydınlık, Kavaklı Burun, and Karasu), and trails into the interior where wild boar and a few persistent jackals still live.

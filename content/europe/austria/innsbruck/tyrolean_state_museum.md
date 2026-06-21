@@ -8,6 +8,7 @@ latitude: 47.2673
 longitude: 11.3977
 snippet: Tyrol's main art and history museum with Gothic altarpieces and modern Austrian painting
 url: https://www.tiroler-landesmuseen.at
+score: 7.8
 ---
 
 The Ferdinandeum, named after Archduke Ferdinand Karl, is the principal art and history museum of Tyrol. The collection spans Gothic sculpture and altarpieces, Renaissance and Baroque painting, 19th-century Tyrolean art, and modern Austrian works — with particular strength in the medieval and early modern periods that defined the region's culture.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 46.4196
 longitude: 15.8698
+score: 7.2
 ---
 
 The 13th-century Dominican monastery sits at the edge of the old town and is one of the best-preserved medieval monastic complexes in Slovenia. The cloister garden is pleasantly calm, and the monastery church contains fragments of Gothic frescoes. The building now partly houses the Ptuj Town Theatre — an unusual combination that actually works rather well.

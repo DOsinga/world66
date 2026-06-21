@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Nidhe_Israel_Synagogue
 story: >
   Jewish merchants from Brazil helped introduce sugar cultivation to Barbados in the 1640s, and the congregation they founded is among the oldest in the Western Hemisphere. The synagogue was devastated by a hurricane in 1831, left derelict for decades, and eventually restored through the 1980s and 1990s — a quiet reminder that even religious history in the Caribbean runs through disasters as much as through faith.
+score: 8.1
 ---
 
 The Nidhe Israel Synagogue, tucked behind tall walls on Synagogue Lane, is one of the oldest synagogues in the Americas. A Jewish community — largely Sephardic merchants who had fled the Inquisition via the Netherlands and Brazil — was established in Barbados by the 1650s, and this site has been a place of worship ever since, though the current building dates from 1833, replacing the original destroyed by hurricane.

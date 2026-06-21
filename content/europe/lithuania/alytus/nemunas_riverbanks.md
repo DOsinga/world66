@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.388
 longitude: 24.05
+score: 8.1
 ---
 
 The Nemunas riverbanks are Alytus at its best. The river cuts a wide, forest-fringed valley through the city, and the paths along both banks offer excellent walking and cycling — flat, well-maintained, and genuinely attractive. The pine forests that line much of the bank are part of the Dzukija ecosystem that characterises this corner of southern Lithuania.

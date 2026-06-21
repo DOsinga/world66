@@ -12,6 +12,7 @@ story: >
   out of its mountain corridor into the lower valley, flanked by palm plantations
   and the duck restaurants that have made the city's culinary reputation. In the 1964
   ballet Red Detachment of Women, the army makes camp on the Wanquan's banks.
+score: 7.1
 ---
 
 The Wanquan River passes through Qionghai on its way from the central highlands to the sea at Bo'ao, and the waterfront here is the heart of the city's street life. The duck restaurants line the riverside below palm trees; boats move slowly upstream with their catches; in the morning, locals exercise on the paths along the bank. It is a pleasant riverfront in a way that requires no particular tourist infrastructure — just the river, the food, and the ordinary life of a Hainanese town.

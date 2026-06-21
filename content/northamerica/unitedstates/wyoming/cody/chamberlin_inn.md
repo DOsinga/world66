@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.5267
 longitude: -109.0637
+score: 7.0
 ---
 
 Ernest Hemingway stayed at the Chamberlin Inn repeatedly in the early 1930s and finished the manuscript of Death in the Afternoon here. He wrote in Room 9, which is still bookable and has been preserved with period furnishings appropriate to the era. The inn itself has maintained its 1930s character throughout — the courtyard, the low-key common areas, and the general atmosphere of a small western town hotel that serves actual travellers rather than just performing history.

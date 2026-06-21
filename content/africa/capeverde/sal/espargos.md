@@ -6,6 +6,7 @@ longitude: -22.9447
 tags:
   - things_to_do
   - neighbourhood
+score: 6.2
 ---
 
 Espargos is Sal's actual capital — the largest town on the island and the main residential centre, sitting in the middle of the island near the airport. It's a working town rather than a resort, which makes it a more authentic alternative to Santa Maria for visitors who want to see how Sal actually lives.

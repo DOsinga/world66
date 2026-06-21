@@ -9,6 +9,7 @@ latitude: 11.7624
 longitude: 99.7479
 story: >
   Ao Manao lies entirely inside the perimeter of Wing 5 Royal Thai Air Force base. Visitors must register at the checkpoint gate with a passport or ID card, then drive across the active runway to reach the beach. The juxtaposition of jets and swimmers is quintessentially Thai.
+score: 8.1
 ---
 
 Three kilometres south of town, inside the Wing 5 Royal Thai Air Force base, Ao Manao (Lemon Bay) is one of the most beautiful beaches on the Gulf of Thailand's Sunrise Coast. The bay sweeps in a wide crescent of clean sand, sheltered on both sides by dramatic limestone karst peaks that rise straight from the sea. The water is calm, clear, and shallow enough for safe swimming.

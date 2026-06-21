@@ -9,6 +9,7 @@ longitude: -106.4453
 story: >
   Mount Elbert is the highest point in Colorado and the second highest peak in the contiguous United States after Mount Whitney. Despite this, it is not a particularly technical climb: the standard south ridge route is a strenuous but non-technical hike that fit people in good conditions can complete in five to eight hours. It is the most climbed fourteener in Colorado, which says something about how accessible the summit is — and about how many people come to Leadville area determined to stand on a very high point.
 sources: []
+score: 9.2
 ---
 
 Mount Elbert, at 14,439 feet, is the highest peak in Colorado and the second highest in the lower 48 states. The trailhead is about 13 miles south of Leadville, and the standard route via the south ridge is a long but non-technical hike — no ropes or special equipment required, just fitness, acclimatisation, and good weather judgment. Most hikers take five to eight hours for the round trip.

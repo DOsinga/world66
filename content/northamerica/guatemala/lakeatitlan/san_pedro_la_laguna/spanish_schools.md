@@ -10,6 +10,7 @@ longitude: -91.271
 snippet: Some of the cheapest one-on-one Spanish tuition in Central America
 story: >
   San Pedro's reputation as a Spanish-school town dates to the 1980s backpacker trail, when several local families opened informal language programs in their homes. The model — one teacher, one student, four hours a day, homestay included — became the template copied across Guatemala and eventually across Latin America.
+score: 7.5
 ---
 
 San Pedro La Laguna has a concentration of Spanish schools that makes it one of the cheapest places in Guatemala, and therefore Central America, to study Spanish intensively. The standard arrangement is four or five hours of one-on-one instruction per day, typically combined with a homestay with a local family. Prices undercut Antigua significantly.

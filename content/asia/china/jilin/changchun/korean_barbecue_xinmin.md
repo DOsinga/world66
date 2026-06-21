@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.8700
 longitude: 125.3500
+score: 7.5
 ---
 
 The cluster of Korean barbecue restaurants along the main commercial street in Xinmin District constitutes one of the best concentrations of Korean-influenced food in Jilin Province. This is not the adapted Korean-Chinese cuisine of Han-run restaurants — these are restaurants run by and for the Korean-Chinese (Joseonjok) community, and the food reflects the actual cooking traditions of that community rather than a tourist version of it.

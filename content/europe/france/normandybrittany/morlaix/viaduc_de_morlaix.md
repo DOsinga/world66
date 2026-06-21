@@ -9,6 +9,7 @@ latitude: 48.5783
 longitude: -3.8267
 story: >
   The viaduct was built between 1861 and 1864 to carry the Paris–Brest railway line over the steep valley. It stands 58 metres high and 292 metres long on two levels of arches — the upper arches carry the train, and the lower tier was originally designed so that road traffic could pass beneath. When it was completed it was considered one of the engineering marvels of western France.
+score: 8.0
 ---
 
 The Viaduc de Morlaix is the defining structure of the town — a double-decker railway viaduct that strides across the valley on two tiers of granite arches, its highest point sitting 58 metres above the river. You see it the moment you arrive, from the train (you're on it), from the town below (looking up), or from the surrounding hills (looking across). It gives Morlaix a grandeur that the town's modest size doesn't otherwise suggest.

@@ -13,6 +13,7 @@ story: >
   and adopt the short tunics and riding trousers of the steppe nomads, a military
   reform so radical that it was called "adopting barbarian dress," and it made
   the Zhao army one of the most effective cavalry forces of the period.
+score: 6.3
 ---
 
 Congtai Park in central Handan sits on the remnants of the old Zhao royal compound, a raised platform that dates to the Warring States period. The terrace itself — rebuilt and rebuilt again over the centuries — is the main focal point, a multi-storey pavilion set above a formal garden that gives a clear view across the city. It is neither a ruin nor a reconstruction but something in between: a living monument that has been maintained as a public park since the Qing dynasty.

@@ -15,6 +15,7 @@ story: >
   of restored civil authority.
 sources:
   - https://en.wikipedia.org/wiki/Main_Guard_(Clonmel)
+score: 8.1
 ---
 
 The Main Guard on O'Connell Street is one of the most significant seventeenth-century public buildings in Ireland. Built around 1675 to serve as a courthouse and administrative centre for the town, it is a rare survivor from that period — most buildings of comparable age in Munster were either demolished or substantially altered in later centuries.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Until the 1923 population exchange between Greece and Turkey, Şirince was a Greek-speaking Christian village called Kirkintzes. The entire community was forced to leave; their houses were settled by Muslim Greeks expelled from northern Greece. The stone houses still bear Greek inscriptions and architectural details, and the two old churches were converted into mosques and granaries."
+score: 7.4
 ---
 
 Şirince is a hill village eight kilometres east of Selçuk, perched on a steep slope of stone houses, narrow lanes, and old Greek churches. The village was largely abandoned after the 1923 population exchange, fell into ruin for half a century, and was rediscovered in the 1980s as a tourist destination when its restored houses started opening as pansiyons and the local wine industry took hold.

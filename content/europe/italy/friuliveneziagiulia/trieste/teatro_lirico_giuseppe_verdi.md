@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Teatro Lirico Giuseppe Verdi
 type: poi
+score: 7.5
 ---
 
 Trieste's opera house was built between 1798 and 1801 to a design by Giannantonio Selva — the same architect who designed La Fenice in Venice — and remains the city's main venue for opera, ballet, and orchestral music. Verdi's name was attached to it in the 1990s, though the composer himself never performed here. The building fronts directly onto Piazza Verdi, a few minutes from the waterfront.

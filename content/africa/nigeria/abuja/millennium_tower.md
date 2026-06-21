@@ -8,6 +8,7 @@ tags:
 latitude: 9.0558
 longitude: 7.4928
 snippet: Abuja's unfinished prestige tower project, an architectural curiosity in the Central District
+score: 5.2
 ---
 
 The Millennium Tower is one of Abuja's more instructive sights — not for what it is, but for what it represents. An ambitious 172-metre tower and cultural centre project begun in the late 2000s, it has been under construction for years with an uncertain completion date. The tower's distinctive form — a cylindrical shaft with viewing galleries planned for the upper levels — is visible from much of the Central District, and has become a familiar part of the skyline even in its incomplete state.

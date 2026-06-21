@@ -12,6 +12,7 @@ tags:
 title: Elephant Walk
 type: poi
 url: www.elephantwalk.com
+score: 6.8
 ---
 
 A well-regarded French-Cambodian restaurant on Beacon Street in the Fenway area. The kitchen blends the two cuisines confidently — expect dishes like loc lac (Cambodian stir-fried beef) alongside French classics like bouillabaisse, all sharing the same menu. The amok (fish curry steamed in banana leaf) is a standout. Repeatedly named to Boston's top dining lists. Additional locations in Cambridge and Waltham.

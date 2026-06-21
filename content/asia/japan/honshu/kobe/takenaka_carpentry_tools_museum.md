@@ -13,6 +13,7 @@ story: >
   the original techniques, and the craftsmen who made those replicas became part of
   the permanent collection — their work tools displayed alongside the ancient ones
   they were copying.
+score: 8.4
 ---
 
 The Takenaka Carpentry Tools Museum is a specialist institution dedicated to the tools used in traditional Japanese architecture and woodworking. The collection is extraordinary for its depth: hand planes, chisels, saws, and measuring instruments spanning from prehistoric Japan to the present, with particular emphasis on the tools used to construct Japan's famous temples, shrines, and castles.

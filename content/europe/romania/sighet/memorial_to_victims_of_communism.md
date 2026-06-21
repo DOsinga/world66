@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - museum
 - sight
+score: 9.4
 ---
 
 The Memorial of the Victims of Communism in Sighet is one of the most affecting museums in Eastern Europe and the heart of any visit to the town. It is housed in the former Sighet political prison, which between 1948 and 1955 held the men the new Romanian Communist regime considered most dangerous: bishops, judges, generals, former prime ministers, academics, journalists. More than fifty died of beatings, cold, and neglect in their cells; their bodies were dumped in unmarked graves. The prison was abandoned in the 1980s and reopened in 1993 as a memorial museum, founded by the poet and dissident Ana Blandiana.

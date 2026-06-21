@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 39.4720
 longitude: 75.9840
+score: 7.9
 ---
 
 The stalls and small restaurants clustered around Id Kah square and in the bazaar lanes immediately behind the mosque form the most concentrated street food scene in Kashgar. The offerings are classic Uyghur: lamb shish kebabs (kawap) grilled over charcoal, lagman — hand-pulled noodles served in a thick broth with vegetables and mutton — and samsa, flaky pastry triangles stuffed with spiced meat and onion, baked in a clay oven. Portions are large, prices are low, and the food is cooked in front of you.

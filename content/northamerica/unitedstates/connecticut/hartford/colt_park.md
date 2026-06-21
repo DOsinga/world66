@@ -7,6 +7,7 @@ tags:
 latitude: 41.7520
 longitude: -72.6706
 address: "106 Wethersfield Avenue, Hartford, CT"
+score: 5.7
 ---
 
 Colt Park is a 106-acre public park in the South End of Hartford, created from the former Armsmear estate of Samuel and Elizabeth Colt. The estate was bequeathed to the city in 1905 by Elizabeth Colt after her husband's death. The park contains mature trees, open meadows, sports fields, a pool, and the gothic church that Elizabeth Colt built as a memorial to her husband and sons — the Church of the Good Shepherd, visible from the park grounds.

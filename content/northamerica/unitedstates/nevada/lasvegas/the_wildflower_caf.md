@@ -8,6 +8,7 @@ tags:
 - cafe
 title: The Wildflower Cafe & Florist
 type: poi
+score: 4.8
 ---
 
 Full-service restaurant tucked into the south end of Meadows Mall, well west of the Strip. Breakfast, lunch, and dinner menus run to standard American fare — omelettes, sandwiches, salads, steak — at prices a fraction of what you would pay on Las Vegas Boulevard. The space doubles as a florist, which gives the dining room an oddly homey feel for a mall restaurant.

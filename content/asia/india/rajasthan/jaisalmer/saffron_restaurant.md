@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Saffron Restaurant
 type: poi
+score: 5.4
 ---
 
 Saffron, on the rooftop of the Hotel Nachana Haveli near the fort's Hawa Pol gate, is one of the more reliable of Jaisalmer's rooftop restaurants. The fort wall is close enough that you feel you could reach out and touch it, and in the evening when the stone is lit up, the setting is genuinely impressive. The menu covers Rajasthani staples — dal baati churma (lentils, wheat-flour balls, and clarified butter), gatte ki sabji, ker sangri (a local desert bean and berry pickle-stir-fry) — as well as the usual traveller dishes and pizzas.

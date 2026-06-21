@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 47.9015
 longitude: 1.9110
+score: 7.8
 ---
 
 The Rue de Bourgogne is Orléans's main east-west artery and has been so since Roman times, when it was the decumanus — the road crossing the city from one side to the other. Today it is lined with half-timbered houses, Renaissance townhouses, restaurants, bars, and independent shops, and the streets north and south of it preserve much of the old fabric of the city.

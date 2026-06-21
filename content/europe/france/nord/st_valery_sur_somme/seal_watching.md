@@ -10,6 +10,7 @@ tags:
 snippet: "Largest harbour seal colony in France, hauled out on sandbanks at low tide"
 story: >
   The colony was almost wiped out by hunting in the nineteenth century, with the last bounties paid on seals in the Somme as late as 1962. Numbers have recovered slowly under protection; today the bay holds the biggest harbour seal population in France, with several hundred animals plus a smaller group of grey seals.
+score: 8.9
 ---
 
 The Baie de Somme is home to the largest colony of harbour seals in France, and watching them haul out on the sandbanks at low tide is one of the best things to do on a visit. The seals concentrate near the Pointe du Hourdel, a few kilometres west of St-Valéry on the open Channel side of the bay; at low water several hundred animals can be seen at once, basking on the exposed sand.

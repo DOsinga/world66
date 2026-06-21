@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 6.5
 ---
 
 Mulinetti is the small beach in the cove just south of Recco's centre, the best of the local swimming spots and a pleasant five-minute walk from the railway station. The beach is partly free, partly run as a paid bagno with sun-loungers and umbrellas; the water is generally clear and the bay protected enough that the sea is calm even on windy days.

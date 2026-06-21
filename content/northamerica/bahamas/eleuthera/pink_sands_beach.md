@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 story: "The pink colour comes from foraminifera — microscopic single-celled marine organisms with reddish-pink shells that get crushed and mixed into the white coral sand. The shade is strongest at sunrise and sunset, when the low light brings out the rose tint."
+score: 9.4
 ---
 
 Pink Sands Beach runs three miles along the Atlantic side of Harbour Island, off the northern tip of Eleuthera. The sand really is pink — not a marketing exaggeration — and the shallow water shades from pale aquamarine to deep blue over a long offshore reef that keeps the swells gentle.

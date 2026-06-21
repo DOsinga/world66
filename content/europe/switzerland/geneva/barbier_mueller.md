@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
   - art
+score: 7.5
 ---
 
 The Musée Barbier-Mueller occupies three floors of a 16th-century house on rue Calvin, a short walk from the cathedral. The museum holds one of the world's finest private collections of ancient and tribal art: pre-Columbian ceramics and goldwork, African masks and sculpture, Pacific Oceanic objects, and art from Southeast Asia and the ancient Mediterranean. The collection was assembled over three generations by the Barbier-Mueller family, who opened it to the public in 1977.

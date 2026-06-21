@@ -8,6 +8,7 @@ latitude: 5.9461
 longitude: 80.5513
 story: >
   Parevi Duwa means "pigeon island" in Sinhala — the island was named for the rock pigeons that once roosted there before the temple was built. The island has been a place of Buddhist worship since at least the 18th century. A footbridge now links it to the mainland, but the crossing was once made by ferry, and in the monsoon season — when the channel runs fast — access could be difficult for days at a time.
+score: 7.5
 ---
 
 Parevi Duwa is a small island temple just offshore from the Matara Fort, connected to the mainland by a footbridge. The temple occupies the whole island — white-washed Buddhist shrines, a small stupa, and a bodhi tree packed into a tiny space surrounded by the sea. The setting is striking: you walk out from the noise of the fort area onto this compact, serene island, where the sound of the ocean takes over.

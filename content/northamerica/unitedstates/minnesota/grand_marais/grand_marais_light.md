@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: A 1922 steel pyramidal lighthouse at the end of the harbour breakwater.
+score: 7.6
 ---
 
 The Grand Marais Light stands at the seaward end of the long concrete breakwater that protects the inner harbour. The current structure is a skeletal steel pyramid built in 1922, painted white, with a small red lantern at the top — modest in design but striking in its setting, fully exposed to Lake Superior at the end of an unsheltered walk.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Animated automata museum bringing nineteenth-century mechanical figures back to life
+score: 6.8
 ---
 
 Les Automates Avenue is an unusual museum dedicated to mechanical automata — clockwork figures of the kind that animated Parisian shop windows and fairground stalls in the late nineteenth and early twentieth centuries. The collection spans dancing figures, mechanical animals, street scenes, and theatrical dioramas, all restored to working order.

@@ -15,6 +15,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Dunster_Working_Watermill
   - https://www.nationaltrust.org.uk/visit/somerset/dunster-castle-and-watermill
+score: 7.4
 ---
 
 Dunster Water Mill is a working restoration — on milling days you can watch the double waterwheels drive the machinery and buy stone-ground wholemeal flour produced on site. The mill sits close to the old Gallox packhorse bridge on the River Avill, in the lowest part of the village, and is managed by the National Trust alongside the castle.

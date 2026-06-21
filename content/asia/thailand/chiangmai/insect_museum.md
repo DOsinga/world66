@@ -6,6 +6,7 @@ tags:
 - museum
 title: World Museum of Insects and Natural Wonders
 type: poi
+score: 7.4
 ---
 
 The World Museum of Insects and Natural Wonders is one of Chiang Mai's most genuinely eccentric attractions — a vast private collection assembled over decades by entomologist Manop Rattanarithikul. Housed in a nondescript building north of the city centre, the museum displays thousands of insects, beetles, butterflies, and specimens from around the world in cases that crowd every wall and surface.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.1717
 longitude: 136.8841
+score: 6.8
 ---
 
 Midland Square is the 247-metre Toyota-Mainichi tower across the street from Nagoya Station's central exit, briefly the tallest building in the city when it opened in 2007 (eventually displaced by JR Central Towers next door). The upper floors hold luxury offices and the Sky Promenade — an open-air observation deck on floors 44 to 46 with one of the cleanest 360-degree views of central Nagoya and, on clear days, Mount Ontake to the northeast.

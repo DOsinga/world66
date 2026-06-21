@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.5409
 longitude: -5.6727
+score: 7.5
 ---
 
 The Museo del Ferrocarril de Asturias is one of the best railway museums in Spain, housed in the former Jovellanos station with a large outdoor display of preserved locomotives and rolling stock. Asturias had an extensive narrow-gauge rail network serving the coal mines and ironworks that drove the region's industrial revolution; the museum charts that history with well-preserved examples of the engineering that moved coal from pit to port across difficult mountain terrain. The steam locomotives on display include some that worked into the 1970s on the narrow-gauge lines that still thread through the Asturian valleys.

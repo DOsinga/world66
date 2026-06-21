@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - architecture
 - sight
+score: 7.3
 ---
 
 The Hotel Saranac is the six-storey brick building anchoring Main Street, opened in 1927 as one of the largest hotels in the Adirondacks. The lobby was designed as a faithful reproduction of the foyer of the Davanzati Palace in Florence — an elaborate coffered ceiling, vaulted plaster, and a stone fireplace that feels properly out of place in a small Adirondack town.

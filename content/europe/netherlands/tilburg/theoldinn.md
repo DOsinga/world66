@@ -12,6 +12,7 @@ tags:
 title: The Old Inn
 type: poi
 zipcode: 5014DD
+score: 4.9
 ---
 
 An English-style pub on the Enschotsestraat, a bit away from the main bar strips. Good for a quieter pint if the Heuvel crowd isn't your thing.

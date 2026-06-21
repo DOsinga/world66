@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: Pokhara's main tourist strip along the eastern shore of Phewa Lake
+score: 8.2
 ---
 
 The long strip of guesthouses, restaurants, trekking shops and bars that runs for almost two kilometres along the eastern shore of Phewa Lake. Officially **Baidam**, universally called Lakeside, this is where almost every traveller in Pokhara ends up sleeping, eating and drinking. Pavements, bicycle rentals, second-hand bookshops, paragliding offices and souvenir stalls are all in concentrated supply.

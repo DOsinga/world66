@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.7100
 longitude: 117.0200
+score: 6.2
 ---
 
 The Xiaoqing River, which carries overflow from Jinan's springs north to the sea, has been developed into a greenway park in the northern part of the city. The river-side path is popular with cyclists, joggers, and families; along its length are fishing platforms, wetland viewing areas, and stretches of native riparian vegetation that provide habitat for waterbirds.

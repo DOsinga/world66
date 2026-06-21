@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Eating near Interlaken Ost
 type: poi
+score: 5.4
 ---
 
 The streets around Interlaken Ost station have developed their own informal food strip catering to the adventure tourism crowd — a mix of pizza places, Asian restaurants, falafel counters, and budget Swiss options that stay open late and don't require booking. The contrast with the Belle Époque formality of the Hoheweg hotels is complete. This is where the backpackers, the post-bungee jump groups, and the Jungfraujoch day-trippers end up eating.

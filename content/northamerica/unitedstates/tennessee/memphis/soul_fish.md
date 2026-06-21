@@ -9,6 +9,7 @@ tags:
   - midtown
   - restaurant
   - southern
+score: 6.6
 ---
 
 Soul Fish Cafe in the Cooper-Young neighborhood is where Memphis residents go for catfish — the other great staple of Memphis eating alongside barbecue. The fried catfish is the thing to order: crisp, well-seasoned, served with hush puppies and coleslaw in the classic Southern configuration. The fish is fresh, the batter is not too thick, and the frying is done at the right temperature so that the fish stays moist inside. It is not complicated, but it is done correctly, which is harder than it sounds.

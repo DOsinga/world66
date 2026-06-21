@@ -12,6 +12,7 @@ story: >
   people turned to outdoor exercise. On peak mornings they become almost comically crowded
   with people doing repeats — lawyers and trainers and retirees, all grinding up the same
   wooden steps in the hillside fog.
+score: 6.1
 ---
 
 The Santa Monica Stairs are a set of public staircases built into a steep hill in the Pacific Palisades neighbourhood, at the northern edge of Santa Monica. There are two parallel sets — one wooden, one concrete — running up a residential street and used relentlessly by locals as an outdoor workout. People come here to do repeats: up and down, up and down, sometimes for an hour.

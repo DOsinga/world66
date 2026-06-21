@@ -8,6 +8,7 @@ tags:
 - sight
 title: Filberg Heritage Lodge and Park
 type: poi
+score: 7.0
 ---
 
 Nine acres of waterfront garden in the town of Comox, centred on a 1929 arts-and-crafts log lodge built by the lumber executive Robert Filberg. The house is open daily in summer and during the Filberg Festival, when 140 juried artists from across western Canada take over the grounds with stalls, demonstrations, and live music — easily the most concentrated craft event on the island.

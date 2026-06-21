@@ -8,6 +8,7 @@ latitude: -27.0560
 longitude: -55.7531
 story: >
   The Jesuit missions of the 17th and 18th centuries were an ambitious experiment in theocratic communism: self-governing indigenous communities under Jesuit direction, producing food, crafts, and music at a level that astonished European visitors. At their peak the missions housed over 100,000 Guaraní. They were destroyed within years of the Jesuits' expulsion from the Spanish Empire in 1767.
+score: 9.2
 ---
 
 The ruins of the Jesuit missions of the Guaraní lie within day-trip distance of Encarnación and are among the most impressive archaeological sites in South America. The nearest are Trinidad (28 km) and Jesús de Tavarangue (36 km), both UNESCO World Heritage Sites.

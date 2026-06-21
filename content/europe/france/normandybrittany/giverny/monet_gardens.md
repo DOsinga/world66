@@ -10,6 +10,7 @@ latitude: 49.0750
 longitude: 1.5356
 story: >
   Monet spent more time on his gardens than on his painting in later life. He wrote to a friend: "My garden is my most beautiful masterpiece." When he began losing his sight to cataracts in his late sixties, he kept painting — the late water lily series, executed when he could barely see, were described by one critic as the Sistine Chapel of Impressionism. He completed the large panels for the Orangerie in Paris the year he died, 1926.
+score: 9.8
 ---
 
 The reason to come to Giverny. Claude Monet's house and gardens are maintained by the Fondation Claude Monet exactly as he left them — the pink and green house, the blue kitchen, the yellow dining room, the walls covered with Japanese woodblock prints. But the house is really a prelude to what lies outside.

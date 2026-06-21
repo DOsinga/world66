@@ -9,6 +9,7 @@ tags:
 - square
 title: Taman Fatahillah
 type: poi
+score: 7.7
 ---
 
 The cobblestoned central square of Kota Tua (Old Town), once the administrative heart of Dutch Batavia. The former City Hall, now the Jakarta History Museum, dominates the south side; the Wayang Museum and Fine Arts Museum flank the other edges. Street performers and vendors fill the square on weekends, and you can rent colorful bikes to ride around the area.

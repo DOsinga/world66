@@ -8,6 +8,7 @@ tags:
 title: Café-Restaurant Clock
 type: poi
 snippet: "Lively community café inside the medina with decent food and free wifi"
+score: 6.3
 ---
 
 Café Clock is the best-known international-friendly eating place inside the medina itself, famous partly for its camel burger (an old novelty, now a bit of a landmark) and partly for being a genuine community hub — it runs cultural programmes, calligraphy classes, music sessions, and serves as a meeting point for both expats and younger Moroccan residents. The food is a mix of Moroccan standards and international comfort food.

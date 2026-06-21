@@ -15,6 +15,7 @@ story: >
   city to the waterfront. When the foundations were being dug, workers uncovered
   a stretch of the medieval city wall — it is now visible through a glass floor
   panel inside the building.
+score: 8.4
 ---
 
 The Centro Botín is the most talked-about building in Santander. Opened in 2017, this contemporary arts centre was designed by Renzo Piano and sits at the edge of the Jardines de Pereda on stilts above the bay — a gleaming, asymmetric structure clad in thousands of hand-glazed ceramic discs that shimmer in the Atlantic light. It was funded by the Botín Foundation, the cultural arm of the family that owns Banco Santander, and from the moment it opened it redefined the city's cultural identity.

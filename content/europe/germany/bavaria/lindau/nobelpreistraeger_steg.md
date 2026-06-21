@@ -6,6 +6,7 @@ latitude: 47.5480
 longitude: 9.6870
 story: >
   The footbridge records the names of Nobel laureates who have attended the Lindau Nobel Laureate Meetings, cast in metal silhouettes along the railing. Since 1951, the meetings have brought Nobel Prize winners together with young scientists each summer — an informal gathering that has become one of the most unusual intellectual events in the world. Walking the bridge is a peculiar experience: you are stepping over the names of the people who discovered the structure of DNA, split the atom, and mapped the human genome.
+score: 5.2
 ---
 
 The Nobelpreisträger-Steg — the Nobel Laureates' Bridge — is a footbridge along the lakefront whose railings are inscribed with the names of Nobel Prize winners who have attended the annual Lindau meetings. It connects the old town promenade to the Reichsplatz area and is an easy walk from the harbour.

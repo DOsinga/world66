@@ -10,6 +10,7 @@ tags:
 - beaches
 title: Avalon Beach
 type: poi
+score: 6.3
 ---
 
 Avalon is one of Sydney's northern beaches, sitting between Bilgola and Whale Beach about 40 kilometres north of the CBD. It draws a more local crowd than Bondi or Manly, with a wide stretch of golden sand backed by Norfolk pines and a small village with cafes and shops along Old Barrenjoey Road.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 23.6097
 longitude: 58.5328
+score: 6.6
 ---
 
 Shatti al-Qurum — "Qurum Beach" in Arabic — is a neighbourhood and beachfront area west of central Muscat, built around a long sandy beach that stretches for several kilometres along the Gulf of Oman. The beach is one of the better urban beaches in the Gulf: wide, clean, and accessible without a hotel. A walkway runs behind the beach through a park, and the neighbourhood behind it has a concentration of restaurants, cafes, and the kind of low-rise shopping strips that serve the expatriate and upper-middle-class Omani population that has settled in this part of the city.

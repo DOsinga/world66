@@ -7,6 +7,7 @@ tags:
 latitude: 35.1700
 longitude: 136.9080
 neighbourhood: Sakae
+score: 6.5
 ---
 
 The reference izakaya for Nagoya-style tebasaki — small chicken wings deep-fried unbattered, then brushed twice with a sweet-soy glaze and showered with white pepper and sesame seeds. The dish was invented at the original Yamachan stand in the 1960s by founder Shojiro Yamamoto, who was looking for something to do with the cheap wing offcuts no one else was buying. Today the chain has over 70 branches across Japan and another dozen overseas.

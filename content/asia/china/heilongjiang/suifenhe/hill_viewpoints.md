@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 44.3945
 longitude: 131.1563
+score: 6.3
 ---
 
 Suifenhe is built into a gap in hilly terrain near the border, and the higher ground above the town offers views over the surrounding forested hills and, on clear days, across the border into Russia. There is no formal viewpoint infrastructure — these are walkable slopes above the town rather than designated scenic spots — but the effort of 20 to 30 minutes of uphill walking is repaid by a perspective that the flat commercial streets of the town centre entirely miss.

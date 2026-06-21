@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 5.1960
 longitude: -3.7360
+score: 6.4
 ---
 
 The artisan market at Grand-Bassam has grown up organically over the past two decades in the abandoned buildings of the historic quarter. Artisans from across Côte d'Ivoire and neighbouring countries have set up workshops and stalls in the old colonial houses, drawn by the steady flow of weekend visitors from Abidjan.

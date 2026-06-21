@@ -8,6 +8,7 @@ latitude: 38.6928
 longitude: -75.0747
 sources:
   - https://en.wikipedia.org/wiki/Dewey_Beach,_Delaware
+score: 6.7
 ---
 
 Dewey Beach lies immediately south of Rehoboth Beach, separated by just a few blocks but with a noticeably different atmosphere. Where Rehoboth is family-friendly and increasingly upmarket, Dewey has maintained its reputation as the party beach of the Delaware shore — a strip of bars, beach music, and late nights that draws a younger, louder crowd from Memorial Day through Labor Day.

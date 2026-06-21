@@ -7,6 +7,7 @@ tags:
   - surfing
 latitude: 11.4800
 longitude: -86.1150
+score: 7.2
 ---
 
 Playa Sardinas lies north of the main Popoyo break, a quieter stretch of coast with a mix of reef and sand that produces a more predictable wave than the main reef. The break works best on a low incoming tide and holds up to double overhead, with a right-hander that peels off cleanly on most south swells.

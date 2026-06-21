@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.9
 ---
 
 Governor's Harbour is the largest settlement on Eleuthera proper and sits at the island's narrow waist. The town is built around a deep natural harbour — long the safest anchorage on the island — and a high ridge gives wide views east and west. The painted timber Anglican church on the hill, the small library on the waterfront, and the colonial-era custom house preserve the town's 18th- and 19th-century texture.

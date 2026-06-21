@@ -8,6 +8,7 @@ latitude: 30.2722
 longitude: 109.4883
 story: >
   Enshi Yulu is processed by steaming rather than pan-frying — a technique borrowed from Japanese green tea production in the early twentieth century, when a Japanese tea master introduced the method to Hubei growers. The result is a tea with a distinctively grassy, sweet flavour profile closer to Japanese sencha than to most Chinese greens, and a needle-shaped dry leaf that is unusual among mainland Chinese teas. Outside Hubei, it remains little known.
+score: 6.8
 ---
 
 Enshi Yulu is the regional specialty tea of western Hubei: a steamed green tea grown at altitude in the Wuling Mountains and processed by a technique that sets it apart from the pan-fried green teas that dominate most of China. The name means "jade dew" — a reference to the silvery-green sheen of the finished leaf — and the flavour is clean, sweet, and slightly oceanic in the Japanese green tea way. It is one of the better and less celebrated teas in China.

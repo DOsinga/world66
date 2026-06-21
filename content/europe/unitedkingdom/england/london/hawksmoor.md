@@ -6,6 +6,7 @@ tags:
 - books
 title: Hawksmoor
 type: poi
+score: 6.3
 ---
 
 Ackroyd's 1985 novel interweaves eighteenth-century London with the present, connecting the strange geometric churches of Nicholas Hawksmoor (Spitalfields, Limehouse, Bloomsbury) with a series of murders. Dense, atmospheric, and genuinely unsettling -- it will make you look at those churches very differently.

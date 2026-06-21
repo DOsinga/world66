@@ -6,6 +6,7 @@ longitude: 125.5786
 tags:
   - things_to_do
   - architecture
+score: 6.4
 ---
 
 The Parlamento Nacional sits next to the Government Palace on the seafront, in a building that began life as the Indonesian governor's headquarters during the occupation. After independence in 2002 the building was reassigned to the new sixty-five-seat unicameral parliament and the entrance was reoriented to face the bay.

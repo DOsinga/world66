@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.7962
 longitude: -96.7169
+score: 6.0
 ---
 
 Lincoln's Children's Zoo in Antelope Park is a compact, well-maintained zoo that has been considerably upgraded in recent years. Despite the name it is not limited to children — the animal collection includes red pandas, snow leopards, Amur tigers, and an impressive variety of reptiles and birds, all in habitats that are more naturalistic than most zoos of this size. A treehouse structure allows visitors to see some animals at eye level or from above.

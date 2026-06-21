@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.9
 ---
 
 A 1937 cinema on Harnet Avenue, more modest in scale than the Impero but with one of the most elegant Art Deco facades in town: a curving canopy, vertical fins, and a smaller original neon sign over the entrance. The interior auditorium is largely intact, with terrazzo lobby floors and a deep balcony.

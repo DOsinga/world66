@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.2065
 longitude: 27.9160
+score: 6.2
 ---
 
 A mehana in the traditional Bulgarian sense: a tavern serving the full range of Bulgarian mezze alongside grilled meats and substantial main courses, in a setting that leans into the folk-revival aesthetic of old wood, hand-embroidered textiles, and rakiya served in earthenware jugs. Staria Chinar — "the old plane tree" — is the sort of place that does shopska salad, kavarma, and kyufte properly, without apology or reinvention.

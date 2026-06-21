@@ -5,6 +5,7 @@ latitude: 54.3598
 longitude: -2.9283
 snippet: "Country house hotel restaurant south of Bowness, in a building Beatrix Potter bought for her mother in 1912."
 tags: [eating_out, restaurant]
+score: 5.9
 ---
 
 Lindeth Howe sits on a wooded hillside on the southern edge of Bowness, reached by a short drive or a pleasant walk up from the lake. The building was bought by Beatrix Potter in 1912 as a home for her mother, and she visited regularly until her mother's death in 1932. It is now a hotel, and the restaurant is open to non-residents for dinner — worth booking ahead as the dining room is not large.

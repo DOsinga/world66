@@ -7,6 +7,7 @@ tags:
 title: Barley Hall
 type: poi
 snippet: "A medieval townhouse discovered behind Victorian plasterwork in 1984, restored to its 1483 appearance"
+score: 8.5
 ---
 
 Barley Hall is reached through Coffee Yard, a narrow alleyway off Stonegate that most people walk past without noticing. The hall was discovered in 1984 when a restoration project began stripping Victorian plasterwork from what appeared to be a standard commercial building, and found a largely intact 14th-century timber-framed hall behind it. Subsequent research identified it as the house of William Snawsell, an alderman and goldsmith of York, and it has been restored and presented as it would have appeared in 1483 — the year Richard III became king, when Snawsell was at his most prominent.

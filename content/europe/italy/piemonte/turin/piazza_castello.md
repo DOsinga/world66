@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 45.0712
 longitude: 7.6860
+score: 8.1
 ---
 
 Turin's civic heart. Palazzo Madama anchors the middle of the square; the Royal Palace and the cathedral open off the north side; the Teatro Regio sits in the corner; and the long arcades of Via Po, Via Roma and Via Garibaldi all meet here. Most of the major sights are within five minutes of this single point.

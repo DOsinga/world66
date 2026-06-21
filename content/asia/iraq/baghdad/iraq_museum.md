@@ -13,6 +13,7 @@ story: >
   one of the oldest known narrative art objects in the world. The Warka Vase
   was recovered three weeks later, wrapped in a blanket, deposited anonymously
   outside the museum gates.
+score: 9.5
 ---
 
 The Iraq Museum is one of the great collections of ancient world history, containing artefacts spanning seven thousand years of Mesopotamian civilisation — Sumerian, Akkadian, Babylonian, Assyrian, and Islamic. The Nimrud gold, the Assyrian lion hunt reliefs, the Akkadian victory stele, and the extraordinary collection of cuneiform tablets are among the most significant pieces in world archaeology. Many of the objects came from the ancient sites of Ur, Nineveh, Babylon and Nimrud.

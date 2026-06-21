@@ -11,6 +11,7 @@ story: >
   were transferred here in 1921 from various locations where they had been moved
   over the centuries. The simple tomb slab in the floor, set under the soaring
   lantern tower, is more moving for its understatement.
+score: 9.8
 ---
 
 The Cathedral of Santa Maria is one of the great Gothic buildings in the world. Construction began in 1221 under Bishop Mauricio and King Fernando III, modelled closely on the French Gothic cathedral at Bourges, and the building was largely complete by the end of the thirteenth century, though the famous openwork spires — the most distinctive element of the facade — were added in the fifteenth century by master builder Juan de Colonia.

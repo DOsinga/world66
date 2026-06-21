@@ -11,6 +11,7 @@ story: >
   The palace was almost completely destroyed in a single night — 11 September 1944 — when Allied bombing turned the old city centre to rubble. The ruins stood for years before the facade and the tower were reconstructed, but the interior that you see today is largely modern. The palace museum's collection, though, survived, having been moved to safety before the bombing.
 sources:
   - https://en.wikipedia.org/wiki/Residential_Palace_Darmstadt
+score: 7.4
 ---
 
 The Residential Palace (Residenzschloss) was the seat of the Landgraves and Grand Dukes of Hesse-Darmstadt for four centuries, and its white baroque facades still dominate the city centre. Much of the palace was destroyed in the Second World War and the reconstruction completed in the 1990s, but the result is handsome enough and the **Schlossmuseum** within is genuinely interesting.

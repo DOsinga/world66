@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: William S. Hart Park and Museum
 type: poi
+score: 7.6
 ---
 
 The former ranch and mansion of silent film star William S. Hart, donated to the county upon his death in 1946. The Spanish Colonial Revival mansion sits on a hill above the grounds and is filled with Hart's personal collection of Western art and Native American artifacts — he was meticulous about authenticity in his cowboy films and it shows. The grounds are home to a small herd of American bison. Free admission to the park; mansion tours are offered Wednesday through Sunday.

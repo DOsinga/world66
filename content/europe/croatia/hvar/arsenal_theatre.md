@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The little hall above the Arsenal opened as a public theatre on 31 May 1612 — one of the oldest civic theatres in Europe, founded explicitly so that nobles and commoners could sit in the same room. The Hvar council intended it as a peace measure after a long stretch of class violence on the island."
+score: 8.0
 ---
 
 The Arsenal sits at the harbour end of Pjaca, a tall arched building where Venetian war galleys were once repaired and overwintered. The single great arch on the ground floor framed the slipway; the upper floor, reached by an external staircase, holds the small public theatre built in 1612.

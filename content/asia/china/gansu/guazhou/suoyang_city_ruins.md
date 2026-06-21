@@ -13,6 +13,7 @@ story: >
   desert crossing before continuing west. The monastery he stayed in still
   stands inside the ruins — one of the few Tang-era Buddhist structures
   remaining in the Hexi Corridor.
+score: 9.8
 ---
 
 The Suoyang City Ruins (锁阳城遗址) are the remains of a walled garrison city founded in 111 BC during the Han Dynasty, about 75 kilometres east of Guazhou. The earthen walls still stand up to 6 metres tall in sections and enclose an area of about 1.8 square kilometres, making it one of the better-preserved Han fortress complexes in Gansu. The Ta'er Temple (塔尔寺) inside the southern wall is a working Buddhist monastery with a Tang-era pagoda — the oldest standing structure in the area.

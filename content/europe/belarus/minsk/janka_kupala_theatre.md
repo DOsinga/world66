@@ -7,6 +7,7 @@ tags:
 latitude: 53.9008
 longitude: 27.5625
 snippet: The oldest surviving theatre in Belarus, named for the national poet
+score: 6.6
 ---
 
 The Janka Kupala National Academic Theatre is the oldest existing theatre in Belarus, founded in 1920. It is named for Janka Kupala, one of the two founding figures of modern Belarusian literature and regarded as the national poet — though his actual name was Ivan Lutsevich; "Janka Kupala" was a pen name. The theatre specialises in Belarusian-language productions and is considered the home of national drama.

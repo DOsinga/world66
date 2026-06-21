@@ -11,6 +11,7 @@ story: >
   that Wickenburg had no proper jail in the 1860s and chained prisoners to this
   mesquite tree instead. Historians are skeptical, but the town has embraced
   the legend so thoroughly that the tree appears on the municipal seal.
+score: 4.8
 ---
 
 A large mesquite tree on Tegner Street that Wickenburg claims was used as its first jail in the 1860s. The story says a lack of a proper lockup led the marshal to chain prisoners to the tree overnight. Whether true or not, the tree has been a town landmark for over a century and is surrounded by a ring of explanatory signage that gives you the full legend.

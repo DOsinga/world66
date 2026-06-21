@@ -7,6 +7,7 @@ tags:
 snippet: Bamboo-themed garden restaurant in the highland forest north of Lembang
 latitude: -6.7858
 longitude: 107.5851
+score: 6.2
 ---
 
 A 15-hectare landscaped restaurant and family park about 25km north of central Bandung, deep in the Cisarua forest. The site is built almost entirely from local bamboo: pavilions, pathways, restaurants and a family kids' play area. The main dining hall serves Sundanese food in private bamboo bird-nest enclosures on the side of a small lake.

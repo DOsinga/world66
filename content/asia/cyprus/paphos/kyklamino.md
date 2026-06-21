@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Kyklamino
 type: poi
+score: 5.3
 ---
 
 A traditional Cypriot taverna on Pyramos Street, a short distance from the main tourist drag. The food is straightforward meze — grilled halloumi, kleftiko, fresh salads — served in a relaxed setting. The slight detour is worth it for the more local atmosphere and prices.

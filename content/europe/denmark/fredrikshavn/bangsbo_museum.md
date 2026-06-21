@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "Bangsbo's most surprising holding is the largest hair-jewellery collection in Europe — Victorian rings, lockets, and brooches woven from the hair of loved ones, living and dead. The fashion peaked in the 19th century as a form of mourning and sentimental adornment; the Bangsbo collection grew from a single donation and now fills a long room of cases."
+score: 7.8
 ---
 
 Bangsbo Museum sits in a wooded estate south of Frederikshavn, organised around a 17th-century manor house. The collection is unexpectedly varied: rooms of domestic interiors from the Renaissance through the 19th century, a costume gallery, the famous hair-jewellery cabinets, a stable block of horse-drawn carriages, and — outside in a separate hangar — the Ellingåen ship, a clinker-built Viking-age boat from around 1163 dredged out of a local stream in 1968.

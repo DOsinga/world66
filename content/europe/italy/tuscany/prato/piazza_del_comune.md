@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.8803
 longitude: 11.0969
+score: 7.2
 ---
 
 The Piazza del Comune is the medieval heart of Prato, a handsome square lined by the Gothic Palazzo Pretorio, the cathedral facade, and the loggia of the Comune. The square functions as the social centre of the city — market mornings, evening passeggiata, festivals. At its centre stands a bronze statue of Francesco Datini, the 14th-century wool merchant who made Prato's fortune and who is the subject of Iris Origo's wonderful biography, *The Merchant of Prato*.

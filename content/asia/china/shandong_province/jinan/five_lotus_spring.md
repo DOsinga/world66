@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6622
 longitude: 117.0253
+score: 7.3
 ---
 
 The Five Lotus Spring Park occupies the northeast corner of the old city near Daming Lake, centered on a cluster of five interconnected spring pools that bubble up through the limestone in a compact group. The park has a classical garden layout with pavilions, stone bridges, and the kind of willow-hung water scenery that Jinan does better than anywhere else in northern China.

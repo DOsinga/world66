@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 8.147
 longitude: 123.847
+score: 6.5
 ---
 
 The Ozamiz City Market is the commercial and culinary heart of the city — a sprawling wet and dry market that opens before dawn and stays busy until late afternoon. The seafood section is the reason to come: Panguil Bay yields bangus (milkfish), lapu-lapu (grouper), squid, and shrimp, most of it caught that morning. Prices are low and quality is high, which is exactly what you want in a market visit.

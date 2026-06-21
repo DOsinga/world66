@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.9833
 longitude: 92.5167
+score: 4.4
 ---
 
 Keokradong, at 986m, is claimed to be the second highest peak in Bangladesh (though there is ongoing dispute about exact measurements between Keokradong and Tahjindong). Reaching it requires a serious trekking expedition of two to three days from Bandarban, passing through remote hill-tribe country. Permits are required and the trek should only be attempted with a licensed local guide.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: The pedestrianised heart of Oradea, lined with palaces and churches
+score: 8.7
 ---
 
 Piața Unirii is the main square on the south side of the Crișul Repede, and it works as both the geographic and social centre of the city. Three of Oradea's most important buildings face onto it — the Church with the Moon, the Black Vulture Palace, and the City Hall with its slender clock tower — and on summer evenings the square fills with families, students and street musicians until well after midnight.

@@ -8,6 +8,7 @@ tags:
 latitude: 40.9529
 longitude: 17.3000
 snippet: Grand seventeenth-century palace facing the cathedral square
+score: 6.5
 ---
 
 The largest palazzo in Monopoli's old town, built in the late seventeenth century by the noble Palmieri family on Piazza Garibaldi. The honey-coloured stone facade runs the length of one side of the square, with rusticated ground floor, deep cornices, and a long balcony from which the family used to watch processions arriving at the cathedral opposite.

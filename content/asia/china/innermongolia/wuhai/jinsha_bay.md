@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.6400
 longitude: 106.7700
+score: 7.1
 ---
 
 Jinsha Bay ("Golden Sand Bay") is the main tourist development on the western shore of Wuhai Lake, where the lake meets the desert dunes. The resort offers yurts, Mongolian cultural performances, camel rides, sandboarding, and direct lake access — a commercial package designed for the Chinese domestic tourism market, executed with more taste than most such developments in Inner Mongolia. The backdrop of sand dunes rising directly from the lake edge is genuinely photogenic, and the sunsets over the dunes from the lake shore are the city's signature image.

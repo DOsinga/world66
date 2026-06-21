@@ -11,6 +11,7 @@ story: >
   arena in Southeast Europe. Its first major event was a Rolling Stones
   concert. It has since hosted the Davis Cup, the EuroBasket tournament,
   and nearly every major act that passes through the Balkans.
+score: 5.9
 ---
 
 The Belgrade Arena is the largest indoor arena in Southeast Europe, a 22,000-seat venue in central Novi Beograd that hosts concerts, sports events, and the occasional political rally. It is the place where Novak Djokovic was celebrated after his grand slam wins, where the Davis Cup has been decided, and where virtually every international touring artist plays when they come to Serbia. On concert nights the surrounding streets fill up with an energy that transforms this otherwise quiet commercial district.

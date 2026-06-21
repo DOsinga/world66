@@ -14,6 +14,7 @@ story: >
   Constructivist Derzhprom building that dominates one side was the first
   entirely reinforced-concrete structure built in the Soviet Union when it
   was completed in 1928.
+score: 8.8
 ---
 
 Freedom Square (Maidan Svobody in Ukrainian) is the heart of Kharkiv and one of the most architecturally striking public spaces in eastern Europe. The square is enormous — nearly 12 hectares — and ringed by a remarkable ensemble of Constructivist and Stalinist buildings that trace the trajectory of Soviet ambition through the 1920s and 1950s.

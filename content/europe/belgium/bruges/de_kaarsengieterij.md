@@ -9,6 +9,7 @@ tags:
 title: De Kaarsengieterij
 type: poi
 url: www.dekaarsengieterij.be
+score: 4.2
 ---
 
 De Kaarsengieterij is the oldest, and the one and only, candle-shop in the centre of Brugge.

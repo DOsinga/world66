@@ -7,6 +7,7 @@ tags:
   - sight
 title: Chapungu Kraal
 type: poi
+score: 7.5
 ---
 
 Chapungu Kraal, in the eastern suburbs of Harare, is a recreation of a traditional nineteenth-century Shona village set in landscaped gardens that double as an outdoor sculpture park. Hundreds of Shona stone sculptures are displayed throughout the grounds, from small decorative pieces to monumental works. The quality is high and the setting genuinely attractive.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Playa Calahonda
 type: poi
+score: 7.2
 ---
 
 A small, intimate cove of grey sand right below the Balcón de Europa, reached by steep steps down from the promenade. The little beach is sheltered by the cliffs and the row of brightly painted fishermen's houses that line the back of it.

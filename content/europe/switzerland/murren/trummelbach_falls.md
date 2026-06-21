@@ -7,6 +7,7 @@ tags:
 latitude: 46.5691
 longitude: 7.9150
 snippet: Ten glacial waterfalls thundering inside a mountain, accessible by lift
+score: 8.7
 ---
 
 Trümmelbach Falls are inside the mountain rather than on its face — ten glacial waterfalls carved into the rock by meltwater from the Eiger, Mönch, and Jungfrau glaciers, carrying up to 20,000 litres per second at peak flow. The route through them involves a tunnel lift and a series of walkways and galleries bored directly into the cliff, giving an extraordinary experience of water on an almost industrial scale: the sound is overwhelming, the spray constant, and the light strange.

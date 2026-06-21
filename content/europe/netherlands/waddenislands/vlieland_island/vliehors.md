@@ -11,6 +11,7 @@ story: >
   Netherlands Air Force has used it since the 1950s, and bomb
   fragments and old shells still wash out of the dunes. Do not
   wander off the guided routes.
+score: 9.4
 ---
 
 The western third of Vlieland is an immense, low sand-flat called the Vliehors — about 15 km² of nearly featureless beach, dune, and salt-marsh. It is one of the most extreme landscapes in the Netherlands: no buildings, no trees, no shelter, just a vast horizontal plain where the wind sculpts the sand into low ridges and standing pools.

@@ -15,6 +15,7 @@ tags:
   - monastery
 title: Monastery of Saint Nicholas Anapafsas
 type: poi
+score: 7.8
 ---
 
 The smallest and most intimate of the six active monasteries, Saint Nicholas Anapafsas sits on a low, narrow rock at the entrance to the Meteora complex. Founded in the 14th century, it has a tiny community of monks and a church whose dimensions are dictated by the shape of the pinnacle below it. The ceiling is so low in places that standing visitors must duck.

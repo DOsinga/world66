@@ -8,6 +8,7 @@ latitude: 44.4662
 longitude: 8.3167
 sources:
   - https://en.wikipedia.org/wiki/Piana_Crixia
+score: 6.0
 ---
 
 The baroque parish church at the heart of Piana Crixia was built between 1715 and 1765 and dedicated to an unusual trio of early Christian martyrs — Eugenius, Victor, and Corona. The dedication reflects a local tradition of veneration for these obscure saints that predates the current building by several centuries.

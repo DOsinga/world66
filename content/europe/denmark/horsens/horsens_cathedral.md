@@ -6,6 +6,7 @@ tags:
 - sight
 title: Vor Frelsers Kirke (Church of Our Saviour)
 type: poi
+score: 6.8
 ---
 
 The main church of Horsens, known locally as Horsens Cathedral though it does not hold official cathedral status, is a large Gothic structure dating from the 13th century with significant later additions. The red-brick exterior is typical of Danish medieval church architecture; the interior has been altered over the centuries but retains several original features including carved Renaissance altarpiece work.

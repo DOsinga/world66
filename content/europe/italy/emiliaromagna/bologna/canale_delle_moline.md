@@ -7,6 +7,7 @@ snippet: A surviving stretch of Bologna's medieval canal network
 tags:
 - things_to_do
 - sight
+score: 6.6
 ---
 
 Bologna's medieval prosperity rested on water — a system of canals diverted from the rivers Reno and Savena powered the silk mills that made the city one of Europe's largest producers of silk thread in the sixteenth century. The Canale delle Moline drove most of the city's flour mills. Most of the canals were covered or filled in during the nineteenth and twentieth centuries; a few short stretches survive in the open.

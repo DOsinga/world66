@@ -8,6 +8,7 @@ tags:
   - sight
   - tomb
 story: "Nie Er composed the 'March of the Volunteers' in 1935, aged 23. It became the unofficial anthem of resistance against the Japanese invasion and was adopted as the official national anthem of the People's Republic in 1949. Nie himself drowned in Japan a few months after writing it, while traveling to study music. He is the only musician whose work serves as a national anthem to be buried at his own birthplace."
+score: 5.9
 ---
 
 Halfway up the Western Hills, on a quiet bend of the temple path, stands the tomb of Nie Er — the Kunming-born composer of the Chinese national anthem. The grave is laid out in the shape of a piano keyboard, with a stylised statue of the composer in front. Twenty-four white stone steps lead up to it from the path, one for each year of his life.

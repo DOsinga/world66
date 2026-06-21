@@ -9,6 +9,7 @@ latitude: 38.4350
 longitude: 105.9872
 story: >
   The Mongols who destroyed the Western Xia in 1227 were particularly thorough here: they broke open the tombs, removed or destroyed the grave goods, and scattered the remains. Genghis Khan himself died during the final campaign — the circumstances remain disputed, but the destruction of the mausoleums was reportedly ordered partly in revenge. What you see today are the earthen outer mounds, massive but hollow, their contents long gone.
+score: 8.8
 ---
 
 The Western Xia Mausoleum complex covers 50 square kilometres at the foot of the Helan Mountains, stretching across alkaline desert scrub that was once carefully maintained imperial ground. Nine imperial tombs and more than 200 subsidiary burials for nobles and court officials are distributed across this landscape. The earthen mound that formed the outer shell of each imperial tomb rises 20 to 30 metres, eroded over eight centuries into forms that look from a distance like ruined towers or natural hillocks — it takes a moment to register that these are human constructions.

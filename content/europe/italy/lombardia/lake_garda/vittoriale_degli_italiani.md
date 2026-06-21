@@ -8,6 +8,7 @@ story: >
   Gabriele d'Annunzio had the prow of a World War I torpedo boat, the MAS 96, built into the hillside garden of his estate — pointed out over the lake as if still charging forward. He also had the hull of a warship, the Puglia, dragged up the hillside and set into a concrete bunker. The whole estate is a monument to an ego so enormous it required a theme park.
 sources:
   - https://en.wikipedia.org/wiki/Vittoriale_degli_Italiani
+score: 8.5
 ---
 
 The Vittoriale degli Italiani is the extraordinary estate of the poet, soldier, and proto-fascist Gabriele d'Annunzio, perched above the village of Gardone Riviera on the western shore. D'Annunzio lived here from 1921 until his death in 1938, filling the house and gardens with an obsessive accumulation of war trophies, theatrical set pieces, and monuments to his own legend.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -19.0006
 longitude: -57.6508
+score: 9.4
 ---
 
 The defining activity in Corumbá is a boat trip into the Pantanal — the vast seasonally flooded wetland that surrounds the city and constitutes one of the world's greatest wildlife habitats. Tours range from half-day outings on the Paraguay River to multi-day expeditions staying at remote fazendas (ranches) deep in the wetlands, where jaguars, giant otters, capybaras, and hundreds of bird species can be seen at close range.

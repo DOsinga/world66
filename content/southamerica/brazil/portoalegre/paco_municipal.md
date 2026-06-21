@@ -7,6 +7,7 @@ tags:
 - sight
 title: Paço Municipal (City Hall)
 type: poi
+score: 6.9
 ---
 
 The Paço Municipal — Porto Alegre's city hall — is a dignified early 20th-century building in the Praça Montevidéu, a short walk from the Praça da Alfândega and the Farol Santander. The building was completed in 1901 and houses the offices of the city's executive government; it is not open for general visits, but the exterior is worth pausing at as part of any walking tour of the city centre. The neoclassical facade, with its central clock tower, is one of the more photographed buildings in central Porto Alegre.

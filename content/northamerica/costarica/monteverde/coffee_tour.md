@@ -5,6 +5,7 @@ snippet: Working finca tour covering coffee, cacao and sugar cane production at 
 tags: [things_to_do, activity, food]
 latitude: 10.3186
 longitude: -84.8255
+score: 6.9
 ---
 
 The Don Juan tour is one of several coffee-and-cacao operations around Monteverde, and one of the better-run. Across about two hours you walk through a working finca and see how arabica coffee, cacao, and trapiche (raw cane sugar) are grown and processed by smallholders in this part of Costa Rica.

@@ -7,6 +7,7 @@ longitude: -46.2699
 tags:
 - things_to_do
 - sight
+score: 7.1
 ---
 
 The longest beach in Guarujá, stretching for several kilometres south of Pitangueiras. Enseada is calmer and less packed than the main urban beach, sheltered by the curve of the bay. It is popular with families for exactly those reasons — the water is calmer, the sand is wider, and the kiosk density is lower.

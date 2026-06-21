@@ -9,6 +9,7 @@ latitude: 36.2340
 longitude: 111.7590
 story: >
   The Feihong Pagoda was built in 1515 during the reign of the Zhengde Emperor, who was known for extravagant building projects and an unusual interest in Tibetan Buddhism. The pagoda's elaborate glazed tile decoration was executed by kilns from the nearby ceramic tradition at Hongtong — the same workshops that supplied decorative ceramics to the imperial court. The word feihong means "flying rainbow," a name that becomes self-evident when the pagoda's polychrome surface catches the afternoon sun.
+score: 8.4
 ---
 
 The Feihong Pagoda at Guangsheng Temple is the largest and best-preserved glazed-tile pagoda in China — a 13-storey octagonal tower built in 1515 whose entire outer surface is covered in coloured ceramic figures, ornamental tile-work, and decorative patterns in greens, yellows, and blues. From a distance the effect is almost impossibly festive for a Buddhist structure; up close, the quality of the individual tile figures — dragons, bodhisattvas, animals, narrative scenes — is extraordinary. The pagoda has survived six centuries of weathering in better condition than almost any comparable structure.

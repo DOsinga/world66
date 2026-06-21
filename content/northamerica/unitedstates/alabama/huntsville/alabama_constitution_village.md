@@ -8,6 +8,7 @@ story: >
   Alabama became a state on December 14, 1819, making it the 22nd state of the Union — and Huntsville was the site of the constitutional convention that made it happen. The constitution was drafted and signed in a cabinet shop on this site in July 1819, five months before statehood was granted. It was a pivotal moment: Alabama's constitution became a model for several other newly admitted states, with provisions for universal white male suffrage that were unusually progressive for the time.
 sources:
   - https://en.wikipedia.org/wiki/Alabama_Constitution_Village
+score: 7.5
 ---
 
 Alabama Constitution Village is an open-air living history museum occupying the block in downtown Huntsville where Alabama's founding fathers gathered in 1819 to draft the document that admitted Alabama to the United States. The complex reconstructs a series of Federal-period buildings — a cabinet shop, a print shop, a law office, a counting house — and populates them with costumed interpreters who demonstrate the trades and daily life of early 19th-century Huntsville.

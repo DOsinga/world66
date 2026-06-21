@@ -8,6 +8,7 @@ tags:
   - the_cite
   - sight
 neighbourhood: La Cité
+score: 8.7
 ---
 
 The walk along the inner ramparts (lices) — between the two rings of walls — is included in the Château Comtal ticket and is the best way to understand how the fortifications work. The outer wall is lower and older (much of it late Roman, in alternating bands of stone and brick), the inner is taller and thirteenth-century, and the corridor between them is a defensive killing zone.

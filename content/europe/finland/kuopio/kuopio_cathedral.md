@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 snippet: Neoclassical Lutheran cathedral, seat of the Diocese of Kuopio
 latitude: 62.8911
 longitude: 27.6839
+score: 7.4
 ---
 
 Kuopio Cathedral (Tuomiokirkko) is the dominant landmark of the city centre, a Neoclassical Evangelical Lutheran church built in 1815 to designs by Carlo Bassi. The pale stone building with its twin towers and restrained classical decoration stands a short walk east of the market square and is the seat of the Diocese of Kuopio.

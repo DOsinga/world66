@@ -11,6 +11,7 @@ tags:
 - myeongdong
 title: Deoksugung (Toksu Palace)
 type: poi
+score: 7.7
 ---
 
 Deoksugung (also written Toksu Palace in older romanization) is the smallest of Seoul's five grand palaces, sitting right in the middle of the City Hall district. What makes it unusual is the mix of traditional Korean palace buildings and early 20th-century Western-style stone halls, a result of the turbulent final decades of the Joseon dynasty.

@@ -6,6 +6,7 @@ longitude: 81.005
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 The most northerly building of the ancient city, the Tivanka Image House takes its name from the figure inside — a standing Buddha posed in the unusual "thrice-bent" (tivanka) stance reserved for divine beings rather than the historical Buddha. The brick walls of the shrine survive almost to roof level.

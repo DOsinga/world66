@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 65.0131
 longitude: 25.4683
+score: 5.8
 ---
 
 A small dive bar on Pakkahuoneenkatu, with rock and metal music, occasional live gigs, and a loyal student crowd. Cash-friendly, loud, and open late.

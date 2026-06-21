@@ -10,6 +10,7 @@ tags:
   - garden
 story: >
   The Arb's peony garden, planted in the 1920s, contains over 270 historic cultivars and blooms spectacularly each June. It is one of the largest collections of heirloom peonies in North America, and the university hosts a free Peony Festival when the flowers peak.
+score: 8.4
 ---
 
 Known locally as "the Arb," this 123-acre arboretum along the Huron River is one of Ann Arbor's finest assets. The terrain is rolling and wooded, with trails winding through native plant collections, prairie restorations, and old-growth trees. It connects to the university's central campus at its western edge, making it an easy walk from downtown.

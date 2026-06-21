@@ -11,6 +11,7 @@ longitude: 88.2213888888889
 snippet: One of the oldest monasteries in Sikkim, reached by a forest path
 story: >
   Sanga Choeling was established in the 17th century by Lama Lhatsun Chempo, one of the three revered lamas who brought Tibetan Buddhism to Sikkim. The lama reportedly flew to the hilltop on a tiger — a story commemorated in a mural inside the monastery.
+score: 7.6
 ---
 
 One of the oldest monasteries in Sikkim, Sanga Choeling was founded in the 17th century and sits on a forested hill about 10 kilometres from Pelling. Unlike the more-visited Pemayangtse, it receives relatively few tourists, giving it a quieter, more contemplative atmosphere.

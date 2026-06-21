@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 29.1975
 longitude: 25.5469
+score: 6.9
 ---
 
 A circular stone pool about four metres deep, fed continuously by warm artesian water bubbling up from below. The Greeks knew the spring as the Spring of the Sun, mentioned by Herodotus; the modern name is touristic licence, with no evidence Cleopatra was ever within a thousand kilometres of Siwa.

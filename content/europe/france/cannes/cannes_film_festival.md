@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Cannes_Film_Festival
 story: >
   The Palme d'Or — the golden palm that is the festival's highest honour — was designed by jeweller Lucienne Lazon in 1955 and has been altered, discontinued, and revised several times since. The current design by Chopard, introduced in 1997, is made of 24-carat gold. Federico Fellini, Francis Ford Coppola, and the Dardenne brothers each won it twice. No director has won it three times.
+score: 7.6
 ---
 
 The Cannes Film Festival is the most prestigious film gathering in the world — not just a film festival but the central market and tastemaking event of the international cinema industry. Held for approximately two weeks every May, it attracts more than 12,000 industry professionals, 4,000 journalists, and enormous quantities of money, glamour, and controversy.

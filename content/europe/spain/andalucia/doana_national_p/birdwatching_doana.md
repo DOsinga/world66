@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - wildlife
 story: The Spanish imperial eagle — one of the rarest raptors in the world, with fewer than 900 individuals — nests in Doñana's pine forests and hunts over the marismas. Spotting one soaring over the marshes, white shoulder patches gleaming, is the kind of moment that makes serious birders rearrange their entire year.
+score: 9.4
 ---
 
 Doñana holds one of the most species-rich birdwatching sites in Europe, full stop. The park's position at the junction of two flyways — the Atlantic route from northern Europe and the western Mediterranean route from central Europe — means it acts as a bottleneck for millions of migrating birds. In a single spring morning at the right location you might count twenty or thirty species without moving your feet: flamingoes, spoonbills, glossy ibis, avocets, black-winged stilts, marsh harriers quartering low over reeds, booted eagles circling overhead, red-knobbed coots and purple gallinules working the margins.

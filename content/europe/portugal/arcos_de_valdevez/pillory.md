@@ -11,6 +11,7 @@ story: >
   the leading Manueline sculptors of his day. It marks the year King Manuel I
   granted Arcos town status — a carved royal decree in stone, still standing at
   the centre of the old quarter five centuries later.
+score: 6.8
 ---
 
 The pillory (pelourinho) stands in the old town square as one of the finest examples of Manueline stone carving in the Minho region. Its distinctive twisted column, executed by the sculptor João Lopes the Elder, was erected in 1515 when King Manuel I formally elevated Arcos de Valdevez to the status of a vila — a milestone the town marked with this piece of civic pride.

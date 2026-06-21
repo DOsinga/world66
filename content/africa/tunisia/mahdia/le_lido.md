@@ -6,6 +6,7 @@ longitude: 11.0710
 tags:
   - eating_out
   - restaurant
+score: 6.1
 ---
 
 A more upscale option on the corniche overlooking the fishing harbour, Le Lido has been serving the same kind of slow, generous fish lunches for thirty years. The grilled rouget and the prawn ojja are the dishes to order.

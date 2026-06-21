@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.1186
 longitude: -4.2169
+score: 8.1
 ---
 
 Koro is a Bobo-Fing village built into a granite outcrop about 12 km south of Bobo-Dioulasso. The mud-and-stone houses cling to the rock at improbable angles, and the village's footpaths thread between the boulders rather than around them. It looks like — and is — a place that has existed largely unchanged for centuries.

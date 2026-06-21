@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.9403
 longitude: 1.0097
+score: 6.9
 ---
 
 The Cro-Magnon rock shelter, a few hundred metres from the centre of Les Eyzies, is where in 1868 a railway worker named Louis Lartet uncovered the skeletal remains of five early modern humans — the people who would be given the name "Cro-Magnon" after the site. These were among the first recognized specimens of Homo sapiens sapiens in Europe, and the discovery at this otherwise undramatic little overhang reshaped human understanding of our own origins.

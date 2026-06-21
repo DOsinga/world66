@@ -12,6 +12,7 @@ story: >
   work depicting a German imperial scene. It was a gift that cemented the colonial bond
   between Berlin and its southernmost African outpost.
 snippet: Lutheran church on a hilltop overlooking Lüderitz, built in German colonial style with Kaiser's rose window
+score: 7.3
 ---
 
 The Felsenkirche — "Rock Church" — is the Lutheran church that dominates the Lüderitz skyline from its perch on a rocky hill above the bay. Built between 1911 and 1912 by the German colonial community, it is a handsome example of the Cape-Gothic style: buff-coloured plaster walls, a squat tower, and a steeply pitched roof. The interior is simple but contains the rose window donated by Kaiser Wilhelm II, glowing with warm colours when the afternoon light hits it.

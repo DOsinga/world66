@@ -6,6 +6,7 @@ longitude: 19.4000
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 The largest lake in the Balkans — 370 square kilometres at full pool, two-thirds in Montenegro and one-third in Albania. The Albanian side runs from the village of Shiroka on the southern shore up to the Montenegro border, with the **Lake Shkodër Nature Reserve** protecting a strip of marsh, reed bed, and mixed forest along the shoreline.

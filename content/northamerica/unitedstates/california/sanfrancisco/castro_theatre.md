@@ -11,6 +11,7 @@ title: Castro Theatre
 neighbourhood: Castro District
 type: poi
 story: "The Castro Theatre's 1922 organ was replaced in 2026 with the largest hybrid organ ever built -- seven manuals and over 400 registers. The main floor seats were controversially removed during a $41 million renovation, though the balcony seating was preserved."
+score: 8.3
 ---
 
 The Castro Theatre is a San Francisco landmark -- a gorgeous 1922 movie palace designed by Timothy Pflueger in a mix of Spanish Baroque and Beaux-Arts styles, with an ornate interior that makes every show feel like an event. The neon marquee, visible for blocks up and down Castro Street, is one of the most photographed signs in the city.

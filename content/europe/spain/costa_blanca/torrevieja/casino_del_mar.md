@@ -5,6 +5,7 @@ latitude: 37.9753
 longitude: -0.6817
 tags: [things_to_do, sight, architecture]
 snippet: "A grand 19th-century building on the seafront — once a social club for the salt-trading bourgeoisie, now a cultural centre, and the most architecturally distinguished building in Torrevieja."
+score: 6.6
 ---
 
 The Casino del Mar is the building that makes it clear Torrevieja was once seriously prosperous. Built in the late 19th century when the salt trade was at its height, it served as the social club and meeting place for the merchants and families who ran the salt business — a function reflected in its scale and ornament, which are considerably more ambitious than you would expect in a town of this size. The seafront façade, with its colonnaded arcade and decorative detailing, is the visual anchor of the paseo marítimo and appears in most photographs of the town.

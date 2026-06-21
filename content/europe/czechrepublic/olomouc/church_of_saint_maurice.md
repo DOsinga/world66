@@ -8,6 +8,7 @@ tags:
 - sight
 title: Church of Saint Maurice
 type: poi
+score: 7.6
 ---
 
 A massive late-Gothic parish church standing just off Horní náměstí. Its grey-stone bulk feels heavier than the cathedral up the hill — the asymmetrical twin towers were never finished, which gives the façade its lopsided look. The interior is whitewashed and surprisingly austere, but it draws music-lovers from across Europe because of its remarkable organ.

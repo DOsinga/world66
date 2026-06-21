@@ -11,6 +11,7 @@ story: >
   black basalt, the lack of vegetation, and the extreme conditions were the
   closest approximation to the lunar surface available on Earth. The
   moonscapes the astronauts practiced on became, for a brief time, famous.
+score: 8.8
 ---
 
 An hour's drive north of Puerto Peñasco, the Sierra El Pinacate rises from the Sonoran Desert in a landscape of black basalt lava flows, cinder cones, and enormous explosion craters. This is the Pinacate and Gran Desierto de Altar UNESCO Biosphere Reserve — a combined desert-volcanic landscape unlike anything else in North America. The giant circular craters (maares) are the most dramatic feature: massive depressions blasted out by steam explosions when rising magma hit groundwater, some of them nearly a kilometre across.

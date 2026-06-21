@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - neighbourhood
+score: 7.8
 ---
 
 Port Dalhousie was originally the Lake Ontario end of the first Welland Canal, until later canals were realigned to bypass it. The harbour basin and the pair of nineteenth-century lighthouses on the protective moles are what remain, and the village around them has settled into a pleasant lake-edge district of pubs, ice-cream parlours, and the small Lakeside Park beach.

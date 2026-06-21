@@ -9,6 +9,7 @@ latitude: 39.4740
 longitude: -6.3710
 story: >
   During the filming of Game of Thrones season six, the Ciudad Monumental stood in for the city of Braavos and later for King's Landing. The production team found it more convincing than any constructed set — the real medieval streets and intact towers needed almost no dressing. The storks that nest on every battlement were a problem nobody had anticipated.
+score: 9.4
 ---
 
 The Ciudad Monumental is the walled old town of Cáceres and one of the best-preserved medieval city centres in Europe. The UNESCO designation in 1986 recognised something that is still striking today: within the walls there are no electric pylons, no advertising hoardings, no modern buildings visible, and almost no traffic. At night, with the golden stone lit from below, the effect is extraordinary.

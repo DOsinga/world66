@@ -7,6 +7,7 @@ tags:
 latitude: -31.4258
 longitude: 152.9211
 snippet: The most central beach, calm and sheltered at the mouth of the Hastings River
+score: 6.7
 ---
 
 Town Beach sits right at the centre of Port Macquarie, where the Hastings River meets the Tasman Sea. The position at the river mouth gives it a natural shelter that makes it calmer than the ocean beaches to the south — good for families with young children and for swimming when the surf further along the coast is rough.

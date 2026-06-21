@@ -18,6 +18,7 @@ story: >
   dying out. The college they established continues that tradition today, with
   students from across the state training in both classical dance and Carnatic
   music performance.
+score: 6.9
 ---
 
 The Maharajah's Government College of Music and Dance is a state-run institution in Vizianagaram specialising in Kuchipudi classical dance and Carnatic classical music — two of South India's most demanding performing arts traditions. The college traces its origins to the patronage of the Vizianagaram royal family, who maintained court musicians and dancers and eventually formalised their support into an institution.

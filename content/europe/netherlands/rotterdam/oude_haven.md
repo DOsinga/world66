@@ -6,6 +6,7 @@ longitude: 4.4940
 tags:
 - things_to_do
 - sight
+score: 8.1
 ---
 
 Rotterdam's oldest harbour, dating from the 14th century, now filled with historic ships, barges, and houseboats. The small basin is ringed by cafés with waterside terraces and framed by an improbable skyline: the medieval [Laurenskerk](/europe/netherlands/rotterdam/laurenskerk) on one side, the tilted [Cube Houses](/europe/netherlands/rotterdam/cube_houses) on the other, and the white tower of [Het Wittehuis](/europe/netherlands/rotterdam/wittehuis) in between.

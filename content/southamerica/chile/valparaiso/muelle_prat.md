@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The small passenger pier where you can take a boat tour of one of the world's great working ports
+score: 6.6
 ---
 
 Muelle Prat is the small passenger pier at the edge of Plaza Sotomayor, where lanchas (small wooden motorboats) depart for half-hour tours of the harbour. Valparaíso is one of the most important ports in South America — a vast complex of container terminals, grain elevators, and drydocks that processes a significant fraction of Chile's imports and exports. Seeing it from the water puts the city's hills and painted houses in their proper context: this is, first and foremost, a port city.

@@ -1,39 +1,8 @@
 ---
-latitude: 37.443192
-longitude: -122.170916
-title: Shopping
-type: poi
+title: "Shopping"
+type: section
 ---
 
-Wholesale Carpet Store Home
+Washington's best shopping is concentrated in a few neighbourhoods. **Georgetown** (M Street NW and Wisconsin Avenue) has the most established retail strip, with independent boutiques alongside national chains in 19th-century townhouse buildings. **Dupont Circle** has good independent bookshops — **Kramerbooks** (1517 Connecticut Avenue NW) is a DC institution that stays open late and has a cafe. **Eastern Market** on Capitol Hill (7th Street SE) is a covered public market open since 1873, with food vendors inside and a weekend outdoor market for crafts, antiques, and produce.
 
-Shop Online at Bestcarpetgallery.com Situated in Istanbul, specialising in Turkish Kilims. With an fantastic range of New, Old and Antique Turkish Oriental Kilim, Rugs and Carpets also an array of Persian, Caucasian, Turkoman and Afghanistan Kilim, Rugs and Carpets of all sizes. At Rug Store, you will be spoilt for choice with our range and great value products.
-* for more http://www.bestcarpetgallery.com/
-
-### [Shopping](/northamerica/unitedstates/washingtondc/shopping/rug_store)
-
-type: Antiques
-
-
-
-[[rate it]](/northamerica/unitedstates/washingtondc/shopping/rug_store)
-
-##
-
--
-
--
-
--
-
-- - |
-- |
-- |
-- |
-
-[](http://creativecommons.org/licenses/by-sa/1.0/)
-
-This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/1.0/).
-For more information read our
-
-[copyright policy](/about/copyright_policy) and our [disclaimer](/about/disclaimer).
+For a uniquely Washington experience, the **National Building Museum Gift Shop** (401 F Street NW) stocks excellent books and design objects. Union Station has a large mall inside the grand Beaux-Arts terminal, useful for last-minute gifts.

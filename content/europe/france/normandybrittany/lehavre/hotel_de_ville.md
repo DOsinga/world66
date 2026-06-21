@@ -10,6 +10,7 @@ tags:
 - architecture
 title: Hôtel de Ville
 type: poi
+score: 7.1
 ---
 
 The Hôtel de Ville anchors the eastern end of Avenue Foch and marks the heart of Perret's rebuilt city. The building is one of the largest post-war public buildings in France, its central tower rising 72 metres and flanked by long wings of concrete with Perret's characteristic fluted columns. The square in front — Place de l'Hôtel de Ville — is enormous, designed as a civic gathering place of the kind that modernist planners believed cities needed.

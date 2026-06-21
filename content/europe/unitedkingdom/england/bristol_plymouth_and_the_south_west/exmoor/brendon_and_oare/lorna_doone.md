@@ -4,6 +4,7 @@ type: poi
 author: R. D. Blackmore
 tags:
   - books
+score: 6.7
 ---
 
 Published in 1869, *Lorna Doone* is the novel that created literary tourism on Exmoor. Set in the 17th century, it tells the story of a yeoman farmer named John Ridd and his love for the outlaw Doone clan's captive, Lorna. Blackmore used the real landscape of Oare and Brendon with enough accuracy that readers have been walking out his scenes ever since.

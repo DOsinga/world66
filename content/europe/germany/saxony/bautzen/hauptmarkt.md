@@ -8,6 +8,7 @@ tags:
 title: Hauptmarkt and Rathaus
 type: poi
 snippet: The main market square at the centre of the old town, dominated by the Baroque Rathaus
+score: 7.5
 ---
 
 The Hauptmarkt is the heart of the old town, a broad rectangular square ringed by gabled merchants' houses and dominated at the east end by the yellow Baroque Rathaus (town hall), completed in 1732 on the site of an earlier Renaissance building destroyed by fire. The tower clock is the largest in eastern Saxony.

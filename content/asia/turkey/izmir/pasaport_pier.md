@@ -7,6 +7,7 @@ tags:
   - alsancak
 latitude: 38.4290
 longitude: 27.1360
+score: 5.7
 ---
 
 The Pasaport pier — pasaport iskele — takes its name from the documents that arriving ships' passengers were required to show before being permitted to land at this point, a practice going back to the Ottoman period of customs and quarantine regulation. Today it is simply a ferry terminal, connecting Alsancak to Karşıyaka across the bay, but the name preserves the memory of İzmir as an international port of entry.

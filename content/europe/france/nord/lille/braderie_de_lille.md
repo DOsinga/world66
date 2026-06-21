@@ -14,6 +14,7 @@ story: >
   two world wars. By the 20th century it had grown into a civic institution involving
   the entire city. The modern event attracts up to two million visitors over its
   two-day run.
+score: 8.2
 ---
 
 The Braderie de Lille is one of Europe's great annual events and completely transforms the city for the first weekend of September. The entire historic centre — every street, square, and pavement — becomes a continuous flea market stretching for kilometres in every direction. Antique dealers from across Europe set up alongside ordinary households selling old clothes, broken furniture, and mysterious electronic equipment. The mixture is democratic and genuinely excellent for treasure hunting, with genuine finds available if you arrive Friday evening before the professionals have picked everything over.

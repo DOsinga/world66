@@ -14,6 +14,7 @@ story: >
   formations in a darkness punctuated only by the guide's torch — an
   experience that the surface landscape of northern Guangdong gives no
   warning of.
+score: 8.0
 ---
 
 The Underground River of Lianzhou, in the county of the same name about 100 kilometres north of the city, is one of Guangdong's more unusual geological attractions. The river flows through an extensive cave system for several kilometres, and visitors board small boats to travel through the darkness, with the ceiling of stalactites lit by guide torches and occasional installed lighting. The cave temperature stays cool year-round, which is welcome in summer.

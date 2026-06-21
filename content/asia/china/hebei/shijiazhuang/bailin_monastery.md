@@ -12,6 +12,7 @@ story: >
   of the most studied koans in Zen Buddhism. When asked whether a dog has Buddha
   nature, he replied "Mu" — "no" or "nothing." That single syllable has been
   the subject of sustained Zen inquiry for twelve centuries.
+score: 7.8
 ---
 
 Bailin Monastery in Zhao County is a functioning Chan (Zen) Buddhist monastery with roots going back to at least the second century, though its famous association is with the Tang dynasty master Zhaozhou, who lived here for forty years and whose teaching exchanges became foundational texts of the Zen tradition. The monastery was largely destroyed during the Cultural Revolution and has been extensively rebuilt since 1988. The rebuilding has been done seriously: the main structures are now handsome and substantial, and the monastery has become a genuine centre of Chan practice and scholarship.

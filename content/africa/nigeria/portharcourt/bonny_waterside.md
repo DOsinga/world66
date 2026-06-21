@@ -13,6 +13,7 @@ story: >
   an unusual advantage on a coastline dominated by shallow river bars. Within
   two decades the port was exporting coal from the Enugu mines further inland,
   establishing the infrastructure that would later be redirected to crude oil.
+score: 7.9
 ---
 
 The Bonny Waterside is the historic heart of Port Harcourt — the stretch of riverfront where the city began as a colonial deep-water port in 1913. The area retains an older character than most of the city, with some early twentieth-century warehouses and the remnants of the original dock infrastructure still visible along the waterfront. The broad sweep of the Bonny River here is impressive: wide, brown, and busy with small boats.

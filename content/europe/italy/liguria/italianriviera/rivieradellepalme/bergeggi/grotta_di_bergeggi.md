@@ -9,6 +9,7 @@ latitude: 44.2460
 longitude: 8.4430
 sources:
   - https://en.wikipedia.org/wiki/Bergeggi
+score: 7.7
 ---
 
 A sea cave at the base of the cliffs, 37 metres long and 17 metres wide. Its mouth opens at sea level and is only accessible by boat or by swimming in from the shore on calm days. The cave was occupied from the Neolithic period through the Roman era — a sequence of habitation spanning thousands of years — and archaeological finds from inside it are held in the Savona civic museum.

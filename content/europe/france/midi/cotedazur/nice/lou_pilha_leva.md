@@ -8,6 +8,7 @@ tags:
 address: "10 Rue du Collet, Vieux Nice"
 latitude: 43.6968
 longitude: 7.2754
+score: 7.5
 ---
 
 Lou Pilha Leva is one of the essential Niçois eating experiences — a no-frills street food institution in the old town serving socca, pissaladière, and other Niçois staples at communal outdoor tables. Order at the counter, take a number, and wait for your name to be called. The socca arrives directly from the oven in slices on a paper plate, dusted with pepper, eaten standing or at one of the long shared tables.

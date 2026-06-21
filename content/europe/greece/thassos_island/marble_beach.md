@@ -6,6 +6,7 @@ longitude: 24.7167
 tags:
   - beaches
   - sight
+score: 7.6
 ---
 
 An almost entirely white beach near Alyki in the south of the island, the stone so pale and uniform it looks artificial at first glance — as though someone tipped a load of white gravel here for a purpose. Which is, in a sense, exactly what happened: the marble pebbles and coarse white sand came from the ancient quarries nearby, washed down over centuries. The effect is genuinely strange and beautiful, the white beach against very dark water making for a colour combination you will not find anywhere else.

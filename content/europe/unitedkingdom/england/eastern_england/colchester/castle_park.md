@@ -8,6 +8,7 @@ tags:
 latitude: 51.8914
 longitude: 0.9030
 snippet: Town park wrapped around the Norman keep
+score: 7.0
 ---
 
 The thirty-acre Castle Park sweeps north from the castle down to the River Colne, taking in formal gardens, the boating lake, a play park, and a bandstand. The combination of Norman keep, medieval ruins of St Botolph's grange, and the lower riverside grounds gives a wide range of paths in a small space — easy to spend a couple of hours on a sunny afternoon.

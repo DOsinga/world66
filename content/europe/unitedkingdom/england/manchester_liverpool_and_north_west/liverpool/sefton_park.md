@@ -9,6 +9,7 @@ tags:
 - park
 title: Sefton Park
 type: poi
+score: 7.9
 ---
 
 Liverpool's most loved park — 235 acres of lawns, lake, woodland and Victorian set-pieces in the affluent south of the city. Laid out in the 1870s by the French landscape architect Édouard André, it has the unhurried feel of a great Parisian park, with serpentine paths, a boating lake, and a glasshouse Palm House at its heart.

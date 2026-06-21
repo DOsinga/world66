@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.7512
 longitude: 44.9597
+score: 7.8
 ---
 
 Parz Lake (Lake Clear) is a small, brilliantly clear mountain lake about 6 kilometres east of Dilijan, reachable by a short drive or a pleasant 2-kilometre walk through the national park forest. The lake sits in a hollow of beech trees and on a calm day the reflection of the surrounding forest gives the water an almost painted quality.

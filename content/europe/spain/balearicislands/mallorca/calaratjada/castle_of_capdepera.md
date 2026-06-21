@@ -14,6 +14,7 @@ story: >
   commemorates the event every year on the second Sunday of February.
 sources:
   - https://en.wikipedia.org/wiki/Castle_of_Capdepera
+score: 8.0
 ---
 
 The Castle of Capdepera sits on a rocky hill above the town of Capdepera, visible from much of the northeastern tip of Mallorca. Built largely in the fourteenth century, it is one of the best-preserved medieval fortifications on the island — a complete circuit of crenellated walls enclosing a chapel, watchtower, and the ruins of the governor's house.

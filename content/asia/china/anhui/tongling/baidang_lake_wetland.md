@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.9550
 longitude: 117.8300
+score: 6.6
 ---
 
 Baidang Lake is the better site for birdwatching in the Tongling area, a wetland reserve on the city's eastern edge where the Yangtze River floodplain transitions into shallow lake habitat. The reserve protects habitat for waterbirds that use the Yangtze corridor as a migration route, and autumn arrivals from October through November include large numbers of ducks, geese, and waders that stage here before continuing south.

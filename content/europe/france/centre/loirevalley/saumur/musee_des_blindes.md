@@ -8,6 +8,7 @@ tags:
 story: "The collection grew from the military training school at Saumur and now ranges from a 1917 Renault FT — the first tank to use a fully rotating turret, the basic configuration still used today — to Cold War-era T-72s and a Leopard 2."
 title: Musée des Blindés
 type: poi
+score: 8.4
 ---
 
 Saumur has been a centre of French cavalry and armoured warfare since the 19th century, and the Musée des Blindés (Armoured Museum) is the unexpected result: one of the world's most comprehensive tank collections, with more than 880 vehicles from across the 20th century. Many are restored to running order and several are wheeled out for the annual Carrousel parade in July.

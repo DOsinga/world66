@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: Modern museum in the restored Alfred High School where Gandhi was a student
+score: 8.2
 ---
 
 A larger and more recent museum than the Kaba Gandhi No Delo, housed in the beautifully restored Alfred High School where Gandhi was a student from 1880 to 1887. The Indo-Saracenic stone building dates from 1875 and had fallen into disrepair before being reopened as a museum in 2017. The exhibits are professionally designed and cover Gandhi's life and the wider Indian independence movement in detail, with interactive displays, original photographs and documents, and a quiet meditation hall.

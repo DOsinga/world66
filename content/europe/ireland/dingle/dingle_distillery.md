@@ -6,6 +6,7 @@ longitude: -10.2893
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 Dingle Distillery was founded in 2012 in an old sawmill on the edge of town and is one of the small wave of independent Irish whiskey distilleries that have opened in the past decade. It distils whiskey, gin, and vodka, and is one of the few that uses traditional copper pot stills for its single malts rather than industrial column stills.

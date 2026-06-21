@@ -9,6 +9,7 @@ latitude: 47.9569
 longitude: 0.2086
 sources:
   - https://en.wikipedia.org/wiki/Mus%C3%A9e_des_24_Heures_du_Mans
+score: 8.2
 ---
 
 The Musée des 24 Heures du Mans sits at the entrance to the Circuit de la Sarthe and contains one of the finest collections of racing cars in Europe. More than 100 vehicles are on display, tracing the history of the 24 Hours race from the early 1920s through to recent decades. The collection includes actual race winners — including Le Mans-winning Porsches, Ferraris, Jaguars, and the legendary GT40 that ended Ferrari's dominance in 1966.

@@ -10,6 +10,7 @@ latitude: 50.5186
 longitude: 1.5750
 sources:
   - https://en.wikipedia.org/wiki/Le_Touquet
+score: 7.9
 ---
 
 Le Touquet's beach is one of the great Channel beaches — a wide, firm expanse of pale sand that stretches for several kilometres north and south of town. At low tide the sea retreats far enough to expose an enormous flat. The sand is hard enough for vehicles, which is why it became famous between the wars for land speed attempts.

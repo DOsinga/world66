@@ -6,6 +6,7 @@ longitude: 134.7536
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 Most Coober Pedy locals live underground; spending a night in a dugout is the closest a visitor gets to the experience. Several "underground motels" tunnel into the same kind of bedrock as the residential dugouts, with rooms that hold a steady 22–24°C year-round regardless of the 45°C outside. No windows; surprisingly quiet.

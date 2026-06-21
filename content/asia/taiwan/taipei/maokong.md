@@ -7,6 +7,7 @@ tags:
 - sight
 title: Maokong
 type: poi
+score: 8.2
 ---
 
 Maokong is a tea-growing hillside in the very south of the Taipei municipality, planted with bushes of the local **Tieguanyin** oolong tea since the 19th century. The slopes are gentle and the views back across the city are good; the area is studded with old-style **teahouses** where you brew your own tea on a charcoal stove and order small dishes of duck breast, tea-egg, and Hakka cooking to go with it.

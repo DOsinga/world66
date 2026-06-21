@@ -11,6 +11,7 @@ story: >
   entire personal fortune on the project — and died bankrupt just six months before
   it opened. The canal took 15 years to build, employed 12,000 workers at its peak,
   and included the world's first canal tunnel. Riquet never saw it carry a single boat.
+score: 7.1
 ---
 
 The Canal du Midi passes just north of Carcassonne's historic centre, linking the Atlantic at Toulouse to the Mediterranean at Sète across 240 kilometres of southern France. The stretch around Carcassonne is one of the most beautiful: the canal runs through a tunnel of ancient plane trees, with stone bridges, lock-keepers' houses, and the occasional working barge moving through the green corridor.

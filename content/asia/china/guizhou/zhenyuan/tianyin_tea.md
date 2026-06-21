@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.0491
 longitude: 108.4297
+score: 6.3
 ---
 
 Tianyin Tribute Tea (天印贡茶) has been produced in the hills above Zhenyuan for over 1,200 years — the name reflects its former status as an imperial tribute product sent to the court during the Tang dynasty. The tea gardens occupy hillsides above the Wuyang River valley, where the combination of altitude, humidity, and karst soils produces a green tea with a clean, slightly astringent character. It is not well-known outside Guizhou, which is part of its appeal.

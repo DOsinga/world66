@@ -8,6 +8,7 @@ latitude: 47.95
 longitude: 20.42
 story: >
   The Bükk Plateau is a karst landscape riddled with caves — over a thousand are known, more than in any comparable area in Hungary. The Szeleta Cave at the edge of Miskolc contains some of the earliest evidence of human habitation in central Europe, including leaf-shaped flint points from around 35,000 years ago. The plateau's unusual geology also produces the cold springs that feed Eger's famous water supply, a fact that was understood and valued long before modern hydrogeology explained why.
+score: 8.0
 ---
 
 The Bükk Hills rise directly north of Eger, and the Bükk National Park is one of the most rewarding natural areas in Hungary. The plateau landscape — forested limestone hills, clear streams, hidden gorges, and extensive cave systems — offers excellent hiking within an hour of the city centre.

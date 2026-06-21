@@ -7,6 +7,7 @@ tags:
 - cafe
 title: Hafez Tomb Teahouse
 type: poi
+score: 6.5
 ---
 
 The teahouse inside the gardens of the Tomb of Hafez is the obvious extension of a visit to the mausoleum. The pavilion sits beside a long rectangular pool, with cushions arranged on raised platforms and the smell of cypress and orange blossom in the air.

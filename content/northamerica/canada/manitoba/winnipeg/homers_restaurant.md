@@ -8,6 +8,7 @@ tags:
 title: Homer's Restaurant and Catering
 type: poi
 url: www.homersrestaurant.ca
+score: 5.3
 ---
 
 Decent Greek cuisine and pleasant atmosphere.

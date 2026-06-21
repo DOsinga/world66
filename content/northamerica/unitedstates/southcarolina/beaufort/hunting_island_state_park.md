@@ -8,6 +8,7 @@ tags:
 - park
 title: Hunting Island State Park
 type: poi
+score: 8.7
 ---
 
 Hunting Island, about a forty-five-minute drive east of Beaufort, is the most popular state park in South Carolina and one of the very few barrier islands on the coast that has been left undeveloped. Five miles of unbroken Atlantic beach front a maritime forest of palmettoes, magnolias, and slash pines slowly losing ground to sea-level rise — fallen trees skeletons line parts of the shore.

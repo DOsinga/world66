@@ -13,6 +13,7 @@ story: >
   killed themselves rather than be taken as slaves. The city's resistance became a symbol of defiance
   in Spanish culture — the name Numantia entered the language as an adjective meaning stubborn,
   unyielding resistance.
+score: 8.6
 ---
 
 Seven kilometres north of Soria, on a flat-topped hill overlooking the Duero valley, stand the excavated ruins of Numantia — one of the most significant archaeological sites in Spain. This was the capital of the Celtiberian Arevaci people, who resisted the Roman armies for two decades before falling to Scipio in 133 BC. The ruins visible today are largely Roman — the Celtiberian city beneath is only partially excavated — but the site communicates its historical weight powerfully.

@@ -9,6 +9,7 @@ tags:
 - sight
 - history
 story: "After the February 1945 firebombing, the Frauenkirche collapsed two days after the raid, its sandstone too weak to survive the heat. East Germany left the ruins as a deliberate anti-war memorial. When reconstruction began after reunification, international donors funded the effort — including Britain, whose bombers had destroyed it. The gilded cross on top was made by Frank Russell, the son of an RAF pilot who flew that night over Dresden."
+score: 9.6
 ---
 
 The Frauenkirche — Church of Our Lady — is the defining landmark of Dresden's skyline and one of the most resonant architectural symbols in Europe. The original church, completed in 1743 by George Bähr, was a masterpiece of Protestant Baroque: an enormous sandstone dome rising 91 metres over the old town, the interior a swelling oval of galleries and gilded stucco.

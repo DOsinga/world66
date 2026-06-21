@@ -8,6 +8,7 @@ longitude: 6.4121
 tags:
   - eating_out
   - restaurant
+score: 5.7
 ---
 
 A reliable old-school eetcafé on the corner of the Markt opposite the town hall. The kitchen runs from broodjes and bittergarnituur into proper plates of schnitzel, steak and the day's fish. Big terrace in summer and a fire in winter.

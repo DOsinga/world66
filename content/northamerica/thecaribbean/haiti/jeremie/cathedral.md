@@ -9,6 +9,7 @@ tags:
 - church
 title: St. Louis King of France Cathedral
 type: poi
+score: 5.4
 ---
 
 The cathedral stands on the central square, a white twin-towered Catholic church that doubles as Jérémie's most prominent landmark. The interior is plain and high-ceilinged, the windows mostly clear glass — practical for a town that has lost stained glass to too many storms.

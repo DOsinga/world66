@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   In 1993, Clayoquot Sound was the site of the largest act of civil disobedience in Canadian history. Over 900 people were arrested blockading logging roads in what became known as the "War in the Woods." The protests didn't stop all logging, but they drew international attention and ultimately led to UNESCO designating the sound a Biosphere Reserve in 2000.
+score: 9.6
 ---
 
 The archipelago of islands, inlets, and channels surrounding Tofino is one of the wildest coastlines in Canada. Clayoquot Sound covers around 350,000 hectares and is designated a UNESCO Biosphere Reserve, protecting old-growth forest, kelp forests, salmon rivers, and marine habitats in a connected wilderness that extends from the open Pacific coast to the mountains of the interior.

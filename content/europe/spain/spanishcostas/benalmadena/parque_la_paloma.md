@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.8
 ---
 
 Parque de la Paloma is a large free park behind the eastern beaches of Benalmádena, with a small lake, lawns, palm groves, and roaming peacocks, chickens, rabbits, and a couple of resident donkeys. It is essentially a free zoo with picnic space — much better for kids than the official paid attractions if you have any time to fill.

@@ -11,6 +11,7 @@ story: >
   rising above the palm fronds, which is essentially what you see when you arrive.
 sources:
   - https://en.wikipedia.org/wiki/Kasbah_Amridil
+score: 9.0
 ---
 
 Kasbah Amridil is the most celebrated and best-preserved of the ancient fortified residences scattered through Skoura's palm grove. The kasbah dates from the seventeenth century and was occupied continuously by the same family — the Nasiri — for several hundred years. It is still partially inhabited and accessible to visitors who make the effort to find it, which requires navigating several kilometres of paths through the grove.

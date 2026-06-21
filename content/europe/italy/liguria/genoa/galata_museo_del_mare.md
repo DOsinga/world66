@@ -12,6 +12,7 @@ story: >
   powered by oarsmen who were almost always enslaved or condemned criminals. Standing
   at the oar level and contemplating the dimensions gives a visceral sense of the
   conditions under which the Genoese maritime empire was built.
+score: 8.6
 ---
 
 The largest maritime museum in Italy, installed in a 17th-century Genoese dockyard warehouse right on the Porto Antico. The permanent collection spans the history of Genoa as a sea power, from the medieval republic's commercial reach across the Mediterranean to 20th-century emigration — the museum has a powerful section on the millions of Italians who crossed the Atlantic from Genova between 1892 and 1920.

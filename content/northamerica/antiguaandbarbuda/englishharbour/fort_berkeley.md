@@ -7,6 +7,7 @@ tags:
   - history
 title: Fort Berkeley
 type: poi
+score: 7.4
 ---
 
 Fort Berkeley guards the narrow entrance to English Harbour from a promontory of land that juts into the harbour mouth. Built by the British in the early 18th century, it was the first line of defence for the naval base: a cannon battery that could sweep the single navigable channel into the harbour. The combination of Fort Berkeley at sea level and the artillery emplacements on Shirley Heights above meant that any attacking vessel would face fire from both flanks simultaneously.

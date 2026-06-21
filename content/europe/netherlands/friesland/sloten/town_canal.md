@@ -7,6 +7,7 @@ snippet: The central canal, lined with 17th-century stepped-gable houses
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 The Voorstreek and Achterstreek run on either side of the central canal that bisects Sloten, and the row of stepped-gable merchant houses lining the water is the most photographed view in the town. The houses date mostly from the 17th and 18th centuries — small but tall, with characteristic Frisian masonry — and are largely unchanged from their original layouts.

@@ -8,6 +8,7 @@ tags:
 - sight
 - museum
 snippet: Commonwealth War Graves cemeteries marking the 53-day WWII battle for Keren, 1941
+score: 7.6
 ---
 
 At the Battle of Keren, 3,000 Allied soldiers died taking a position held by 23,000 Italian and colonial troops across mountain terrain cut by a single railway. The battle lasted 53 days — from February to March 1941 — before British and Commonwealth forces finally broke through. The Italian commander eventually blew the railway pass with explosives to deny it to the advancing British, but it was too late. Keren fell on 27 March 1941. The victory opened the road to Asmara and effectively decided the East African campaign.

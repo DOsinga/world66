@@ -8,6 +8,7 @@ latitude: 35.3897
 longitude: -94.4278
 sources:
   - https://www.marshalsmuseum.org/
+score: 8.2
 ---
 
 The United States Marshals Museum opened in July 2023 on the banks of the Arkansas River, in a striking star-shaped building designed to echo both the U.S. Marshals star badge and the region's frontier history. Fort Smith was chosen for the museum's home because more than 200 deputy marshals died in the line of duty while operating out of this town during the Judge Parker era — more than any other single posting in U.S. history.

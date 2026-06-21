@@ -7,6 +7,7 @@ tags:
 latitude: 6.8083
 longitude: -58.1487
 snippet: "Indian fine-dining restaurant in a colonial-era house"
+score: 6.8
 ---
 
 A well-regarded Indian restaurant on Sheriff Street serving North Indian classics — tandoori meats, butter chicken, dhal, biryani, naan from the clay oven — in a comfortable air-conditioned dining room. The chefs are Indian and the cooking is closer to subcontinental restaurant Indian than the Indo-Guyanese roti shops elsewhere in the city.

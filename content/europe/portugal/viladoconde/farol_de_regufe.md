@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.374387
 longitude: -8.754706
+score: 5.4
 ---
 
 The Farol de Regufe is a small lighthouse standing on a rocky point at the northern end of the beach that runs between Vila do Conde and Póvoa de Varzim. It marks a sandbar at the mouth of a minor coastal channel and has guided fishing boats along this stretch of the Atlantic coast since its construction in the early 20th century.

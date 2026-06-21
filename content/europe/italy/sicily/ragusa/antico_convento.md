@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.9257
 longitude: 14.7307
+score: 6.4
 ---
 
 Antico Convento is a reliable choice in Ragusa Superiore for Sicilian cooking that leans on the rich inland tradition rather than the coastal fish-and-capers template. Expect dishes built around pork from the Iblean hills, local cheeses, ricotta-stuffed pasta, and almond-based desserts.

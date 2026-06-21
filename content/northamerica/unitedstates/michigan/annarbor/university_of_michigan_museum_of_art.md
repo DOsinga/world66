@@ -8,6 +8,7 @@ tags:
   - museum
 story: >
   UMMA's collection includes one of the most important holdings of Whistler prints outside of Washington, D.C., a gift from alumnus Charles Lang Freer, the same collector whose bequest created the Freer Gallery at the Smithsonian.
+score: 8.6
 ---
 
 One of the largest university art museums in the country, UMMA holds over 20,000 works spanning 150 centuries. The collection is genuinely strong across several areas: Asian ceramics, African art, European old masters, and a deep selection of works on paper. Highlights include paintings by Monet, Cezanne, and Picasso, alongside significant pieces of contemporary art. The museum expanded in 2009 with a striking modern wing designed by Allied Works Architecture.

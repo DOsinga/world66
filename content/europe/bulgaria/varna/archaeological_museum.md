@@ -15,6 +15,7 @@ story: >
   plates that had been sewn onto the burial shroud. It was the oldest worked gold in
   the world, predating Egyptian goldwork by more than a thousand years. Marinov, cautious
   and honest, reported the find immediately rather than pocketing anything.
+score: 9.4
 ---
 
 This is one of the finest archaeological museums in southeastern Europe, and the display of the Gold of Varna — the extraordinary Chalcolithic gold hoard found in a nearby necropolis in 1972 — alone makes the trip worthwhile. The gold objects date to around 4,500 BC, which places them firmly in a period when Mesopotamia had not yet invented writing and Egypt had not yet begun to think about pyramids. That anyone was producing such sophisticated goldwork at this date, in this part of the world, comes as a genuine surprise.

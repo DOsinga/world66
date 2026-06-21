@@ -2,7 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
-  location_enrich: '2026-05-29'
+  location_enrich: '2026-06-02'
   poi_cleanup: '2026-04-19'
 image: phoenix.jpg
 image_attribution: Chris English

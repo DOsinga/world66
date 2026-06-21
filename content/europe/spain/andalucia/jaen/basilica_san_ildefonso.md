@@ -9,6 +9,7 @@ tags:
   - church
   - historic
 snippet: "Gothic-Renaissance basilica holding the icon of the city's patron Virgin."
+score: 7.6
 ---
 
 San Ildefonso is the second great church of Jaén after the cathedral. It is Gothic at the core (mostly 14th century) but with a Renaissance south facade by Vandelvira and a neoclassical west front by Ventura Rodríguez. The mix sounds awkward and is, but the church is genuinely striking.

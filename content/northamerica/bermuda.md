@@ -14,7 +14,7 @@ quick_facts:
   No Rental Cars: Visitors must use scooters, taxis, or buses
   Shipwrecks: "300+ wrecks in surrounding waters"
   Location: "1,070 km east of North Carolina — not Caribbean"
-score: 0.69
+score: 0.48
 loc_type: country
 ---
 

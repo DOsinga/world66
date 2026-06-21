@@ -8,6 +8,7 @@ tags:
 latitude: 38.7330
 longitude: 1.4141
 snippet: "A celebrated seafood restaurant at La Savina port, known for rice dishes and fresh Mediterranean fish"
+score: 6.4
 ---
 
 Can Carlitos sits at the waterfront in La Savina, close enough to the harbour that the gap between sea and table feels genuinely short. It is one of Formentera's most consistently praised restaurants — Michelin-listed, frequently full, and worth booking ahead. The cooking is Mediterranean with serious technique: *arroz cremoso* (a rich, creamy rice with seafood), grilled local fish, and tapas that show more imagination than the average beach-town kitchen. The ingredients are well-sourced and the execution is careful.

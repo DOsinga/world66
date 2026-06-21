@@ -11,6 +11,7 @@ story: >
   At its peak in early summer, Handa holds one of the largest concentrations of breeding seabirds in northwest Europe — more than 200,000 individual birds have been recorded on the island. The great skua, known in Scotland as the bonxie, nests on the moorland interior and aggressively defends its territory by dive-bombing anything — including humans — that comes too close to its chicks.
 sources:
   - https://en.wikipedia.org/wiki/Handa_Island
+score: 9.4
 ---
 
 Handa's seabird colonies are the reason most visitors make the crossing from [Tarbet](/europe/unitedkingdom/scotland/handa_island/tarbet_ferry). The north and west cliffs hold guillemots, razorbills, kittiwakes, fulmars, and shags in vast numbers, while a healthy puffin population burrows into the turf along the clifftop margins. The island is particularly important for razorbills, which use it as one of their major UK breeding sites. All species arrive from around April, reach peak activity through June and July, and are mostly gone by early August.

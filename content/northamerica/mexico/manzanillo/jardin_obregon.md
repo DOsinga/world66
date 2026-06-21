@@ -6,6 +6,7 @@ longitude: -104.3140
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 The central plaza of Manzanillo, the Jardín Obregón, sits between the port and the seafront and is the social heart of the old town. By evening, families come out, mariachis play next to the bandstand, taco carts arrive, and the small kiosks around the edge fill up.

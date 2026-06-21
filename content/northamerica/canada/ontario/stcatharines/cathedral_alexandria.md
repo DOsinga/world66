@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 6.1
 ---
 
 The Cathedral of St. Catherine of Alexandria is the mother church of the Roman Catholic Diocese of St. Catharines, just north of Montebello Park downtown. The current building, in a robust Romanesque-Revival idiom of brick and stone, dates from 1957 and replaced an earlier nineteenth-century church on the same site.

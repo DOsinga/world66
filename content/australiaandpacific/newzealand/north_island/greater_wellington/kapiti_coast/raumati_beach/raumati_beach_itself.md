@@ -11,6 +11,7 @@ story: >
   The beach faces due west, which means it catches every sunset over the Tasman Sea — and with Kapiti Island sitting a few kilometres offshore, those sunsets are something. On a clear evening the island turns purple against an orange sky while the tide comes in around your ankles.
 sources:
   - https://en.wikipedia.org/wiki/Raumati_Beach
+score: 8.1
 ---
 
 The beach itself is the main reason to be here. It runs for about two kilometres, wide and sandy, with a gentle slope that makes it easy going at low tide. The surf is modest most of the time — enough for a swim, rarely dangerous — though southerly swells can push up unexpectedly in winter.

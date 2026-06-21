@@ -8,6 +8,7 @@ tags:
 - museum
 title: Gljúfrasteinn
 type: poi
+score: 7.6
 ---
 
 The country house of Halldór Laxness, Iceland's only Nobel Prize-winning writer, sits in the Mosfellsdalur valley a few minutes' drive east of the town centre. The modernist white villa with its garden of birch trees was both home and writing studio from 1945 until his death in 1998. Auður Laxness, his widow, donated it to the state in 2002 and it opened as a museum two years later, kept almost exactly as it was the day they lived in it.

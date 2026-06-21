@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 49.4107
 longitude: 8.7153
+score: 7.8
 ---
 
 The Hortus Palatinus, the castle garden, was designed in the early 17th century by the French garden architect Salomon de Caus for Elector Frederick V. Terraces step down the hillside around the castle ruins, offering wide views over Heidelberg's Altstadt, the Neckar River, and the Rhine plain beyond.

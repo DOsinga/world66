@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 6.3
 ---
 
 The Tamale Cultural Centre is a modest complex where artisans from the north sell their work directly — a better option for buying crafts than the central market if you want to spend time looking at what you are getting. The stock reflects the distinct material culture of northern Ghana: handwoven fugu smock fabric in various patterns, leather goods including sandals and bags, carved and painted calabashes used for both decoration and daily life, and the distinctive guinea fowl motif that appears on everything from baskets to printed cloth.

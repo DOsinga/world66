@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 In the southern suburb of Viktring, a few kilometres outside Klagenfurt, the former Cistercian abbey of Viktring is one of the most important medieval buildings in Carinthia. Founded in 1142, the abbey survived until Joseph II suppressed the contemplative orders in 1786. The buildings now house a music gymnasium, but the abbey church and the cloister are open to visitors.

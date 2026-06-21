@@ -8,6 +8,7 @@ tags:
 - museum
 title: University Museum
 type: poi
+score: 7.1
 ---
 
 The science museum of Utrecht University, with hands-on exhibits on physics, anatomy, and the history of Dutch science. Entry includes access to the Oude Hortus, the university's 17th-century botanical garden tucked behind the building — worth the visit on its own in warm weather.

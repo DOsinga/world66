@@ -9,6 +9,7 @@ tags:
 - eating_out
 title: Au P'tit Mareyeur
 type: poi
+score: 5.7
 ---
 
 A tiny restaurant on rue Haute, tucked into one of the narrow streets behind the harbour. The menu is short and changes with what comes in from the boats — expect well-prepared fish and seafood at prices that feel reasonable for a town where many restaurants coast on the tourist trade.

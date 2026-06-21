@@ -14,6 +14,7 @@ story: >
   too small and too remote to be on the official lists. The hall is a single
   bay-deep, three-bay-wide structure, and it would not have been the spectacular
   prize that the great metropolitan monasteries were. Its insignificance saved it.
+score: 9.2
 ---
 
 Nanchan Temple stands on a low hillside in remote country some thirty kilometres south-west of Mt. Wutai proper. The main hall, dated to 782 CE by an inscription, is the oldest surviving wooden building in China — older than every other Tang structure by roughly seventy-five years and a clear seventy-five years older than Foguang. It is small: a single hall of three bays, with a heavily timbered overhanging roof and the simple, almost stark proportions that the late eighth century preferred.

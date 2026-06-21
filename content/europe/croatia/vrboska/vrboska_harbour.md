@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.1833
 longitude: 16.6698
+score: 7.8
 ---
 
 The defining feature of Vrboska is its inlet — a narrow channel that cuts a kilometre into the island, dividing the village into two halves connected by three stone bridges. The fishermen's boats moored along the quays, the houses rising directly from the water on both sides, and the way the channel narrows and turns have earned the village its nickname, Little Venice, though the comparison flatters both places for different reasons.

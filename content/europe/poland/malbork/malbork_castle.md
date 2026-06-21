@@ -15,6 +15,7 @@ story: >
   saved what you see today.
 sources:
   - https://en.wikipedia.org/wiki/Malbork_Castle
+score: 9.8
 ---
 
 Malbork Castle is the largest Gothic brick castle in the world and one of the finest medieval fortresses in Europe. Built from 1274 onwards by the Teutonic Knights as the headquarters of their monastic-military order, it grew over the centuries into a vast complex of three interconnected castles — the High Castle, the Middle Castle, and the Low Castle — set within walls, moats and towers along the Nogat River. The sheer scale of the place is staggering: the complex covers 21 hectares and contains more brick than any other Gothic building on earth.

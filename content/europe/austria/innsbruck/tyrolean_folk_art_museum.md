@@ -15,6 +15,7 @@ story: >
   grimacing devils, fantastical beasts, and costumed figures whose origins lie
   somewhere between Christian carnival and older mountain rituals that predate the church.
 url: https://www.tiroler-volkskunstmuseum.at
+score: 8.1
 ---
 
 Adjacent to the Hofkirche, the Tyrolean Folk Art Museum occupies a former monastery and holds one of the most substantial collections of Alpine folk culture in existence. The permanent collection spans traditional carved furniture, painted household items, religious folk art, textiles, and the panelled interiors of traditional Tyrolean farmhouses — entire rooms transported here from the valleys and reassembled in the museum.

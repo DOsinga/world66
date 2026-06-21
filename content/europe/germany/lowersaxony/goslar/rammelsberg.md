@@ -9,6 +9,7 @@ tags:
 - museum
 title: Rammelsberg Mining Museum
 type: poi
+score: 9.1
 ---
 
 The Rammelsberg is the reason Goslar exists. Mining of silver, copper, lead, and zinc went on continuously from the tenth century until 1988 — more than a thousand years of unbroken extraction, longer than any other mine in the world. When the last shift came up the ore was already running out, but the workings, the surface buildings, and centuries of equipment were left intact and turned into a museum.

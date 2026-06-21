@@ -8,6 +8,7 @@ latitude: 36.2748
 longitude: -6.0875
 sources:
   - https://en.wikipedia.org/wiki/Conil_de_la_Frontera
+score: 8.1
 ---
 
 The Barrio de la Villa is Conil's original walled old town, entered through the Arco de la Villa and spreading out around the Torre de Guzmán. It is the most visually coherent part of the town: narrow lanes of whitewashed houses, window boxes with geraniums, the occasional glimpse of a tiled courtyard, and a general quiet that contrasts with the beach bustle a few minutes' walk away.

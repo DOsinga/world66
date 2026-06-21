@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, history]
 latitude: 35.2925
 longitude: -98.989444
+score: 6.4
 ---
 
 Between 1883 and 1929, Andrew Carnegie funded the construction of 2,509 public libraries around the world, including 65 in Oklahoma. Cordell received one of these grants, and the resulting building — a modest but dignified red-brick structure near the courthouse square — opened in the early twentieth century. Carnegie libraries followed a recognizable pattern: a raised entrance with steps, symmetrical facade, large windows to let in reading light, and a general air of civic seriousness that matched Carnegie's belief that free access to books was one of the more important things a community could offer its residents.

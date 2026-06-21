@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 10.9850
 longitude: -11.2833
+score: 8.4
 ---
 
 The Ditinn Falls are the most dramatic waterfall in the Fouta Djallon, dropping 80 metres in a single plunge off the edge of a basalt escarpment into a forested valley. They are about 20 kilometres from Dalaba, accessible by rough track and then a steep 30-minute walk down into the gorge. The path is manageable but requires sensible footwear; the spray from the falls soaks the trail near the base.

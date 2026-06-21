@@ -9,6 +9,7 @@ tags:
 - beaches
 title: Patong Beach
 type: poi
+score: 7.8
 ---
 
 Patong is Phuket's most developed and most visited beach — a long crescent of sand backed by an unbroken wall of hotels, restaurants, bars, and shops. The sea is warm and generally swimmable outside of monsoon season (May–October), when red flags go up and the surf gets rough. During the high season the beach fills up fast, especially in the early afternoon.

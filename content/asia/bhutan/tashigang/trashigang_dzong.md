@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   Trashigang Dzong is built so close to the ridge that there is no parade ground inside, an unusual omission for a Bhutanese fortress. It was founded in 1659 to defend the eastern marches against repeated Tibetan invasions, and the cliffs that drop away on three sides did most of the defensive work themselves.
+score: 7.1
 ---
 
 Perched on a spur above the confluence of the Drangme Chhu and Gamri Chhu, Trashigang Dzong is one of the largest fortress-monasteries in Bhutan. The whitewashed walls rise sheer from the rock, capped with the deep red and gold roofs that mark every dzong. From the courtyard you look straight down into the gorge, which is the point — the founders chose a site that didn't need outer walls because the geography was a wall already.

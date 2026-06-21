@@ -9,6 +9,7 @@ snippet: 74,000-acre wetland refuge with hundreds of bird species on the Great S
 latitude: 41.5097
 longitude: -112.0694
 story: "The refuge was established in 1928 after botulism outbreaks killed millions of birds in the Bear River delta. A catastrophic flood in 1983 destroyed the original facilities, but the refuge was rebuilt and today protects one of the largest freshwater marshes in the American West."
+score: 8.8
 ---
 
 The Bear River Migratory Bird Refuge is a 74,000-acre wetland at the northern end of the Great Salt Lake, where the Bear River spreads into a broad delta of marshes, mudflats, and open water. It is one of the most important bird habitats in the Western Hemisphere — a critical stopover on the Pacific Flyway where millions of shorebirds, waterfowl, and songbirds rest and feed during migration.

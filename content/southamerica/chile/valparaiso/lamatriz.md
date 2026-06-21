@@ -9,6 +9,7 @@ tags:
 - church
 title: La Matriz
 type: poi
+score: 8.5
 ---
 
 The Iglesia de la Matriz is the oldest parish in Valparaíso, first built in 1559 in the port's original settlement at the bottom of the hills. The current building — the fifth on this site, completed in 1842 — anchors the Plaza Matriz, a rough-edged square that was once the commercial heart of the city.

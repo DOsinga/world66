@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 12.1155
 longitude: -86.2618
+score: 5.8
 ---
 
 Intermezzo del Bosque is Managua's best-known fine dining restaurant for special occasions, a long-running establishment set in a garden just outside the old downtown area with an outdoor terrace and forest views. The menu is international with Nicaraguan ingredients — grilled beef, fresh fish, and pasta alongside local specialities like gallo pinto and plantain sides.

@@ -9,6 +9,7 @@ latitude: 33.4289
 longitude: -111.8415
 story: >
   Mesa Grande is a Hohokam platform mound built between 1100 and 1400 CE, when the Hohokam people managed the most extensive pre-Columbian irrigation system in North America. At its peak, their canals moved water across hundreds of kilometres of desert. Then, around 1450, the culture collapsed — historians still debate exactly why.
+score: 7.8
 ---
 
 Mesa Grande Cultural Park preserves one of the largest Hohokam platform mounds in the region, a flat-topped earthen structure that served as the ceremonial and administrative centre of a community that flourished for centuries before European contact. The mound is substantial — 14 metres high — and the park surrounding it gives a genuine sense of the scale of the Hohokam civilisation that built it.

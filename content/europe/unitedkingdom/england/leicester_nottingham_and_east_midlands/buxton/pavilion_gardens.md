@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.2585
 longitude: -1.9184
+score: 7.8
 ---
 
 The Pavilion Gardens are a 23-acre Victorian park at the heart of Buxton, laid out in 1871 by Edward Milner — who had trained under Joseph Paxton, designer of the Crystal Palace. The park wraps around the River Wye and provides the green backdrop to the Opera House, Octagon Hall, and Pavilion Arts Centre, which together form Buxton's cultural cluster.

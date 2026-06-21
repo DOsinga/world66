@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, nature]
 latitude: 33.8534
 longitude: 73.7515
+score: 6.0
 ---
 
 The Poonch River runs through the valley below Rawalakot, and the drive along its banks gives a different perspective on the landscape — lower, greener, and more agricultural than the hilltop views from Toli Pir. Small villages line the river terraces, and the valley narrows into gorges in places where the road clings to the hillside.

@@ -12,6 +12,7 @@ story: >
   the entire race, alternately encouraging and restraining the animal, while the rider holds
   on and hopes for the best. The professional class, run separately, is far less chaotic
   and considerably faster.
+score: 7.9
 ---
 
 Held each August at the Yare Club and Campground about three kilometres outside Maralal, the International Camel Derby is one of East Africa's more unusual annual events. It draws participants from Kenya and beyond for a long weekend of camel racing that splits between a professional class for experienced jockeys and an amateur open class for anyone willing to rent a camel.

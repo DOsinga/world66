@@ -15,6 +15,7 @@ story: >
   architectural element that no designer would dare propose today.
 sources:
   - https://en.wikipedia.org/wiki/Pine_Tavern
+score: 6.5
 ---
 
 The Pine Tavern has been feeding people on the banks of Mirror Pond since 1936, making it Bend's oldest restaurant and one of the oldest in Oregon. The building was constructed around a ponderosa pine tree that was already there, and the tree — now enormous — grows up through the dining room floor and out through the roof. It is one of those genuinely charming accidents of American restaurant history.

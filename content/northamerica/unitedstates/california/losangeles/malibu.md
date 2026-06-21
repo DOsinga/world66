@@ -7,6 +7,7 @@ tags:
 - day_trips
 title: Malibu
 type: poi
+score: 7.8
 ---
 
 Malibu stretches for 27 miles along the Pacific Coast Highway north of Santa Monica, and the drive alone is worth the trip. The beaches are the main event -- Zuma for wide sandy space, Surfrider for watching (or attempting) the break that put Malibu on the surfing map, and El Matador for dramatic rock formations and photo ops.

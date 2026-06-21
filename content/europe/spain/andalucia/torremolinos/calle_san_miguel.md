@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 36.6228
 longitude: -4.4997
+score: 6.3
 ---
 
 Calle San Miguel is Torremolinos's main pedestrian street, running from the town centre down the hillside to the beach at Bajondillo. It is the spine of the old town, lined with shops, bars, ice-cream parlours, and restaurants. The upper section is more local and commercial; the lower section, where it descends via steps and ramps past the Torre de Pimentel, is more atmospheric and lined with souvenir stalls and small bars.

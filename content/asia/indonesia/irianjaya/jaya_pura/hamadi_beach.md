@@ -7,6 +7,7 @@ tags:
 latitude: -2.5825
 longitude: 140.7036
 snippet: WWII landing beach with rusting amphibious craft still on the sand
+score: 6.8
 ---
 
 Hamadi was the second Allied landing point in the Hollandia operation. Decades later, parts of the wreckage are still visible — two rusted amphibious landing craft remain half-buried on the beach, slowly disintegrating into the sand. A simple monument inland marks the operation.

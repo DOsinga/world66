@@ -14,6 +14,7 @@ story: >
   of the dilapidated buildings and used the bright colours to make them appealing to buyers.
   Before the 1930s they were unpainted brick. The colours became so popular that neighbours
   followed suit — and now tourists follow them.
+score: 6.9
 ---
 
 Thirteen pastel-coloured Georgian houses on East Bay Street, built between 1740 and 1820 as merchant warehouses opening onto the old wharves of Charleston Harbour. The houses are painted in shades of pink, peach, yellow, and mint — the most photographed streetscape in Charleston and one of the most recognisable in the American South.

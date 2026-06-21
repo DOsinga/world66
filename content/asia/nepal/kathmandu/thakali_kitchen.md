@@ -8,6 +8,7 @@ tags:
 latitude: 27.7158
 longitude: 85.3120
 address: Thamel, Kathmandu
+score: 6.3
 ---
 
 For an introduction to Thakali cuisine — the food of the Mustang region in northwestern Nepal, distinct from standard Nepali cooking — the Thakali Kitchen in Thamel is a reliable choice. The Thakali dal bhat uses a flat-topped brass tray and typically includes a more complex array of pickles, gundruk (fermented dried leaves), and thukpa (noodle soup) alongside the standard components.

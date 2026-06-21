@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Milwaukee_Public_Museum
 story: >
   The Streets of Old Milwaukee exhibit, which recreates a late-19th-century Milwaukee street in immersive detail inside the museum, has been largely unchanged since it opened in 1965. Generations of Milwaukee schoolchildren have taken field trips to it. When the museum announced plans to update it in 2020, the backlash from nostalgic locals was significant enough to slow the project considerably.
+score: 8.8
 ---
 
 The Milwaukee Public Museum is the kind of densely packed natural history and anthropology museum that the late 19th century built and the 21st century struggles to replicate. Founded in 1882, it has accumulated 4.5 million specimens and objects that fill 150,000 square feet of exhibit space in a way that feels overwhelming in the best possible sense.

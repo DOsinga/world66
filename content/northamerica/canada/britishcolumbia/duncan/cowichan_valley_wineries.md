@@ -7,6 +7,7 @@ tags:
   - wine
 latitude: 48.7787
 longitude: -123.708
+score: 6.8
 ---
 
 The Cowichan Valley has developed into Vancouver Island's most productive wine region over the past two decades, with a growing cluster of small vineyards and cideries along the back roads south and east of Duncan. The valley's mild maritime climate — Canada's warmest growing season — allows varieties including Pinot Gris, Pinot Noir, Ortega, and Marechal Foch to thrive in a way not possible elsewhere in the province.

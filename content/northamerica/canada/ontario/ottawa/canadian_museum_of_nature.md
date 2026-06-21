@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.4167
 longitude: -75.6870
+score: 8.0
 ---
 
 The Canadian Museum of Nature occupies a grand Victorian Gothic building (the original Victoria Memorial Museum, opened 1912) on McLeod Street, a ten-minute walk south of Parliament Hill. The building itself is unusual — its central tower collapsed in 1915 due to unstable ground, was replaced with a temporary flat roof, and wasn't properly restored with a new tower until 2010. The result is a building that feels simultaneously historic and freshly minted.

@@ -16,6 +16,7 @@ story: >
   The beach has repeatedly placed first in national rankings, including Dr. Beach's annual list,
   and the scientific explanation for why it feels different is something first-time visitors
   notice immediately.
+score: 8.8
 ---
 
 Siesta Key is the main beach and the reason most visitors come to Sarasota. The sand is so white and fine it squeaks underfoot, and the Gulf water is calm, clear, and bath-warm from May through October. The beach is wide — wide enough that even on a crowded winter weekend you can find a quiet patch. A concession stand, restrooms, and a volleyball area occupy the main public beach; the calmer stretch further south at Crescent Beach is better for families and anyone wanting less noise.

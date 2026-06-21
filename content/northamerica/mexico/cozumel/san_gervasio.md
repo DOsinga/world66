@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Before the Spanish arrived, every Maya woman was expected to visit San Gervasio at least once in her lifetime to make an offering to Ixchel, goddess of fertility and childbirth. Women crossed from the mainland by canoe — a journey of about 19 km — to leave figurines and weave cloth at the temples."
+score: 6.8
 ---
 
 San Gervasio sits at the centre of the island, a small set of low whitewashed temples and platforms scattered among the jungle. It was the most important Maya shrine on Cozumel and the only one of the island's roughly forty pre-Columbian sites that has been excavated and opened to the public.

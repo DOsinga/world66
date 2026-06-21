@@ -8,6 +8,7 @@ latitude: 36.8635
 longitude: -5.1808
 story: >
   The white tower visible from the mirador is all that remains of the original Moorish watchtower that gave Setenil its strategic value. Before the modern road was built, this position commanded the only practical route through the gorge — whoever held the tower controlled movement across a considerable stretch of the Serranía de Ronda.
+score: 7.8
 ---
 
 The Mirador del Carmen sits near the top of the village, close to the castle, and provides the best overview of Setenil's extraordinary geography. From here you look down into the gorge carved by the Trejo river, with the cave streets visible below — houses tucked under their stone canopies on both banks, the white walls vivid against the dark rock.

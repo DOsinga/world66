@@ -11,6 +11,7 @@ story: >
   punishment — a story that turns up in Andean oral tradition in several versions. Geologists
   have a less dramatic explanation: the columns are composed of compacted volcanic ash and clay
   called tuff, sculpted into spires by thousands of years of wind and rain erosion.
+score: 7.6
 ---
 
 Just over a kilometre east of the city centre, Torre Torre is one of the Mantaro Valley's strangest sights. Wind and rain have carved a hillside of soft volcanic material into clusters of tall earth columns, some reaching 30 metres high. They look more like a Cappadocian landscape than the Peruvian highlands. In the late afternoon the light turns the clay orange and the effect is striking.

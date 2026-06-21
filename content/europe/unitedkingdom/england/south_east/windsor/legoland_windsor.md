@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - family
+score: 5.4
 ---
 
 Legoland Windsor, about 4 kilometres south-west of the town centre, is the biggest of the Legoland theme parks worldwide and a major family attraction in southern England. It opened in 1996 on the site of the former Windsor Safari Park and has expanded steadily; the rides are gentle, the queues sometimes long, and almost everything is built out of, or themed around, Lego bricks.

@@ -8,6 +8,7 @@ latitude: 25.3115
 longitude: 91.7329
 sources:
   - https://en.wikipedia.org/wiki/Wah_Kaba_Falls
+score: 6.6
 ---
 
 Wah Kaba Falls is a waterfall north of Cherrapunji, less visited than Nohkalikai or the Seven Sisters but worth including on a day of waterfall touring. It drops over a basalt cliff face into a pool below, surrounded by lush monsoon vegetation. The surrounding area has good views of the valley.

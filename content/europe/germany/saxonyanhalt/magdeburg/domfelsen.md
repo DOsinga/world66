@@ -8,6 +8,7 @@ latitude: 52.1227
 longitude: 11.6367
 address: Elbufer, near Magdeburg Cathedral
 snippet: Rock outcrop projecting into the Elbe below the cathedral, a peaceful riverside spot with good views
+score: 6.0
 ---
 
 The Domfelsen is a natural rock formation that juts out into the Elbe directly below Magdeburg Cathedral — a flat-topped sandstone outcrop where the cathedral's foundations meet the river. It's a minor sight in itself, but the combination of the Gothic towers above, the broad Elbe in front, and the riverside path makes it one of the more atmospheric spots in Magdeburg.

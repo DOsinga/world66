@@ -10,6 +10,7 @@ neighbourhood: Old Town
 latitude: 41.3258
 longitude: 69.2369
 story: "The library here holds the Othman Quran, said to be the one Caliph Uthman was reading when he was assassinated in 656 AD — making it possibly the oldest surviving Quran in the world. Stains believed to be the caliph's blood are visible on the parchment."
+score: 8.4
 ---
 
 The religious centre of Tashkent, gathering several historic monuments around a wide paved plaza. The complex includes the Barak-Khan Madrasa (sixteenth century), the Tilla Sheikh Mosque, and the Mausoleum of Kaffal Shashi, a tenth-century Sufi philosopher. Restoration during the Karimov years gave everything a tidy, slightly artificial finish, but the buildings are still genuinely old.

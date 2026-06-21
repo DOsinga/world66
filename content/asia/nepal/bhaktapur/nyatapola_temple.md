@@ -16,6 +16,7 @@ story: >
   the goddesses Baghini and Singhini at the top. Each pair is said to be ten times stronger than
   the pair below — the wrestlers are ten times the strength of a man, the top goddesses 100,000
   times stronger. The deity inside has never been publicly identified.
+score: 9.0
 ---
 
 The Nyatapola is Bhaktapur's most imposing structure — a five-tiered pagoda temple rising 30 metres from the base of its stepped plinth in Taumadhi Square. Built in 1702, it is the tallest temple in Nepal and has survived both the 1934 and 2015 earthquakes with minimal damage, a testament to the Newari construction technique of interlocking brick and flexible timber framing.

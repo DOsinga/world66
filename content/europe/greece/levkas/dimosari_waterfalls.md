@@ -6,6 +6,7 @@ longitude: 20.6500
 tags:
 - things_to_do
 - sight
+score: 6.4
 ---
 
 A series of small waterfalls and rock pools in a narrow gorge above Nydri, reached by a 20-minute walk up a marked path from the village of Rachi. The falls are best in spring; by August most of the upper pools have dried out, but the main pool at the foot of the gorge holds water year-round and is good for a cold dip.

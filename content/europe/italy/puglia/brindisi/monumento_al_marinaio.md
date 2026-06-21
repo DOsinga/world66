@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Brindisi
 story: >
   The monument was inaugurated in 1933 by Mussolini, who flew to Brindisi for the ceremony in a floatplane, landing in the very harbour the monument overlooks. The occasion was considered a demonstration of Italy's naval and aerial power; in practice, the regime used the monument primarily as a backdrop for propaganda photographs.
+score: 6.7
 ---
 
 The Monument to the Italian Sailor stands on the promontory at the edge of the outer harbour — a tall cruciform column rising 53 metres, decorated with anchors, ships' prows, and patriotic reliefs. It was built in the 1930s as a memorial to Italian sailors killed in the First World War and is one of the most visible landmarks on the Brindisi skyline.

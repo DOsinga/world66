@@ -12,6 +12,7 @@ story: >
   attempt to swim through "The Arch" — a tunnel at 55 metres that connects the hole to the open sea — which
   is beyond the range of recreational diving and into territory where nitrogen narcosis distorts judgment
   catastrophically. Signs at the surface now warn of the danger.
+score: 9.4
 ---
 
 The Blue Hole is the most famous dive site in the Red Sea, a near-circular underwater sinkhole about 8 kilometres north of Dahab whose floor drops to more than 100 metres. Even from the surface, looking down into that deep blue circle of water is mesmerizing. The shallow ledge around the rim — just 6 metres down — is accessible to snorkellers and gives a taste of the extraordinary clarity without the risk.

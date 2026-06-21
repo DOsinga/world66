@@ -7,6 +7,7 @@ tags:
 - sight
 snippet: Riverside Shiva temple at the village of Zadeshwar, popular with pilgrims at the Narmada's edge
 type: poi
+score: 6.6
 ---
 
 The Nilkantheshwar Temple sits at the edge of the village of Zadeshwar, a few kilometres south of Bharuch, where the Narmada broadens towards the sea. The temple is dedicated to Shiva in his Nilkantha form — "the blue-throated one" — and draws pilgrims from across south Gujarat. The setting on the riverbank is the main attraction: the wide, tidal Narmada estuary, the light on the water in the early morning, and the long views across to the south bank.

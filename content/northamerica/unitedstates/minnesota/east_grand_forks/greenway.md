@@ -7,6 +7,7 @@ tags:
 latitude: 47.9261
 longitude: -97.0281
 story: The 1997 Red River flood inundated most of East Grand Forks, including entire residential neighborhoods that were never rebuilt. Rather than reconstruct in the floodplain, the city acquired the land and converted it into a continuous greenway — turning disaster into one of the best urban park systems in the region.
+score: 7.2
 ---
 
 The greenway that runs along the Red River and Red Lake River through East Grand Forks is the most visible legacy of the catastrophic 1997 flood, when the river crested at nearly 17 metres above flood stage and inundated most of the city. Entire neighborhoods were bought out and cleared rather than rebuilt, and the land was converted into a 22-kilometre corridor of parkland, trails, and open space that now wraps around the city.

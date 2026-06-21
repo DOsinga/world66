@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 36.3386
 longitude: -96.8025
+score: 6.4
 ---
 
 The Pawnee County Courthouse is a three-story Art Deco brick building that anchors the town's central square. Built in the 1930s, it is one of the better small-county courthouses in Oklahoma — the proportions are good and the details, including the decorative stonework and the original metalwork on the entrance, have been maintained.

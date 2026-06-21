@@ -9,6 +9,7 @@ longitude: 25.2883
 story: "The theatre is named after the Nobel Prize-winning Greek poet Odysseas Elytis, who won the Nobel Prize for Literature in 1979. It was designed by Peter Haupt, a German professor of architecture at the Technical University of Berlin, as a gift to the island — an unlikely collaboration that produced one of the finest small theatres in the Cyclades."
 sources:
   - https://en.wikipedia.org/wiki/Odysseas_Elytis_Theatre
+score: 6.9
 ---
 
 The Odysseas Elytis Open-Air Theatre is a beautiful small amphitheatre between the port of Yialos and Chora, designed in the classical Greek style by architect Peter Haupt. It seats a few hundred people in a natural hollow with the Aegean as backdrop, and hosts concerts, theatrical performances, and cultural events during summer.

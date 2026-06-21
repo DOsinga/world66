@@ -1,12 +1,16 @@
 ---
-title: Astana
-type: location
-latitude: 51.1282
-longitude: 71.4307
 done:
   location_cleanup: 2026-04-06
-score: 0.49
+  location_enrich: '2026-06-01'
+image: astana.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Astana_from_Radison_Hotel.jpg
+latitude: 51.1282
 loc_type: city
+longitude: 71.4307
+score: 0.49
+title: Astana
+type: location
 ---
 
 Astana is the capital of Kazakhstan, purpose-built on the vast Kazakh steppe about 1,200 kilometres northwest of Almaty. It became the capital in 1997, and since then an extraordinary building boom has transformed what was a modest provincial city into a showcase of futuristic architecture.

@@ -10,6 +10,7 @@ tags:
   - swimming
 snippet: A huge open sinkhole in the centre of Valladolid
 story: "The Maya considered cenotes sacred gateways to the underworld, Xibalba, and used them for both ritual offerings and as a steady water source in a peninsula with almost no surface rivers. Saki, the original Mayan name for Valladolid, comes from the same root as Zací — it means white sparrowhawk."
+score: 7.6
 ---
 
 A large, partially open cenote right in the centre of Valladolid, a few blocks east of the main plaza. Half the cave roof has collapsed, so the swimming hole sits in a great circular bowl of pale limestone overhung by vines and tree roots. A path spirals down inside the cliff to the water; black catfish (*lub*) swim near the surface in the shadows.

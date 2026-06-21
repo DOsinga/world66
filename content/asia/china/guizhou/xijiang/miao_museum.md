@@ -8,6 +8,7 @@ latitude: 26.4966
 longitude: 108.1699
 story: >
   The museum's collection of Miao silver is among the best-documented in Guizhou. The full festival outfit of a Miao bride from this region — headdress, collar pieces, necklaces, bracelets, and bodice ornaments — can weigh up to 15 kilograms of silver. The working display shows the filigree technique: fine silver wire twisted and shaped by hand into the geometric and zoomorphic forms that have been the dominant aesthetic of Miao silverwork for at least 400 years. The skill is transmitted within families, and the best silversmiths here are known by name throughout the province.
+score: 7.2
 ---
 
 The Miao Museum at Xijiang occupies a traditional building near the main square and provides the most accessible English-language context for the history and material culture of the Miao people of the Leigongshan area. The displays cover the migration history of the Miao, the festival calendar, the meaning of embroidered motifs, and the silverwork tradition.

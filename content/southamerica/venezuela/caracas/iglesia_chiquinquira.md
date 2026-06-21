@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sabana_grande
   - sight
+score: 5.7
 ---
 
 The neo-Romanesque Church of the Chiquinquirá, on the boulevard of Sabana Grande, was built between 1939 and 1944 and is the main parish church of the eastern colonial-era district that gave Sabana Grande its name. The brick façade with its tall pointed gable looks more central-European than tropical and is one of the more recognisable buildings on the eastern half of the boulevard.

@@ -7,6 +7,7 @@ tags:
   - theatre
 latitude: 41.863611
 longitude: -103.662222
+score: 6.8
 ---
 
 Built in 1946, the Midwest Theater on Broadway is a well-preserved example of mid-century movie palace architecture in the Nebraska Panhandle. The building's art moderne facade and original interior fittings have been maintained, making it an attractive venue for its continued programme of films and live performances.

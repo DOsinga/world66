@@ -8,6 +8,7 @@ address: "Via Gasparo da Salò 13, Brescia"
 latitude: 45.5412
 longitude: 10.2206
 snippet: "Medieval and Renaissance sacred art in the cloister of San Giuseppe"
+score: 6.6
 ---
 
 The Diocesan Museum of Brescia occupies the great cloister of the Monastery of San Giuseppe, a few steps from Piazza della Loggia. The collection covers the artistic patrimony of the Diocese of Brescia from the medieval period through the 18th century: altarpieces, illuminated manuscripts, reliquaries, and a strong selection of paintings by local masters including Moretto da Brescia and Romanino.

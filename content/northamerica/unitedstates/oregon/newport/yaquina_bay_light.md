@@ -14,6 +14,7 @@ story: >
   Historical Society and is now reputed to be haunted — a local legend
   about a young woman murdered in the wooden tower keeps tour groups
   delighted.
+score: 6.9
 ---
 
 Yaquina Bay Lighthouse is the oldest standing structure in Newport — a small two-story white timber house with a stubby tower built directly on top, set above the north entrance to the bay. It was decommissioned long ago but restored to its 1870s appearance and is open as a museum.

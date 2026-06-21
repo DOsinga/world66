@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 37.2950
 longitude: -96.9550
+score: 6.2
 ---
 
 A 1,200-acre reservoir 13 kilometres north of town, built in 1925 to supply Winfield with water and now the city's main outdoor playground. Channel catfish, largemouth bass, and white crappie are the usual catches; the surrounding hills are wooded with oak and hickory and turn rust-coloured in October.

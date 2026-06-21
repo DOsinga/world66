@@ -8,6 +8,7 @@ latitude: 22.0241
 longitude: 96.4487
 sources:
   - https://en.wikipedia.org/wiki/Defence_Services_Academy
+score: 4.2
 ---
 
 The Defence Services Academy is Myanmar's premier military training institution, occupying a vast campus on the edge of Pyin Oo Lwin. The campus buildings mix colonial-era structures with later additions, and the grounds are extensive. While access inside is restricted, the view of the academy from the road gives a sense of the institution's scale.

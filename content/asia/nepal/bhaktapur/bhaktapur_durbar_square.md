@@ -16,6 +16,7 @@ story: >
   proceeded slowly; some scaffolding remains. The ticket price (charged to foreigners at the main
   entrance) contributes to ongoing restoration, which is among the more complex heritage
   reconstruction projects in Asia.
+score: 9.5
 ---
 
 Bhaktapur Durbar Square is the ceremonial and political centre of the old city — a complex of temples, shrines, courtyards, and palace buildings accumulated over several centuries of Malla dynasty rule. The square is entered through a gate off the main road, and a ticket is required for foreign visitors; the revenue goes toward restoration work that has been ongoing since the 2015 earthquake.

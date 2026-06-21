@@ -6,6 +6,7 @@ tags:
 - sight
 title: Tigris Riverfront
 type: poi
+score: 6.0
 ---
 
 The Tigris at Tikrit is broad and fast-moving, and the view from the riverbank — particularly from the high ground near the citadel — is one of the most striking in the city. The river has been the reason for Tikrit's existence across every era of its history: a ford, a ferry crossing, a defensive barrier, a source of water in an arid landscape.

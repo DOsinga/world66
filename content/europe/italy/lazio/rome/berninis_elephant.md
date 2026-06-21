@@ -13,6 +13,7 @@ tags:
 - square
 title: Bernini's Elephant & Obelisk
 type: poi
+score: 6.8
 ---
 
 A small marble elephant carrying an ancient Egyptian obelisk on its back, designed by Bernini in 1667 and standing in the piazza beside the church of Santa Maria sopra Minerva. One of the more charming of Bernini's Roman works — the elephant was carved by Ercole Ferrata to Bernini's design, and Bernini is said to have intended it as a symbol of wisdom supporting ancient learning.

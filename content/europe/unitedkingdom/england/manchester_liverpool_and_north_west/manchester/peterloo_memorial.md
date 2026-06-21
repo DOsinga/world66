@@ -17,6 +17,7 @@ story: >
   200 years before unveiling a proper memorial in 2019.
 sources:
   - https://en.wikipedia.org/wiki/Peterloo_massacre
+score: 7.8
 ---
 
 The Peterloo Memorial, unveiled in 2019 on the 200th anniversary of the massacre, stands on Peter Street at the site of one of the most significant events in British political history. The memorial — a series of concentric circles rising from the ground, inscribed with the names of the dead — was designed by Jeremy Deller and is deceptively simple but quietly powerful.

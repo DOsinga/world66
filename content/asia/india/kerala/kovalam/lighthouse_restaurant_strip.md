@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 8.3882
 longitude: 76.9782
+score: 4.9
 ---
 
 The strip of restaurants climbing the cliff behind Lighthouse Beach is where most visitors to Kovalam eat most evenings. The restaurants are built on terraces of different heights, giving each a slightly different view of the beach and sea below. Most menus are virtually identical — grilled fish, prawn curry, lobster, crab masala, Western breakfasts, fresh lime soda — but the quality of the fish varies. The places that have been operating longest and have the most repeat business tend to be the better cooks; a full terrace at 7pm is a reasonable indicator.

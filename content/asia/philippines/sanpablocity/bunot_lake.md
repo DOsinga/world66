@@ -8,6 +8,7 @@ tags:
 snippet: Scenic crater lake near the city known for its sunset views
 latitude: 14.0450
 longitude: 121.3150
+score: 6.6
 ---
 
 Bunot Lake lies southeast of the city centre, a compact volcanic crater lake surrounded by dense vegetation and small fish farms. Locals call it the Sunset Lake of San Pablo — the western orientation of the lake and the low ridgeline to the east make for particularly vivid late-afternoon light over the water. A rough path encircles most of the shore.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Wat Dane Soung Jungle Temple
 type: poi
+score: 6.0
 ---
 
 About 70 kilometres north-west of Vientiane, on the Vang Vieng road, a forgotten temple shelters under a rock overhang on the Dane Soung Plateau. A row of seated Buddha statues, some still wrapped in saffron cloth, line the back of the cave. Local pilgrims leave incense and flowers; outside the high holy days, you may be the only visitor.

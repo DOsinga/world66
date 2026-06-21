@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.3497
 longitude: -75.9321
+score: 7.2
 ---
 
 The Historical Society of Berks County occupies a solid 19th-century building on Centre Avenue in north Reading and maintains the main local history collection for the county. The collections focus on the Pennsylvania German (Pennsylvania Dutch) heritage that defines much of Berks County's cultural character, along with the industrial and commercial history of Reading itself.

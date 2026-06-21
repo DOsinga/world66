@@ -15,6 +15,7 @@ story: >
   their business.
 sources:
   - https://en.wikipedia.org/wiki/Edmonton_International_Fringe_Theatre_Festival
+score: 8.8
 ---
 
 The Edmonton International Fringe Theatre Festival runs for eleven days in August in Old Strathcona, and it is one of the best reasons to be in Edmonton in summer. The festival is the second-largest fringe in the world, presenting over 1,500 performances across more than 40 indoor and outdoor venues. The shows range from professional touring productions to student groups making their first Fringe appearance — and the selection policy is deliberately non-curatorial.

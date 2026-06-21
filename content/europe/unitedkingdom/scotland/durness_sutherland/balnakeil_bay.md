@@ -7,6 +7,7 @@ tags:
 latitude: 58.576
 longitude: -4.768
 snippet: Sheltered white-sand bay a short walk from Durness village
+score: 8.8
 ---
 
 Balnakeil Bay is a beautiful crescent of white sand less than two kilometres from the centre of Durness — easily walked. The bay is sheltered by the headland to the north and backed by dunes and machair grassland. The water runs remarkably clear for the far north of Scotland, with turquoise shallows in good light.

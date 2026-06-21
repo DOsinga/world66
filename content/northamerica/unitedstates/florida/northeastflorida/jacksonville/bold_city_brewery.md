@@ -8,6 +8,7 @@ tags:
 address: 2670 Rosselle St, Jacksonville, FL
 latitude: 30.3158
 longitude: -81.6844
+score: 6.4
 ---
 
 Bold City Brewery is one of Jacksonville's oldest and most established craft breweries, operating out of a warehouse space in Riverside with a large taproom, outdoor seating, and a rotating selection of beers that leans toward approachable lagers, IPAs, and seasonal releases. The Duke's Cold Nose Brown Ale and 1901 Red Ale are the flagship beers that most Jacksonville drinkers know.

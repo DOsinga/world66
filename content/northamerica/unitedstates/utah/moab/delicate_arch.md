@@ -8,6 +8,7 @@ latitude: 38.7435
 longitude: -109.4991
 story: >
   Delicate Arch was known to early settlers as "the chaps" or "the schoolmarm's pants" for its outline against the sky. It appeared on Utah's licence plate from 1956 but was first photographed by a National Park Service ranger in 1934. Its current name came from a 1934 survey party who found it unusually delicate-looking compared to the more robust formations nearby.
+score: 9.0
 ---
 
 Delicate Arch is Utah's most iconic image — a 52-foot freestanding sandstone arch balanced on the rim of a canyon with the La Sal Mountains rising behind it. Up close, it is more imposing than the licence plate suggests: the arch is wide enough to drive a truck through and the setting, on a natural sandstone amphitheatre above a canyon drop, is extraordinary.

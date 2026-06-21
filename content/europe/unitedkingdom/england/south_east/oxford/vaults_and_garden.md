@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 51.7528
 longitude: -1.2538
+score: 7.2
 ---
 
 The Vaults and Garden Cafe occupies the vaulted 14th-century congregation house of the University Church of St Mary the Virgin, spilling out into the churchyard garden that overlooks Radcliffe Square. The setting is exceptional — you eat among medieval stone arches and then, if the weather is good, in a garden with one of the finest views in Oxford across the Camera and the Bodleian dome.

@@ -13,6 +13,7 @@ story: >
   mountain was declared sacred and off-limits to climbing — a designation that Tibetan
   Buddhists had always maintained. The bodies of some expedition members were not recovered
   for several years, preserved in the ice.
+score: 9.6
 ---
 
 Meili Snow Mountain is a massif of thirteen peaks straddling the Yunnan-Tibet border, with eight summits above 6,000 metres. The principal peak, Kawa Karpo, rises to 6,740 metres and is considered one of the most sacred mountains in Tibetan Buddhism — along with pilgrimage sites in Tibet, Nepal, and Bhutan, it forms part of a circuit that devout pilgrims walk over several weeks. The mountain's Tibetan name translates roughly as "White Snow Prince of the King of Dharma."

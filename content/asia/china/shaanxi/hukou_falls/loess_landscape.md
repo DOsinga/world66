@@ -8,6 +8,7 @@ latitude: 36.1400
 longitude: 110.4300
 story: >
   The loess of the northern Shaanxi plateau is wind-deposited dust accumulated over hundreds of thousands of years from Central Asian deserts. It has been eroded by the Yellow River and its tributaries into a landscape of gullies, ravines, and flat-topped mesas unlike anything else on earth. The Yellow River carries more sediment per unit volume than any other major river in the world — almost entirely this loess — which gives it its characteristic colour and makes it one of the most sediment-loaded rivers that exists.
+score: 7.9
 ---
 
 The landscape around Hukou Falls is as interesting as the falls themselves. The loess plateau here is an ancient, heavily eroded surface: the Yellow River has cut down through hundreds of metres of compacted wind-blown dust, creating deep gorges and exposing the layered geology in the cliff faces on both banks. The terracotta colour of the cliffs, the yellow-brown river, the grey-green poplars on the floodplain, and the ochre-tiled farmhouses on the terraced slopes above combine into a specifically Chinese landscape with no analogue elsewhere.

@@ -9,6 +9,7 @@ tags:
 story: When the Roch Run was cut on Aspen Mountain in 1937 it became one of the longest ski trails in the United States — over four kilometres of continuous descent. The chairlift that opened on the mountain in 1947 was, briefly, the longest single-stage chairlift in the world.
 title: Aspen Mountain (Ajax)
 type: poi
+score: 8.9
 ---
 
 Known to everyone simply as Ajax, Aspen Mountain rises straight out of the town centre and has the steepest in-town vertical of any major North American ski resort — 1,000 metres from the base at the Silver Queen Gondola to the summit. There are no beginner runs anywhere on the mountain; every trail is rated intermediate or above, and the steep bump runs on the east face (Bell Mountain, Walsh's, Hyrup's) are some of the most demanding lift-served terrain in Colorado.

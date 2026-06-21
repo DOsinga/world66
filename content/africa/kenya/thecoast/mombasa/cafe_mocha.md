@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 - cafe
 - nyali
+score: 4.8
 ---
 
 Cafe Mocha at the Nyali City Mall is the most reliable spot for a proper cappuccino on the mainland — Italian-style espresso, cold-pressed juices, plenty of pastries, free wifi, and air-conditioning that actually works. A useful pit stop if you're killing time before the ferry or working from the road.

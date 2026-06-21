@@ -5,6 +5,7 @@ latitude: 33.685
 longitude: -117.832
 snippet: "An Irvine institution serving Armenian-California fusion that has outlasted decades of suburban turnover"
 tags: [eating_out, restaurant]
+score: 5.4
 ---
 
 Zov's Bistro is one of Irvine's few genuinely historic restaurants — a local institution in a city that doesn't have many. Founded by chef Zov Karamardian, it has been serving Armenian-inflected California cuisine since 1987, which in Irvine terms makes it practically ancient. The longevity is well-earned: the kitchen handles Mediterranean flavours with confidence, and the menu has evolved over the decades without losing its identity.

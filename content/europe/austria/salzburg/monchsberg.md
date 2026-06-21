@@ -6,6 +6,7 @@ longitude: 13.0500
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 The narrow forested ridge that rises directly behind the old town is a 500-metre limestone cliff with footpaths along the top, viewpoints over the city, the Modern Art Museum near the western end, and several remarkably good little wood-and-stone shelters from the 19th century.

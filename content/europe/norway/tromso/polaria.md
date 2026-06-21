@@ -12,6 +12,7 @@ story: >
   ashore by pack ice — tilted slabs of concrete leaning against each other
   at odd angles. From the harbour, it reads as a piece of Arctic geology that
   has wandered into the city.
+score: 6.6
 ---
 
 Polaria opened in 1998 as an Arctic experience centre and aquarium. The five-screen panoramic cinema shows films about northern Norway and the Arctic, and the main hall covers Arctic exploration history. The highlight for most visitors is the bearded seal pool, where seals are fed twice a day and can be observed through underwater viewing tunnels.

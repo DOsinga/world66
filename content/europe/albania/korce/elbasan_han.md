@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 The Elbasan Han is one of the few surviving Ottoman caravanserais in Albania, built in the 18th century to lodge merchants and their pack animals trading between Korçë and Elbasan. The two-storey stone building wraps a courtyard, with arched ground-floor stables and upper-floor rooms reached by a wooden balcony.

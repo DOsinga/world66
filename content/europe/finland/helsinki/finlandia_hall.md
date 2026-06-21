@@ -8,6 +8,7 @@ longitude: 24.934444
 story: The 1975 Helsinki Accords on European security were signed in this hall —
   the document that gave its name to the OSCE and to a generation of dissident
   human-rights organisations across the Eastern Bloc.
+score: 7.9
 ---
 
 Alvar Aalto's last great civic building, completed in 1971 on the western shore of Töölö Bay. The white Carrara marble cladding has been a maintenance headache in the Finnish climate — the panels have been replaced twice — but the form, with its asymmetric asymmetric cliff-like fan rising above the lake, remains one of Aalto's defining works.

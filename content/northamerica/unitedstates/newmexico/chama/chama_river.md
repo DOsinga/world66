@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.7800
 longitude: -106.6200
+score: 7.4
 ---
 
 Below Chama, the river cuts through a spectacular canyon of red sandstone before eventually joining the Rio Grande. The Chama River Wilderness, protected since 1978, covers the most dramatic section — about 50 miles of canyon accessible primarily by raft or kayak, with limited hiking trails from the rim. The river is a Class II-III run with some technical sections, attractive to paddlers in the spring and early summer when water levels are up.

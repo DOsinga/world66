@@ -13,6 +13,7 @@ story: >
   a Bolshevik revolutionary who was born in Kuressaare. In 1990, before Estonian independence was even
   restored, the town became the first in the USSR to hold its own free local elections — and immediately
   voted to restore all the original Estonian place names.
+score: 9.4
 ---
 
 The Kuressaare Episcopal Castle is the centrepiece of the town and one of the most remarkably complete medieval fortresses in the entire Baltic region. Built for the bishops of Ösel-Wiek beginning in the late 13th century, the main tower was completed in the 14th century and the outer curtain wall added over the following decades. Unlike many Baltic castles reduced to ruin or rebuilt beyond recognition, Kuressaare's has survived in exceptional condition — you can walk the full circuit of the ramparts, explore the vaulted halls and cellars, and emerge on the towers with a clear view across the bay.

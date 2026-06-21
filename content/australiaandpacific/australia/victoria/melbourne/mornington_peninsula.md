@@ -7,6 +7,7 @@ latitude: -38.3830
 longitude: 145.0660
 sources:
   - https://en.wikipedia.org/wiki/Mornington_Peninsula
+score: 8.1
 ---
 
 The Mornington Peninsula is Melbourne's most accessible escape, a long arm of land separating Port Phillip Bay from Western Port about an hour south of the city by car. The bay side has calm, clear water and beaches suited to families; the ocean side faces Bass Strait with surf beaches and dramatic cliff scenery. The peninsula has a well-established wine region specialising in cool-climate Pinot Noir and Pinot Gris, with dozens of cellar doors along the Red Hill and Merricks ridges, many with excellent on-site restaurants.

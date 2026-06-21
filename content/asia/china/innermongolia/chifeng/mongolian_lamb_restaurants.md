@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 42.2630
 longitude: 118.9000
+score: 6.1
 ---
 
 The cluster of Mongolian-style restaurants in Chifeng's older commercial district, roughly centred on the streets southwest of Hongshan Park, is the best place to eat in the city. The format is consistent across several good establishments: hand-caught lamb (手抓羊肉), where the meat is boiled whole with minimal seasoning and served on large platters for tearing apart with your hands, accompanied by milk tea and steamed buns. The lamb from the surrounding Hexigten grasslands is genuinely different from what you find in Beijing restaurants — leaner, more fragrant, and without the strong lanolin smell that sometimes accompanies farmed animals.

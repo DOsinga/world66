@@ -9,6 +9,7 @@ tags:
   - sight
   - beach
   - swimming
+score: 8.1
 ---
 
 Andilana, on the northwestern tip of Nosy Be, is the most famous beach on the island — long, white, lined with palms, and angled to catch the best sunsets in the country. The water is calm and shallow for hundreds of metres out, which makes it good for swimming but indifferent for snorkelling.

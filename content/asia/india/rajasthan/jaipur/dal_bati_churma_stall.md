@@ -8,6 +8,7 @@ latitude: 26.9219
 longitude: 75.8263
 address: Old City area, Jaipur
 snippet: The signature Rajasthani meal — baked wheat dumplings with lentil soup and sweetened wheat — found across the old city
+score: 5.9
 ---
 
 Dal bati churma is the dish that defines Rajasthani cooking — three components served together: dal (five-lentil soup), bati (hard wheat dumplings baked in an outdoor fire or oven), and churma (sweetened coarsely ground wheat mixed with jaggery and ghee). It is rich, filling, and completely different from the North Indian restaurant food most visitors know.

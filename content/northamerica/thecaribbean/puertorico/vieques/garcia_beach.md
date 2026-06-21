@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 18.1058
 longitude: -65.4072
+score: 8.2
 ---
 
 Tucked between Red and Blue beaches inside the wildlife refuge, Garcia — locally called Pata Prieta — is the quietest of the three. A short walk down from the parking pull-off opens onto a perfect horseshoe of pale sand, ringed by sea-grape trees and protected from swell. Even on busy weekends you can usually find a stretch of sand to yourself.

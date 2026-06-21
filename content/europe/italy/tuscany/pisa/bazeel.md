@@ -8,6 +8,7 @@ latitude: 43.7164
 longitude: 10.4014
 address: "Lungarno Pacinotti 1, 56126 Pisa"
 opening_hours: "Daily 08:00–02:00"
+score: 5.4
 ---
 
 The student aperitivo institution, right on the river next to Ponte di Mezzo. From around 18:30 the buffet — usually a generous spread of pasta, focaccia, salads, and small bites — comes free with any cocktail (around €8). Tables spill out onto the Lungarno and the place packs out on Thursday and Friday evenings.

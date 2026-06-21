@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Ice Cream Bar
 type: poi
+score: 4.2
 ---
 
 A cheerful little spot on Woji Road serving artisan-style Italian gelato in over thirty flavours, alongside gourmet popcorn, cupcakes, and slushies. It is easily accessible and the prices are very affordable — a welcome cool-down in Port Harcourt's heat.

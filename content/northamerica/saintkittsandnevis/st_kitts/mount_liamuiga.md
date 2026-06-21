@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Kalinago people called the mountain Liamuiga, meaning 'fertile land'. The British renamed it Mount Misery, a name that stuck for two centuries until the country regained independence in 1983 and quietly restored the original."
+score: 8.7
 ---
 
 A dormant stratovolcano rising 1,156 metres (3,792 ft) to dominate the north-western half of St. Kitts. The summit hike is one of the best in the eastern Caribbean: a steep, often muddy trail through rainforest of ferns, vines, and giant trees, populated by green vervet monkeys descended from pets brought by 17th-century French colonists.

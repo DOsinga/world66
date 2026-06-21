@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: The open-air bars and cafes along the seafront boulevard where Puerto Plata comes alive at night
+score: 5.6
 ---
 
 The strip of bars running along the Malecón is the most reliable place to find an evening drink in Puerto Plata, and it functions as an informal social club for much of the city. From around six in the evening, when the daytime heat begins to ease and the sea breeze picks up off the Atlantic, the open-fronted bars fill with people who seem in no hurry to be anywhere else. Music — merengue and bachata are the defaults, with occasional salsa — comes from speakers of varying quality, and the competition between adjacent bars for volume is ongoing.

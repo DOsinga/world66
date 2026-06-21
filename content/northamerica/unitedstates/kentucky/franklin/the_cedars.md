@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic
+score: 4.8
 ---
 
 The Cedars is a Greek Revival house built in 1836 at 812 East Cedar Street, listed on the National Register of Historic Places. It is one of the older surviving residences in Franklin and a good example of the kind of antebellum brick farmhouse that once dotted this part of Kentucky.

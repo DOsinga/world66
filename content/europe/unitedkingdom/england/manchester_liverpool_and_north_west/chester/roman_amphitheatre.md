@@ -14,6 +14,7 @@ story: >
   legion. Only about half the structure has been excavated (the rest lies under
   a nineteenth-century convent), and archaeologists believe significant finds
   remain in the unexcavated sections.
+score: 8.0
 ---
 
 Just outside the city walls at Newgate, the Roman amphitheatre is the largest ever found in Britain. It was built around 100 AD to serve the garrison of Deva Victrix — the 20th Legion's fortress that became the city of Chester — and excavations have revealed the oval arena, the surrounding seating banks, and the entrance passages through which both performers and wild animals entered.

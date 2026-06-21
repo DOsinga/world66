@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Forest hike to a hidden waterfall, the best chance of seeing wildlife in the park
+score: 8.1
 ---
 
 The Sendero Macuco is a seven-kilometre return hike that leaves the road back from Cataratas Station and dives into the forest. It is the only walk in the park where you are likely to be alone, and the only one where you have any real chance of seeing wildlife — agoutis, capuchin and howler monkeys, toucans, and (very rarely) the elusive ocelot.

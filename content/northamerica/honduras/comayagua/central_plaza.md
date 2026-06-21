@@ -6,6 +6,7 @@ tags:
 - landmark
 title: Parque Central
 type: poi
+score: 8.0
 ---
 
 Comayagua's central park is one of the more handsome main squares in Honduras — shaded by trees, ringed by colonial buildings, and presided over by the cathedral's massive facade. The park is the social center of the city and the natural starting point for any walk through the historic center.

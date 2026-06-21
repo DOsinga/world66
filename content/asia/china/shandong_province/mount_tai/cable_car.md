@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.2514
 longitude: 117.1006
+score: 6.2
 ---
 
 The cable car from Zhong Tianmen (Middle Heaven Gate, about 600m elevation) to the South Gate of Heaven (about 1,460m elevation) covers the upper half of the mountain in about 10 minutes, saving the most strenuous section of the climb. It operates from 7:30am to 5:00pm (earlier closing in winter). The cable car is useful both for those who don't want to climb the full trail and for those who climbed up and want to save their knees on the descent.

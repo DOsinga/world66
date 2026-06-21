@@ -8,6 +8,7 @@ latitude: 39.3750
 longitude: -3.2050
 story: >
   In Don Quixote, the knight sees the windmills of La Mancha as giants and charges them, only to be unhorsed when his lance catches in a sail. Cervantes was almost certainly familiar with the windmills around Alcázar de San Juan: the town was one of the main grain-trading centres of La Mancha in the 16th century, and the elevated ridge south of town had numerous windmills in operation. Whether or not Cervantes was born here, the landscape he described is unquestionably this one.
+score: 8.3
 ---
 
 The windmills of La Mancha are among the most iconic images in Spanish literature, forever associated with the misadventures of Don Quixote. The area around Alcázar de San Juan retains several restored windmills on the ridge south of town — white cylindrical towers with conical roofs and wooden sails, exactly as Cervantes described. They are the quintessential La Mancha image, surrounded by the flat ochre plain with its vineyards and patches of sunflower.

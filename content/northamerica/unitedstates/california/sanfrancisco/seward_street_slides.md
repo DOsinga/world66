@@ -10,6 +10,7 @@ tags:
 title: Seward Street Slides
 neighbourhood: Castro District
 type: poi
+score: 6.8
 ---
 
 Tucked into a hillside between houses near the Castro, two smooth concrete slides drop steeply through a small park. There are no signs, no tickets, and no attendants -- just the slides, a set of stairs back to the top, and whatever cardboard you remembered to bring. Sitting on cardboard is essential; without it you will not slide and your trousers will not thank you.

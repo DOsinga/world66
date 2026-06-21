@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.1700
 longitude: -75.7800
+score: 5.6
 ---
 
 The aquarium and open-sea oceanarium on Isla Rosario is a regular stop on the standard day-tour circuit from Cartagena. It houses Caribbean marine species including sharks, rays, sea turtles, and tropical fish, and the oceanarium section allows snorkellers to swim in an enclosed open-water area alongside some of them.

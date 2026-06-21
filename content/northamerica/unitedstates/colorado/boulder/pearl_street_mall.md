@@ -15,6 +15,7 @@ story: >
   completely than almost any comparable city in the region. The "Zip Code Man,"
   who has reportedly guessed hundreds of thousands of zip codes correctly, has
   been performing on the mall since the 1980s.
+score: 8.4
 ---
 
 Pearl Street Mall is the four-block pedestrian centre of Boulder and one of the most pleasant urban spaces in Colorado. The mall runs along Pearl Street from 11th to 15th Avenue, lined with a mixture of Victorian commercial buildings, independent shops, restaurants, and cafes, all of it overshadowed by the Flatirons visible at the west end of the street.

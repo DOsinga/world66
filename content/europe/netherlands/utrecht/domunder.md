@@ -6,6 +6,7 @@ longitude: 5.1214
 tags:
 - things_to_do
 - museum
+score: 9.0
 ---
 
 An underground archaeological site beneath the Domplein, Utrecht's central square. Guided tours descend below street level to explore 2,000 years of history layered under your feet: the foundations of the Roman castellum that once stood here, the remains of a Romanesque cathedral, and the rubble of the Gothic nave that collapsed during a tornado in 1674 and was never rebuilt.

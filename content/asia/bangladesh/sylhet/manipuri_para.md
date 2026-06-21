@@ -12,6 +12,7 @@ story: >
   with them a distinct weaving tradition that is still the finest in Bangladesh.
   Their double-faced sarees and ras-leela dance dramas are now part of Sylheti
   identity, even though their language remains different.
+score: 6.7
 ---
 
 A short distance west of the city centre, the Manipuri neighbourhoods (Manipuri Para) and weaving villages give a glimpse of one of the most distinctive cultural communities in Bangladesh. The houses are built on raised platforms, with stilt verandas and walls of bamboo matting, and almost every household weaves on traditional looms in the front room.

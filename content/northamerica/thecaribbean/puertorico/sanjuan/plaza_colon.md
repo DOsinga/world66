@@ -8,6 +8,7 @@ tags:
   - sight
   - old_san_juan
 neighbourhood: Old San Juan
+score: 6.4
 ---
 
 The eastern gateway to Old San Juan, named for Christopher Columbus and centred on a column-mounted statue of him erected in 1893 for the 400th anniversary of his landing in Puerto Rico. The plaza is the natural starting point for a walk into the old city: tour buses and taxis stop here, the entrance to the San Cristóbal fort is one block north, and the Teatro Tapia, the oldest theatre in Puerto Rico, dominates the southern side.

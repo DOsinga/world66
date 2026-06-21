@@ -8,6 +8,7 @@ tags:
 - museum
 title: Lady Lever Art Gallery
 type: poi
+score: 8.3
 ---
 
 Across the Mersey in the model village of Port Sunlight, but easily reached from central Liverpool by the Mersey ferry or Merseyrail (Bebington station). The gallery was built in 1922 by William Lever, the soap magnate, to house his personal collection and is one of the finest small art galleries in Britain.

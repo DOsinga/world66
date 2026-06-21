@@ -10,6 +10,7 @@ tags:
 - italian
 title: Coco Pazzo
 type: poi
+score: 5.8
 ---
 
 An Italian cafe that specializes in handmade pizzas cooked in a wood-fired oven. The dough is made fresh daily, and the toppings lean traditional Italian rather than North American-style overload. One of the better Italian restaurants in Lethbridge, and a good pick for a sit-down dinner on the south side.

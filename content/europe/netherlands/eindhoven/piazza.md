@@ -8,6 +8,7 @@ tags:
 - shopping
 title: Piazza Centre
 type: poi
+score: 4.1
 ---
 
 Indoor shopping mall near the central station with a mix of fashion chains (H&M, Zara, Perry Sport) and a food court. Nothing extraordinary, but handy for everyday shopping.

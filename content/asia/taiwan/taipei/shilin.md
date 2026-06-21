@@ -8,6 +8,7 @@ tags:
 neighbourhood: Shilin
 title: Shilin District
 type: poi
+score: 7.5
 ---
 
 Shilin, in the north of Taipei, holds three of the city's biggest attractions: the **National Palace Museum**, the **Shilin Night Market**, and the **Shilin Official Residence** that was the home of Chiang Kai-shek and his wife from 1950 until his death in 1975. Beyond these tourist anchors it is a green, suburban-feeling district with the broad Zhongshan North Road climbing north towards the Yangmingshan mountains.

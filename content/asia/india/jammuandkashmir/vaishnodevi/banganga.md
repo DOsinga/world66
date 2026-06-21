@@ -8,6 +8,7 @@ tags:
   - sight
   - temple
 story: "Tradition says the young goddess fired an arrow into the rock here to release water for her companion Veer Langoor, who was thirsty during their flight. The name Banganga means 'Ganga from the arrow'."
+score: 6.4
 ---
 
 Banganga is the first checkpoint on the yatra route, about 1.5 kilometres above Katra. A small stream emerges from the rock here, and pilgrims traditionally bathe or sprinkle the water on their heads before continuing the climb. There are temples and ghats at the spot, and queues at busy times.

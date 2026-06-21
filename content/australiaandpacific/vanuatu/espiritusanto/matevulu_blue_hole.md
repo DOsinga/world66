@@ -14,6 +14,7 @@ tags:
 - swimming
 title: Matevulu Blue Hole
 type: poi
+score: 8.1
 ---
 
 The Matevulu Blue Hole is the largest and most famous of Espiritu Santo's blue holes — natural freshwater swimming pools fed by underground springs that emerge through the limestone bedrock. The water is a startling electric blue, clear enough to see the bottom at 10 metres without effort. Rope swings hang from the surrounding trees for those who want to make an entrance.

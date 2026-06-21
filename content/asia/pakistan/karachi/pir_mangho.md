@@ -6,6 +6,7 @@ tags:
 - sight
 title: Pir Mangho Crocodile Shrine
 type: poi
+score: 7.9
 ---
 At the edge of the city, beside a murky lake, sits the shrine of Pir Mangho — a Sufi saint whose blessing is said to extend to the roughly one hundred mugger crocodiles that live in the water around it. The crocodiles are fed, named, and considered sacred; harming one would be unthinkable. Pilgrims come to pray at the saint's tomb and to hand-feed goat meat to the reptiles, which lumber out of the water with the unhurried confidence of creatures that have never been threatened.
 

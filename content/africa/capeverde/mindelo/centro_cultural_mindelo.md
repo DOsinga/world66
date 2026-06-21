@@ -6,6 +6,7 @@ longitude: -24.9872
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The Centro Cultural do Mindelo, a beautifully restored colonial building on Rua Cesaria Evora a block back from the Praca Nova, is the city's main contemporary arts venue. It runs a regular programme of concerts (live morna and coladeira several nights a week), film screenings, theatre, exhibitions, and dance.

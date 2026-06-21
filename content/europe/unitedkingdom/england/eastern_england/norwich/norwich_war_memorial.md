@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.62858
 longitude: 1.29234
+score: 6.1
 ---
 
 The Norwich War Memorial stands in front of the City Hall, on a small garden square at the top of the market. The memorial, unveiled in 1927, takes the form of a tall stone column topped with a bronze figure of Britannia, surrounded by panels listing the names of Norwich men who died in the First World War. A separate panel was added for the Second World War.

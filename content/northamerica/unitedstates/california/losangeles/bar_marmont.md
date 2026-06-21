@@ -12,6 +12,7 @@ tags:
 title: Bar Marmont
 type: poi
 url: www.chateaumarmont.com
+score: 6.2
 ---
 
 Adjacent to the Chateau Marmont, Bar Marmont is the kind of dark, candlelit bar that Hollywood does better than anywhere else — genuinely glamorous without being obnoxious about it. The cocktails are serious, the crowd is well-dressed, and the banquette seating makes it easy to disappear for the evening. Reservations are a good idea on weekends.

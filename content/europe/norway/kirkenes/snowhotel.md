@@ -7,6 +7,7 @@ latitude: 69.7406
 longitude: 29.9853
 story: >
   Each December a team of ice artists spends several weeks cutting blocks from the frozen lake and carving them into the hotel's walls and rooms. The whole structure — thirty-odd rooms, a chapel, a bar — is demolished by April when it melts back into the water it came from. Nothing carries over from one year to the next except the design team's tools.
+score: 8.3
 ---
 
 Rebuilt every December from ice blocks cut from the nearby lake, Kirkenes Snow Hotel is one of the more serious examples of the seasonal ice-hotel genre. Each room is carved with its own sculptural theme by a team of artists; the ice bar serves cocktails in cups made of ice, the corridors glow with embedded lighting, and the whole structure holds together by virtue of the Arctic cold.

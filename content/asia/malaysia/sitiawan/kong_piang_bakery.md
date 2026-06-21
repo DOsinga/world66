@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Kong Piang Buns
 type: poi
+score: 8.0
 ---
 
 Kong piang are oval buns baked in a clay oven — the defining food of Sitiawan's Fuzhou community. The dough is pressed against the interior wall of a wood-fired clay oven, where it puffs and chars slightly on the outside while remaining soft inside. The result is denser and chewier than most bread, with a sesame crust and a faint smokiness. They are eaten plain, split and spread with kaya (coconut jam), or filled with dried meat.

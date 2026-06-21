@@ -13,6 +13,7 @@ story: >
   found in the ruins. The original was carved in the 8th century to resemble 
   the cloth tents of the Umayyad court, then translated into stone as a 
   permanent building.
+score: 8.2
 ---
 
 The Umayyad Palace complex on the Citadel hill dates from the early 8th century, when Amman (then called Philadelphia) was the capital of the Umayyad province of Balqa. The central colonnaded courtyard leads to the audience hall — the qasr — where the Umayyad governor received visitors, with a stone-carved dome above the entrance passage and carved stucco panels along the walls.

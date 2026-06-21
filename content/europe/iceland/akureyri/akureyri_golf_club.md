@@ -8,6 +8,7 @@ latitude: 65.66583
 longitude: -18.11583
 story: >
   The Arctic Open, held here each June, is played through the night under the midnight sun — tee times at 1am are not unusual. The event began in 1986 and has grown into an institution, drawing golfers who want to say they played eighteen holes at 65°N as the sun refused to set.
+score: 5.8
 ---
 
 The Akureyri Golf Club operates what was once certified as the world's most northerly 18-hole golf course, a designation it shares with some pride. The course sits at Jaðarsvöllur, south of town, with views across Eyjafjörður and the mountains on either side. It is a genuinely beautiful setting for golf.

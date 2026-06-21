@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.1417
 longitude: 14.9803
+score: 5.7
 ---
 
 The Görlitz Naturschutz-Tierpark (nature conservation zoo) in the southern part of the city is a small but well-maintained zoo specialising in European animals and conservation breeding programmes. Unlike large metropolitan zoos, it focuses on the wildlife of Central Europe — deer, bears, wolves, bison, and birds of prey — and makes a genuine conservation argument for its existence.

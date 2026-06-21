@@ -9,6 +9,7 @@ latitude: 51.2494
 longitude: 22.5697
 story: >
   The Grodzka Gate separated the Christian and Jewish districts of medieval Lublin for centuries — it was literally the gateway between two worlds. After the Holocaust destroyed the Jewish quarter, the gate became a threshold between the living city and an absence. The NN Theatre, founded in 1990, took on the project of recovering what names ("NN" — nomen nescio, "name unknown") and faces could still be found, creating an archive of the vanished community.
+score: 8.7
 ---
 
 The Grodzka Gate stands at the edge of the old town, where the medieval city met the Jewish district of Podzamcze below the castle. For centuries it was the everyday threshold between the Catholic and Jewish quarters of Lublin. After the Nazi annihilation of Lublin's Jewish population, the gate became a boundary between the living and the absent.

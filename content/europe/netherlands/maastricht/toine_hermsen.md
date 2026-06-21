@@ -6,6 +6,7 @@ longitude: 5.6941
 tags:
   - eating_out
   - restaurant
+score: 6.2
 ---
 
 A long-established fine-dining address in the old city, near the Onze Lieve Vrouweplein. The style is classical French with Dutch regional ingredients — a combination that works particularly well here, in a city where the cooking has always looked toward France and Belgium rather than north to Amsterdam.

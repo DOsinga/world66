@@ -5,6 +5,7 @@ tags: [things_to_do, sight, cycling]
 latitude: 48.2271
 longitude: 15.3370
 snippet: Scenic Danube cycling route from Melk through the Wachau valley to Krems
+score: 8.0
 ---
 
 The Wachau Valley — the 30-kilometre stretch of the Danube between Melk and Krems — is one of Austria's most celebrated landscapes and one of its best cycle routes. The EuroVelo 6 long-distance cycle path follows the Danube along both banks; the route from Melk to Krems passes terraced vineyards, ruined castles, apricot orchards, and wine villages with few climbs and a surface that is mostly paved or well-maintained gravel.

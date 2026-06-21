@@ -8,6 +8,7 @@ latitude: 28.4620
 longitude: 104.9800
 story: >
   The Emerald Gallery was used as a filming location for Ang Lee's Crouching Tiger, Hidden Dragon in 2000. The canopy fight scenes that became iconic for the film were shot here — the bamboo is dense enough and tall enough that wires suspending the actors could be concealed entirely, and the green-lit tunnel effect the film captured is exactly what you see walking through it today.
+score: 8.4
 ---
 
 The Emerald Gallery is the most celebrated path in the park — a paved sandstone walkway several hundred metres long that runs through a tunnel of towering bamboo whose canopy closes overhead to create a green, filtered light. The effect on a sunny day is striking enough that it has been photographed to the point of becoming a cliché, but the cliché is earned.

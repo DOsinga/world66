@@ -10,6 +10,7 @@ tags:
 - sight
 story: >
   Meow Wolf's Omega Mart, the anchor tenant, opened in 2021 as the New Mexico collective's largest installation. Disguised as a surreal grocery store, it leads visitors through hidden passages into an interdimensional narrative spanning hours of exploration.
+score: 8.0
 ---
 
 AREA15 sits just west of the Strip on Rancho Drive and is the closest thing Las Vegas has to a permanent immersive-art neighbourhood. Inside the warehouse-sized complex you will find Omega Mart by Meow Wolf — a fake supermarket that hides portals into a sprawling psychedelic narrative — plus a zip line, axe-throwing range, virtual-reality experiences, a flotation tank, and several themed bars.

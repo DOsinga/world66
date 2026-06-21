@@ -8,6 +8,7 @@ tags:
 title: Museum Gardens
 type: poi
 snippet: "A walled city-centre park with the ruins of St Mary's Abbey and a Roman tower, free to enter"
+score: 8.8
 ---
 
 Museum Gardens occupy the former grounds of St Mary's Abbey, a Benedictine monastery founded in 1055 and dissolved by Henry VIII in 1539. The ruined west front and a substantial section of the church's nave walls still stand, roofless and ivy-clad, giving the garden its centrepiece. The scale of the ruins makes clear how large the original abbey was — before its dissolution it was the richest and most powerful monastery in the north of England. The gardens are enclosed by a wall and free to enter; they are at their best on a sunny afternoon.

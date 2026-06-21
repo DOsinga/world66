@@ -8,6 +8,7 @@ latitude: 28.0857
 longitude: -17.3382
 story: >
   The dark colour of the beach comes from volcanic basalt — La Gomera is a relatively young volcanic island and has had no time to develop the white coral sands of older tropical islands. The coarse black sand holds heat exceptionally well, staying warm into the evening long after the sun has set.
+score: 6.8
 ---
 
 La Playa is the main beach of Valle Gran Rey, a dark volcanic sand beach at the mouth of the valley where it meets the sea. The beach stretches around a sheltered bay, with the small harbour of Vueltas on one side and the village of La Playa on the other. The sand is black — volcanic basalt — which contrasts dramatically with the clear turquoise water.

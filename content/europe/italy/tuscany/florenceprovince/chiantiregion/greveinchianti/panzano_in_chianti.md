@@ -8,6 +8,7 @@ tags:
 latitude: 43.5547
 longitude: 11.3083
 story: "Dario Cecchini, the butcher of Panzano, has run his shop Antica Macelleria Cecchini on the main street since 1983, reciting Dante while he works and turning the act of cutting meat into something between a performance and a sacrament. He was instrumental in reviving the bistecca fiorentina at a time when Chianina cattle were becoming rare, and his shop became a pilgrimage site for chefs from around the world."
+score: 7.9
 ---
 
 Panzano in Chianti sits on a high ridge about 8 km south of Greve, with views in clear weather all the way to Siena. It is a small, quiet hilltop village most famous in the food world for its butcher, Dario Cecchini, whose shop Antica Macelleria Cecchini has attracted food pilgrims from around the world for decades.

@@ -9,6 +9,7 @@ latitude: 29.5585
 longitude: 106.5660
 story: >
   During the Japanese occupation of Korea and much of China, the Korean government-in-exile followed the Kuomintang retreat from Nanjing to Chongqing, eventually establishing its headquarters in a building that now serves as this memorial. South Korean school groups make pilgrimages here — it is one of the few places outside Korea where the story of Korean resistance to Japanese rule is told at this scale.
+score: 7.1
 ---
 
 Between 1940 and 1945, Chongqing hosted the Provisional Government of the Republic of Korea — the Korean government-in-exile that operated in China while Japan occupied the Korean peninsula. The memorial hall preserves the building where this government operated, telling the story of Korean independence activists and the Korean Liberation Army that fought alongside Chinese and American forces.

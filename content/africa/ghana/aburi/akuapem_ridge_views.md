@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, nature]
 latitude: 5.85
 longitude: -0.183
+score: 7.3
 ---
 
 The Akuapem Ridge runs northeast from Aburi through a series of small towns, each perched high enough to look out over the Accra plains to the south and the forested hills to the north. From various spots along the ridge road, on a clear day you can see all the way to the ocean, a flat silver line some 35 kilometres away.

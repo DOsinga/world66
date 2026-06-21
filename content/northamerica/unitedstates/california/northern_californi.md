@@ -12,6 +12,7 @@ tags:
 title: Northern California Blues Festival
 type: poi
 url: www.norcalbluesfest.com
+score: 6.6
 ---
 
 An annual outdoor blues festival held at Auburn Regional Park, about an hour northeast of Sacramento. The natural grass amphitheater makes for a relaxed setting — bring a blanket, stake out a shady spot early, and settle in for a full day of live music. Proceeds benefit local youth charities.

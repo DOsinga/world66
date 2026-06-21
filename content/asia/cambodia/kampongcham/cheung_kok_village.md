@@ -7,6 +7,7 @@ tags:
 - sight
 title: Cheung Kok Eco-Village
 type: poi
+score: 6.7
 ---
 
 Cheung Kok is a small farming village a few kilometres south of Kampong Cham that has been developed as a community-tourism project by the Cambodian NGO Amica. Visitors can walk the dirt tracks past wooden stilt houses, sugar-palm groves and rice paddies, watch silk-weavers, palm-sugar makers and basket-weavers at work, and buy directly from the cooperatives that group the village's craftspeople.

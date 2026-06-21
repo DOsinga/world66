@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 51.8230
 longitude: 4.7100
+score: 5.9
 ---
 
 Wantijpark is the city's biggest green space, laid out at the start of the 20th century along a former floodplain of the Wantij creek. It is unmistakably English in style — winding paths, open meadows, a serpentine pond, a few old oaks left from the original landscape — and is a 20-minute walk or a short bike ride north-east of the old town.

@@ -8,6 +8,7 @@ tags:
 latitude: 53.4000
 longitude: 5.3500
 url: https://www.oerol.nl
+score: 9.4
 ---
 
 Every year in mid-June, Terschelling hosts Oerol ("everywhere" in the local dialect), a festival that uses the entire island as its stage. Site-specific theatre, modern dance, opera, visual art, music, and every crossover you can imagine -- performances pop up in barns, on beaches, in the dunes, and in the forest.

@@ -6,6 +6,7 @@ longitude: 9.9711
 tags:
   - things_to_do
   - museum
+score: 5.8
 ---
 
 A small one-room museum near the village centre with displays of Berber pottery, jewellery, woven textiles, and tools. Captions are largely in French and Arabic but the artefacts speak for themselves. About 20 minutes is enough.

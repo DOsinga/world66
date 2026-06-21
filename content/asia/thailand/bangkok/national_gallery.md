@@ -11,6 +11,7 @@ tags:
 - museum
 title: National Gallery
 type: poi
+score: 7.1
 ---
 
 A short walk from the National Museum, the National Gallery exhibits both contemporary and classical art from Thai and international schools. It is a quiet respite from the heat and the collection, while modest, offers interesting insight into Thailand's art scene. Small admission fee.

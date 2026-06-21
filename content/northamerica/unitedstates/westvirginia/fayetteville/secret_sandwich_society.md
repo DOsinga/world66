@@ -8,6 +8,7 @@ tags:
 address: "103 Keller Ave, Fayetteville, WV"
 latitude: 38.0540
 longitude: -81.1037
+score: 6.4
 ---
 
 A well-loved local spot a block off the courthouse square. The kitchen turns out a long menu of named sandwiches — the "Adams" (turkey, brie, apple butter), the "Lincoln" (pulled pork, coleslaw, vinegar sauce) — alongside salads, daily soups, and unusually good fries.

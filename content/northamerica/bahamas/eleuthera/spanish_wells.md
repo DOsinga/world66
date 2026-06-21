@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.7
 ---
 
 A tightly-packed fishing settlement on the small island of St George's Cay, off the north-western tip of Eleuthera. Spanish Wells is largely white, descended from 18th-century Loyalist refugees from the American colonies, and the local accent retains a strong English cadence.

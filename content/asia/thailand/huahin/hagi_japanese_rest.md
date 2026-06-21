@@ -8,6 +8,7 @@ tags:
 title: Hagi Japanese Restaurant
 type: poi
 url: www.hua-hin-travel.com
+score: 4.8
 ---
 
 Japanese food at it's best in the

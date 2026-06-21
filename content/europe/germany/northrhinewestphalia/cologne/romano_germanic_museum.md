@@ -12,6 +12,7 @@ story: >
   and fragile — 70 square metres of intricate tessellation — that archaeologists decided
   to build the museum around it rather than risk moving it. The mosaic remained in situ
   and became the centrepiece of the new building.
+score: 8.5
 ---
 
 The Romano-Germanic Museum sits beside the cathedral and houses one of the most important collections of Roman art and artefacts north of the Alps. Cologne was a major Roman city — Colonia Claudia Ara Agrippinensium — founded in 50 AD and the capital of the Roman province of Germania Inferior for several centuries. The collection reflects that deep history: funerary monuments, glassware, jewellery, weapons, and the extraordinary Dionysos Mosaic that is the museum's centrepiece.

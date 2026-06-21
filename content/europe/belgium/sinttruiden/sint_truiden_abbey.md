@@ -14,6 +14,7 @@ story: >
   dozens of villages. Napoleon suppressed it in 1796, and the monks never returned.
 sources:
   - https://en.wikipedia.org/wiki/Sint-Truiden_Abbey
+score: 8.3
 ---
 
 Sint-Truiden's founding institution sits on the south side of the Grote Markt, and though the abbey church itself was demolished after Napoleon closed the monastery, the surviving complex is substantial. The imposing Baroque gatehouse and parts of the cloister remain, now housing a cultural centre and the Schatkamer (treasury) displaying gold and silver reliquaries from the medieval abbey.

@@ -8,6 +8,7 @@ story: >
   Huntsville's Twickenham neighbourhood takes its name from the English town on the Thames — a choice made in 1810 by LeRoy Pope, the wealthy Virginia planter who laid out the streets and named them after aristocratic English places. Pope envisioned a refined Southern city modelled on the English gentry ideal, and for a few decades before the Civil War, that vision held. The neighbourhood's antebellum mansions are the physical record of that ambition.
 sources:
   - https://en.wikipedia.org/wiki/Twickenham_Historic_District
+score: 8.4
 ---
 
 Twickenham Historic District is the oldest and most architecturally distinguished neighbourhood in Huntsville, covering the blocks immediately southeast of the courthouse square. It was listed on the National Register of Historic Places in 1973 and remains the finest concentration of antebellum architecture in north Alabama. Greek Revival and Federal-style mansions line Williams Avenue and surrounding streets, most of them dating from the 1820s to the 1850s when Huntsville was the wealthiest city in Alabama.

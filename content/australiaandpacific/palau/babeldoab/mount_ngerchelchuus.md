@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.8
 ---
 
 At 242 metres, Mount Ngerchelchuus is the highest point in Palau. The summit sits on the border of Ngardmau and Ngeremlengui states and is reached by a short but steep jungle trail starting from the cross-island road.

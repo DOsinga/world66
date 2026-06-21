@@ -8,6 +8,7 @@ tags:
 - sight
 title: Tokushima Castle Ruins
 type: poi
+score: 7.2
 ---
 
 The remains of the castle built by Hachisuka Iemasa in 1586 occupy Mount Shiroyama just northeast of Tokushima Station. Nothing stands above ground except the formidable stone walls and gatehouse foundations — the wooden buildings were torn down at the start of the Meiji era — but the park around the ruins is one of the most pleasant spots in the city, particularly during the cherry blossom in early April.

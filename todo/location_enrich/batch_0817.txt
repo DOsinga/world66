@@ -1,5 +1,0 @@
-asia/india/manipur/churachandpur
-asia/pakistan/azad_kashmir/bagh
-europe/spain/canaryislands/grancanaria/las_palmas
-southamerica/colombia/gorgona
-asia/india/goa/colva

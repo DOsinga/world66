@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Le Dauphin
 type: poi
+score: 4.8
 ---
 
 A reliable choice on Rue de Berkane, Le Dauphin serves a varied menu of Moroccan and French-influenced dishes at reasonable prices. The kitchen handles tagines and couscous well, and also turns out decent steaks and salads. It draws a steady local crowd, which is usually a good sign in Oujda.

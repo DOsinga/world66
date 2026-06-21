@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 20.3901
 longitude: -99.9973
+score: 7.4
 ---
 
 The municipal market runs most days but is at its best on Sundays, when vendors from the surrounding valley bring in local produce, crafts, opals, and leather goods. The market occupies a covered building a couple of blocks from the main plaza and spills into the surrounding streets on busy days.

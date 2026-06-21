@@ -7,6 +7,7 @@ tags:
 - bar
 title: Baie des Citrons
 type: poi
+score: 6.5
 ---
 
 Lemon Bay is the livelier neighbour to Anse Vata, around the headland to the north. The beach is slightly more sheltered, the water calm, and the strip of bars and restaurants along the Boulevard Vauban runs cheerfully from midday into the night. This is where Nouméa's after-work crowd gathers — young professionals, tourist groups, and locals mixing at the outdoor tables.

@@ -9,6 +9,7 @@ latitude: 34.6930
 longitude: 33.0660
 title: Silks Gallery
 type: poi
+score: 5.4
 ---
 
 Silks Gallery is a contemporary art gallery established in 2007 in the Potamos Yermasoyias district of Limassol, near the beach and marina area. The gallery represents both established international artists and emerging local talent, with a programme of rotating exhibitions through the year.

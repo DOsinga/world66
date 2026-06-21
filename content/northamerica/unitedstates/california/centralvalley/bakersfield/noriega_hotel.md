@@ -8,6 +8,7 @@ tags:
 neighbourhood: Basque District
 latitude: 35.3722
 longitude: -119.0214
+score: 7.2
 ---
 
 The Noriega Hotel on Baker Street has been serving Basque family-style dinners since 1893, making it one of the oldest continuously operating Basque restaurants in the United States. The format has not changed in a century: you sit at long communal tables, and the meal arrives in courses — soup, salad, bread and beans, a main course of lamb or beef, and wine served in pitchers. You eat with whoever happens to be sitting next to you, which is part of the experience.

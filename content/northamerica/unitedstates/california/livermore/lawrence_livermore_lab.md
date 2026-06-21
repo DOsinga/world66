@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Lawrence Livermore National Laboratory
 type: poi
+score: 5.8
 ---
 
 A major US federal research facility established in 1952 as a second nuclear-weapons design lab (alongside Los Alamos), now also a centre for high-performance computing, fusion energy, climate modelling and bioscience. The lab employs over 8,000 staff and is the city's largest employer.

@@ -10,6 +10,7 @@ tags:
 title: Addiction Aquatic Development
 type: poi
 url: https://www.addiction.com.tw
+score: 6.8
 ---
 
 Once a working fish market, Addiction Aquatic Development is now a glossy 7,500 m² seafood market and izakaya complex in the north of the city. The layout runs through a Japanese-style fishmonger, a standing sushi bar, a hot grill counter, a wine and oyster bar and a cooking-school space — all under one roof, all serving from the same daily auction.

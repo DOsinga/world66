@@ -9,6 +9,7 @@ latitude: 34.5422
 longitude: -112.4669
 sources:
   - https://en.wikipedia.org/wiki/Hassayampa_Inn
+score: 6.6
 ---
 
 The Hassayampa Inn, built in 1927, is Prescott's most distinguished historic hotel — a Spanish Colonial Revival building whose lobby is one of the most attractive interiors in downtown. The painted ceiling beams, wrought-iron fixtures, and original furniture give it a warmth that most historic hotels lose in renovation. It is listed on the National Register of Historic Places.

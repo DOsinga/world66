@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 38.3792
 longitude: 20.7558
+score: 8.2
 ---
 
 Gidaki is the prettiest beach on Ithaca and the hardest to get to — there is no road, only a hot half-hour walk over a headland from Skinos Bay, or a short boat ride from Vathy. The reward is a long, pale shingle crescent with deep blue water, framed by green hills.

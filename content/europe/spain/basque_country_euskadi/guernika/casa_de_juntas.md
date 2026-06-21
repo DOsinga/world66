@@ -8,6 +8,7 @@ tags:
 - sight
 title: Casa de Juntas
 type: poi
+score: 9.0
 ---
 
 The neoclassical building beside the oak tree houses the Biscayan General Assembly, the regional parliament of the province of Biscay, and is still the meeting place of its members. The plain limestone facade hides one of the most striking interiors in the Basque Country — the assembly chamber sits beneath a vast stained-glass dome that recreates the Tree of Gernika in coloured glass, deliberately aligned so that the actual oak appears to be the same tree seen from beneath.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Panorama Point
 type: poi
+score: 8.3
 ---
 
 At the south-western edge of the Giza Plateau, a desert ridge rises above the level of the monuments and provides the famous view of all three pyramids in a single frame. This is where almost every iconic photograph of Giza has been taken: the three pyramids receding from left to right against the sky, with Cairo's haze visible in the background. No other vantage point on the plateau gives you all three in proper alignment.

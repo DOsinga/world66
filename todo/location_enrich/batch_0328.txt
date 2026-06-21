@@ -1,5 +1,0 @@
-southamerica/peru/lambayeque
-europe/italy/sicily/mazara_del_vallo
-asia/jordan/iraqalamir
-northamerica/unitedstates/virginia/norfolk
-europe/denmark/frederiksberg

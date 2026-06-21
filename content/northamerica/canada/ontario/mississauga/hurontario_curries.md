@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.6079
 longitude: -79.6499
+score: 7.4
 ---
 
 Hurontario Street between Dundas and Britannia is, mile for mile, one of the best South Asian eating strips in Canada — a 5 km stretch of strip-mall plazas with Tamil thali joints, Pakistani charcoal grills, Bangladeshi sweet shops, Punjabi dhabas, and Sri Lankan kothu specialists side by side.

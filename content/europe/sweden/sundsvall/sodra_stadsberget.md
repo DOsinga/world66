@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 62.3771
 longitude: 17.3061
+score: 6.5
 ---
 
 The southern town-mountain, opposite Norra Stadsberget across the city. The Södra Berget Hotel sits on top with a panoramic restaurant; non-guests can ride the elevator up for a view across the harbour and out to Alnön. In winter, the slope has a small downhill ski operation with one chairlift; in summer it becomes a mountain-biking trail centre.

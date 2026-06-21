@@ -9,6 +9,7 @@ tags:
 latitude: 8.1380
 longitude: -63.5430
 snippet: Hilltop colonial fort with panoramic views of the Orinoco
+score: 7.6
 ---
 
 The Fortín El Zamuro is a low colonial fortification on a hill at the southern edge of the old town, built in the 1770s to protect Angostura (the original name of Ciudad Bolívar) from river-borne attack. The walls and a few cannon emplacements survive; the strategic value of the site is obvious as soon as you climb up. From the parapet you can see the full length of the Paseo Orinoco below, the great brown current of the river itself, and the wooded banks on the far side.

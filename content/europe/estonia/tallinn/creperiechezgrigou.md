@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Creperie Chez Grigou
 type: poi
+score: 5.8
 ---
 
 A French-run creperie tucked against the Old Town wall on Müürivahe. Savoury galettes, sweet crepes, and cider. Open 11:30 until 1am.

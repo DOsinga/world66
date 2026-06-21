@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.8432
 longitude: 19.6395
+score: 5.8
 ---
 
 The combined **Kolašin 1450** and **Kolašin 1600** ski areas on the southern slopes of Bjelasica, about 9 km above the town of Kolašin. The resort opened in its modern form in the 2010s and has steadily expanded — six lifts including a high-speed gondola, about 17 km of marked runs ranging from beginner blues to a couple of genuine reds, and a small backcountry zone for ski-touring. Top elevation is 1,978 m, base at 1,450 m.

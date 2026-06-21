@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-07
-  location_enrich: '2026-05-31'
+  location_enrich: '2026-06-01'
 image: national_anzac_centre.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:National_Anzac_Centre,_Albany,_Western_Australia.jpg

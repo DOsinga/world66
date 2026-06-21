@@ -7,6 +7,7 @@ tags:
 snippet: "Glass pyramid greenhouse with 5,000 plants and free-flying butterflies"
 title: Plantasia
 type: poi
+score: 5.7
 ---
 
 A glass pyramid greenhouse in the Parc Tawe development holding 5,000 plants across 800 species in three climate zones, plus reptiles, insects, and a small colony of free-flying tropical butterflies. Small, but a good rainy-day outing with children.

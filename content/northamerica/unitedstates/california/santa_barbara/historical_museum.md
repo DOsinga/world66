@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 34.4214
 longitude: -119.6980
+score: 7.6
 ---
 
 The Historical Museum sits inside an adobe complex one block from De la Guerra Plaza and tells Santa Barbara's story from Chumash times through the Spanish, Mexican, Yankee, and Chinese eras. The collection is unusually wide for a small city museum — Chumash basketry, Spanish-era religious art, a working printing press, antique carriages, and a Chinese altar from the city's once-thriving Chinatown.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: New Zealand's largest events and conference centre
+score: 5.2
 ---
 
 Mystery Creek, about 15 km south of Hamilton, is the home of Fieldays — the largest agricultural trade show in the Southern Hemisphere, held every June. Outside the Fieldays weeks, the vast grounds host concerts, car shows, and other large events throughout the year. It is not a destination in its own right but worth knowing about if you are visiting during a major event.

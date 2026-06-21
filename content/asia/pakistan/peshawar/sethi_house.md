@@ -9,6 +9,7 @@ tags:
 snippet: "19th-century merchant mansion with intricate woodwork — finest heritage house in Peshawar"
 latitude: 34.0094
 longitude: 71.5741
+score: 8.2
 ---
 
 The grandest of several historic merchant houses in the Sethi Mohallah quarter of the old city. Built in the mid-19th century by the Sethi family — Hindu traders who grew rich on the Central Asian trade routes — the house is famous for its extraordinary woodwork: projecting verandas, carved screens, and latticework windows of a style that blends Mughal, Central Asian, and local Pashtun influences.

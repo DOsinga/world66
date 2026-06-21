@@ -15,6 +15,7 @@ story: >
   meaning. What hangs in tourist shops is the same tradition sold to a secular
   audience, and some of the artists doing the selling are the same people who
   make the ceremonial originals.
+score: 7.5
 ---
 
 The Wixáritari (commonly called Huichol) people from the mountains of Jalisco and Nayarit have a strong presence in Sayulita's craft market, and their work is among the most visually compelling indigenous art in Mexico. The two main forms are beadwork — tiny glass beads pressed into wax to create densely patterned animals, masks, and ceremonial objects — and yarn paintings, where wool is pressed into beeswax to create bright, intricate pictures on flat boards.

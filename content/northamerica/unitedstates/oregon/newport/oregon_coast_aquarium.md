@@ -13,6 +13,7 @@ story: >
   built for him on site, and over two years he relearned how to feed
   himself before being moved to Iceland and eventually released. The
   outline of his old pen is still visible from the boardwalk.
+score: 8.5
 ---
 
 The Oregon Coast Aquarium sits on the south side of Yaquina Bay and is widely considered one of the best aquariums on the West Coast. The outdoor exhibits — sea otters, harbor seals, a vast seabird aviary, and tide-pool tanks — mirror the habitats just outside the door, while a series of acrylic tunnels lets you walk under the open-water tank surrounded by sharks, rockfish, and rays.

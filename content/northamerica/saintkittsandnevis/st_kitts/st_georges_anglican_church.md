@@ -10,6 +10,7 @@ tags:
   - basseterre
 neighbourhood: Basseterre
 story: "The site has been a church since 1670, when it was a French Jesuit chapel called Notre Dame. The British took it in 1706, rebuilt it as Anglican, and it has burned down or been blown apart by hurricanes four times since — most recently in 1869. The current stone walls date from the rebuild that followed."
+score: 5.9
 ---
 
 The oldest Anglican parish on the island and one of the oldest churches in the eastern Caribbean. The squat stone tower and yellow stuccoed nave stand at the eastern edge of central Basseterre, on Cayon Street.

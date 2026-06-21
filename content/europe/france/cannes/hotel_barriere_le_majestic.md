@@ -9,6 +9,7 @@ latitude: 43.5512
 longitude: 7.0199
 sources:
   - https://en.wikipedia.org/wiki/Hotel_Barri%C3%A8re_Le_Majestic_Cannes
+score: 6.7
 ---
 
 The Majestic, open since 1926, is one of the grand Croisette hotels that define the Cannes skyline — a Belle Époque palace with a Beaux-Arts facade, private beach, and an address that has housed Hollywood stars since the festival began. The lobby bar is the kind of place where deals get made during the festival and where tourists can enjoy an expensive drink and watch the parade pass.

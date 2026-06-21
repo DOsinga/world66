@@ -10,6 +10,7 @@ tags:
   - park
 title: Exeter Quayside
 type: poi
+score: 7.1
 ---
 
 The quayside along the Exe, about fifteen minutes' walk south of the city centre, is the most pleasant part of Exeter for an afternoon wander. The old Custom House of 1681 — the oldest purpose-built Custom House in England — anchors the west side of the quay, and the Victorian warehouses behind it have been converted to cafes, bars, and a small antiques centre.

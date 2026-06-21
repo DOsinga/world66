@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 story: "Kitt Peak sits on the Tohono O'odham reservation; the tribe leased the site to the National Science Foundation in 1958. The name in the O'odham language is Iolkam Du'ag — 'manzanita mountain'. A 2022 wildfire destroyed several non-research buildings but spared all the major telescopes."
+score: 8.8
 ---
 
 Kitt Peak is the largest collection of optical and radio telescopes in the world, 56 miles southwest of Tucson on the Tohono O'odham reservation. The drive up is dramatic in itself — winding switchbacks through saguaro forest, with the desert basin getting wider with every turn.

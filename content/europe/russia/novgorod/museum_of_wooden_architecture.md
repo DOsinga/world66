@@ -10,6 +10,7 @@ tags:
 - museum
 title: Museum of Wooden Architecture
 type: poi
+score: 7.8
 ---
 
 Situated in the grounds of the Yuryev Monastery south of the city, this open-air museum brings together traditional timber buildings from the surrounding Novgorod region. The centrepiece is the majestic Cathedral of St George. The monastery complex and the lake setting are worth the trip even without the museum.

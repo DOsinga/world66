@@ -13,6 +13,7 @@ tags:
 title: James Joyce Centre
 type: poi
 url: www.jamesjoyce.ie
+score: 6.9
 ---
 
 Housed in a beautifully restored Georgian townhouse, the James Joyce Centre is the essential stop for anyone tracing Joyce's Dublin. The museum explores Joyce's life and the city that shaped his writing, with exhibits on *Ulysses*, *Dubliners*, and *A Portrait of the Artist as a Young Man*. Pride of place goes to the original door of 7 Eccles Street — the fictional home of Leopold Bloom — salvaged before the building was demolished.

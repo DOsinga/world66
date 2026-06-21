@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 latitude: 33.4014
 longitude: -104.5267
+score: 7.3
 ---
 
 The 145-acre Downtown Roswell Historic District covers most of Main Street and a few cross streets, listed on the National Register of Historic Places in 1985. It contains a couple of hundred buildings dating from 1880 to the 1950s — banks, hotels, stores, churches — in a typical southwestern Beaux Arts and Mission Revival mix.

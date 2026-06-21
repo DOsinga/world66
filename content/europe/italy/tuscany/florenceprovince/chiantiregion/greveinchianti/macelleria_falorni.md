@@ -7,6 +7,7 @@ tags:
   - food
 latitude: 43.5831
 longitude: 11.3166
+score: 7.0
 ---
 
 Macelleria Falorni has occupied its corner of Piazza Matteotti since 1806, making it one of the oldest butchers in Tuscany. The Falorni family specialise in the cured meats of the region — finocchiona (fennel salami), sbriciolona (crumbling fresh sausage), lardo, and prosciutto — alongside the Chianina beef that underpins the area's cooking.

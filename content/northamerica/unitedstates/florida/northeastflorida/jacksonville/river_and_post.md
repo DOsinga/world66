@@ -7,6 +7,7 @@ tags:
 address: 1000 Riverside Ave, Jacksonville, FL
 latitude: 30.3156
 longitude: -81.6729
+score: 6.2
 ---
 
 River and Post is one of Jacksonville's more ambitious restaurants, serving contemporary American food with a focus on local and regional ingredients in a handsome space on Riverside Avenue. The menu changes with the season and runs from oysters and charcuterie through mains that might include roasted grouper, wood-grilled duck, or a serious beef cut with interesting accompaniments.

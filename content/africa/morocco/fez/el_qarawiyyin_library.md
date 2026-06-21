@@ -10,6 +10,7 @@ type: poi
 snippet: "Oldest continuously operating library in the world, recently restored and open to scholars"
 story: >
   The library holds a ninth-century manuscript of the Quran, illuminated Merinid manuscripts, and a thirteenth-century copy of Ibn Khaldun's Muqaddimah — one of the founding texts of sociology and historiography, written by a scholar who studied in Fez. The collection was largely inaccessible for decades; a major restoration completed in 2016, designed by the Moroccan-Canadian architect Aziza Chaouni, brought the building back while carefully preserving its historic character.
+score: 8.0
 ---
 
 The library attached to Al-Qarawiyyin mosque is the oldest continuously operating library in the world, founded in the ninth century alongside the university itself. For centuries it was closed to outsiders and largely inaccessible even to many scholars. A major restoration project completed in 2016 reopened the building and made the collection accessible to researchers, while protecting the most fragile manuscripts in climate-controlled storage.

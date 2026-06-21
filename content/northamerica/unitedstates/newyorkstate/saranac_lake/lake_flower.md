@@ -7,6 +7,7 @@ snippet: "Small lake on the eastern edge of the village, with paddling and the w
 tags:
 - things_to_do
 - sight
+score: 7.6
 ---
 
 Lake Flower is the small lake that sits right against the eastern edge of the village — close enough to walk to from Main Street. It is the most accessible of the Saranac Lakes for casual paddling: kayaks and stand-up paddleboards can be rented from outfitters along the waterfront, and the open water leads via short carries up into the larger Lower, Middle, and Upper Saranac lakes for longer trips.

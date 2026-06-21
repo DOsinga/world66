@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Regional history museum covering the Rybinsk Reservoir, the Volga-Baltic waterway, and local crafts
+score: 6.4
 ---
 
 The Cherepovets Museum of Local History — part of the Muzeynoye Obyedineniye, the city's municipal museum association — covers the Vologda region before the steel age arrived. That means the Volga-Baltic waterway system, which passes near Cherepovets and connects the Baltic to the Caspian; the creation of the Rybinsk Reservoir in the 1940s, which flooded enormous stretches of the upper Volga valley; and the traditional crafts of the region, including lacework and woodcarving. It is a solid provincial history museum of the Russian type.

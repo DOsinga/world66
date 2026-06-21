@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.8145
 longitude: 7.7789
+score: 5.9
 ---
 
 The free public beaches in Sanremo are scattered between the private stabilimenti along the central waterfront and extend further east toward the marina. They are narrow strips of pebble and coarse sand but the water is clean and the swimming is easy. Arrive early in July and August to secure a spot; outside the peak summer months they are much quieter.

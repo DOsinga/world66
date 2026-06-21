@@ -7,6 +7,7 @@ tags:
 latitude: 47.1673
 longitude: 9.8212
 snippet: "Gondola lift to 1,401m with panoramic views over five valleys"
+score: 8.3
 ---
 
 The Muttersberg cable car rises from the Hinterplärsch neighbourhood on the north side of Bludenz to 1,401 metres above sea level in around eight minutes. The view from the top is the best reason to come to Bludenz on a clear day: the five valleys that converge at the town fan out below you, with the Rätikon, Silvretta, and Lechquellen ranges visible in three directions. Local people call Muttersberg "the sunny balcony of the region" with some justification — the summit plateau gets considerably more sun in winter than the valley floor, which can lie in shadow for weeks.

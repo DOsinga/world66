@@ -5,6 +5,7 @@ tags: [things_to_do, museum, ribeira]
 latitude: 41.14367
 longitude: -8.62000
 story: The port wine museum occupies the Ramos Pinto winery building in the Massarelos district, right on the Douro waterfront. The Ramos Pinto brand was famous in the late 19th and early 20th centuries for its Art Nouveau advertising posters — sensuous images that were daring for their time and are now acknowledged as among the finest commercial graphic art produced in Portugal. The museum holds the original collection.
+score: 6.7
 ---
 
 The Museu do Vinho do Porto occupies a converted wine warehouse on the Douro waterfront in Massarelos, between the Ribeira and Foz. The permanent exhibition traces the history of port wine from its origins in the upper Douro through the shipping and trade networks that made it a global commodity — the role of British merchants, the regulatory history, the methods of production and aging.

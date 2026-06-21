@@ -15,6 +15,7 @@ story: >
   likely following the decline of Buddhist patronage in eastern India in the 13th century.
 sources:
   - https://en.wikipedia.org/wiki/Udayagiri,_Odisha
+score: 8.3
 ---
 
 Udayagiri's principal monastery is an extensive complex of brick structures spread across a hilltop and its flanks. The excavated portions reveal a courtyard monastery plan — a central stupa or shrine surrounded by cells for resident monks — that is characteristic of late-phase Indian Buddhism. The quality of the brick construction and the scale of the complex indicate that this was a major centre of learning and religious activity for the whole region.

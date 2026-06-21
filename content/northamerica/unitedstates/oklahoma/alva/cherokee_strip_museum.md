@@ -8,6 +8,7 @@ snippet: County museum on the Cherokee Outlet land run and pioneer life
 latitude: 36.7969
 longitude: -98.6678
 story: "On 16 September 1893, more than 100,000 settlers lined up on the southern Kansas border and raced south on horseback, in wagons, and on foot to claim the six-million-acre Cherokee Outlet. It was the largest land run in American history; Alva grew out of it in a matter of weeks."
+score: 6.8
 ---
 
 The Cherokee Strip Museum sits on the campus of Northwestern Oklahoma State University and tells the story of the 1893 Cherokee Outlet land run that opened this stretch of the plains to settlement. Displays cover pioneer farming life, schoolhouses, the early years of the town, and the Native peoples — chiefly the Cherokee — who had held the land before.

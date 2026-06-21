@@ -12,6 +12,7 @@ story: >
   of Nepal — a kind of portable pilgrimage made tangible. A small Shiva temple in the centre
   of the pond is accessible only once a year, on the day of the Chhath Puja festival, when
   a bamboo bridge is erected across the water and the public may enter.
+score: 5.5
 ---
 
 Rani Pokhari, the "queen's pond," is a large rectangular tank in central Kathmandu, near New Road, bounded by a low white wall and a ornate gateway on its south side. It was built in the 17th century by King Pratap Malla to console his wife after the death of their son. The small Shiva temple on an island in the centre of the pond is surrounded by water all year; a low-arched bridge connects it to the shore and is opened to the public once annually.

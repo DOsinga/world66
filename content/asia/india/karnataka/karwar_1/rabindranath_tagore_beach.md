@@ -13,6 +13,7 @@ tags:
 - things_to_do
 title: Rabindranath Tagore Beach
 type: poi
+score: 6.8
 ---
 
 The main beach of Karwar, stretching along the seafront south of the town centre, is wide and relatively uncrowded by Indian coastal standards. The sand is pale and the water usually calm inside the bay. A promenade runs along the shore and Chaitanya Park sits at one end. It is the obvious place for an early morning or evening walk -- fishing boats anchor offshore and the Sadashivgad hill rises across the river mouth to the north.

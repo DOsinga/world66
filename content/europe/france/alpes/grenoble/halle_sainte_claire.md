@@ -8,6 +8,7 @@ tags:
 - market
 title: Halle Sainte-Claire
 type: poi
+score: 7.3
 ---
 
 A large covered market in the heart of the old town, specialising in local food products — fresh meats and fish, Savoyard cheeses, charcuterie, and regional wines. The outdoor fruit and vegetable market in front is equally good. Come in the morning when it is busiest.

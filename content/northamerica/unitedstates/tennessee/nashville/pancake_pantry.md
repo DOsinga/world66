@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - hillsboro_village
+score: 6.4
 ---
 
 A Hillsboro Village fixture since 1961, on the corner of 21st and Belcourt opposite Vanderbilt. Twenty-three varieties of pancake on the menu — sweet potato, Caribbean, Swedish, blueberry-cornmeal — alongside the usual breakfast and Southern lunch standards. The queue down the block on weekend mornings is part of the experience; everyone in line is patient and the place turns over fast.

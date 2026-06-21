@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.9620
 longitude: 35.8970
+score: 6.4
 ---
 
 King Hussein Park in western Amman is the largest urban park in the city — a stretch of landscaped grounds with walking paths, a small lake, a children's funfair, and the Royal Automobile Museum, which houses a collection of vehicles belonging to the late King Hussein I including cars, motorcycles, and military vehicles dating from the 1920s to the 1990s. The museum is better than it sounds: the vehicles are genuinely historic and the collection traces Jordan's 20th-century history through the changing cars on display.

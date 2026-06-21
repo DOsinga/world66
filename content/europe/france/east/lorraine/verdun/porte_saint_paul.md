@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - landmark
 snippet: "Drawbridge gate at the north end of the medieval walls"
+score: 5.3
 ---
 
 The Porte Saint-Paul, on the opposite side of the old town from the Porte Chaussée, is another fragment of the medieval defences — a single tower with a drawbridge mechanism intact, dating from the 18th century. It overlooks a small park and the surviving section of the Vauban wall.

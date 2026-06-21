@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 35.2130
 longitude: 4.1800
+score: 8.2
 ---
 
 The old town of Bou Saâda is a compact labyrinth of narrow lanes, flat-roofed mud-brick houses, and small mosques built up against the hillside above the palm groves. The architecture is characteristic of the pre-Saharan region — thick earthen walls for insulation, small windows, shaded alleys that channel cooling breezes. It is very different from the French colonial grid that occupies the rest of the town.

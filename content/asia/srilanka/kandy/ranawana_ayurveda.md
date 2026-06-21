@@ -13,6 +13,7 @@ story: >
   Western medicine. Sri Lanka has its own variant, Sinhala Ayurveda, which incorporates local
   medicinal plants not found in the Indian system. The hill country around Kandy is particularly
   rich in the medicinal herbs used in both traditions.
+score: 5.8
 ---
 
 Several established Ayurvedic clinics and treatment centres operate in and around Kandy, offering everything from basic oil massage (shirodhara, abhyanga) to multi-week Panchakarma detox programmes. The better centres use genuine trained practitioners and compound their own herbal preparations from local plants; the tourist-oriented day spas are more variable in quality.

@@ -6,6 +6,7 @@ longitude: 10.5395
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 Fiskerklyngen is the small cluster of red and yellow fishermen's cottages just north of the harbour, the only surviving piece of 18th-century Frederikshavn. The cottages are tightly packed along a few narrow cobbled lanes, with low gables, white doorframes, and small gardens — a sharp contrast to the otherwise modern, industrial waterfront.

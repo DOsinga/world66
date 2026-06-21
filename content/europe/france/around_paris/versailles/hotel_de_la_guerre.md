@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.80250
 longitude: 2.12139
+score: 6.4
 ---
 
 The Hôtel de la Guerre (Hotel of War) is an 18th-century government building in the town of Versailles that served as the Ministry of War under the ancien régime. Together with the Hôtel de la Marine and the Hôtel des Affaires Étrangères, it formed part of the administrative apparatus of the French state that operated from Versailles when it was the seat of government.

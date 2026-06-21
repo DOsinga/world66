@@ -9,6 +9,7 @@ tags:
 latitude: 46.4990
 longitude: 7.5467
 snippet: "High alpine pass connecting Adelboden to Lenk, superb summer hiking"
+score: 8.0
 ---
 
 The Hahnenmoos pass at 1,956 metres sits on the ridge above Adelboden and is the gateway to the Lenk valley on the far side. In winter, ski runs descend in both directions. In summer, the chairlift from Adelboden opens the pass to walkers who want high-altitude terrain without a serious climb from the valley. The views from the pass take in the Wildstrubel, Niesen, and on clear days the Eiger, Mönch, and Jungfrau to the northeast.

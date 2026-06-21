@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.6749
 longitude: -103.3442
+score: 6.4
 ---
 
 The circular mausoleum north of the Cathedral holds the remains of Jalisco's most distinguished citizens — artists, politicians, writers, scientists, and generals who shaped the state's history. The Rotonda was established in 1952 and now houses over 90 notable figures, including the composer José Pablo Moncayo (who wrote Huapango, essentially Mexico's unofficial second national anthem) and the muralist José Clemente Orozco.

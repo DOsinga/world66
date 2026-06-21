@@ -11,6 +11,7 @@ latitude: 53.8551
 longitude: -6.5387
 sources:
   - https://en.wikipedia.org/wiki/Ardee_Castle
+score: 8.0
 ---
 
 One of the largest surviving medieval tower houses in Ireland, Ardee Castle stands right on the main street, a blunt reminder that this town spent centuries as a fortified outpost on the edge of the English Pale. The castle dates to the late thirteenth century and was extended and strengthened over the following two hundred years. It now operates as a small museum covering local history.

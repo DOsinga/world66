@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.2498
 longitude: -114.8855
+score: 6.9
 ---
 
 The local history museum of White Pine County sits in a single-storey building on the east edge of downtown. The collection is the standard small-town American mix — pioneer artifacts, Shoshone basketry, a 19th-century pharmacy reconstruction, mining tools, doll collection — but it is unusually well-curated for a community of this size, and the staff are local volunteers happy to talk for hours about the area's history.

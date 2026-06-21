@@ -9,6 +9,7 @@ latitude: 62.1097
 longitude: -7.4360
 sources:
   - https://en.wikipedia.org/wiki/G%C3%A1sadalur
+score: 8.6
 ---
 
 [Gásadalur](/europe/faroeislands/vagar/gasadalur) is a small village of around 15 people on the northwestern tip of Vágar, perched above the ocean with Mykines visible across the water. For most of its history it was one of the most isolated settlements in the Faroes — the post came over the mountain on foot and supplies arrived by boat. That changed in 2004 when a tunnel was blasted through the mountain connecting Gásadalur to the rest of Vágar.

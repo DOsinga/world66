@@ -8,6 +8,7 @@ tags:
 - museum
 title: Museo de Bogota
 type: poi
+score: 5.9
 ---
 
 A city museum focused on urban life and Bogota's history, housed in the Planetarium building downtown. Rotating exhibitions explore the capital's development from colonial settlement to sprawling metropolis.

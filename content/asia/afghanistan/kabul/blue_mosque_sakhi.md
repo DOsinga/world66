@@ -8,6 +8,7 @@ tags:
   - sight
   - mosque
   - shia
+score: 8.1
 ---
 
 The most important Shia site in Kabul, in the Karte Sakhi district at the foot of the Asamayi mountain in the west of the city. The complex centres on a turquoise-tiled mosque believed to mark a footprint of Ali, the fourth caliph and central figure of Shia Islam, and the surrounding plaza is the focus of the Hazara community's celebration of Nowruz, the Persian new year.

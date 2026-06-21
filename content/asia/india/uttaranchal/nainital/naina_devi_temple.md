@@ -8,6 +8,7 @@ latitude: 29.3937
 longitude: 79.4553
 story: >
   The original temple was destroyed in the great landslide of 18 September 1880, which killed 151 people and buried much of the northern lakeshore in a few minutes. The current structure was rebuilt in the decades after the disaster. The annual Nanda Devi Mela, held during Nandashtami in September, draws pilgrims from across Kumaon and Garhwal, and temporarily transforms the lakeside into a fairground.
+score: 7.3
 ---
 
 Naina Devi Temple stands on the northern shore of Naini Lake, at the Mallital end of Mall Road. It is one of 51 Shakti Peethas in Hindu mythology — the sacred spots where parts of the goddess Sati's body fell to earth — and the spot where, according to legend, her eyes landed. The goddess is worshipped here as Naina Devi (the goddess of eyes), and pilgrims come seeking cures for eye conditions and general blessings.

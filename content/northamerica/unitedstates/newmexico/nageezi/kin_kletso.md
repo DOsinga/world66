@@ -6,6 +6,7 @@ longitude: -107.9700
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 Kin Kletso, the "Yellow House", is one of the smaller and tighter-built great houses, pressed against the north cliff at the end of the canyon road. The masonry is uniformly the late McElmo style, suggesting it was put up rapidly in the mid-1100s as Chacoan influence was already waning.

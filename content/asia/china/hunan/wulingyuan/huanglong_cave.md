@@ -8,6 +8,7 @@ latitude: 29.3680
 longitude: 110.6147
 story: >
   Huanglong Cave was discovered in 1983 by local villagers following underground drainage patterns. The initial survey team reached only the first few chambers; the full 11-kilometre length was not mapped until the 1990s. One of the surveyors described emerging from a final passage into the underground lake chamber as "finding a cathedral that no one had ever seen."
+score: 7.2
 ---
 
 Huanglong Cave extends more than 11 kilometres underground and is one of the largest cave systems accessible to tourists in China. The entrance is in Suoxiyu valley, east of the main Zhangjiajie National Forest Park entrance, and tours cover roughly four kilometres of passageways over 90 minutes. An underground waterfall falls 50 metres into a lake that visitors cross by boat; the cave also contains a 19-metre stalagmite, one of the tallest known.

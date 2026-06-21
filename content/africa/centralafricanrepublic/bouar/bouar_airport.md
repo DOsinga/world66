@@ -9,6 +9,7 @@ tags:
   - getting_there
   - sight
 snippet: "Small dirt-strip airport east of town — currently no scheduled flights; occasional humanitarian and UN operations"
+score: 3.8
 ---
 
 Bouar has a small airport (IATA BOP) about 4 km east of town, with a single 1,500-metre dirt-and-laterite runway. There are no scheduled commercial flights — the airport is used by humanitarian organisations, the **MINUSCA** UN peacekeeping mission, and occasional charters. The runway condition limits operations to small turboprops in the dry season; in the rainy season the airport is sometimes unusable.

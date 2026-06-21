@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 28.6830
 longitude: 115.8720
+score: 6.8
 ---
 
 The riverside park surrounding the Pavilion of Prince Teng extends along the Gan River bank for several hundred meters and is one of the most pleasant walking areas in the city. Paved promenades line the water, stone benches face the Honggutan skyline, and vendors sell roasted sweet potatoes and sugarcane juice from carts in the evenings. The park is busiest at dusk when the pavilion's exterior lighting comes on and families come out for an evening stroll.

@@ -8,6 +8,7 @@ tags:
 - festival
 title: SunFest
 type: poi
+score: 7.3
 ---
 
 SunFest has run on the downtown waterfront most years since 1982, taking over Flagler Drive for five days at the start of May. The format is straightforward: half a dozen stages along the Intracoastal, a mix of national headline acts and regional bands, an art fair, food trucks, and fireworks on the closing night. Crowds run to a quarter of a million over the weekend.

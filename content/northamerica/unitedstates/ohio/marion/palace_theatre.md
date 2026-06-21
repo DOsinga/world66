@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.5886
 longitude: -83.1336
+score: 8.0
 ---
 
 The Marion Palace Theatre is a 1928 movie palace in the heart of downtown Marion, built in the ornate atmospheric style that was the height of cinema fashion in the late 1920s. The interior is designed to evoke a Mediterranean courtyard under an open sky — the ceiling is painted as a night sky with twinkling stars, and the walls are decorated with Moorish architectural details.

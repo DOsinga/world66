@@ -8,6 +8,7 @@ tags:
   - shopping
   - architecture
 snippet: Postmodern shopping and culture complex on the Murasaki River
+score: 4.9
 ---
 
 Riverwalk Kitakyushu is a vast pink-and-ochre shopping complex that opened in 2003 directly across the moat from Kokura Castle. The architect — Jon Jerde, the same firm behind Roppongi Hills in Tokyo — wanted a building that played off the river and the castle, and the result is striking from a distance even if up close it is unmistakably a shopping mall.

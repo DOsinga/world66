@@ -5,6 +5,7 @@ tags: [things_to_do, museum]
 latitude: -34.8482
 longitude: 138.5117
 story: "The museum's collection includes a Mirage III fighter used by the Royal Australian Air Force during the 1970s and 1980s — Australia operated 49 of them, and they were the first supersonic aircraft flown by Australian pilots. All were eventually retired to museums or used as gate guardians."
+score: 7.1
 ---
 
 The South Australian Aviation Museum at Port Adelaide displays aircraft, engines, and equipment tracing the history of aviation in South Australia and Australia more broadly. The collection ranges from early biplanes and World War II aircraft to commercial airliners and modern military jets, all displayed in a large indoor hangar that protects them from the elements.

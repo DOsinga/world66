@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -23.7796173
 longitude: -45.3559251
+score: 6.6
 ---
 
 The building that now houses the Museu Náutico in Vila was originally Ilhabela's jail and courthouse — the Antiga Cadeia e Fórum — a squat colonial structure whose iron-barred windows and heavy masonry recall the island's role as a Portuguese administrative outpost in the 18th century. Ilhabela's colonial authorities built fortifications and defences along the western channel during the 17th and 18th centuries to protect against pirate raids, and the old civic buildings that survive in the Vila quarter are among the best evidence of that period still visible above ground.

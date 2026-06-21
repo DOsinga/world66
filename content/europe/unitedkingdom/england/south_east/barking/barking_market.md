@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 51.5370
 longitude: 0.0785
+score: 7.8
 ---
 
 Barking Market has run on East Street since the 13th century, when monks at the abbey were granted a royal charter to hold a market here. The trading has been continuous ever since — making it one of the longest-running street markets in London.

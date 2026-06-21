@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Minnesota's highest point — a 2,301-foot summit reached by a moderate trail, with views over the BWCA.
+score: 8.0
 ---
 
 Eagle Mountain, 24 miles northwest of Grand Marais up the Gunflint Trail, is the highest point in Minnesota at 2,301 feet — modest by mountain standards, but the highest peak between the Black Hills and the Adirondacks. The summit is on the south edge of the Boundary Waters Canoe Area Wilderness, and a small plaque marks the spot beside a rock cairn.

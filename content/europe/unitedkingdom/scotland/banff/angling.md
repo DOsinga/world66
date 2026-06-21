@@ -10,6 +10,7 @@ tags:
 - nature
 title: Angling on the Deveron
 type: poi
+score: 5.5
 ---
 
 The River Deveron flowing through Banff is a noted salmon and sea trout river. The season runs from February to October, with the best salmon fishing typically in autumn. Fishing permits are available through the Deveron, Bogie and Isla Rivers Charitable Trust.

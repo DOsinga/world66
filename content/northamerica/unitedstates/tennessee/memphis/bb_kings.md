@@ -10,6 +10,7 @@ tags:
   - bar
   - music
   - blues
+score: 6.9
 ---
 
 B.B. King's Blues Club anchors Beale Street's entertainment district with live music every night of the week. Named for Riley B. King — the Memphis-born guitarist who became the most famous blues player of the twentieth century — the club is large, well-run, and manages to be both a tourist destination and a place where the music is treated seriously. The house band is tight; the visiting acts range from local blues players to nationally known performers.

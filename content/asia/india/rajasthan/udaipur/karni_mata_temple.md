@@ -6,6 +6,7 @@ longitude: 73.6883
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 A small modern Hindu temple dedicated to the goddess Karni Mata, perched on the **Machhla Magra** hill above Doodh Talai lake. The temple itself is unremarkable — what brings you up here is the ropeway and the view.

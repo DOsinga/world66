@@ -13,6 +13,7 @@ story: >
   18th centuries. The tallest is 26 metres. The design reflects the eclectic patronage the
   shrine attracted, with donors from across the religious and political spectrum of medieval
   south India contributing to it.
+score: 8.1
 ---
 
 The Nagore Dargah, 5 km north of Nagapattinam, is one of the most important Sufi shrines in south India. It is built over the tomb of Hazrat Meeran Sahib Shahul Hamid, a Sufi saint from Nagore who died in 1570. The dargah draws pilgrims from across Tamil Nadu, Andhra Pradesh, and Sri Lanka — Muslim, Hindu, and Christian alike — in a tradition of inter-religious veneration unusual even for Tamil Nadu's syncretic religious culture.

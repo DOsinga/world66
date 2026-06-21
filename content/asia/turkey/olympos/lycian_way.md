@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "540 km waymarked coastal trekking route passing through Olympos"
+score: 8.0
 ---
 
 Olympos and Çıralı sit on the **Lycian Way**, the 540 km long-distance waymarked trail that runs

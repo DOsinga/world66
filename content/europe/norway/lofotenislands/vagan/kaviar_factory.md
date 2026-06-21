@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 68.154
 longitude: 14.199
+score: 7.9
 ---
 
 A former Norwegian caviar factory in Henningsvær converted in 2010 into a private contemporary art space — exhibitions of Olafur Eliasson, Andreas Gursky, Anish Kapoor, and major international names have made it the most ambitious art venue in northern Norway. The building looks unchanged from outside; the interior is a sequence of stripped-back industrial halls now used as galleries.

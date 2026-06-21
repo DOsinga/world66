@@ -6,6 +6,7 @@ longitude: -121.9742
 tags:
   - things_to_do
   - sight
+score: 8.7
 ---
 
 Tiger Mountain rises directly behind Issaquah and offers some of the most-walked trails in the Seattle area. Poo Poo Point, on the western flank, is the standout — a steep three-mile climb to a paragliding launch with a wide view back across Issaquah, Lake Sammamish, and the Olympic Mountains on a clear day.

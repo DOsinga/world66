@@ -13,6 +13,7 @@ story: >
   functions as a wholesale spice and grain market much as it did in medieval times.
   The goddess Annapurna, whose shrine is in the square, is the deity of food and abundance.
   Merchants still make offerings to her before opening their stalls.
+score: 8.5
 ---
 
 Asan Tol is the main market square of Kathmandu's old Newar city, a hub of five streets where the medieval spice trade still continues. The square is busy all day with vegetable sellers, spice merchants, and the kind of ordinary commercial life that gives Kathmandu's old city its character. A small Annapurna shrine at one end of the square is one of the busiest in the city — vendors, rickshaw drivers, and shoppers all stop to make offerings.

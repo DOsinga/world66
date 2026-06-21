@@ -7,6 +7,7 @@ tags:
 latitude: 13.8019
 longitude: 77.6096
 story: "Local tradition says the sculptors finished the seven-headed serpent shrine in a single afternoon, while their mother was preparing the day's meal. The work is so refined that even unhurried it would have taken weeks; the legend speaks more to the awe the carving inspired than the labour involved."
+score: 7.5
 ---
 
 In the open courtyard at the rear of the temple, a granite Shivalinga is sheltered by a coiled seven-headed naga — a cobra rising over the linga with its hood spread protectively, all carved from a single piece of stone. It is the most photogenic of the temple's sculptures, set in the open air rather than in a closed shrine, with the morning light catching the polished granite.

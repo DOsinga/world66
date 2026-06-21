@@ -11,6 +11,7 @@ tags:
 - prenzlauerberg
 title: Ellopia
 type: poi
+score: 5.8
 ---
 
 A well-regarded Greek restaurant on a quiet Prenzlauer Berg side street. The menu covers the classics — grilled meats, fresh salads, moussaka — done with care and good ingredients. Friendly service and a small terrace in summer. Reachable from Schönhauser Allee U- and S-Bahn.

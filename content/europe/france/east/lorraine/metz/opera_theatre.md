@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.4
 ---
 
 The opera house of Metz sits at the end of Place de la Comédie, on the Petite Île in the middle of the Moselle. Built between 1738 and 1752, it is the oldest opera house still in use in France — older than the Palais Garnier in Paris by more than a century. The classical limestone facade, framed by two flanking pavilions, is one of the most elegant 18th-century building groups in eastern France.

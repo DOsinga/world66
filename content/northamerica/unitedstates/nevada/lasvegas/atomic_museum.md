@@ -10,6 +10,7 @@ tags:
 - museum
 story: >
   Above-ground tests at the nearby Nevada Test Site, starting in 1951, were sometimes visible from downtown Las Vegas casinos — hotels advertised "atomic cocktails" and rooftop viewing parties timed to the detonations.
+score: 8.4
 ---
 
 The Atomic Museum is the only Smithsonian Affiliate in southern Nevada, and it tells the story of the United States' nuclear testing programme that ran for decades at the Nevada Test Site, about 65 miles north of the city. The collection includes Geiger counters, declassified film of above-ground detonations, hardware from missile programmes, and a recreated bunker that simulates a test using video, light, and sound.

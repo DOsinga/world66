@@ -8,6 +8,7 @@ tags:
   - restaurant
 address: 210 Central Avenue
 snippet: "Nuevo Latino restaurant with a leafy upstairs courtyard"
+score: 6.3
 ---
 
 A Cuban-Nicaraguan kitchen on Central Avenue that has stayed reliably good since the 1990s. The

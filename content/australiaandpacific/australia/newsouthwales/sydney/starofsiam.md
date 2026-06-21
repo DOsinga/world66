@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Star of Siam
 type: poi
+score: 5.7
 ---
 
 Good for a quick Thai meal on a weeknight in Chinatown. Gets very crowded on weekends, so time your visit. Reliable food at good value.

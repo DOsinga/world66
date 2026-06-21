@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 48.0068
 longitude: 0.1990
+score: 5.8
 ---
 
 One of the most reliable addresses for traditional Manceau cooking in the old town, Le Grenier à Sel occupies a 16th-century house on a narrow street below the cathedral. The menu centres on the classics of the Maine kitchen: rillettes, andouille sausage from Guémené, freshwater fish from the Sarthe, and local cheeses. The wine list focuses on the Loire Valley appellations — Jasnières and Coteaux du Loir in particular, both rarely found outside the region.

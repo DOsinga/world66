@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 51.8770
 longitude: -9.5870
+score: 7.4
 ---
 
 Reenagross is a small wooded peninsula that juts into the Kenmare River south of the town centre, with a network of walking trails through native woodland and along the shore. The longest loop takes about an hour at a slow pace; shorter cuts run down to little gravel beaches with views back across to the Beara Peninsula.

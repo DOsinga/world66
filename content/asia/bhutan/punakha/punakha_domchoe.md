@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.5819
 longitude: 89.8631
+score: 5.5
 ---
 
 The Punakha Domchoe is one of Bhutan's most spectacular religious festivals, held annually at Punakha Dzong in late February or early March (the exact date varies by the lunar calendar). The three-day event commemorates the defeat of Tibetan invaders in the 17th century by Zhabdrung Ngawang Namgyal, re-enacted through elaborate masked dances, processions, and rituals in the dzong's courtyard.

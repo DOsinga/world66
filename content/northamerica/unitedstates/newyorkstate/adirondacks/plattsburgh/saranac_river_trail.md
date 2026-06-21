@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
 snippet: "5-km paved riverside walk and bike path along the Saranac to the lake — Plattsburgh's best urban stroll"
+score: 6.8
 ---
 
 A 5-kilometre paved trail running along both banks of the Saranac River from the eastern edge of the SUNY campus down to Lake Champlain. The trail crosses the river twice on rebuilt railway bridges, passes under several historic stone road bridges, and offers views of trout fishermen, kayakers, and (in autumn) one of the best displays of red and gold leaves in the Champlain Valley.

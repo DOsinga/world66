@@ -7,6 +7,7 @@ longitude: 108.9407
 snippet: Han emperor's tomb with rooms of foot-tall painted attendants
 story: >
   When the satellite pits at Yangling were excavated in the 1990s, archaeologists found rank after rank of small painted-clay figures — soldiers, eunuchs, court ladies, animals — about a third life-size. They had been clothed in silk garments and equipped with miniature wooden weapons; the silk and wood are gone, leaving an army of small naked clay people standing in formation. They are sometimes called the "miniature terracotta army," and many people find them more moving than the more famous Qin army down the road.
+score: 8.6
 ---
 
 The tomb complex of the Han emperor Jing (ruled 157–141 BCE) and his empress, 20 km north of Xi'an. The site is built around two tomb mounds and dozens of subsidiary pits filled with painted clay figures of attendants, animals, and chariots — a softer, more domestic counterpart to the military display of the [Terracotta Warriors](/asia/china/shaanxi/xian/terracotta_warriors).

@@ -7,6 +7,7 @@ tags:
 - museum
 latitude: 38.5878
 longitude: -90.4253
+score: 6.7
 ---
 
 The Magic House is one of the most-visited children's museums in the United States, set in a 19th-century mansion in the inner-ring suburb of Kirkwood. The exhibits run the usual children's-museum range — a three-storey climbing structure, a water-play room, a small-scale grocery store and bank — but are exceptionally well executed and constantly updated.

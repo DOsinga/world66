@@ -9,6 +9,7 @@ title: Bautzen Memorial (Gedenkstätte Bautzen)
 type: poi
 snippet: Memorial in the former Stasi prison Bautzen II, on political detention in East Germany
 story: Bautzen II held political prisoners under both Nazi and East German rule — first Communists and Jews, then anti-Communists. The most famous postwar inmate was Walter Janka, a Communist publisher arrested in 1956 for criticising the regime. He was held in a cell here for five years; the cell can be visited today.
+score: 7.4
 ---
 
 The Bautzen Memorial is in the former East German political prison known as Bautzen II, a few minutes' walk east of the old town. The building was used by the Nazis to hold political prisoners; after 1945 the Soviets and then the East German Ministry for State Security ran it as a high-security prison for political detainees, with conditions of strict isolation.

@@ -1,5 +1,0 @@
-europe/unitedkingdom/scotland/banff
-northamerica/unitedstates/oklahoma/moore
-northamerica/unitedstates/williams_dam
-asia/philippines/coron
-asia/india/tamilnadu/tirunelveli

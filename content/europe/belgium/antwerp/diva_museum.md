@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: Diamond and silver museum just off the Grote Markt — Antwerp's heritage of luxury
+score: 7.4
 ---
 
 The city has been the world centre of diamond trading and cutting for five hundred years; DIVA is the museum that tells the story. The collection covers diamond mining and cutting, Antwerp silversmiths from the 16th and 17th centuries, and contemporary jewellery design. The route through the museum is presented as a series of themed rooms — the wonder cabinet, the workshop, the dining table — each with its own atmosphere.

@@ -8,6 +8,7 @@ latitude: 25.0833
 longitude: -77.3333
 story: >
   Paradise Island was called **Hog Island** until 1962, when American investor Huntington Hartford bought most of it and renamed it for marketing purposes. The hogs had largely been removed by then.
+score: 6.9
 ---
 
 A long thin island just north of Nassau, connected to downtown by a pair of high-arched bridges. The eastern two thirds are dominated by the Atlantis resort and a string of luxury condominiums; the western tip is the more public, beachy end with Paradise Beach.

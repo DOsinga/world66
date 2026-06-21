@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.4186
 longitude: 27.1258
+score: 7.7
 ---
 
 The municipal ferry service across the Gulf of İzmir is both a practical transport option and one of the most pleasant twenty minutes available in the city. Boats run frequently from Konak and Pasaport piers on the central waterfront to Karşıyaka and Bostanlı on the northern shore. The crossing takes 20–25 minutes each way.

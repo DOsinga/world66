@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: La Tana di Noantri
 type: poi
+score: 6.8
 ---
 
 A neighborhood trattoria tucked between Piazza Santa Maria and Piazza Sant'Egidio in the heart of Trastevere. The Roman cooking is honest and well-priced — expect solid pasta dishes, good antipasti, and straightforward secondi. In summer the real draw is the outdoor seating, where you can eat surrounded by the bustle of one of Rome's most atmospheric quarters. Closed Tuesdays.

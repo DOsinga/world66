@@ -7,6 +7,7 @@ tags:
 - restaurant
 latitude: 36.2155
 longitude: 117.1018
+score: 5.7
 ---
 
 Shandong is wheat country and its noodle tradition is as old as any in China. In Tai'an the most common form is hand-pulled (lamian), made to order from a single rope of dough that the cook stretches and folds into ever finer strands before throwing into the broth. Tongtian Street and the smaller lanes around Dai Temple have a noodle shop on every block.

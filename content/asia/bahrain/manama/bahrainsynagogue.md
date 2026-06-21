@@ -6,6 +6,7 @@ latitude: 26.2305
 longitude: 50.574
 snippet: "One of the only functioning synagogues in the Arabian Gulf"
 story: "Bahrain's Jewish community was never expelled and never faced the kind of pressure that emptied other Gulf communities. Several Bahraini Jews held government and diplomatic positions even after 1948; one, Houda Nonoo, served as Bahrain's ambassador to the United States from 2008 to 2013."
+score: 4.4
 ---
 
 The Bahrain Synagogue — formally known as Beit Wosat al-Ashr, the House of Ten Commandments — sits on Sasa'ah Avenue in Manama's commercial district and is one of the only functioning synagogues in the Arabian Gulf. Bahrain's Jewish community has been present since the 1880s, when Jewish merchants and traders from Iraq and Iran settled here during the pearl trading era. The community grew to perhaps 1,500 people by the mid-20th century, employed across commerce, government services, and the professions. The synagogue was established to serve this community and has remained operational, though the congregation is now small — perhaps 30 to 40 families remain.

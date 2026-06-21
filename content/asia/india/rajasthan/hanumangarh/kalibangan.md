@@ -15,6 +15,7 @@ tags:
   - museum
 title: Kalibangan Archaeological Site
 type: poi
+score: 8.2
 ---
 
 Kalibangan is one of the most important excavated sites of the Indus Valley Civilization, about 30 kilometres south of Hanumangarh on the bank of the dry Ghaggar river. Occupied from approximately 3000 BCE, the site has two mounds: the lower city, where ordinary residents lived, and the upper citadel, where ritual and administrative activities were concentrated. Excavations conducted by the Archaeological Survey of India from the 1960s onward revealed fire altars, elaborate drainage systems, and the remarkable early ploughed field.

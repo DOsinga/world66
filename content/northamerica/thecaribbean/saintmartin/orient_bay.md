@@ -10,6 +10,7 @@ tags:
   - swimming
 sources:
   - https://en.wikipedia.org/wiki/Orient_Bay
+score: 7.8
 ---
 
 Orient Bay is the island's liveliest beach: a long, north-facing crescent on the French side backed by a strip of restaurants, beach bars, and watersports rental operators. The water is clear and turquoise, and the consistent northeast trade winds make it one of the better spots on the island for windsurfing and kitesurfing. The southern end of the beach is clothing-optional and draws a predominantly European crowd.

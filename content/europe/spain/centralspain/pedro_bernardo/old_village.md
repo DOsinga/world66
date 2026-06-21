@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Old Village
 type: poi
+score: 7.1
 ---
 Pedro Bernardo's historic core is a tight cluster of granite and slate buildings stepping down a hillside above the Tiétar valley. The streets are narrow and mostly free of traffic, lined with houses whose thick stone walls have kept families cool in summer and warm in winter for centuries. A small Romanesque church anchors the upper part of the village, and a stone-arched fountain in the main square still runs with spring water.
 

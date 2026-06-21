@@ -9,6 +9,7 @@ longitude: -2.206944
 story: "The museum is housed in the old school building in St Anne, built in 1790. The natural history collection — assembled over a century by island residents — includes specimens and observations that have contributed to scientific understanding of Alderney's unusually diverse bird and marine life."
 sources:
   - https://en.wikipedia.org/wiki/Alderney_Society_Museum
+score: 7.3
 ---
 
 The Alderney Society Museum is the island's only museum, housed in St Anne's old schoolhouse. It covers the island's natural history, archaeology, and social history, with sections on the German occupation that are among the most thoughtful treatments of that difficult period anywhere in the Channel Islands. The collection includes Iron Age finds from the island (Alderney has extensive pre-Roman archaeological sites), Victorian photographs, and objects from the occupation years.

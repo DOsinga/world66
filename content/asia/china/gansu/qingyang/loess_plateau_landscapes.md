@@ -14,6 +14,7 @@ story: >
   generations. The temperature inside stays roughly constant year-round, warm in winter
   and cool in summer. For people living on the Loess Plateau, a cave house was not
   a primitive option but a sophisticated adaptation to both the geology and the climate.
+score: 7.9
 ---
 
 The countryside around Qingyang is among the best places in China to see traditional loess cave dwellings in their natural setting. The eroded landscape of ravines and flat-topped plateaus is dotted with cave villages, some abandoned and decaying, others still occupied by farming families who maintain the old forms of architecture. Walking the lanes between a traditional cave village — where the houses recede into the cliff face rather than rising above the ground — gives a vivid sense of how profoundly the Loess Plateau shaped human habitation here.

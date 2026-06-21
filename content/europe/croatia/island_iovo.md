@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-07
-  location_enrich: '2026-05-28'
+  location_enrich: '2026-06-01'
 image: island_iovo.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Ciovo-01-Croatia.jpg
@@ -9,6 +9,8 @@ latitude: 43.4979
 loc_type: city
 longitude: 16.3005
 score: 0.6
+sources:
+  - https://en.wikipedia.org/wiki/%C4%8Ciovo
 title: Island Čiovo
 type: location
 ---

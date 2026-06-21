@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.5968
 longitude: 36.5882
+score: 6.1
 ---
 
 Sobornaya Square is the central square of Belgorod, named for the cathedral (sobor) that stands on its north side. It is the social heart of the city — a wide pedestrian plaza with benches, fountains, and the usual Russian city-centre arrangement of Soviet-era administrative buildings alongside restored 19th-century facades. The square is where the city gathers for public holidays, particularly Liberation Day on 5 August.

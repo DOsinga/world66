@@ -14,6 +14,7 @@ story: >
   this synagogue, which has been in continuous use since 1762 — making it one
   of the oldest Ashkenazi synagogues still functioning in the English-speaking
   world.
+score: 7.4
 ---
 
 Plymouth Synagogue on Catherine Street dates from 1762 and is a Grade II* listed building — one of the oldest Ashkenazi synagogues in the world still in use for worship. The building is a simple, dignified Georgian structure with a plain exterior that gives little away from the street.

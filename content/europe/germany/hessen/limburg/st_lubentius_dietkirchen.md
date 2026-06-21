@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 Three kilometres upstream from Limburg, on a rock above the Lahn in the village of Dietkirchen, stands the Romanesque collegiate church of St Lubentius. Founded in the eighth century by Irish or Frankish missionaries, the present basilica is essentially eleventh- and twelfth-century work, with two squat western towers and the simple, fortress-like profile typical of Lahn-valley Romanesque.

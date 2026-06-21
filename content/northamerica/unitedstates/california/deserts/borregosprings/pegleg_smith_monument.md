@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Thomas Long "Pegleg" Smith was a one-legged trapper, horse thief and serial fabulist who claimed in the 1850s to have found three black-coated gold nuggets at a hilltop somewhere in this desert. He never produced the gold, never returned to the spot, and almost certainly invented the story to get a free meal in San Francisco saloons. The monument asks you to add a rock to the pile each visit — and on the first Saturday of April every year, locals gather here for a lying contest where the best tall tale wins a small cash prize.
+score: 4.2
 ---
 
 A pile of rocks beside a dirt road on the eastern edge of the valley, marking nothing in particular. The hand-painted sign asks visitors to add ten stones to the pile, and the cairn is now over thirty feet across.

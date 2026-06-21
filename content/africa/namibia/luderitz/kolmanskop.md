@@ -12,6 +12,7 @@ story: >
   than most Europeans of the time. By 1956 the last residents had left; within a decade
   the desert had begun reclaiming the interiors.
 snippet: Abandoned diamond-mining town being consumed by Namib Desert sand
+score: 9.5
 ---
 
 Kolmanskop is one of the most photographed places in Africa — an abandoned diamond-mining town 10 kilometres inland from Lüderitz, where the Namib Desert has been slowly filling the rooms of the old houses with sand for seven decades. The pastel-coloured buildings, built in the German colonial style during the diamond rush of the 1900s, stand half-buried, with dunes flowing across bedroom floors and sand piled to windowsill height in the drawing rooms. The effect is simultaneously beautiful and melancholy.

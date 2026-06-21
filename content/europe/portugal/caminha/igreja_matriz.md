@@ -14,6 +14,7 @@ story: >
   Iberia. It is one of the few surviving examples of this Andalusian carpentry
   technique in northern Portugal. The story is that Caminha could afford it
   because the port was, briefly, one of the wealthiest on the Atlantic coast.
+score: 8.3
 ---
 
 Caminha's parish church sits at the eastern edge of the old town, a fortified-looking pile of granite that was begun in 1488 and dragged on through the next century. From outside it is plain to the point of grim — buttressed walls, a low square tower, very little decoration. The doorway facing the river is the exception: a Renaissance portal with carved saints and grotesques, well worth a look.

@@ -13,6 +13,7 @@ tags:
 - landmark
 title: St Mary's Church
 type: poi
+score: 9.2
 ---
 
 The largest brick church in the world, built over 159 years and completed in 1502. The interior holds 25,000 people and is vast enough to feel genuinely awe-inspiring even when empty — white-washed walls, soaring Gothic vaulting, and 31 chapels radiating off the nave. Climb the 405 steps of the tower for the best panorama of the old town and the river.

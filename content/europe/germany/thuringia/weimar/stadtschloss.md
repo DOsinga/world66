@@ -12,6 +12,7 @@ story: >
   Goethe personally oversaw the reconstruction as the Duke's minister, turning it
   into a showcase of Weimar Classicism. The result was one of the first purpose-built
   art museums in Germany.
+score: 7.9
 ---
 
 Weimar's city palace anchors the eastern edge of the Altstadt, overlooking the Ilm river and the park below. The current building dates mostly from the early nineteenth-century reconstruction, but its tower — the Schlossturm — is older and offers views over the town's rooftops. Inside, the palace houses the art collection of the Klassik Stiftung Weimar, with works by Cranach the Elder, Durer, and Caspar David Friedrich.

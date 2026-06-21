@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - altstadt
+score: 5.8
 ---
 
 A sprawling complex of nine eating and drinking spaces around an old courtyard off Getreidegasse: a beer hall, a steakhouse, a pizzeria, a sushi bar, and an Austrian Wirtshaus, all sharing one kitchen network. It is touristy but unusually well-run.

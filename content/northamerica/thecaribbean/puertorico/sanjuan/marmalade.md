@@ -8,6 +8,7 @@ tags:
   - restaurant
   - old_san_juan
 neighbourhood: Old San Juan
+score: 7.0
 ---
 
 Marmalade has been the standard-bearer of upmarket dining in Old San Juan for almost two decades — chef Peter Schintler's tasting-menu restaurant on Calle Fortaleza, decorated like a curated nineteenth-century parlour with deep banquettes and chandeliers. Expect five or six courses built from local seafood, root vegetables, and Puerto Rican proteins reworked in a contemporary register: white bean soup is a long-standing signature.

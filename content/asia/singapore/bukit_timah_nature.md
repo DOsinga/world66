@@ -5,9 +5,10 @@ snippet: Primary rainforest and Singapore's highest point in the city centre
 tags:
 - things_to_do
 - walk
-- tours_and_excursio
+- tours_and_excursions
 title: Bukit Timah Nature Reserve
 type: poi
+score: 8.4
 ---
 
 One of the only patches of primary tropical rainforest left in Singapore, Bukit Timah Nature Reserve packs a remarkable amount of biodiversity into its 163 hectares. The reserve contains more tree species than the entire North American continent. Macaques are common, and if you are quiet you may spot flying lemurs, pangolins, or the reticulated python.

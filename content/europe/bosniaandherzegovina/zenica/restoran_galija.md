@@ -5,6 +5,7 @@ snippet: Sit-down restaurant with grilled meats and Bosnian standards
 tags: [eating_out, restaurant]
 latitude: 44.2002
 longitude: 17.9082
+score: 4.9
 ---
 
 A reliable mid-range restaurant in the centre. The menu is firmly Bosnian — mixed grill, pleskavica, sač-baked lamb on order, plus pasta and pizza concessions to wider taste. Portions are large, prices modest.

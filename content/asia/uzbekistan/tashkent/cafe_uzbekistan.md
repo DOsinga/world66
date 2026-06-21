@@ -9,6 +9,7 @@ tags:
 neighbourhood: New Town
 latitude: 41.3128
 longitude: 69.2811
+score: 6.2
 ---
 
 The ground-floor bar of the brutalist Hotel Uzbekistan, an essentially unchanged piece of Soviet hospitality on Amir Timur Square. Heavy wood, dim lighting, and stoic waiters in shabby waistcoats. Order a cold beer or a vodka and watch the lobby traffic.

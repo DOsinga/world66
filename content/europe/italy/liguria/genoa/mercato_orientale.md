@@ -14,6 +14,7 @@ story: >
   the cloister became the stalls. The building has served as a food market ever since,
   one of the few such conversions in Italy that has maintained a genuine working market
   function rather than becoming a tourist attraction.
+score: 8.0
 ---
 
 Genoa's main food market, installed in the cloister of a dissolved 18th-century monastery, is one of the best in Liguria. The stalls sell everything the Ligurian kitchen requires: fresh fish and seafood from the coast, cheeses including the great Genoese *prescinseua* (a fresh curd used in focaccia), pesto prepared in front of you, dried herbs, pasta in all the local shapes, and a good wine section.

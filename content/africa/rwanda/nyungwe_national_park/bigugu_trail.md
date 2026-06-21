@@ -7,6 +7,7 @@ tags:
 - walk
 latitude: -2.4831
 longitude: 29.2497
+score: 8.1
 ---
 
 Mount Bigugu is the highest point in Nyungwe at 2,950 metres, and the trail to the summit is the park's most demanding walk — about 13 kilometres round trip, with a stiff ascent through bamboo and montane forest. Allow six to eight hours including stops, and start early.

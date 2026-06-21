@@ -6,6 +6,7 @@ tags:
 - cafe
 title: Karachi Press Club
 type: poi
+score: 7.6
 ---
 The Karachi Press Club, established in 1958, is one of those institutions that punches well above its physical weight. A modest building near the civic centre, it has functioned for decades as a gathering point for journalists, lawyers, activists, and anyone else who needs a neutral space to argue about politics in a city where such arguments carry genuine stakes. Protests are announced from its steps; press conferences are held in its courtyard; the canteen serves cheap tea and food to people who have been covering crises since before the current government existed.
 

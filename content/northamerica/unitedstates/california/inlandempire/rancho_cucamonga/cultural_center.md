@@ -6,6 +6,7 @@ longitude: -117.5327
 tags:
   - things_to_do
   - sight
+score: 6.0
 ---
 
 The city's main library, performing arts theatre, and exhibition gallery, in a 2006 building attached to the north end of Victoria Gardens. The 536-seat Lewis Family Playhouse hosts the city's theatre series, touring productions, and local orchestral concerts; the Celebration Hall is used for civic events and weddings.

@@ -9,6 +9,7 @@ tags:
 latitude: 53.0292
 longitude: 5.6592
 story: "The Waterpoort survived because the rest of Sneek's medieval walls were demolished in the 19th century to let the town breathe — only the picturesque water gate was kept, and it has been the town's emblem ever since."
+score: 8.9
 ---
 
 The Waterpoort is Sneek's defining sight: a twin-towered Renaissance water gate built in 1613, straddling the canal at what was once the southern edge of the walled town. Its red-brick towers, ornate gables and spires belong to the prosperous Dutch Golden Age, when Sneek lived on the trade that passed through this very gate by boat. The structure survives as the only remaining piece of the old fortifications.

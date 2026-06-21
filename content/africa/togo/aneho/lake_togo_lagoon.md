@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 6.2350
 longitude: 1.5800
+score: 7.8
 ---
 
 Aneho sits on a narrow sand spit with the Gulf of Guinea on one side and the lagoon of Lake Togo on the other. The lagoon side is far calmer than the open sea — the water is flat, lined with mangroves and small fishing communities, and offers a completely different atmosphere from the ocean beach. Pirogues can sometimes be hired from local fishermen for short trips on the water, which is the best way to see the lagoon up close.

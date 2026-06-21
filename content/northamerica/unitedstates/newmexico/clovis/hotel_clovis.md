@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 snippet: The 1931 ten-storey Art Deco hotel that dominates the downtown skyline
+score: 7.6
 ---
 
 The tallest building in Clovis is the Hotel Clovis, a ten-storey Art Deco tower on Main Street that opened in 1931 and was, for a brief moment, the grandest hotel between Albuquerque and Amarillo. The brick-and-terracotta facade, topped with stylised southwestern motifs and decorative parapets, is one of the finest pieces of high Art Deco in eastern New Mexico.

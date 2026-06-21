@@ -8,6 +8,7 @@ latitude: 46.3194
 longitude: 13.5119
 story: >
   The Boka is the highest waterfall in Slovenia, dropping 106 metres in its first free-fall before continuing down the cliff face. In spring snowmelt it is visible from the main road kilometres away. The path to the viewpoint was cut into the cliff in the 19th century by Austro-Hungarian soldiers building the military road, and sections of it are still original stonework.
+score: 7.7
 ---
 
 The Boka waterfall is the highest waterfall in Slovenia, dropping 106 metres from the limestone cliff above the Soča valley. It lies about 4 km south of Bovec on the main road, and the viewpoint walk takes around 40 minutes return from the parking area. In spring the waterfall is immense — fed by snowmelt from the Kanin plateau — and the spray is felt well before the falls come into view.

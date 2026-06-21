@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 41.4047
 longitude: -75.6633
+score: 7.8
 ---
 
 The Anthracite Heritage Museum, at the entrance to McDade Park next to the coal mine tour, covers the history and culture of the hard-coal region of north-eastern Pennsylvania. The collection ranges from miners' tools and company-store ledgers to immigrant family photographs and union banners — what makes it worth visiting is the focus on the people who worked the mines rather than the industry as a whole.

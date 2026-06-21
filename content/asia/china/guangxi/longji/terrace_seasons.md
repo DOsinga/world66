@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.7975
 longitude: 110.0047
+score: 5.8
 ---
 
 The terraces cycle through four visually distinct phases that are worth understanding before you book. **Late May** (flooded fields): the paddies are filled with water for planting and every terrace becomes a mirror — the most photographed configuration and the one that gives the terraces their otherworldly quality. **June to August** (young rice, deep green): the terraces are a solid green, lush but without the reflections; this is also peak tourist season. **Late September to October** (harvest, golden): the rice ripens to gold and the terraces glow — the second great photographic period. **November to early April** (stubble or winter): stripped fields after harvest, or, occasionally, snow — stark and beautiful, almost no tourists.

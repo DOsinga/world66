@@ -6,6 +6,7 @@ longitude: -107.7180
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 The McCarty's Flow is the youngest lava flow at El Malpais and one of the youngest in the continental United States. It erupted from a vent on the northwestern edge of the monument about 3,000 years ago, sending a tongue of basalt almost forty kilometres north along the valley of the Rio San Jose. The surface still looks fresh, with shiny black rope-like pahoehoe textures and almost no soil cover.

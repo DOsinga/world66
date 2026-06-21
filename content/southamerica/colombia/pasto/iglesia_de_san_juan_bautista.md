@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 1.2145
 longitude: -77.2780
+score: 7.7
 ---
 
 The oldest church in Pasto, originally built in the 1560s on the site where the city was founded. The current structure dates mostly from the late 17th and 18th centuries after earthquake damage and rebuilding.

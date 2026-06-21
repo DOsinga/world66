@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.8689
 longitude: 121.5403
+score: 7.9
 ---
 
 The Yuehu Mosque near Moon Lake in central Ningbo is one of the oldest mosques in Zhejiang, dating to the Yuan dynasty when Arab and Persian Muslim merchants formed a significant presence in Ningbo's trading community. The current building has been rebuilt several times, but the mosque has maintained continuous use for nearly seven centuries, a testament to the durability of Ningbo's Muslim community.

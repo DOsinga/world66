@@ -7,6 +7,7 @@ tags:
 - wildlife
 latitude: -2.5000
 longitude: 29.2500
+score: 7.9
 ---
 
 Nyungwe's troops of Angolan black-and-white colobus monkeys are among the largest recorded anywhere — groups of 300 to 400 animals have been observed moving through the canopy together, which is unusual for a species that typically lives in groups of 20 to 30. The reasons are not fully understood: the forest may be unusually productive, or the absence of large predators may allow super-troops to form.

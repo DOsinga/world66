@@ -15,6 +15,7 @@ story: >
   drainage sump — exactly as the soldiers had left it. Excavation revealed
   human remains, personal effects, and military equipment. Some of the
   recovered soldiers were later identified and given proper burials.
+score: 7.9
 ---
 
 At Boezinge, about 5 km north of Ypres on the Pilkem Ridge, the Yorkshire Trench is one of the best-preserved First World War frontline positions you can actually walk through. The trench was discovered by accident in 1992 and excavated to reveal a section of the British line with original wooden structures still in place underground. Part of the excavation has been re-exposed and is now a small free-to-visit site.

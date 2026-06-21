@@ -8,6 +8,7 @@ latitude: 58.8844
 longitude: -3.3143
 snippet: "Unique rock-cut Neolithic tomb on the island of Hoy"
 story: "Walter Scott's novel 'The Pirate' identified the Dwarfie Stane as the dwelling of a Norse dwarf called Trollid. The eighteenth-century antiquarian Hugo Arnot wrote that 'the place is to be considered a relic of paganism, and worthy of inspection.' Carbon dating now puts it at around 3000 BCE."
+score: 8.0
 ---
 
 Unique in northern Europe, the Dwarfie Stane is a Neolithic tomb cut into a single enormous block of red sandstone in a glacial valley on Hoy. The chamber inside is just large enough for one or two people to crawl into. A massive plug-stone, now lying beside the entrance, originally sealed it.

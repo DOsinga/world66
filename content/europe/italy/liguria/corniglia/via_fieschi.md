@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.6
 ---
 
 Via Fieschi is the main street of Corniglia, running the full length of the village from the piazza to the western belvedere. It is narrow, paved in the same cream-grey stone as the buildings that press in on both sides, and entirely car-free. In high summer it can feel tight with visitors moving in both directions, but step off into one of the tiny side alleys and you're immediately alone.

@@ -9,6 +9,7 @@ tags:
 - historic_house
 title: Pomeranian Landowners' Palace
 type: poi
+score: 6.3
 ---
 
 The Pomeranian Landowners' Palace — in German the Ständehaus — is one of the surviving Baroque buildings in Szczecin's old city. Built in the 18th century as a meeting place for the Pomeranian nobility, it stands as a reminder of the city's pre-war urban fabric, most of which was destroyed in Allied bombing in 1944 and 1945.

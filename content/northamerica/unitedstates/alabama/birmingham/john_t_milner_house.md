@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Redmont Hotel
 type: poi
+score: 6.1
 ---
 
 The Redmont, opened in 1925, is the oldest operating hotel in Birmingham and a handsome example of the city's early boom years. The 14-story building at 5th Avenue North and 21st Street has been restored carefully and is now a boutique hotel — but the bar and lobby are open to non-guests and make a good starting point for a downtown evening.

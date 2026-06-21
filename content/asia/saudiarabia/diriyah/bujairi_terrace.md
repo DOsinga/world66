@@ -8,6 +8,7 @@ tags:
   - eating_out
   - sight
   - neighbourhood
+score: 6.8
 ---
 
 Bujairi Terrace is the dining strip just east of At-Turaif, opened in 2022 as part of the wider Diriyah development. The terrace runs along a bluff overlooking the old town and is lined with branches of Middle Eastern and international restaurants — Hakkasan, Long Chim, Brasserie Bouligny, several local breakouts.

@@ -10,6 +10,7 @@ story: >
   The Pader is one of the shortest rivers in Germany — around four kilometres from its sources to where it joins the Lippe — and yet it springs fully formed from over 200 separate points right in the city centre. Charlemagne held an important imperial diet at Paderborn in 777, and it was almost certainly the springs that made this inland location significant enough to build an empire around.
 sources:
   - https://en.wikipedia.org/wiki/Pader_(river)
+score: 7.5
 ---
 
 The Pader springs (Paderquellen) are the defining geographical feature of Paderborn, and the reason the city exists at all. Over 200 separate springs emerge from the limestone ground in and around the Stadtpark, creating instant streams that join into the Pader river almost immediately. The water flows year-round at a constant temperature of about 9°C.

@@ -13,6 +13,7 @@ tags:
 - nature
 title: La Tigra National Park
 type: poi
+score: 8.7
 ---
 
 Parque Nacional La Tigra is a cloud forest reserve about 22 km northeast of Tegucigalpa, accessible as a day trip. Honduras's first national park, it covers 238 square kilometres of montane forest at elevations between 1,800 and 2,270 metres — noticeably cooler and damper than the capital.

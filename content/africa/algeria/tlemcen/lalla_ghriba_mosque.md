@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.8853
 longitude: -1.3078
+score: 7.3
 ---
 
 A small Zayyanid-era neighbourhood mosque tucked into a quiet corner of the medina, the Lalla Ghriba (or Mosque of El-Korran) is unobtrusive from outside but exceptional inside: a single small prayer hall with a carved plaster mihrab and a fine wooden ceiling. It is dedicated to a female saint and unusually retains the feminine name.

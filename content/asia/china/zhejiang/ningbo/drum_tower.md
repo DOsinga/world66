@@ -8,6 +8,7 @@ latitude: 29.8756
 longitude: 121.5446
 story: >
   The original Ningbo Drum Tower was built in 821 CE during the Tang dynasty as part of the city's fortification system. The current structure is a reconstruction from 1989, but the site has been continuously occupied as an urban landmark for twelve hundred years, and the surrounding street names and neighbourhood identities still orient themselves around the tower as the city's historic centre.
+score: 7.1
 ---
 
 The Drum Tower stands at the northern end of the old city's main axis, a reconstructed Tang dynasty gate tower that now serves as the symbolic centre of Ningbo's historic district. The current tower is a modern reconstruction but the location has been the city's focal point since the ninth century, and the surrounding area — Gulou district — contains the highest concentration of old lanes, traditional courtyard houses, and pre-modern street patterns remaining in central Ningbo.

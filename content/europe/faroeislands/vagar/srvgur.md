@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-05-30'
+  location_enrich: '2026-06-02'
 image: srvgur.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Sorvagur,_faroe_islands,_view_on_mykines.jpg
@@ -9,12 +9,12 @@ latitude: 62.070745
 loc_type: city
 longitude: -7.306047
 score: 0.54
+sources:
+- https://en.wikipedia.org/wiki/S%C3%B8rv%C3%A1gur
+- https://en.wikipedia.org/wiki/S%C3%B8rv%C3%A1gsvatn
+- https://en.wikipedia.org/wiki/V%C3%A1gar_Airport
 title: Sørvágur
 type: location
-sources:
-  - https://en.wikipedia.org/wiki/S%C3%B8rv%C3%A1gur
-  - https://en.wikipedia.org/wiki/S%C3%B8rv%C3%A1gsvatn
-  - https://en.wikipedia.org/wiki/V%C3%A1gar_Airport
 ---
 
 Sørvágur is a quiet village of around 1,000 people on the western coast of [Vágar](/europe/faroeislands/vagar), but its surroundings are among the most dramatic in the entire [Faroe Islands](/europe/faroeislands). The Faroes' only airport sits on the edge of town. The harbour is the departure point for ferries to [Mykines](/europe/faroeislands/mykines), the wildest of the island chain. And within a short walk lies the entrance to the trail that leads to Sørvágsvatn — the lake that appears, impossibly, to float above the sea.

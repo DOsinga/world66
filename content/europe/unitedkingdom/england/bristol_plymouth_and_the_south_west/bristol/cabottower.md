@@ -7,6 +7,7 @@ longitude: -2.6068
 tags:
 - things_to_do
 - landmark
+score: 6.8
 ---
 
 A Bristol landmark set atop Brandon Hill, the city's oldest park. Visible from many parts of the city, at night its beacon flashes B-R-I-S-T-O-L in Morse code. The 105-foot red sandstone tower with Bath stone dressings was designed by William Venn Gough. A spiral staircase leads to a balcony with splendid views over the city, the harbour, and across to Wales on clear days.

@@ -8,6 +8,7 @@ tags:
 neighbourhood: Aminabad
 latitude: 26.8548
 longitude: 80.9318
+score: 6.4
 ---
 
 Royal Cafe in Hazratganj (and the older branch in Aminabad) is the standard address for **basket chaat** — a Lucknow speciality in which a deep-fried potato basket is filled with chickpea curry, tamarind chutney, mint, yoghurt, and pomegranate seeds, and eaten with a spoon before the basket goes soggy. It is generous, sweet-sour-spicy, and worth a stop on any walk through the central commercial streets.

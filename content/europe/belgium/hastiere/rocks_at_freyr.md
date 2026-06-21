@@ -9,6 +9,7 @@ longitude: 4.894023
 snippet: "Dramatic limestone crags above the Meuse — the premier rock climbing site in Belgium"
 sources:
   - https://en.wikipedia.org/wiki/Rocks_at_Freyr
+score: 7.8
 ---
 
 The Rocks at Freyr are a series of imposing limestone cliffs rising from the right bank of the Meuse directly opposite the Château de Freyr. They are the best known rock climbing site in Belgium, with routes of all grades cut into the pale grey rock. The tallest walls reach around 80 metres.

@@ -10,6 +10,7 @@ tags:
   - architecture
 snippet: The only surviving 16th-century printing workshop in the world — UNESCO World Heritage
 story: "The Plantin-Moretus workshop printed continuously from 1576 to 1867, making it the oldest printing house in continuous operation. The original wooden presses still stand in the workshop, two of them dating from around 1600 — the two oldest surviving printing presses in the world."
+score: 9.7
 ---
 
 The Plantin-Moretus is unlike any other museum in Europe. The Plantin-Moretus family operated their printing workshop here from the 1570s to 1867, and on their final closure the city bought the property intact — building, presses, library, archives, type, family portraits — and turned it into a museum. The result is the only sixteenth-century printing workshop preserved as it was when working.

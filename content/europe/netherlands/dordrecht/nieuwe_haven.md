@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 51.8141
 longitude: 4.6651
+score: 7.7
 ---
 
 Nieuwe Haven is the long, slightly L-shaped canal that runs along the southern edge of the old town, lined on both sides with tall narrow houses, the occasional warehouse and a row of historic boats moored against the quay. It is the canal that gives Dordrecht its postcard look — slow water, gabled facades, a couple of low bridges — and it is the cleanest single walk you can take to absorb the character of the city.

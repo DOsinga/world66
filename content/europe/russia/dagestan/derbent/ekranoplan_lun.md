@@ -14,6 +14,7 @@ story: >
   only surviving example.
 sources:
   - https://en.wikipedia.org/wiki/Lun-class_ekranoplan
+score: 8.4
 ---
 
 On the Caspian shore just north of Derbent, a giant Soviet aircraft has been beached since the 1990s and slowly rusting into one of the most remarkable abandoned-vehicle sights in the world. The Lun is a "ground effect vehicle" — a craft that flies just a few metres above the water's surface, effectively riding the cushion of compressed air between its wings and the sea. It is roughly the size of a 747 but was designed to skim at low altitude rather than climb to cruising height.

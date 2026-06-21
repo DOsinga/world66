@@ -9,6 +9,7 @@ latitude: 36.0606
 longitude: 103.8268
 story: >
   The official formula for authentic Lanzhou noodles is said to be "one clear, two white, three red, four green, five yellow" — clear broth, white radish, red chilli oil, green coriander and garlic shoots, yellow noodles. The recipe was supposedly standardized by a Hui Muslim named Ma Baozi in the early 20th century, though the style is older. A bowl today should contain no MSG, use only halal beef and bone broth made from scratch each day, and have noodles pulled to order from a single lump of dough.
+score: 7.7
 ---
 
 Lanzhou beef noodles — *lanzhou lamian* (兰州拉面) — are the defining dish of the city and one of the great breakfast foods of China. The broth is made from beef bones simmered for hours until it is clear but deeply flavored, served in a bowl with hand-pulled noodles of your chosen thickness (from thin angel-hair to flat ribbons to thick rope-like strands), sliced beef, white radish, chilli oil, and fresh coriander. A bowl costs between 10 and 20 yuan.

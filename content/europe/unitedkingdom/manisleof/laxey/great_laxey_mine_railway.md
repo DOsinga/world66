@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.2338
 longitude: -4.4049
+score: 6.4
 ---
 
 A short but satisfying narrow-gauge heritage railway that runs on the original tramway used by miners to move ore from the Great Laxey Mine to processing facilities in the valley below. The quarter-mile line operates on Saturdays between Easter and September, with trains running every few minutes.

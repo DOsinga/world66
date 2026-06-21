@@ -8,6 +8,7 @@ latitude: 43.8900
 longitude: 125.3100
 story: >
   The Red Flag limousine was the symbol of Chinese Communist power for decades — the vehicle in which Mao Zedong, Zhou Enlai, and every subsequent leader was seen publicly. Built in Changchun from the late 1950s onward, it was China's answer to the Soviet ZIL: a statement that a socialist state could build its own prestige cars without importing from the capitalist West. The first models were assembled largely by hand, and production never exceeded a few hundred units per year, making them among the rarest production vehicles of their era.
+score: 8.3
 ---
 
 The China FAW Museum documents the history of First Automobile Works — the state enterprise that put China's automotive industry on the map — and its most famous product, the Red Flag (Hongqi) limousine. FAW was established in Changchun in 1953 with Soviet assistance as one of the centrepiece projects of the first Five-Year Plan, and the museum traces its development from those early Soviet-assisted years through the Maoist period to the modern joint-venture era.

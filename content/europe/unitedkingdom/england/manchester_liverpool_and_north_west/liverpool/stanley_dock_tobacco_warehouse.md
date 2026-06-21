@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Stanley Dock Tobacco Warehouse
 type: poi
+score: 7.3
 ---
 
 A vast 14-storey Victorian warehouse on the north docks, completed in 1901 and at the time the largest brick building in the world by floor area — over 1.6 million square feet. The cast iron columns and brick vaulting were designed to bear the weight of stacked hogsheads of tobacco arriving from Virginia and the Carolinas.

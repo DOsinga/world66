@@ -13,6 +13,7 @@ story: "Rémy Martin is the only one of the major cognac houses that works exclu
   the same Hériard Dubreuil family since the 1960s and remains independent."
 snippet: The only grande maison working exclusively with Grande and Petite Champagne grapes
 type: poi
+score: 7.9
 ---
 
 Rémy Martin's visitor experience is split between the town of Cognac and the company's Domaine de Merpins estate a few kilometres south, where the main ageing cellars and vineyards are located. Tours of the estate give a more agricultural perspective than the purely industrial experience at some larger houses — you see the vine parcels and the distillery before arriving at the cellars.

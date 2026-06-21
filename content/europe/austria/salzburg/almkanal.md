@@ -6,6 +6,7 @@ longitude: 13.0460
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 The Almkanal is a 12th-century gravity-fed canal system, partly underground, that brings water from the Königsseeache river into the old town for milling, washing, fire-fighting, and (until the 19th century) sewage. The network is the oldest of its kind in central Europe.

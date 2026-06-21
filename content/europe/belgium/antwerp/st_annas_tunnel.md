@@ -9,6 +9,7 @@ tags:
   - sight
 snippet: 1933 pedestrian tunnel under the Scheldt with original wooden escalators
 story: "The wooden escalators down into the tunnel were installed in 1933 and are still in daily operation — they are the last working wooden escalators in the world. The tunnel itself is 572 metres long and runs nine metres below the riverbed."
+score: 7.9
 ---
 
 A 1933 pedestrian and cyclist tunnel running 572 metres under the Scheldt, linking the city centre to Linkeroever (the Left Bank). The tunnel is mostly an unremarkable tiled corridor lit by yellow lamps. The extraordinary detail is the **wooden escalators** at each end — original 1933 installations of slatted wood, still in daily operation and the last working wooden escalators in the world.

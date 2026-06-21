@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 37.5509
 longitude: -77.4807
+score: 7.4
 ---
 
 The most animated street-level commercial district in Richmond, Carytown runs for about a mile along West Cary Street between Thompson Street and the Boulevard. Independent restaurants, vintage clothing stores, bookshops, wine bars, and specialty shops occupy the ground floors of early 20th-century commercial buildings with the neighbourhood's characteristic brick facades. It is walkable, dense, and well-used by Richmond residents in a way that feels genuine rather than curated.

@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Chan Chan
 type: poi
+score: 9.2
 ---
 
 The largest adobe city in the Americas and one of the largest pre-Columbian cities in the world, covering 20 square kilometres of desert between Huanchaco and Trujillo. Chan Chan was the capital of the Chimú Empire, which controlled the north Peruvian coast from around 900 AD until its conquest by the Inca in 1470.

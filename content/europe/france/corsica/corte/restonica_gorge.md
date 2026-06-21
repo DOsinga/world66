@@ -11,6 +11,7 @@ story: >
   Lac de Capitello (1930m) — were carved by glaciers during the last ice age.
   In summer the upper lake is still ringed with snow patches as late as July,
   and the water is cold enough to take your breath away even on a hot day.
+score: 8.8
 ---
 
 The Gorges de la Restonica is the great walk from Corte. A road follows the river for about 15km from the town to the Bergeries de Grotelle car park, from which a well-marked trail climbs steeply through boulders and pine forest to Lac de Melo, about an hour up. The fitter and more sure-footed can continue another 45 minutes to Lac de Capitello, perched in a rocky cirque just below the island's central ridge.

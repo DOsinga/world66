@@ -9,6 +9,7 @@ tags:
 - museum
 - architecture
 story: "On 13 November 1910, Sun Yat-sen convened a secret meeting in this house with overseas Chinese revolutionaries from across Southeast Asia. The 'Penang Conference' raised the money and planned the failed Second Guangzhou Uprising of April 1911 — which, despite its defeat, became the prelude to the successful Wuchang Uprising six months later that ended 2,000 years of imperial rule."
+score: 7.5
 ---
 
 The Sun Yat-sen Museum on Armenian Street occupies the small 19th-century shophouse where the Chinese revolutionary leader lived and worked during his time in Penang from 1909 to 1911. From this base he ran a Penang chapter of the Tongmenghui — his anti-Qing revolutionary alliance — published a propaganda newspaper, gave fundraising speeches, and held the secret Penang Conference of November 1910 that planned the Second Guangzhou Uprising.

@@ -11,6 +11,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Long-running Italian-American restaurant — the best old-school dinner in town"
+score: 5.4
 ---
 
 A family-run Italian-American restaurant in business since 1989, serving an unfussy menu of veal piccata, chicken parmesan, lobster ravioli, lasagne, and steak. The portions are large, the wine list is short and competent, and the room is exactly what you would expect: dim lighting, white tablecloths, a friendly long-serving staff. Locally respected.

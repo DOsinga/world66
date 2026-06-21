@@ -11,6 +11,7 @@ tags:
 title: New York Bar
 type: poi
 url: www.hyatt.com
+score: 6.9
 ---
 
 The New York Bar at the Park Hyatt Shinjuku became globally famous as the setting for Sofia Coppola's Lost in Translation (2003), and it has sustained that glamour ever since. The bar occupies the 52nd floor of the hotel, with floor-to-ceiling windows overlooking the Shinjuku skyline and, on clear evenings, the silhouette of Mount Fuji to the south-west.

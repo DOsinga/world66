@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -36.789
 longitude: 174.771
+score: 5.6
 ---
 
 The cluster of bars along Hurstmere Road and the surrounding blocks is the social heart of the North Shore. The crowd skews local — after-work drinks from the nearby offices and apartments are the main trade on weeknights, with livelier weekend evenings when the beach crowd transitions to the bars. The scene is relaxed and mixed-age rather than studenty, which suits the neighbourhood.

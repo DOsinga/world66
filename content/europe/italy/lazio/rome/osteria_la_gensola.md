@@ -12,6 +12,7 @@ tags:
 - restaurant
 title: Osteria La Gensola
 type: poi
+score: 7.6
 ---
 
 One of the best fish restaurants in Rome, hidden in a quiet Trastevere square. The cooking is Sicilian-inflected — spaghetti alle vongole, swordfish, excellent crudo — in a low-key room that feels genuinely local rather than designed for tourists. The owners also run a small bar next door. Reservations recommended; this is not a place that gets discovered and forgotten, it gets booked out.

@@ -9,6 +9,7 @@ longitude: 110.2915
 snippet: Guilin's most photographed karst peak, shaped exactly like a drinking elephant
 story: >
   The hill's shape — a rounded karst mass lowering a "trunk" into the Li River — has made it the symbol of Guilin for over a thousand years. Tang dynasty poets wrote about it; it appears in Song dynasty landscape scrolls. The water-filled arch under the trunk, called Water Moon Cave, creates a perfect circle when the reflection is included, representing the moon in both water and sky.
+score: 7.1
 ---
 
 Elephant Trunk Hill (Xiangbi Shan) sits at the confluence of the Li River and the Taohua River, its limestone mass shaped almost comically like a giant elephant drinking from the water. It is the most recognisable landmark in Guilin and the image reproduced on everything from tourist brochures to local pottery.

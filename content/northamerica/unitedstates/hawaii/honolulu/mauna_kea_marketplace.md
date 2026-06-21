@@ -9,6 +9,7 @@ tags:
 - chinatown
 title: Maunakea Street Marketplace
 type: poi
+score: 7.0
 ---
 
 Maunakea Street is the central artery of Honolulu's Chinatown, and the Maunakea Street Marketplace occupies a converted warehouse that serves as the district's informal food court. Stalls sell dim sum, Vietnamese pho, Filipino silog breakfasts, and a range of Asian pastries from early morning. Prices are cheap — well under $10 for a filling meal — and the clientele is local rather than tourist.

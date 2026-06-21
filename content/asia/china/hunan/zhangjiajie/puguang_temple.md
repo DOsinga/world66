@@ -8,6 +8,7 @@ latitude: 29.1278
 longitude: 110.4833
 story: >
   Puguang Temple was founded during the Tang dynasty and rebuilt substantially in the Ming, making it one of the few historic structures in the Zhangjiajie area that predates the modern tourism era by more than a century. The temple survived the Cultural Revolution with less damage than most comparable sites in Hunan, reportedly because local residents concealed its most important artifacts. A set of Tang-dynasty stone inscriptions remains in the temple's inner courtyard.
+score: 6.4
 ---
 
 Puguang Temple sits in the heart of Zhangjiajie city, an ancient Buddhist complex that provides a useful counterweight to the geological spectacles outside town. Founded in the Tang dynasty and rebuilt in the Ming, it is the oldest surviving structure in the urban area. The main hall, drum tower, and bell tower are arranged around a courtyard shaded by centuries-old trees; the atmosphere is active rather than purely ceremonial, with monks in residence and incense burning in the main shrine.

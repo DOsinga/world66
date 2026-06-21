@@ -7,6 +7,7 @@ tags:
 latitude: 36.5967
 longitude: -4.638
 snippet: Handmade miniature objects from around the world, including a bullfight on a grain of rice
+score: 6.5
 ---
 
 The Miniatures Museum in Mijas contains a collection of extraordinarily small handmade objects assembled over decades by one obsessive craftsman. Among the exhibits is a bullfight scene painted on a grain of rice, a flea wearing horseshoes, and a caravan of camels passing through the eye of a needle. The museum is unashamedly a tourist attraction, but the craftsmanship on display is genuinely remarkable.

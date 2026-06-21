@@ -7,6 +7,7 @@ tags:
 - museum
 title: Batumi Aquarium
 type: poi
+score: 5.2
 ---
 
 The Batumi Aquarium opened in 1968 next to the dolphinarium and is small but reasonably well kept. Most of the tanks hold Black Sea species — anchovy, mullet, flatfish, the rare Black Sea sturgeon — with a separate section for tropical and freshwater displays. The building itself is a low concrete pavilion of the late Soviet style, looking out across the boulevard to the sea.

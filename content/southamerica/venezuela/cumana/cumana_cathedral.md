@@ -7,6 +7,7 @@ tags:
   - sight
 title: Cumaná Cathedral
 type: poi
+score: 6.6
 ---
 
 The Catedral de Santa Inés stands on the historic Plaza Bolívar in the heart of the old town. The present building is a 20th-century reconstruction — repeated earthquakes destroyed every earlier version — and although it lacks the layered patina of older South American cathedrals, the twin white towers and the modest baroque facade are pleasing.

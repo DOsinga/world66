@@ -1,5 +1,0 @@
-southamerica/peru/huaraz
-europe/finland/viipuri
-europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/ashbourne
-europe/romania/ploiesti
-europe/bulgaria/bojencite

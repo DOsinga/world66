@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 6.5
 ---
 
 Kohat's bazaar is the heart of the town and the reason traders and farmers from across the surrounding districts come here. It is a working market, not a tourist attraction: stalls selling dried fruits and nuts, spices, cloth, plastic goods, hardware, and the general ironmongery that keeps the farms and workshops of the Kohat district running. There are sections where metalworkers hammer and grind, tea stalls where men sit and talk, and the general organised chaos of a Pashtun market town on a busy morning.

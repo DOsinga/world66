@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6608
 longitude: 116.9481
+score: 5.9
 ---
 
 The Jinan Zoo and Botanical Garden in the western part of the city is a combined park that has been expanded over the decades into one of the larger green spaces in the city center. The botanical section has a reasonable collection of northern Chinese flora and a greenhouse for tropical plants; the zoo houses the usual range of Chinese zoo animals including giant pandas, which remain the main draw for domestic visitors.

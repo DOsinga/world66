@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 46.4203
 longitude: 15.8711
+score: 7.4
 ---
 
 The Parish Church of St. George is Ptuj's most important religious building and a layered piece of architectural history. Its core is Romanesque, dating from the 12th century, though subsequent rebuilding has added Gothic chapels, a Baroque tower, and various other alterations. The result is architecturally rich rather than coherent, and all the more interesting for it.

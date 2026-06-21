@@ -12,6 +12,7 @@ story: >
   communities, who retain customary ownership. This was the only way to
   establish a national park in a territory where over 90% of land is
   communally held under fa'a Samoa — the Samoan way.
+score: 8.9
 ---
 
 The National Park of American Samoa covers around 2,000 hectares along Tutuila's rugged north coast, protecting some of the last intact tropical rainforest in the American territories. The park is split between Tutuila and the more remote Manu'a Islands, but the Tutuila section is where most visitors go.

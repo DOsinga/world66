@@ -7,6 +7,7 @@ tags:
 - shopping
 title: Marks & Spencer
 type: poi
+score: 2.5
 ---
 
 The Amsterdam branch of the British high-street stalwart, located on Kalverstraat in the heart of the shopping district. Useful for British expats after familiar food items from the food hall, and for clothing basics. Nothing you couldn't find elsewhere, but convenient if you're already on Kalverstraat.

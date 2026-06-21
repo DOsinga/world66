@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - bar
 - donji_grad
+score: 5.9
 ---
 
 A small bar on Opatovina just behind the cathedral, Craft Room runs about thirty rotating taps drawn almost entirely from Croatian craft breweries — Garden, Nova Runda, the Zmajska Pivovara, Medvedgrad, Vukovarsko, plus regular guests. The staff are happy to walk you through what is on; flights of three small glasses are the standard introduction.

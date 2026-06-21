@@ -10,6 +10,7 @@ tags:
   - bar
   - french_concession
 snippet: "Hidden four-floor speakeasy cocktail bar with a different mood per floor"
+score: 7.0
 ---
 
 A Shintaro Tezuka cocktail bar that has been on the World's 50 Best Bars list multiple times. The conceit is genuine: a Japanese bar-supply shop on the ground floor, a hidden door at the back, a tiny bar upstairs, another hidden door, another bar — three or four floors of progressively quieter and more exclusive rooms. The cocktails are precise and beautiful; the prices accordingly.

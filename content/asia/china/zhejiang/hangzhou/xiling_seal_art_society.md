@@ -14,6 +14,7 @@ story: >
   president holds the position for life, as all previous holders did. Among
   its past presidents was Wu Changshuo, the most influential Chinese artist
   of the late Qing period.
+score: 8.7
 ---
 
 The Xiling Seal Engraving Society occupies a collection of pavilions and gardens on the small Orphan Hill island at the western end of the Baidi Causeway on West Lake. Founded in 1904, it is China's oldest existing academic society dedicated to the traditional art of seal carving — the painstaking practice of cutting characters and designs into stone, jade, or ivory used for official and personal seals.

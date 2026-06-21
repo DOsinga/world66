@@ -16,6 +16,7 @@ story: >
   trade — it transported more than 100,000 enslaved Africans to the Caribbean
   over its operating life, making it one of the major actors in the
   transatlantic trade.
+score: 6.4
 ---
 
 The Danish West India and Guinea Company Warehouse is one of the oldest buildings in Christiansted's historic district, built in the 1740s as the primary storage and trading facility for the Danish colonial monopoly company. The long, two-story structure runs along the waterfront, its thick masonry walls and arched ground-floor arcade typical of the Danish Caribbean mercantile style. It served successive functions — warehouse, government offices, post office — across three centuries of changing ownership and political control.

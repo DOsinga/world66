@@ -7,6 +7,7 @@ tags:
 latitude: 8.5358
 longitude: 4.5575
 snippet: "A prominent hill north of the city with views over Ilorin and the surrounding savanna"
+score: 7.0
 ---
 
 Sobi Hill is the most visible natural landmark near Ilorin, a rocky outcrop rising above the flat savanna north of the city. The climb is straightforward — a well-worn path leads to the summit — and the view from the top extends across the red-earthed landscape of Kwara State.

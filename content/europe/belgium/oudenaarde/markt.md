@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 50.8436
 longitude: 3.6039
+score: 7.1
 ---
 
 The Markt is a broad, handsome square at the heart of Oudenaarde, and the town hall on its northern edge is one of the finest pieces of Gothic civic architecture in Flanders. The square is the natural starting and finishing point for any visit to the town — the two museums in the Stadhuis face it directly, and the main cafes and restaurants are arrayed around it.

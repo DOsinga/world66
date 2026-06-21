@@ -9,6 +9,7 @@ tags:
   - wuchang
 neighbourhood: Wuchang
 story: "When the sword was first lifted out of the tomb in 1965, a Chinese archaeologist accidentally cut his finger on the blade — after 2,500 years buried in waterlogged earth, the edge was still sharp enough to draw blood."
+score: 8.8
 ---
 
 The Sword of Goujian, kept in the Hubei Provincial Museum, is one of the most remarkable archaeological objects in China — a Warring States-period bronze sword found in a tomb at Wangshan, near Jingzhou, in 1965. Despite spending two and a half millennia buried in damp clay, the blade emerged unrusted, the patterns inlaid into it still visible, and the cutting edge still razor-sharp.

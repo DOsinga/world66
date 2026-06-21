@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - landmark
 snippet: "Ottoman clock tower at the entrance to the old town"
+score: 6.3
 ---
 
 The Sahat Kula is the gateway to the old town from the upper road, a square Ottoman clock tower built in 1667 on orders of Sultan Mahmud I. The clock itself has been replaced several times — the current movement is Austrian, installed when the empire took over in 1797.

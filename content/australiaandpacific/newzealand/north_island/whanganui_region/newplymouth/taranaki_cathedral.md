@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -39.0603
 longitude: 174.0731
+score: 6.5
 ---
 
 The Taranaki Cathedral Church of St Mary is the oldest stone church in New Zealand, with the original structure dating from 1842 — just a few years after the first European settlers arrived in New Plymouth. The building has been extended and modified significantly since then, and what you see today is a blend of early colonial stonework and later Gothic additions, but the core of the building preserves something of the uncertainty and ambition of early colonial construction.

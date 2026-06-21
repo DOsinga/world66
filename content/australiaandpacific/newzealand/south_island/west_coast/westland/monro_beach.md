@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 7.6
 ---
 
 Monro Beach is an isolated stretch of coast 30km south of Haast, reached by a 40-minute walk through dense podocarp rainforest from the highway. The beach itself is wild and rocky, with driftwood logs above the tide line and surf that arrives without anything but open ocean between it and Australia. From May to July, Fiordland crested penguins — tawaki — come ashore here to moult, resting in the coastal scrub for several weeks before returning to sea. This is one of very few accessible mainland sites in New Zealand where you can see them.

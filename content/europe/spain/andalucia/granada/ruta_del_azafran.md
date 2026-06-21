@@ -7,6 +7,7 @@ tags:
   - albaicin
 latitude: 37.1762
 longitude: -3.5966
+score: 7.2
 ---
 
 A well-regarded restaurant in the historic centre serving upmarket Andalucían cuisine with Moorish influences. The menu changes seasonally but typically features lamb dishes, salmorejo (the thicker Córdoban cousin of gazpacho), fried aubergine with honey, and fish from the coast. The room is elegantly austere in the way that good Granada restaurants tend to be — stone walls, wooden beams, good lighting.

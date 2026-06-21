@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Modernised thermal bathhouse with four communal soaking pools"
+score: 8.0
 ---
 
 One of two bathhouses still operating on Bathhouse Row. Quapaw was restored and reopened in 2008 as

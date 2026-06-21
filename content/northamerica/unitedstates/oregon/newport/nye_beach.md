@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 44.6411
 longitude: -124.0603
+score: 7.8
 ---
 
 Nye Beach is the older, beachy half of Newport — a small neighbourhood of weathered wooden cottages, art galleries, second-hand bookshops, and seafront cafés set back from a long stretch of sand. It has been a coastal escape for Oregonians since the 1890s, when the first hotels were built here.

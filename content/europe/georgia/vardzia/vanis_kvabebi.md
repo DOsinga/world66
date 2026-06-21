@@ -13,6 +13,7 @@ story: >
   least the 8th century, making it one of the oldest cave complexes in the
   region. Unlike Vardzia, it was never reconstructed and remains entirely in
   its original ruined state, which makes it feel more genuinely ancient.
+score: 8.3
 ---
 
 About two kilometres upstream from Vardzia, Vanis Kvabebi is a smaller but equally dramatic cave monastery cut into the same volcanic cliff formation. It sees a fraction of the visitors that Vardzia does, partly because it has no marked path and no ticket booth — you walk to it along the riverbank from the main site.

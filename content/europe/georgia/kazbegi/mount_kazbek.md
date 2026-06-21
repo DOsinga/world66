@@ -10,6 +10,7 @@ latitude: 42.6993
 longitude: 44.5176
 sources:
   - https://en.wikipedia.org/wiki/Mount_Kazbek
+score: 9.0
 ---
 
 At 5,047 metres, Kazbek is one of the highest peaks in the Greater Caucasus and one of Georgia's most iconic mountains. It is a dormant stratovolcano and its upper slopes are permanently glaciated. The standard route to the summit is technically a non-technical climb — no ropes required in good conditions — but the altitude, weather, and crevassed glaciers make it a serious undertaking. Most climbers take two to three days, spending a night at the Betlemi Hut (3,650 m) before a summit push.

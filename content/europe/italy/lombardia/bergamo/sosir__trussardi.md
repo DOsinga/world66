@@ -10,6 +10,7 @@ tags:
 title: Trussardi Factory Outlet (ex Sosir)
 type: poi
 url: www.network-partners.it
+score: 2.2
 ---
 
 Now known as TRS Evolution, it has all kinds of goods: leather goods, men's and women's suits and clothes all from the world famous designer, Trussardi, who was born in Almè and has a gorgeous house in Città Alta looking down over the lower town.

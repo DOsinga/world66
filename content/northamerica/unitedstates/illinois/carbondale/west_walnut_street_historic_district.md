@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 37.72555555555556
 longitude: -89.22444444444444
+score: 6.5
 ---
 
 The West Walnut Street Historic District is a residential neighbourhood on the edge of the Carbondale downtown, listed on the National Register of Historic Places. The district contains several dozen late-Victorian and early-twentieth-century homes that represent the architectural ambitions of the town's early professional class — Queen Anne, Craftsman, and Colonial Revival styles are all represented along the tree-lined streets.

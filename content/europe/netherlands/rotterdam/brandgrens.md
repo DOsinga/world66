@@ -11,6 +11,7 @@ story: >
   people and destroying nearly 25,000 homes. The fire that followed consumed everything
   within the boundary now marked by these lights. The Dutch government surrendered
   the same day to prevent the same fate befalling other cities.
+score: 8.7
 ---
 
 A line of lights embedded in the streets and pavements of central Rotterdam, tracing the exact boundary of the firestorm that destroyed the city centre after the German bombing of 14 May 1940. The lights run for several kilometres, and crossing the line means stepping from the area that survived into the area that was completely erased.

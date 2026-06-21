@@ -8,7 +8,7 @@ quick_facts:
   Spans All 4 Hemispheres: "Only country to do so"
 latitude: 0.344861
 longitude: 173.664177
-score: 0.45
+score: 0.33
 loc_type: country
 ---
 

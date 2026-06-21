@@ -10,6 +10,7 @@ tags:
 - beatles
 title: Eleanor Rigby Statue
 type: poi
+score: 5.8
 ---
 
 A life-sized bronze statue of the fictional Eleanor Rigby, the lonely heroine of the 1966 Beatles song, seated alone on a bench on Stanley Street near Mathew Street. The statue was sculpted by Tommy Steele — the British rock and roll singer — and donated by him to the city in 1982 for the symbolic price of half a sixpence (his thanks for what the Beatles had done for British music).

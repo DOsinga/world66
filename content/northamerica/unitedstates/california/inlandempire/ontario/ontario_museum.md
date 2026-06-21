@@ -6,6 +6,7 @@ longitude: -117.6504
 tags:
   - things_to_do
   - museum
+score: 7.1
 ---
 
 A free city-run museum housed in the 1937 art-deco former city hall on Euclid Avenue, with permanent exhibits on the citrus industry, Route 66, and the development of Euclid Avenue itself. Rotating exhibitions of regional artists fill the upstairs galleries.

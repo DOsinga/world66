@@ -7,6 +7,7 @@ tags:
 - downtown
 latitude: 38.6275
 longitude: -90.1899
+score: 8.5
 ---
 
 The Wainwright Building, designed by Louis Sullivan and completed in 1891, is one of the most important buildings in the history of architecture — among the first true skyscrapers and the first to express its steel frame in its facade. Sullivan's famous dictum "form follows function" was conceived in part for this building.

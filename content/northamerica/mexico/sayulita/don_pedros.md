@@ -9,6 +9,7 @@ tags:
   - seafood
 sources:
   - https://www.sayulitalife.com/donpedro
+score: 6.1
 ---
 
 Don Pedro's is the beach restaurant that everyone in Sayulita eventually ends up at for a long lunch. It sits under a vast thatched palapa directly on the sand, with tables that look out over the main beach toward the break. The setting alone would make it worth visiting; the food makes the visit worthwhile.

@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 46.4539
 longitude: 12.2114
+score: 6.5
 ---
 
 San Vito di Cadore is an excellent summer hiking base. The village sits at the intersection of several marked trail systems that give access to mountain terrain ranging from gentle valley walks to serious high-altitude routes. The chair lifts that serve the ski area in winter operate in summer too, providing fast elevation gain for walkers who want to start high and push further into the peaks.

@@ -8,6 +8,7 @@ latitude: 41.8000
 longitude: 126.5000
 story: >
   From the river, you can see North Korean villages at the water's edge — laundry on lines, children on riverbanks, occasionally a guard post. The proximity is quietly disorienting: you are metres from a country almost entirely closed to the outside world, separated by a river narrow enough to throw a stone across in places.
+score: 7.1
 ---
 
 The Yalu River (Yalujiang) forms the border between China and North Korea along the southern edge of Baishan municipality, and boat cruises on this stretch of the river offer an experience found nowhere else in China. The river here is not the broad, intimidating barrier you might imagine — in places it narrows considerably, and the North Korean bank is close enough for the details of daily life to be visible.

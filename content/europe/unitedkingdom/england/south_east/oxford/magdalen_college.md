@@ -8,6 +8,7 @@ latitude: 51.7522
 longitude: -1.2476
 story: >
   Magdalen (pronounced "Maudlin") College has a deer park within its walls — about 60 fallow deer have grazed the meadow beside the River Cherwell since at least the 18th century. Every May Day morning at 6am, the college choir sings madrigals from the top of Magdalen Tower to welcome in the spring, a tradition going back to at least the 16th century. Thousands of people gather on Magdalen Bridge below to listen.
+score: 9.0
 ---
 
 Magdalen College, at the east end of the High Street beside the River Cherwell, is widely considered the most beautiful of Oxford's colleges. Founded in 1458, it has an unusually generous amount of land for a city-centre college: a deer park, riverside meadow, and punting along the Cherwell all within its boundaries. The college tower — completed in 1509 — dominates this end of the city, and its reflection in the river is one of Oxford's most-photographed images.

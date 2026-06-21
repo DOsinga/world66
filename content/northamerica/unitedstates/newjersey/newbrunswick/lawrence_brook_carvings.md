@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The carvings are dated 1876 and include phrases in Latin, English, and what looks like a substitution cipher — but no one has decoded them. Theories range from a homesick farmer's diary to Masonic ritual to early Boy Scout-style codework. Carl Sagan visited the site in the 1970s and pronounced himself baffled."
+score: 6.4
 ---
 
 In a wooded bend of Lawrence Brook on the southern edge of New Brunswick, a series of mysterious carvings appear on the rocks above the water — strange symbols, Latin phrases, ciphers, and what look like coded words, all from 1876. They have never been deciphered. The site is on private land bordering Johnson Park; access is via a short walk along the brook from Rutgers Gardens.

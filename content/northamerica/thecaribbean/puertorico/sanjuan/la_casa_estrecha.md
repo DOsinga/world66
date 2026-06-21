@@ -8,6 +8,7 @@ tags:
   - sight
   - old_san_juan
 neighbourhood: Old San Juan
+score: 5.1
 ---
 
 A house just over five feet wide squeezed between two larger buildings on Calle Tetuán, painted pale yellow with two tiny balconies. The Narrow House began life as an alleyway and was eventually built over and inhabited; it is the narrowest house in the Americas and has its own street address.

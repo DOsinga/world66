@@ -14,6 +14,7 @@ story: >
   and their families lived on the site. The original cabin burned down in 1978 and
   was reconstructed from historical photographs using period-correct techniques.
   The reconstruction is so faithful that it holds its own as a heritage site.
+score: 6.3
 ---
 
 The Gatekeeper's Museum occupies the reconstructed log cabin of the former dam gatekeeper — the official responsible for operating the Lake Tahoe Dam. The original cabin, which dated to the early 20th century, burned in 1978 and was rebuilt using historical photographs and period techniques. The result is an authentic reproduction that works well as a museum space.

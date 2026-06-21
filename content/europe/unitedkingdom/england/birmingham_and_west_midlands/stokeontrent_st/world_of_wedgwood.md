@@ -9,6 +9,7 @@ tags:
 snippet: "Factory tour, museum, and tea room at the home of Josiah Wedgwood's company"
 story: >
   Josiah Wedgwood, founder of the company, was an early abolitionist who produced thousands of "Am I not a man and a brother?" medallions and distributed them free to the anti-slavery movement. The motif became one of the most recognisable images of the eighteenth-century abolition campaign.
+score: 8.3
 ---
 
 The Wedgwood factory at Barlaston, six miles south of Hanley, combines a working production line with one of the best ceramics museums in Britain. The museum traces Wedgwood from the 1759 founding of the company through Josiah Wedgwood's partnership with Thomas Bentley to the Jasperware and bone china that made the brand famous worldwide. The original Portland Vase replica — Wedgwood's painstaking copy of the Roman cameo glass original — is the centrepiece.

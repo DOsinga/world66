@@ -8,6 +8,7 @@ tags:
 - day_trips
 title: San Marco Pass
 type: poi
+score: 7.0
 ---
 
 The Passo di San Marco (1,992 m) connects the Brembana Valley north of Bergamo with the Valtellina on the other side. The road up is a classic mountain drive, winding through tight hairpins past stone villages and thick forests. At the top, views open up across the Orobie Alps in every direction.

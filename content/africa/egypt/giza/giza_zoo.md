@@ -7,6 +7,7 @@ tags:
 - sight
 title: Giza Zoological Garden
 type: poi
+score: 5.9
 ---
 
 Egypt's national zoo, opened in 1891, sprawls across 80 acres beside the Nile in northern Giza. It is one of the oldest zoos in Africa and still has several buildings from its Victorian foundation. The collection is large and eclectic: big cats, elephants, hippos, and a range of African wildlife, plus an extensive bird house and aquarium. The grounds are heavily treed and pleasant to walk in, with a lake and bridge in the centre.

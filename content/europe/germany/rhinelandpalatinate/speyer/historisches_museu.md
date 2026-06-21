@@ -10,6 +10,7 @@ tags:
 - museum
 title: Historisches Museum der Pfalz
 type: poi
+score: 7.8
 ---
 
 The Historisches Museum der Pfalz covers the history of the Palatinate region from prehistoric times to the present. The undisputed star of the collection is the Golden Hat of Schifferstadt, a Bronze Age ceremonial cone of beaten gold -- one of only four such hats ever found. The museum also stages ambitious temporary exhibitions that draw visitors from well beyond Speyer. Right on the Domplatz next to the cathedral, it makes a natural pairing with a visit to the Kaiserdom.

@@ -10,6 +10,7 @@ tags:
   - rafting
   - hiking
 story: "The Lieksanjoki river was the route taken by Karelian Orthodox refugees fleeing Russian Karelia for Finland after the partition of 1944 — many of them rafting down to Lieksa with what they could carry. The rapids that today carry whitewater rafts were then a way out of one country and into another."
+score: 8.1
 ---
 
 Sixty kilometres northeast of Lieksa, a long ribbon of forest along the Lieksanjoki river that drops through six big sets of rapids on its way to Lake Pielinen. The classic Karelian whitewater rafting trip: half a day on inflatable rafts through Class II rapids, with the river running clear and the spruce forest pressing in on either side.

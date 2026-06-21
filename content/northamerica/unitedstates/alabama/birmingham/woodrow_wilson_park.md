@@ -6,6 +6,7 @@ tags:
 - park
 title: Woodrow Wilson Park (Linn Park)
 type: poi
+score: 5.8
 ---
 
 The formal civic park at the heart of downtown Birmingham, surrounded by the Birmingham Museum of Art, City Hall, and the Jefferson County Courthouse. The park has hosted major public events since it was laid out in 1909, including anti-segregation rallies and civil rights marches. The Charles Linn fountain at the center dates to the late 19th century.

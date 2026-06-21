@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 55.007222
 longitude: 11.9125
+score: 8.4
 ---
 
 Denmark's Borgcenter (Danmarks Borgcenter) is a modern museum built around and into the ruins of Vordingborg Castle. Its permanent exhibition covers the history of medieval castles in Denmark — their construction, their role in wars and trade, and the lives of the people who lived and worked in them. Vordingborg Castle was one of the most important royal strongholds in Scandinavia during the 12th–14th centuries, and the museum makes good use of the physical ruins as context.

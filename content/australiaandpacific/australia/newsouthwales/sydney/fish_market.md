@@ -9,6 +9,7 @@ latitude: -33.8748
 longitude: 151.1933
 sources:
   - https://en.wikipedia.org/wiki/Sydney_Fish_Market
+score: 7.9
 ---
 
 The Sydney Fish Market at Pyrmont is the second-largest seafood market in the world by variety, after Tokyo's Tsukiji. Unlike Tsukiji's wholesale operation, Sydney's is partly retail and partly a place to eat, with several seafood restaurants, a sushi bar and a fish-and-chips counter all operating within the market building. The freshness of the produce — Balmain bugs, Sydney rock oysters, barramundi, king prawns and whatever is in season — is exceptional.

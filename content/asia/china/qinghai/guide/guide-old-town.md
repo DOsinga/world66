@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.0392
 longitude: 101.4271
+score: 7.6
 ---
 
 Guide's old town sits on a terrace above the Yellow River, a compact grid of traditional courtyard houses and market streets that serves a population of Tibetan, Salar, and Han Chinese residents in roughly equal measure. The mix is evident in the market: stalls selling dried yak meat, traditional Tibetan dairy products, and Salar-spiced lamb dishes sit alongside Han noodle shops and a weekly produce market that draws farmers from the surrounding terraced valleys.

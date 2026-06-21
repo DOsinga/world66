@@ -6,6 +6,7 @@ longitude: 5.6889
 tags:
   - things_to_do
   - museum
+score: 6.6
 ---
 
 The photography museum occupies the former Spanish Government building on the Vrijthof, a patrician house dating to 1665 that served as the residence of the Spanish governor of Maastricht during the period of joint governance. The building is historically interesting in its own right — one of the best-preserved 17th-century patrician interiors in Maastricht, with original painted ceilings and period rooms — but the changing exhibitions of contemporary photography are what draw most visitors.

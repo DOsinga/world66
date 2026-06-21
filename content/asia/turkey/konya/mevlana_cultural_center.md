@@ -10,6 +10,7 @@ tags:
 snippet: "Modern auditorium where the weekly sema (whirling dervish) ceremony is performed"
 story: >
   The Turkish Republic banned the Sufi orders in 1925, and the sema was officially classified for decades as folkloric performance rather than religious ritual. The dervishes seen turning in Konya today are state-licensed performers; their dress, music, and choreography are the same as in the original ceremony, but the act has been formally secularised. Whether or not this changes its spiritual character is debated by the dervishes themselves.
+score: 6.9
 ---
 
 The Mevlana Cultural Centre is the modern auditorium on the eastern edge of the city where the **sema** ceremony — the whirling dervish ritual — is performed weekly for visitors. The hall is purpose-built around a circular performance floor, with the audience ranged in rising tiers; the acoustics are good, the lighting subdued, and photography is permitted only at the very beginning and end.

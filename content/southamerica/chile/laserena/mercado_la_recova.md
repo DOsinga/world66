@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 7.2
 ---
 
 The city's covered market, two blocks north of the Plaza de Armas, is the place to find Chilean dried fruit, pisco, papayas from the Valle del Elqui, copper from the north, and lapis lazuli — the deep-blue stone mined in the Andes east of La Serena and worked into jewellery by artisans here.

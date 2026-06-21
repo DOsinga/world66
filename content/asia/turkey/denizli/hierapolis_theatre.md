@@ -8,6 +8,7 @@ tags:
 - sight
 - archaeological_site
 snippet: A Roman theatre cut into the hillside at Hierapolis with finely carved stage decoration
+score: 8.4
 ---
 
 The **Roman theatre** at Hierapolis is the single most photogenic monument on the upper plateau. It was built in the second century AD under Hadrian, expanded under Septimius Severus, and could hold around 12,000 spectators. The stage building (*scaenae frons*) survives in remarkable condition: three storeys of reliefs showing scenes from the lives of Apollo, Artemis and Dionysus, painstakingly re-erected by Italian restorers from blocks found scattered on the orchestra floor.

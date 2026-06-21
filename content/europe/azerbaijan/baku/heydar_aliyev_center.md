@@ -8,6 +8,7 @@ tags:
   - architecture
   - museum
 story: "Designed by Zaha Hadid and completed in 2012, the building won her the London Design Museum's Design of the Year in 2014 — the first time a woman had taken the prize. The exterior of glass-fibre reinforced concrete has no straight lines anywhere; the original construction documents ran to more than 12,000 unique panels."
+score: 8.9
 ---
 
 The Heydar Aliyev Center is Baku's most famous piece of contemporary architecture, a white wave of a building that rises and folds like a piece of paper caught mid-crease. From a distance the form is striking; up close, the seamless white surface and the way the building emerges from a slope of plaza paving is genuinely startling.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 44.0790
 longitude: 8.1330
+score: 5.6
 ---
 
 Cenesi sits in a small lateral valley about 2 km southwest of Cisano centre, reached by a single road that climbs gently up among the olive trees. The hamlet itself is no more than a cluster of stone houses around a small church.

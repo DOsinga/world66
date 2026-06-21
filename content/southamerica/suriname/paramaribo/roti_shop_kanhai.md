@@ -9,6 +9,7 @@ tags:
   - roti
 latitude: 5.8240
 longitude: -55.1640
+score: 5.9
 ---
 
 Roti is arguably Paramaribo's most popular street food — a Hindustani-style flatbread served with various curries, often chicken, potato, or long beans, and sometimes a boiled egg. The Hindustani community brought the dish from India when they arrived as indentured labourers in the 19th century, and it has become thoroughly Surinamese since. Kanhai is one of the most reliable spots in the city for a good roti at a fair price.

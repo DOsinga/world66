@@ -8,6 +8,7 @@ latitude: 31.8333
 longitude: 75.4167
 story: >
   Sri Hargobindpur was founded by Guru Hargobind, the sixth Sikh Guru, in 1587. According to tradition, he built the town and a fort here after a battle with Mughal forces, and the town's name has commemorated him ever since. The 17th-century Gurdwara Manji Sahib was built to mark the site of his court.
+score: 6.6
 ---
 
 Sri Hargobindpur, on the Beas River, is a historic town in Gurdaspur district named after the sixth Sikh Guru, Hargobind Singh. The town has an important Gurdwara (Sikh shrine) marking the site where the Guru held his court, and a fort that has associations with the period of active Sikh resistance to Mughal authority in the early 17th century.

@@ -11,6 +11,7 @@ tags:
   - sight
   - north_hobart
 snippet: "A 1913 art-house cinema with seven screens, a rooftop bar, and a bookshop — the heart of North Hobart"
+score: 7.8
 ---
 
 A single-screen Edwardian picture palace expanded over the decades into a seven-screen art-house complex, the State remains in Tasmanian hands and remains the best cinema in Australia outside the capital cities. The programming is exemplary: art-house releases, foreign films, documentaries, special seasons, Q&A screenings with directors, and the occasional vintage 35mm print. The original 1913 main auditorium has been beautifully restored.

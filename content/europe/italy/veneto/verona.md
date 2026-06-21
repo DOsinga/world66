@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-06-02'
   poi_cleanup: '2026-04-21'
 image: verona.jpg
 image_license: CC BY-SA 4.0
@@ -10,6 +11,12 @@ latitude: 45.4385
 loc_type: city
 longitude: 10.9916
 score: 0.75
+sources:
+  - https://en.wikipedia.org/wiki/Verona
+  - https://en.wikipedia.org/wiki/Verona_Arena
+  - https://en.wikipedia.org/wiki/Castelvecchio_(Verona)
+  - https://en.wikipedia.org/wiki/Scaliger_Tombs
+  - https://en.wikipedia.org/wiki/San_Zeno_Maggiore,_Verona
 title: Verona
 type: location
 ---

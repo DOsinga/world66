@@ -15,6 +15,7 @@ story: >
   the timing works out. What is not in dispute is that parts of the route date to the 
   13th and 14th centuries, making it one of the oldest surviving underground complexes 
   in Poland.
+score: 8.3
 ---
 
 Below the market square, Sandomierz's medieval merchants dug cellars into the soft loess to store their goods. Over time, the cellars of adjacent buildings were linked together, creating a network that now extends 470 metres and reaches down several storeys below street level.

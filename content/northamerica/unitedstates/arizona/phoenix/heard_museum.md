@@ -12,6 +12,7 @@ tags:
 title: Heard Museum
 type: poi
 url: www.heard.org
+score: 8.9
 ---
 
 The Heard Museum is an excellent collection of Native American art and historic artifacts. It explains the different cultures of Native American tribes in the Southwest through live and interactive performances as well as detailed displays. Artists come to the museum and work while you watch, giving you a better understanding of how traditional crafts are made. Musicians also perform regularly.

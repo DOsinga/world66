@@ -6,6 +6,7 @@ latitude: 19.1917
 longitude: -104.6797
 sources:
   - https://www.openstreetmap.org
+score: 7.0
 ---
 
 Colimilla is the waterfront fishing hamlet on the far shore of the lagoon, reachable by panga from the malecón in five minutes. The restaurants here — Restaurante Colimilla among the most established — sit on stilts above the water, with views back across the lagoon to Barra de Navidad's sandbar.

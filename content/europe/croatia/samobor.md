@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-03'
 image: samobor.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Z-4467_Kulturno-povijesna_cjelina_Samobor_8.jpg

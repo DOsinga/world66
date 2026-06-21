@@ -6,6 +6,7 @@ longitude: 74.3370
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 The Lahore Canal is the 50-kilometre channel that cuts diagonally across the modern city — fed from the Ravi River north-east of Lahore and running south-west through Gulberg, Mughalpura, and Defence to the agricultural land beyond. It was extended by the British in the late 19th century and is now lined with leafy parks, jogging tracks, and the colonial-era bungalows of Canal Bank Road.

@@ -6,6 +6,7 @@ longitude: -87.3831
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Punta Izopo, on the eastern side of the Bay of Tela, is the smaller and quieter twin to Punta Sal. Its core attraction is the mangrove labyrinth of the Lean and Hicaque rivers, best explored by kayak from the Garifuna village of Triunfo de la Cruz.

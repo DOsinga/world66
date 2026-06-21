@@ -7,6 +7,7 @@ tags:
 latitude: 44.8422
 longitude: -0.5751
 snippet: Gordon Ramsay's two-Michelin-star restaurant inside the InterContinental Grand Hotel
+score: 6.5
 ---
 
 Le Pressoir d'Argent occupies the dining room of the grand InterContinental hotel on the Place de la Comédie, facing the Grand Théâtre. It is Gordon Ramsay's Bordeaux restaurant, holding two Michelin stars, with a focus on southwestern French ingredients — Arcachon oysters, Dordogne duck, Aquitaine caviar — treated with the technical precision you would expect at this level.

@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 45.4274
 longitude: -75.6975
+score: 6.9
 ---
 
 Major's Hill Park is a green terrace immediately above the Rideau Canal locks, between the National Gallery and the Château Laurier, with a direct view of Parliament Hill across the water. It is the oldest urban park in Ottawa, established in the 1870s, and its lawns slope down toward the canal in a way that feels informal and accessible in a city full of formal government spaces.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - mountain
+score: 7.5
 ---
 
 The Dents du Midi — Teeth of the South — are the seven-summit ridge that dominates the view from Les Crosets across the valley. The highest point, the Haute Cime, reaches 3,257 metres. The shape of the ridge, sharp and serrated against the sky, is one of the iconic alpine silhouettes of the Valais.

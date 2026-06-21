@@ -7,6 +7,7 @@ tags:
 - sight
 title: Árnafjørður
 type: poi
+score: 7.4
 ---
 
 Árnafjørður is a small village of about 50 people on the east coast of Borðoy, set at the head of the eponymous narrow fjord with steep grass slopes rising 600 metres on three sides. The village is little more than a single line of houses along the road, with a small white church and a turf-roofed boat shelter on the shore, but the setting — particularly in the late evening light of a Faroese summer — is the kind of quiet drama that the Faroes do better than anywhere.

@@ -8,6 +8,7 @@ tags:
 latitude: 10.3
 longitude: -84.36611
 story: "Juan Castro Blanco protects the headwaters of six rivers that supply drinking water to a large part of Costa Rica's central plateau, including the Toro, Aguas Zarcas, Barranca, Tuis, Ángeles, and Tapezco. The park was created in 1992 specifically to protect this watershed from deforestation, making it one of the more utilitarian conservation areas in the country."
+score: 8.4
 ---
 
 Juan Castro Blanco National Park covers about 14,000 hectares of cloud forest on the slopes of the Cordillera Central, about 15 kilometres southeast of Ciudad Quesada. The terrain ranges from 700 to 2267 metres (Platanar Volcano) and supports primary cloud forest, páramo, and several rivers fed by the volcanic highlands. It is less visited than the bigger-name Costa Rican parks, which means the hiking trails feel genuinely remote.

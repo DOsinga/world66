@@ -8,6 +8,7 @@ tags:
   - bar
   - music_venue
   - east_nashville
+score: 7.0
 ---
 
 The 5 Spot, on Forrest Avenue in East Nashville, is the city's quintessential indie-music dive — a low-ceilinged room with a small stage, a long bar, and a stamped-tin ceiling. It became internationally known as a recurring filming location for the TV show *Nashville*, but it has been the centre of the East Side music scene for far longer than that.

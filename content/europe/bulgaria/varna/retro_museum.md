@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.2200
 longitude: 27.8897
+score: 5.9
 ---
 
 Located in the Grand Mall shopping centre on the western edge of Varna, the Retro Museum is a densely packed collection of Soviet-era objects, domestic appliances, propaganda posters, uniforms, toys, and assorted paraphernalia from Bulgaria's Communist period (1944–1989). The exhibits range from Bakelite radios and Trabant memorabilia to Pioneer youth movement badges and the kind of tinned goods that were a fixture of state-economy supermarkets.

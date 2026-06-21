@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 50.2153
 longitude: -5.4794
+score: 6.8
 ---
 
 The Sloop Inn on the harbourside is the oldest pub in St Ives, with parts of the building dating back to 1312. It has survived fishing booms, pilchard crashes, two world wars, and the transformation of St Ives from working port to tourist destination while remaining substantially unchanged. The low beams, stone floors, and fireplace that lit them suggest it has been a pub for most of that time.

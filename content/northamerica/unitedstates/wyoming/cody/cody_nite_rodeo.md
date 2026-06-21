@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.5238
 longitude: -109.0700
+score: 7.5
 ---
 
 The Cody Nite Rodeo runs every evening from June through August — a genuinely competitive rodeo, not a staged tourist performance. Events include bull riding, barrel racing, calf roping, saddle bronc, and bareback bronc busting, with local and regional competitors taking the points seriously. The Cody Stampede Rodeo Grounds seat around 4,000 and the atmosphere on a full summer night is something that does not require any manufactured excitement.

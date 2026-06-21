@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -24.7878
 longitude: -65.4103
+score: 5.8
 ---
 
 A long-standing cafe on the pedestrian street near the main plaza, good for breakfast, afternoon coffee, and a glass of local wine in the early evening. The terrace fills up with locals from mid-afternoon onward. Torrontés by the glass is the obvious choice — ask for one of the Cafayate producers.

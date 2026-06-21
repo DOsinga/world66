@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.7650
 longitude: -86.5105
+score: 6.6
 ---
 
 Pochomil is the village immediately south of Masachapa, separated by a short walk along the beach. It is the slightly more developed of the two — there are a few guesthouses, a handful of restaurants, and a small weekend tourism infrastructure that Masachapa proper largely lacks. The beach here is the same dark sand and open Pacific surf, and the atmosphere is relaxed in the same way.

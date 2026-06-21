@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 47.6848
 longitude: 16.5853
+score: 7.3
 ---
 
 Sopron was the Roman town of Scarbantia, an important settlement on the Amber Road that connected the Baltic to the Mediterranean. The town was founded in the 1st century AD and remained significant until the late Roman period. Remains of Scarbantia are visible at several points beneath the old town — the most accessible is the excavated forum, visible through glass panels in the pavement on Fő Tér.

@@ -13,6 +13,7 @@ story: >
   self-playing pianos — including one that plays a full orchestral arrangement
   automatically, using a cylinder mechanism predating Edison's phonograph
   by decades.
+score: 8.0
 ---
 
 The Piano Museum (钢琴博物馆) on Gulangyu occupies a garden villa near the island's western shore and holds a collection of around 100 historic pianos, the majority donated by Hu Youyi, an overseas Chinese collector from Australia. The instruments span four centuries and include elaborate 19th-century concert grands, small square pianos from the early 1800s, and a series of mechanical self-playing pianos with original cylinder mechanisms.

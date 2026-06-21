@@ -8,6 +8,7 @@ latitude: 51.1950
 longitude: 5.1400
 address: "Zilvermeerlaan 2, 2400 Mol"
 phone: "+32 (0)14 829500"
+score: 6.6
 ---
 
 Zilvermeer is the larger and better-known of Mol's two beach lakes, lying a few kilometres east of town. Like Zilverstrand it started out as a sand quarry, but the water that now fills it is clean enough for swimming and the beach is broad and well-equipped. On a warm Belgian summer weekend the crowds can be substantial — this is a popular destination for families from across the province.

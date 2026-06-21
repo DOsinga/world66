@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.5803
 longitude: -7.6953
+score: 8.0
 ---
 
 The Romanesque church of Santa María de Pesqueiras sits in a near-abandoned hamlet on the steep bank of the Miño, surrounded by terraced vineyards. The church itself dates to the 12th century, with a single nave and a semi-circular apse; inside, fragments of medieval frescoes survive on the walls.

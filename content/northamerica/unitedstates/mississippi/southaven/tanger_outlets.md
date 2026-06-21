@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 34.9569
 longitude: -89.9952
+score: 4.8
 ---
 
 An open-air outlet centre off Interstate 55 with around 75 stores selling factory-direct discounts on the usual brand suspects: Nike, Adidas, Polo Ralph Lauren, Coach, Kate Spade, Levi's, Under Armour. It opened in late 2015 and instantly became the regional shopping draw for the Memphis metro area.

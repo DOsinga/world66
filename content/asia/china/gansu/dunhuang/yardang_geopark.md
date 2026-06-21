@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.5000
 longitude: 93.1083
+score: 8.4
 ---
 
 About 180 km north-west of Dunhuang, on the edge of the Lop Nur basin, the Yardang Geopark is a vast field of wind-eroded sandstone formations — long parallel ridges and isolated towers shaped by the prevailing winds over hundreds of thousands of years. Some of the formations have been given names — "sphinx", "fleet of ships", "peacock" — and the bus that takes you through the park stops at the more photogenic ones.

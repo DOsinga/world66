@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - market
+score: 5.9
 ---
 
 Every evening from around 6 p.m., a row of grills sets up on the village square in front of the harbour, and the day's catch goes onto the coals — usually whole snapper, squid, prawns, and the occasional grouper. You pick what you want from the iced display, agree a price by weight, and they cook it while you wait.

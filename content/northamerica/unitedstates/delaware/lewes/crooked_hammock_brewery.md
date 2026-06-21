@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - brewery
+score: 5.9
 ---
 
 Crooked Hammock is a brewpub on the highway out toward Rehoboth, set on a big lawn with picnic tables, a firepit, and cornhole boards. The beers — easy-drinking ales, IPAs, a decent lager — are made on site. The food is American bar food done a step better than it needs to be: smashburgers, smoked wings, decent fries.

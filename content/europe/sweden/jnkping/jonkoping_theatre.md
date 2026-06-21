@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 57.7817
 longitude: 14.1711
+score: 6.2
 ---
 
 Jönköping Theatre (Jönköpings teater) is the city's main theatrical venue, with a seating capacity for 356. Housed within the Spira Cultural Center building on the waterfront, it presents a programme of drama, musicals, and visiting productions throughout the autumn and spring seasons.

@@ -7,6 +7,7 @@ tags:
 latitude: 37.7657
 longitude: -120.8407
 story: "The Oakdale Rodeo has been running since 1952 and is sanctioned by the Professional Rodeo Cowboys Association, which means many of the riders who appear here are the same names you'll see in the National Finals Rodeo in Las Vegas at the end of the year."
+score: 8.0
 ---
 
 The annual Oakdale Rodeo is held over a weekend in early April at the rodeo grounds on the east edge of town and is, by any measure, the centre of the town's identity. Bull riding, bronc riding, team roping, barrel racing — the full programme, with a Saturday morning parade down Yosemite Avenue and a livestock show alongside.

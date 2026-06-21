@@ -12,6 +12,7 @@ story: >
   the scent of wildflowers that used to blow across the bay from the hills — a detail
   that speaks to how undisturbed this coast once was. Development has been slower here
   than at Sanya, and the bay retains more of that original character.
+score: 7.9
 ---
 
 Perfume Bay (香水湾, Xiangshuiwan) is Lingshui's most celebrated beach: a long, east-facing stretch of white sand backed by hills, with consistent waves that have made it popular with the small surfing community on Hainan's east coast. The bay is part of what the Chinese tourism industry calls the "Chinese Riviera" — a stretch of the southeastern Hainan coast that has been developed more thoughtfully than Sanya's resort zone, with less density and more preserved shoreline.

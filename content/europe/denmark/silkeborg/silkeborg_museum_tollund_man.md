@@ -16,6 +16,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Silkeborg_Museum
   - https://en.wikipedia.org/wiki/Tollund_Man
+score: 8.8
 ---
 
 The Silkeborg Museum's most famous possession is the Tollund Man — an Iron Age body discovered in a local peat bog in 1950 and preserved for over 2,300 years by the bog's cold, acidic, oxygen-free conditions. The preservation is extraordinary: his face, with its stubble and wrinkled skin, his leather cap, and the braided leather noose still around his neck are all intact. He was hanged, apparently as a ritual sacrifice or execution, sometime around 400 BCE.

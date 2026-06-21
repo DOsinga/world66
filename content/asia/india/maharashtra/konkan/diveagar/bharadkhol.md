@@ -7,6 +7,7 @@ tags:
   - village
 latitude: 18.1683
 longitude: 72.9903
+score: 7.0
 ---
 
 Bharadkhol is the fishing settlement at the south end of Diveagar beach — really a continuation of the same village under a different name. The interest here is watching the small wooden boats come in around mid-morning and the catch get sorted on the sand: pomfret, kingfish, prawns, bombay duck, and whatever else came up that day. Buy a fish, walk it back to your guesthouse, ask the cook to fry it.

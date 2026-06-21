@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 19.6889
 longitude: -98.8395
+score: 6.0
 ---
 
 La Gruta has been serving Mexican food inside a natural volcanic cave on the eastern edge of the Teotihuacan zone since 1906. The setting is genuinely remarkable: a large vaulted limestone cavern lit by candles and shaded electric chandeliers, with rough rock walls and a sunken floor of polished volcanic stone. It is firmly on the tour-bus circuit but the food is good and the cave is the cave.

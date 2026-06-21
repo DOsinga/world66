@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Marco Polo passed through the Tagharma plain in the late 13th century on his way east. His description of a cold high plateau where fire burns dimly because of the thin air is one of the first accounts in European writing of altitude sickness."
+score: 8.4
 ---
 
 The Tagharma grasslands surround Tashkorgan on three sides, a broad seasonal wetland fed by the Tashkorgan River as it loops around the town. In summer the meadows are bright green, threaded with channels and ponds, and Tajik herders graze yaks, sheep, and the occasional camel across them. In winter the whole basin freezes and snow drifts across what was open water a few months before.

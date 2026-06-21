@@ -8,6 +8,7 @@ tags:
   - sight
   - old_san_juan
 neighbourhood: Old San Juan
+score: 5.9
 ---
 
 A 40-foot black granite obelisk on the Plaza del Quinto Centenario, behind the Cuartel de Ballajá. The sculpture was commissioned for the 500th anniversary of Columbus's first voyage in 1992 and is made of more than a hundred ceramic shards by the Puerto Rican artist Jaime Suárez, set into stacked granite slabs.

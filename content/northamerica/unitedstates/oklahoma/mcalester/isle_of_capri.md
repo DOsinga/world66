@@ -9,6 +9,7 @@ snippet: Old-line Krebs Italian restaurant, established 1950
 latitude: 34.9320
 longitude: -95.7185
 neighbourhood: Krebs
+score: 7.8
 ---
 
 The Isle of Capri sits a couple of blocks from Pete's Place and runs on the same template — a multigenerational Italian family, dim wood-panelled dining rooms, Choc beer on tap, and an Italian-American menu that rewards arriving hungry. The Lovera family opened it in 1950 and still runs it.

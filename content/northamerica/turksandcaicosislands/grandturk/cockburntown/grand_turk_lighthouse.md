@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The lighthouse was prefabricated in London in 1852 and shipped to Grand Turk in pieces. It was built to warn ships off the reefs at the island's north end, where dozens of vessels had been lost in the preceding decades — among them ships of the British Royal Navy ferrying salt back to England."
+score: 6.9
 ---
 
 The cast-iron lighthouse at the northern end of Grand Turk, built in 1852, was once the only navigational aid in the entire Turks Bank. Decommissioned for active use, the structure is preserved as a national monument and the surrounding cliffs are one of the better spots on the island for a sunset.

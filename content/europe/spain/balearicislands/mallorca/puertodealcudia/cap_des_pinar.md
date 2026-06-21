@@ -8,6 +8,7 @@ tags:
 latitude: 39.8780
 longitude: 3.1086
 snippet: Wild peninsula at the northern tip of the bay, partly accessible to hikers
+score: 7.2
 ---
 
 Cap des Pinar is the rocky peninsula that closes off the northern end of Alcudia Bay, and it looks much wilder than the beach resort that sits at its base. The cape is partly a military zone — there is a naval installation here — which has the paradoxical effect of having preserved it remarkably well. The pine forests and rocky coastline are largely untouched by development.

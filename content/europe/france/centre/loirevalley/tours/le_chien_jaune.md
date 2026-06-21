@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Le Chien Jaune
 type: poi
+score: 5.7
 ---
 
 Named after the Georges Simenon novel, a popular and informal place on rue Colbert with good atmosphere. Works well for an easy lunch or a relaxed dinner without a reservation.

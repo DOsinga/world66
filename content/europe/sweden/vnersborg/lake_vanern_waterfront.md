@@ -9,6 +9,7 @@ tags:
 - nature
 title: Lake Vänern Waterfront
 type: poi
+score: 7.0
 ---
 
 Lake Vänern is the largest lake in Sweden and the third-largest in Europe, and Vänersborg sits right at its southernmost point where the Göta river drains out of the lake toward Gothenburg. The waterfront is easily reached on foot from the town centre and has a relaxed, unhurried character — this is not a resort town with crowds and souvenir shops, just a working lakeside city with good access to open water.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Victorian-era cemetery with German Lutheran, Episcopal, and Jewish sections, plus the adjacent Confederate burial ground.
+score: 7.4
 ---
 
 Mount Hebron Cemetery on the east side of Old Town is a well-maintained Victorian cemetery that reflects Winchester's diverse religious and ethnic communities. It is divided into separate sections — German Lutheran, Episcopal, and Jewish — each with its own gatehouse and character, and the whole complex dates to the early 19th century, with the original gatehouse from 1844. The older sections have elaborate carved markers from the mid-19th century, while the more recent sections blend into standard American cemetery conventions.

@@ -6,6 +6,7 @@ longitude: 19.6986
 tags:
   - things_to_do
   - museum
+score: 8.0
 ---
 
 The Leskowsky Collection holds over 2,000 musical instruments from around the world — Tibetan singing bowls, West African djembes, Aboriginal didgeridoos, Renaissance recorders, Hungarian zithers, an Indian sitar that belonged to a touring student of Ravi Shankar. It was assembled over fifty years by Albert Leskowsky, a Kecskemét music teacher, and is now run as a small museum by his family.

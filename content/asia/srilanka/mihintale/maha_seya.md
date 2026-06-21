@@ -7,6 +7,7 @@ tags:
 snippet: "Large white stupa on the highest point of the Mihintale hill"
 latitude: 8.3501
 longitude: 80.5165
+score: 8.8
 ---
 
 The largest stupa at Mihintale and the building visible for miles across the plain. The original brick dome was constructed in the 1st century BC and is said to enshrine a relic — a single hair of the Buddha. The whitewashed exterior dates from later renovations; the most recent restoration was completed in the 1950s.

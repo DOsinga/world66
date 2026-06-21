@@ -5,9 +5,10 @@ snippet: The modern stadium of Grêmio — one of Brazil's best football arenas
 tags:
 - things_to_do
 - sight
-story: When Grêmio moved from their old Olímpico stadium to the new Arena in 2012, it was a genuinely sad day for many fans: the Olímpico, opened in 1954, had been one of the great football cathedrals of South America. The Arena is a better stadium by every technical measure. The old stadium was demolished in 2014, which felt to many like the end of something irreplaceable — though the Arena has built its own history since.
+story: "When Grêmio moved from their old Olímpico stadium to the new Arena in 2012, it was a genuinely sad day for many fans: the Olímpico, opened in 1954, had been one of the great football cathedrals of South America. The Arena is a better stadium by every technical measure. The old stadium was demolished in 2014, which felt to many like the end of something irreplaceable — though the Arena has built its own history since."
 title: Arena do Grêmio
 type: poi
+score: 6.8
 ---
 
 The Arena do Grêmio, opened in 2012 in the northern suburb of Humaitá, is Porto Alegre's newest football stadium and one of the best in Brazil. Grêmio Football Porto Alegrense — founded in 1903 by German immigrants, which explains the Germanic umlaut — is one of Brazil's most successful clubs historically, with multiple national titles and Copa Libertadores trophies. Their move to the new 55,000-seat arena from the beloved but decrepit Olímpico Monumental was emotionally controversial but practically necessary, and the stadium itself is excellent: good sight lines, comfortable seats, and a roof that keeps most of the noise in.

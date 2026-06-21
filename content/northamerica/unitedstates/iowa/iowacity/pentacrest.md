@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.6614
 longitude: -91.5358
+score: 8.3
 ---
 
 The Pentacrest is the five-building cluster on the eastern edge of the University of Iowa campus: the Old Capitol in the middle, surrounded at each corner by Macbride, Schaeffer, Jessup, and MacLean Halls. The whole quad, laid out in the 1900s, is the architectural front door of the university and the most photographed view in Iowa City.

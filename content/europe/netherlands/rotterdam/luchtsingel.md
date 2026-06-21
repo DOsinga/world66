@@ -6,6 +6,7 @@ longitude: 4.4768
 tags:
 - things_to_do
 - architecture
+score: 7.9
 ---
 
 A bright yellow pedestrian bridge that links three previously disconnected parts of central Rotterdam, built entirely through crowdfunding. The project began in 2011 when architect ZUS proposed connecting the area north of Rotterdam Centraal — cut off by railway tracks and a motorway — with the rest of the city. Donors could buy a plank of the bridge with their name engraved on it.

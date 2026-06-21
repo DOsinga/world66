@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.379000
 longitude: 43.281000
+score: 6.4
 ---
 
 The cliffs of Mount Erusheti form the backdrop to everything at Vardzia. Above the cave complex, a rough track climbs to a ridge where you get views back across the gorge to the Turkish border mountains. This is not a formal hiking trail, and the upper sections require scrambling over loose volcanic rock, but the effort is proportional to the views.

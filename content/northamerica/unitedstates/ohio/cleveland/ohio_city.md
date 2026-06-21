@@ -7,6 +7,7 @@ snippet: The brewery- and market-anchored neighbourhood just west of the river
 tags:
   - things_to_do
   - neighbourhood
+score: 8.7
 ---
 
 Ohio City sits on the bluff west of the Cuyahoga River and is the densest concentration of food, drink, and 19th-century architecture in Cleveland. Once a separate municipality, it has been part of Cleveland since 1854 but kept its own identity through generations of brewers, butchers, and Czech, German, and Italian immigrants whose names still appear on the West 25th Street storefronts.

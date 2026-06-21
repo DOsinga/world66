@@ -14,6 +14,7 @@ story: >
   Aragonese when Aragonese forces captured it in 1448, then renamed again — to Castelsardo —
   in 1769 by Savoy rulers who wanted to erase all trace of its foreign associations. The Dorias
   themselves are buried in the cathedral below.
+score: 8.7
 ---
 
 The castle at the summit of Castelsardo's rocky promontory was built by the Doria family in the 12th century and commands extraordinary views in every direction — across the Gulf of Asinara to the west and along the coast of Anglona in both directions. The climb through the lanes of the old town to reach it is half the experience.

@@ -10,6 +10,7 @@ longitude: 145.4621
 story: "St Mary's was built in 1911 as a Catholic church and served the congregation for decades. When it was deconsecrated in 1984, it was saved from demolition and converted into a non-denominational wedding venue. It is now one of the most-photographed buildings in Far North Queensland, perched on a headland with water on two sides."
 sources:
   - https://en.wikipedia.org/wiki/St_Mary%27s_by_the_Sea,_Port_Douglas
+score: 6.8
 ---
 
 St Mary's by the Sea is a heritage-listed timber church dating from 1911, sitting on a small headland on Wharf Street with views across Dickson Inlet. The building is small, white-painted, and timber-framed in the vernacular style typical of early Queensland church architecture — breezy, practical, and without unnecessary pretension.

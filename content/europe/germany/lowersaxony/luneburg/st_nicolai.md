@@ -9,6 +9,7 @@ tags:
 - church
 - architecture
 snippet: The shipowners' and merchants' church, with a soaring star-vaulted nave
+score: 7.3
 ---
 
 The third of Lüneburg's three great medieval brick churches, St. Nicholas was the church of the Wasserviertel — the harbour quarter — and was built by the city's bargemen, fishermen, and salt merchants who needed their own parish away from the patrician Johanniskirche on Am Sande. The current church was begun in 1407.

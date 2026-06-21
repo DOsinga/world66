@@ -6,6 +6,7 @@ longitude: 119.3900
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 El Nido itself is a small, somewhat scruffy beach town built tight against the foot of a thousand-foot limestone cliff. The town beach is not the reason to come — it's a working harbour, not pretty by Philippine standards — but the cliffs behind it are spectacular, and the town is the obvious base for the **Bacuit Archipelago**, the dozens of karst islands offshore.

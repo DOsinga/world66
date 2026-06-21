@@ -6,6 +6,7 @@ longitude: 14.3057
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 The Alter Platz, just north of Neuer Platz, is the older and prettier of Klagenfurt's two great squares. It is essentially a long, narrow market street, lined with arcaded Renaissance and Baroque houses painted in pastel colours, and bookended by the Trinity Column at one end and the Landhaus at the other.

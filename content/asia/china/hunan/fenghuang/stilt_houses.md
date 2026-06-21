@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 27.9520
 longitude: 109.5900
+score: 8.8
 ---
 
 The stilt houses (diaojiaolou) extending from the south bank of the Tuo River are the defining image of Fenghuang. Built on posts driven into the riverbed to protect them from seasonal flooding, the timber-frame structures rise two and three storeys above the water, their wooden balconies overhanging the river. The buildings date from the Ming and Qing dynasties, though most have been restored and adapted for commercial use — the ground floors are now almost entirely shops, cafes, and restaurants.

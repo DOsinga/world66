@@ -9,6 +9,7 @@ tags:
   - sight
   - neighbourhood
 story: "Hell-Ville is named not for any infernal qualities but for Admiral Anne Chrétien Louis de Hell, the French governor of Réunion who agreed in 1840 to put Nosy Be under French protection. The local name, Andoany, is much older and just means 'the port'."
+score: 6.9
 ---
 
 Hell-Ville is the working centre of Nosy Be — banks, supermarkets, the ferry port for the mainland, and a covered market where ylang-ylang oil, vanilla, rum and chillies are heaped on every counter. The streets still have rows of pastel colonial-era houses with deep verandahs, slowly tilting under tropical humidity.

@@ -14,6 +14,7 @@ story: >
   much of his life outside Russia, dying in 1904 when the Japanese torpedo boat
   Petropavlovsk struck a mine during the Battle of Port Arthur. He was on board,
   painting the war.
+score: 8.0
 ---
 
 The Vereshchagin Estate Museum — Muzey-Usadba Vereshchaginykh in Russian — occupies the restored family home where Vasily Vereshchagin was born in 1842. Vereshchagin is one of the most important painters in Russian art history, though he sits awkwardly in the canon: his enormous canvases of war were not triumphalist but unflinching. His Central Asian and Russo-Turkish War series showed the dead, the wounded, and the aftermath, not the glory. The Tretyakov Gallery in Moscow holds the bulk of his work; this house shows where he came from.

@@ -5,6 +5,7 @@ tags: [things_to_do, museum]
 latitude: 68.9912
 longitude: 33.0856
 snippet: "World's northernmost oceanarium, with performing Arctic seals"
+score: 5.1
 ---
 
 Opened in 1996 in a circular building on the shore of Lake Semyonovskoye, this is the only oceanarium north of the Arctic Circle and one of very few facilities in the world to keep and train Arctic seals — harp seals, grey seals, and the unusual ringed seal of the Barents Sea.

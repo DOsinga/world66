@@ -7,6 +7,7 @@ tags:
 latitude: 52.472
 longitude: 1.7526
 story: "Mincarlo is the last surviving sidewinder fishing trawler of the Lowestoft fleet. At her peak in the 1960s, Lowestoft had over a hundred such vessels; today she is the only one left, preserved as a floating memorial to an industry that once employed thousands of local families."
+score: 7.5
 ---
 
 Mincarlo is a preserved wooden sidewinder trawler, the last surviving example of the type of vessel that once dominated Lowestoft's fishing fleet. She was built in 1961 and worked the North Sea until 1975, when she was retired and eventually restored by the Lowestoft Maritime Trust.

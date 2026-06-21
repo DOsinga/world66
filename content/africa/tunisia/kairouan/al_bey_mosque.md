@@ -8,6 +8,7 @@ tags:
   - medina
   - sight
 neighbourhood: Medina
+score: 6.4
 ---
 
 The Al Bey Mosque is a smaller mosque within the medina, notable for its Ottoman-era architectural details and its minaret, which differs from the square Aghlabid style of the Great Mosque minaret. It represents the later phases of Kairouan's Islamic architecture, reflecting the influence of the Hafsid and Ottoman periods after the Aghlabid dynasty.

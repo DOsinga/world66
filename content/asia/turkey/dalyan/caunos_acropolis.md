@@ -6,6 +6,7 @@ tags:
 - sight
 title: Caunos Acropolis
 type: poi
+score: 6.8
 ---
 
 Above the theatre, a steep path climbs to the fortified acropolis. Walls of polygonal masonry — some original Carian work — wind around the summit, with later Roman and Byzantine repairs visible in the stonework.

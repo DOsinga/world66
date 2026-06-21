@@ -16,6 +16,7 @@ story: >
   debating the novels of Zola and the politics of independence during their
   rolling breaks. Some factory names — Romeo y Julieta, Montecristo — came
   directly from the books being read aloud.
+score: 7.6
 ---
 
 The Partagás factory, founded in 1845 and operating from its current building on Industria Street behind the Capitol since 1900, is one of Havana's oldest and most famous cigar manufacturers. The building is a handsome neoclassical structure with a colonnaded facade; the factory floor is where the real interest lies.

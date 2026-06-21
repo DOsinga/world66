@@ -13,6 +13,7 @@ story: >
   Dinet painted this scene dozens of times — the contrast between the cool green
   of the palms and the burning rock of the desert behind was what kept him
   coming back.
+score: 7.7
 ---
 
 The palm groves along the Oued Bou Saâda are the most pleasant part of the town for walking. The river channels wind through hundreds of date palms, creating a cool, shaded corridor between the mud-brick houses of the old town and the open desert beyond. In the early morning and late afternoon the light through the palms is golden and the air is significantly cooler than on the streets.

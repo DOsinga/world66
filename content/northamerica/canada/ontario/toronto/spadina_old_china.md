@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Spadina (old Chinatown)
 type: poi
+score: 7.1
 ---
 
 During the fall and spring seasons, the Old Chinatown (Spadina Street) has enough to do to sieze anyones senses.

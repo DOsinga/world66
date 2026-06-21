@@ -12,6 +12,7 @@ story: >
   to guide the Apollo missions, including the 1969 lunar landing. It has been restored
   to its 1969 appearance — ashtrays, coffee cups, and all. Standing in it, you can
   look at the same screens that displayed Neil Armstrong's slow descent to the surface.
+score: 8.8
 ---
 
 Space Center Houston is the official visitor center for NASA's Johnson Space Center, 40 km southeast of downtown in the Clear Lake area, and it is the most substantial space museum in the United States. The displays include a flown SpaceX Falcon 9 rocket, a Saturn V rocket (the kind that carried astronauts to the moon), an actual flown lunar module, and the Mission Control room used during the Apollo program, restored to its 1969 state.

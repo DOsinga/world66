@@ -10,6 +10,7 @@ latitude: 40.5889
 longitude: -83.1306
 story: >
   The octagonal house craze of the 1850s was inspired by Orson Squire Fowler, a phrenologist (a now-discredited science that judged character from skull bumps) who published "A Home for All, or The Gravel Wall and Octagon Mode of Building" in 1848. Fowler argued that an eight-sided house was more efficient, cheaper to heat, and received more natural light than a conventional rectangle. About a thousand were built across North America; perhaps half survive. The Marion example is one of Ohio's best-preserved specimens of this short-lived architectural enthusiasm.
+score: 6.9
 ---
 
 Marion's Octagon House is an eight-sided Victorian house dating from the 1850s, part of a brief national craze for unconventional architecture that produced a handful of octagonal homes across the United States. The Marion example has been preserved and is now managed by the Marion County Historical Society, which occupies the adjacent buildings.

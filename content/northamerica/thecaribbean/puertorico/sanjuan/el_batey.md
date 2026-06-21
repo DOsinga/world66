@@ -8,6 +8,7 @@ tags:
   - bar
   - old_san_juan
 neighbourhood: Old San Juan
+score: 6.8
 ---
 
 El Batey is the legendary dive bar of Old San Juan — an unrenovated room on Calle del Cristo where every available surface, including the ceiling, is covered in scrawled signatures, business cards, dollar bills, and graffiti accumulated since the bar opened in 1968. Everyone from Allen Ginsberg to the Rolling Stones is rumoured to have signed something here over the years.

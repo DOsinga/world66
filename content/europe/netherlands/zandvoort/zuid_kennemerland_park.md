@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 52.4
 longitude: 4.55
+score: 8.4
 ---
 
 Zuid-Kennemerland National Park covers 38 square kilometres of dunes, heath, and oak-and-birch woodland running north from the edge of Zandvoort all the way to the IJmuiden canal. It is one of the largest stretches of contiguous protected land in the western Netherlands and the closest serious nature to Amsterdam.

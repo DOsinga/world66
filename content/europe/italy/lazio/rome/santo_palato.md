@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Santo Palato
 type: poi
+score: 8.1
 ---
 
 Chef Sarah Cicolini's modern trattoria near Re di Roma, one of the most talked-about openings in Rome over the last few years. The menu is Roman and central Italian classics executed with precision — the tonnarelli cacio e pepe and rigatoni con pajata are benchmarks — alongside an unusually serious approach to offal that treats quinto quarto as fine cooking rather than peasant curiosity. A wine list of over 800 bottles. Cicolini also won MasterChef Italy, which brought crowds, so book far ahead.

@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Reading Terminal Market
 type: poi
+score: 9.4
 ---
 
 The country's oldest continuously operated farmers' market, in the gorgeous wrought-iron trainshed of the old Reading Railroad. Amish vendors from Lancaster County on Wednesdays, Fridays, and Saturdays; Philadelphia institutions like DiNic's roast pork sandwiches and Bassetts ice cream every day. Go hungry.

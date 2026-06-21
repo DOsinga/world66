@@ -5,6 +5,7 @@ tags: [things_to_do, sight, museum, art]
 latitude: 49.195508
 longitude: 16.604365
 story: The Moravian Gallery's applied arts collection includes one of the most comprehensive holdings of Jugendstil and early modernist design in Central Europe — a legacy of Brno's status as an Austro-Hungarian industrial and commercial centre. The gallery occupies three historic buildings in the city centre, including the Pražák Palace, which houses the fine art collection, and the Museum of Applied Arts, whose collection spans everything from Baroque ceramics to 20th-century industrial design.
+score: 7.8
 ---
 
 The Moravian Gallery is the second-largest art museum in the Czech Republic, spread across three buildings in central Brno. The main building on Husova Street houses the fine art collection, with Czech and Central European painting from the Middle Ages through the 20th century. The Pražák Palace focuses on modern and contemporary work. The Museum of Applied Arts, housed in a neoclassical building on Husova, covers decorative arts from the Renaissance through the present day.

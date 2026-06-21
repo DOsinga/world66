@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Delaware_Governor%27s_Mansion
 story: >
   Woodburn has a local reputation as one of the most haunted houses in Delaware. Residents have reported seeing the ghost of a colonial-era man sitting by the fireplace, a girl swinging in the garden, and a Revolutionary War soldier. The story of a slave catcher who fell into a well on the property — and whose ghost now haunts it — has been told in Dover for generations.
+score: 7.1
 ---
 
 Woodburn, on King's Highway, is the official residence of the Governor of Delaware and one of the finest examples of Georgian architecture in the state. Built around 1790, the house is open for public tours on Saturdays from spring through autumn. The rooms are furnished with period antiques and Delaware-made objects, and the guides explain both the architectural history and the building's long role in state politics.

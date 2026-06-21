@@ -15,6 +15,7 @@ story: >
   was struck by the extraordinary density of marine life in the Gulf, which he
   called the "Sea of Cortez" — a phrase that has stuck. The island's sea lion
   colony was here when they visited; it's here still.
+score: 8.8
 ---
 
 Espíritu Santo is a UNESCO-protected biosphere reserve island in the Gulf of California, about 30 kilometres north of La Paz. It is one of the finest snorkelling destinations in Mexico: sea lion colonies occupy several beaches and the animals are accustomed to human swimmers, coming to investigate and play around divers. The waters around the island hold manta rays, whale sharks (in autumn), dolphins, and a broad range of tropical fish.

@@ -8,6 +8,7 @@ tags:
 latitude: 49.3091
 longitude: -123.0826
 address: 101 Carrie Cates Court
+score: 7.0
 ---
 
 The Polygon Gallery is a small contemporary photography museum on the Shipyards waterfront, opened in 2017 in a striking corrugated-aluminium-clad cantilevered building by Patkau Architects. The collection focuses on lens-based contemporary art — photography, video, installations — by Canadian and international artists, with three to four major exhibitions a year and a strong programme of monthly talks, films, and tours.

@@ -8,6 +8,7 @@ tags:
 - sight
 title: James Johnston House
 type: poi
+score: 6.8
 ---
 
 A white saltbox farmhouse standing alone in a pasture south of town, the Johnston House was built in 1853 by James Johnston, one of the earliest American settlers in the Half Moon Bay area. The New England saltbox form — two storeys at the front sloping to a single storey at the back — is the only one of its kind on the California coast and is a visible reminder that the first wave of Anglo settlers here came around the Horn from the East rather than over the Rockies.

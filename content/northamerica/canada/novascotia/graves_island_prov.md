@@ -12,6 +12,7 @@ tags:
 title: Graves Island Provincial Park
 type: poi
 url: https://parks.novascotia.ca/park/graves-island
+score: 6.1
 ---
 
 A small island joined to the mainland by a short causeway near Chester. The 78-site campground is a popular base for ocean kayaking and biking along the South Shore. The large walk-in tenting sites are set along a woodland path, offering a sense of remoteness in a convenient location.

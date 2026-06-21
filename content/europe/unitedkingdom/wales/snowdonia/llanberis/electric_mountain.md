@@ -7,6 +7,7 @@ tags:
 latitude: 53.1225
 longitude: -4.1380
 url: https://www.electricmountain.co.uk
+score: 7.8
 ---
 
 Electric Mountain is the visitor centre for Dinorwig Power Station, a pumped-storage hydroelectric facility built inside the old Dinorwig quarry between 1974 and 1984. The scale is extraordinary: 16 kilometres of underground tunnels were excavated through the mountain, with a main cavern large enough to contain St Paul's Cathedral. The station can go from zero to 1,800 megawatts of output in under 16 seconds, making it Britain's emergency electricity reserve.

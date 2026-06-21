@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+  location_enrich: '2026-06-02'
   poi_cleanup: '2026-04-20'
 image: islamujeres.jpg
 image_license: CC BY-SA 2.0
@@ -10,6 +11,8 @@ latitude: 21.237191
 loc_type: city
 longitude: -86.735
 score: 0.67
+sources:
+- https://en.wikipedia.org/wiki/Isla_Mujeres
 title: Isla Mujeres
 type: location
 ---

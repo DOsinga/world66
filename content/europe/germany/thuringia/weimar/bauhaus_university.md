@@ -12,6 +12,7 @@ story: >
   Bauhaus in 1919, he merged this school with the Academy of Fine Arts next
   door. The van de Velde buildings, with their flowing Art Nouveau staircases
   and murals, predate the Bauhaus aesthetic they helped birth.
+score: 8.8
 ---
 
 The Bauhaus-Universitat Weimar occupies the original buildings where Walter Gropius founded the Bauhaus school in 1919. The main building and the former art school next door were both designed by Henry van de Velde in an elegant Art Nouveau style that predates the Bauhaus movement they would house. The interiors are remarkable — sweeping staircases, original murals by Oskar Schlemmer, and a mural workshop that still functions.

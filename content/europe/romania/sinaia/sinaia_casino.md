@@ -6,6 +6,7 @@ latitude: 45.3552
 longitude: 25.5533
 sources:
   - https://en.wikipedia.org/wiki/Sinaia_Casino
+score: 7.3
 ---
 
 The Sinaia Casino is one of Romania's finest Belle Époque buildings, an extravagant confection of towers and arcaded terraces that commands the central park. Built in 1912–1913 at the initiative of King Carol I and designed by architect Petre Antonescu, it was intended as the social heart of the royal resort — a place for concerts, balls, and the kinds of entertainment that aristocrats and wealthy Bucharest families expected when summering in the mountains.

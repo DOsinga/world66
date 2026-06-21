@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Núncio Malzoni building in José Menino is the most spectacular case: it leans 2.2 metres from the vertical and was successfully straightened (partly) by an engineering team in the 2000s. It still tilts visibly, though, and is sometimes called the leaning tower of Brazil."
+score: 6.8
 ---
 
 Walk along the beachfront between Embaré and José Menino and you will start to notice that many of the high-rise apartment blocks lean. Several of them lean dramatically. The cause is the sand-and-clay soil beneath: when the buildings were thrown up in the 1950s and 60s, foundations were not always sunk deep enough, and the towers settled unevenly as the substrate compressed.

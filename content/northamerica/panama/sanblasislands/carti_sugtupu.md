@@ -7,6 +7,7 @@ tags:
   - sight
 title: Cartí Sugtupu
 type: poi
+score: 8.2
 ---
 
 Cartí Sugtupu is one of the most densely populated islands in the San Blas archipelago and the closest large Guna village to the mainland road at Cartí. The island is famous for being crowded: hundreds of traditional Guna homes pack a surface barely large enough to contain them, with narrow alleyways between houses, children everywhere, and the life of a functioning fishing village visible at close quarters. The contrast with the empty white-sand reef islands is stark.

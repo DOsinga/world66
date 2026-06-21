@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 26.5268
 longitude: -76.9800
+score: 8.8
 ---
 
 The reef system running along the Atlantic side of the Abaco cays is one of the most extensive in the Bahamas. The water is clear and shallow enough close to shore for good snorkelling without equipment beyond a mask and fins, and deeper reef diving is available through several operators based in Marsh Harbour and Hope Town.

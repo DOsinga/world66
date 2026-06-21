@@ -7,6 +7,7 @@ tags:
 - sight
 title: Molines-en-Queyras
 type: poi
+score: 7.0
 ---
 
 Molines is the larger commune just below Saint-Véran, spread out across several hamlets along the Aigue Blanche valley. It's the main service centre for the upper Queyras — bakery, supermarket, a couple of restaurants — and the base for the Molines/Saint-Véran ski area.

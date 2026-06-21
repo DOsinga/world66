@@ -8,6 +8,7 @@ tags:
 - posta
 title: Mamboz Corner BBQ
 type: poi
+score: 6.5
 ---
 
 Mamboz Corner is an institution: a brick-fronted grill on the corner of Morogoro Road and Libya Street that fires up its charcoals in the late afternoon and works flat out until well past midnight. The signature dish is mishkaki — skewered beef or chicken marinated in spice and grilled over open coals — served with naan and a coconut-and-coriander chutney that is half the appeal. Whole fish, prawns, and a few stews fill out the menu.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Session Road
 type: poi
+score: 8.0
 ---
 
 Session Road climbs steeply from the Burnham Park area at the bottom up to the cathedral and the Maharlika market, a 1.7-km strip of restaurants, cafes, bookshops, banks, and the kind of small department stores that have somehow not been displaced by SM. The road got its name from the sessions of the Philippine Commission held in Baguio's summer-capital days.

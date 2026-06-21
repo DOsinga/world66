@@ -13,6 +13,7 @@ story: >
   unsure what to call it, named it after the city. Guru Sweet Mart is run by descendants
   of that royal lineage of sweetmakers and remains the most authoritative place to eat the
   original version.
+score: 6.4
 ---
 
 Guru Sweet Mart sits in the lanes near Devaraja Market and has been selling mysore pak for generations. The sweet is unlike the dry, crumbly versions sold in boxes across India — the fresh version sold here is dense, slightly moist, and deeply flavoured with ghee. It is cut from large slabs into thick squares and sold by weight. It is also extraordinarily rich: a small piece is enough.

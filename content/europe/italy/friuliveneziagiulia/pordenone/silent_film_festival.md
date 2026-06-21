@@ -8,6 +8,7 @@ latitude: 45.9556
 longitude: 12.6600
 story: >
   The Silent Film Festival began in 1982 as a small gathering of scholars and enthusiasts and has grown into the world's leading event for silent cinema research and exhibition. Films are screened with live orchestral accompaniment, which transforms the viewing experience entirely — it is the closest thing available to the way audiences actually experienced cinema before the introduction of sound in 1927. The festival has been responsible for the restoration and rediscovery of hundreds of lost or forgotten films.
+score: 8.4
 ---
 
 Le Giornate del Cinema Muto (the Days of Silent Cinema) takes place each October in Pordenone, drawing film historians, archivists, and enthusiasts from around the world. It is the most important event of its kind globally, combining scholarly research with public screenings of restored silent films accompanied by live piano, chamber ensemble, or full orchestra.

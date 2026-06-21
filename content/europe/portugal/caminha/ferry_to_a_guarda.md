@@ -7,6 +7,7 @@ tags:
 latitude: 41.8746
 longitude: -8.8425
 snippet: Small car-and-passenger ferry across the Minho to Galicia
+score: 7.8
 ---
 
 A small ferry runs across the Minho river from the Caminha quay to [A Guarda](https://en.wikipedia.org/wiki/A_Guarda) in Spanish Galicia. The crossing takes about ten minutes and the boat is just big enough for a handful of cars and a few foot passengers. It is one of the more pleasant border crossings in Europe — no formalities, two countries within sight of each other, the river wide and quiet.

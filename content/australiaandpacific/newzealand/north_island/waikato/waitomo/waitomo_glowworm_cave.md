@@ -11,6 +11,7 @@ story: >
   The glowworms lighting the cave ceiling are not actually worms at all — they are the larval stage of a fungus gnat (Arachnocampa luminosa) found only in New Zealand and parts of Australia. Each tiny creature spins sticky threads down from the ceiling to trap insects attracted by its bioluminescent tail. The boat ride through the grotto passes in total silence, which is kept to avoid disturbing the creatures and possibly dimming their lights.
 sources:
   - https://en.wikipedia.org/wiki/Waitomo_Glowworm_Cave
+score: 9.3
 ---
 
 The Waitomo Glowworm Cave is New Zealand's most famous underground experience and one of the most visited natural attractions in the country. A guided tour leads through several chambers of limestone formations before culminating in the grotto — a large underground lake where you board a flat-bottomed boat and float in darkness beneath a ceiling studded with thousands of glowing blue-green lights. It is genuinely magical.

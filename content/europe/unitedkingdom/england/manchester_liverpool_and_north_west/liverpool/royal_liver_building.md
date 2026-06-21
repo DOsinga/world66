@@ -10,6 +10,7 @@ tags:
 - waterfront
 title: Royal Liver Building
 type: poi
+score: 8.2
 ---
 
 The middle and most famous of the Three Graces, completed in 1911 by Walter Aubrey Thomas for the Royal Liver Assurance group. At 90 metres it was the tallest building in Britain at the time of completion and a pioneering use of reinforced concrete on such a scale. The two clock faces are larger than Big Ben's.

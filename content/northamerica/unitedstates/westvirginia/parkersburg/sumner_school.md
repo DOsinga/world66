@@ -9,6 +9,7 @@ tags:
   - architecture
   - historic
 snippet: The first free public school for Black children south of the Mason-Dixon line
+score: 7.4
 ---
 
 Sumner School, opened in 1862 in a converted house and rebuilt in its present form in 1887, was the first free public school for Black children established south of the Mason-Dixon line. It served the city's African American population continuously until the integration of West Virginia schools in 1955, and produced an unusual number of distinguished graduates for a town of Parkersburg's size.

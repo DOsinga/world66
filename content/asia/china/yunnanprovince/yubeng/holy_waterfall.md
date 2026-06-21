@@ -14,6 +14,7 @@ story: >
   allows, which is considered especially purifying. The rainbows that form in the mist on sunny
   mornings are not incidental to the spiritual experience — they are considered auspicious
   manifestations.
+score: 8.9
 ---
 
 The Holy Waterfall, known in Tibetan as Shengdi Waterfall, is the most accessible of Yubeng's three main destinations and the most spiritually significant to the Tibetan pilgrims who make up a substantial part of the visitor population. The trail climbs steadily from Lower Yubeng through conifer and rhododendron forest for four to five hours, gaining around 500 metres before reaching the falls at roughly 3,600 metres. On clear mornings, rainbows form in the mist at the base.

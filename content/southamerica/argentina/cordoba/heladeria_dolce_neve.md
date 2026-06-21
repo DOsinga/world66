@@ -7,6 +7,7 @@ tags:
 latitude: 31.4250
 longitude: -64.1870
 neighbourhood: Nueva Córdoba
+score: 5.5
 ---
 
 One of Córdoba's better gelaterias, run in the Italian-Argentine artisan tradition rather than the industrial style that dominates the local chains. Dulce de leche, sambayón, and chocolate amargo are the classics; rotating fruit flavours change with the season.

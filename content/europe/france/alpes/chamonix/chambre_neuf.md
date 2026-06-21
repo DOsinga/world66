@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, bar]
 latitude: 45.9236
 longitude: 6.8700
+score: 6.4
 ---
 
 Chambre Neuf is Chamonix's best-known après-ski bar and has been for decades. It opens in the early afternoon when the lifts start closing and reaches full volume — Swedish pop, packed crowd, people still in ski boots — by about 5pm. The atmosphere is good-natured and international, with Scandinavians, Brits, and Australians making up much of the clientele alongside French seasonaires.

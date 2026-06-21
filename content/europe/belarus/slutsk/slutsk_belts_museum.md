@@ -12,6 +12,7 @@ story: >
   much as a village. After the partition of Poland ended demand, the craft slowly died out.
   The last workshop closed in the early 19th century, and original belts have since fetched
   extraordinary prices at auction — when they surface at all.
+score: 7.7
 ---
 
 The centrepiece of Slutsk's claim to cultural fame, this museum is dedicated to the silk sashes that made the city's name across Central and Eastern Europe in the 18th century. The Slutsk belt was a double-sided woven sash of silk and gold or silver thread, worn by Polish and Lithuanian nobility over their traditional zhupan coats. Both sides were usable, each differently coloured, and the finest examples required months of work by skilled craftsmen.

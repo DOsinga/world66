@@ -12,6 +12,7 @@ tags:
 title: Palace of Versailles
 type: poi
 url: en.chateauversailles.fr
+score: 9.7
 ---
 
 The Palace of Versailles was the seat of French royal power from 1682 to 1789, and it remains the most spectacular ensemble of palace and formal garden in Europe. Louis XIV's Hall of Mirrors is the set-piece — 73 metres of gilded grandeur, the ceiling painted by Le Brun with scenes of the King's victories — but the gardens, fountains, and subsidiary palaces (the Grand and Petit Trianon, Marie Antoinette's hamlet) require a full day to explore properly.

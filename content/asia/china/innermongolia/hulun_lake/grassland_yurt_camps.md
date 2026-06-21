@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.9200
 longitude: 117.3800
+score: 8.1
 ---
 
 Several yurt camps have been established on the grassland near the southern shore of Hulun Lake, combining the standard Inner Mongolian grassland experience — horse riding, bonfires, Mongolian food — with direct access to the lake and its extraordinary scenery. The combination of open water and open steppe at this scale is rare anywhere in the world; sitting at the lake's edge at sunset, watching the water turn gold against the grassland backdrop, is the kind of experience that justifies a long journey to northeastern Inner Mongolia.

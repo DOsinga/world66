@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The viewpoint above the canopy at the KWS entry on the northern side of the forest
+score: 7.6
 ---
 
 Buyangu Hill is the rocky outcrop above the Kenya Wildlife Service entry station on the northern side of the Kakamega Forest reserve. The walk to the top takes about an hour from the gate, on a gentle path that climbs through forest before emerging on a bare granite shelf. The reward is the only proper above-canopy view of the forest you can easily get — a deep green undulating sea of treetops, broken by emergent mahogany and croton trees that rise above the general level.

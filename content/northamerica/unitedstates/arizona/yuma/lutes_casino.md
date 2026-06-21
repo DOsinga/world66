@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 32.7239
 longitude: -114.6168
+score: 6.8
 ---
 
 Lute's Casino is not a casino — it's a vintage American bar and grill in historic downtown Yuma that's been open since 1939 and hasn't tried very hard to update itself since. The walls are covered in decades of accumulated junk: stuffed animals, old signs, sports memorabilia, celebrity photos, and whatever else the owners felt like hanging up. It is wonderfully eccentric and completely sincere about it.

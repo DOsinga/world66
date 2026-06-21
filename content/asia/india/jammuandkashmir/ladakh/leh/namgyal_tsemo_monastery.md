@@ -8,6 +8,7 @@ tags:
 latitude: 34.1675
 longitude: 77.5900
 snippet: 15th-century gompa perched on the ridge above Leh Palace with a giant Maitreya statue
+score: 8.0
 ---
 
 Namgyal Tsemo Monastery crowns the ridge directly above Leh Palace, its red and white towers visible from almost everywhere in the Indus Valley. Founded by King Tashi Namgyal in the 15th century, the gompa houses a three-storey gilded statue of Maitreya, the future Buddha, along with ancient manuscript collections and vivid frescoes that have survived centuries of mountain winters.

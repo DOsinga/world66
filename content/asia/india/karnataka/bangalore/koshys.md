@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Koshy's
 type: poi
+score: 7.8
 ---
 
 Koshy's Parade Cafe on St. Mark's Road has been open since 1940 and is the closest thing Bangalore has to a literary institution. The long dining room with ceiling fans, slightly worn furniture, and a menu that has barely changed in decades draws journalists, academics, students, and old-timers with equal loyalty. Politicians eat here; writers come to argue; students nurse a single coffee for two hours. The combination of cheapness, eccentricity, and genuine good food makes it unlike anything else in the city.

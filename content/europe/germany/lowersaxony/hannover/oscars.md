@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: "Oscar's"
 type: poi
+score: 5.7
 ---
 
 Hannover's whisky bar — around 600 single malts and blends from across the world, served straight to people who care about that sort of thing, or worked into long cocktails by bartenders who can mix anything you ask for. The Art Nouveau room is grown-up without being stuffy, and the cigar selection is good. Whisky tastings and occasional sushi evenings round out the schedule.

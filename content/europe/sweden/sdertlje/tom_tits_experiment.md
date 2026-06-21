@@ -7,6 +7,7 @@ tags:
 latitude: 59.2003
 longitude: 17.6232
 snippet: Huge hands-on science centre, one of the best of its kind in Sweden
+score: 7.4
 ---
 
 Tom Tits Experiment is a large interactive science centre with over 600 hands-on exhibits spread across five floors. It is one of the biggest science museums in Sweden and draws visitors from across Stockholm County, particularly families with children. The exhibits cover physics, chemistry, biology, and technology — you can generate electricity, operate a crane, test your reaction speed, and walk through a giant digestive system.

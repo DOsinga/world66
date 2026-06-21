@@ -8,6 +8,7 @@ latitude: 58.9942
 longitude: -3.2080
 snippet: "The oldest stone circle in Britain, from around 3100 BCE"
 story: "The Stones of Stenness predate the Ring of Brodgar by perhaps 500 years and are among the oldest standing stones in Britain. The four remaining megaliths originally formed part of a circle of twelve, surrounding a central hearth that may have been the focus of feasting rituals."
+score: 8.8
 ---
 
 A smaller and older site than the Ring of Brodgar a kilometre away, the Stones of Stenness consists of four enormous slabs of sandstone — up to six metres tall — that were once part of a twelve-stone circle. The circle was raised around 3100 BCE, making it the earliest known henge monument in Britain.

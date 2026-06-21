@@ -8,6 +8,7 @@ tags:
 latitude: 44.0864
 longitude: 8.1474
 story: "Cisano was acquired by the commune of Albenga in 1274 and transferred to Genoa at the end of the 13th century. The four corner towers of the original quadrangular plan all still stand — a rarity in Liguria, where most medieval defences were dismantled or built over centuries ago."
+score: 7.7
 ---
 
 The historic centre is a tight square of stone houses laid out to a regular plan, still showing the four corner towers that defined its 13th-century walls. It takes 20 minutes to walk around. The streets are narrow, vaulted in places, with original arched doorways and the occasional inscription.

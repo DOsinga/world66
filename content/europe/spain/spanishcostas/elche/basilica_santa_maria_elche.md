@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.7
 ---
 
 The Basílica de Santa María dominates the old town of Elche with a baroque mass of stone topped by a blue-tiled dome visible from across the city. Construction began in 1672 on the site of an earlier mosque, and it took well over a century to complete. The dome, clad in glazed azulejo tiles in deep blue and white, is immediately recognisable from the streets around it — a visual signature for Elche in the way the Sagrada Família is for Barcelona, but on a far quieter scale.

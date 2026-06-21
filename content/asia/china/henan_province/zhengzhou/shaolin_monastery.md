@@ -11,6 +11,7 @@ tags:
 - monastery
 title: Shaolin Monastery
 type: poi
+score: 8.9
 ---
 
 One of China's most famous temples, founded in 495 AD at the foot of Mount Songshan. It is the birthplace of Chan (Zen) Buddhism and, more famously, of Shaolin martial arts. The temple complex includes the main monastery, the Forest of Pagodas (where past abbots are buried), and a museum. Martial arts schools have grown up all around the area. The site can be crowded but the historical significance is undeniable.

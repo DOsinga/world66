@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Batumi Lighthouse
 type: poi
+score: 6.1
 ---
 
 The Batumi Lighthouse sits on the south end of the seaside boulevard and is one of the oldest working pieces of infrastructure in the city. Built by the Russian Black Sea Fleet in the 1880s after Batumi was annexed from the Ottoman Empire, the iron-framed tower is painted white with a red lantern room and is still in active service guiding ships into the port.

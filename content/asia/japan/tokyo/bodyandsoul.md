@@ -9,6 +9,7 @@ tags:
 - roppongi
 title: Body and Soul
 type: poi
+score: 7.7
 ---
 
 Body and Soul is one of Tokyo's most respected jazz venues, run by vocalist and owner Kyoko Seki since 1974. The room is small — maybe 60 seats arranged around a tiny stage — which means every performance feels like a private concert. The booking policy favours Japanese artists, many of whom have international reputations but rarely play outside Japan.

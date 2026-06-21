@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 15.8667
 longitude: -61.5836
+score: 6.4
 ---
 
 La Saladerie is one of the most reliable restaurants in Les Saintes for a proper French Creole meal — accras, fresh grilled fish, langouste, and salads made with local produce. It is better value than most of the waterfront places and the cooking is more careful. The small dining room fills quickly in the evening, so arrive early or expect to wait.

@@ -6,6 +6,7 @@ tags:
 - park
 title: Lake Earl Wildlife Area
 type: poi
+score: 7.1
 ---
 
 Lake Earl is a large coastal lagoon north of Crescent City, connected to a second lagoon, Lake Tolowa, by a narrow passage. Together they form the largest natural lake system in California and one of the most important stopover points for migrating waterfowl on the Pacific Flyway. Over 300 bird species have been recorded here.

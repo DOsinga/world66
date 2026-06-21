@@ -8,9 +8,9 @@ snippet: "Tiny beer cafe with 100+ Belgian and craft brews"
 tags:
 - bars_and_cafes
 - centrum
-- canal_ring
 title: Gollem
 type: poi
+score: 6.3
 ---
 
 A tiny beer cafe near Spui with one of the best Belgian and craft beer selections in the city — well over 100 varieties. The space is almost too small for the bottles behind the bar. A good introduction to the difference between one beer and another if you are willing to ask the staff.

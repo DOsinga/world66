@@ -6,6 +6,7 @@ longitude: 73.6839
 tags:
   - things_to_do
   - neighbourhood
+score: 7.5
 ---
 
 The slope of narrow lanes that drops down to the eastern shore of Lake Pichola, **Lal Ghat** is the heart of backpacker and budget-traveller Udaipur — the rooftop restaurants, the haveli guesthouses, the silver shops and the cafes are all clustered here. The actual ghat (the stepped waterside) is small and modest, used by locals for early-morning bathing.

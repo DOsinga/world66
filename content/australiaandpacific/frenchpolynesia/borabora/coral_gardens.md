@@ -8,6 +8,7 @@ tags:
   - diving
 latitude: -16.4800
 longitude: -151.7200
+score: 8.7
 ---
 
 The Coral Gardens sit at the northern end of Bora Bora's lagoon, where the water is shallower than in the main channel and the coral coverage is among the densest and healthiest in French Polynesia. Hard corals — staghorn, brain, table — spread across the lagoon floor in formations that have been growing for centuries, hosting an extraordinary density of reef fish: parrotfish, triggerfish, Moorish idols, butterflyfish, and occasional Napoleon wrasse.

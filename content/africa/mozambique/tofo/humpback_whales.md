@@ -8,6 +8,7 @@ tags:
 latitude: -23.870
 longitude: 35.560
 snippet: Humpback whales pass through the bay from June to November on their annual migration
+score: 8.4
 ---
 
 From June to November, humpback whales migrate through the Mozambique Channel on their annual journey between Antarctic feeding grounds and warmer breeding waters. Tofo Bay sits directly in their path, and sightings from shore and from dive boats are common throughout this period. At peak season (August to October), it is unusual to spend a day on the water without seeing at least one.

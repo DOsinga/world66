@@ -11,6 +11,7 @@ story: >
   funded in the 19th century by such a woman as an act of religious merit. The
   story goes that she built it after her husband forbade her from making a
   pilgrimage to Varanasi; she brought the Narmada's sanctity to herself instead.
+score: 6.9
 ---
 
 Sethani Ghat is the main bathing ghat on the Narmada River at Hoshangabad, a well-constructed stone staircase descending to the water that was built in the 19th century and remains in daily use. The Narmada is one of India's most sacred rivers — its waters are believed to grant moksha (liberation) to anyone who bathes in them — and the ghat draws a steady flow of pilgrims alongside local residents who come simply to wash, pray, or sit.

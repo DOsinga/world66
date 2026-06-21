@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Hidden grove of carved Papuan totems on Santa Teresa Street"
+score: 7.8
 ---
 
 A small, easily missed corner of campus that holds something genuinely surprising: dozens of

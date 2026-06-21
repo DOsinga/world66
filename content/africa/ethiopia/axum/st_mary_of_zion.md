@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The Chapel of the Tablet — the small building beside the old church where the Ark of the Covenant is said to reside — has a permanent guardian: a monk chosen for life who may not leave the grounds and who is the only person permitted to enter. The current guardian was selected years ago and has not left since. When he dies, the church elders will choose his replacement, who will then also never leave again.
+score: 9.1
 ---
 
 The Cathedral of St Mary of Zion compound contains two churches and the most contested object in Christianity. The old cathedral, built by Emperor Fasilides in the 17th century, stands beside a modern church completed in 1964 under Haile Selassie — architecturally uninspiring but housing a museum of Aksumite crown jewels and ancient manuscripts that is well worth the entry fee.

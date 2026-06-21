@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-03'
 image: ancona.jpg
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Il_porto_di_Ancona_(2426413820).jpg

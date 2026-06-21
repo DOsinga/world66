@@ -8,6 +8,7 @@ latitude: 49.6525
 longitude: -124.9608
 story: >
   The ships sunk at Royston were not disasters — they were retired deliberately. Between the 1930s and 1960s, a series of old sailing ships, barges, and tugs were sunk in shallow water to form a breakwater protecting a log boom operation. Among them is a World War I hospital ship and several sailing vessels that had served on international trade routes. Their slow conversion into reef structures has made them a habitat for thousands of marine creatures.
+score: 7.4
 ---
 
 The Royston Wrecks are a collection of around a dozen derelict vessels deliberately sunk in shallow water along the shoreline south of Courtenay in the early-to-mid 20th century. They were placed as a breakwater to protect a log storage operation, and over the decades they have subsided and rusted into the gravel foreshore, where they are now partially submerged, particularly at high tide.

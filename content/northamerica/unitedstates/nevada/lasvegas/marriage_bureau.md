@@ -10,6 +10,7 @@ tags:
 - things_to_do
 title: Marriage Bureau
 type: poi
+score: 5.3
 ---
 
 This is Vegas, so why not? The Clark County Marriage Bureau issues licenses year-round, open Sunday through Thursday 8am to midnight, and 24 hours on Friday, Saturday, and legal holidays. Walk-ins are welcome — no appointment needed.

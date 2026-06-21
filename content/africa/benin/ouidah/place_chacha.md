@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Square where enslaved Africans were auctioned, named for the de Souza title"
+score: 6.6
 ---
 
 A small unassuming square in the town centre, the official starting point of the Route des Esclaves. This was the auction square of Ouidah — the place where captives, marched in from the inland slaving raids, were sold to European traders before being walked the three kilometres to the boats.

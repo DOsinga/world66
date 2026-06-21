@@ -13,6 +13,7 @@ story: >
   Gagarin, the Soviet cosmonaut — despite the fact that WWII, which the memorial commemorates, ended fifteen
   years before Gagarin's first spaceflight. The inclusion suggests the mural was less a historical record
   than a general celebration of Soviet achievement. Nobody seems to have pointed this out at the time.
+score: 6.5
 ---
 
 The Zaisan Memorial stands on a low hill south of the city, reached by a long flight of stairs (or by taxi to the base). Built in 1971 to honour Mongolian and Soviet soldiers killed in World War II — including the Battle of Khalkhin Gol in 1939, where Soviet and Mongolian forces defeated the Japanese — the monument features a large circular mosaic mural and a gilded statue.

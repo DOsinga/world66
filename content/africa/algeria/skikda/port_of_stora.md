@@ -8,6 +8,7 @@ latitude: 36.8900
 longitude: 6.8800
 sources:
   - https://en.wikipedia.org/wiki/Skikda
+score: 7.8
 ---
 
 Stora is a village and small fishing port a few kilometres west of central Skikda, set at the far end of the Gulf of Stora where the bay curves in and the hills come down to the water. This was the original settlement — the Phoenician anchorage and then the Roman port of Rusicade — before the modern city expanded across the hillside above it.

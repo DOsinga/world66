@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 story: "The lake exists because the original town of Tehri was drowned in 2006 to fill the reservoir behind the new dam. The old town is still down there — temples, houses, the colonial-era court — and on clear days when the water level drops, the tops of buildings can be glimpsed from the boats."
+score: 7.2
 ---
 
 Tehri Lake is the long, finger-shaped reservoir behind the 260-metre Tehri Dam, one of the tallest dams in the world. From Kanatal it is about an hour's drive down towards the river, ending at the small boat jetty near Koti Colony.

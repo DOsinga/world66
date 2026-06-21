@@ -15,6 +15,7 @@ story: >
   industrial objects, bathtubs, car doors, and things González found in the
   street. The whole alley is essentially a single ongoing artwork, a few
   hundred metres long, that has been accreting for thirty-five years.
+score: 7.5
 ---
 
 Callejón de Hamel is a narrow alley in the Centro Habana neighbourhood dedicated to Afro-Cuban culture — its walls, doors, and fences entirely covered in murals, sculptures, and installations drawing on Santería, Afro-Cuban religious imagery, and street art. It is one of the most visually arresting places in Havana and the antithesis of the restored colonial tourism of Old Havana.

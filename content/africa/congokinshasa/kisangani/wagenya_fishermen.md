@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Wagenya Fishermen
 type: poi
+score: 8.6
 ---
 
 The Wagenya (or Genya) people have been fishing the lowest of the Boyoma Falls cataracts for centuries, using a unique system of wooden tripods anchored in the rapids that hold conical baskets in the rushing water. The fish — capitaine, tilapia and Congolese pike — that try to swim upstream are caught as they leap.

@@ -9,6 +9,7 @@ latitude: -3.2900
 longitude: 29.3300
 story: >
   The Rusizi River delta, which feeds into Lake Tanganyika just north of Bujumbura, is one of the most important hippo habitats in Central Africa. There are an estimated 300 hippos in the park — a density that makes boat trips through the papyrus channels an almost guaranteed encounter. The hippos are wild and can be dangerous; the guides know where to position the boats, but close encounters are the norm, not the exception.
+score: 8.4
 ---
 
 Rusizi National Park lies just 15 kilometres north of Bujumbura and makes an easy half-day excursion from the city. The park protects the Rusizi River delta, where the river fans out through papyrus wetlands before reaching Lake Tanganyika. Boat trips through the channels are the main attraction — the hippo population is substantial and the encounters are close and extraordinary.

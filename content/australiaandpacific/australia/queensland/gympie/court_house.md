@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.8
 ---
 
 A handsome red-brick courthouse on Channon Street, built in 1902 with a tall Italianate clock tower that doubles as the unofficial landmark of the upper end of town. The building is still in use as the Gympie District Court.

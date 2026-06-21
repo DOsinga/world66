@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.8600
 longitude: 125.2800
+score: 6.4
 ---
 
 The Changchun Science and Technology Museum is a modern science museum with interactive exhibits aimed primarily at school groups and families, covering the standard science museum range: astronomy, physics, biology, and technology. The museum has benefited from investment in exhibits and the facilities are well-maintained.

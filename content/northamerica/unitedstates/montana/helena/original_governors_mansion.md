@@ -8,6 +8,7 @@ tags:
   - historic_house
 latitude: 46.5878
 longitude: -112.0351
+score: 7.2
 ---
 
 The Original Governor's Mansion is a well-preserved 1888 Queen Anne house that served as the official residence of Montana's governors from 1913 to 1959. Built for a Helena businessman during the height of the gold-rush prosperity, it was purchased by the state when the capital needed a proper executive mansion. The building is a showpiece of late-Victorian domestic architecture: asymmetrical massing, wraparound porch, steeply pitched roof, decorative shingles, and the general exuberance that the Queen Anne style permitted its practitioners.

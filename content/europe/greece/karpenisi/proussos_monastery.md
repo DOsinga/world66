@@ -9,6 +9,7 @@ longitude: 21.706
 snippet: A Byzantine monastery clinging to a cliff face in a dramatic river gorge
 story: >
   The icon of the Virgin of Proussos is said to have been brought from Constantinople in the ninth century by monks fleeing the iconoclast persecutions. According to tradition, the monks were guided to the cliff site by a divine light. The icon has been credited with multiple miracles and is one of the most venerated in central Greece.
+score: 8.5
 ---
 
 The Monastery of Proussos is one of the most dramatically sited religious buildings in Greece, wedged into a vertical cliff face above the Karpenisiotis river gorge about 25 kilometres southwest of Karpenisi. The monastery dates to the ninth century, though the current buildings are mostly post-Byzantine and post-fire restorations. The approach road winds through increasingly steep gorge scenery, and the final sight of the white monastery walls emerging from a rock overhang is genuinely startling.

@@ -6,6 +6,7 @@ longitude: 73.6783
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 The second of Udaipur's lakes, **Fateh Sagar** sits just north of Lake Pichola — built by Maharana Fateh Singh in the late 19th century to provide drinking water and now mostly used for boating and evening walks. The road around its edge, **Pearl Mile**, is a favourite drive and at sunset the cafes along the embankment fill up with college students and families.

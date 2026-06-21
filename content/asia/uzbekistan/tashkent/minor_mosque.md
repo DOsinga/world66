@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 41.3447
 longitude: 69.2697
+score: 6.5
 ---
 
 A bright white-marble mosque on the banks of the Ankhor Canal, finished in 2014. The design is a deliberate echo of classical Central Asian mosques — twin minarets, a turquoise dome, mosaic-tiled niches — but rendered in modern Carrara marble rather than baked brick.

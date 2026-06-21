@@ -15,6 +15,7 @@ story: >
   the number is closer to 13,000, as younger Bruneians move to land, but the
   government has invested heavily in keeping the community functioning, with
   schools, mosques, and a fire station all built on stilts.
+score: 6.0
 ---
 
 Kampong Ayer is the world's largest water village — a city built entirely on stilts above the Brunei River, connected by 36 kilometres of wooden boardwalks and served by a constant fleet of water taxis. Some 13,000 people live here in houses that range from modest wooden structures to concrete homes with air conditioning, satellite dishes, and speedboats moored below.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 32.0990
 longitude: 76.2710
+score: 7.8
 ---
 
 The Kangra Museum, run by the Himachal Pradesh State Museum, holds one of the best collections of Kangra miniature paintings outside the national museums in Delhi. The Kangra school of painting flourished in the eighteenth and early nineteenth centuries under the patronage of the Katoch rulers, producing delicate, luminous images of Krishna legends, Ragamala series, and Pahari court life.

@@ -1,8 +1,0 @@
-asia/indonesia/nias_selatan/teluk_dalam
-southamerica/brazil/recife
-asia/israel/haifa
-africa/tunisia/metlaoui
-africa/nigeria/yola
-asia/pakistan/sargodha
-europe/ireland/sligo
-northamerica/unitedstates/california/losangeles

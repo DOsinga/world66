@@ -8,6 +8,7 @@ latitude: 34.7645
 longitude: 113.6549
 story: >
   The museum's collection includes a set of bronze ding vessels from the Shang Dynasty (1600–1046 BC) that are among the oldest large bronze castings in the world. The Shang were the first Chinese civilisation to leave extensive written records — carved on oracle bones used for divination — and Henan is where that civilisation was centred. The museum has several thousand of these bones, each inscribed with questions put to ancestors and the answers divined from cracks in the heated bone.
+score: 9.0
 ---
 
 The Henan Provincial Museum is one of the finest regional museums in China and houses a collection that spans five thousand years of Chinese civilisation — appropriate, since Henan was the heartland of ancient China, the territory where the Shang and Zhou dynasties ruled and where Chinese writing, bronze technology, and the first cities developed. The museum's permanent collection focuses on the archaeological wealth of the province, including a world-class assemblage of Shang Dynasty bronzes, Neolithic jades, Han Dynasty tomb figures, and Tang Dynasty ceramics.

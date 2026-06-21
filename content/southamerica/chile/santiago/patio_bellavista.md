@@ -8,6 +8,7 @@ tags:
   - market
 latitude: -33.4239
 longitude: -70.6376
+score: 5.8
 ---
 
 Patio Bellavista is a large open-air complex of restaurants, cafés, craft shops, and galleries in the heart of Barrio Bellavista, built around a series of interconnecting courtyards. It is the main concentration of craft shopping in Santiago — stalls selling lapis lazuli jewellery, Mapuche textiles, copper objects, and leather goods fill the upper level — and the restaurants around the courtyards range from reliable Chilean food to Peruvian, Asian, and international options.

@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 36.89150
 longitude: 30.70250
+score: 6.6
 ---
 
 The Murat Paşa Mosque is one of the oldest Ottoman mosques in Antalya, standing in the Muratpaşa district that bears its name. Built in the 16th century, it has a single dome and a portico of reused Roman and Byzantine columns — a common Ottoman practice in a region with so many ancient ruins available for repurposing.

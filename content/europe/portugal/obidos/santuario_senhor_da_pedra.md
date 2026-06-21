@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.1
 ---
 
 The Santuário do Senhor da Pedra is the unusual six-sided sanctuary on the southern edge of town, visible from the road as you arrive. Designed in the 1740s by Rodrigo Franco, it has a sinuous Baroque facade and a striking hexagonal nave — a piece of 18th-century church architecture out of character with the medieval town behind it.

@@ -8,6 +8,7 @@ latitude: 22.8194
 longitude: 108.3217
 story: >
   The museum's collection includes a complete set of Han dynasty bronze vessels excavated from a tomb in Guixian in 1976, among them a wine vessel cast in the shape of a rhinoceros — an animal that once roamed Guangxi in large numbers and was hunted to regional extinction by the Tang dynasty. The piece is one of the finest examples of Han bronze casting anywhere in China.
+score: 7.8
 ---
 
 The Guangxi Museum, on Minzhi Road in the centre of Nanning, covers regional history from the neolithic through to the twentieth century. It is a different institution from the Nationalities Museum (which focuses on living ethnic cultures) — this museum focuses on archaeological finds and historical artefacts, and its collection of bronzes from the ancient Ou-Yue people who inhabited the region before Chinese expansion southward is genuinely significant.

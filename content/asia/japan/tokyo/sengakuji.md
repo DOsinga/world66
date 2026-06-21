@@ -8,6 +8,7 @@ latitude: 35.6320
 longitude: 139.7385
 snippet: Buddhist temple where the 47 Ronin are buried, Japan's most celebrated story of loyalty
 story: "On 14 December 1702, 47 masterless samurai stormed the mansion of Lord Kira, cut off his head, and carried it to their dead master's grave at Sengaku-ji — avenging an insult that had cost their lord his life two years earlier. All 47 were then ordered to commit seppuku. The act became the defining Japanese story of loyalty, honour, and sacrifice."
+score: 8.0
 ---
 
 Sengaku-ji is a small Soto Zen temple in Minato that sits quietly at the center of Japan's most celebrated historical drama. The temple holds the graves of the 47 Ronin — the masterless samurai who carried out one of history's most famous acts of revenge in 1702 — and the grave of their dead master, Lord Asano.

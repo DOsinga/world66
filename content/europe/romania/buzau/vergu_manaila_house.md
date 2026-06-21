@@ -11,6 +11,7 @@ longitude: 26.82303
 sources:
   - https://en.wikipedia.org/wiki/Vergu-M%C4%83n%C4%83il%C4%83_House
   - https://muzeubuzau.ro/en/muzeul-de-etnografie-vergu-manaila/
+score: 6.5
 ---
 
 The Vergu-Mănăilă House on Războieni Street is the oldest surviving building in Buzău, a late 18th-century boyar's mansion that has outlasted everything else the town has thrown at it. Built around 1780 for a high-ranking local nobleman, it passed through several owners before being restored in the early 1970s. The house is a historical monument of national interest and now serves as the Ethnography Museum of the Buzău County Museum complex.

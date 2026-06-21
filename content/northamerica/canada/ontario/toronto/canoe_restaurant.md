@@ -9,6 +9,7 @@ tags:
 title: Canoe Restaurant and Bar
 type: poi
 url: https://www.canoerestaurant.com
+score: 6.8
 ---
 
 Canoe is one of Toronto's landmark fine dining restaurants, perched on the 54th floor of the TD Bank Tower in the financial district with panoramic views over Lake Ontario to the south and the city in all other directions. The views alone would make it worth visiting, but the cooking is serious: the menu is built around Canadian ingredients — bison, wild game, east coast seafood — and changes seasonally.

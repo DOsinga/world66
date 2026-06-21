@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.1750
 longitude: 120.3020
+score: 7.9
 ---
 
 The Republican-era Guangzhou and Hong Kong street set covers a different slice of Chinese history — the early twentieth century, when colonial-period architecture, tram lines, and Western-style shophouses coexisted with traditional Chinese commerce. The set recreates the layered urban texture of 1920s and 1930s Guangzhou and Hong Kong: colonnaded pavements, signboards in both Chinese characters and English, Chinese department stores with European facades, and the narrow alleys behind them.

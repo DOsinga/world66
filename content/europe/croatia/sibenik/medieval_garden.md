@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - garden
+score: 6.8
 ---
 
 A small walled garden tucked behind the Franciscan monastery of St Lawrence, reconstructed in 2007 from the original fifteenth-century plan. The beds are laid out in a strict geometric cross with a fountain at the centre, and the plants are the ones medieval monks would have grown — sage, rosemary, lavender, hyssop, rue, plus herbs used in cooking and for medicine.

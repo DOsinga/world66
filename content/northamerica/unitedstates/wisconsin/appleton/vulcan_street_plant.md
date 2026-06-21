@@ -11,6 +11,7 @@ story: >
   York (which ran on steam) by producing electricity from the current of
   the Fox River. The original building is long gone, but a marker and
   replica generator stand at the site.
+score: 6.3
 ---
 
 A modest but genuinely important historic marker stands near the Fox River where the Vulcan Street Plant once hummed in 1882. This was the first hydroelectric central power station in the world — the plant that powered Hearthstone's lights and put Appleton on the map of technological history, a full step ahead of Edison's famous Manhattan operation.

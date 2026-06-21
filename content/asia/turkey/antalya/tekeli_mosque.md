@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 36.88638
 longitude: 30.70583
+score: 7.3
 ---
 
 The Tekeli Mehmet Paşa Mosque is a well-preserved Ottoman mosque in Kaleiçi, built in the 17th century by the governor after whom it is named. It stands on a narrow lane not far from the Yivli Minaret, and its modest exterior conceals a bright interior with painted panels and geometric tilework.

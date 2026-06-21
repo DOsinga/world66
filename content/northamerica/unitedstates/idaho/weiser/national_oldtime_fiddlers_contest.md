@@ -8,6 +8,7 @@ latitude: 44.261
 longitude: -116.979
 story: >
   The contest has been held every June since 1953, making it one of the longest-running traditional music events in the United States. In its early years, competitors came primarily from Idaho and Oregon; today the field draws from across North America, and previous winners have gone on to record careers and national recognition.
+score: 8.7
 ---
 
 Every third week of June, Weiser transforms from a quiet agricultural town into the capital of American fiddle music. The National Old Time Fiddlers' Contest has been running since 1953 and draws competitors from across the country in categories spanning junior novice through senior champion. The official competition takes place in a large tent venue, but the real magic happens in the informal jam sessions that break out in parks, parking lots, and front porches all over town.

@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Warteck
 type: poi
+score: 5.9
 ---
 
 Warteck sits in the corner of the Marktplatz arcades and has been one of Freudenstadt's reliable mid-priced restaurants for decades. The cooking is traditional Swabian-Black Forest: Maultaschen, Spätzle with venison sauce, trout from the Murg, schnitzel in several variations, and a good selection of regional wines. Mains run €18–28.

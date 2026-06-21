@@ -13,6 +13,7 @@ story: >
   years. Minor Roman remains — a bridge abutment here, a milestone there —
   can still be found scattered along the valley floor for those who know where
   to look.
+score: 7.4
 ---
 
 The Comino Valley stretches below Broccostella, a broad agricultural valley between limestone ridges at the border of Lazio and Campania. It is a genuinely beautiful piece of central Italian countryside — patchworks of fields, old farmhouses, lines of poplars along the watercourses — of the kind that has been painted and drawn since the Grand Tour era.

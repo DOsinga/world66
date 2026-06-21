@@ -7,6 +7,7 @@ tags:
 latitude: 12.6303
 longitude: -7.9919
 snippet: The older of Bamako's two Niger River bridges, best seen at dusk
+score: 5.9
 ---
 
 The Pont des Martyrs (Martyrs Bridge) was Bamako's first fixed crossing of the Niger River, connecting the city's historic centre on the north bank to the expanding southern suburbs. Built during the colonial period, it remains a busy crossing and the most direct route between the two halves of the city.

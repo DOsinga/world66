@@ -7,6 +7,7 @@ tags:
 - market
 title: Burmese Market
 type: poi
+score: 6.7
 ---
 
 Cox's Bazar has had a substantial ethnic Burmese and Arakanese community for generations, and the Burmese Market near the town centre reflects this. The stalls sell handwoven textiles, longyi (Burmese wrap sarongs), lacquerware, sandalwood products, dried goods, and household items more likely to originate in Myanmar than Bangladesh.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - gallery
+score: 6.7
 ---
 
 The Centre de Céramique de Bingerville, founded in the colonial era and revived after independence, is a working sculpture and ceramics school. It is the closest thing the town has to a contemporary cultural anchor, and the gallery rooms display work by current students and established Ivorian artists.

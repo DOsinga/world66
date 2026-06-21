@@ -13,6 +13,7 @@ story: >
   liberation by American troops was simply not mentioned in Czech schools or public life. After 1989,
   Plzeň reclaimed the history, and Liberation Day (5 May) is now marked each year with a parade of
   period vehicles and American veterans, one of the largest such events in Europe.
+score: 7.0
 ---
 
 The Patton Memorial Pilsen (Památník Patton Memorial Pilsen) is a small but well-curated museum dedicated to the American liberation of Western Bohemia in 1945. It occupies a converted building near the city centre and tells the story of General Patton's 3rd Army, the liberation of Plzeň on 6 May 1945, and the subsequent Communist-era suppression of that history.

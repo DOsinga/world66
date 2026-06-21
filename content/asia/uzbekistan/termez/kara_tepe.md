@@ -12,6 +12,7 @@ story: >
   Sanskrit and Bactrian inscriptions found in Central Asia — records left
   by monks who may have traveled the same Silk Road routes that carried
   the religion itself.
+score: 8.3
 ---
 
 Kara Tepe is a Buddhist cave complex dug into the earthen hills just outside Termez, dating to the first through fourth centuries AD. The caves served as meditation cells and small temples, and their design closely resembles sacred cave complexes found further east in Gandhara — the cultural region spanning modern Pakistan and eastern Afghanistan from which Buddhism spread into Central Asia.

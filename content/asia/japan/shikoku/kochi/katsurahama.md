@@ -6,6 +6,7 @@ tags:
 snippet: "Dramatic coastal headland with Ryōma statue and no-swim beach"
 latitude: 33.4894
 longitude: 133.5563
+score: 8.2
 ---
 
 The most famous stretch of coastline near Kōchi, Katsurahama is a rocky peninsula about 13km south of the city centre. A crescent of dark sand is backed by pine trees, with a large bronze statue of **Sakamoto Ryōma** gazing out to sea from a promontory above. The beach itself is not for swimming — the Pacific currents are fierce and there are prominent warning signs — but the coastal scenery is dramatic and the views along the headland are good.

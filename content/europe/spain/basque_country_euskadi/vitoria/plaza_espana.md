@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.6
 ---
 
 A handsome neoclassical square laid out in 1781, with a continuous arcade running on all four sides. It was built as a market square and a place for civic gatherings; it now houses the town hall on the south side and bars and cafés under the arcades.

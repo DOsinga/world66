@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.6092
 longitude: 118.9900
+score: 6.8
 ---
 
 Qiandao Lake supplies drinking water to several million people in Hangzhou and the surrounding region, and a small interpretive park near the main dam documents this hydrological role alongside the engineering history of the Xin'an River hydroelectric project. The park is more interesting than it sounds: the story of how China's first large hydroelectric dam was built, the scale of the displacement involved (300,000 people relocated from the flooded valley), and the unusual clarity of the reservoir water that resulted from flooding mountain forest rather than agricultural land are all covered with more candour than is typical of Chinese commemorative sites.

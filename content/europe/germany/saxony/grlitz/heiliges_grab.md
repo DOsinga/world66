@@ -7,6 +7,7 @@ tags:
 latitude: 51.1480
 longitude: 14.9808
 story: "The Görlitz merchant Georg Emmerich commissioned the complex in 1481 after making a pilgrimage to Jerusalem. He measured the original Church of the Holy Sepulchre himself, pacing out the dimensions by foot, and brought the measurements back to Görlitz to be reproduced as accurately as the technology of the day allowed — creating a sacred replica for those who could not afford the journey to the Holy Land."
+score: 8.9
 ---
 
 The Heiliges Grab is Görlitz's most extraordinary monument: a complex of medieval buildings constructed as a faithful replica of the Church of the Holy Sepulchre in Jerusalem. Built between 1481 and 1504 to the specifications that local merchant Georg Emmerich brought back from his Jerusalem pilgrimage, it is one of only three such replicas in the world outside the Middle East and the best preserved.

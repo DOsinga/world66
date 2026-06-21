@@ -8,6 +8,7 @@ tags:
 - museum
 - architecture
 snippet: "Henry van de Velde villa commissioned as the centrepiece of Hagen's artists' colony"
+score: 9.0
 ---
 
 Hohenhof is the villa Karl Ernst Osthaus commissioned in 1906 for himself and his family — designed inside and out by Henry van de Velde, the founder of the Werkbund and one of the key figures of European Jugendstil. The building was meant to be a manifesto: every fitting, light, doorknob, panel, and piece of furniture was designed by van de Velde, and the whole interior survives largely intact.

@@ -11,6 +11,7 @@ story: >
   Unlike Isola Bella, which was entirely redesigned for aristocratic display, Isola dei Pescatori has been continuously inhabited since at least the 12th century. Today around 50 people live here year-round, and the narrow lanes between the fishermen's houses look much as they have for centuries.
 sources:
   - https://en.wikipedia.org/wiki/Isola_dei_Pescatori
+score: 7.8
 ---
 
 The smallest and most human of the Borromean Islands, Isola dei Pescatori is a real village with a real community, not a palace or a garden. The island is a tangle of narrow alleys between old stone houses hung with fishing nets, a small piazza with a church, and a handful of restaurants and craft shops facing the water on both sides. You can walk the entire island in ten minutes.

@@ -7,6 +7,7 @@ tags:
 snippet: "Live music venue and tap house with local craft beers"
 latitude: 40.8703
 longitude: -124.0856
+score: 6.6
 ---
 
 Humboldt Brews, known locally as HumBrews, is the main live-music pub in Arcata — a large, high-ceilinged bar on F Street that hosts touring bands, local acts, and DJ nights several times a week. The tap list is heavy on Northern California craft beers, including several from regional producers, and the bar is large enough to accommodate a crowd without feeling crushing.

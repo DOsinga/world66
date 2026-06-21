@@ -11,6 +11,7 @@ story: >
   for ships arriving from ports further east. Sailors suspected of carrying disease were held
   here before being allowed into Kupang. The island has since reverted to the unhurried pace
   of a Timorese fishing community.
+score: 7.7
 ---
 
 Semau Island lies about 25 minutes by boat from Kupang's harbour, separated from the main island by a narrow strait. It is dramatically less developed than the mainland — savannahs, lontar palms, white-sand beaches, and a small population of fishing families. The surrounding waters are clear enough for snorkelling, and the coral is in decent condition on the sheltered western side.

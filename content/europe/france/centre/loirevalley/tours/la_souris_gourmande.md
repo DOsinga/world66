@@ -8,6 +8,7 @@ tags:
 title: La Souris Gourmande
 type: poi
 snippet: "Cheese-focused restaurant with strong vegetarian options"
+score: 5.8
 ---
 
 A restaurant built around cheese — the selection is serious and the food inventive. A genuinely good option for vegetarians, which is rarer than it should be in Tours. Book ahead for dinner.

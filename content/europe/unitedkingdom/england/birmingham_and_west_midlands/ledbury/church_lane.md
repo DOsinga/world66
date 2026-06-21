@@ -5,6 +5,7 @@ latitude: 52.0372
 longitude: -2.4221
 snippet: Narrow cobbled passage of overhanging Tudor buildings
 tags: [things_to_do, sight, architecture]
+score: 8.8
 ---
 
 Church Lane is the famous picture of Ledbury — a narrow cobbled passage rising from the High Street to St Michael's churchyard, lined with timber-framed Tudor buildings whose upper storeys lean towards each other over your head. The effect is genuinely medieval: you can stretch your arms and touch buildings on both sides.

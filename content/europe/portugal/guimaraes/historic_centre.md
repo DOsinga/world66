@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The centre was inscribed on the UNESCO list in 2001 partly for the survival of medieval building techniques — wattle-and-daub upper storeys mounted on granite ground floors, a vernacular form that influenced Portuguese colonial architecture in Brazil."
+score: 9.3
 ---
 
 The historic centre is a sixteen-hectare cluster of medieval streets, squares, and granite-and-timber houses, walled in places and threaded with iron-railed balconies. UNESCO listed it in 2001 for being one of the best-preserved examples of a medieval town that grew organically out of a castle community.

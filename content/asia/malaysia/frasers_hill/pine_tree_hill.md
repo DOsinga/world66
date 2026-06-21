@@ -6,6 +6,7 @@ longitude: 101.7300
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 Pine Tree Hill is the most demanding walk at Fraser's Hill, and the most rewarding for it. The trail climbs through tall montane forest — mossy trees, tangled roots, and the kind of green that only happens above a thousand metres in the tropics — to a summit that gives views over the surrounding ridges when the cloud cooperates. The ascent takes around ninety minutes at a reasonable pace; the descent another hour. Bring water and start early, before the afternoon mist closes in.

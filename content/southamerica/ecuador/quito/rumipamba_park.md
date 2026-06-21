@@ -15,6 +15,7 @@ story: >
   on raised terraces and traded with communities across a wide area of the
   northern Andes. The site was only properly excavated in the early 2000s,
   when urban construction uncovered the extent of the remains.
+score: 7.6
 ---
 
 Rumipamba Archaeological and Ecological Park is a 33-hectare protected area in the western suburbs of Quito that preserves the remains of a pre-Hispanic settlement occupied for approximately 3,000 years. Guided trails wind through native vegetation and past excavated house foundations, burial mounds, and artefact scatters from the Quito culture that inhabited this site before the Inca conquered the region in the late 15th century.

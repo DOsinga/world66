@@ -8,6 +8,7 @@ latitude: 59.6181
 longitude: 17.723
 story: >
   Stora Gatan is sometimes described as the oldest main street in Sweden, and its scale has not changed in nearly a thousand years — a narrow pedestrian lane running through the centre of a town that has always been small. The buildings have been rebuilt many times, but the street plan has been essentially the same since the Viking age, when Sigtuna was the first truly urban settlement in the Swedish kingdom.
+score: 8.7
 ---
 
 Stora Gatan is the single main street of Sigtuna, running from the town centre to the lake, lined with low 18th- and 19th-century wooden buildings that now house cafes, handicraft shops, antique dealers, and a few galleries. The scale is intimate — the street is no wider than it was in the medieval period — and the pace is slow enough that you can stop and look at things without being swept along.

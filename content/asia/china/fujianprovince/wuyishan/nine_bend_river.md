@@ -13,6 +13,7 @@ story: >
   How they managed to place wooden coffins hundreds of metres up sheer rock
   faces — without ropes or climbing gear as we understand them — remains
   unexplained.
+score: 8.2
 ---
 
 The Nine-Bend River (九曲溪, Jiǔqū Xī) is the defining experience of Wuyishan. Flat-bottomed bamboo rafts carry four to six passengers in a slow 9.5-kilometre float downstream through a canyon of vertical red sandstone cliffs, past hanging temples built into rock faces, beneath overhanging peaks that close in to just a sliver of sky. The trip takes about two hours and the river lives up to the approach.

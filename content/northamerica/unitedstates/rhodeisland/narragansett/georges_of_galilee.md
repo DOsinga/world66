@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: George's of Galilee
 type: poi
+score: 5.9
 ---
 
 George's has anchored Galilee's small commercial drag since 1948 — a sprawling family seafood restaurant on the waterfront with an upstairs raw bar, an outdoor deck and ferry-watching tables overlooking the channel. The menu is unapologetically Rhode Island: stuffies, fried clams with bellies, clear-broth Rhode Island chowder, baked stuffed lobster.

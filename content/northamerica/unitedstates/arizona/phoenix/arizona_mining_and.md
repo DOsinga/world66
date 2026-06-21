@@ -11,6 +11,7 @@ tags:
 title: Arizona Mining and Mineral Museum
 type: poi
 url: mines.az.gov
+score: 6.6
 ---
 
 Run by the Arizona Department of Mines and Mineral Resources, this small museum on West Washington Street makes for a surprisingly engaging stop. The collection covers the full breadth of Arizona's mineral wealth: copper ore, turquoise samples, fossils, and — a crowd favourite — actual moon rocks and meteorites. Arizona produced more copper than any other US state for most of the 20th century, and the exhibits give real context to that industrial history. Admission is free, and the gift shop stocks a good selection of mineral specimens for purchase.

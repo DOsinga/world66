@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Haft Khan
 type: poi
+score: 5.9
 ---
 
 Haft Khan — "Seven Stations," named for the seven trials of the hero Rostam — is a sprawling restaurant complex in north Shiraz with several themed floors: traditional Iranian, fast food, café, fine dining, and a rooftop. It is one of the most popular places in town with middle-class Iranian families, and the traditional floor is the one to head for.

@@ -9,6 +9,7 @@ tags:
   - fort
   - historic
 snippet: "17th-century hilltop fort, later rebuilt by Tipu Sultan."
+score: 6.7
 ---
 
 The fort sits on a rise at the top end of Madikeri's bazaar, its laterite walls and bastions still mostly intact. It was first built of mud by the Haleri Raja Muddu Raja in the late 17th century, then rebuilt in stone by Tipu Sultan during his brief takeover in 1781.

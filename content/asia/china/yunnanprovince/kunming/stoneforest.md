@@ -9,6 +9,7 @@ tags:
   - unesco
   - rock
 story: "Local Yi legend holds that a young woman named Ashima was turned to stone here by a spurned suitor, and a particular pillar at the centre of the forest is still pointed out as her. The story has become a regional epic — a 1964 film of Ashima was the first colour musical made in China — and her image is everywhere in Shilin's marketing."
+score: 9.3
 ---
 
 About 90 kilometres east of Kunming, the Shilin — Stone Forest — is a vast field of weathered limestone pinnacles, some standing more than 30 metres high, eroded out of the karst plateau over the last 270 million years. It is the most spectacular landscape close to Kunming and a UNESCO World Heritage Site, inscribed in 2007 as part of the South China Karst.

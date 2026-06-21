@@ -8,6 +8,7 @@ tags:
   - museum
   - gallery
 snippet: Modern and contemporary American art collection on the UNCG campus
+score: 8.1
 ---
 
 The Weatherspoon, on the University of North Carolina at Greensboro campus, holds one of the leading collections of modern and contemporary American art in the Southeast. The permanent collection includes works by Willem de Kooning, Eva Hesse, Robert Motherwell, Henri Matisse (a small bronze), and a substantial run of post-1945 prints from the Cone family donation.

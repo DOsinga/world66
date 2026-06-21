@@ -13,6 +13,7 @@ story: >
   La Pérouse named the bay A'asu but Europeans immediately renamed it
   Massacre Bay. He sailed away and was never seen again, lost with all hands
   somewhere in the Pacific.
+score: 6.8
 ---
 
 Massacre Bay is a small cove on the northwest coast of Tutuila, reached by a road that winds along the northern shore past the villages of A'asu. A memorial tablet marks the site where French sailors from Jean-François de Galaup, comte de Lapérouse's expedition were killed in December 1787 — one of the most violent encounters in early Pacific exploration history.

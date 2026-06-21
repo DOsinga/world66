@@ -6,6 +6,7 @@ tags:
   - theatre
 latitude: 47.0276
 longitude: 28.8300
+score: 7.5
 ---
 
 Moldova's national opera and ballet performs in a hulking 1980 Soviet-modernist building on Stefan cel Mare Boulevard — heavy stone, deep loggias, and a 1,400-seat auditorium that is one of the largest opera spaces in Eastern Europe. The company is named for the soprano Maria Bieșu, an internationally acclaimed Moldovan singer who won the Pavarotti Prize in Tokyo in 1967.

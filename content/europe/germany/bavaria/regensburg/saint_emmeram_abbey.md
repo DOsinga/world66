@@ -10,6 +10,7 @@ latitude: 49.01528
 longitude: 12.09278
 story: >
   In the 11th century, a monk at St Emmeram named Arnold attempted to forge imperial documents, was discovered, and had his eyes put out. He then wrote a book about it. The abbey library — one of the greatest in medieval Germany — was dispersed by Napoleon in 1803, and the buildings given to the Thurn und Taxis family, whose descendants still live in part of them today.
+score: 8.4
 ---
 
 Saint Emmeram's Abbey is one of the oldest monastic sites in Germany, founded around 739 over the grave of the Frankish bishop who gives it its name. For over a thousand years it was a Benedictine monastery and a major centre of scholarship — the scriptorium produced illuminated manuscripts of great beauty, and the library rivalled any in the German-speaking world. Napoleon dissolved the monastery in 1803 and handed the buildings to the Thurn und Taxis dynasty, the family who built their fortune running Europe's first postal system.

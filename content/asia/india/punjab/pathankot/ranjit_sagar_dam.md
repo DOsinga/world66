@@ -14,6 +14,7 @@ story: >
   reservoir. The dam was contentious for years because Punjab, Himachal Pradesh,
   and Jammu and Kashmir all share the Ravi's waters — it was finally built under a
   federal compromise that allocated its hydroelectric power between the states.
+score: 7.3
 ---
 
 Ranjit Sagar Dam — named for the Sikh Maharaja Ranjit Singh — backs up the Ravi River into a large lake that sprawls across the borders of Punjab, Himachal Pradesh, and Jammu and Kashmir. The reservoir is roughly 87 square kilometres and is one of the larger lakes in the region, surrounded by forested Shivalik hills that give it an unexpectedly scenic setting.

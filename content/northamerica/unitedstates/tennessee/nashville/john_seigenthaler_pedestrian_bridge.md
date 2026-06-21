@@ -8,6 +8,7 @@ tags:
   - sight
   - landmark
   - downtown
+score: 7.6
 ---
 
 The pedestrian bridge across the Cumberland River, formerly the Shelby Street Bridge, was rebuilt in 2003 as a 3,150-foot pedestrian-only span. From the centre of the bridge the views back over downtown — the line of the Capitol on the hill, the Batman Building, the Pinnacle and the new Four Seasons tower — are the best you'll find in the city.

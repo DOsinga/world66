@@ -2,13 +2,14 @@
 latitude: 15.5667
 longitude: -61.4667
 snippet: Atmospheric mangrove boat trip through jungle tunnels
-story: The Indian River's guides were so central to its reputation that Dominica's government formally licensed them as an official guide association — one of the Caribbean's early examples of community-controlled ecotourism. Pirates of the Caribbean: Dead Man's Chest filmed scenes here in 2006, drawn by the same otherworldly atmosphere visitors come to see.
+story: "The Indian River's guides were so central to its reputation that Dominica's government formally licensed them as an official guide association — one of the Caribbean's early examples of community-controlled ecotourism. Pirates of the Caribbean: Dead Man's Chest filmed scenes here in 2006, drawn by the same otherworldly atmosphere visitors come to see."
 tags:
 - things_to_do
 - sight
 - nature
 title: Indian River
 type: poi
+score: 8.8
 ---
 
 The Indian River flows from the hills behind Portsmouth into the sea at the town's edge, and a short stretch of it — roughly two kilometres — is navigable only by small rowboat through an increasingly dense tunnel of bwa mang mangroves. The guides who work this stretch are government-licensed, and the trip is one of the most atmospheric things to do on the island.

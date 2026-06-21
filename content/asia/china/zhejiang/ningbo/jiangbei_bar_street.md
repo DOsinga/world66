@@ -7,6 +7,7 @@ tags:
   - jiangbei
 latitude: 29.893
 longitude: 121.561
+score: 5.8
 ---
 
 The streets around the Jiangbei old quarter north of the Yong River contain Ningbo's highest concentration of bars and late-night restaurants. The mix is varied — Japanese izakayas, craft beer bars, cocktail bars in converted colonial buildings, and the Chinese-style *baijiu* bars where groups of business associates conduct extended drinking sessions — and the street is lively from around 9pm to 2am on weekends.

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+  location_enrich: '2026-06-02'
 image: tineghir.jpg
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Kasbha_Tinghir_Todra_Morocco_-_panoramio_(2).jpg
@@ -12,10 +13,8 @@ title: Tineghir
 type: location
 ---
 
-Even though Tineghir (sometimes written as Tinerhir) is a good base from which to visit the Todra Gorge, it is also a very beautiful and relaxing place to stay. The Tineghir palm grove is a must see, before or after a visit to the gorge. The palmery is like a fantasy world in itself, with its many crumbling ksours (mud-like family houses) and miles of date palms blowing in the wind. It’s a comfortable place to just get lost. An interesting way to explore them is by renting a mule and a guide in town. 
+Tineghir (sometimes written as Tinerhir) sits at the edge of the High Atlas, where the Todra River emerges from its canyon and fans out into one of Morocco’s great palmeries. The town is a comfortable base and more than just a stopover — the [Tineghir palmery](/africa/morocco/tineghir/tineghir_palmery) alone is worth a full day, and the [Glaoui Kasbah](/africa/morocco/tineghir/glaoui_kasbah) ruin above town offers one of the finest sunset views in the south.
 
-The ruined Glaoui Kasbah stands in ruin on a hill above the town. This a spectacular place to go at sunset as the view of the palmery is one of the best in Morocco (it is the largest and richest oases of the Moroccan South). 
+The [Todra Gorge](/africa/morocco/tineghir/todra_gorge) is the main event, about 15km northeast of town. The canyon narrows to barely 10 metres wide at its tightest point, with limestone walls rising 300 metres on either side. You may have to wade through the shallow stream at the narrowest section. The best time to visit is early morning, before the tour buses arrive.
 
-About 10 km from Tineghir, the Gorge reaches a very narrow point, where the paved road stops (you may have to take off your shoes and roll up your pants to cross a stream). There is a hotel, a restaurant and a cool spring. Best time to visit is February to June. 
-
-Good quality Berber crafts can be found, for a reasonable price, at the Maison Berbere.
+Good quality Berber crafts can be found for a reasonable price at [Maison Berbere](/africa/morocco/tineghir/berber_crafts) in the town centre. The Monday market is the best day to visit, when produce from the palmery villages fills the stalls alongside the usual crafts.

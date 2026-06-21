@@ -12,6 +12,7 @@ story: >
   The factory's most famous product was the **FD class** of mainline freight
   locomotive — over 3,000 were built here between 1931 and 1942, and the
   surviving examples are among the largest steam engines ever made in Europe.
+score: 7.4
 ---
 
 The Lugansk Locomotive Building Plant, founded in 1896 by the German industrialist Gustav Hartmann, became one of the most important steam-engine works in the Russian Empire and then the Soviet Union. By the 1930s the works employed tens of thousands of people and supplied locomotives to railways from the Baltic to Central Asia.

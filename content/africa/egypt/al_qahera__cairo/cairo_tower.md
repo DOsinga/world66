@@ -8,6 +8,7 @@ latitude: 30.0450
 longitude: 31.2244
 story: >
   Cairo Tower was financed by money that came, indirectly, from the CIA. In 1956, the US government offered Nasser's Egypt a covert $3 million bribe — ostensibly to influence policy, reportedly paid through diplomatic channels. Nasser instead used the money to build a national monument visible from across the city. He called it "Roosevelt's Erection" in private correspondence, a joke that delighted him. The tower opened in 1961.
+score: 6.9
 ---
 
 Cairo Tower stands 187 metres tall on Gezira Island in the Nile, making it the tallest structure in North Africa at the time of its construction in 1961. Designed by Egyptian architect Naoum Shebib, it is clad in a lattice of precast concrete shaped to resemble the papyrus plant, an ancient Egyptian motif adapted to modernist form.

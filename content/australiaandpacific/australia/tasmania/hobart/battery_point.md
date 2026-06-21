@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: "The old seafarers' quarter, narrow lanes of convict-built cottages above Salamanca"
+score: 8.8
 ---
 
 Hobart's most atmospheric neighbourhood, perched on a small headland directly above Salamanca. Battery Point takes its name from the gun battery built here in 1818 to defend the colony. The street pattern has barely changed since the 1850s — tight lanes of weatherboard and sandstone cottages, the unusual oval village green of **Arthur Circus**, and the 1836 Anglican **St George's Church** overlooking the river from the highest point.

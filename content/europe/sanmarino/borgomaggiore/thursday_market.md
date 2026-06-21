@@ -12,6 +12,7 @@ tags:
 - market
 title: Thursday Market
 type: poi
+score: 7.6
 ---
 
 San Marino's largest weekly market, held every Thursday morning in the main piazza of Borgo Maggiore. Stalls sell local produce, Italian groceries, seasonal vegetables, clothing, and hardware. The food section is the most interesting part: San Marino has its own food traditions (the piadina flatbread and Sangiovese wine are local staples) and the market is a better place to buy them than the tourist shops in the city above. Arrive by 9am for the fullest stalls; most vendors pack up by noon.

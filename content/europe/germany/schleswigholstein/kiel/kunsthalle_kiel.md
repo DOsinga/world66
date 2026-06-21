@@ -9,6 +9,7 @@ latitude: 54.3198
 longitude: 10.1273
 sources:
   - https://en.wikipedia.org/wiki/Kunsthalle_Kiel
+score: 6.7
 ---
 
 The Kunsthalle Kiel is the city's main art museum, affiliated with Kiel University. The permanent collection focuses on German painting from the nineteenth century to the present, with strong holdings in North German Romanticism and German Expressionism — works by Ernst Ludwig Kirchner, Emil Nolde, and the painters associated with the Die Brücke movement feature prominently. The collection also includes French Impressionist works and a selection of contemporary German art.

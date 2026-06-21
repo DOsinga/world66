@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 53.544
 longitude: -113.491
+score: 6.4
 ---
 
 Downtown Edmonton is the city's administrative and financial centre, built on the north bank of the North Saskatchewan River. Churchill Square sits at the heart of it, surrounded by the city's major cultural institutions: the Royal Alberta Museum, the Art Gallery of Alberta, the Winspear Centre, and City Hall. The downtown core is more compact than you might expect for a city of Edmonton's size, and much of it is connected by a pedway system — an elevated network of enclosed walkways that allows movement between buildings without going outside, a practical necessity given the winters.

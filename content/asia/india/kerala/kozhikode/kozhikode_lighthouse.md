@@ -8,6 +8,7 @@ longitude: 75.769189
 tags:
 - things_to_do
 - sight
+score: 5.9
 ---
 
 The Kozhikode lighthouse stands on a small headland at the north end of the city beach. The current tower, built in the 1970s, replaces an older 19th-century light that was demolished. It opens to visitors most afternoons and the climb up the steel staircase is rewarded with a clean view over the harbour, the beach and the rooftops of the old town.

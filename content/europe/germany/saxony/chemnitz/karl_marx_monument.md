@@ -9,6 +9,7 @@ longitude: 12.92333
 snippet: The largest Karl Marx bust outside the former Soviet Union
 story: >
   The 7-metre bronze head was commissioned in 1953, the year the city was renamed Karl-Marx-Stadt. Sculptor Lev Kerbel created it in Moscow; it took three years to cast and arrived in 14 pieces. When reunification came in 1990 and the city reclaimed its old name, a referendum was held on whether to keep the monument. Chemnitz voted to keep it — a decision that says something interesting about the city's relationship with its own past.
+score: 7.9
 ---
 
 The monument is harder to ignore than almost anything else in Germany. The head sits on a massive granite plinth just off the Brückenstraße, facing away from the old town with an expression that German newspapers have variously described as stern, melancholy, and quietly amused. The inscription on the rear — in German, French, English, and Russian — is from the Communist Manifesto: "Workers of all lands, unite."

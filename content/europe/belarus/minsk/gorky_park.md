@@ -7,6 +7,7 @@ tags:
 latitude: 53.9032
 longitude: 27.5378
 snippet: A large city park with amusement rides, a Ferris wheel, and the best people-watching in Minsk
+score: 5.9
 ---
 
 Gorky Park is the main public park of Minsk, named — like every Soviet city's main park — for the writer Maxim Gorky. It covers a long strip along the west bank of the Svislach River and is the go-to destination for Minsk families, particularly at weekends. The park has amusement rides, a large Ferris wheel that gives good views over the city, food vendors, and the general festive atmosphere of a Soviet-era park that has been maintained and gently updated.

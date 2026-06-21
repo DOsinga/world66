@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Stykkish%C3%B3lmur
+score: 7.4
 ---
 
 The Baldur ferry departs from Stykkishólmur harbour and crosses Breiðafjörður to Brjánslækur in the Westfjords, a journey of about two and a half hours via the island of Flatey. This is the main reason many travellers pass through Stykkishólmur: it's the gateway to the Westfjords by sea, and the crossing itself is one of the more spectacular ferry rides in Iceland.

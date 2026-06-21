@@ -8,6 +8,7 @@ tags:
 - market
 title: Feskekôrka (Fish Church)
 type: poi
+score: 7.7
 ---
 
 The Feskekôrka — which translates roughly as "Fish Church" in the Gothenburg dialect — is one of the city's most distinctive buildings: a Gothic Revival hall built in 1874 specifically for the fish market, with pointed arches and a silhouette that reads unmistakably as ecclesiastical. The joke has been running for 150 years.

@@ -12,6 +12,7 @@ story: Wooden stakes along the approach to the glacier mark where the ice reache
   The Columbia Icefield covers 325 square kilometres, but the Athabasca Glacier alone
   has lost more than 1.5 kilometres of length since measurements began — roughly half
   its 20th-century extent.
+score: 9.0
 ---
 
 The Athabasca Glacier is one of the most accessible glaciers in North America, pouring off the Columbia Icefield — one of the largest icefields in the Rocky Mountains — right down to a parking lot on the Icefields Parkway. You can walk to the toe of the glacier in about 20 minutes from the road, though the approach path is steep in places and the ice itself is off-limits without a guide due to hidden crevasses.

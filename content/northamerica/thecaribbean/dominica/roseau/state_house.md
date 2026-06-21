@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 15.2964
 longitude: -61.385
+score: 4.7
 ---
 
 The State House (formerly Government House) is the official residence of the President of Dominica, a colonial mansion of white-painted timber and stone with broad verandas and a pitched roof set in walled gardens above the cathedral. It was built in 1840 for the British governor and has been the head of state's residence ever since.

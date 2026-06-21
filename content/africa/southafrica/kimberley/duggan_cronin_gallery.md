@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -28.7479
 longitude: 24.7816
+score: 7.9
 ---
 
 The Duggan-Cronin Gallery holds a remarkable and contested photographic archive: roughly 8,000 photographs taken between 1919 and 1954 by Alfred Martin Duggan-Cronin, a De Beers security guard who spent his spare decades documenting the appearance, dress, customs, and ceremonies of southern African indigenous peoples across much of the subcontinent.

@@ -6,6 +6,7 @@ longitude: 8.2480
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 The limestone walls above Magliolo have been developed into a network of sport-climbing crags that draw a steady stream of climbers from across Europe, especially in winter and the shoulder seasons when the Ligurian sun stays kind. Routes range from short slabby beginner's lines to long overhanging tufa pitches; well over 200 routes are bolted across half a dozen sectors.

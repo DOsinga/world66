@@ -9,6 +9,7 @@ tags:
 neighbourhood: New Town
 latitude: 41.3157
 longitude: 69.2693
+score: 6.2
 ---
 
 Tashkent's biggest public space, formerly Lenin Square. The colossal Lenin statue that once dominated it was pulled down in 1992 and replaced with a globe topped by an outline of Uzbekistan. The square is fringed by government buildings, fountains, and a triumphal arch with metal storks.

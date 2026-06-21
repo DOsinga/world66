@@ -6,6 +6,7 @@ longitude: 91.6409
 tags:
   - things_to_do
   - museum
+score: 6.8
 ---
 
 The Khovd Aimag Museum is the regional museum for western Mongolia, a small two-storey building with a serious anthropological collection covering the seventeen ethnic groups of the province — Khalkha, Kazakh, Torguud, Zakhchin, Uriankhai, and others. Each gets a costumed display with traditional dress, jewellery, household objects, and musical instruments.

@@ -11,6 +11,7 @@ tags:
 neighbourhood: North Beach
 title: Coit Tower
 type: poi
+score: 8.7
 ---
 
 Perched atop Telegraph Hill, Coit Tower offers some of the best views in the city. Take the elevator to the observation deck for a sweeping panorama of the Bay, the bridges, and the city skyline. Inside, the ground floor features Depression-era murals painted by local artists as part of a WPA project -- they are worth a look before heading up.

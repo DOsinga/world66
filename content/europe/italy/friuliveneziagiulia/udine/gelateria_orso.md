@@ -6,6 +6,7 @@ longitude: 13.2452
 tags:
   - bars_and_cafes
   - cafe
+score: 5.6
 ---
 
 Address: Viale Leopardi 128. Locals' favourite gelateria, a short walk east of the centre. Small selection, all made in-house — pistachio, hazelnut, fresh fruit flavours in season. The pineapple and the lemon sorbet are notably good in summer.

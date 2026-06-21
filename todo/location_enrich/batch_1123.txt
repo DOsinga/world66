@@ -1,5 +1,0 @@
-northamerica/unitedstates/oklahoma/wilburton
-africa/madagascar/anakao
-europe/slovakia/trnava
-europe/armenia/alaverdi
-asia/philippines/negrosisland/bacolod

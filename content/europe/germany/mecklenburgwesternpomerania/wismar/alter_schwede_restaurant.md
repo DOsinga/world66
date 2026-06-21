@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 53.8929
 longitude: 11.4628
+score: 6.4
 ---
 
 The restaurant occupying the ground floor of the Alter Schwede — the oldest house on the Marktplatz, built around 1380 — is the most atmospheric place to eat in Wismar, and probably the most visited. The vaulted brick interior is genuinely medieval, and the combination of low ceilings, heavy timber, and candlelight makes it one of those rooms that earns its reputation on ambience alone. The food leans traditional northern German: roasted meats, fish dishes, game in season, and a beer list that keeps the locals happy.

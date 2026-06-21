@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: Steam-hauled service from Fort William over the Glenfinnan Viaduct
 story: "The 21-arch Glenfinnan Viaduct, halfway along the line, was Robert McAlpine's first major mass-concrete structure, completed in 1901. It is also the viaduct the Hogwarts Express crosses in the second Harry Potter film — which is why, between June and October, every train pulls a small crowd of waving teenagers along with the regulars."
+score: 8.9
 ---
 
 The Jacobite is the steam-hauled tourist train that runs from [Fort William](/europe/unitedkingdom/scotland/fort_william) to Mallaig and back along the West Highland Line. The route — past Loch Eil, over the Glenfinnan Viaduct, around the head of Loch Eilt and along the white beaches of Arisaig — is often called the most scenic railway journey in Britain, and it is hard to argue.

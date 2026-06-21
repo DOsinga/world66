@@ -8,6 +8,7 @@ tags:
 latitude: 58.4111
 longitude: 15.6211
 snippet: Linköping's central market square, flanked by 18th-century buildings and the cathedral
+score: 6.3
 ---
 
 Stortorget is the main square of central Linköping — a large open space flanked by the cathedral on one side and 18th and 19th-century commercial buildings on the others. The square has served as Linköping's market place since medieval times, and a regular outdoor market still runs here several days a week in warmer months.

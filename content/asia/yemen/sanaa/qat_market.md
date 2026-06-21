@@ -14,6 +14,7 @@ story: >
   poetry, and gossip with a leaf-cheek-pouch the size of a tennis ball. The water-thirsty
   crop accounts for a large share of Yemen's agriculture and a significant share of its
   water table problem.
+score: 8.2
 ---
 
 Qat (or *qaat*) is the leaf-stimulant chewed by most of adult Yemeni society in the afternoon, and the qat markets that fan out across the city in the late morning are one of the most vivid spectacles of daily Sana'ani life. The largest are near Bab al-Yemen and along the road south of the old city — open-air stalls of green bundles, each variety carefully ordered by region, freshness, and price.

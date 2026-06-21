@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 title: Art Nouveau District
 type: poi
+score: 9.5
 ---
 
 No other city in the world has as high a concentration of Art Nouveau buildings as Riga. Between 1899 and 1914, roughly a third of the city's entire building stock was put up in the Jugendstil style — some 800 buildings survive today, far more than in Paris or Vienna.

@@ -7,6 +7,7 @@ longitude: 3.8603
 snippet: Ruined medieval castle on a basalt mesa 3 kilometres north of Le Puy
 sources:
   - https://en.wikipedia.org/wiki/Polignac,_Haute-Loire
+score: 7.7
 ---
 
 The ruins of Château de Polignac stand on a basalt mesa some three kilometres north of Le Puy, visible from much of the town. The castle was the seat of the powerful Polignac family, who dominated the Velay in the Middle Ages and gave their name to a line that produced several notable figures under the French monarchy. The structure dates from the eleventh to fifteenth centuries; it was largely dismantled after the Revolution.

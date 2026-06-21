@@ -12,6 +12,7 @@ tags:
 snippet: "Bronze sculpture of four convict women and a child, on the waterfront where 13,000 women landed"
 story: >
   Between 1803 and 1853, around 13,000 women and 2,000 children were transported to Van Diemen's Land as convicts — most of them for petty theft, often committed to feed themselves. The arrival point was this very stretch of wharf. The figures in the sculpture (by Rowan Gillespie, who also made the Famine Memorial in Dublin) are deliberately small and gaunt, walking inland past the bollards as if just disembarked. The companion piece is at Cobh in Ireland, marking the port of departure.
+score: 6.7
 ---
 
 A small bronze sculpture by the Irish sculptor Rowan Gillespie, installed in 2017 on Macquarie Wharf where the convict ships once tied up. Four figures — three women and a 10-year-old boy — appear to step off the wharf and onto the cobblestones, their bodies thin, their clothing tattered, their direction inland and uncertain. The sculptures form a "twin memorial" with Gillespie's earlier *Famine* in Dublin and his *Emigrants* sculpture at Cobh on Ireland's south coast.

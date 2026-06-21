@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.0214
 longitude: 7.8714
+score: 7.5
 ---
 
 Rezzo is the highest and most remote village in the upper Impero Valley, an ancient mountain settlement that was a stronghold of the Clavesana family in the medieval period. The ruins of their palace-fortress stand at the village's highest point, and the streets below are still largely medieval in character — stone, steep, and largely unaltered by the 20th century.

@@ -8,6 +8,7 @@ tags:
   - downtown
 latitude: 25.0784
 longitude: -77.3437
+score: 6.7
 ---
 
 A two-storey covered market on Bay Street, the densest concentration of souvenir vendors in the Caribbean. Hundreds of stalls sell straw hats, baskets, T-shirts, conch-shell jewellery, wooden sculptures, knock-off handbags, and a thousand other things. Bargaining is expected; the first price is rarely the real one.

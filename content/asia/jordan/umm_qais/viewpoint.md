@@ -9,6 +9,7 @@ tags:
 - sight
 title: Viewpoint over the Sea of Galilee
 type: poi
+score: 8.9
 ---
 
 The viewpoint at the northern edge of the Umm Qais ridge is one of the finest in Jordan. Below you, the Yarmouk river gorge drops steeply toward the Jordan Valley; to the west, the Sea of Galilee (Lake Tiberias) glints in the distance; and to the north, the Golan Heights rise into Syria. On exceptionally clear days you can see across four countries — Jordan, Israel, the Palestinian Territories, and Syria — from a single vantage point.

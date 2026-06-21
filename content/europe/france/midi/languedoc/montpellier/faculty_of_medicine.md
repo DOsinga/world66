@@ -8,6 +8,7 @@ tags:
 - sight
 title: Faculty of Medicine
 type: poi
+score: 8.6
 ---
 
 The Faculté de Médecine, founded around 1220, is the oldest continuously operating medical school in the Western world. The school originally drew on the medical traditions of Salerno, Cordoba and Baghdad — Montpellier's relative proximity to Muslim Spain and the Jewish trading networks of the Mediterranean made it a centre of medical knowledge well before the great universities of Paris and Bologna.

@@ -13,6 +13,7 @@ story: "Hennessy sells around 50 million bottles of cognac per year — roughly 
   a master blender can draw on up to 800 separate eaux-de-vie to build a single blend."
 snippet: The world's largest cognac house, with cellars on both banks of the Charente
 type: poi
+score: 8.2
 ---
 
 Hennessy dominates the cognac trade the way few companies dominate any luxury sector. The visit is polished and well-organized: an introductory film, a walk through the cooperage where barrels are still made by hand, a boat crossing of the Charente to the ageing warehouses on the opposite bank, and a tasting at the end. The riverside setting — old stone chais stretching along the water — gives a sense of the industrial scale behind the luxury brand.

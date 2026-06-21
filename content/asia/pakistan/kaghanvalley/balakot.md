@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 34.5464
 longitude: 73.3505
+score: 4.9
 ---
 
 Balakot is the gateway town to Kaghan Valley, sitting at around 940 metres at the point where the Kunhar River emerges from the mountains onto the Hazara plains. Most visitors pass through quickly on their way up the valley, but the town itself has an unusual history. The original Balakot was almost entirely destroyed in the October 2005 Kashmir earthquake — one of the most devastating in South Asian history, killing over 73,000 people in the region — and much of what stands today is reconstruction built in the years after.

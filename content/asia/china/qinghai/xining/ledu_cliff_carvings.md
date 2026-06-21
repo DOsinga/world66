@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.4800
 longitude: 102.4000
+score: 6.8
 ---
 
 The Ledu area, about 75 kilometres east of Xining, contains a series of cliff-face rock carvings and Buddhist cave temples that are seldom visited by foreign travellers but are significant in the history of Buddhist art in northwest China. The most important site is the Qunke Grottoes, a cluster of cave temples carved into sandstone cliffs above the Yellow River valley, some dating to the Northern Wei dynasty (386–534 CE) — contemporaneous with the more famous Mogao Caves at Dunhuang.

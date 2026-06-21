@@ -14,6 +14,7 @@ story: >
   boundary with Pennsylvania. No other U.S. state boundary is drawn as an arc from a single point.
 sources:
   - https://en.wikipedia.org/wiki/New_Castle_Court_House_Museum
+score: 8.8
 ---
 
 The New Castle Court House is Delaware's oldest surviving courthouse and one of the most historically significant colonial buildings on the East Coast. Built in 1732 on the foundations of an earlier structure, it served as the colonial capital's principal government building — here, the colonial assembly met, land grants were recorded, and justice was administered under three different flags before American independence.

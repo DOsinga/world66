@@ -12,6 +12,7 @@ story: >
   fundamentally reshaped the region. It is one of the very few surviving 
   Hellenistic-period buildings in the Levant, and scholars still debate 
   whether it was a palace, a temple, or a pleasure garden.
+score: 8.1
 ---
 
 Iraq al-Amir, about 17 kilometres west of Amman in the hills toward the Jordan Valley, is one of the most remarkable and little-visited archaeological sites near the capital. The site centres on the Qasr al-Abd — a partially reconstructed Hellenistic-period palace or temple built around 175 BC by the Tobiad family, Jewish aristocrats who administered the region under Ptolemaic and Seleucid rule. The building features some of the largest carved stone blocks in the ancient world (some weighing over 25 tonnes), decorated with eagles, lions, and mythological reliefs.

@@ -8,6 +8,7 @@ latitude: 31.0833
 longitude: -7.8333
 sources:
   - https://en.wikipedia.org/wiki/Toubkal_National_Park
+score: 8.5
 ---
 
 Toubkal National Park covers 380 square kilometres of the western High Atlas, centred on the Toubkal massif. It was Morocco's first national park, established in 1942, and remains the most-visited protected area in the country. The park encompasses a dramatic landscape of glaciated valleys, rocky ridgelines, and traditional Berber villages that have changed little in their basic structure over centuries.

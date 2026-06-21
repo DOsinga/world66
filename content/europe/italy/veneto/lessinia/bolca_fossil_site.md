@@ -9,6 +9,7 @@ tags:
 - museum
 title: Bolca and the Pesciara
 type: poi
+score: 8.8
 ---
 
 The hamlet of Bolca, on the eastern edge of the Lessinia plateau, sits on top of one of the most important palaeontological sites in the world. Around fifty million years ago, an Eocene lagoon was repeatedly poisoned by volcanic gas; the dead fish sank into anoxic mud and were preserved in extraordinary detail. The Pesciara di Bolca quarry has yielded more than 250 fish species, plus crocodiles, turtles, insects, and plants — many with skin, scales, and stomach contents still visible.

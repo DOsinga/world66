@@ -12,6 +12,7 @@ story: >
   filmed his family walking in the park's gardens in a two-second clip that predates the Lumière
   brothers' work by seven years. The film, shot with a single-lens camera Le Prince had patented,
   is considered the earliest known motion picture recording.
+score: 7.7
 ---
 
 One of the largest urban parks in Europe, Roundhay covers 750 acres of lakes, woodland, formal gardens, and open parkland in north Leeds. It was purchased by Leeds Corporation in 1871 and has been a public park ever since. The two lakes — Upper Lake and Waterloo Lake — are good for rowing and birdwatching, and the Tropical World greenhouse complex in the park houses a tropical rainforest environment with butterflies, free-flying birds, and reptiles.

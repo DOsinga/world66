@@ -8,6 +8,7 @@ tags:
 latitude: 51.7625
 longitude: -0.5620
 snippet: Towpath running through town, ideal for walking and cycling
+score: 7.5
 ---
 
 The Grand Union Canal threads through the centre of Berkhamsted, running parallel to the High Street and the railway line. Begun in 1793 as part of a network linking London to Birmingham, it was once a working artery for the coal and grain trade; today its narrowboats are floating houses and weekend hire-craft, and the towpath is one of the best walking and cycling routes in the Chilterns.

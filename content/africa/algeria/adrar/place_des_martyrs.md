@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 27.8740
 longitude: -0.2942
+score: 6.1
 ---
 
 The vast main square of Adrar is the unmistakable centre of town — a flat red-earth expanse ringed by the pinkish ksar-style walls of the colonial-era administrative buildings. At midday it is empty and burning hot, useful only as an open-air parade ground; in the cooler hours of late afternoon, families gather, vendors set up small carts, and the square comes briefly to life.

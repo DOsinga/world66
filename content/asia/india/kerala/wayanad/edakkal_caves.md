@@ -11,6 +11,7 @@ story: >
   from the Neolithic period — potentially making it one of the oldest human figures depicted in rock
   art in India. The site was "discovered" by a British police superintendent in 1894, though the local
   Paniya tribal community had long known of its existence.
+score: 8.8
 ---
 
 The Edakkal Caves are a natural rock formation on the Ambukuthi hills in southern Wayanad, containing petroglyphs (rock engravings) that date back to the Neolithic and later periods. The "cave" is really a large rock shelter formed by a massive boulder wedged between two vertical walls of rock, creating a chamber about 30m long. The carvings on the walls cover a range of styles and periods, from simple geometric forms to complex figurative images.

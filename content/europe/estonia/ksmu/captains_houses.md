@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
   - sight
+score: 7.5
 ---
 
 The village of Käsmu is laid out along a single street between the chapel and the museum, lined with the wooden houses of the nineteenth-century sea captains who gave the village its nickname — *Kaptenite küla*, the captains' village. The largest and most elaborate, identifiable by elaborate gables and weather vanes, belonged to the most successful captains; smaller cottages belonged to first mates and ship's carpenters.

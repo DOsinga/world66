@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 A small Victorian iron swing bridge crosses the mouth of the Seiont just below the castle, linking Caernarfon's harbour to the Coed Helen peninsula and the road south. Built in 1900 and still operated mechanically by hand, it swings open to let yachts through when the tide is right.

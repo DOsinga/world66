@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 35.6875
 longitude: -105.9369
+score: 7.7
 ---
 
 A Santa Fe institution since 1953, set in a rambling 1692 hacienda half a block from the Plaza. The menu is short and unchanged: enchiladas, tacos, burritos, posole, and the legendary mocha cake. The red chile is the thing to order, but Christmas (red and green together) is the New Mexican answer to "either / or."

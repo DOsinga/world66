@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -24.789
 longitude: -65.4118
+score: 6.3
 ---
 
 A popular bar and restaurant set in a converted railway station building in the centre of Salta, with a cavernous interior and an outdoor terrace that fills up on warm evenings. The atmosphere is lively without being oppressive, and the wine list covers the main Calchaquí and Cafayate producers well.

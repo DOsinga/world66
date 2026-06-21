@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-12'
+  location_enrich: '2026-06-04'
 latitude: 10.4378
 longitude: -85.8097
 title: Potrero

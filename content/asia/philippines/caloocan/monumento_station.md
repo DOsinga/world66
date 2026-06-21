@@ -6,6 +6,7 @@ longitude: 120.9839
 tags:
   - things_to_do
   - sight
+score: 3.8
 ---
 
 The northern terminus of LRT Line 1 — one of Metro Manila's main elevated railway lines — sits beside the Bonifacio Monument and is the easiest way to reach Caloocan from central Manila. Built in 1984 as part of the original LRT system, the station is a brutalist concrete structure on stilts that has become a small architectural landmark in its own right.

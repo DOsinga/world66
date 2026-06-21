@@ -6,6 +6,7 @@ longitude: -121.4441
 snippet: "Consecrated in 1861, this small Anglican church is the oldest on the BC mainland still standing on its original foundation"
 tags: [things_to_do, sight, historic]
 story: "The church was built in 1861 by Royal Engineers stationed at Fort Hope during the Fraser River Gold Rush — the same engineers who surveyed the Cariboo Wagon Road. The surrounding area was, at that moment, one of the most chaotic places in the world: tens of thousands of prospectors were pushing through Hope on their way north to the goldfields, and the Engineers were trying to impose some semblance of British order on the chaos. The church they built has outlasted the gold rush, the fort, and most of what was built around it."
+score: 7.2
 ---
 
 Christ Church sits on a small rise near the town centre, a plain board-and-batten Anglican church that looks like it was built to last — because it was. Consecrated in 1861 by the Church of England and constructed with the help of Royal Engineers from the Columbia Detachment, it has been in continuous use ever since. No other church on the BC mainland can claim to be both this old and still standing on its original site.

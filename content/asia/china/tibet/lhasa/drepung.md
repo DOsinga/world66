@@ -10,6 +10,7 @@ title: Drepung Monastery
 type: poi
 story: >
   At its 17th-century peak Drepung housed over 10,000 monks and was effectively the seat of Tibetan government — the Ganden Phodrang, the institution that produced the Dalai Lamas, took its name from a residence here. The 1959 Lhasa uprising emptied much of it; the rebuilt monastery now houses a few hundred monks under tight quota.
+score: 9.0
 ---
 
 Drepung, eight kilometres west of central Lhasa, was once the largest monastery in the world. Its name means "rice heap", and from a distance the cluster of whitewashed halls spilling down the lower flank of Mount Gephel does look like a pile of grain. Founded in 1416, it became one of the three great Gelugpa monasteries of central Tibet, alongside Sera and Ganden.

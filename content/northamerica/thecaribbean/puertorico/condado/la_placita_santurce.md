@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, bar]
 latitude: 18.45058
 longitude: -66.07062
+score: 8.1
 ---
 
 La Placita de Santurce is a covered food market square that spends its days selling produce and its Thursday and Friday evenings becoming one of the most atmospheric nightlife spots in San Juan. The transformation happens gradually from about six in the evening — stalls and small bars surrounding the square fill with locals and visitors, rum-based drinks circulate in plastic cups, and salsa music drifts through the air from competing speakers. By ten o'clock it's packed.

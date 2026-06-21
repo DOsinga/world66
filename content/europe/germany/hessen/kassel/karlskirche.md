@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.3117
 longitude: 9.4947
+score: 6.7
 ---
 
 The **Karlskirche** is the city's small Reformed (Calvinist) church, built between 1698 and 1710 for the **Huguenot refugees** who came to Kassel after Louis XIV revoked the Edict of Nantes. The octagonal plan and centralised interior are characteristic of the Reformed tradition: the focus is the pulpit, not an altar.

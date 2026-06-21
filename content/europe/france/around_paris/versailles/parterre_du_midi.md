@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.8028
 longitude: 2.1205
+score: 6.9
 ---
 
 The Parterre du Midi lies on the south side of the palace, directly below the Queen's Apartment, and is the most colourful of the formal gardens. It is planted with elaborate embroidery patterns in coloured gravel and low box hedges, with seasonal flowers filling in the designs — a style called *broderie*, as if the ground were embroidered fabric.

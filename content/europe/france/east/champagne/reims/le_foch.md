@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 49.2570
 longitude: 4.0340
+score: 6.9
 ---
 
 Le Foch is one of the most respected restaurants in the Champagne region, holding a Michelin star under chef Xavier Bohy. The cooking is classically French with modern sensibility — dishes showcase regional produce including pike-perch from the Marne, local vegetables, and of course champagne-based sauces. The dining room is refined without being stiff, and the wine list leans heavily on small champagne growers.

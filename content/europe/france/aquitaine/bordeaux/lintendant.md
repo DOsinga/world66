@@ -7,6 +7,7 @@ tags:
 latitude: 44.8434
 longitude: -0.5737
 snippet: Five storeys of Bordeaux wine in a spiral staircase — the most theatrical wine shop in France
+score: 7.6
 ---
 
 L'Intendant on the Allées de Tourny is the most visually striking wine shop in Bordeaux — possibly in France. The entire interior is organised around a circular staircase with wine bottles stacked in curved shelves climbing all five floors. The effect, from the bottom looking up, is genuinely theatrical.

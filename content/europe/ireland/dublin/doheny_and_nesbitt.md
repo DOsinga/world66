@@ -11,6 +11,7 @@ tags:
 - pub
 title: Doheny & Nesbitt
 type: poi
+score: 6.5
 ---
 
 Doheny & Nesbitt on Lower Baggot Street has been the unofficial canteen of the Department of Finance and Leinster House since the government quarter moved to Merrion Street in the mid-20th century. Politicians, civil servants, and journalists have been talking off the record here for decades, which gave rise to the phrase "Nesbitt's economists" for the Dublin consensus of any given era.

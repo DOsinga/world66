@@ -6,6 +6,7 @@ tags:
 title: Volendam
 type: poi
 snippet: "Traditional Dutch fishing village on the Markermeer, 30 min from Amsterdam"
+score: 5.5
 ---
 
 Volendam is a former fishing village on the Markermeer, about 20 km northeast of Amsterdam. It has preserved much of its traditional character — wooden houses along narrow canals, a busy harbour, and locals who still occasionally wear the regional costume of black-and-white aprons and wooden clogs. The harbour front is the main draw, lined with fish stalls selling smoked eel and herring.

@@ -7,6 +7,7 @@ tags:
 - religion
 title: Budhanath Temple
 type: poi
+score: 6.8
 ---
 
 The Budhanath Temple, also known as Vriddheshwarnath or Baba Bal Vridheshwarnath Temple, is one of Bhagalpur's principal Hindu shrines, dedicated to Shiva. It sits on the banks of the Uttarvahini Ganga — a rare northward-flowing stretch of the Ganges — in Adampur, and is particularly revered for this sacred river orientation.

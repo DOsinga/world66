@@ -8,6 +8,7 @@ tags:
   - sight
   - puerta_de_tierra
 neighbourhood: Puerta de Tierra
+score: 7.7
 ---
 
 Escambrón is the small crescent beach in Puerta de Tierra, between Old San Juan and Condado — the closest beach to the historic city and one of the safest for swimming. A natural rock breakwater shelters the bay, the offshore reef draws snorkellers, and the water is consistently clearer than at Condado.

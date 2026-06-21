@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 13.9108
 longitude: 100.4953
+score: 8.1
 ---
 
 Pak Kret district, in the northern part of Nonthaburi province, is home to one of Thailand's most intact Mon communities — descendants of Mon immigrants who came to Siam during the Ayutthaya and early Rattanakosin periods, fleeing Burmese expansion. The Mon of Pak Kret have preserved aspects of their distinct culture over several centuries, including traditional music, unglazed earthenware pottery, and architectural styles distinct from mainstream Thai.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 38.2519
 longitude: -85.7501
+score: 6.9
 ---
 
 NuLu — New Louisville — is what happened when artists moved into the old East Market District warehouses and the restaurants and boutiques followed. The neighbourhood roughly covers East Market Street between Story Avenue and Shelby Street, and it is the most rapidly evolving part of Louisville: the kind of place where a building that was a printing plant ten years ago is now a bourbon bar with a food hall upstairs.

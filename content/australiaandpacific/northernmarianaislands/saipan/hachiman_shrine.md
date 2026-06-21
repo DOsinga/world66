@@ -5,6 +5,7 @@ latitude: 15.18
 longitude: 145.761
 snippet: "A derelict Japanese Shinto shrine that survived the war relatively intact, now overgrown and rarely visited."
 tags: [things_to_do, sight, historic]
+score: 7.3
 ---
 
 Hachiman Shrine is one of the few physical remnants of Japanese religious life on Saipan from the colonial period. Built to serve the island's Japanese settler community, it was dedicated to Hachiman, the Shinto deity of war and archery — a fitting dedication given what followed. The shrine survived the 1944 battle better than most structures on the island, though decades of tropical vegetation have reclaimed much of the site. Stone torii gates, lanterns, and the main hall structure remain, heavily weathered and draped in vegetation.

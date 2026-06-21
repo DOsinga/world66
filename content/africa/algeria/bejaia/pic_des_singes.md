@@ -7,6 +7,7 @@ tags:
 latitude: 36.769383
 longitude: 5.095639
 snippet: "Summit viewpoint above Béjaïa with Barbary macaques and panoramic Gulf views"
+score: 7.3
 ---
 
 The Pic des Singes — Monkeys' Peak — is the main viewpoint in Gouraya National Park and the most visited spot in the hills above Béjaïa. It takes its name from the Barbary macaques that are reliably encountered near the summit, accustomed enough to human presence to approach visitors, especially those carrying food.

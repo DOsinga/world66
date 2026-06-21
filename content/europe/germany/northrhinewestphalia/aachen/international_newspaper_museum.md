@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Unique museum of newspaper history with front pages from across the globe
+score: 7.7
 ---
 
 A genuinely unusual museum in Aachen's old town, the only one of its kind in the world. The collection holds over 200,000 newspapers from more than 80 countries, with front pages going back to the earliest printed news sheets of the 17th century. Historic front pages cover major world events — the moon landing, the armistice of 1918, the assassination of Lincoln — alongside everyday papers from countries rarely covered in European collections.

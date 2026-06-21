@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 52.1619
 longitude: 10.5303
+score: 6.8
 ---
 
 Across the moat from the main palace stands the Kleines Schloss, the "little castle" — a smaller Baroque townhouse built in the 1690s for the dowager duchess. It is more domestic in scale than the Schloss proper and gives a better sense of how a noble family actually lived than the formal state apartments.

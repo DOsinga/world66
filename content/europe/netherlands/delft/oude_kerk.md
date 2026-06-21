@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The Oude Kerk contains the grave of Antonie van Leeuwenhoek, who lived his entire life in Delft and ground his own lenses to create the world's first working microscopes. In 1674 he pointed one at canal water and became the first person to see microorganisms — bacteria and protozoa — a discovery so radical that the Royal Society in London initially refused to believe him and sent its own investigators. They confirmed everything.
+score: 8.7
 ---
 
 The oldest church in Delft, begun in 1246, stands at a noticeably crooked angle thanks to the subsidence that afflicts all of Delft's old buildings — the leaning tower earned the church the nickname Scheve Jan (Skewed John). Inside, the scale is impressive: a long Gothic nave with 27 stained-glass windows and a choir screen of elaborately carved stone.

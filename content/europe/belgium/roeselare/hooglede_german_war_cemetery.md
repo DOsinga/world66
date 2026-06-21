@@ -8,6 +8,7 @@ snippet: Sombre German military cemetery from WWI, six kilometres from Roeselare
 latitude: 50.9781
 longitude: 3.0936
 story: "Hooglede is one of four German war cemeteries in Belgium — a stark contrast to the white-stoned Allied cemeteries nearby. German soldiers are buried under flat basalt lava stones and dark metal crosses, a design choice made after German authorities were prohibited from erecting vertical monuments in Belgian territory after the war."
+score: 6.7
 ---
 
 The Hooglede German war cemetery lies six kilometres northwest of Roeselare, in the village of Hooglede. It contains the graves of 8,247 German soldiers who died on this part of the Western Front during the First World War. The aesthetic is deliberately sombre: flat dark basalt stones and black iron crosses mark the graves, in marked contrast to the white marble headstones of the Allied cemeteries nearby.

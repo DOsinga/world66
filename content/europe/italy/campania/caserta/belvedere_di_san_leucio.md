@@ -10,6 +10,7 @@ longitude: 14.2940
 snippet: A UNESCO-listed Bourbon silk manufactory where King Ferdinand IV built a workers' utopia with equal pay, free schooling, and shared inheritance.
 story: >
   In 1789 — the same year the French Revolution began — Ferdinand IV of Naples issued the Leggi per la popolazione di San Leucio, a constitution for the workers of his silk colony. It granted men and women equal wages, free education for all children, social security for the sick and elderly, and banned private inheritance in favour of communal ownership. The king called it a model for a new kind of society; historians have argued ever since about whether it was enlightened idealism or benevolent paternalism.
+score: 8.0
 ---
 
 The Belvedere di San Leucio complex sits on a hill a few kilometres from the Reggia, connected to it by a straight Bourbon road. Ferdinand IV converted an existing hunting lodge into a silk production centre in 1789, building a self-contained village for the workers who spun and wove the silk on site. The fabrics produced here — still made today by a small cooperative — were used to furnish royal palaces across Europe.

@@ -8,6 +8,7 @@ latitude: 61.0053
 longitude: 24.4558
 story: >
   The museum holds one of Finland's most prized military artefacts: a Russian field gun captured during the Finnish-Russian War of 1808–1809 — the conflict that ended Swedish rule over Finland and transferred the country to Russian sovereignty. The cannon sits in the museum as a symbol of both defeat and survival: Finland lost that war but retained enough autonomy to eventually become independent in 1917.
+score: 7.0
 ---
 
 The Artillery Museum of Finland sits beside Häme Castle, occupying former military warehouses that date from the castle's days as an active garrison. It covers the history of Finnish artillery from the 15th century to the present day, with a collection of cannon, field guns, rocket systems, and anti-tank weapons displayed in chronological order.

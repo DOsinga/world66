@@ -7,6 +7,7 @@ tags:
 latitude: 17.4128
 longitude: 121.4444
 snippet: The provincial capital, base for Chico River trips and onward travel
+score: 4.8
 ---
 
 Tabuk is the lowland gateway to Kalinga — a working agricultural city of around 100,000 in a hot valley known as the "rice granary of the Cordillera." There is very little to see in Tabuk itself, but it is unavoidable: this is where rafting trips on the Chico start, where buses arrive from Manila and Tuguegarao, and where vans leave for the mountain villages.

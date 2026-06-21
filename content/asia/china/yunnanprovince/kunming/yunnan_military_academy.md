@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - historic
+score: 7.6
 ---
 
 The Yunnan Military Academy, founded in 1909 in the last years of the Qing, occupies a long French-influenced parade ground and barrack block on the west side of Cuihu Park. It was modelled on the Japanese Imperial Army Academy and trained an entire generation of southwestern Chinese officers, including the warlord Long Yun, the Communist marshal Zhu De, and the Vietnamese general Vo Nguyen Giap.

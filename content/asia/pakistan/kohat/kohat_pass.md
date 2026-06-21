@@ -7,6 +7,7 @@ snippet: The historic mountain pass connecting the Peshawar valley to the tribal
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The Kohat Pass cuts through the Kohat Range southwest of the city, a narrow gorge of dry limestone ridges that was for centuries the main route between the Peshawar valley and the tribal districts of Waziristan and the lands beyond. The British fought repeatedly to control it in the 19th century, and the pass changed hands more than once during the various campaigns along the Northwest Frontier. The landscape of pale rock, scrub, and narrow defile gives a vivid sense of why — this is exactly the kind of terrain where a small defending force can hold up an army.

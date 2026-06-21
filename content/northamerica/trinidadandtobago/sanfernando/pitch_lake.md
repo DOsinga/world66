@@ -8,6 +8,7 @@ latitude: 10.2368
 longitude: -61.6289
 story: >
   Sir Walter Raleigh visited Pitch Lake in 1595 and used the asphalt to caulk his ships. Centuries later, the same material was used to pave streets in New York City and Washington D.C. The lake is actively mined today, and asphalt from La Brea is still used in road construction around the world — which means you may have driven over Trinidadian geology without knowing it.
+score: 9.1
 ---
 
 Pitch Lake at La Brea, about 30 kilometres west of San Fernando, is the largest natural deposit of asphalt in the world — roughly 100 acres of black, semi-solid bitumen that has been oozing up from underground for thousands of years. It looks like a vast, improbable parking lot, and walking across its surface (guided tours are obligatory) is an experience that is hard to describe to anyone who hasn't done it.

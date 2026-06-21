@@ -8,6 +8,7 @@ tags:
 address: "Corso Ercole I d'Este"
 latitude: 44.8408
 longitude: 11.6196
+score: 6.8
 ---
 
 Facing the Palazzo dei Diamanti across the top of the Addizione Erculea, the Palazzo Prosperi-Sacrati has the finest doorway in Ferrara — a magnificent marble portal whose carved decoration includes sea monsters, foliage, and portrait busts, attributed to the workshop of Biagio Rossetti. The door, completed around 1493, is so elaborately carved that it takes several minutes of slow looking to work out all its elements.

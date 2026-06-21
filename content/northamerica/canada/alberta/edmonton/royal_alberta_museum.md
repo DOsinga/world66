@@ -14,6 +14,7 @@ story: >
   needed.
 sources:
   - https://en.wikipedia.org/wiki/Royal_Alberta_Museum
+score: 8.2
 ---
 
 The Royal Alberta Museum in downtown Edmonton is the largest museum in western Canada and the natural place to start making sense of the province's deep history. The collection spans human history — from the Indigenous peoples who have lived in the region for thousands of years, through European contact and the fur trade, to the ranching and oil eras that shaped modern Alberta.

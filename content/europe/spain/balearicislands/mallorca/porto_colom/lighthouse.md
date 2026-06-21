@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The lighthouse has been operating continuously since 1863 — first oil-fired, then gas, then electricity. Its octagonal tower and attached keeper's house are among the oldest surviving lighthouse buildings in the Balearic Islands and were restored in the 2000s by a local foundation. The light is still in active service."
+score: 7.1
 ---
 
 A handsome white-stone lighthouse on the southern headland of the harbour, marking the entrance for boats coming in from the open sea. The squat octagonal tower sits beside a single-storey keeper's house with a low red-tile roof — a quintessential 19th-century Mediterranean lighthouse compound.

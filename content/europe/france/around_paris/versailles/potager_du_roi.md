@@ -10,6 +10,7 @@ story: >
   La Quintinie persuaded the notoriously difficult clay and rock of Versailles
   to produce strawberries in April and asparagus in December — feats of
   horticulture that astonished a Europe accustomed to seasonal eating.
+score: 8.1
 ---
 
 The Potager du Roi lies about 10 minutes' walk south of the palace, behind the Orangerie, and is easily missed by visitors who stick to the main circuit. Created between 1678 and 1683 by Jean-Baptiste de La Quintinie at Louis XIV's direct request, it covers about 9 hectares and was designed to supply the royal kitchens with vegetables, fruit, and herbs year-round.

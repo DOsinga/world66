@@ -8,6 +8,7 @@ tags:
 latitude: 40.9244
 longitude: 17.3372
 snippet: Eleventh-century fortified abbey on a coastal promontory
+score: 7.5
 ---
 
 About 8 kilometres south of the centre, on a rocky cape jutting into the sea, stands the small fortified abbey of Santo Stefano. The Benedictines built it in the eleventh century, and it later became a Knights of Malta commandery — the cross of Malta is still visible carved into the walls. The setting is the main draw: a low cluster of buildings on a flat headland, fields of olives on one side, the open Adriatic on the other.

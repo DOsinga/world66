@@ -9,6 +9,7 @@ latitude: 30.0094
 longitude: 120.5794
 story: >
   Cai Yuanpei was the president of Peking University during the May Fourth Movement of 1919 — the intellectual revolution that challenged Confucian tradition and advocated for science and democracy. His policy of "freedom of thought, tolerance of many schools" at the university created the conditions for the intellectual ferment that shaped twentieth-century China. He was also responsible for introducing Western fine arts education to China, founding the first academy of fine arts in Beijing in 1918.
+score: 6.9
 ---
 
 The former residence of Cai Yuanpei (1868–1940), one of the most important educational reformers in modern Chinese history, is preserved in the old city's northern quarter as a small museum. Cai's significance is hard to overstate: as president of Peking University from 1916 to 1926, he transformed it from a Qing bureaucratic training school into the centre of modern Chinese intellectual life, and his insistence on academic freedom created the conditions for the intellectual revolution that followed.

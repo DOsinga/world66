@@ -7,6 +7,7 @@ tags:
 - beaches
 title: Ganapatipule
 type: poi
+score: 7.8
 ---
 
 A beach town on the Ratnagiri coast, known for its clean sands and a famous 400-year-old Ganesh temple (Swayambhu Ganapati) built into a rock at the shoreline. A popular pilgrimage destination as well as a beach resort. Ratnagiri on the Konkan Railway is the nearest railhead; Mumbai is about 375km by road.

@@ -15,6 +15,7 @@ story: >
   against the landscape rather than disappear into it. In winter, when the building is
   lit from inside against the dark, it does look startlingly like the northern lights
   frozen in timber and glass.
+score: 7.9
 ---
 
 The Katuaq Cultural Centre is the most striking piece of architecture in Nuuk — a wave-shaped wooden building designed to evoke the aurora borealis. It serves as Greenland's main concert hall, cinema, exhibition space, and the venue for most significant public events in the capital. The building also houses a café that is one of the better places in the city for a warm drink and a view.

@@ -1,6 +1,6 @@
 ---
 done:
-  location_enrich: '2026-05-29'
+  location_enrich: '2026-06-02'
 image: espoo.jpg
 image_attribution: Drefer
 image_license: CC BY-SA 4.0

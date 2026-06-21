@@ -3,6 +3,7 @@ address: Varvarka Street, Metro station 'Kitai Gorod'
 category: Sight
 title: arbat
 type: poi
+score: 7.5
 ---
 
 In soviet times it was named *ulitsa Razina* (Razin Street)

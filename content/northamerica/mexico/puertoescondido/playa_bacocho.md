@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 15.8760
 longitude: -97.0900
+score: 6.8
 ---
 
 Playa Bacocho is a long, largely undeveloped beach on the western side of Puerto Escondido, facing directly into the sunset. It runs north from the rocky headland below the airport and has a more rugged character than the beaches closer to town. The waves are strong and the undertow can be dangerous, making it better for walking at low tide than for swimming, but the wide open stretch of sand and the views out to sea make it worth the trip.

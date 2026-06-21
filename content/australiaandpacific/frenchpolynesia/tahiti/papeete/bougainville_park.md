@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.7
 ---
 
 A small triangular park on the waterfront, named for the French navigator Louis-Antoine de Bougainville, who circumnavigated the globe in 1766–69 and dropped in on Tahiti in 1768, immediately after Wallis and a year before Cook. The park has a bust of Bougainville, two large anchors recovered from sunken ships, and a war memorial.

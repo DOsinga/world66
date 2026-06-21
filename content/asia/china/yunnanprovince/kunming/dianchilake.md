@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - lake
+score: 6.6
 ---
 
 Dianchi is the eighth largest freshwater lake in China and the dominant geographical feature of the Kunming basin — a 300-square-kilometre body of water immediately south of the city, ringed by mountains and once the centre of the Bronze Age Dian civilisation. From the top of the Western Hills the lake stretches almost out of sight.

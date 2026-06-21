@@ -12,6 +12,7 @@ story: >
   2,000 years. These are among the best-preserved pre-Columbian rock art sites
   in the Caribbean — the constant cave temperature and humidity have kept them
   in remarkable condition.
+score: 8.6
 ---
 
 The Cave of Wonders (Cueva de las Maravillas) lies about 15 kilometres east of San Pedro on the road to La Romana, and is one of the most accessible and spectacular natural sites in the Dominican Republic. The cave extends 800 metres underground, reaching 25 metres below the surface, and is fully lit and equipped with ramps and walkways, making it suitable for most visitors.

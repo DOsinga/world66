@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 40.4067
 longitude: -111.5269
+score: 6.8
 ---
 
 Deer Creek Reservoir, about 6 miles southwest of Heber City, is a large mountain lake formed by a dam on the Provo River. At 3,000 acres and surrounded by the Wasatch Range, it is one of the most attractive reservoirs in the region — genuinely scenic rather than just functional. In summer it is busy with motorboats, sailboats, and paddleboards; the consistent afternoon winds make it reliable for sailing.

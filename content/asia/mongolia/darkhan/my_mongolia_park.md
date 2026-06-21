@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.4659
 longitude: 105.9504
+score: 5.7
 ---
 
 My Mongolia Park is a landscaped public park on the edge of Darkhan's urban centre, with walking paths, a small stadium used for sporting events, and green space that is a rarity in this industrial city. The park commemorates Mongolian national identity and has become a gathering place for local families, particularly in the summer months when the temperature is pleasant and the surrounding steppe is green.

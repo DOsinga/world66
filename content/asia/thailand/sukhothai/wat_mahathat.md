@@ -10,6 +10,7 @@ tags:
 snippet: The royal temple at the heart of Sukhothai — a lotus-bud chedi surrounded by a forest of subsidiary stupas.
 story: >
   At the four corners of the main chedi stand four colossal seated Buddhas, and on each side a smaller standing Buddha was once enclosed in a mondop. King Ramkhamhaeng is said to have installed the relics of the historical Buddha here — the temple's name simply means "Temple of the Great Relic".
+score: 9.1
 ---
 
 Wat Mahathat is the spiritual and political heart of Sukhothai — the temple of the kings, where coronations and great state ceremonies took place. It sits in the geographical centre of the walled city and once contained nearly 200 individual stupas, chedis, viharas and Buddha images within a single moated enclosure 200 metres long.

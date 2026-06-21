@@ -9,6 +9,7 @@ tags:
 - sights
 title: Sepik River
 type: poi
+score: 9.5
 ---
 
 The Sepik is Papua New Guinea's longest river at 1,126 km, a serpentine brown waterway that carves through some of the most culturally rich territory in the Pacific. Villages along the river are famous for their spirit houses and elaborate wood carvings — the art tradition here rivals anything in Oceania.

@@ -13,6 +13,7 @@ tags:
 - sight
 title: Vimy Ridge Memorial
 type: poi
+score: 8.8
 ---
 
 The most significant First World War memorial in the area, about 10 km north of Arras. The Canadian National Vimy Memorial stands on the highest point of the ridge, surrounded by preserved trenches and shell craters that have been left largely undisturbed since 1918. The landscape itself tells the story: pockmarked earth, chalky soil, a strange silence. Entry and parking are free. The visitor centre has a well-done exhibition on the battle and its significance.

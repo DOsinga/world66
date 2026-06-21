@@ -7,6 +7,7 @@ tags:
 - museum
 title: Hill Tribe Museum
 type: poi
+score: 7.0
 ---
 
 The Hill Tribe museum is really worth a visit. It was originally a part of the Tribal Research Institute, but in 1997 it was moved to Ratchamangkla Park. It is a very good place to get information about the different hill tribe people. It is open from Monday to Friday from 8.30 am to 4.30pm and entrance is free. It's about a ten-minute walk from the park gate on Chotana Road or take a songthaew.

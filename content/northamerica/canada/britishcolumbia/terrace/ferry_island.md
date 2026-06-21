@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - hiking
+score: 6.4
 ---
 
 A wooded island in the middle of the Skeena, reached by a short bridge on the east edge of town. The city campground occupies one end; the rest is a public park with a network of easy walking and biking trails through cottonwood forest.

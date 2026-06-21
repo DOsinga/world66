@@ -13,6 +13,7 @@ story: >
   self. Reconstruction began in 2003 and was completed in 2012, a decision that proved so
   controversial it led UNESCO to remove the site from its World Heritage List for a period,
   citing damage to its authenticity. The debate still divides Georgian architectural historians.
+score: 8.4
 ---
 
 The Cathedral of the Dormition — universally called Bagrati Cathedral after the Georgian royal dynasty that built it — sits on a hilltop above the Rioni River and is the dominant landmark of Kutaisi. Completed in 1003 under Bagrat III during the golden age of Georgian unification, it represents the peak of medieval Georgian ecclesiastical architecture: a cruciform plan beneath a high drum and dome, with carved stone ornament of extraordinary quality on the portals and blind arcading.

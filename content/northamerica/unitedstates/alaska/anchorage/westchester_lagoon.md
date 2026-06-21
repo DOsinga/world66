@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: Downtown lagoon for skating in winter, swans and ducks in summer
+score: 7.0
 ---
 
 A small lagoon a fifteen-minute walk south-west of downtown, on the line of the Coastal Trail. In summer it is a stopover for trumpeter swans, mallards, geese, and the occasional moose, with a path looping the shore and a few benches for sitting. In winter it freezes, and the city clears and lights several rinks for free skating into the evening — bring your own skates.

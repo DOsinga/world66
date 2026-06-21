@@ -13,6 +13,7 @@ story: >
   army had placed the terms of surrender. The defenders read the terms, rejected
   them, and held out for another six weeks. The cannonball is in the chapter
   house, along with a set of the original locks and keys from the city gates.
+score: 7.5
 ---
 
 St Columb's Cathedral was built between 1628 and 1633 and is the oldest surviving building inside the city walls. It is the cathedral church of the Church of Ireland diocese of Derry and Raphoe, and it has been a central landmark in the city's Protestant identity since the plantation era.

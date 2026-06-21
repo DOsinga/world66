@@ -10,6 +10,7 @@ story: >
   The Qing emperors kept Shenyang's palace as a secondary capital for centuries after moving to Beijing — emperors would make ceremonial returns here, and the palace was the repository for four of the Qing dynasty's great imperial libraries. When the last emperor Puyi was expelled from Beijing in 1924, the Qing treasures stored in Shenyang became part of China's national museum collections.
 title: Shenyang Imperial Palace (Mukden Palace)
 type: poi
+score: 9.2
 ---
 
 The Shenyang Imperial Palace — known in Manchu as the Mukden Palace — is the only imperial palace complex in China outside Beijing, and predates the expansion of the Forbidden City by several decades. Nurhaci began construction in 1625, and his son and successor Huang Taiji completed the main halls in 1636, the year he proclaimed the Qing dynasty. When the Qing armies took Beijing in 1644, Shenyang became a secondary capital, and the palace was maintained and periodically expanded for another century.

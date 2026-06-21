@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 56.3406
 longitude: -2.7971
+score: 5.8
 ---
 
 Forgan's is a lively all-day restaurant and bar on North Street, occupying a large converted space that fills reliably without feeling hectic. The menu is broad and Scottish-leaning — haggis and neeps, fish pies, Cullen skink, and burgers sourced from Fife farms — but with enough variety that it works for groups whose tastes diverge. Brunch, lunch, and dinner are all served, and the bar stocks a good range of Scottish gins and whiskies.

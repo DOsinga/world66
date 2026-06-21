@@ -7,6 +7,7 @@ tags:
 - cafe
 title: Literaturuli Cafe
 type: poi
+score: 5.9
 ---
 
 Literaturuli is a small cafe-bookshop tucked into the old town, with shelves of Georgian-language poetry and novels along the walls and a few quiet tables in the back. Coffee is good (Georgian style as well as proper espresso), the cakes are made on site, and there is a short list of Georgian natural wines by the glass.

@@ -6,6 +6,7 @@ longitude: 20.4523
 tags:
   - things_to_do
   - neighbourhood
+score: 7.1
 ---
 
 Savamala is the old portside quarter of Belgrade, running along the Sava riverbank south of Branko's Bridge — formerly a warehouse and industrial district, now the centre of the city's contemporary cultural life. The conversion happened gradually from the mid-2000s, when artists and galleries moved into the abandoned 19th-century warehouse buildings along Karađorđeva and Savska streets. It is now where you find the best bars, independent cinemas, design studios, and weekend markets.

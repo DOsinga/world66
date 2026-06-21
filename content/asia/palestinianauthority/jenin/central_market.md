@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 32.4615
 longitude: 35.3000
+score: 7.0
 ---
 
 Jenin's covered market is the busiest in the northern West Bank, drawing shoppers from across the governorate and — when the political situation allows — from the Galilee side of the Green Line. The trade here is mostly produce from the surrounding villages: olives, olive oil, citrus, watermelons in summer, and stacks of bread that come out warm through the morning.

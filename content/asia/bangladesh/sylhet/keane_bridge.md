@@ -12,6 +12,7 @@ story: >
   in the region and still defines Sylhet's skyline. The original truss was so
   cleverly designed that it survived a 1971 demolition attempt by retreating
   Pakistani forces with only superficial damage.
+score: 7.6
 ---
 
 The Keane Bridge is one of the city's most recognised landmarks — a riveted steel cantilever bridge crossing the Surma River near the heart of the old town. At night the bridge is lit up and reflected in the river, and the walkway is busy with locals taking the evening air. It still carries vehicle traffic, so cross carefully.

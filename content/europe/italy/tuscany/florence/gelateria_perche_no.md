@@ -13,6 +13,7 @@ tags:
 - bar
 title: Gelateria Perché No
 type: poi
+score: 6.3
 ---
 
 One of the oldest gelaterias in Florence, open since 1939 and making gelato fresh each morning from milk and seasonal fruit. Located on a small street near the Duomo, consistently in the top tier of Florence gelato rankings. The chocolate and hazelnut flavours are the house classics; seasonal fruit flavours change with what's available.

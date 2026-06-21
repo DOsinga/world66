@@ -7,6 +7,7 @@ tags:
 - sights
 title: 'Day 8: Midnight at Tromsø'
 type: poi
+score: 8.7
 ---
 
 On day eight, the ship passes the Lyngen Alps again around midnight — this time heading south. If you missed them on day four, this is your second chance. The midnight sun sits low on the water, turning the jagged peaks pink and orange while every passenger on deck reaches for a camera. It is one of those moments that justifies the whole voyage.

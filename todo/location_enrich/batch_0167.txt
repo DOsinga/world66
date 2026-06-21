@@ -1,5 +1,0 @@
-northamerica/unitedstates/alaska/tok
-northamerica/unitedstates/louisiana/bossiercity
-africa/angola/malange
-northamerica/unitedstates/california/placentia
-northamerica/canada/saskatchewan/north_battleford

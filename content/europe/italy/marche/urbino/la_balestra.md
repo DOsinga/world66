@@ -9,6 +9,7 @@ address: "Via Valerio 16, Urbino"
 phone: "+39 0722 2942"
 latitude: 43.7262
 longitude: 12.6353
+score: 5.9
 ---
 
 A reliable, well-priced trattoria a minute from Piazza della Repubblica, popular with both locals and students. Long menu of standards: tagliatelle al ragù, *cappelletti in brodo*, grilled meats, and *coniglio alla cacciatora*. The pizzas at dinner are above the local average.

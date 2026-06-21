@@ -7,6 +7,7 @@ tags:
 title: Trinidad State Beach
 type: poi
 snippet: "Sheltered sandy beach north of the headland with sea stacks and excellent tidepools"
+score: 8.6
 ---
 
 Trinidad State Beach is the main sandy beach at Trinidad, reached by a short steep trail from the parking area on Edwards Street. The beach sits in the shelter of Trinidad Head and is backed by forested bluffs, with a cluster of dramatic sea stacks just offshore. At low tide the rocks around the sea stacks expose extraordinary tidepools — large enough to hold octopus, sea stars in multiple species, nudibranchs, and dense aggregations of mussels.

@@ -8,6 +8,7 @@ tags:
   - sight
   - historic
   - architecture
+score: 7.3
 ---
 
 The Printery is the original 1915 building from which Edward Gardner Lewis published the magazines that financed and promoted his Atascadero colony. The two-storey brick building survived a long, neglected century — including significant damage in the 2003 earthquake — and is slowly being restored by a community foundation.

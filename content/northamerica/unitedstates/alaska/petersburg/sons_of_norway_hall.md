@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 56.81059
 longitude: -132.95911
+score: 6.8
 ---
 
 The Sons of Norway Hall, known officially as Fedrelandet Lodge No. 23, is the social and cultural heart of Petersburg's Norwegian heritage community. The two-storey building on Indian Street dates to 1912 and features traditional Norwegian rosemaling decorations on its facade — the distinctive folk-art floral painting that sets it apart from every other building in the Inside Passage.

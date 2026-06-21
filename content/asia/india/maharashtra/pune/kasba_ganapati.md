@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - kasba_peth
+score: 6.7
 ---
 
 The gram daivat or guardian deity of Pune. Tradition holds the temple's small swayambhu (self-manifested) Ganesh idol was installed by Shivaji's mother Jijabai in the seventeenth century, making it the oldest in the city; the present small stone shrine is on Kasba Peth, the medieval core of Pune.

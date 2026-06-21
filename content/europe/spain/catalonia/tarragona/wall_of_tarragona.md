@@ -10,6 +10,7 @@ tags:
   - things_to_do
   - sight
 snippet: "The 3rd-century-BC Roman walls of Tarraco — among the oldest surviving Roman fortifications anywhere"
+score: 8.6
 ---
 
 The northern walls of Tarragona's old town are not medieval — they are **late Republican Roman**, built between 218 and 197 BC and among the oldest surviving Roman fortifications in the world. The walls were built on top of much earlier **megalithic Iberian foundations**, which you can still see at the base — massive irregular blocks weighing several tonnes each, predating the Romans by centuries.

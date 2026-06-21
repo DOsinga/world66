@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Until 1923 Güzelyurt — then Gelveri — had a large Greek Orthodox population. They were sent to Greece in the population exchange that followed the Greco-Turkish war, founding a new town called Nea Karvali near Kavala. The connection is still alive: groups from both towns visit each other every year."
+score: 7.0
 ---
 
 The market town fifteen minutes east of the Ihlara staircase makes a good base for visitors who want to spend more than a day in the area. The old Greek quarter survives almost intact, with stone houses, narrow lanes, and a converted 4th-century church of St Gregory of Nazianzus now serving as a mosque.

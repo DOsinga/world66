@@ -9,6 +9,7 @@ longitude: 25.3236
 story: "Near Agia Theodoti there is a ruined Byzantine church dedicated to the same saint, mostly collapsed but with some of the original stonework still standing in the fields. The church appears to date from the 6th or 7th century — one of the oldest Christian structures in the Cyclades — and is easily missed by visitors who only come for the beach."
 sources:
   - https://en.wikipedia.org/wiki/Agia_Theodoti
+score: 6.8
 ---
 
 Agia Theodoti is a long, sandy beach on the northeast coast of Ios, far enough from the port and Chora to stay significantly quieter than Mylopotas even in high season. The beach faces a sheltered bay and the water is calm and shallow — better for families or anyone wanting an actual swimming beach rather than a party venue. There is a small settlement nearby with a taverna.

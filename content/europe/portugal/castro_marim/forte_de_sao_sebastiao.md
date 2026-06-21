@@ -7,6 +7,7 @@ tags:
 latitude: 37.2167
 longitude: -7.4441
 snippet: 17th-century star fort facing the older medieval castle across town
+score: 6.8
 ---
 
 Built in 1641 during the Portuguese Restoration War against Spain, the Forte de São Sebastião sits on the second of the two hills that flank the old town. It is a textbook small bastion fort — four pointed bastions, a dry ditch, a single gate facing the medieval castle opposite — and it was placed deliberately to cover the approach from the river crossing.

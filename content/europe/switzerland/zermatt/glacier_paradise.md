@@ -12,6 +12,7 @@ story: >
   terrace — Switzerland, Italy, France, and in extreme visibility, Germany.
   The ski area here is glacial and runs year-round; in August you share the
   pistes with professional ski teams training for the coming season.
+score: 8.7
 ---
 
 The cable car to Klein Matterhorn ascends in stages from Zermatt to 3,883 metres. At the top, the Glacier Paradise station has an ice palace carved into the glacier each year — tunnels and sculptures that visitors walk through at sub-zero temperatures. The viewing terrace looks directly across to the main Matterhorn and down over the Gorner and Theodul glaciers.

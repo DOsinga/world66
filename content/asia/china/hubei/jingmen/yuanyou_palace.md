@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 31.1689
 longitude: 112.5831
+score: 8.1
 ---
 
 Yuanyou Palace stands adjacent to the Xianling Tomb complex and is one of the best-preserved Ming dynasty ancestral ritual spaces in China. Built between 1540 and 1553 under the direct instruction of the Jiajing Emperor, the palace served as the site where imperial sacrifices and rituals were performed in honour of the posthumously elevated emperor's parents. The scale is intimate compared to the Forbidden City, but the craftsmanship is exceptional — original lacquered beams, carved stone balustrades, and painted ceilings survive in a state that far more famous monuments cannot match.

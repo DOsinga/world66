@@ -14,6 +14,7 @@ story: >
   restored the panel but deliberately left the cuts — they have been part of
   the icon ever since, giving the Madonna a particular quality of suffering
   that pilgrims find deeply affecting.
+score: 8.9
 ---
 
 The Chapel of Our Lady, attached to the main basilica at Jasna Góra, is the inner sanctum of the pilgrimage complex and one of the most atmospheric religious spaces in Central Europe. The icon of the Black Madonna hangs above the altar, its face dark with age and reverence, dressed in embroidered golden robes and crowned. The chapel walls are hung with thousands of votive offerings — crutches, jewellery, military decorations, photographs — left by pilgrims over centuries.

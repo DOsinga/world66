@@ -13,6 +13,7 @@ story: >
   years its foundations are briefly visible. The surrounding area was Maidu
   territory for centuries; the name Almanor comes from the first two letters of
   three daughters of a PG&E executive: ALice, MArtha, and EliNOR.
+score: 6.8
 ---
 
 Lake Almanor sits about 30 miles southeast of Quincy at around 4,500 feet elevation, and at 28 miles long it is one of the largest lakes in California. The mountain setting — Lassen Peak visible to the north, pine forests to the south — is impressive. Fishing for rainbow and brown trout is good; the lake is one of the better ones in the northern Sierra for large fish.

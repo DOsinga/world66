@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Oasis Cafe
 type: poi
+score: 5.1
 ---
 
 A casual, no-fuss cafe on Mitchell Street in the heart of Darwin's backpacker strip. Oasis Cafe serves straightforward breakfasts, burgers, wraps and fresh juices at reasonable prices. The outdoor tables are a good spot to sit with a coffee and watch the parade of travelers heading to and from the nearby hostels and tour booking offices. Open daily from early morning.

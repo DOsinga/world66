@@ -8,6 +8,7 @@ tags:
 latitude: 43.9471
 longitude: 4.8039
 snippet: Avignon's main fine art museum in a handsome 18th-century mansion
+score: 7.3
 ---
 
 The Musée Calvet is Avignon's principal art museum, housed in an elegant 18th-century hôtel particulier two blocks south of the main tourist circuit. The collection, donated to the city by physician Esprit Calvet in 1810, ranges from Greek and Roman antiquities through medieval decorative arts and European paintings up to the early 20th century.

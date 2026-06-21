@@ -9,6 +9,7 @@ type: poi
 tags:
 - things_to_do
 - park
+score: 8.6
 ---
 
 A 90-acre park in the heart of South Delhi containing some of the best-preserved medieval monuments in the city. The tombs of Sayyid and Lodi dynasty rulers — including the 15th-century Bara Gumbad and Shish Gumbad — stand amid lawns, fountains, and mature trees.

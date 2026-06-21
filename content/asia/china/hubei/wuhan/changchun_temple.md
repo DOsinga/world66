@@ -9,6 +9,7 @@ tags:
   - temple
   - wuchang
 neighbourhood: Wuchang
+score: 7.5
 ---
 
 Changchun Temple is one of the great Daoist temples of central China — a Quanzhen school monastery on Shuangfeng Hill in Wuchang, founded in the Yuan dynasty in the 13th century and rebuilt many times since. The current buildings are mostly late Qing and Republic-era.

@@ -8,6 +8,7 @@ latitude: 39.2003
 longitude: 20.1834
 address: "Waterfront, Gaios"
 neighbourhood: Gaios
+score: 4.8
 ---
 
 A small cocktail bar on the Gaios harbour with the best mojitos on the island and a soundtrack that leans more jazz than the rest of the waterfront. Tables out on the cobbled quay; inside, an old wood-panelled room.

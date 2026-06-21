@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.6500
 longitude: 106.0300
+score: 4.3
 ---
 
 The area around the confluence of the Mekong and Sekong rivers contains some of the best-preserved flooded forest habitat in Cambodia. In the wet season (June to October) the forest floor is submerged and the trees stand in a metre or more of clear water — a landscape of extraordinary visual strangeness, like boating through a drowned woodland. Kingfishers, hornbills, and over 100 species of waterbird have been recorded here.

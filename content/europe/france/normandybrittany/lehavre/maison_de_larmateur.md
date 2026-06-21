@@ -10,6 +10,7 @@ tags:
 - sight
 title: Maison de l'Armateur
 type: poi
+score: 8.0
 ---
 
 The Maison de l'Armateur — the Ship-Owner's House — is an exceptional 18th-century townhouse in the old quarter near the cathedral, one of very few buildings in Le Havre's centre to survive the 1944 bombing. Built around 1790 for a prosperous négociant who traded with the Americas, the house has been meticulously restored and now operates as a museum of historic domestic interiors.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 59.8762
 longitude: 10.7170
+score: 8.2
 ---
 
 The Oslofjord has around 40 islands within easy ferry reach of the city, several of them popular for swimming, hiking, and summer camping. The closest and most accessible are the Hovedøya (15 minutes from Aker Brygge), with the ruins of a 12th-century Cistercian monastery and a shingle beach; Gressholmen (20 minutes), car-free and good for cycling; and Nakholmen (25 minutes), with sandy beaches.

@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Huen Phen
 type: poi
+score: 6.8
 ---
 
 Huen Phen on Ratchamankha Road in the old city is the go-to restaurant for northern Thai food — the kind of cooking you don't find in Bangkok. Lunch is served cafeteria-style in the front room; evenings move to the back, through a warren of rooms filled with antiques, where the menu expands to include more exotic dishes.

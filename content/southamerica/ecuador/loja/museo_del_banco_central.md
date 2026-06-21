@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -4.0017
 longitude: -79.2053
+score: 7.2
 ---
 
 Loja's main museum occupies a handsome building in the city centre and covers the archaeology and history of the southern Ecuador region — pre-Columbian ceramics, colonial art and artefacts, and exhibits on the indigenous Saraguro and Shuar peoples. The collection is modest by capital-city standards but well-presented and genuinely informative about a part of Ecuador that most visitors rush through.

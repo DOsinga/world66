@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - shopping
+score: 6.8
 ---
 
 The Marathon Motor Works built cars on this site from 1910 to 1914 — the only American-made car ever produced in Tennessee. The vast 1881 brick factory and a cluster of associated buildings have been restored as a creative complex of small shops, restaurants, music studios, and the **Marathon Village Visitor Centre**.

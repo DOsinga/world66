@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: A short inclined funicular lift connecting the seafront with the cliff-top gardens, in operation since 1912.
+score: 6.6
 ---
 
 The Southend Cliff Railway is a small inclined funicular, less than 40 metres long, that lifts visitors from the lower esplanade up to Clifftown Parade and the gardens at the top of the cliff. Opened in 1912, it is one of the oldest cliff railways in the United Kingdom still in operation, and one of the few electric funiculars of its scale.

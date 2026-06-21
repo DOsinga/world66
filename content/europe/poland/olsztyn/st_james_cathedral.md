@@ -9,6 +9,7 @@ snippet: Towering Gothic brick cathedral on the edge of the old town
 latitude: 53.7759
 longitude: 20.4778
 story: "The 60-metre tower of St. James was used as an artillery observation post by Napoleonic troops during the campaign of 1807; the French commander Marshal Ney installed his command in the Hohes Tor gate below. The cathedral itself was raised to the rank of basilica in 2004 by Pope John Paul II."
+score: 8.3
 ---
 
 A massive Gothic brick cathedral on the southeast edge of the old town, begun in the fourteenth century and elevated to co-cathedral of the Archdiocese of Warmia in 1992. The five-aisled interior — a peculiar layout for a building of this size — is roofed with a fine net vault that has survived intact since 1596.

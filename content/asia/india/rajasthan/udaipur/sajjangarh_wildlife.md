@@ -6,6 +6,7 @@ longitude: 73.6444
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 The 5.5-sq-km wildlife sanctuary that surrounds the Monsoon Palace — a patch of dry deciduous forest on the Bansdara hill, home to leopards, hyenas, sambar deer, wild boar, and rich birdlife. The road up to the palace runs through it, and on a quiet evening you have a real chance of spotting deer browsing in the headlights.

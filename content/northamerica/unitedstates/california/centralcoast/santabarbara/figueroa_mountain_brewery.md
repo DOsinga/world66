@@ -6,6 +6,7 @@ longitude: -119.6900
 tags:
   - bars_and_cafes
   - bar
+score: 5.6
 ---
 
 Figueroa Mountain Brewing's Santa Barbara taproom is in the heart of the Funk Zone, a few blocks from the beach. The Buellton-based brewery makes solid West Coast styles — Hoppy Poppy IPA is the flagship — and the taproom has a long bar, a big patio, and food trucks rotating through.

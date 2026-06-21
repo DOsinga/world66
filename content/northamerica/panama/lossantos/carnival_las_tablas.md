@@ -12,6 +12,7 @@ story: >
   months preparing its queen, its music, and its costumes, and on Carnival nights
   the two groups parade past each other throwing water and insults in equal measure.
   It has been this way for well over a century.
+score: 8.2
 ---
 
 The Carnival celebrations in Las Tablas, the provincial capital, are widely regarded as the most authentic and energetic in Panama — more raucous than Panama City, and drawing Panamanians from across the country rather than foreign tourists. The four days before Ash Wednesday are when the town effectively shuts down for anything other than celebration.

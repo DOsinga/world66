@@ -7,6 +7,7 @@ snippet: The wooded riverside path along the Beuvron and the old wash-houses
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 The Beuvron, the small river that gives the Sologne much of its character, runs east-to-west through the northern edge of Bracieux. A footpath follows it on both banks, past 19th-century stone wash-houses (lavoirs) and the small confluence with the Bonneure stream that feeds into it from the south.

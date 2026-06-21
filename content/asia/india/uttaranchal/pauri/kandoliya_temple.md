@@ -8,6 +8,7 @@ latitude: 30.1530
 longitude: 78.7720
 story: >
   Kandoliya is dedicated to a local deity of the Garhwal hills — one of the many regional gods who sit alongside the great Hindu pantheon in this part of the mountains. The temple's importance to locals is less about its architecture than its position: from the terrace, you can see a 200-kilometre arc of the high Himalayas on a clear day, including the summit of Nanda Devi at 7816 metres, the second-highest peak in India.
+score: 7.6
 ---
 
 Kandoliya Temple sits above Pauri town on a forested ridge, and the walk up through oak and rhododendron forest is as rewarding as the temple itself. It is a modest Garhwali hill shrine in terms of architecture, but the setting is exceptional: the terrace in front of the temple offers a sweeping panorama of the snow-capped Himalayan range, with Nanda Devi, Trishul, Chaukhamba, and Kedarnath visible on a clear morning.

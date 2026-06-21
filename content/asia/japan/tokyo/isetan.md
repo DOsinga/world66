@@ -8,6 +8,7 @@ tags:
 - shinjuku
 title: Isetan
 type: poi
+score: 7.0
 ---
 
 One of Tokyo's best department stores, known for its strong selection of Japanese fashion designers and an excellent basement food hall. The menswear annex across the street is equally good. Worth a visit even if you are not shopping, just for the food floor.

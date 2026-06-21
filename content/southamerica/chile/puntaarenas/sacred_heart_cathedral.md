@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.0
 ---
 
 The **Catedral del Sagrado Corazón** is the religious counterweight to the merchant palaces on the Plaza. Begun in 1892 and finished in 1901, it was built by the Salesians — the Italian order that effectively organised the church in southern Patagonia in the late nineteenth century and that also founded most of the schools, missions and museums in the region.

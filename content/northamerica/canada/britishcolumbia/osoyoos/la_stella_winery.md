@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.0545
 longitude: -119.4999
+score: 6.9
 ---
 
 One of Osoyoos's most respected boutique wineries, making Italian-style wines from varieties — Sangiovese, Moscato Bianco, Lagrein — that few other BC wineries attempt. The estate sits on a steep bench north of town with a small tasting room that gets busy on summer weekends. The Allegretto white blend and the Moscato Bianco are particularly good, and the wines are priced at a level that reflects genuine ambition without extravagance.

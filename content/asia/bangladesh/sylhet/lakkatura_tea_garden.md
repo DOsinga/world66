@@ -11,6 +11,7 @@ story: >
   tea estates in Bangladesh and sits within the city limits of Sylhet itself —
   a strange and lovely thing, terraces of tea bushes rolling away from the
   airport road only a few kilometres from the centre.
+score: 7.2
 ---
 
 Lakkatura is the most accessible tea garden in Sylhet — you can be walking through it 20 minutes after leaving downtown — and offers a quick taste of the tea-estate landscape without driving out to Srimangal. The estate is still actively worked; you'll see women in colourful saris plucking leaves from the bushes, factory smoke from the processing sheds, and bullock carts on the dirt roads.

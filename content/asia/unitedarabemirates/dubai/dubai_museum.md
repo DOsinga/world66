@@ -8,6 +8,7 @@ title: Dubai Museum
 type: poi
 tags:
 - things_to_do
+score: 8.5
 ---
 
 Al Fahidi Fort, which houses the Dubai Museum, is the oldest surviving building in the city, built around 1799. It served at various points as a palace, garrison, and prison before being converted into a museum in 1970 and substantially expanded in 1995.

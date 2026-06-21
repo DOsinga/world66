@@ -7,6 +7,7 @@ tags:
   - market
 latitude: -13.9781
 longitude: 33.7625
+score: 7.8
 ---
 
 The Old Town market is the commercial heart of the original Lilongwe, clustered along the Lilongwe river in the southern half of the city. This is the real Malawi: chaotic, loud, colourful, and completely lacking in tourist packaging. Fish from Lake Malawi arrive early in the morning; livestock, secondhand clothing, vegetables, and Indian dry goods are spread across covered stalls and pavement.

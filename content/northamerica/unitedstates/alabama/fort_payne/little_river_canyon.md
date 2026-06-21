@@ -15,6 +15,7 @@ story: >
   plunging into the canyon — this makes it one of the longest mountaintop rivers in the United States.
   The canyon it eventually carves through the sandstone reaches 700 feet deep in places, earning it the
   designation "Grand Canyon of the East."
+score: 9.4
 ---
 
 Little River Canyon National Preserve is the principal reason to visit Fort Payne. The Little River runs along the top of Lookout Mountain before dropping into a canyon system of forested walls, sandstone cliffs, and boulder-strewn pools. The canyon rim drive — Canyon Rim Road — offers a series of pull-offs with overlooks down into the gorge, each one different. The views at sunset are particularly good.

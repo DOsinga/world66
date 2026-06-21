@@ -9,6 +9,7 @@ tags:
   - nature
   - unesco
 story: "The park sits on one of the oldest exposed plateaus on the planet — the Brazilian Shield is around 1.8 billion years old, and the quartz crystals embedded in the rock give the rivers and waterfalls their unusual luminous clarity. The high quartz concentration is also blamed by New Age believers for the strong concentration of esoteric communities around São Jorge, the village inside the park."
+score: 8.8
 ---
 
 The Chapada dos Veadeiros is one of the high points of the Brazilian cerrado — a landscape of high plateaus, deep canyons, and a few hundred waterfalls cutting through the rock. The national park covers about 240,000 hectares of the western part of the chapada and was inscribed on the UNESCO World Heritage list in 2001.

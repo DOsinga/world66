@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.7102
 longitude: 122.3640
+score: 5.8
 ---
 
 The town's central plaza, facing the cathedral and the old provincial capitol, is the working centre of Kalibo. Mango and acacia trees shade benches; tricycles queue along the south side; vendors sell halo-halo and grilled banana skewers from carts. By 17:00 the air cools and the locals come out for the evening walk around the park's perimeter.

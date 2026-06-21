@@ -7,6 +7,7 @@ tags:
 latitude: 21.0279
 longitude: 105.8523
 snippet: "19th-century tower on a tiny islet at the center of Hoan Kiem Lake"
+score: 5.9
 ---
 
 The Turtle Tower stands on a small rocky islet near the center of Hoan Kiem Lake — not on the island where Ngoc Son Temple is, but a separate, smaller outcrop further south that is not accessible to visitors. The tower itself was built in the early 19th century during the Nguyen dynasty; it's a two-storey structure of yellow-plastered stone with arched windows, modest enough in itself but unmistakable in the lake's geography. It appears in the background of almost every photograph taken from the lake's edges.

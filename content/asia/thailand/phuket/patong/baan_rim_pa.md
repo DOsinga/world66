@@ -6,6 +6,7 @@ longitude: 98.2922
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 The grand-dame of Phuket fine dining, perched on a cliffside at the northern end of Patong with the bay laid out below. Open since 1989, Baan Rim Pa serves Royal Thai cuisine — a refined court tradition heavy on curries, herb-fragrant grilled fish, and intricate carved vegetables — in a series of teak-floored salas with no walls between you and the sea.

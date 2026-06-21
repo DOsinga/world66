@@ -11,6 +11,7 @@ tags:
 - nightlife
 title: Moulin à Danses
 type: poi
+score: 5.3
 ---
 
 A Geneva nightlife fixture on Rue du Stand, Moulin à Danses alternates between 80s nights and techno sets depending on the evening. The crowd skews local and the dress code leans toward making an effort — don’t show up in hiking gear. It’s a small venue, so it fills up fast on weekends.

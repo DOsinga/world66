@@ -6,6 +6,7 @@ latitude: 19.2056
 longitude: -104.6821
 sources:
   - https://en.wikipedia.org/wiki/Barra_de_Navidad
+score: 6.4
 ---
 
 The waters off Barra de Navidad are particularly good for sport fishing. Blue marlin, sailfish, mahi-mahi (dorado), and yellowfin tuna are the prizes, and the season peaks between May and November when warm currents push up the coast. Local boat operators run half-day and full-day trips from the lagoon anchorage, and the rates are competitive compared to the more developed resort towns to the north.

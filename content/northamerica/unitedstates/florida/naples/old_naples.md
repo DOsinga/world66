@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 26.1333
 longitude: -81.8047
+score: 8.0
 ---
 
 Old Naples is the historic core of the city: the gridded neighbourhood of quiet streets, bungalows, and tropical gardens that stretches between the Gulf and the main commercial arteries. Third Street South and Fifth Avenue South are the twin poles of activity — lined with galleries, independent restaurants, boutiques, and outdoor cafes. The streetscape is unusually pleasant by Florida standards: low-rise, walkable, shaded, with no big-box retail or chain restaurants in sight.

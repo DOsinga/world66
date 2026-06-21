@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 23.4120
 longitude: 110.0880
+score: 8.1
 ---
 
 The East Pagoda is a 50-metre octagonal brick tower dating to 1573, the tallest historic pagoda in Guangxi. It stands on the east bank of the Xun River and remains the most prominent historical structure visible in the modern city. The pagoda has survived remarkably intact given the turbulence of the past five centuries, including the Taiping Rebellion that started in this very region.

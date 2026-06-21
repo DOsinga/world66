@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.8
 ---
 
 A bizarre landscape of weathered dolomite blocks scattered across the Causse Noir plateau, twenty kilometres east of Millau. The locals long believed the area was the ruins of a giant city — hence the name — and once you walk among the towers and arches it is easy to see why. The rocks are softer than the surrounding limestone and have eroded into shapes that look like keeps, churches, and gargantuan animals.

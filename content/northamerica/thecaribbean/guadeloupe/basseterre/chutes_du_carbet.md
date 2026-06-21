@@ -13,6 +13,7 @@ story: >
   linked to his presence. The falls are described in accounts of the voyage as
   a "great cascade seen from the sea," though as with most Columbus stories
   the detail is more legend than documented fact.
+score: 8.3
 ---
 
 The Chutes du Carbet are a series of three waterfalls on the Carbet River, deep in the rainforest of the Guadeloupe National Park on the flanks of La Soufrière. The three falls drop 115 metres, 110 metres, and 20 metres respectively through the forest — the tallest is visible from the trailhead car park at Grand Étang; reaching the upper falls requires longer hikes in wet terrain.

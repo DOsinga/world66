@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "7,200-acre reservoir lake immediately south of the city"
+score: 6.1
 ---
 
 A 7,200-acre lake right on the southern edge of town, created in 1932 when the Carpenter Dam on the

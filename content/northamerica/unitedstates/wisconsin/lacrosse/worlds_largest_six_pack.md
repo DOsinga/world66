@@ -8,6 +8,7 @@ latitude: 43.8028
 longitude: -91.2533
 story: >
   The six tanks at City Brewing were originally built by the G. Heileman Brewing Company in 1969. Heileman, at its peak in the 1980s, was the fourth-largest brewer in the United States — La Crosse was an unlikely home for a national beer empire. The claim to "world's largest six-pack" was calculated based on actual liquid capacity: the six tanks together hold 688,200 gallons, enough to supply one person with a six-pack a day for 3,351 years.
+score: 5.9
 ---
 
 Six giant beer storage tanks painted to look like Old Style cans tower over the City Brewing Company complex on the south side of downtown. At a combined capacity of 688,200 gallons, they hold the Guinness World Record as the world's largest six-pack. The claim is legitimate — the math has been verified.

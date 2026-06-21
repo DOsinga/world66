@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.4
 ---
 
 177 acres of restored tidal marsh on the southern edge of San Francisco Bay, with three miles of multi-use trails through grassland and salt pond. The park is one of the easiest places on the peninsula to see herons, egrets, marsh wrens, and the endangered Ridgway's rail.

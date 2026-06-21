@@ -7,6 +7,7 @@ tags:
 - sight
 title: Forua Roman Settlement
 type: poi
+score: 6.2
 ---
 
 A short walk from Forua railway station, on the western shore of the Urdaibai estuary, lie the foundations of a Roman port settlement that flourished from the first to fourth centuries AD — one of the only Roman sites visible in coastal Biscay. The excavations have uncovered iron-smelting furnaces, a market hall, and a forum with paved streets.

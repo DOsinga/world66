@@ -14,6 +14,7 @@ tags:
   - museum
 title: Ancient Tombs Museum
 type: poi
+score: 8.3
 ---
 
 One of the most unusual museums in China, the Ancient Tombs Museum (洛阳古墓博物馆) preserves twenty-five real excavated tombs from the Han through Song dynasties in an underground complex north of the city. The tombs were found during construction in the 1980s and rather than relocating them, the decision was made to build the museum around their actual positions. Walking between the burial chambers gives a sense of scale and context that no display case can replicate.

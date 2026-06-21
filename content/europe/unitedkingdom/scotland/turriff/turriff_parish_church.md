@@ -8,6 +8,7 @@ tags:
 - sight
 title: Turriff Parish Church (Auld Kirk)
 type: poi
+score: 6.9
 ---
 
 In the historic core of the town, the parish church complex includes both the present 18th-century kirk and the substantial ruins of the medieval church it replaced. The medieval church, dedicated to St Congan, had been the parish church since the 13th century, and its surviving south wall and east gable form an evocative ruin in the kirkyard — one of the better visible fragments of medieval ecclesiastical architecture in the area.

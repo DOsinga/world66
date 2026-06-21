@@ -1,16 +1,21 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-03'
+image: neiva.jpg
+image_attribution: MARLIO TOVAR GUTIERREZ
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Avenida_la_toma.jpg
 latitude: 3.033255
+loc_type: city
 longitude: -75.27943
+score: 0.42
 title: Neiva
 type: location
-score: 0.42
-loc_type: city
 ---
 
 Neiva is the capital of Huila department, sitting in a broad valley on the east bank of the Magdalena River about 300 kilometres south of Bogotá. It's primarily a commercial city but serves as an excellent base for the remarkable landscapes and archaeological sites of the surrounding region.
 
-The Tatacoa Desert, one of Colombia's most striking landscapes, is just 45 kilometres north — a dry scrubland of red and grey eroded formations popular for stargazing. The thermal springs at Rivera and the pre-Columbian statues at San Agustín (a UNESCO World Heritage site) are both within easy reach.
+The [Tatacoa Desert](/southamerica/colombia/neiva/tatacoa_desert), one of Colombia's most striking landscapes, is just 45 kilometres north — a dry scrubland of red and grey eroded formations popular for stargazing. The [thermal springs at Rivera](/southamerica/colombia/neiva/rivera_thermal_springs) and the pre-Columbian statues at [San Agustín Archaeological Park](/southamerica/colombia/neiva/parque_arqueologico_san_agustin) (a UNESCO World Heritage site) are both within easy reach.
 
-Neiva is famous within Colombia for the Festival Folclórico del Bambuco, held each June around the San Pedro celebrations — one of the largest folk music festivals in the country, drawing visitors from across Colombia.
+Neiva is famous within Colombia for the [Festival Folclórico del Bambuco](/southamerica/colombia/neiva/festival_bambuco), held each June around the San Pedro celebrations — one of the largest folk music festivals in the country, drawing visitors from across Colombia. The [La Gaitana Monument](/southamerica/colombia/neiva/la_gaitana_monument) on the Malecón commemorates the Timana indigenous leader who became a symbol of resistance against the Spanish conquest.

@@ -8,6 +8,7 @@ longitude: 3.9590
 tags:
 - things_to_do
 - sight
+score: 7.7
 ---
 
 Perrier-Jouet has been blending champagne on the Avenue de Champagne since 1811, but the house is best known for the floral anemone design that decorates its prestige Belle Epoque cuvee — the painted-glass bottle, designed by Emile Galle in 1902, became one of the icons of the Art Nouveau period.

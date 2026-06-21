@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 29.1800
 longitude: 117.7800
+score: 8.6
 ---
 
 Wangkou (汪口) sits at a river confluence on the southern edge of the Wuyuan area and is one of the larger and more intact heritage villages in the region. The ancestral hall at its center — the Yuqing Hall (俞氏宗祠) — is considered one of the finest surviving Huizhou ancestral halls in China, with a three-courtyard plan, elaborate carved beams, and original stone foundations that give the building an authority absent from the more intimate family compounds. The carving quality throughout is exceptional.

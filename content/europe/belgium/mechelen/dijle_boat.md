@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Half-hour boat trip through the old town along the river Dijle
+score: 7.0
 ---
 
 Mechelen grew up around the Dijle and the river still threads through the centre, partly canalised, partly open. A small open boat runs short tours from the quay at the Haverwerf — about 45 minutes, with English commentary, weather-dependent and operating from spring through autumn.

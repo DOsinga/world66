@@ -6,6 +6,7 @@ longitude: 145.700
 snippet: "Small coral island in the Saipan lagoon, reachable by boat in 15 minutes, with excellent snorkeling and calm beaches."
 tags: [things_to_do, nature]
 story: "Just offshore from Managaha, in the shallow sandy bottom of the lagoon, a WWII-era American landing craft sits upright in about 5 metres of water. It's fully accessible to snorkelers and has become heavily colonized by coral. Fish school around it in numbers that are rare near the main island's more disturbed reefs — a peculiar kind of accidental reef conservation."
+score: 8.9
 ---
 
 Managaha is a small flat coral island sitting in the middle of Saipan's western lagoon, about 3 kilometres offshore from Garapan. Boats run regularly from the pier near American Memorial Park, and the crossing takes around 15 minutes. The island has white sand beaches all the way around, calm and protected water on every side, and snorkeling that is genuinely good — the reef here is healthier than most sites around the main island, with reasonable coral cover and a variety of fish.

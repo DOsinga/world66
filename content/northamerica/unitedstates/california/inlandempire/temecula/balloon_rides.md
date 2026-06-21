@@ -6,6 +6,7 @@ longitude: -117.0823
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 The morning balloon flight over Temecula's vineyards is the iconic experience of the valley. Flights launch around sunrise from the wine country, drift slowly over rows of vines and the granite outcrops of the Santa Margarita Mountains, and land an hour later in a field — followed by champagne breakfast.

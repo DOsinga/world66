@@ -9,6 +9,7 @@ tags:
   - market
 story: >
   The Chirala saree is woven from fine combed cotton using a pit-loom technique that has changed little in three centuries. The cloth is prized for its light weight and durability — it was traded across coastal Andhra and into the princely states long before mechanised mills appeared in the region.
+score: 7.8
 ---
 
 The cloth market at the centre of Chirala is the commercial engine of the entire town. Dozens of shops and wholesale dealers line the main bazaar streets, selling Chirala sarees, dress material, and fabric by the metre at prices that bear no resemblance to what the same goods cost in Hyderabad or Chennai. The sarees produced here are made from fine cotton on traditional handlooms and are known for their durability and clean, simple designs — they are not embroidered or heavily decorated, but that restraint is precisely what weavers and buyers prize.

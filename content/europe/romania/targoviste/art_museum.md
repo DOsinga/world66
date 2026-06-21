@@ -6,6 +6,7 @@ longitude: 25.4601
 tags:
   - things_to_do
   - museum
+score: 6.6
 ---
 
 A small, well-curated collection of Romanian painting from the 19th and 20th centuries, in a restored neo-Romanian villa on Calea Domnească just north of the Princely Court. Works by Grigorescu, Tonitza, Petrașcu, and other names familiar to anyone with an interest in modern Romanian art, plus rotating exhibitions.

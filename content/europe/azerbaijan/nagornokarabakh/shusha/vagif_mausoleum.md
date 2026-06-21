@@ -13,6 +13,7 @@ story: >
   that would have saved him. His mausoleum was destroyed multiple times over
   the centuries and rebuilt. The current structure, restored in the 1980s,
   has become a place of literary pilgrimage.
+score: 7.2
 ---
 
 The Vagif Mausoleum honours Molla Panah Vagif, the great 18th-century Azerbaijani poet and statesman who served as vizier of the Karabakh Khanate and transformed Azerbaijani literature by bringing vernacular language and romantic themes into classical poetry. His tomb is one of the most visited cultural sites in Shusha.

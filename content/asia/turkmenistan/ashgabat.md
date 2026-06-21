@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-04'
 latitude: 37.937832
 longitude: 58.235947
 title: Ashgabat

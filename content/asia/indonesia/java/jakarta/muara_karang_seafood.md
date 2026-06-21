@@ -9,6 +9,7 @@ tags:
 - market
 title: Muara Karang Seafood
 type: poi
+score: 6.8
 ---
 
 In the Muara Karang neighbourhood of North Jakarta, a cluster of seafood restaurants lines the streets near a wet market selling the day's catch. The routine here is simple: browse the market stalls, pick your fish — red snapper, grouper, squid, mud crabs, tiger prawns — then carry it to one of the nearby restaurants to be cooked however you like. Grilled with sambal, steamed Chinese-style with ginger and soy, deep-fried with garlic — they will prepare it any way you want, served with steamed rice and fresh vegetables.

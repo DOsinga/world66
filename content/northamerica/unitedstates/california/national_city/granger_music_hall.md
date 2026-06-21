@@ -9,6 +9,7 @@ tags:
 address: 1615 E 4th St, National City, CA 91950
 latitude: 32.6844
 longitude: -117.0906
+score: 7.8
 ---
 
 Built in 1898 for the Comstock silver magnate Ralph Granger, the music hall was designed by a young Irving Gill — later one of the most influential architects of the American West — and was where Granger displayed his celebrated collection of Stradivarius violins. Granger employed his own chamber orchestra to play in the hall on Sunday afternoons for his guests.

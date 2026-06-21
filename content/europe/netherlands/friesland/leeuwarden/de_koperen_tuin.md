@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 53.2042
 longitude: 5.7940
+score: 5.9
 ---
 
 Set inside the Prinsentuin garden in a glazed pavilion overlooking the city's outer canal, De Koperen Tuin is one of Leeuwarden's most pleasant lunch spots. The name — "the copper garden" — comes from the local novelist Simon Vestdijk's 1950 book, which immortalised the spot.

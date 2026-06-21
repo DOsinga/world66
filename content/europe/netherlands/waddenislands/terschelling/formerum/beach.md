@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.1
 ---
 
 Formerum aan Zee is the village beach access point, about two kilometres north of the village through the forest and dunes. A wooden walkway crosses the last stretch of dune and drops you onto a wide, almost empty stretch of North Sea beach — Terschelling's northern coast is essentially one continuous 30-km strand, and the Formerum section is among the quietest.

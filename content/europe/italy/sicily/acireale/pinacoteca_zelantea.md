@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.6140
 longitude: 15.1629
+score: 6.8
 ---
 
 The main art gallery and museum of Acireale, housed in the building of the Accademia degli Zelanti e dei Dafnici, a learned society founded in 1671 that is still in operation — one of the oldest in Sicily. The name "Zelanti" (the zealous ones) tells you something about the character of the institution.

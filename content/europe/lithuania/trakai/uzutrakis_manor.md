@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 54.6597
 longitude: 24.9438
+score: 8.0
 ---
 
 Užutrakis Manor sits on the northern shore of Lake Galvė, directly across the water from Trakai Island Castle — meaning the view from the manor gardens takes in the castle reflected in the lake, one of the most composed landscapes in Lithuania. Built in the late 19th century for the Tyszkiewicz family, one of the great aristocratic families of the Polish-Lithuanian Commonwealth, the manor is a handsome Neo-Renaissance building surrounded by an English-style landscape park of 52 hectares.

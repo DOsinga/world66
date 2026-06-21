@@ -14,6 +14,7 @@ story: >
   said to represent the wife of a wealthy merchant who drowned in the Loire.
   The carving is remarkably lifelike for its era, the face serene and the
   drapery detailed. Nobody is quite sure who commissioned it or why.
+score: 6.5
 ---
 
 One of the oldest churches in the Loire Valley, with foundations traditionally dated to the 4th century, though the current Romanesque structure is mostly 12th century. The interior is cool and dark, with heavy round pillars and simple proportions that feel genuinely ancient. A few notable carved capitals and some medieval stonework are worth looking for.

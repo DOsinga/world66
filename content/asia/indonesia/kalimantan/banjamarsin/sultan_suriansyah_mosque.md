@@ -15,6 +15,7 @@ story: >
   conversion negotiated in exchange for military support from the Sultanate
   of Demak in Java. It is one of the oldest mosques in Indonesia outside
   Java.
+score: 7.8
 ---
 
 The Sultan Suriansyah Mosque, in the old Kuin quarter on the bank of the Kuin River, is the oldest mosque in South Kalimantan and a fine example of pre-colonial Banjarese architecture. The building is built almost entirely of ironwood, with a triple-tiered shingle roof, an outer veranda, and an unusually short minaret — the form that influenced mosque-building across Borneo for centuries.

@@ -8,6 +8,7 @@ tags:
   - sight
   - old_city
 snippet: The largest Ottoman mosque in Yemen, with a distinctive hemispherical dome
+score: 7.7
 ---
 
 Al-Bakiriyya was built in 1597 by the Ottoman governor Hasan Pasha and is the largest and most architecturally ambitious Ottoman-era mosque in Yemen. The plan is classical Ottoman: a single large prayer hall under a hemispherical dome, with a courtyard in front and a slender pencil minaret — a striking visual contrast to the older, more typically Yemeni minarets elsewhere in the old city.

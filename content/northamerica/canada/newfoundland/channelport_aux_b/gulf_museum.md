@@ -13,6 +13,7 @@ story: >
   physical link to the Basque fishermen who worked these waters in the 1600s, long before 
   Newfoundland was a colony. The Basques left almost no other permanent trace; the astrolabe 
   is a rare survivor.
+score: 7.0
 ---
 
 The Gulf Museum, on Grand Bay Road in Port aux Basques, is the best reason to stop in town beyond the ferry. Its centrepiece is a 17th-century Basque astrolabe — a navigational instrument used by the Basque whalers who worked the Strait of Belle Isle — recovered from the harbour. The museum traces the history of the area from the Basque whaling period through to the 20th century, with particular focus on the maritime heritage of the Cabot Strait crossing.

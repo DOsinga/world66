@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.69
 longitude: 44.93
+score: 6.2
 ---
 
 Kultepe Sadarak is a five-acre Chalcolithic mound on the plain east of Karaagaç village, about three kilometres from Sadarak town. Excavations have revealed multiple occupation layers going back to the late Palaeolithic, making it one of the oldest continuously occupied sites in the Nakhchivan region. The finds include chaff-faced pottery and tableware with red-painted lines characteristic of the fifth millennium BC, as well as later Proto Kura-Araxes black-burnished wares linking this site to the wider Bronze Age cultures of the Caucasus.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 54.6485
 longitude: 24.9332
+score: 6.6
 ---
 
 Kybynlar is the name most associated with Karaim food in Trakai, a restaurant on Karaimu Street in a traditional Karaim wooden house. The menu is built around kibinai in their authentic form — the mutton-filled version is the traditional recipe, the filling spiced with onions and black pepper, baked until the pastry is golden and crisp. The restaurant also serves Karaim-style soups and some Lithuanian dishes.

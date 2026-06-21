@@ -11,6 +11,7 @@ longitude: 15.6172
 snippet: Sweden's tallest medieval church, built over four centuries from the 12th to the 16th
 story: >
   Linköping Cathedral was the site of the so-called Linköping Bloodbath in 1600, when Duke Karl — who would become Karl IX of Sweden — had five Swedish nobles beheaded in front of the cathedral after defeating his enemies in the War of Succession. It was the largest political execution in Swedish history and effectively ended the power of the old Swedish aristocracy. The stains on the cathedral steps are, according to local legend, the blood of the executed nobles.
+score: 9.0
 ---
 
 Linköping Cathedral is one of Sweden's oldest and finest medieval churches, built over four centuries from the 12th to the 16th. The building is a textbook in Romanesque-to-Gothic transition: the lower nave walls are Romanesque, the choir is early Gothic, and the elaborate stone carvings on the portals represent some of the finest medieval sculpture in Scandinavia. The cathedral remains an active church — services are held daily, and the choir is one of the best in Sweden.

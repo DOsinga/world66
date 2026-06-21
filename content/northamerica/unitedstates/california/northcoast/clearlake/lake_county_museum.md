@@ -8,6 +8,7 @@ tags:
 latitude: 39.1429
 longitude: -122.9166
 story: "The museum holds one of the best collections of Pomo basketwork in California — the Pomo are widely regarded as among the finest basket weavers in North America, and Lake County was a center of this tradition. The technical complexity of the coiled and twined pieces here, some incorporating beads and feathers, represents a skill level that modern practitioners describe as almost impossible to replicate."
+score: 7.2
 ---
 
 Located in the county seat of Lakeport, the Lake County Museum is a modest but well-curated regional history museum with particular strengths in Pomo cultural material and the area's volcanic geology. The Pomo basket collection is the standout: large, finely worked pieces that explain why collectors have sought Lake County examples since the late 19th century.

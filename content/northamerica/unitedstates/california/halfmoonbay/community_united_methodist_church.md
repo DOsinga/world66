@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Community United Methodist Church
 type: poi
+score: 5.9
 ---
 
 The white wooden Methodist church on Johnston Street, a couple of blocks off Main, was completed in 1872 and is the oldest Protestant church building still in use on the San Mateo coast. It is a small but well-proportioned example of Carpenter Gothic — the simple New England gothic-revival style that travelled west with American settlers and pattern books in the mid-19th century. The steep gable, the lancet windows, and the slender bell tower are all typical of the form.

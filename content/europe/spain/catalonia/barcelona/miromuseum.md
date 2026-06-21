@@ -10,6 +10,7 @@ tags:
 title: Fundació Joan Miró
 type: poi
 snippet: "Major Miró collection in a striking Montjuïc building"
+score: 8.8
 ---
 
 The Fundació Joan Miró sits on Montjuïc hill in a luminous white building designed by Josep Lluís Sert, a close friend of the artist. The permanent collection spans Miró's full career -- paintings, sculptures, tapestries, and graphic work -- donated largely by Miró himself.

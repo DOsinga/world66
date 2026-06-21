@@ -12,6 +12,7 @@ story: >
   Seni was established specifically to give these crafts a stage — and to ensure that the men
   who make shadow puppets, spin traditional tops, and play the giant rebana drums can practise
   and perform in public.
+score: 7.8
 ---
 
 The Gelanggang Seni (Cultural Centre) is where Kota Bharu's traditional performing arts are on display. Regular sessions feature wayang kulit (shadow puppetry), rebana ubi (giant frame drum competitions), dikir barat (call-and-response choral singing), silat (Malay martial arts), kite-making, and gasing (top-spinning). The schedule varies by season, with more shows in the dry months between February and October.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
   - gallery
+score: 7.3
 ---
 
 The T.W. Wood Gallery holds the collection of the Montpelier-born painter Thomas Waterman Wood, a successful 19th-century portraitist who left the city his own paintings and a clutch of works by his American contemporaries. The collection has since expanded to include Vermont WPA-era art from the 1930s.

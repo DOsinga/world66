@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The bridge's foundations date to the 13th century, making it the oldest stone bridge in the Netherlands in continuous use. During floods, the bridge was sometimes the only dry crossing for miles in either direction, and Maastricht's strategic importance rested partly on controlling this crossing point over the Meuse.
+score: 7.4
 ---
 
 The Sint Servaas Bridge connects the old heart of Maastricht on the west bank of the Meuse to the Wyck district on the east. The current structure, with its nine arches, was largely rebuilt in the 15th century and has been in continuous use as the city's main river crossing ever since. Walk it early in the morning before the tourists arrive, or at dusk when the light on the Meuse is best.

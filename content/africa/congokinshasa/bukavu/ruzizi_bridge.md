@@ -7,6 +7,7 @@ snippet: The historic crossing to Rwanda at the outflow of Lake Kivu
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 Where Lake Kivu narrows to a single point and pours out into the Ruzizi River, two bridges link Bukavu to Cyangugu (now Rusizi) across the international border. The older Pont Ruzizi I, built in the 1950s, sits dramatically at the very mouth of the river — green water boiling beneath the span. It is the main crossing for foot passengers and small vehicles. Pont Ruzizi II, a few kilometres downstream, takes heavier truck traffic.

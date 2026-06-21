@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.1
 ---
 
 The old core of Awjila is a maze of low, flat-roofed mud-brick houses with high windowless walls along the lanes — a Saharan vernacular shared with oases all the way from Siwa in Egypt to the Mzab in Algeria. Most of the structures are still inhabited by Amazigh families who continue to speak Awjila Berber, an endangered language found nowhere else and barely understood even by speakers in neighbouring Berber communities.

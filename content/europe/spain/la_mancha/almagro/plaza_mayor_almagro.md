@@ -13,6 +13,7 @@ story: >
   and Flemish merchants settled in Almagro in the 16th century, bringing their
   architectural preferences with them. The result is one of the most unusual
   main squares in Spain: part Castilian, part northern European.
+score: 8.5
 ---
 
 Almagro's main square is one of the most distinctive in Spain. The long rectangular plaza is flanked on its two long sides by arcaded galleries with the characteristic green-painted wooden shutters that give the space its particular colour and character. At one end, built into the arcade, is the entrance to the Corral de Comedias — its presence barely announced, easy to walk past without realising what it is.

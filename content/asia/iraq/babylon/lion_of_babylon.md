@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Lion of Babylon is the unofficial national symbol of Iraq — it appears on banknotes, military insignia, and the badge of the national football team. The statue itself has stood here for at least 2,500 years and possibly much longer, but no one knows where it was originally placed or what it commemorates."
+score: 7.4
 ---
 
 A weathered basalt sculpture of a lion standing over a prone human figure, the Lion of Babylon is one of the few major pieces that has remained in the city itself rather than being carted off to a museum. It is thought to date to the time of Nebuchadnezzar II, though some scholars suggest it may be older — perhaps a Hittite work brought as plunder.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 6.5
 ---
 
 A Sunday market held in the Penguin Sports and Recreation Centre on Ironcliffe Road from October through April. About 100 stalls under one roof — local cheeses, smoked salmon, jams, sourdough, vegetables from the nearby Don and Mersey valleys, secondhand books, woollen goods, and the inevitable selection of bric-a-brac.

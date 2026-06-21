@@ -8,6 +8,7 @@ tags:
   - museum
   - old_san_juan
 neighbourhood: Old San Juan
+score: 6.8
 ---
 
 A small two-room museum dedicated to the Catalan cellist Pablo Casals, who moved to his mother's native Puerto Rico in 1956 at the age of 79 and spent his last seventeen years here. Casals founded the Festival Casals, the conservatory, and the island's symphony orchestra — three institutions that anchor classical music in Puerto Rico to this day.

@@ -12,6 +12,7 @@ tags:
 title: Fars Hatt
 type: poi
 url: www.farshatt.se
+score: 4.8
 ---
 
 The restaurant of the Fars Hatt hotel, on the main square. In summer the porch terrace looks directly across the river to Bohus Fästning — one of the better views in town. The hotel also hosts orchestra dancing on Saturday evenings.

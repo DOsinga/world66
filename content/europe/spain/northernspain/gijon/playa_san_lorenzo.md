@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 43.5450
 longitude: -5.6800
+score: 8.3
 ---
 
 Playa San Lorenzo is one of the few genuinely urban beaches in Spain where the city front runs straight onto the sand. The beach stretches 1.5 kilometres along the city's northern edge, backed by a promenade of Belle Époque buildings, cafes, and the Teatro Jovellanos — the kind of built relationship between city and sea that requires centuries of commitment to achieve. The Bay of Biscay here faces directly north, which means Atlantic swells, good surf conditions in autumn and winter, and water that is colder and more bracing than the Mediterranean beaches that the rest of Spain is famous for.

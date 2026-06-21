@@ -15,6 +15,7 @@ story: >
   day. The "Longzhong Dui" — Zhuge Liang's strategic analysis delivered at
   that meeting — proved so accurate that historians still study it as a model
   of political and military reasoning.
+score: 8.3
 ---
 
 Gulongzhong, about fifteen kilometres west of central Xiangyang, is where the strategist Zhuge Liang lived in deliberate obscurity for a decade before Liu Bei came to recruit him. Zhuge Liang's decision to emerge from retirement and serve Liu Bei was one of the pivotal moments of the Three Kingdoms period, and the site has been a place of pilgrimage for Chinese scholars and officials ever since. The story of Liu Bei's three visits — turning up twice to find the hermit absent, returning without complaint each time — became a foundational parable about the patience required to win exceptional talent.

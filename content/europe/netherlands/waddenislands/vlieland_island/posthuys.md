@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "Isolated 17th-century inn deep in the dunes, halfway across the island"
 latitude: 53.2730
 longitude: 4.9700
+score: 6.8
 ---
 
 The Posthuys is a single-storey stone building in the middle of the dunes, halfway between Oost-Vlieland and the Vliehors. It dates from the 17th century, when it served the postmen, lighthouse keepers, and lifeboat crews who crossed the island. After centuries of various uses — pilots' station, military observation post — it has been restored as a small café and exhibition space.

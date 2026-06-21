@@ -7,6 +7,7 @@ tags:
 - sight
 title: Otávio Rocha Viaduct
 type: poi
+score: 7.4
 ---
 
 The Viaduto Otávio Rocha is one of Porto Alegre's most distinctive urban structures: a long concrete viaduct built in the 1930s that arches over the busy Rua da Praia intersection and connects the upper city to the lower, carrying both pedestrian and vehicle traffic. It was an engineering achievement when built — one of the first major viaducts in southern Brazil — and it has become, over the decades, a piece of the city's visual identity in the way that functional infrastructure rarely manages.

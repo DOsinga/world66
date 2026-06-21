@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Salt was raked here continuously from the 1670s until 1964, when cheap mineral salt from elsewhere finally collapsed the industry. The salinas are still flooded and emptied seasonally — and the windmills, walls, and storage sheds are a rare surviving industrial landscape from the early colonial Caribbean."
+score: 7.6
 ---
 
 The salt ponds that fill the interior of Grand Turk are what built Cockburn Town. For nearly three hundred years salt was raked from these shallow inland lagoons, dried, and shipped north to New England — at one point Bermudian salt rakers controlled the entire industry.

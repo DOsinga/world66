@@ -12,6 +12,7 @@ tags:
 snippet: "Baroque hilltop villa with terraced gardens and sweeping views over Rome"
 sources:
   - https://en.wikipedia.org/wiki/Villa_Aldobrandini
+score: 8.3
 ---
 
 The most impressive of the Castelli Romani villas, Villa Aldobrandini stands high above Frascati on a steep wooded hillside. Giacomo della Porta began the design in 1598 for Cardinal Pietro Aldobrandini, nephew of Pope Clement VIII, and it was completed by Carlo Maderno and Giovanni Fontana. The villa itself is still privately owned by the Aldobrandini family and closed to the public, but the terraced gardens are open and the views they command — across the Roman plain to the city on a clear day — are the real reason to climb up here.

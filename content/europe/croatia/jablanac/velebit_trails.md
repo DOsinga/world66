@@ -8,6 +8,7 @@ tags:
   - hiking
 title: Velebit Mountain Trails
 type: poi
+score: 8.3
 ---
 
 The Velebit mountains rise directly above Jablanac, and the Northern Velebit National Park begins just above the coastal road. Several marked trails start near the village and climb into the karst landscape of the upper Velebit, where rocky pastures, ancient shepherd paths, and extraordinary views down to the coast await. The Premužić Trail — a 57-kilometre hiking route built in the 1930s — passes through this section of the range.

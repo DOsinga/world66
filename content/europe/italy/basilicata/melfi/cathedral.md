@@ -8,6 +8,7 @@ latitude: 40.9975
 longitude: 15.6558
 story: >
   The original cathedral at Melfi was destroyed in the 1694 earthquake that levelled much of Basilicata. The bell tower, however, survived — a Romanesque campanile dating from the 12th century, with a Byzantine-influenced pyramidal spire. It stands slightly apart from the rebuilt cathedral, a reminder of what Norman Melfi looked like before the earthquake.
+score: 7.2
 ---
 
 The Cathedral of Santa Maria Assunta in Melfi is a Baroque reconstruction of an older Norman church, rebuilt after the devastating earthquake of 1694. The interior is spacious and ornate in the southern Italian Baroque tradition, with painted ceilings, elaborate altars, and a strong sense of the Counter-Reformation piety that shaped church architecture across the Mezzogiorno.

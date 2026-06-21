@@ -7,6 +7,7 @@ tags:
 latitude: 41.5706
 longitude: 64.2072
 snippet: The town's football stadium, home of FK Zarafshon
+score: 4.8
 ---
 
 Progress Stadium is the small football ground at the centre of Zarafshan, holding around three thousand spectators on concrete terraces. It is the home of FK Zarafshon, a club that has spent most of its existence bouncing between the second and third tiers of the Uzbek league. Match days bring out a few hundred locals in the bone-dry desert wind, with the apartment blocks and the chimney plume from the gold processing plant in the background.

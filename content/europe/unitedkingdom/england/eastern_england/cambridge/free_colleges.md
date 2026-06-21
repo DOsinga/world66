@@ -7,6 +7,7 @@ tags:
 - sight
 title: Free Colleges
 type: poi
+score: 7.7
 ---
 
 Several Cambridge colleges open their courtyards and grounds to visitors free of charge. Pembroke College is a highlight, with its lovely gardens and chapel — Christopher Wren's first completed building. Trinity Hall and Peterhouse, the university's oldest college, are also free to enter.

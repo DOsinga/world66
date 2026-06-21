@@ -7,6 +7,7 @@ tags:
 - sight
 title: Delgosha Garden
 type: poi
+score: 7.6
 ---
 
 Delgosha — "Heart-Pleasing" — is one of the oldest gardens in Shiraz, with origins stretching back to the Sassanian period. It was reshaped under the Safavids and again under the Qajars, and now contains a 19th-century pavilion at the centre of a long reflecting pool, surrounded by sour-orange trees, cypresses, and old plane trees.

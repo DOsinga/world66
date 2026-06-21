@@ -15,6 +15,7 @@ story: >
   largest living history museums in Canada.
 sources:
   - https://en.wikipedia.org/wiki/Fort_Edmonton_Park
+score: 8.4
 ---
 
 Fort Edmonton Park is Canada's largest living history museum and the best way to understand how Edmonton transformed from a fur trading outpost to a twentieth-century city. The park is organised chronologically along a route that moves through four historical periods: the original HBC fort of the 1840s; a street scene from 1885; Jasper Avenue in 1905; and the 1920s era.

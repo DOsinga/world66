@@ -7,6 +7,7 @@ tags:
 address: "1000 N Croatan Hwy, Kill Devil Hills, NC 27948"
 latitude: 36.0156
 longitude: -75.6686
+score: 9.4
 ---
 
 The Wright Brothers National Memorial marks the site where Orville and Wilbur Wright made the first successful powered flights on December 17, 1903. The monument at Kill Devil Hills stands on a granite shaft atop Big Kill Devil Hill, the dune from which the brothers launched their glider tests.

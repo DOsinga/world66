@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The abbey has been dissolved and re-founded three times since the 12th century — once by Napoleon, once by the Swiss Reformation. Each time the monks returned. The current community arrived from Wettingen in Switzerland in 1854, expelled by the liberal Swiss government, and have been here ever since.
+score: 7.8
 ---
 
 Wettingen-Mehrerau is a Cistercian abbey founded in 1097, making it one of the oldest monasteries in Vorarlberg. It sits on the western edge of Bregenz, separated from the lake by a narrow strip of land. The complex includes a Romanesque church, medieval cloisters, and the functional buildings of a working monastic community.

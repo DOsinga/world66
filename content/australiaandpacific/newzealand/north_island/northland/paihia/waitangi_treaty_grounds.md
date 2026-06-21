@@ -11,6 +11,7 @@ story: >
   The Treaty of Waitangi was signed on 6 February 1840 by representatives of the British Crown and over 500 Māori chiefs. The Māori and English versions of the document are not quite the same: the English version cedes sovereignty to the Crown; the Māori version speaks of *kawanatanga* (governance), which many chiefs understood differently. The gap between those two words is still being debated and litigated in New Zealand courts today.
 sources:
   - https://en.wikipedia.org/wiki/Treaty_of_Waitangi
+score: 9.2
 ---
 
 The Waitangi Treaty Grounds, a short walk north of Paihia along the coastal path, are the most historically significant site in New Zealand. Here, on 6 February 1840, the Treaty of Waitangi was signed between the British Crown and Māori chiefs — the founding document of the New Zealand state, and one that continues to shape the country's politics, law, and culture.

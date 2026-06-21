@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - park
   - wildlife
+score: 6.8
 ---
 
 The Ostrava Zoo, on a wooded slope across the river from the centre, is one of the larger zoos in Central Europe with about 4,000 animals and a strong reputation for ape breeding (its chimpanzee group is among the largest in Europe). The park combines a zoo with a botanical garden and a long forest path that climbs to a small lookout.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.8820
 longitude: 88.1200
+score: 8.4
 ---
 
 The trail that runs around Tianchi Lake is the best way to escape the crowds that congregate near the main entrance and the cable car. The eastern shore is the busiest section, serving the tourist facilities; heading west along the northern shore, or south along the western bank, the path enters spruce forest and within ten minutes the yurt restaurants and tourist buses are behind you.

@@ -14,6 +14,7 @@ story: >
   were banned for decades. Since 1990, the rehabilitation has been dramatic: Genghis Khan's face is on the
   currency, his name is on the airport, and this museum opened in 2022 to tell the full story that
   communist ideology had suppressed.
+score: 8.2
 ---
 
 The Chinggis Khaan National Museum, which opened in 2022, is one of the best-equipped museums in the country — modern display technology, strong English labelling, and a comprehensive collection covering the life of Genghis Khan and the empire he founded. The building itself is distinctive, with a circular design meant to evoke a ger (yurt).

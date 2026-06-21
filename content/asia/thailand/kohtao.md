@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-07
+  location_enrich: '2026-06-02'
 image: kohtao.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Ban_Mae_Haad_Ko_Tao.jpg
@@ -12,10 +13,8 @@ title: Koh Tao
 type: location
 ---
 
-This little island offers the accessible low key Thailand option. The ferries and speed boats drop off at the main pier and extension of the town's primary paved road. The little town offers all of the backpacker treats, including internet cafes, several food stops/bars, dirt bike rentals, a clinic with an English speaking nurse, an excellent pastry shop and place to read the paper, several general stores and more than a few beachside restaurants.
- 
- The joy of this island is that it also offers a chance to get away from all of that. Several of the bungalow operations are only gauranteed accessible by boat or by foot. The sand and gravel roads leading to the out of the way spots tend to wash out early in the rainy season and stay washed out until well into the dry season. Even the courageous on large dirtbikes will find some of the roads unrideable. Hence, the challenge.
- 
- Some of Thailands best snorkelling can be had in Koa Toa. Some snorkle tour operators bait the fish for a good show. Sometimes the fish show their appreciation by taking a little nip of the farangs (foreigners). These bites tend to be more startling than actually dangerous. Still, keep an eye out for trigger fish.
- 
- My hands down recommendation goes to the Coral View Resort. This dozen bungalow operation is run by John, an Aussie, and his Thai wife. If one waits for the touts to clear, one can usually spot John waiting for the mellow customer. The Coral View offers dive instruction, a quiet beach, easy access to fantastic snorkeling and a view of Shark Island. A short conversation with John is all one needs to get a discount on his already low prices, especially on extended stays. Please give my best to Honee, an exceptional girl amoung the normally industrious Thai people.
+Koh Tao — Turtle Island — is a small island in the Gulf of Thailand, about 70 kilometres north of Koh Samui and part of the Chumphon Archipelago. It covers just 21 square kilometres, but its combination of clear warm water, accessible coral reefs, and low cost of living has made it one of the world's most popular destinations for learning to dive. More Open Water PADI certifications are issued here per year than almost anywhere else on earth.
+
+The island has a split personality. [Mae Haad](/asia/thailand/kohtao/mae_haad) on the west coast is where the ferries dock and the budget accommodation and dive shops are concentrated — busy, sociable, and very much a traveller hub. The [Sairee Beach](/asia/thailand/kohtao/sairee_beach) strip to the north is the liveliest stretch, lined with bars, restaurants, and dive operators. But a short walk or motorbike ride takes you to the other side of the island, where [Tanote Bay](/asia/thailand/kohtao/tanote_bay), [Chalok Ban Kao](/asia/thailand/kohtao/chalok_ban_kao), and the northern headlands are quieter and wilder.
+
+The reefs around Koh Tao are genuinely good — not pristine, but home to healthy coral, sea turtles, reef sharks, and large shoals of fish. The visibility is often excellent. For non-divers, the snorkelling is impressive at many spots accessible directly from the beach, including at [Shark Island](/asia/thailand/kohtao/shark_island) and [Japanese Gardens](/asia/thailand/kohtao/japanese_gardens).

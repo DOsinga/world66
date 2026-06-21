@@ -4,8 +4,10 @@ longitude: 100.5987
 snippet: "Hilltop panorama over Songkhla's lake, gulf, and old town"
 tags:
 - things_to_do
+- sight
 title: Khao Noi
 type: poi
+score: 6.8
 ---
 
 A low hill on the edge of the old town offering fine views across Songkhla and the surrounding lake and gulf. An easy climb rewarded with a broad panorama that gives a good sense of the town's unusual geography — squeezed between water on three sides.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 30.2641
 longitude: -97.7178
+score: 7.3
 ---
 
 East 6th Street, east of Interstate 35, is a different animal from the downtown entertainment strip of the same name. This is the neighbourhood commercial corridor of East Austin — a mile of blocks lined with a shifting mix of taquerias, cocktail bars, coffee shops, and music venues that has been Austin's fastest-changing dining and drinking zone for the past decade.

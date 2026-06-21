@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -36.1195
 longitude: 144.7509
+score: 6.9
 ---
 
 The Murray at Echuca is wide, slow, and brown — it carries a heavy load of silt from the ranges upstream, and swimming in it feels nothing like the ocean. But it is genuinely pleasant on a hot day, and the river beaches on the Moama side are well-used by locals who know the currents. The best swimming is in calm bays where the current is manageable; avoid the main channel, which moves faster than it looks.

@@ -9,6 +9,7 @@ snippet: "Converted Whiteaker garage — live music, cheap pints, no pretensions
 address: "407 Blair Boulevard"
 latitude: 44.0628
 longitude: -123.1068
+score: 6.8
 ---
 
 Sam Bond's is what people mean when they talk about old Eugene: a converted garage in the Whiteaker, dim and crowded, live music six nights a week, pints under five dollars at writing, dogs welcome, no cover most nights. The food is short-list pub fare done unfussily; the beer is local and rotates.

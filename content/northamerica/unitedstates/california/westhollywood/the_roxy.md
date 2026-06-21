@@ -10,6 +10,7 @@ latitude: 34.0901
 longitude: -118.3888
 sources:
   - https://en.wikipedia.org/wiki/The_Roxy_Theatre_(West_Hollywood)
+score: 7.9
 ---
 
 The Roxy opened in 1973 at 9009 Sunset Boulevard and immediately became the Strip's prestige venue — Neil Young recorded Tonight's the Night here, Bruce Springsteen played a legendary early-career show, and the New York Dolls made their West Coast debut on its stage. Lou Adler and David Geffen were the original owners, and the club retains that sense of being slightly more serious than its neighbours.

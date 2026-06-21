@@ -10,6 +10,7 @@ tags:
 - sight
 title: Stortorget
 type: poi
+score: 8.7
 ---
 
 The great central square of Karlskrona is one of the finest baroque squares in Scandinavia. King Karl XI planned it on a grand scale when he founded the city in 1680, and it still impresses — broad and open, flanked by the twin churches of Fredrikskyrkan and Trefaldighetskyrkan, and anchored by a statue of the king himself. It is the natural starting point for any walk through the city.

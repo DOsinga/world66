@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, shopping, sight]
 latitude: 14.4430
 longitude: -17.0090
+score: 5.8
 ---
 
 The central market at Saly is the best place to shop for souvenirs and to experience something closer to everyday Senegalese life than the resort strip provides. Wooden carvings, leather goods, fabrics, and Wolof jewellery fill the stalls, and vendors are eager to bargain. Patience and a sense of humour will get you a better price than any fixed offer.

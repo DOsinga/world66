@@ -14,6 +14,7 @@ story: >
   The old depot building also caught the attention of the rock band Manassas — Stephen
   Stills named his 1972 band after the town and used the station as the backdrop for
   the album cover, giving the Victorian depot an unexpected moment of rock-and-roll fame.
+score: 6.1
 ---
 
 The red-brick Victorian station still stands on the VRE (Virginia Railway Express) commuter line, making it both a working rail station and a piece of 19th-century architecture worth a look. The building dates to 1914 — a rebuild of earlier structures — and is considered one of the better-preserved small-town depots in northern Virginia.

@@ -10,6 +10,7 @@ tags:
 - market
 title: Artists Market
 type: poi
+score: 5.0
 ---
 
 An open-air market on Vulitsa Lenina, roughly halfway between the Kupalovskaya and Nemiga metro stations. Vendors sell handcrafted items, paintings, and *matroshka* (nesting dolls) of all kinds. If you're staying a while, you can commission an artist to make a custom set of nesting dolls — your family, famous celebrities, or past Russian leaders are all popular choices. Prices are negotiable, so don't be shy about bartering.

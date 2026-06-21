@@ -9,6 +9,7 @@ latitude: 27.8214
 longitude: 113.1136
 story: >
   The television tower was completed in 1997 and at 260 metres was for several years the tallest structure in Hunan. It stands on the same hill as the Shennongcheng Scenic Area, making the two structures — one mythological, one technological — neighbours on the Zhuzhou skyline. The combination is accidental but characteristic of Chinese city development, where industrial infrastructure and cultural commemoration frequently occupy the same terrain.
+score: 4.5
 ---
 
 The Zhuzhou Television Tower rises 260 metres from the Shennongcheng hill, visible from most of the city. It does not have a public observation deck, so its value to visitors is entirely visual — as a landmark for orientation and as a recognisable element in the city's skyline when seen from the Xiang River waterfront.

@@ -5,6 +5,7 @@ latitude: -30.2897
 longitude: 153.1189
 snippet: Main town beach, lifeguard-patrolled and family-friendly
 tags: [things_to_do, beach]
+score: 6.3
 ---
 
 Park Beach is the long sandy strip immediately north of the harbour breakwater and the most popular swimming beach in town. The Surf Life Saving Club patrols a section of it between the flags from September to April, and the dunes behind are part of a small coastal reserve with picnic tables, barbecues and a kids' playground.

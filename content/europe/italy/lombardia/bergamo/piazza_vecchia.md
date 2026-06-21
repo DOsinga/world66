@@ -14,6 +14,7 @@ tags:
 - square
 title: Piazza Vecchia
 type: poi
+score: 9.3
 ---
 
 The heart of Città Alta and one of the finest medieval squares in northern Italy. The Contarini Fountain from 1780 sits at its centre, flanked by the Civic Library and the Palazzo della Ragione from the 1400s. Le Corbusier called it the most beautiful square in the world; whether you agree depends on your mood, but it's hard to argue when you're sitting at one of the cafe tables in the early morning light.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "The regional museum that holds the best finds from Merv and Gonur Depe"
+score: 7.9
 ---
 
 The Mary Regional Museum sits in a heavy marble-clad building in the centre of town and is essential viewing if you are going to Merv or Gonur Depe. The collection holds the best finds from both sites: Bronze Age seals and gold jewellery from Gonur, Buddhist relics from the early period at Merv, Sasanian metalwork, Seljuk ceramics, and a careful set of scale models of the major Merv monuments at different historical periods.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 53.8921
 longitude: 11.461
+score: 7.8
 ---
 
 St. George's is the third of Wismar's great medieval brick churches, and in some ways the most interesting precisely because it is not yet finished. The church was badly damaged in the Second World War and left in a state of partial ruin throughout the East German period. Restoration work began after reunification and has continued for decades; the church has been structurally secured and the exterior largely restored, but the interior remains a work in progress. This means you can watch the craft of medieval brick restoration at close quarters — an unusual experience.

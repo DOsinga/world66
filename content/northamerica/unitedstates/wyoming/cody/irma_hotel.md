@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.5258
 longitude: -109.0644
+score: 7.7
 ---
 
 Buffalo Bill Cody built the Irma Hotel in 1902 and named it after his daughter. The building is still operating and still anchors the east end of Sheridan Avenue. The main draw is the carved cherrywood bar in the saloon, which runs the full length of the room and was reportedly a gift from Queen Victoria to Buffalo Bill following his Wild West show's London performances. Whether the royal provenance is precisely accurate is debated, but the bar is unquestionably magnificent Victorian craftsmanship.

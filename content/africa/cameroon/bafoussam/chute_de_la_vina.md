@@ -8,6 +8,7 @@ latitude: 5.4600
 longitude: 10.4150
 sources:
   - https://fr.wikivoyage.org/wiki/Bafoussam
+score: 5.3
 ---
 
 A small waterfall on the southern outskirts of Bafoussam, set in a shallow ravine in the residential quarter near the meteorological station — which explains its local name, Chute de la Météo. The falls drop perhaps eight metres into a pool surrounded by banana plants and secondary forest, an incongruous pocket of natural landscape enclosed by the expanding city. The setting is modest rather than spectacular, but it is accessible on foot from the centre and makes a pleasant 30-minute diversion if you are already in the southern part of the city.

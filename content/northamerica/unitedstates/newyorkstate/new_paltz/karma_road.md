@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 41.7472
 longitude: -74.0875
+score: 6.0
 ---
 
 Karma Road is a vegetarian and vegan cafe on Main Street that has been a fixture of New Paltz's food scene for decades. The menu is built around wholesome bowls, wraps, salads, and daily specials that reflect the college town's longstanding progressive-food culture. Everything is made from scratch, and the kitchen takes its ingredients seriously — much of the produce comes from farms in the immediate area.

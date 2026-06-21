@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.800
 longitude: 2.1195
+score: 8.2
 ---
 
 The Orangerie is a massive greenhouse set into the hillside below the south terrace of the palace, designed by Jules Hardouin-Mansart in 1686. In winter it houses more than 3,000 trees — orange, oleander, laurel, palm, and bay — that spend the summer months in terracotta tubs set out on the Parterre du Midi above. The central hall is 155 metres long and lit by 17 large arched windows opening south.

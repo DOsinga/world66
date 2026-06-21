@@ -7,6 +7,7 @@ tags:
   - culture
 latitude: 8.9475
 longitude: 125.5432
+score: 7.6
 ---
 
 Kahimunan Festival takes place in January, centred on the feast of the Sto. Niño (Holy Child) but incorporating pre-colonial and Islamic elements in a way that is unique to Butuan and the CARAGA region. The street parades mix Christian, indigenous Manobo, and historically Islamic cultural elements — a reflection of Butuan's position as a crossroads city.

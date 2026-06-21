@@ -6,6 +6,7 @@ tags:
 - beaches
 title: Costa da Caparica
 type: poi
+score: 6.7
 ---
 
 The closest proper beach town to Lisbon, stretching along a wide Atlantic coastline just south of the Tagus. In summer a small narrow-gauge train runs along the coast, stopping at numbered beach bars (praia 1, praia 2, and so on) — the further south you go, the quieter and more unspoilt the beaches become.

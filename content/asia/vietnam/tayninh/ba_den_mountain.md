@@ -12,6 +12,7 @@ story: >
   warlord, fled into the forest, and disappeared. She was later believed to
   have ascended to become a deity; her shrine on the mountain draws pilgrims
   who come to pray for luck in love and marriage.
+score: 8.5
 ---
 
 At 986 metres, Bà Đen is the highest peak in southern Vietnam — not tall by international standards, but dramatically prominent on the otherwise flat Mekong Delta plain. The mountain is visible from Tay Ninh town and from most of the surrounding countryside. A cable car runs to the summit area, where a complex of Buddhist and Cao Dai pagodas clusters around a cave shrine to the Black Lady. On weekends and festivals the mountain draws large numbers of Vietnamese pilgrims.

@@ -8,6 +8,7 @@ latitude: 52.9151
 longitude: -1.4792
 sources:
   - https://en.wikipedia.org/wiki/Royal_Crown_Derby
+score: 7.8
 ---
 
 Royal Crown Derby has been producing hand-painted bone china in the city since 1748, making it one of the oldest continuously operating English potteries. The visitor centre on Osmaston Road allows you to watch the production process at close quarters — painters applying the intricate Imari-pattern designs and gilders adding the gold leaf that distinguishes Crown Derby from cheaper imitators.

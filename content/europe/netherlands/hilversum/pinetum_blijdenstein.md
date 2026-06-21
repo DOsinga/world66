@@ -8,6 +8,7 @@ tags:
   - sight
   - garden
 story: "The pinetum holds the world's most complete collection of gymnosperms — over 2,000 conifer specimens including monkey puzzles from Patagonia and ancient cycads from the Eastern Cape. It was a private collector's project taken over by Utrecht University in 1957."
+score: 7.4
 ---
 
 Tucked into a residential corner of Hilversum south-east of the station, the Pinetum Blijdenstein is one of those quiet specialist gardens that should be far better known. Three hectares of dark green needles, weeping conifers, redwoods, and curious living fossils, all carefully labelled.

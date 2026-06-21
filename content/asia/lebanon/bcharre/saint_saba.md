@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.2510
 longitude: 36.0100
+score: 5.5
 ---
 
 The parish church of Bcharre stands on the main square in the centre of town. It is unremarkable from outside — a solid stone building with a single bell tower — but inside it has a heavy carved iconostasis and a quiet, soot-darkened atmosphere that is worth a few minutes if you are passing.

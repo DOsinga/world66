@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 27.7922
 longitude: -114.2278
+score: 8.2
 ---
 
 El Vizcaíno Biosphere Reserve is one of the largest protected areas in Latin America, covering more than 2.5 million hectares of the central Baja California peninsula. It encompasses desert, coastal lagoons, islands, and offshore waters, and was declared a UNESCO World Heritage Site in 1993 in recognition of its importance as a breeding ground for gray whales, loggerhead sea turtles, and elephant seals, as well as habitat for ospreys, peregrine falcons, and enormous concentrations of migratory shorebirds.

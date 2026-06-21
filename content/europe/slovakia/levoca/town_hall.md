@@ -10,6 +10,7 @@ latitude: 49.0254
 longitude: 20.5887
 snippet: "Renaissance town hall in the middle of the main square, now a museum"
 story: "The arcaded loggia on the ground floor was where the burghers conducted their official business in public — partly so everyone could see that business was conducted fairly, partly because the council had no other place big enough to fit them."
+score: 7.8
 ---
 
 The town hall stands free in the centre of Námestie Majstra Pavla, an arcaded Renaissance building from the 16th century with a slim clock tower on top. The original burned down in the 16th century and the present version was rebuilt in 1551 with the help of stonemasons from Lombardy, which explains its very Italianate look.

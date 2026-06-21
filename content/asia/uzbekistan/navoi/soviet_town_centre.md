@@ -11,6 +11,7 @@ story: >
   Navoi was one of the few Soviet cities in Uzbekistan administered directly from Moscow rather than Tashkent. This meant it received goods — consumer products, foodstuffs, appliances — that were unavailable anywhere else in Central Asia. Long after independence, older residents remember it as a place of peculiar privilege in the middle of the steppe.
 sources:
   - https://en.wikipedia.org/wiki/Navoiy
+score: 6.8
 ---
 
 Navoi's town centre is a textbook Soviet urban plan dropped into the Uzbek desert. Wide boulevards lined with plane trees, rectangular apartment blocks in pale stucco, a central park with geometric paths and a concrete fountain: the aesthetic is pure 1960s Soviet modernism, and it has been preserved better here than in many cities that have since torn it down or covered it with glass towers.

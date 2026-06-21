@@ -7,6 +7,7 @@ tags:
 - museum
 title: McWane Science Center
 type: poi
+score: 6.9
 ---
 
 A hands-on science museum in a renovated downtown department store building, with an IMAX dome theater and a substantial freshwater aquarium featuring fish from Alabama's rivers and streams. Alabama has more freshwater fish species than any other state of comparable size, and the aquarium makes the case for why that biodiversity matters.

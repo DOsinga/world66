@@ -16,6 +16,7 @@ story: >
   beautiful despite everything.
 sources:
   - https://en.wikipedia.org/wiki/Nissi_Beach
+score: 8.9
 ---
 
 Nissi Beach is the most famous and most photographed beach in Ayia Napa and one of the most popular in the entire Mediterranean. The combination of powder-white sand and shallow turquoise water is genuinely exceptional — the kind of beach that looks too good to be real. It is connected to a small rocky islet by a narrow sandbar, which makes it recognisable in aerial photos. The beach holds EU Blue Flag status and the water quality is reliably excellent.

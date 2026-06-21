@@ -9,6 +9,7 @@ longitude: -69.925328
 story: "The Bellapart collection was assembled by a Spanish immigrant family over several decades, with the specific aim of documenting Dominican art as a serious tradition rather than folk craft. Its holdings cover the entire 20th century and include work by Jaime Colson, Celeste Woss y Gil, Yoryi Morel, and others who are little known outside the island but essential to understanding Dominican culture."
 sources:
   - https://en.wikipedia.org/wiki/Museo_Bellapart
+score: 7.4
 ---
 
 The Museo Bellapart is a small, free private art museum on the fifth floor of a Honda dealership building in the Ensanche Naco neighbourhood — an unpromising setting for one of the best collections of Dominican art in the country. The museum holds over 900 works by Dominican artists from the 19th and 20th centuries, well curated and intelligently labelled.

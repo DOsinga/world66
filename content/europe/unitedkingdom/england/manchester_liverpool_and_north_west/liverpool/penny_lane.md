@@ -10,6 +10,7 @@ tags:
 - beatles
 title: Penny Lane
 type: poi
+score: 7.1
 ---
 
 A real street in the suburb of Mossley Hill, immortalised in the 1967 Beatles single. The lane itself is unremarkable — a short residential road — but the surrounding roundabout area (the "shelter in the middle of the roundabout") is the spot most people come to see. The barber shop, the bank and the fire station referenced in the lyrics are all genuine local landmarks.

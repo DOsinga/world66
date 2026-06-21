@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 title: La Guagua Bar
 type: poi
+score: 5.4
 ---
 
 A small, late-opening bar in the Huelin neighbourhood west of the centre, popular with a mixed local crowd. Fair prices, simple tapas, and a relaxed atmosphere away from the tourist circuit.

@@ -6,6 +6,7 @@ longitude: 72.7980
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 Like every former Soviet city, Osh has a central park with chestnut trees, benches, an outdoor stage and a clutch of decommissioned funfair rides. It runs along the eastern bank of the Ak-Buura between Sulaiman-Too and the main square.

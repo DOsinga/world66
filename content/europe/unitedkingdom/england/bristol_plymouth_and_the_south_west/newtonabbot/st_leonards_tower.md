@@ -8,6 +8,7 @@ tags:
 latitude: 50.5294
 longitude: -3.6126
 story: "In November 1688 the Dutch William of Orange landed at Brixham and marched inland — a herald read out his Declaration of Reasons from these very steps in Newton Abbot, the first English town to publicly proclaim the new king. The Glorious Revolution arguably began here."
+score: 6.0
 ---
 
 A square red sandstone tower standing alone in the middle of the town square, all that survives of a medieval chapel. The chapel itself was demolished in 1836; the tower was kept because it was already a landmark and a clock had been added to it. It is small but disproportionately important — this is the spot where William of Orange's proclamation was first read in 1688.

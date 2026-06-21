@@ -6,6 +6,7 @@ longitude: 2.1900
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 The small working harbour at the northern edge of town. Fishing boats come and go through the morning, and the waterfront is a pleasant place to sit after a morning in the museum. A few informal fish restaurants operate nearby, serving the day's catch simply grilled or fried.

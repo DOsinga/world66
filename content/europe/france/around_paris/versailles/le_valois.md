@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 48.8014
 longitude: 2.1355
+score: 6.1
 ---
 
 Le Valois is a traditional French brasserie on the Place du Marché Notre-Dame, with tables on the square itself when the weather allows. It is unpretentious and reliable — steak frites, moules marinières, duck confit, a decent wine list led by glass carafes of house Burgundy.

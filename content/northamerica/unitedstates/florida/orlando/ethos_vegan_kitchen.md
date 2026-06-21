@@ -10,6 +10,7 @@ tags:
 title: Ethos Vegan Kitchen
 type: poi
 url: https://www.ethosvegankitchen.com
+score: 6.4
 ---
 
 A long-running vegan restaurant in Winter Park that pulls in non-vegans as readily as committed plant eaters. The menu covers burgers, burritos, pasta, and brunch dishes — straightforward comfort food done well. The Mac Daddy (mac and cheese with smoked tempeh bacon) is the menu centrepiece; the Weekend Warrior brunch puts serious pressure on the surrounding competition. Expect a wait at weekend brunch; the room is small and the following is loyal.

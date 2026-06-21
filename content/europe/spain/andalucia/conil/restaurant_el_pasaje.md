@@ -9,6 +9,7 @@ latitude: 36.2748
 longitude: -6.0870
 sources:
   - https://en.wikipedia.org/wiki/Conil_de_la_Frontera
+score: 7.2
 ---
 
 El Pasaje is a well-regarded restaurant in the old town, tucked into one of the narrow lanes near the Arco de la Villa. The focus is on tuna — specifically atún de almadraba during the season — and the kitchen treats it with more care than the average Conil fish restaurant. Cuts that elsewhere get fried whole are here prepared in ways that show the different character of different parts of the fish: the belly (ventresca), the cheek (carrillera), the head-end cuts that are less familiar but highly prized locally.

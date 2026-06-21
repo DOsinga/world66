@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 26.3167
 longitude: -77.0500
+score: 6.5
 ---
 
 Pete's Pub at Little Harbour is one of those places that shouldn't exist — an open-air beach bar at the end of a remote dirt road on a cay that barely shows up on maps — and yet it's been there for decades and will likely outlast most things that take themselves more seriously. Pete Johnston runs it from the family compound that his father Randolph started in the 1950s when he sailed here and decided not to leave.

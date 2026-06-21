@@ -8,6 +8,7 @@ tags:
 latitude: 23.0539
 longitude: 72.5936
 snippet: "Le Corbusier private villa, Shahibaug"
+score: 6.1
 ---
 
 Le Corbusier designed the Villa Sarabhai in 1951 for Manorama Sarabhai, widowed sister-in-law of the founder of the Calico Mills. It is one of his three Ahmedabad commissions, the others being the Sanskar Kendra and the **Mill Owners' Association** building on the river. The villa is a long, low, vault-roofed house of brick and concrete, with cool dim interiors and an enormous indoor-outdoor garden — exactly suited to the climate.

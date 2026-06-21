@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Puerto Plata's seafront boulevard, running from the port to Fort San Felipe
+score: 6.5
 ---
 
 The Malecón is the long seafront promenade that runs along Puerto Plata's north shore, connecting the port area in the west to the approach to Fort San Felipe at the far end. It is the city's main social artery in the evenings: people walk it, vendors sell food and drinks from carts and small kiosks, and the open-air bars along the strip fill steadily from sundown. During the day it is quieter, useful mainly as a way to reach the fort on foot with sea air alongside.

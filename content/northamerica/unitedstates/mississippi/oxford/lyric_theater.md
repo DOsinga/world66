@@ -6,6 +6,7 @@ longitude: -89.5201
 tags:
   - things_to_do
   - theatre
+score: 7.1
 ---
 
 The Lyric is the music venue on Van Buren Avenue, a block off the Square, in a building that began life as a livery stable in the early 1900s before becoming Oxford's first movie theatre in the 1920s. It hosted the world premiere of MGM's *Intruder in the Dust* — adapted from Faulkner's novel and shot largely in and around Oxford — in 1949, with Faulkner himself in attendance.

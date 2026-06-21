@@ -9,6 +9,7 @@ tags:
 title: Penn Center
 type: poi
 story: "Martin Luther King Jr. used Penn Center as a quiet retreat during the 1960s, holding strategy sessions in the wooden cottages here for the Poor People's Campaign and the SCLC. The room he used is still preserved as he left it."
+score: 8.9
 ---
 
 Penn Center sits on St. Helena Island, about ten miles east of downtown Beaufort, and is among the most historically important Black cultural sites in the South. Penn School was founded in 1862 — during the Civil War, on land taken from a fled planter — to teach formerly enslaved Sea Island Gullah people. It ran as a school for nearly a century before becoming a Gullah heritage and conference centre.

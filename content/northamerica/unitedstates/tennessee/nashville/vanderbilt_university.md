@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - landmark
+score: 7.1
 ---
 
 Vanderbilt University, founded in 1873 by Commodore Cornelius Vanderbilt, occupies a 330-acre wooded campus immediately west of downtown — a national arboretum in its own right, with more than 300 species of mature trees scattered through the quads. The original campus buildings around Library Lawn are Collegiate Gothic in style; later additions include the modernist **Sarratt Student Center** and the strong **Vanderbilt University Fine Arts Gallery**.

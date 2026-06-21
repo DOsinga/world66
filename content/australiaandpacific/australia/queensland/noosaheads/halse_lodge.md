@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.2
 ---
 
 Halse Lodge is a heritage-listed timber boarding house at 17 Noosa Drive, built around 1880 and one of the very few surviving examples of nineteenth-century Queensland Sunshine Coast accommodation architecture. Set among palms on a slope between Hastings Street and the national park, it is still in operation as a backpackers' hostel.

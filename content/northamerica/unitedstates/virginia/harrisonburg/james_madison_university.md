@@ -6,6 +6,7 @@ tags:
 - sight
 title: James Madison University
 type: poi
+score: 6.9
 ---
 
 James Madison University was founded in 1908 as a women's normal school and today enrolls around 22,000 students, making it the dominant institution and largest employer in Harrisonburg. The original campus — known as the Bluestone district — is built from locally quarried bluestone limestone, giving it a distinctive blue-grey appearance unusual among American university campuses.

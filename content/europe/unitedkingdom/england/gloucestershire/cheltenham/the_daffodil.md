@@ -10,6 +10,7 @@ neighbourhood: Montpellier
 address: "18-20 Suffolk Parade, Cheltenham GL50 2AE"
 latitude: 51.8943
 longitude: -2.0819
+score: 6.6
 ---
 
 A 1920s Art Deco cinema converted into a restaurant, with the original auditorium layout preserved — the dining floor slopes gently down toward what was the screen, now the kitchen, which you can watch through a glass wall. The space is one of the best-looking restaurant rooms in the Cotswolds, and the food matches the setting reasonably well.

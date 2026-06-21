@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 40.6335
 longitude: 15.2301
+score: 6.1
 ---
 
 The Tanagro River (also called the Negro) flows through the Sele valley below Contursi, and the riverside paths and fields here make for easy, pleasant walking in a landscape of poplars, reed beds, and cultivated terraces. The valley bottom is noticeably flat and green — a result of the river's gentle gradient and the rich alluvial soil — and the contrast with the dry limestone hills above is striking.

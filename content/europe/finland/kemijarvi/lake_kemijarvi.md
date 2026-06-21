@@ -10,6 +10,7 @@ story: >
   Lake Kemijärvi is fed by the Kemijoki river, the longest river in Finland. The Kemijoki was central to the region's timber industry — logs were floated downriver to the coast for over a century, a practice that only ended in the 1990s when environmental concerns and road haulage made log driving obsolete.
 sources:
   - https://en.wikipedia.org/wiki/Kemij%C3%A4rvi_(lake)
+score: 7.3
 ---
 
 Lake Kemijärvi is the centrepiece of the town and the reason most visitors come. The lake is large and beautiful in the way all Finnish lakes are — still water, forested shores, sky that goes on forever. In summer the midnight sun reflects off the water well past midnight; in winter the lake freezes solid and locals cross it by snowmobile.

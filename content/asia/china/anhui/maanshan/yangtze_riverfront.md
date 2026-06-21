@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.6700
 longitude: 118.4900
+score: 4.4
 ---
 
 The Ma'anshan Yangtze riverfront promenade runs for several kilometers along the western edge of the city, providing continuous access to the river and views across to the Jiangsu shore. In the evening, illuminated pedestrian walkways and outdoor exercise areas make it the most animated public space in the city; the river itself carries a constant traffic of container ships, barges, and ferries that is mesmerizing to watch from the embankment.

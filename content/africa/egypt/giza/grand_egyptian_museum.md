@@ -16,6 +16,7 @@ story: >
   moved to a museum.
 sources:
   - https://en.wikipedia.org/wiki/Grand_Egyptian_Museum
+score: 9.2
 ---
 
 The largest archaeological museum in the world, built specifically to house Egypt's ancient collection, which was previously split between the old Egyptian Museum in Tahrir Square and storerooms and sites around the country. At 480,000 square metres the building is designed to hold over 100,000 artefacts — far more than any single visit can cover. The centrepiece is the complete treasure of Tutankhamun, finally shown together in one place after the artefacts were scattered across multiple buildings for a century.

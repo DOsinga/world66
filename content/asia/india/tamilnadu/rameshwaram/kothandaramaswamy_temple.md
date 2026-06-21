@@ -7,6 +7,7 @@ tags:
 title: Kothandaramaswamy Temple
 type: poi
 story: "When the 1964 cyclone destroyed Dhanushkodi, it flattened every building in the town. The Kothandaramaswamy Temple, which stands at the water's edge on the road to Dhanushkodi, was the only structure to survive intact. The sea rose around it and receded, and the temple stood. Locals attribute this to divine protection; the structure is now considered doubly sacred as a result, and the story of its survival is repeated at every telling."
+score: 7.5
 ---
 
 Kothandaramaswamy Temple stands at the southern edge of Pamban Island, roughly 13 kilometres from Rameshwaram on the road to Dhanushkodi. The temple is dedicated to Rama and is believed to mark the spot where Vibhishana, brother of the demon king Ravana, surrendered to Rama and was crowned king of Lanka. The site carries considerable importance in the Ramayana narrative.

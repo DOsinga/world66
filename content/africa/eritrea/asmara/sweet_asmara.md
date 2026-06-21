@@ -6,6 +6,7 @@ longitude: 38.9352
 tags:
   - bars_and_cafes
   - cafe
+score: 6.9
 ---
 
 The Sweet Asmara is the city's pastry-and-coffee favourite, a small shop on Harnet Avenue with a sweets counter at the front and an espresso bar at the back. The shop has been here since 1958 and is sometimes called the city's pasticceria. Cakes, biscuits, and tortes are made daily and are excellent value.

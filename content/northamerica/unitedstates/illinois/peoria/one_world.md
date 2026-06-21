@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, bar]
 latitude: 40.6990
 longitude: -89.5910
+score: 6.4
 ---
 
 One World Coffee and Goods operates out of a converted warehouse space in Peoria, and the building suits the business well: high ceilings, industrial details, plenty of natural light, and the slightly rough-edged character that comes from a space repurposed rather than built from scratch. It is the kind of coffee shop that a city of Peoria's size needs — independent, comfortable, with good espresso and a genuine atmosphere rather than a franchise formula.

@@ -1,26 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-04'
 latitude: 32.482001
+loc_type: city
 longitude: 72.911052
+score: 0.24
 title: Bhera
 type: location
-score: 0.24
-loc_type: city
 ---
 
-Bhera is historical town of Punjab in district Sargodha. Bhera is
-located on the mid of Lahore-Islamabad Motorway (M2) at the left bank
-of river Jehlum near Southern Salt Range in District Sargodha. Before
-independence 1947, it was located in District Shahpur. Same as Lahore
-it has eight gates, which surrounds the whole city. Many historical
-places in which Sher Shah Suri mosque and khoti Al jameel are most
-famous. The mosque was made by Sher Shah Suri the founder of
-general trank road (GT Road) and khoti Al Jameel is also known as khoti
-Babu Usman which has a beautiful rear garden and
-great interior designing.Bhera city is the same design as
-inner Lahore city. Alexander the great passed near to Bhera.
+Bhera is one of the oldest continuously inhabited towns in Pakistan's Punjab, sitting on the left bank of the Jhelum River near the southern Salt Range, roughly midway along the Lahore-Islamabad motorway. It claims more than 5,000 years of history and was known in ancient times as Vihara — the same root that gives us the state of Bihar in India — a name suggesting it was once a major Buddhist centre. Alexander the Great is said to have passed near here during his Indian campaign in 326 BCE.
 
-Bhera's speciality in foods are phenia (fine vermicelli in milk),
-patisa (sweets), wariya (dried lentil dumplings with mixed spices), and
-mendhi (henna).
+The town's walled old city follows the same basic layout as inner Lahore, with eight historic gates framing a dense tangle of alleys. The [Sher Shah Suri Mosque](/asia/pakistan/bhera/sher_shah_suri_mosque) is the most celebrated monument, built by the Afghan emperor who also founded the Grand Trunk Road that still runs past the town. The [Haveli Al-Jameel](/asia/pakistan/bhera/haveli_al_jameel) — also known as Khoti Babu Usman — is a fine example of traditional Punjabi mansion architecture with a rear garden and intricate carved interiors.
+
+Bhera is known across Punjab for its traditional foods: phenia (fine vermicelli cooked in milk), patisa (a crumbly sweet made from chickpea flour and sugar), and wariya (small dried lentil dumplings spiced with cumin and coriander). It is a working town rather than a tourist destination, but the old city has a genuine historical texture that rewards the curious traveller who stops on the way between Lahore and Islamabad.

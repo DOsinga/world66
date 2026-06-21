@@ -9,6 +9,7 @@ tags:
   - bar
 neighbourhood: Ville Haute
 address: 22 Montée du Grund
+score: 6.2
 ---
 
 A scruffy, atmospheric piano bar on the way down from the old town to the Grund. The walls are crammed with old posters, instruments, and ephemera; the piano in the corner is in regular use for impromptu sing-alongs that can go on until 3am.

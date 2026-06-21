@@ -7,6 +7,7 @@ tags:
 - museum
 title: Aquarium des Lagons
 type: poi
+score: 8.3
 ---
 
 The aquarium on the Anse Vata waterfront is one of the best introductions to New Caledonia's marine world before you go snorkelling or diving. Tanks hold nautiluses (which are essentially living fossils, unchanged for 500 million years), sea snakes, reef sharks, rays, turtles, and dozens of species of brilliantly coloured reef fish found in the lagoon outside.

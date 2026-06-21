@@ -13,6 +13,7 @@ story: >
   the rising sun aligns precisely with the notch, marking the turning points of the
   year. A Polynesian king, more than seven centuries dead, had built a calendar
   into his gateway stone.
+score: 9.0
 ---
 
 The Ha'amonga 'a Maui — "Burden of the God Maui" — is a massive coral trilithon standing on the eastern tip of Tongatapu, 32 km from Nuku'alofa. Two upright pillars of coral limestone, each roughly five metres tall, support a single lintel stone weighing more than 8,900 kilograms. It was built around 1200 AD by the 11th Tu'i Tonga, Taufa'ahau, and is thought to have marked the entrance to the royal compound known as To Tele. No other structure like it exists in Polynesia.

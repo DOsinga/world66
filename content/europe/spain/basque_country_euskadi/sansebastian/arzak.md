@@ -7,6 +7,7 @@ tags:
   - parte_vieja
 latitude: 43.3211
 longitude: -1.9492
+score: 8.4
 ---
 
 Arzak is the founding restaurant of modern Basque cuisine and, by many accounts, the most important restaurant in Spain for the past forty years. Juan Mari Arzak opened his kitchen in the 1970s and together with Pedro Subijana created what became known as Nueva Cocina Vasca — a movement that applied French nouvelle cuisine principles to Basque ingredients and traditions. His daughter Elena now runs the kitchen alongside him.

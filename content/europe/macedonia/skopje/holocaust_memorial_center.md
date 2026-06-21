@@ -12,6 +12,7 @@ story: >
   had lived in Skopje since Roman times; it was destroyed in three weeks.
 sources:
   - https://en.wikipedia.org/wiki/Holocaust_Memorial_Center_for_the_Jews_of_Macedonia
+score: 7.3
 ---
 
 The Holocaust Memorial Center for the Jews of Macedonia opened in 2011 on the banks of the Vardar River, near the old Jewish quarter of Skopje. It commemorates the 7,148 Jews from Macedonia and Thrace who were deported to Treblinka in March 1943 and documents the history of Jewish life in Macedonia from antiquity to the present.

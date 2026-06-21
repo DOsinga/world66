@@ -10,6 +10,7 @@ latitude: 8.1442
 longitude: -63.5505
 snippet: Site of the 1819 congress that founded Gran Colombia
 story: "In February 1819 Simón Bolívar opened the Congress of Angostura here with one of the great speeches of South American history, in which he set out the constitutional vision for the new republic and the case for uniting Venezuela, New Granada, and Quito into a single state — the union became Gran Colombia by the end of the year."
+score: 8.2
 ---
 
 The yellow two-storey colonial building on the Plaza Bolívar housed the Congress of Angostura, which in February 1819 declared Simón Bolívar president of the newly proclaimed Republic of Gran Colombia. The decision to unite present-day Venezuela, Colombia, Panama, and Ecuador under a single government was taken here; the building has been preserved as a national museum since the centenary celebrations in 1919.

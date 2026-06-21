@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.0975
 longitude: 91.8064
+score: 6.8
 ---
 
 In the wooded hills on the southern fringe of the city, the Basistha (Vashishtha) Ashram is a Shiva temple complex by a confluence of three small streams — Sandhya, Lalita and Kanta — that drop in a series of low falls just below the temple. Mythology attaches the site to the sage Vasishtha, who is said to have meditated here. The complex itself dates from the 18th century, an Ahom-period rebuilding.

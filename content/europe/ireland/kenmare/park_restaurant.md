@@ -7,6 +7,7 @@ tags:
 - restaurant
 latitude: 51.8827
 longitude: -9.5831
+score: 6.3
 ---
 
 The Park Hotel has stood at the top of the town since 1897, when it opened as a railway hotel for the Great Southern. The dining room — high ceilings, big windows over the gardens to the bay — is the most formal in Kenmare and consistently the most accomplished. Expect modern Irish cooking that leans heavily on local seafood, beef, and lamb.

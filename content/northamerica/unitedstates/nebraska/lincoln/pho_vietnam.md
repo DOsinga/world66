@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.8125
 longitude: -96.7015
+score: 6.5
 ---
 
 Lincoln has a notable Vietnamese community — the legacy of refugee resettlement programs in the 1970s and 1980s that brought several thousand Vietnamese families to Nebraska — and the city's Vietnamese restaurants reflect genuine community cooking rather than Americanized approximations. Pho Vietnam is among the most reliable: a no-frills room on O Street where the pho broth is made properly, starting from bones simmered overnight, and the portions are generous.

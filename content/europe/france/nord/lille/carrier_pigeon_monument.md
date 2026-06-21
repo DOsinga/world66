@@ -7,6 +7,7 @@ tags:
 latitude: 50.634
 longitude: 3.069
 snippet: A quiet memorial to the thousands of Allied pigeons killed in service during the First World War
+score: 4.7
 ---
 
 This small bronze monument, located in a garden near the city centre, honours the carrier pigeons that served Allied forces during the First World War — an easily overlooked memorial to a category of war dead that rarely features in official commemorations. Pigeons were essential to military communication before reliable radio: they carried messages across front lines under shellfire and poison gas, and the mortality rate among messenger pigeons on the Western Front was significant.

@@ -8,6 +8,7 @@ tags:
   - bar
   - old_san_juan
 neighbourhood: Old San Juan
+score: 6.6
 ---
 
 A craft-beer bar on Calle San Sebastián with around 50 rotating taps — heavy on Puerto Rican and Caribbean microbreweries with a strong supporting list of US and Belgian beer. The space is a long narrow former townhouse with the bar running its length; the front opens to the street.

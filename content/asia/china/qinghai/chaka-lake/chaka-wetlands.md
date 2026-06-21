@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 36.7400
 longitude: 99.1200
+score: 6.8
 ---
 
 The edges of Chaka Lake grade into wet saline meadows and reed beds that attract significant bird populations, particularly during the spring and autumn migration periods. Bar-headed geese — famous for crossing the Himalayas — nest in the area, and large flocks of black-necked cranes use the wetlands as staging habitat. Ruddy shelducks and several species of waders are common in summer.

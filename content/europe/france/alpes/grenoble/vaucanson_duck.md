@@ -10,6 +10,7 @@ tags:
 - sight
 story: >
   Jacques de Vaucanson, born in Grenoble in 1709, created what he claimed was a mechanical duck that could eat grain, digest it internally, and excrete the result. Voltaire called him a "new Prometheus." The original duck, exhibited across Europe in the 1740s, was eventually lost — but it inspired centuries of fascination with automata and artificial life, and is considered a precursor to the concept of the robot. A functioning reconstruction based on Vaucanson's original specifications can be seen in Grenoble today.
+score: 6.1
 ---
 
 Jacques de Vaucanson was one of the great engineers of the Enlightenment, and Grenoble takes quiet pride in him. Born here in 1709, he went on to create the most celebrated automata of the 18th century: a flute player, a tabor player, and above all the famous Duck — a gilded mechanical bird with over 400 moving parts that, according to its creator, could eat grain, move it through an artificial digestive system, and void it the other end.

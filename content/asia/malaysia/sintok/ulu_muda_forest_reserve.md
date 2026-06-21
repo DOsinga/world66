@@ -13,6 +13,7 @@ story: >
   Despite being one of the largest primary rainforest tracts remaining in Peninsular
   Malaysia, it receives virtually no visitors and has no permanent tourist infrastructure.
   Its obscurity is its best protection.
+score: 9.0
 ---
 
 The Ulu Muda Forest Reserve is one of the most significant and least visited wilderness areas in Peninsular Malaysia — a vast tract of lowland dipterocarp rainforest that sees a fraction of the visitors who go to Taman Negara or Belum. The forest is home to all five of Peninsular Malaysia's flagship mammals: Asian elephant, Malayan tiger, Sumatran rhinoceros (critically endangered and rarely seen), sun bear, and gaur. Birdlife is outstanding.

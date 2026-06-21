@@ -13,6 +13,7 @@ story: >
   Ottoman period, Avanos was officially registered as a pottery centre and
   required to supply the imperial court. Today around three hundred workshops
   operate in and around the town.
+score: 8.6
 ---
 
 The pottery workshops along the main street and in the lanes behind it are the reason Avanos exists as a tourist destination. The clay is distinctive — heavy, dark red from the iron oxide that colours the Kizilirmak River — and the Chez Galip workshop, one of the oldest and best-known, has a display cave lined with tens of thousands of locks of women's hair, each tagged with an address card, collected by the owner over decades. It is a strange and memorable thing to see.

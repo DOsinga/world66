@@ -9,6 +9,7 @@ longitude: 105.3400
 sources:
   - https://vovworld.vn/en-US/culture/muong-ethnic-group-cultural-space-museum-in-hoa-binh-94123.vov
   - https://en.vietnamplus.vn/muong-ethnic-culture-museum-inaugurated-in-hoa-binh-post74237.vnp
+score: 7.6
 ---
 
 This small private museum, set on about two hectares of hillside about seven kilometres from the city centre, is the most serious attempt anyone has made to document Muong culture before it disappears. It was built by a Hanoi painter, Vu Duc Hieu, who spent years collecting artefacts from villages across Hoa Binh province and eventually constructed the museum himself. It opened in 2007.

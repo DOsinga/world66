@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 story: "The famous shrimp cocktail uses three to four whole horseradish roots per gallon of sauce, ground daily on site. A first-time eater is expected to clear their sinuses on the first bite. The restaurant has been on South Illinois Street since 1902 and the dining room ceiling still bears the original tin from that year."
+score: 7.1
 ---
 
 The 1902 institution on South Illinois Street is the most famous restaurant in Indianapolis. The shrimp cocktail with its incendiary horseradish-tomato sauce is a Hoosier rite of passage, and the steaks — dry-aged, prime — are some of the best in the Midwest. The dining room is dark wood, leather banquettes, and signed photos of celebrities and athletes.

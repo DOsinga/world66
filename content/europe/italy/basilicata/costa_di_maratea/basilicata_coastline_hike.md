@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.9933
 longitude: 15.7189
+score: 7.5
 ---
 
 The Maratea coast is laced with paths through the macchia scrubland that connect the borgo, the sea, the various coves, and the mountain above. The main spine is the path from the Porto up through the borgo to Monte San Biagio, a climb of around 600 metres through rosemary, myrtle, and cistus. The views as you gain height open progressively along the coast in both directions.

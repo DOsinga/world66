@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.6
 ---
 
 The National Institute of Technology Rourkela is one of India's premier engineering schools, sitting on a sprawling green campus on the eastern side of the city. The original Regional Engineering College was founded in 1961 to feed the steel plant with engineers, and the modern buildings are mixed with a few mid-century brick ones that capture the optimism of the early Nehruvian years.

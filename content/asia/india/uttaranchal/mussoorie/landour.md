@@ -7,6 +7,7 @@ tags:
 latitude: 30.47
 longitude: 78.1
 snippet: The quieter cantonment area above Mussoorie, home to old churches and Ruskin Bond
+score: 8.9
 ---
 
 Landour sits above Mussoorie proper, reached by a steep walk or a shared vehicle from the main town. The cantonment is quieter and more atmospheric than the crowded bazaars below — old British-era buildings, stone churches, heritage schools like Woodstock and St George's, and the narrow Landour Bazaar with its Nepali and Tibetan character.

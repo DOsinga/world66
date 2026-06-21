@@ -11,6 +11,7 @@ story: >
   before printed catalogues, chaining books to their lecterns ensured that readers
   could always find them. Only about a dozen chained libraries survive in Europe,
   and the Librije is one of the most complete.
+score: 8.9
 ---
 
 One of the last remaining chained libraries in the world, housed in a chapter room of the Walburgiskerk. The Librije dates from 1564 and has been in continuous use since — the original oak lecterns, the iron chains, and many of the books are exactly where they were placed over 450 years ago. The room is small, quiet, and extraordinarily atmospheric.

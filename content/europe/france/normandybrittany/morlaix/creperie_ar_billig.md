@@ -7,6 +7,7 @@ tags:
   - breton
 latitude: 48.5783
 longitude: -3.8260
+score: 5.4
 ---
 
 Ar Billig (Breton for "the pan") is one of Morlaix's most reliably good crêperies, tucked in the old town a short walk from the viaduct. The galettes (buckwheat savoury crêpes) are made with local flour and filled with Breton staples — andouille sausage, Breton ham, Pont-l'Évêque cheese, and eggs from local farms. The dessert crêpes with salted caramel, another Breton specialty, are excellent.

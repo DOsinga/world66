@@ -8,6 +8,7 @@ tags:
   - seafood
 latitude: 37.1228
 longitude: 25.2400
+score: 5.5
 ---
 
 The harbour front in Naoussa is lined with restaurants, and the best strategy is to walk the full length before sitting down — the kitchens vary more than the setting suggests. Look for tables where locals are eating alongside tourists, which in Naoussa is still possible. The fish is almost always fresh; the octopus hung drying on lines outside the kitchen is the traditional indicator of a serious fish taverna.

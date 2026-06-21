@@ -12,6 +12,7 @@ story: >
   Comoros declared independence in 1974, Mayotte chose to remain French — a political quirk that has kept
   the island's lagoon far less developed than comparable sites in the region, helping preserve its
   extraordinary marine life.
+score: 9.5
 ---
 
 The Mayotte Lagoon is the centerpiece of the island — a vast enclosed sea covering more than 1,000 square kilometers, protected by a barrier reef over 160 kilometers long. The water inside is calm, clear, and astonishingly rich in marine life: sea turtles, eagle rays, dolphins, and dense reef fish in every direction.

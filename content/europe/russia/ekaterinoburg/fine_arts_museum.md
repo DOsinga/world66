@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - historic_centre
+score: 8.4
 ---
 
 Two main buildings hold a collection of Russian and European art from the 16th century onwards. The standout is the world's largest collection of Kasli cast-iron sculpture — including the celebrated Kasli Pavilion which won a Grand Prix at the 1900 Paris World's Fair.

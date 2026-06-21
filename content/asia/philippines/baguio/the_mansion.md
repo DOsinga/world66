@@ -7,6 +7,7 @@ tags:
 - sight
 title: The Mansion
 type: poi
+score: 5.8
 ---
 
 The Mansion House — locally just "the Mansion" — has been the summer residence of the Philippine president since 1908, when the colonial-era version was completed for the American governor-general. The building visible behind the long iron gates is a 1947 reconstruction (the original was destroyed in the 1945 battle for the city), Spanish-colonial-modern with white columns, a pediment, and a green tile roof.

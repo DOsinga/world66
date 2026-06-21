@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.2878
 longitude: -8.3435
+score: 6.6
 ---
 
 Azemmour is known for a distinctive style of embroidery — blue and black threadwork on white linen, producing patterns of extraordinary geometric complexity. The tradition is documented from at least the 18th century and is unique to this town; you will not find the same style in El Jadida or Casablanca. The motifs combine Islamic geometric patterns with older Berber designs and, some art historians argue, traces of the Jewish craft traditions that flourished in the mellah.

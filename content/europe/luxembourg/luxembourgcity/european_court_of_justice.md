@@ -8,6 +8,7 @@ tags:
   - kirchberg
   - sight
   - architecture
+score: 6.9
 ---
 
 The court that interprets EU law sits in a complex of golden-coloured glass towers on the Kirchberg plateau. The Dominique Perrault extension from 2008 gave the court its distinctive silhouette — two 100-metre towers reflecting the surrounding office blocks.

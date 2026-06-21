@@ -7,6 +7,7 @@ tags:
 latitude: 50.8497
 longitude: 2.8862
 snippet: Small museum in a 17th-century almshouse, covering Ypres history before WWI
+score: 7.1
 ---
 
 A short walk from the Grote Markt, the Museum Godshuis Belle occupies a restored 17th-century almshouse — a godshuis, in Dutch, being a charitable institution for the poor and elderly. The museum covers the history of Ypres from the medieval cloth trade through to the eve of the First World War, providing the pre-war context that the Flanders Fields Museum necessarily glosses over.

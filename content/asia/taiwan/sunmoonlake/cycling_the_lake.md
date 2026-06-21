@@ -4,6 +4,7 @@ longitude: 120.9088
 tags: [things_to_do, sight]
 title: Cycling the Lake
 type: poi
+score: 8.8
 ---
 
 The 33km cycling path that circles Sun Moon Lake is the best way to experience it. The route is well-maintained and mostly flat, passing through lakeside communities, viewpoints, tea plantations, and the main temples and piers. A full circuit takes about three hours at a leisurely pace, though most riders take longer to account for stops. Bike rental is available at multiple points around the lake, including at Shuishe and Ita Thao.

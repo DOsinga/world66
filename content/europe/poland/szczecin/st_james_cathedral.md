@@ -10,6 +10,7 @@ title: St. James' Cathedral
 type: poi
 story: >
   The cathedral's twin towers were finished only in the 1990s — the original medieval design had always called for them but construction stalled and the building stood incomplete for over five centuries. The towers were finally built with donations from German Pomeranians living in exile, a significant act of reconciliation given that the same population had been expelled from the city in 1945.
+score: 8.7
 ---
 
 The Cathedral Basilica of St. James the Apostle is the largest church in northwestern Poland and the most impressive building in Szczecin. A Gothic brick basilica begun in the 14th century, it dominates the skyline from across the Oder and defines the character of the old city hill.

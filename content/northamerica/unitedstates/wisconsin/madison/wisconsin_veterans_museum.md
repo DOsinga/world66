@@ -9,6 +9,7 @@ longitude: -89.3867
 snippet: "Free museum on Capitol Square telling the military history of Wisconsin from the Civil War to the present"
 sources:
   - https://en.wikipedia.org/wiki/Wisconsin_Veterans_Museum
+score: 7.2
 ---
 
 The Wisconsin Veterans Museum occupies a prominent corner of Capitol Square and is one of the better state military history museums in the Midwest — well curated, thoughtfully displayed, and free. The collection spans Wisconsin's involvement in military conflicts from the Civil War through recent deployments, with particular depth on the First and Second World Wars.

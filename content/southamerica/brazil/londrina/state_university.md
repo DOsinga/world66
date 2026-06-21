@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -23.3253
 longitude: -51.1999
+score: 6.1
 ---
 
 The Universidade Estadual de Londrina (UEL) is one of the major public universities in Paraná, with around 18,000 students on a large campus about 5km from the city centre. Founded in 1970, it has grown into a comprehensive institution covering medicine, law, engineering, sciences, and the arts.

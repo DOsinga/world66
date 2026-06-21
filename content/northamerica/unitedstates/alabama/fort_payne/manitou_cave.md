@@ -8,6 +8,7 @@ tags:
   - historic
 title: Manitou Cave
 type: poi
+score: 6.4
 ---
 
 Manitou Cave sits in the side of Lookout Mountain about two miles south of downtown Fort Payne. The cave has a long history — it was used by Cherokee people before their forced removal in the 1830s, and artefacts from that occupation have been found inside. In the late 19th century, during Fort Payne's boom period, entrepreneurs converted part of the cave into a dance hall and tourist attraction with electric lighting — an eccentric use that makes some sense given the cool, stable temperatures inside.

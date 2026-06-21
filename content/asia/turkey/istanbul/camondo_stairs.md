@@ -14,6 +14,7 @@ story: >
   Camondos were among the most powerful banking dynasties in the Ottoman Empire, financing
   government debt and playing a role analogous to the Rothschilds in Western Europe. After
   moving to Paris in the 1860s, the last of the family perished in Auschwitz.
+score: 7.1
 ---
 
 The Camondo Stairs are a double-helix Art Nouveau staircase connecting the streets of Bankalar Caddesi (Bank Street) in Karaköy to the upper Galata neighbourhood, built around 1860 by the Camondo banking family. They curve and divide in an unexpectedly elegant way for a practical piece of urban infrastructure — the design is genuinely distinctive.

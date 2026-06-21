@@ -12,6 +12,7 @@ story: >
   government intervened. Those hotels still stand, marooned in the middle of
   the protected dunes — a permanent reminder of how close the landscape came
   to being consumed.
+score: 8.9
 ---
 
 The Parque Natural de Corralejo protects a landscape of magnificent white sand dunes that stretches for nearly ten kilometres along Fuerteventura's northeast coast. The dunes, up to 30 metres high in places, are a constantly shifting sea of pale sand set against vivid blue water, and they are among the most striking natural landscapes in the Canary Islands. On a clear day you can see Lanzarote across the strait.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.8013
 longitude: 2.1301
+score: 4.8
 ---
 
 The Hôtel de Ville of Versailles — the town hall — is a mid-19th-century building set back from the Rue de la Paroisse, the main street connecting the palace to the town centre. It is not a remarkable building architecturally, but it serves as a useful landmark in understanding the layout of the town and its separation from the palace complex.

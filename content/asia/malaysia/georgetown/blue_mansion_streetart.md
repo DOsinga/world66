@@ -9,6 +9,7 @@ tags:
 - sight
 - street_art
 story: "The whole movement started with the **George Town Festival 2012** commission of Lithuanian artist Ernest Zacharevic. Eight murals later, the city had a defining tourist draw. Zacharevic himself moved on but the project continued: dozens of murals from Malaysian and international artists, plus the **'Marking Georgetown'** series of 52 steel-rod cartoons by the local Sculpture at Work studio that quote everyday histories of the streets."
+score: 8.4
 ---
 
 Georgetown's street art is the most visible tourist attraction in the old town. The painted murals — most famously by Lithuanian artist **Ernest Zacharevic** — combine real objects with painted scenes: a real bicycle bolted onto a painted shophouse wall with two painted children riding it; a real swing with a painted boy bouncing on it; a real motorcycle and a painted boy with a dinosaur.

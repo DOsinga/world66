@@ -6,6 +6,7 @@ tags:
 - day_trips
 title: Baton Rouge
 type: poi
+score: 5.7
 ---
 
 Baton Rouge is an easy day trip from New Orleans, about 80 miles northwest on I-10. The drive takes around 90 minutes each way.

@@ -6,6 +6,7 @@ longitude: 20.6014
 tags:
 - things_to_do
 - beach
+score: 7.3
 ---
 
 The most accessible of the great west-coast beaches: a 2 km strip of fine pale sand reached by a sealed road from the village of Agios Nikitas. There are several large beach bars and tavernas, plenty of sunbeds, and the water shelves gradually — making this the family-friendly counterpoint to Porto Katsiki and Egremni.

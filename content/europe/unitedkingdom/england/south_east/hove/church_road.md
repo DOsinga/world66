@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 50.8308
 longitude: -0.1714
+score: 6.1
 ---
 
 Church Road and the connecting Western Road form Hove's main commercial strip — a kilometre or so of independent shops, neighbourhood restaurants, wine bars, and cafes running parallel to and slightly inland from the seafront. The character is noticeably different from Brighton's Lanes: less vintage and quirky, more neighbourhood restaurant and independent bookshop. The area has a high concentration of what the locals call "Hove actually" establishments — places frequented by the city's substantial creative and professional community.

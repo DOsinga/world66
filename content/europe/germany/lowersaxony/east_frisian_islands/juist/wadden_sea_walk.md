@@ -9,6 +9,7 @@ tags:
   - wildlife
   - unesco
 story: "The Wadden Sea is a UNESCO World Heritage Site for its biological productivity and for the role it plays as a fuelling stop on the East Atlantic flyway. Between ten and twelve million birds pass through every year — half of all the migrating waders in the East Atlantic stop here at least once on their journey between Africa and the Arctic."
+score: 8.8
 ---
 
 The single most distinctive thing you can do on Juist is to walk on the sea floor. At low tide the Wadden Sea — the long band of intertidal mudflats between the island and the mainland — drains to expose a vast flat of grey-brown silt, criss-crossed by channels, dotted with mussel beds, and crawling with lugworms, cockles, and crabs.

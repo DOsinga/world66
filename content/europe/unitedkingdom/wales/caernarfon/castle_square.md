@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - square
+score: 6.9
 ---
 
 The main square of Caernarfon — known in Welsh as Y Maes, "the field" — opens out in front of the castle's eastern wall. A weekly market has been held here since the Middle Ages, and stalls still set up on Saturdays selling produce, bread, and local goods. The bronze statue at the centre is of David Lloyd George, the only Welshman to have become Prime Minister and the local MP for many years.

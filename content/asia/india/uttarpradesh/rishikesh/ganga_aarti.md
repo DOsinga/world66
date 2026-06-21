@@ -13,6 +13,7 @@ story: >
   killed thousands of people, the ceremony continued. A video of the ceremony
   being performed amid rising floodwaters circulated widely and became an emblem
   of the event.
+score: 8.7
 ---
 
 The Ganga Aarti at Parmarth Niketan ashram is an evening ceremony held at the ghat on the Ganges, conducted by saffron-robed priests who wave large oil lamps in synchronized patterns while chanting. The ceremony begins at sunset, lasts about 45 minutes, and draws several hundred people nightly — a mix of Hindu pilgrims, yoga students from the ashram, and tourists. Flower boats with oil lamps are floated onto the river during the ceremony.

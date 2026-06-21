@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 18.1757
 longitude: -76.4507
+score: 6.8
 ---
 
 Musgrave Market sits between Port Antonio Square and Main Square at the heart of town. It is a proper local market — fresh fruit and vegetables, spices, craft stalls, and a few small food stands — rather than a tourist bazaar. Saturday morning is the liveliest time, when farmers come in from the surrounding hills and the market fills with produce from the Blue Mountains hinterland.

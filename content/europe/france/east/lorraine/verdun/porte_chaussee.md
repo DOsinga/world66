@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - landmark
 snippet: "Medieval twin-towered gateway on the Meuse — symbol of the city"
+score: 7.0
 ---
 
 The Porte Chaussée is the surviving 14th-century gateway through the old city wall on the Meuse, a pair of round defensive towers flanking a passage that originally controlled river traffic into Verdun. The towers were built in 1380 and reinforced in the 16th century with a parapet between them.

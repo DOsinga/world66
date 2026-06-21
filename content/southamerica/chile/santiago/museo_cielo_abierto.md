@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -33.4988
 longitude: -70.6512
+score: 8.2
 ---
 
 The Museo a Cielo Abierto (Open-Air Museum) in the San Miguel commune is a remarkable collection of over 40 large-scale murals painted on the retaining walls of the Zanjón de la Aguada — a concrete drainage channel that cuts through the neighbourhood. The murals cover the full spectrum of Chilean contemporary art, from abstract pieces to politically charged figurative work, and are considered the largest street art collective in Chile.

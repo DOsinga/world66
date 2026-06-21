@@ -13,6 +13,7 @@ story: >
   painted just 25 kilometres from here, in Saint-Rémy-de-Provence. On a
   bright Provencal afternoon the tower does seem to shimmer and shift like
   a painted sky.
+score: 7.6
 ---
 
 The LUMA Tower is the most dramatic piece of contemporary architecture in Arles — a 56-metre Frank Gehry building that emerges from the old railway yards on the southern edge of the city centre. Its exterior of 11,000 angled reflective steel panels catches light differently at every hour, shifting from silver to gold to near-white depending on the sky.

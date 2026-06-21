@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Elephantine
 story: >
   The island takes its name from the elephant-tusk-shaped rocks at its southern tip, which were also the site of ancient Egypt's most precise measurement of the Nile flood. A Nilometer here recorded water levels going back thousands of years — the readings determined taxation, since a high flood meant a good harvest and the state took a larger share of the surplus.
+score: 8.9
 ---
 
 Elephantine Island sits in the middle of the Nile opposite Aswan's east bank and has been inhabited since the earliest periods of Egyptian history. It was the capital of the southernmost nome of ancient Egypt, the frontier between the Egyptian world and Nubia, and the site of temples dating back to the earliest dynastic periods.

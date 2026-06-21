@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - medieval_quarter
+score: 7.1
 ---
 
 The former episcopal palace of Montehermoso, a 16th-century building at the top of the old town, is now a cultural centre programming contemporary art, performance, and feminist scholarship. Exhibitions are usually free; the building's central courtyard and old chapel are themselves worth a visit.

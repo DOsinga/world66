@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, wildlife]
 latitude: -0.7586
 longitude: 36.3554
+score: 8.0
 ---
 
 Lake Naivasha has one of the healthiest hippo populations in Kenya — estimates put it at several hundred animals in the lake. They are most visible at dusk and dawn, when they haul out onto the banks to graze. A boat trip on the lake, arranged through any of the camps on the south shore, will bring you close to pods resting in the papyrus margins.

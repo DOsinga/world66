@@ -7,6 +7,7 @@ phone: 01352 711198
 title: Things to do
 type: poi
 url: www.northwalesbutterflies.org.uk
+score: 4.7
 ---
 
 **Eyarth Rocks Butterfly Conservation Reserve**
@@ -155,8 +156,8 @@ Butterfly Conservation Wales office; Swansea: 0870 770 6153 e-mail; wales@butter
 **Contributors**
 September 05, 2005
 
-### [Jan Miller
+### Jan Miller
 
-To find out when the next Butterfly Conservation local branch guided walk is to this or other rare butterfly sites, or to go moth-trapping in North Wales visit the events page on www.northwalesbutterflies.org.uk](/europe/unitedkingdom/wales/things_to_do/jan_miller) or e-mail info@northwalesbutterflies.org.uk to be added to our mailing list.
+To find out when the next Butterfly Conservation local branch guided walk is to this or other rare butterfly sites, or to go moth-trapping in North Wales visit the events page on www.northwalesbutterflies.org.uk or e-mail info@northwalesbutterflies.org.uk to be added to our mailing list.
 
 type: Hiking

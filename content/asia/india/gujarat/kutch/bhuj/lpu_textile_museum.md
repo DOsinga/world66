@@ -5,6 +5,7 @@ tags: [things_to_do, museum]
 latitude: 23.3500
 longitude: 69.6789
 snippet: "Modern craft museum 25 km north of Bhuj"
+score: 9.0
 ---
 
 The Living and Learning Design Centre at Ajrakhpur, a 30-minute drive north of Bhuj, is the most ambitious craft museum in Gujarat. The vast steel-and-stone complex, designed by Hindu architect Uttam Jain, houses three permanent galleries on Kutchi embroidery, weaving and dyeing, plus rotating exhibitions and working artisan studios.

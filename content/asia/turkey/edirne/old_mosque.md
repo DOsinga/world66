@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Old Mosque (Eski Cami)
 type: poi
+score: 8.4
 ---
 
 The Eski Cami — Old Mosque — is the oldest Ottoman mosque in Edirne, completed in 1414 during the reign of Mehmed I. Where the Selimiye dazzles with ambition, the Eski Cami impresses with its solidity and directness. The building follows an early Ottoman multi-domed scheme: nine equal bays covered by nine equal domes, arranged in a three-by-three grid. The exterior is austere, built from alternating courses of stone and brick in the Byzantine manner the Ottomans inherited. Two minarets flank the entrance portal.

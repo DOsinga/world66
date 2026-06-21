@@ -9,6 +9,7 @@ tags:
   - fortress
   - historic
 story: "The British army based itself inside Bala Hissar after taking Kabul in 1839. Three years later the Afghan uprising killed every member of the British garrison and almost the entire force of 16,000 soldiers and camp followers during the retreat to Jalalabad — only one man, the surgeon William Brydon, reached the safety of Jalalabad alive. The British returned in 1879 and, in retaliation, blew up large parts of the fortress."
+score: 9.6
 ---
 
 The fort that anchored Kabul from the fifth century onwards, set on a steep rocky spur overlooking the old city. The walls climb the ridge in two distinct levels — the Lower Bala Hissar wraps the southern slope, the Upper Bala Hissar sits on the crest with views over the entire valley — and large stretches of curtain wall, watchtowers, and gatehouses still stand.

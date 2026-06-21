@@ -7,6 +7,7 @@ snippet: The local fried meat-pastry tradition, served everywhere in the city
 tags:
   - eating_out
   - restaurant
+score: 6.8
 ---
 
 Çiğ börek (also spelled chebureki) was brought to Eskişehir by Crimean Tatar refugees who settled here in the 19th century. The pastry is a thin disc of dough folded around minced meat with onion and spices, then deep-fried until it bubbles and crisps. Eaten hot, with ayran and a squeeze of lemon, it is one of the great street foods of Turkey.

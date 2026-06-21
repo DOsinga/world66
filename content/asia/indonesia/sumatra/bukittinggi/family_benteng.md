@@ -6,6 +6,7 @@ longitude: 100.3690
 tags:
   - eating_out
   - restaurant
+score: 5.3
 ---
 
 A no-frills warung up by the Fort de Kock side of town, popular with travellers for cheap Western and Indonesian breakfasts, fruit pancakes the size of plates, and decent juice. The owners speak good English and are a useful source of bus and trekking information.

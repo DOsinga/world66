@@ -7,6 +7,7 @@ tags:
 snippet: "One of Europe's largest and most progressive zoos, three miles from the city centre"
 latitude: 53.2309
 longitude: -2.8872
+score: 7.8
 ---
 
 Chester Zoo is consistently ranked among the top zoos in Europe and is one of the most visited paid attractions in the United Kingdom. It covers 128 acres on the edge of the city and is home to over 35,000 animals across 500 species, including a significant number of endangered species bred in captivity.

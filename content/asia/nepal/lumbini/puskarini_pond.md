@@ -7,6 +7,7 @@ tags:
   - sacred_garden
 latitude: 27.4694
 longitude: 83.2762
+score: 7.0
 ---
 
 The square sacred pond beside the Mayadevi Temple, where tradition says Queen Mayadevi bathed before giving birth and where the infant Buddha was given his first ritual bath. The current step-walled tank is a 20th-century restoration of a much earlier feature; old brick lining survives in places.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.6990
 longitude: 7.2720
+score: 6.8
 ---
 
 The Promenade du Paillon is a long linear park running northward from Place Masséna, built above the buried course of the Paillon River. Opened in 2013 on the site of former bus stations and car parks, it has become Nice's main green spine: a kilometre of lawns, fountains, play areas, trees, and benches stretching between the city centre and the arts complex around MAMAC.

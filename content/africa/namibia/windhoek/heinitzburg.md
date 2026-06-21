@@ -8,6 +8,7 @@ tags:
 - sight
 title: Heinitzburg
 type: poi
+score: 7.3
 ---
 
 Three eccentric German castles sit on the ridges above Windhoek — Heinitzburg, Schwerinsburg, and Sanderburg — built between 1905 and 1914 by a senior colonial officer named Wilhelm Sander as private homes and follies. Heinitzburg, the most accessible of the three, sits on a hilltop just east of the centre and now operates as a small hotel and restaurant.

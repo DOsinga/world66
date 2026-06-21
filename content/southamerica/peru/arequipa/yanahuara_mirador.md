@@ -9,6 +9,7 @@ tags:
 - yanahuara
 title: Yanahuara Mirador
 type: poi
+score: 7.8
 ---
 
 A short walk or twenty-minute taxi across the Rio Chili lies the suburb of Yanahuara, with its plaza and the city's classic viewpoint. A row of arched sillar gateways frames the view east across the river to the colonial centre, with the cathedral, San Francisco, and the bell towers in the middle ground and the three volcanoes — El Misti, Chachani, and Pichu Pichu — rising behind. Each arch is carved with a quote from a different Arequipeñan poet or historical figure.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight, museum]
 latitude: 35.2964
 longitude: 10.7069
 story: The amphitheatre was never actually finished — construction was abandoned when the local governor who commissioned it, Gordian I, declared himself Emperor in 238 AD and was dead within weeks. The building that took decades to raise and fill with spectacles was then slowly dismantled by locals who used its stone for houses and mosques until the 17th century, when the practice was finally banned.
+score: 9.6
 ---
 
 The Amphitheatre of El Jem rises out of the modern town with startling abruptness — you come around a corner and there it is, an enormous oval of Roman stonework that dwarfs everything around it. It was built in the third century AD, seats 35,000, and is the third largest Roman amphitheatre ever constructed. The comparison most visitors make is with the Colosseum in Rome, and it holds up: the facade of three tiers of arches is almost intact, and the interior has survived in better condition than its more famous cousin.

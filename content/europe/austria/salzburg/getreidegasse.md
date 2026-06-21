@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - altstadt
+score: 8.7
 ---
 
 The narrow, partly arcaded medieval shopping street that runs the length of the old town is one of the great urban set pieces in central Europe. Every facade carries a wrought-iron guild sign — golden pretzels, dragons, hammers, scissors — and Mozart was born at number 9, halfway along.

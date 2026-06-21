@@ -7,6 +7,7 @@ tags:
 latitude: 37.840835
 longitude: 24.862382
 snippet: "Extensive network of old kalderimi mule paths through spring-fed valleys"
+score: 8.6
 ---
 
 Andros has one of the best hiking networks in the Cyclades — a series of old kalderimi (stone-paved mule paths) that cross the island's interior, linking villages through valleys watered by natural springs. The island is notably green compared to its neighbours; the walking is gentle enough for families but varied enough to keep serious walkers interested for several days.

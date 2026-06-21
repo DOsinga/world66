@@ -9,6 +9,7 @@ tags:
   - architecture
   - old_san_juan
 neighbourhood: Old San Juan
+score: 8.9
 ---
 
 San José is the second oldest church in the Americas — Dominican friars started it in 1532 and the vaulted ceilings are among the earliest examples of Spanish Gothic architecture surviving anywhere in the New World. Ponce de León was originally buried here before being moved to the cathedral in the nineteenth century.

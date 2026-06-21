@@ -12,6 +12,7 @@ story: >
   of miniature figures — two blacksmiths who strike the bell, a cockerel who crows — is
   original 16th-century clockwork. It is one of the oldest functioning carillon mechanisms
   in the Netherlands.
+score: 7.6
 ---
 
 The 15th-century tower that dominates the centre of Monnickendam was originally a church tower; it now houses a small museum devoted to the history of carillons and bells. The tower's own carillon dates from 1596, and every half hour a parade of small figures emerges to strike the bell — one of the few medieval automata of this kind still working in the Netherlands.

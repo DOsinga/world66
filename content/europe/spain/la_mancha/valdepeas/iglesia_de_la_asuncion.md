@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Valdepe%C3%B1as
 story: >
   Construction of the church stretched across the 15th and 16th centuries — long enough for Gothic and Renaissance ideas to collide in the same building. The tower was added last and in a different style, giving the facade a slightly improvised look that is entirely typical of Spanish parish churches built during the long, resource-constrained decades of the Reconquista's aftermath.
+score: 7.4
 ---
 
 The Iglesia de Nuestra Señora de la Asunción is the largest and oldest building in Valdepeñas, a late Gothic church that anchors the old centre near the Plaza de España. From the outside it reads as solid and plain — thick limestone walls, a single tower — but the interior is more impressive than the exterior suggests.

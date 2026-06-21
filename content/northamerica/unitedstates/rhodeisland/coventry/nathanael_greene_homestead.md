@@ -14,6 +14,7 @@ story: >
   Campaign that effectively ended British control of the Carolinas, and is credited by
   many historians with making American independence possible. He never returned to this
   house after 1776 — he was too busy fighting.
+score: 7.8
 ---
 
 The Nathanael Greene Homestead, known as Spell Hall, stands at 50 Taft Street in a rural part of eastern Coventry. Built in 1770 for Nathanael Greene — later George Washington's second-in-command and the general most responsible for winning the Southern Campaign — it is a handsome two-and-a-half-storey colonial house in excellent preservation, surrounded by mature trees and farmland that has not changed dramatically since the 18th century.

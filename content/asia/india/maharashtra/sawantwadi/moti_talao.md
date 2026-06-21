@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 15.9089
 longitude: 73.8209
+score: 6.0
 ---
 
 Moti Talao — "Pearl Lake" — is the large tank that fronts the Raj Wada palace and defines the social life of Sawantwadi. The lake and its promenade are busiest in the evenings, when families come out for a walk, children eat snacks from vendors, and paddle boats do slow circuits of the water. Benches along the embankment look back across the lake toward the illuminated palace facade at dusk.

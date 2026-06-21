@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Cromwell's Bridge
 type: poi
+score: 6.9
 ---
 
 Despite the name, Cromwell never came near the place. This small arch-shaped stone bridge was built by Franciscan monks from a nearby monastery to reach a spring on the far side -- Our Lady's Well, which remains a centre of local devotion every 15 August, the Feast of the Assumption.

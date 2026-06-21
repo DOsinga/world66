@@ -12,6 +12,7 @@ story: >
   It's rarely crowded — you may be the only visitor — which makes it a
   pleasantly unhurried place to spend an hour among displays that would
   not look out of place in a European university from the 1960s.
+score: 7.3
 ---
 
 Obafemi Awolowo University (OAU) sprawls across a large, leafy campus on the northwestern edge of the city. It is one of Nigeria's most prestigious universities and one of the pleasantest campuses in the country to walk through: tree-lined avenues, red-brick colonial-era buildings alongside modernist blocks, and a pace of life that is distinctly calmer than central Ife.

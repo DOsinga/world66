@@ -14,6 +14,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.8
 ---
 
 The Grand Mosque sits one block south of the Place des Martyrs and has been the religious heart of Blida since the Ottoman foundation of the city in the 16th century. The current building, rebuilt after the 1825 earthquake, is a low whitewashed structure with a single square minaret and an interior of horseshoe arches on slender marble columns.

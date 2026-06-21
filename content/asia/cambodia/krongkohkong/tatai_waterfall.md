@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 11.5780
 longitude: 103.1200
+score: 8.4
 ---
 
 The Tatai River cuts down out of the southern Cardamoms and tumbles over a long, low rock shelf 18 kilometres east of Koh Kong town. In the wet season the falls run as a thundering 80-metre-wide sheet of water; in the dry season they break into a series of pools you can swim in.

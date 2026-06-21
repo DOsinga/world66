@@ -12,6 +12,7 @@ story: >
   river has been crossed at this point for centuries; the current structure,
   one of Lithuania's longest pedestrian bridges, carries walkers over a river
   that was once a frontier between empires.
+score: 7.4
 ---
 
 The Bridge of White Rose is Alytus's most distinctive landmark: a sweeping pedestrian bridge over the Nemunas that connects the city's two halves. At several hundred metres, it is among the longest pedestrian bridges in Lithuania, and the walk across offers good views up and down the forested river valley.

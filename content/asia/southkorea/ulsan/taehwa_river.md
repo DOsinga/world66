@@ -9,6 +9,7 @@ title: Taehwa River Eco Park
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Taehwa_River
+score: 8.2
 ---
 
 The Taehwa River flows through the centre of Ulsan, and its banks have been developed into one of the city's more pleasant surprises. The stretch between Samho Bridge and Taehwa Bridge is lined with a thick bamboo grove — tens of thousands of bamboo stalks that rustle in even the slightest breeze and filter the light into something green and cool. In winter, white-naped cranes and other migratory birds gather here, making it a genuine wildlife spot within a major industrial city.

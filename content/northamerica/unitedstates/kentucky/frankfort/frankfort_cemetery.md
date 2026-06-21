@@ -9,6 +9,7 @@ latitude: 38.1978
 longitude: -84.8672
 story: >
   Daniel Boone's grave here is one of those American historical curiosities: he died in Missouri in 1820, and was buried there for 25 years until Kentucky successfully petitioned to have his remains moved to Frankfort. Missouri later claimed the exhumation got the wrong body. Both states maintain that their Boone is the real one.
+score: 8.1
 ---
 
 Established in 1844 on a bluff above the Kentucky River, Frankfort Cemetery was designed in the rural cemetery tradition — curved lanes, terraced hillsides, native plantings — and remains one of the most atmospheric historic cemeteries in the South. The 100-acre site contains the graves of 19 Kentucky governors, a US Vice President, and frontier legend Daniel Boone and his wife Rebecca.

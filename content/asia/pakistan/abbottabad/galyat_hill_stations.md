@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A cluster of British-era hill resorts along the road to Murree — Nathiagali, Ayubia, Dunga Gali
+score: 8.5
 ---
 
 The hour-long drive south of Abbottabad climbs steeply through a chain of small British-era hill resorts strung along the ridge: Changla Gali, Khaira Gali, Dunga Gali, Nathia Gali, Ayubia. "Gali" means "lane" or "pass" in the local language. The combined area is the Galyat.

@@ -4,6 +4,7 @@ phone: (506) 2256 8195 / (506) 2256 3600
 title: Sights in Liberia
 type: poi
 url: www.guachipelin.com
+score: 4.4
 ---
 
 Things to do and places to see in Liberia and surrounding areas
@@ -22,7 +23,7 @@ url: [www.guachipelin.com](http://www.guachipelin.com/english/hotel.php)
 
 email: info@guachipelin.com
 
-### [Monkey Head Island](/northamerica/costarica/liberia/sights/monkey_head_island)
+### Monkey Head Island
 
 This islet, off Peninsula Papagayo has a very interesting shape. When viewed from the shore, it looks like a gorilla or monkey head.
 

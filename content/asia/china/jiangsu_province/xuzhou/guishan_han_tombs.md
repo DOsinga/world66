@@ -9,6 +9,7 @@ latitude: 34.2617
 longitude: 117.1539
 story: >
   The two tunnels at Guishan were cut entirely by hand into solid granite using iron chisels — a total of 56 chambers connected by 700 metres of passage. Geologists estimate the excavation took several thousand workers more than a decade, all to create a permanent home for a prince of Chu who was buried wearing a suit of 2,008 jade squares sewn together with gold wire.
+score: 8.7
 ---
 
 The Guishan Han Dynasty Tombs are the most atmospheric of Xuzhou's several burial sites from the Western Han period (206 BC–9 AD). The complex consists of two parallel tunnel systems cut horizontally into a granite hillside — one chamber for the king of Chu, one for his consort — each running dozens of metres into the mountain and opening into a series of side chambers that once held food, wine, and grave goods.

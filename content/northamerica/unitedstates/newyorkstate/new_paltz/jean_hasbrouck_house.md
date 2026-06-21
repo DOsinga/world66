@@ -9,6 +9,7 @@ latitude: 41.750861
 longitude: -74.088278
 sources:
   - https://en.wikipedia.org/wiki/Jean_Hasbrouck_House
+score: 7.8
 ---
 
 The Jean Hasbrouck House is one of the finest examples of Flemish-influenced stone architecture in North America. Built around 1721 on Huguenot Street, it presents the characteristic steep roofline and thick limestone walls of the Flemish style that Dutch and Huguenot settlers adapted to the local building materials. The house is a National Historic Landmark and part of the Historic Huguenot Street complex.

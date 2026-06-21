@@ -6,7 +6,8 @@ tags:
 - sight
 title: Miners' Glory Monument
 type: poi
-story: Karagandy was built on coal and on suffering. The first mines were worked by prisoners of the Karlag — one of the largest Gulag camp systems in the Soviet Union — and by waves of deported peoples: Volga Germans, Koreans, Chechens, Poles, Ukrainians. Entire nationalities were loaded onto freight trains and dumped on the steppe with minimal tools and no shelter. They dug the coal that powered Soviet industrialization. The Miners' Glory Monument, raised to celebrate their labor, does not mention any of this.
+story: "Karagandy was built on coal and on suffering. The first mines were worked by prisoners of the Karlag — one of the largest Gulag camp systems in the Soviet Union — and by waves of deported peoples: Volga Germans, Koreans, Chechens, Poles, Ukrainians. Entire nationalities were loaded onto freight trains and dumped on the steppe with minimal tools and no shelter. They dug the coal that powered Soviet industrialization. The Miners' Glory Monument, raised to celebrate their labor, does not mention any of this."
+score: 5.9
 ---
 
 The Miners' Glory Monument stands at the heart of Karagandy's civic centre, a large Soviet-era sculpture celebrating the workers who built this city out of the steppe. The monument is typical of its genre: heroic figures, industrial imagery, the confident visual language of socialist realism. As a piece of public art it is handsome enough. As a historical document it is more complicated.

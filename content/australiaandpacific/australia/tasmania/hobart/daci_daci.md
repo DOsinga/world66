@@ -11,6 +11,7 @@ tags:
   - eating_out
   - bars_and_cafes
 snippet: "Tasmania's best pastries, in a beautiful corner café on Murray Street"
+score: 6.7
 ---
 
 A handsome corner bakery and café in the CBD, brothers Mark and Anthony Daci's flagship since 2008. The pastry case is the reason to come: laminated croissants and *kouign-amann*, an excellent lemon tart, almond-and-pear danishes, fruit tarts that look like still-life paintings. The all-day breakfast menu (eggs, charcuterie boards, smoked salmon plates) is reliable and the coffee is solid.

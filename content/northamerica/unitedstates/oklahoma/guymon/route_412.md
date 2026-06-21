@@ -9,6 +9,7 @@ title: U.S. Route 412
 type: poi
 story: >
   US 412 runs from Springer, New Mexico, to Columbia, Tennessee, but the Panhandle stretch is what makes it famous. By one widely cited measurement, the road runs perfectly straight for 47.7 miles east of Guymon — no curves, no grade changes greater than a few feet, no junctions large enough to count as a kink. Whether or not it really is the longest dead-straight stretch in the country, it feels like it.
+score: 5.7
 ---
 
 The drive east out of Guymon on U.S. 412 is the simplest tourist experience in the panhandle: just keep driving. The road is straight, the horizon is flat, the sky is enormous, and the only company is the occasional grain elevator and a passing pickup. Forty-five minutes will take you across the entire visible curvature of the earth.

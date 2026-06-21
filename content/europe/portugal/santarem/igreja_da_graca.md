@@ -14,6 +14,7 @@ story: >
   radiating from a central hub — is considered one of the finest examples of Manueline Gothic
   decorative work in Portugal. It was carved in the 14th century, when Santarém was one of
   the most prosperous cities in the kingdom.
+score: 9.0
 ---
 
 The Igreja da Graça is a 14th-century Gothic church widely considered one of the finest in Portugal. Its west facade is dominated by an extraordinary circular rose window carved from a single block of stone — the tracery is exceptional even by the high standards of Portuguese Gothic architecture. The church belongs to a Franciscan convent founded in 1383.

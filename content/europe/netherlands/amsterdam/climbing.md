@@ -6,6 +6,7 @@ tags:
 title: Climbing
 type: poi
 snippet: "Indoor climbing walls in a flat city — surprisingly good options"
+score: 4.6
 ---
 
 Amsterdam is famously flat, but it has a handful of decent indoor climbing walls for when the weather turns grey. Gear rental is available at all of them, so you don't need to bring your own.

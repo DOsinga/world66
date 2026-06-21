@@ -9,6 +9,7 @@ latitude: 39.1500
 longitude: 106.0300
 story: >
   The petroglyphs at this site in northern Helan Mountain include one of the most reproduced images in all Chinese rock art: a mask-like human face, carved in a simple geometric style, that became the official emblem of the Ningxia Hui Autonomous Region. The face appears on road signs and tourist material across the province, its identity — deity, ancestor, shaman — still unknown.
+score: 8.3
 ---
 
 The rock paintings of Helan Mountain — Helan Shan Yanhua — appear on the exposed cliff faces and boulders of the mountain range in dozens of sites, distributed across both the Ningxia and Inner Mongolia sides of the mountains. The northern site near Shizuishan is considerably less visited than the main Yinchuan site to the south, which makes it the better choice for those wanting the petroglyphs without the crowds.

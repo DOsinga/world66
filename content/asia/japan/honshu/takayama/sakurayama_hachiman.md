@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 36.1483
 longitude: 137.2605
 snippet: "Forested shrine that hosts the autumn Takayama Festival"
+score: 7.2
 ---
 
 Sakurayama Hachiman-gū sits on a wooded hillside at the northern end of the old town. The shrine has been here since at least the 14th century, though most of the present buildings are late 19th-century reconstructions. The setting is the main attraction — moss-covered stone lanterns, cedar trees, and a series of steep staircases climbing the hillside.

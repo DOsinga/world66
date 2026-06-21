@@ -6,6 +6,7 @@ longitude: 8.7748
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 A long crescent of fine pale sand stretches east from the harbour for about six kilometres, backed by umbrella pines and the Calvi-Bastia rail line that runs alongside. The water is shallow well out from shore, ideal for children, and a startling Adriatic blue.

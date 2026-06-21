@@ -10,6 +10,7 @@ tags:
 - waterfront
 title: British Music Experience
 type: poi
+score: 7.8
 ---
 
 A well-curated museum of British popular music since the Second World War, housed on the ground floor of the Cunard Building at Pier Head. Eight chronological galleries take you from skiffle and Cliff Richard through the Beatles, Bowie, punk, the Smiths, Britpop and beyond. Costumes from David Bowie, Adam Ant, the Spice Girls and others are on permanent display.

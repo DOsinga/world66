@@ -5,6 +5,7 @@ snippet: Renaissance palace housing the State Archives and Tavolette di Bicchern
 tags: [things_to_do, museum, architecture]
 latitude: 43.3191
 longitude: 11.3328
+score: 6.4
 ---
 
 A grand Renaissance palace built in the 1460s for the family of Pope Pius II (Enea Silvio Piccolomini, the most famous Sienese), modelled on Roman models by Bernardo Rossellino. It now houses the State Archives of Siena, with one of the most remarkable surviving city archives in Italy.

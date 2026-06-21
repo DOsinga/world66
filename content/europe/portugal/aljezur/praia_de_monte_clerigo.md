@@ -6,6 +6,7 @@ tags:
 latitude: 37.3413
 longitude: -8.8531
 snippet: Sheltered family-friendly beach north of Aljezur, quieter than Arrifana
+score: 7.2
 ---
 
 Monte Clérigo is about 6 km northwest of Aljezur town, smaller and more sheltered than Arrifana — the cliffs here are lower and curve around to break the wind, making it the best option when the swell at Arrifana is too rough for swimming. The beach is popular with families and has a seasonal café near the car park.

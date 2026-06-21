@@ -8,6 +8,7 @@ tags:
 - market
 title: Pasar Kahayan
 type: poi
+score: 6.8
 ---
 
 Pasar Kahayan sits just by the river near the bridge — a smaller, more local market than Pasar Besar, mostly fresh fish straight off the boats, river prawns, vegetables grown in the floodplain, and a small range of household goods. The river setting gives it some of the most interesting market atmosphere in the city.

@@ -10,6 +10,7 @@ tags:
 - gellert_hill
 title: For Sale Bar
 type: poi
+score: 6.7
 ---
 
 A rustic, wood-paneled bar near the Gellert Hotel, covered floor to ceiling in business cards, photos, and drawings left by previous visitors. Every table gets a bowl of peanuts to go with your reasonably priced beer. Upstairs there is a surprisingly good restaurant where the goulash soup alone is worth the trip. Live music most evenings, usually British pop covers.

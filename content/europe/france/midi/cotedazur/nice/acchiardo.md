@@ -8,6 +8,7 @@ tags:
 address: "38 Rue Droite, Vieux Nice"
 latitude: 43.6972
 longitude: 7.2756
+score: 6.8
 ---
 
 Acchiardo is an old-town institution, a family-run trattoria on Rue Droite that has been serving straightforward Niçois food since 1927. The menu is short, handwritten daily, and changes with what the kitchen has: stockfish stew, raviolis aux herbes, daube, and gnocchi in the Niçois style. Prices are honest and the atmosphere is without pretension — paper tablecloths, wine from unlabelled pitchers, and a clientele of locals who have been eating here for decades.

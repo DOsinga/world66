@@ -7,6 +7,7 @@ tags:
   - old_city
 title: Old City Ramparts Walk
 type: poi
+score: 8.5
 ---
 
 The 16th-century Ottoman walls encircling the Old City can be walked on top for their full circuit, with views over both the historic city within and the modern neighbourhoods outside. The rampart walk is split into two non-connecting sections: the northern and western portion from Jaffa Gate to Damascus Gate (longer, with views over the Christian Quarter and the Souk), and the southern section from Jaffa Gate to Dung Gate (shorter, overlooking the Jewish Quarter and the Western Wall plaza).

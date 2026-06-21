@@ -15,6 +15,7 @@ story: >
   early 20th century, when Savusavu briefly had a reputation as a potential spa resort.
   The springs are now simply part of daily life; you can dip a hand in at the waterfront
   and feel the heat.
+score: 8.0
 ---
 
 Savusavu sits on a natural harbour so calm and sheltered that it serves as the principal cyclone anchorage for the South Pacific cruising fleet. The town itself is a single main street running along the waterfront, with a small market, a handful of restaurants, dive operators, and the occasional superyacht moored offshore. The pace of life is genuinely slow here, and that is the appeal.

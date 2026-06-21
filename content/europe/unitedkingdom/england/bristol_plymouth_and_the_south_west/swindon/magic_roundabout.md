@@ -13,6 +13,7 @@ story: >
   that has stuck firmly. Transport engineers call it a "ring junction" and consider it an efficient
   solution to a complex multi-road intersection; most drivers approaching it for the first time
   consider it an elaborate joke.
+score: 6.4
 ---
 
 Five mini-roundabouts arranged in a circle, with traffic flowing around the ring clockwise and around each individual mini-roundabout clockwise as well. It sounds impossible until you try it — and then it mostly makes sense, though first-timers tend to brake, stare, and inch forward nervously.

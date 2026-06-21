@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, wildlife]
 latitude: 34.6779
 longitude: 135.8533
+score: 8.2
 ---
 
 The forest surrounding Kasuga Grand Shrine has been protected for over a thousand years — forbidden from hunting and tree-felling since 841 CE, making it one of the oldest protected forests in the world. The result is a genuine primeval woodland of towering cedars, oaks, and maples with almost no undergrowth, the light filtering through the canopy in shafts that feel ancient and entirely separate from the busy tourist trails fifty metres away.

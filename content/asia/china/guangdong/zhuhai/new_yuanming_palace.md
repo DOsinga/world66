@@ -16,6 +16,7 @@ story: >
   significant point of historical grievance in China. The Zhuhai
   reconstruction, completed in 1997, is a full-scale replica occupying
   120 hectares.
+score: 7.2
 ---
 
 The New Yuanming Palace on Hengqin Island is a full-scale recreation of the Qing-dynasty garden complex that British and French forces destroyed in 1860. The original Yuanming Yuan was considered the greatest achievement of Chinese landscape garden design; this version, opened in 1997, recreates its palaces, pavilions, waterways, and formal gardens on 120 hectares using traditional materials and techniques.

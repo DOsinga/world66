@@ -15,6 +15,7 @@ story: >
   and its last known individual was recorded here in 1987.
 sources:
   - https://en.wikipedia.org/wiki/Alaka%CA%BBi_Wilderness_Preserve
+score: 8.1
 ---
 
 The Alakaʻi Wilderness Preserve covers the highest, wettest portion of Kauaʻi's interior — a montane bog and cloud forest that averages 11 metres of rain a year and supports a community of plants and birds found nowhere else on earth. It occupies the caldera of the shield volcano that became the island, now so eroded and waterlogged that the landscape looks more like the Scottish Highlands than a tropical island.

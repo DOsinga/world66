@@ -9,6 +9,7 @@ tags:
 - nature
 - sight
 story: "The funicular's lower section was built in 1923, the upper in the 1920s as well; for most of its life the train was a single rake that required a transfer halfway up. The current line, modernised in 2010, runs in one continuous trip — but the original middle station and its quaint passenger platform are still passed on the way up."
+score: 8.3
 ---
 
 Penang Hill (Bukit Bendera) is the highest point on Penang island at 833 metres, and the easiest cool-air escape from the heat and traffic of central Georgetown. The British declared it a hill station in the early 1800s as a sanatorium for sick officers; by the mid-19th century there were summer bungalows, a hotel and gardens. The temperature on the summit averages 4-5°C below Georgetown, a noticeable difference in tropical humidity.

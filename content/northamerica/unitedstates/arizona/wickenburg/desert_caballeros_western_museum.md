@@ -12,6 +12,7 @@ story: >
   hold it, and the collection has grown into one of the most comprehensive
   surveys of Western American art in the state, with work spanning from
   Frederic Remington's bronze era to contemporary Western realism.
+score: 8.2
 ---
 
 Wickenburg's standout cultural attraction, billing itself as Arizona's most Western museum and largely living up to it. The collection covers Western American art from the 19th century to the present — paintings, bronze sculpture, and mixed media — alongside a strong regional history section covering the Hassayampa Valley from prehistoric times through the gold rush.

@@ -8,6 +8,7 @@ latitude: 26.0922
 longitude: -98.2778
 sources:
   - https://en.wikipedia.org/wiki/Reynosa
+score: 5.8
 ---
 
 The central square of Reynosa's old town, shaded by trees and anchored by the Catedral de Nuestra Señora de Guadalupe, a solid early 20th-century church with twin towers that dominate the skyline. The plaza itself is a pleasant place to sit and watch the city go about its business — vendors selling snacks, families on benches, shoeshiners working the corners.

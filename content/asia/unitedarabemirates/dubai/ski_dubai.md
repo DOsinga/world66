@@ -6,6 +6,7 @@ tags:
 - sight
 title: Ski Dubai
 type: poi
+score: 6.7
 ---
 
 Ski Dubai is an indoor ski resort inside the Mall of the Emirates, operating year-round at -4°C in a country where outdoor temperatures exceed 45°C in summer. The 22,500-square-metre slope has five runs of varying difficulty, the longest of which is 400 metres with an 85-metre vertical drop. There is also a snow park for non-skiers, a snow bullet ride, and a penguin encounter — the resident colony of king and gentoo penguins is the main draw for most visitors.

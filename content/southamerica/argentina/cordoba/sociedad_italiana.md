@@ -8,6 +8,7 @@ tags:
 latitude: 31.4179
 longitude: -64.1820
 neighbourhood: Centro
+score: 6.3
 ---
 
 The restaurant of Córdoba's Italian Society, open to non-members, serving homemade pastas in an old wood-panelled dining hall on Calle Vélez Sarsfield. Sorrentinos with prosciutto, gnocchi with bolognese, and the perennial agnolotti are reliable choices.

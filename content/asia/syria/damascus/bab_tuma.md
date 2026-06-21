@@ -8,6 +8,7 @@ tags:
 latitude: 33.5133
 longitude: 36.3150
 snippet: The Christian quarter of the Old City, named for the Gate of Thomas
+score: 8.5
 ---
 
 Bab Touma ("The Gate of Thomas") is both the northeastern gate of the Old City and the name of the surrounding quarter — the historic Christian neighbourhood of Damascus. Narrow stone-paved alleys, jasmine-covered walls, and a quieter pace than the rest of the Old City make this one of the most enjoyable areas for a wander.

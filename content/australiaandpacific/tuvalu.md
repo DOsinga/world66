@@ -17,7 +17,7 @@ quick_facts:
   Currency: Australian Dollar and Tuvaluan Dollar
   Total Land Area: "26 km²"
   Highest Point: "4.6 metres above sea level"
-score: 0.44
+score: 0.25
 loc_type: country
 ---
 

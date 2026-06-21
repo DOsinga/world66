@@ -13,6 +13,7 @@ story: >
   completed in 2007 — incorporates the bombed ruins and a medieval excavation into its
   structure. Zumthor's perforated brick walls allow diffused light and air to pass through,
   creating conditions that are unique in any museum in the world.
+score: 9.1
 ---
 
 Kolumba is the art museum of the Archdiocese of Cologne, housed in a building by Peter Zumthor that is itself one of the most admired pieces of architecture in Germany. The collection spans 2,000 years of art in the Christian tradition — from early Byzantine icons through medieval goldwork to contemporary art — and is displayed with extraordinary slowness and care. The museum rotates its exhibitions annually and the pacing is contemplative rather than encyclopaedic.

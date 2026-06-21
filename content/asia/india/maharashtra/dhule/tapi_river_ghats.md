@@ -7,6 +7,7 @@ tags:
 - sight
 title: Tapi River Ghats
 type: poi
+score: 5.8
 ---
 
 The Tapi (also called Tapti) river runs along the northern edge of Dhule district, and the ghats at Sarangkheda — about 50km from the city — are the most significant religious bathing sites in the area. Within Dhule itself, the river banks serve the community for daily rituals and local festivals, particularly during the month of Margashirsha when pilgrims come from across the district.

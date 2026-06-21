@@ -13,6 +13,7 @@ tags:
 - sight
 title: Como Cathedral
 type: poi
+score: 9.1
 ---
 
 The Cathedral of Como is one of the last great Gothic churches built in

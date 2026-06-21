@@ -5,6 +5,7 @@ tags:
 - festivals
 title: Día de la Canción Criolla
 type: poi
+score: 7.8
 ---
 
 While the rest of the Americas celebrates Halloween on October 31, Peru marks El Día de la Canción Criolla — Criolla Music Day. Designated in 1944 to celebrate Peruvian music and folklore, the holiday is observed most enthusiastically in Lima and other coastal cities.

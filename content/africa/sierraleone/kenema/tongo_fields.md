@@ -7,6 +7,7 @@ tags:
 latitude: 8.0333
 longitude: -11.1000
 story: "The Tongo Field's alluvial diamonds were discovered in 1931 and within years had attracted thousands of unlicensed diggers who worked in conditions that remained largely unchanged for decades. During the civil war, the Revolutionary United Front (RUF) controlled the fields and used diamond revenues to fund their campaign — Tongo's name became associated internationally with the 'blood diamond' trade."
+score: 7.6
 ---
 
 The Tongo diamond fields lie about 30 km north of Kenema and were once among the most productive artisanal diamond mining areas in West Africa. Today the fields are still actively mined, mostly by small-scale diggers working alluvial gravel pits. Visiting requires local guidance and permission from the mining authorities.

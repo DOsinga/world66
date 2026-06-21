@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Batna_Museum
 story: >
   The museum's most striking exhibit is a Roman mosaic floor recovered from a villa near Timgad — the original was left in situ, but a section transported here shows the quality of craftsmanship that prosperous Romans in North Africa could afford. The hunting scenes depicted are almost identical to mosaics found in Sicily and Spain, evidence of a shared Mediterranean visual culture stretching across the empire.
+score: 6.9
 ---
 
 The Musée de Batna is the principal museum in the Aurès region, housing an archaeological collection that draws heavily from Roman and pre-Roman sites in the province. The centrepiece is the Roman material: inscriptions, sculpture, oil lamps, coins, and ceramics from Timgad, Lambèse, and the dozens of smaller sites scattered across the highlands. There is also a solid collection of prehistoric objects — flint tools, Neolithic pottery, and rock engravings copied from the Aurès massif.

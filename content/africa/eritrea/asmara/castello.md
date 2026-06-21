@@ -6,6 +6,7 @@ longitude: 38.9325
 tags:
   - eating_out
   - restaurant
+score: 6.6
 ---
 
 The most reliable Italian restaurant in Asmara, in a converted villa just off Liberation Avenue. Castello does the things you would hope a 70-year-old Italian dining room in a former colonial capital would do well: house-made pasta, simple grilled fish from the Red Sea, a short list of red wines from northern Italy, and tiramisu that has not changed in decades.

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: GameWorks
 type: poi
+score: 3.8
 ---
 
 GameWorks was a Steven Spielberg-backed entertainment concept that put massive arcade halls in high-traffic destinations. The Las Vegas location at the Showcase Mall occupied over 40,000 square feet across multiple floors, with video games, simulators, a full bar, and a restaurant — the idea being a place where adults could drink and play alongside kids.

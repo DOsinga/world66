@@ -6,6 +6,7 @@ longitude: 18.7708
 tags:
   - bars_and_cafes
   - bar
+score: 6.2
 ---
 
 Letrika is a small wine and cocktail bar tucked into one of the lanes north of the Cathedral, easy to miss from the street and reliably good once you find it. The list of Montenegrin and Croatian wines by the glass is the largest in the old town, and the bartenders take an old-fashioned approach to cocktails — stirred, properly chilled, no nonsense.

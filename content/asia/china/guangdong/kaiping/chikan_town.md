@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 22.3800
 longitude: 112.7200
+score: 7.6
 ---
 
 Chikan (赤坎) is a market town a short distance from the main diaolou villages, its main street lined with arcade shopfronts in a distinctive mix of Portuguese-influenced arched colonnades and Chinese signage that reflects the area's history of emigration to Latin America as well as North America. The ground floors are still occupied by small businesses; the upper floors are slowly decaying, their wooden shutters peeling, their interiors visible through broken windows. The town has the pleasant, unpreserved quality of a place that hasn't quite decided whether it's worth preserving yet.

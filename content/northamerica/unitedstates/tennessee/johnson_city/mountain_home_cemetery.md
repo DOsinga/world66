@@ -10,6 +10,7 @@ story: >
   Mountain Home was established in 1901 as a branch of the National Home for Disabled Volunteer Soldiers — a network of facilities for Civil War veterans who had nowhere else to go. The cemetery grew from the home's own burial ground, and today contains nearly 10,000 graves spanning conflicts from the Civil War through the present day. Walking through it is a quiet reminder of how many wars have passed through a small city's history.
 sources:
   - https://en.wikipedia.org/wiki/Mountain_Home_National_Cemetery
+score: 6.8
 ---
 
 Mountain Home National Cemetery is a United States national cemetery within the Mountain Home area of Johnson City, adjacent to the VA hospital and the East Tennessee State University medical campus. It is one of the older national cemeteries in the southeastern United States, established alongside the soldiers' home that once occupied the grounds.

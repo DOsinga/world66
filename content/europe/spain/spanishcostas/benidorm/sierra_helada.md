@@ -7,6 +7,7 @@ tags:
 - sight
 title: Sierra Helada
 type: poi
+score: 8.2
 ---
 
 The Sierra Helada natural park occupies the rocky headland at the western end of Poniente Beach, rising to about 400 metres and offering walking trails through Mediterranean scrub with views over the bay and toward the Benidorm island. It is a striking contrast to the resort town it overlooks — the park is undeveloped, the paths are sometimes rough, and in spring the hillsides are covered with wild herbs and flowers.

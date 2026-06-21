@@ -7,6 +7,7 @@ tags:
   - eating_out
 title: Noryangjin Fish Market
 type: poi
+score: 7.8
 ---
 
 Noryangjin is Seoul's major wholesale fish market, occupying a large building south of the Han River near Noryangjin Station. The best time to visit is in the early hours — 3am to 6am — when the overnight tuna and fish auctions happen and the market is at its most chaotic and theatrical. The regular retail market operates from around 6am and is accessible to anyone willing to navigate the stalls.

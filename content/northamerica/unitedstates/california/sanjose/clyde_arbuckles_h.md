@@ -8,6 +8,7 @@ tags:
 - books
 title: Clyde Arbuckle's History of San Jose
 type: poi
+score: 4.3
 ---
 
 Although San Jose is one of the newest of cities, it is one of the

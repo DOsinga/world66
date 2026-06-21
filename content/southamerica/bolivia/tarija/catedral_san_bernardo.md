@@ -8,6 +8,7 @@ tags:
 - church
 title: Catedral de San Bernardo
 type: poi
+score: 7.3
 ---
 
 The Cathedral of San Bernardo dominates Tarija's Plaza Luis de Fuentes y Vargas, the main square around which the city's social life revolves. A colonial structure with a distinctive ochre-painted facade, it gives the plaza its character and provides a reference point for the compact historic centre.

@@ -9,6 +9,7 @@ tags:
   - old_montreal
 neighbourhood: Old Montreal
 snippet: Excellent third-wave coffee in a vaulted stone room in Old Montreal
+score: 6.3
 ---
 
 Bureau de Poste at 441 rue Saint-Gabriel in Old Montreal occupies a vaulted stone room in a 19th-century building — the kind of setting that makes good coffee taste even better. The espresso is precise and the filter options are chosen with care. The space is small, the light is good, and the neighbourhood outside is among the most beautiful in the city.

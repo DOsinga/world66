@@ -6,6 +6,7 @@ tags: [things_to_do, sight, history]
 latitude: 7.339
 longitude: 134.4975
 story: "At its dedication in 1940 the Nan'yō Shrine was the chief Shinto shrine for all of Japanese-administered Micronesia, an empire that then ran from the Marianas to the Marshall Islands. After Japan's defeat in 1945 the shrine was demolished by American forces, and almost nothing survives today except the worn stone steps and a few foundation stones overgrown by jungle."
+score: 7.6
 ---
 
 The Nan'yō Shrine was built by Japan in 1940 as the spiritual centre of its South Seas Mandate, the league-of-nations colony that included Palau, the Marianas and the Marshalls. For five years it was the principal Shinto shrine across thousands of kilometres of Pacific island.

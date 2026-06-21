@@ -14,6 +14,7 @@ story: >
   completely and so quickly that within twenty years there was almost no commercial coffee
   left on the island. Sri Lanka, which had been a major coffee exporter, became a tea
   exporter almost overnight.
+score: 7.3
 ---
 
 The Hantane tea estate occupies the plateau and slopes directly above Kandy, making it one of the most accessible tea plantations to the city. The estate is visible from several points in the town, and a road winds up from Peradeniya through the tea gardens to the top of the ridge. Visitors can walk the estate trails, watch the leaf-picking (in season), and visit the factory where the tea is processed.

@@ -15,6 +15,7 @@ story: >
   the convent buildings fell to ruin — but the church survived, and has been
   in continuous use ever since. The bell tower was added later, giving the
   building a silhouette visible from the harbour.
+score: 8.2
 ---
 
 The church was built in 1462 as the convent church of the Bridgettine order, and its grey stone walls still carry the solidity of that original construction. Inside, the space is simple and whitewashed, with medieval brick vaulting and a few remnants of the convent's former wealth — carved wooden figures, old epitaphs on the walls.

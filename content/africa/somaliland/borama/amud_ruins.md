@@ -14,6 +14,7 @@ story: >
   accounts of the Horn of Africa already describe it as a ruin. Modern
   archaeology has dated coins and pottery from the site to between the
   tenth and fifteenth centuries.
+score: 8.3
 ---
 
 About ten kilometres north-east of Borama lie the ruins of Amud, an abandoned medieval town that was a significant trade and religious centre for several centuries before being deserted. The remains spread over a substantial hillside — stone walls of houses, the outlines of small mosques with their mihrabs still pointing east, and scattered grave markers.

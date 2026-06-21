@@ -7,6 +7,7 @@ tags:
   - downtown_al_balad
 latitude: 31.9510
 longitude: 35.9330
+score: 7.4
 ---
 
 A small private museum in the downtown area housing a collection of over 1,000 old street signs, commercial signs, shop fronts, and advertising materials from Amman dating from the 1940s through the 1980s. The collection was assembled by one man's lifelong habit of salvaging signs as the old city changed, and it amounts to an unintended visual history of Amman's commercial life over four decades.

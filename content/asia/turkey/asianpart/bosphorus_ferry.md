@@ -8,6 +8,7 @@ latitude: 41.0042
 longitude: 29.0164
 story: >
   The Istanbul ferry system is one of the last in the world where the crossing is itself a significant urban experience rather than a mere transit. The 20-minute journey from Eminönü to Kadıköy crosses the boundary between Europe and Asia, passes within sight of the Topkapi Palace and the Maiden's Tower, and delivers you into an entirely different atmosphere. For the cost of a public transport token, it is one of the most rewarding journeys in any city in the world.
+score: 8.0
 ---
 
 The İDO and Şehir Hatları ferries between the European shore (Eminönü, Karaköy) and Kadıköy on the Asian side run throughout the day and into the evening, carrying commuters, tourists, and fish sandwich vendors. The journey takes about 20 minutes across the Bosphorus and is worth doing even if you have no particular plan for the Asian side.

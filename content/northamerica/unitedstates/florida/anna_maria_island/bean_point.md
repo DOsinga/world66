@@ -15,6 +15,7 @@ story: >
   major metro area.
 sources:
   - https://en.wikipedia.org/wiki/Anna_Maria,_Florida
+score: 9.0
 ---
 
 Bean Point is the northernmost tip of Anna Maria Island, where the Gulf of Mexico meets Tampa Bay in a constantly shifting mix of sandbars, currents, and seabirds. To get there, you park in the Anna Maria city area and walk north along the beach — there is no car access to the point itself. The crowds thin with every step, and by the time you reach the point you are likely to have it largely to yourself.

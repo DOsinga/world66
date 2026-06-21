@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: 175-metre concrete dam on the Columbia River with a free visitor centre and panoramic elevator
+score: 7.2
 ---
 
 The Revelstoke Dam is a 175-metre-high concrete gravity dam on the Columbia River, completed in 1984 and one of the largest hydroelectric installations in British Columbia. BC Hydro runs a free visitor centre with exhibits on the dam's construction, the ecology of the Columbia, and the history of the communities flooded when the reservoir was created. An elevator inside the dam lifts visitors to the top for views across the reservoir and the surrounding mountains.

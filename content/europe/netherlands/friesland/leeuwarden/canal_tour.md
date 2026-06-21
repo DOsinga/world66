@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.2010
 longitude: 5.7920
+score: 7.0
 ---
 
 The historic centre of Leeuwarden is ringed and crossed by canals, and one of the easiest ways to take its measure is from a low boat. Open-deck tour boats run hourly in season from the Prinsentuin and the Nieuwestad, looping past the Oldehove, the seventeenth-century gabled merchants' houses on the Eewal, and the old harbour at the Stadsgracht.

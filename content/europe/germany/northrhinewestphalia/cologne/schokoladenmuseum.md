@@ -7,6 +7,7 @@ tags:
 latitude: 50.9305
 longitude: 6.9609
 snippet: Hands-on museum of chocolate history with a famous chocolate fountain
+score: 6.8
 ---
 
 The Chocolate Museum occupies a purpose-built building on a peninsula jutting into the Rhine, about a kilometre south of the cathedral. It is one of the most visited museums in Germany and traces the history of chocolate from the Mesoamerican Maya through to modern industrial production. The exhibits are genuinely interesting if you have any curiosity about food history — the colonial trade routes, the development of the conching process, the role of European industrialisation in making chocolate a mass product.

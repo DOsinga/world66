@@ -14,7 +14,7 @@ quick_facts:
   Currency: Euro
   Cork Production: "50% of world supply"
   Oldest Bookshop: Livraria Bertrand, open since 1732
-score: 0.58
+score: 0.86
 loc_type: country
 ---
 

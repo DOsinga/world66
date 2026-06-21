@@ -9,6 +9,7 @@ tags:
   - eating_out
   - bar
   - restaurant
+score: 7.1
 ---
 
 The Three Penny is the Montpelier beer bar — twenty-odd taps with a heavy emphasis on Vermont breweries (Hill Farmstead, Lawson's, Burlington Beer Co.) and a kitchen that turns out an excellent burger and good fries. It is also one of the few places in town that stays lively into the evening.

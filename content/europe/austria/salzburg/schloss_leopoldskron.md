@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.6
 ---
 
 The pale rococo palace on the southern edge of the city sits on its own lake, with the Festung Hohensalzburg as backdrop — one of the most photographed views in Austria. Built in 1736 for Prince-Archbishop Leopold Anton von Firmian, it was bought in 1918 by theatre director Max Reinhardt, who founded the Salzburg Festival.

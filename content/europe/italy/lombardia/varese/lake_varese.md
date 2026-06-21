@@ -10,6 +10,7 @@ latitude: 45.8167
 longitude: 8.7333
 sources:
   - https://en.wikipedia.org/wiki/Lake_Varese
+score: 7.2
 ---
 
 Lake Varese is a shallow glacial lake about four kilometres west of the city centre, ringed by low hills and reed beds. It is quieter and less visited than Como or Maggiore — no ferries, no luxury hotels, no crowds — which is exactly its appeal. A cycle path runs much of the way around the lake, and the flat terrain makes it easy going even for casual cyclists.

@@ -6,6 +6,7 @@ latitude: 38.6910
 longitude: 34.8720
 sources:
   - https://en.wikipedia.org/wiki/Zelve_Monastery
+score: 6.7
 ---
 
 The Grape Church (Üzümlü Kilise) is the other main decorated church in the Zelve complex, named for the grape and vine carvings that adorn its walls. Like the Fish Church, it dates from a period before the iconoclastic controversy of the 8th century and uses symbolic rather than figurative decoration. The grape vine is a natural Christian symbol — the Eucharist, the vine of the church — and it appears frequently in early Byzantine religious carving.

@@ -14,7 +14,7 @@ quick_facts:
   Land Area: "4× the size of Germany, 99% empty"
 done:
   country_cleanup: 2026-03-29
-score: 0.58
+score: 0.71
 loc_type: country
 ---
 

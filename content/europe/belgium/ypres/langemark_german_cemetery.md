@@ -14,6 +14,7 @@ story: >
   of student volunteers were thrown into an attack here and suffered catastrophic
   losses against experienced British professional soldiers. The losses were
   mourned in Germany as a generation of educated youth cut down.
+score: 8.2
 ---
 
 Most visitors to the Ypres Salient see only the neat white Commonwealth cemeteries. Langemark, about 8 km north of Ypres, offers a very different experience: a German military cemetery where 44,000 soldiers are buried, the majority in mass graves under flat basalt lava stones. Dark oak trees rather than white headstones. A brooding, quiet place.

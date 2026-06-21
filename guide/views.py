@@ -17,8 +17,13 @@ from .models import (
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
 
 
+def about(request):
+    return render(request, "guide/about.html")
+
+
 def home(request):
-    from .models import load_continents
+    import random
+    from .models import load_continents, load_story_pois, load_featured_cities
     continents_raw = load_continents()
     continents = []
     for cont, countries in continents_raw:
@@ -41,7 +46,27 @@ def home(request):
             'total': len(countries),
             'image_url': image_url,
         })
-    return render(request, "guide/home.html", {'continents': continents})
+    import json
+    all_story_pois = load_story_pois()
+    story_pois = random.sample(all_story_pois, min(6, len(all_story_pois)))
+    all_cities = load_featured_cities()
+    cities_json = json.dumps([
+        {
+            'title': c['page'].title,
+            'url': c['page'].get_absolute_url(),
+            'image': c['image_url'],
+            'country': c['country'],
+            'lat': float(c['lat']),
+            'lng': float(c['lng']),
+            'score': c['score'],
+        }
+        for c in all_cities if c['lat'] and c['lng']
+    ])
+    return render(request, "guide/home.html", {
+        'continents': continents,
+        'story_pois': story_pois,
+        'cities_json': cities_json,
+    })
 
 
 def location_or_section(request, path):
@@ -117,6 +142,9 @@ def location_or_section(request, path):
         pois = nav_pages
     elif page.page_type in NAV_TYPES:
         pois = page.tagged_pois(_city_tag_index=city_tag_index)
+        # Highest-scored POIs first, so the numbered list reads as a ranking
+        # (mirrors the score sort already applied to locations below).
+        pois = sorted(pois, key=lambda p: float(p.meta.get("score", 0) or 0), reverse=True)
 
     # Collect distinct categories from POIs (for filter UI)
     poi_categories = []
@@ -259,19 +287,9 @@ def location_or_section(request, path):
     })
 
 
-def search(request):
-    query = request.GET.get("q", "").strip()
-    has_db = SEARCH_DB.is_file()
-    return render(request, "guide/search.html", {
-        "query": query,
-        "has_db": has_db,
-    })
-
-
-def search_api(request):
-    query = request.GET.get("q", "").strip()
+def _search_results(query):
     if not query or not SEARCH_DB.is_file():
-        return JsonResponse({"results": []})
+        return []
 
     conn = sqlite3.connect(f"file:{SEARCH_DB}?mode=ro", uri=True)
     conn.row_factory = sqlite3.Row
@@ -303,6 +321,24 @@ def search_api(request):
     finally:
         conn.close()
 
+    return results
+
+
+def search(request):
+    query = request.GET.get("q", "").strip()
+    if request.GET.get("format", "").lower() == "json":
+        return JsonResponse({"results": _search_results(query)})
+
+    has_db = SEARCH_DB.is_file()
+    return render(request, "guide/search.html", {
+        "query": query,
+        "has_db": has_db,
+    })
+
+
+def search_api(request):
+    query = request.GET.get("q", "").strip()
+    results = _search_results(query)
     return JsonResponse({"results": results})
 
 

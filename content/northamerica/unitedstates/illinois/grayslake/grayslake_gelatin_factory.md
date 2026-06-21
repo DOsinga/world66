@@ -13,6 +13,7 @@ story: >
   employers in a largely agricultural area, and its distinctive brick buildings became
   a landmark. After closure, the complex was preserved rather than demolished — an
   unusual fate for an industrial site in the Chicago suburbs.
+score: 4.6
 ---
 
 The former Grayslake Gelatin Factory is an industrial complex listed on the National Register of Historic Places — an unusual distinction for a suburban manufacturing site. The factory operated from 1905 until its closure in the late 20th century, processing animal byproducts into gelatin and related products.

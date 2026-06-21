@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 22.875
 longitude: -109.916
+score: 8.0
 ---
 
 From December to April, the waters around Cabo San Lucas are visited by grey whales and humpback whales in substantial numbers. Grey whales pass through on their annual migration between their Arctic feeding grounds and the warm-water lagoons of Baja California Sur — the Magdalena Bay lagoons to the north are their breeding and calving destination, and Cabo is on their route. Humpbacks are more commonly seen in the open water off the cape, often breaching and tail-slapping.

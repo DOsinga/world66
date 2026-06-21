@@ -9,6 +9,7 @@ tags:
 story: Despite being one of the most photographed vistas in the Rockies the twin peaks are known to mountaineers as the "Deadly Bells." The mudstone they're made of fractures into rotten flakes that break under a climber's weight; eight people died on the peaks in 1965 alone, prompting the Forest Service to post warning signs at the trailhead that still stand today.
 title: Maroon Bells
 type: poi
+score: 9.6
 ---
 
 The twin pyramidal peaks of North Maroon Peak (4,273 m) and Maroon Peak (4,317 m) rise above Maroon Lake about 16 km west of Aspen, in the Maroon Bells–Snowmass Wilderness. The view across the lake to the peaks — with the rust-red Mancos shale, the bristlecone pines, and the reflection on calm mornings — is one of the most photographed mountain scenes in North America. In late September the surrounding aspen groves turn brilliant gold.

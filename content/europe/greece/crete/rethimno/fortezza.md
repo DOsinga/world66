@@ -8,6 +8,7 @@ latitude: 35.3725
 longitude: 24.47111111111111
 story: >
   The Fortezza was built with a specific capacity in mind: the entire civilian population of Rethimno was to shelter inside its walls during Ottoman attacks. Despite the scale of the investment — it is one of the largest Venetian castles ever built — the fortress fell to the Ottomans in 1646 after a siege of just 22 days. The population that it was built to protect capitulated before the fortifications were even properly tested.
+score: 8.5
 ---
 
 The Fortezza is a massive Venetian fortress on the headland above Rethimno's harbour, built in the second half of the 16th century to defend the city from Ottoman raids. It is one of the largest Venetian fortifications in existence — a vast walled enclosure covering the entire headland — and the views from its ramparts across the old harbour, the city, and the Aegean are among the best in Crete.

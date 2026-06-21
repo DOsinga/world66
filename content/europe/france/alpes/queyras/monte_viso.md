@@ -8,6 +8,7 @@ tags:
 - sight
 title: Monte Viso
 type: poi
+score: 9.0
 ---
 
 Monte Viso (3,841m) sits just on the Italian side of the border, but it dominates the skyline of the eastern Queyras. Walking trails from Abriès and from the Refuge du Viso get you close enough to feel its scale.

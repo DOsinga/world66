@@ -14,6 +14,7 @@ tags:
 title: Mayflower II
 type: poi
 url: www.plimoth.org
+score: 7.9
 ---
 
 The *Mayflower II* is a full-scale replica of the ship that carried 102 passengers across the Atlantic in 1620, built in England in the 1950s and sailed to Plymouth in 1957 as a gift from the British people. It docks at State Pier, steps from Plymouth Rock.

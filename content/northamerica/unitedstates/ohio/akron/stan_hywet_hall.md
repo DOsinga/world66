@@ -14,6 +14,7 @@ story: >-
   on Wednesdays so they could attend matinees at downtown Akron's vaudeville
   theatres — a perk Seiberling believed would keep his workers fresh and reduce
   building accidents.
+score: 9.0
 ---
 
 Stan Hywet ("stone quarry") is the 65-room Tudor Revival country house built by Goodyear Tire co-founder Frank Seiberling and his wife Gertrude in the early 1910s. At the time it was the sixth largest house ever built in the United States; today it is by some distance Akron's most impressive single sight. The half-timbered façade, the slate roofs, the great hall with its musicians' gallery, the linenfold panelling brought over from English country houses — none of it is invented, and very little of it is reproduction.

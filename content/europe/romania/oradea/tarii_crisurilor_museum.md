@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: Regional museum covering Bihor's archaeology, history and art
+score: 7.7
 ---
 
 The Muzeul Țării Crișurilor — the "Museum of the Crișuri Lands" — is Oradea's main regional museum, covering the archaeology, ethnography, natural history and fine art of the Bihor region. It moved in 2018 from its longtime home in the Baroque Palace to a new purpose-built complex on the southern edge of the city centre, gaining far more display space in the process.

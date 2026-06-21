@@ -16,6 +16,7 @@ story: >
   brother of Jesus Christ. From this conviction he built a movement that at its
   peak controlled roughly a third of China and established a capital at Nanjing,
   before Qing and foreign forces crushed it in 1864.
+score: 7.4
 ---
 
 The Jintian Uprising Site, in Jintian village about 20 kilometres north of Guiping, marks where Hong Xiuquan formally announced the founding of the Taiping Heavenly Kingdom on 11 January 1851 and led his followers in open rebellion against the Qing dynasty. The park on the site includes a museum with documents and artefacts from the rebellion, the ruins of the original village fortifications, and memorials to the event. It is a serious rather than sensationalist account of what happened — the visitor centre contextualises the rebellion without either glorifying it or reducing it to spectacle.

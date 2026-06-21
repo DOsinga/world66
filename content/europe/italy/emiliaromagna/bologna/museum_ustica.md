@@ -9,6 +9,7 @@ story: On 27 June 1980 a DC-9 from Bologna to Palermo broke apart in mid-air nea
 tags:
 - things_to_do
 - museum
+score: 7.2
 ---
 
 The Museo per la Memoria di Ustica is housed in a former tram depot on the edge of the Bolognina district. The reconstructed fuselage of the DC-9 hangs in the centre of the space, lit from above, with 81 mirrors and 81 black lamps surrounding it — the work of the artist Christian Boltanski, who took the commission to make the museum more than a forensic exhibit.

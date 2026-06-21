@@ -12,6 +12,7 @@ story: >
   be moved by human hands — visiting climbers and earnest engineers
   have proved otherwise from time to time, but the formation
   always finds its balance again.
+score: 7.3
 ---
 
 Riyom Rock is a spectacular stack of granite boulders about an hour's drive south of Jos, near the town of Riyom in the southern part of the plateau. The formation rises sharply from the surrounding farmland — three large boulders balanced on top of one another, with the topmost stone seemingly tipped at an impossible angle. It is one of the most photographed landmarks on the plateau.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.5
 ---
 
 A small lake tucked into a residential quarter near the centre of Gramado, surrounded by hortênsias, willows, and a public garden. It is named after the wife of a prominent local family. Less visited than Lago Negro, it is a pleasant detour on the way through town and quiet at most hours.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Bronze Age village and dolmens on the northern edge of town
+score: 7.8
 ---
 
 Igeum-dong is one of the most intensively excavated Bronze Age sites in South Korea — a hilltop settlement and burial complex dating from roughly 1000–600 BC, with over a hundred pit-house foundations, stone-cist tombs, and surrounding dolmens. Many of the original features are now reburied for preservation, but a reconstructed village and an open-air display area show what the site looked like.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.5213
 longitude: 5.2378
+score: 5.7
 ---
 
 The Grand Place at the heart of the lower town is Huy's social centre — a modest square with a handful of cafes, the 17th-century town hall, and the Bassinia, a copper fountain that is one of four traditional symbols of the city. The fountain dates from the early 20th century but replaces an older one, and the motif — a seated figure with water flowing from urns — is a common Walloon form.

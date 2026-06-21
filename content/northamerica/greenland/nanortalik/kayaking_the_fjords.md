@@ -8,6 +8,7 @@ tags:
 latitude: 60.140025
 longitude: -45.242852
 story: "The Nanortalik archipelago is one of the finest sea kayaking destinations in Greenland — a complex of sheltered fjords and hundreds of small islands set among granite peaks that rise directly from the water. Traditional Greenlandic kayaking originated in environments exactly like this, and the area has been used by hunters in skin-on-frame kayaks for thousands of years."
+score: 9.4
 ---
 
 Sea kayaking around the Nanortalik archipelago is the main reason most independent travellers make the expensive and complicated journey to reach the town. The combination of sheltered water, dramatic granite scenery, and genuine remoteness — there are no roads between settlements, and the only access is by helicopter or boat — makes for kayaking unlike anything available in more accessible parts of the world.

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 27.8826
 longitude: 78.0818
+score: 7.2
 ---
 
 The Upper Kot Bazaar is the commercial heart of old Aligarh, and exploring it gives a better sense of the city's character than any monument. Aligarh is famous across India as the country's lock capital — the city produces around 80 percent of India's locks and padlocks — and the bazaar reflects that industrial identity. Shops selling locks of every conceivable size and type sit alongside ironmongers, hardware dealers, brass fittings merchants, and the small workshops where the actual manufacturing happens.

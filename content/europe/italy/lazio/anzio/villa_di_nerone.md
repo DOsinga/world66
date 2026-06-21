@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 41.4458
 longitude: 12.621
+score: 8.5
 ---
 
 The ruins of Nero's vast seaside villa stretch along the coast just west of the Anzio harbour. The emperor was born in Anzio in 37 AD, and the villa he built here was enormous — ancient sources describe terraces, fishponds, and gardens extending along the clifftops above the sea. It is from these ruins that the Apollo Belvedere and the Borghese Gladiator were excavated in the 16th and 17th centuries; both now sit in major museum collections far from their origins.

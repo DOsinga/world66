@@ -9,6 +9,7 @@ latitude: 40.3358
 longitude: -75.0486
 sources:
   - https://en.wikipedia.org/wiki/Holicong_Village_Historic_District
+score: 5.9
 ---
 
 Holicong is one of the small villages that make up Buckingham township — a crossroads on Old York Road (Route 202) with around twenty 19th-century buildings still standing, most of them now private homes. The village grew up around a tavern and post office in the early 1800s, named after Holicunk Hill nearby.

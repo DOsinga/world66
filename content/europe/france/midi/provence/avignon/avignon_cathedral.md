@@ -7,6 +7,7 @@ tags:
 latitude: 43.9516
 longitude: 4.8075
 snippet: 12th-century Romanesque cathedral above the Palais des Papes, with a gilded Virgin on its tower
+score: 7.8
 ---
 
 The Cathedral of Notre-Dame des Doms stands on a rocky outcrop immediately above the Palais des Papes, older than the palace by nearly two centuries. Built in the 12th century in the Provençal Romanesque style, it served as the personal chapel of the Avignon popes during their 14th-century residence, and several popes are buried in the Gothic porch.

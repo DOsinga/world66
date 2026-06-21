@@ -8,6 +8,7 @@ latitude: 42.4681
 longitude: 14.2272
 sources:
   - https://en.wikipedia.org/wiki/Port_of_Pescara
+score: 6.5
 ---
 
 The port of Pescara sits at the mouth of the Aterno-Pescara river, where it meets the Adriatic. It is a working port — fishing boats, a small ferry terminal, and some pleasure craft — rather than a tourist attraction in itself, but the harbour mouth and the promenade alongside it are pleasant places to walk. The early morning fish market near the quay is worth seeing if you are up early.

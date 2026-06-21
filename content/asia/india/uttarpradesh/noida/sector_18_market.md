@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 6.9
 ---
 
 Sector 18 is the commercial centre of Noida — a dense cluster of malls, branded showrooms, street stalls and restaurants centred on the Atta Market and the surrounding blocks. Three of the city's largest shopping malls (Great India Place, DLF Mall of India and Wave Mall) are within walking distance, and the area is built directly above one of the busiest Delhi Metro stations.

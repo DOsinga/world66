@@ -9,6 +9,7 @@ title: Korenmarkt
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Korenmarkt,_Ghent
+score: 6.5
 ---
 
 The Korenmarkt (Wheat Market) is the main square of the historic centre and Ghent's primary pedestrian space, flanked by the Post Office building on one side and terrace cafes on the other. Saint Nicholas' Church anchors the north end. Trams run through the square; the pedestrian streets of the shopping district extend south.

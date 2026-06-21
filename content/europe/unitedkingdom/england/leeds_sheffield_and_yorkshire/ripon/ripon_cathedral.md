@@ -9,6 +9,7 @@ latitude: 54.13472
 longitude: -1.52000
 story: >
   Beneath the cathedral floor lies a crypt built by Wilfrid, Bishop of Ripon, around 672 AD — making it one of the oldest intact structures in England, predating the Norman Conquest by four centuries. Wilfrid reportedly modelled its narrow tunnel-like passage on the tomb of Christ in Jerusalem; pilgrims once squeezed through a tight gap in the stonework believing that those who could pass were free of sin.
+score: 8.9
 ---
 
 Ripon Cathedral is one of England's smaller and lesser-known cathedrals, but it has a stronger claim to antiquity than almost any other. The Saxon crypt beneath the nave dates from around 672 AD and is among the oldest surviving structures in England — older than anything standing at York, Canterbury, or Westminster. The rest of the building is a patchwork of medieval styles, mostly 13th and 14th century, deliberately kept low in profile to avoid attracting the attention of Scottish raiders crossing the dales.

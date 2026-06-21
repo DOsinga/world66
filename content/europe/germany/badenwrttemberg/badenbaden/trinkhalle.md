@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.7618
 longitude: 8.2368
+score: 7.3
 ---
 
 The **Trinkhalle**, or pump room, is a long colonnaded hall built between 1839 and 1842 next to the Kurhaus. Spa-goers traditionally came here to drink a small glass of the hot mineral water, said to be good for the gut — the bronze tap on the wall still runs, and the water is still warm, salty, and faintly metallic.

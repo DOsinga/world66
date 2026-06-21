@@ -6,6 +6,7 @@ longitude: 8.0675
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 Limburg Castle (Schloss Limburg) sits on the same rocky outcrop as the cathedral, just to the east of the Dom. The complex grew from a tenth-century fortified residence into a late-medieval palace and has been remodelled repeatedly; the oldest surviving sections are the thirteenth-century keep and great hall.

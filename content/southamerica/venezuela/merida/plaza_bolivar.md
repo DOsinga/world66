@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 8.5972
 longitude: -71.1444
+score: 7.1
 ---
 
 Plaza Bolívar is the historic heart of Mérida, a large colonial square flanked by the Cathedral Basilica and surrounded by government buildings and cafes. Like all Venezuelan plazas of the same name, it is centred on an equestrian statue of Simón Bolívar, but Mérida's version has the unusual backdrop of the Andean peaks visible at the end of the city's streets — a view that makes the plaza distinctive.

@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 48.94905
 longitude: -57.9401
+score: 6.8
 ---
 
 The Glynmill Inn is a handsome 1924 Tudor Revival building that was originally constructed as company housing for the senior management of the Bowater pulp mill. The British mill owners brought British architectural tastes with them, and the result is a strikingly out-of-place half-timbered manor sitting beside a small millpond in an industrial Newfoundland city. It has operated as a hotel since the mill era and is now Corner Brook's most characterful place to stay.

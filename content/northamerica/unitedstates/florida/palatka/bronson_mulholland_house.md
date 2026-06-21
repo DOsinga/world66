@@ -12,6 +12,7 @@ story: >
   a hospital. During the Civil War, Union troops occupied Palatka and used the
   building as an officers' quarters — a bullet hole in the parlour doorframe is
   said to date from the occupation period.
+score: 6.5
 ---
 
 One of Florida's oldest surviving antebellum homes, the Bronson-Mulholland House was built in 1854 on a bluff above the St. Johns River. The Greek Revival-style frame building has wide verandas on two floors and looks out over the river in a way that conveys why Palatka was considered a fashionable winter resort town in the late 19th century, when steamboats brought tourists up from Jacksonville. Harriet Beecher Stowe — author of Uncle Tom's Cabin — was among the notable visitors who wintered in the area and wrote warmly about the river scenery.

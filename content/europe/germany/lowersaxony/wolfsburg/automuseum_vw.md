@@ -8,6 +8,7 @@ tags:
 snippet: Volkswagen's official heritage collection — Beetles, Buses, prototypes, and oddities
 latitude: 52.4272
 longitude: 10.8089
+score: 7.8
 ---
 
 The AutoMuseum Volkswagen, sometimes called the Stiftung AutoMuseum, is the lower-profile companion to the showier Autostadt. It is essentially a working archive of the Volkswagen brand: row after row of Beetles in every imaginable variant, Kombi vans, Karmann Ghias, military Kübelwagen, futurist prototypes that never reached production, and the occasional foreign curiosity that the company has acquired.

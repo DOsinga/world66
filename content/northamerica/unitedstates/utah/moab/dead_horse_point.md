@@ -8,6 +8,7 @@ latitude: 38.4833
 longitude: -109.7333
 story: >
   The name comes from a story — disputed but persistent — that wild horses were corralled on the narrow-necked mesa by cowboys in the late 19th century. The neck of the plateau is only 30 yards wide, making a natural corral. According to the legend, the horses were abandoned there after the best ones were selected, and the remainder died of thirst within sight of the Colorado River 2,000 feet below.
+score: 8.4
 ---
 
 Dead Horse Point is a narrow mesa rising 2,000 feet above the Colorado River, offering what many consider the finest view in Utah: the river makes a great oxbow bend 2,000 feet below, and the canyon walls stretch in every direction to the horizon. The Colorado River appears to flow uphill at certain angles — an optical illusion caused by the meandering. The potash evaporation ponds near the river are electric blue against the red desert, coloured by algae and visible from the overlook.

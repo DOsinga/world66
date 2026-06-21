@@ -9,6 +9,7 @@ latitude: -34.5889
 longitude: -58.4189
 address: Armenia 1366, Palermo
 url: lavirutamilonga.com
+score: 7.3
 ---
 
 One of the best milongas in Buenos Aires for visitors who want to dance rather than watch — an unofficial institution in the Palermo neighbourhood that draws a mix of porteños and serious tango tourists. The venue occupies an underground hall beneath an Armenian community centre, which gives it a pleasantly unofficial quality.

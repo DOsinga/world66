@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.1
 ---
 
 The Ninth of July Park is the largest green space in the city, a sprawl of more than 400 hectares laid out in 1916 to mark the centenary of Argentine independence. It was designed by the French landscape architect Carlos Thays, who also planned the Botanical Garden in Buenos Aires, and his French formal touches show in the wide avenues and ornamental ponds. The park sits about two kilometres east of Plaza Independencia, an easy taxi ride or a long walk.

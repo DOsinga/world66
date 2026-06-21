@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.4614
 longitude: 3.4225
+score: 7.8
 ---
 
 The Hôtel Jacques Coeur is probably the most photographed facade in Pézenas — a late-Gothic and early Renaissance hybrid whose corbelled upper stories sprout gargoyles above a street that still looks much as it did in the 16th century. The building is named after the famous French merchant-banker Jacques Coeur, though its actual connection to him is more symbolic than biographical; what matters is the quality of the stonework, which is exceptional even by Pézenas standards.

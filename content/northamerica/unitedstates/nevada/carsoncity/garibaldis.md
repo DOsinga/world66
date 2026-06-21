@@ -2,6 +2,7 @@
 title: "Garibaldi's"
 type: poi
 tags: [eating_out, restaurant]
+score: 5.7
 ---
 
 Garibaldi's has been a Carson City fixture for fine dining longer than most of the newer establishments have existed. The menu is Italian-leaning — pasta, osso buco, risotto — done with care and a wine list that seriously outperforms what you'd expect from the options available around it. It's not a cheap dinner, but it's the kind of place where the bill feels justified rather than regretted.

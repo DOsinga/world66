@@ -7,6 +7,7 @@ snippet: "Conical hill west of the city, a half-day hike with panoramic views"
 tags:
 - things_to_do
 - sight
+score: 7.7
 ---
 
 The Cerro del Centinela — Sentinel Hill — is the conical peak dominating the western horizon as you look out from Mexicali. The hill rises sharply from the desert floor and is the area's only significant landmark in an otherwise dead-flat agricultural valley. A road climbs partway and a hiking trail finishes the ascent in about 90 minutes from the parking area.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - walled_city
+score: 7.5
 ---
 
 The Hazuri Bagh is the formal square between Lahore Fort and the Badshahi Mosque — the geographic centre of historical Lahore. The mosque is on the west side, the fort on the east, the Samadhi of Ranjit Singh on the south, and the Tomb of Allama Iqbal on the north. The Roshnai Gate, the original royal entrance to the fort, opens directly onto the square.

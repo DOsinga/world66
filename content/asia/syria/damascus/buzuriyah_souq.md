@@ -8,6 +8,7 @@ tags:
 latitude: 33.5094
 longitude: 36.3062
 snippet: The Old City's spice and seed market, with caravanserais and old houses
+score: 8.1
 ---
 
 The traditional spice and seed market of Damascus, running south from the Umayyad Mosque to the Roman gate of Bab al-Saghir. The covered alley is lined with stalls selling cardamom, sumac, dried limes, saffron, rose petals, candied fruits, mastic and the spice mixes that the surrounding khans were built to trade.

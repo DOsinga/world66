@@ -14,6 +14,7 @@ story: >
   sits within the walls of the former Franciscan abbey of St Francis — monks had
   been brewing beer here since the 14th century. The brewery closed in 2013, but
   the brand and the experience continue.
+score: 7.0
 ---
 
 The Smithwick's Experience occupies the site of the former Smithwick's Brewery on Parliament Street, where Irish red ale has been made since 1710 within the walls of a medieval Franciscan friary. The guided tour covers the history of the brewery and the abbey, with sampling of the product along the way.

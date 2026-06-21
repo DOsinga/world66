@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: Open-air museum of relocated old Reykjavik houses, with live demonstrations in summer
+score: 7.9
 ---
 
 A short bus ride east of the centre, Árbær is what you build when your city is too young to have a historic quarter and yet you do not want to lose the old wooden houses to redevelopment. About twenty buildings have been moved here from elsewhere in Reykjavik — a turf-roofed farmhouse, a smith's, a school, a row of corrugated-iron homes — and arranged as a small open-air village.

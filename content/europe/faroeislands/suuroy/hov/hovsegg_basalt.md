@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 61.5118
 longitude: -6.7545
+score: 7.3
 ---
 
 On the mountainside north of Hov, a formation of columnar basalt pillars rises from the hillside in the distinctive hexagonal stacks that volcanic cooling produces. The Faroe Islands are entirely volcanic in origin — vast basalt flows laid down some 55 million years ago — and Hovsegg is one of the more accessible places on Suðuroy to see this geology up close.

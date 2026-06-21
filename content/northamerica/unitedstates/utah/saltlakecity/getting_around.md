@@ -1,16 +1,10 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
 ---
 
-Salt Lake City has various forms of transport available: from horse drawn carriages to sleek light rail and commuter trains, there's no shortage of transport in town. Taxis and bus lines serve the area well, and of course you can drive around as you please.
+Salt Lake City's TRAX light rail system covers downtown and connects to the University of Utah, the suburbs south and west of the city, and the airport. The system is well-run and sufficient for most tourist destinations in the city centre. The FrontRunner commuter rail extends north to Ogden and south to Provo.
 
-### [UTA Frontrunner](/northamerica/unitedstates/utah/saltlakecity/getting_around/uta_frontrunner)
+The city grid system makes navigation by car very easy — addresses count outward from Temple Square in all four directions in 100-foot increments per block. Once you understand the grid, you can find any address instantly. Parking is available throughout downtown, though metered on-street spaces fill up around Temple Square.
 
-These fast trains are the ticket for going north of Salt Lake City. They parallel the old Bamberger Railroad line, and run as far north as Ogden. Stops include Bountiful, Farmington (Lagoon Amusement Park), Layton, and Roy (Hill Aerospace Museum). Bikes can be accommodated on the trains.
-
-
-
-### [Utah Transit Authority](/northamerica/unitedstates/utah/saltlakecity/getting_around/utah_transit_autho)
-
-UTA provides extensive bus and light rail service in the Salt Lake metro area. Go online to look at schedules and fares. Everything from sleek light rail trains to commuter and city buses are available.
+For the ski resorts, UTA operates ski buses to both Big and Little Cottonwood Canyons during the winter season; driving up canyon roads can be complicated by snow and traffic, so the bus is often the better option. Car rental is available at the airport.

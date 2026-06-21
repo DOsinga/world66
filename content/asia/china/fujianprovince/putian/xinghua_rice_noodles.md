@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 25.4394
 longitude: 119.0103
+score: 4.9
 ---
 
 Xinghua rice noodles are the defining food of Putian, a hand-pressed noodle of exceptional fineness that cooks almost instantly and absorbs flavour readily. They are served in a bone broth enriched with dried seafood, topped with oysters, shrimps, sliced pork, and green vegetables, in a combination that is simultaneously filling and light. The noodles are produced in Putian county and sold across Fujian, but the best versions are eaten in the city itself, where the broth is made from local ingredients and the noodles are freshest.

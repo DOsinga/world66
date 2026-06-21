@@ -8,6 +8,7 @@ tags:
   - park
 latitude: 39.3228
 longitude: -120.2644
+score: 7.8
 ---
 
 Donner Lake is a strikingly beautiful glacial lake, about 3 kilometres long, tucked into a pine-forested valley just west of Truckee. Despite the grim history associated with its name — the Donner Party was trapped on its shores in 1846–47 — the lake is a genuinely lovely place to spend time, particularly in summer when the water is clear and cold and the surrounding mountains are free of snow.

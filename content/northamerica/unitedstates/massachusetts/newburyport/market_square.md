@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Brick downtown rebuilt after the 1811 fire, restored in the 1970s
+score: 8.2
 ---
 
 A great fire in May 1811 destroyed most of central Newburyport; what stands today was rebuilt in brick within the following decade, in a uniformly handsome Federal mercantile style. By the 1960s the blocks had decayed and the city flirted with bulldozing them; instead, in one of the first historic-district renewal projects in the country, the buildings were cleaned and the streets pedestrianised.

@@ -6,6 +6,7 @@ longitude: 9.7900
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The redeveloped waterfront, running for about a kilometre along the Als Strait from the castle north past the town centre, is where Sønderborg comes alive on a summer evening. Cafes spill onto the boards, sailing boats tie up at the inner harbour, and the wave-shaped multi-storey complex at the north end gives the skyline a single piece of modern drama.

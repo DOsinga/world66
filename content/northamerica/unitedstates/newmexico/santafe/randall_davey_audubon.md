@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.6989
 longitude: -105.9011
+score: 7.0
 ---
 
 A 135-acre nature preserve at the top of Upper Canyon Road, run by Audubon New Mexico. The property includes the historic home and studio of painter Randall Davey, hiking trails through the piñon-juniper foothills, and a streamside bird-watching meadow.

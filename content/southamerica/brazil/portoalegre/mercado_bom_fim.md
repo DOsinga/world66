@@ -7,6 +7,7 @@ tags:
 - market
 title: Mercado do Bom Fim
 type: poi
+score: 7.0
 ---
 
 The Mercado do Bom Fim is a neighbourhood covered market in the heart of Bom Fim, smaller and less famous than the Mercado Público Central but in many ways more genuinely Porto Alegrense: it serves the neighbourhood's daily shopping needs with fresh produce stalls, a butcher, a fishmonger, and various food counters. On weekend mornings it is the social hub of Bom Fim, drawing the same mix of students, families, and elderly residents who make the neighbourhood what it is.

@@ -13,6 +13,7 @@ tags:
 title: Esotouric Bus Adventures
 type: poi
 url: www.esotouric.com
+score: 7.9
 ---
 
 The best tour company in Los Angeles, full stop. Esotouric runs bus tours into the overlooked, strange, and historically resonant corners of the city — crime history, noir literature, weird architecture, ethnic neighborhoods — guided by passionate, deeply knowledgeable locals. Themes range from "Hotel Horrors and Haunted Bars" to "Charles Bukowski's LA" and the snack stops alone are worth the ticket price.

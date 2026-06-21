@@ -11,6 +11,7 @@ tags:
   - architecture
 neighbourhood: Lace Market
 snippet: A grand 15th-century Perpendicular church on the highest point of the medieval town.
+score: 7.8
 ---
 
 St Mary's sits at the top of the Lace Market on the highest ground in the old town. The current church is largely 15th-century Perpendicular Gothic — a substantial cruciform building with a tall central tower — though there has been a church on the site since at least the 11th century and probably much earlier. The interior is light, well-proportioned and contains some fine Pre-Raphaelite stained glass by Burne-Jones and Morris in the south aisle.

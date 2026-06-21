@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.2019
 longitude: -6.5196
+score: 7.4
 ---
 
 The Old Bushmills Distillery claims to be the oldest licensed whiskey distillery in the world, with a licence dating to 1608 — though the distinction between licensed and unlicensed distilling in 17th-century Ireland is somewhat blurry. What is not in doubt is that the distillery has been producing Irish whiskey continuously since the 1780s, making it one of the oldest in continuous operation.

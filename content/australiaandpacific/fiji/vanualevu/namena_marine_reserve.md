@@ -16,6 +16,7 @@ story: >
   practices. The villagers enforce strict no-take rules and collect fees from visiting
   dive operators, with the proceeds funding education and health services. The reserve
   is now considered one of the healthiest coral ecosystems in the South Pacific as a result.
+score: 9.1
 ---
 
 The Namena Marine Reserve, about 35 km south of Savusavu, protects an atoll system with some of the most extraordinary soft coral gardens anywhere in the Pacific. The colours — orange, purple, pink, red — are extraordinary on a good dive, and the fish life is prolific: barracuda, sharks, manta rays, and huge schools of reef fish are reliably present. The reserve is accessible only by boat from Savusavu or from liveaboard operations.

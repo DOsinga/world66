@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 The Taza Pir Mosque is the principal Shia mosque in Baku and the seat of the Caucasus Muslim Board. Built between 1905 and 1914 with funds from the wealthy benefactor Nabat Khanum Ashurbeyova, it survived the Soviet period as a state office before being returned to religious use in the 1990s.

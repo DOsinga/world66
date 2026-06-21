@@ -8,6 +8,7 @@ latitude: 43.9114
 longitude: 81.3203
 story: >
   Yining was the site of a major uprising in 1944 known as the Ili Rebellion, which established the short-lived East Turkestan Republic with Soviet support. The republic lasted until 1949 when it was absorbed into the People's Republic. The mosques of Yining that survived this period bear witness to the city's complex recent history — caught between Soviet, Chinese, and Uyghur claims on its identity and future.
+score: 7.4
 ---
 
 The Beytullah Mosque is one of the main mosques in central Yining, serving the city's substantial Uyghur Muslim population. The building combines Central Asian Islamic architectural traditions with some local adaptations — a wide, shaded courtyard, a wooden-columned prayer hall, and minarets that are visible from several blocks in any direction.

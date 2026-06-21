@@ -8,6 +8,7 @@ tags:
 latitude: 20.9674
 longitude: -89.6233
 snippet: 1906 ice cream parlour on the Plaza Mayor serving regional fruit sorbets since its founding
+score: 7.8
 ---
 
 The Dulcería y Sorbetería Colón has occupied the northwest corner of the Plaza Mayor since 1906 and is probably the most beloved institution in Mérida's food scene. The sorbets and ice creams are made from regional fruits — mamey, guanábana, tamarind, chico zapote, black zapote — that you are unlikely to find anywhere else. Sitting at an outside table with a sorbet, watching the plaza, is one of the essential Mérida experiences.

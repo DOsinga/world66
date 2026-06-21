@@ -6,6 +6,7 @@ longitude: 27.2535
 tags:
   - things_to_do
   - sight
+score: 5.1
 ---
 
 The Clock Tower stands at the seafront end of Atatürk Boulevard, just south of the cruise port. It is a stone-and-tile tower built in the early twentieth century in the Ottoman provincial style; the four faces of the clock above are still wound by hand.

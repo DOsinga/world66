@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.4
 ---
 
 The cream-coloured town hall on Caledonian Hill, with its red-roofed clock tower above a roundabout, is the building most people picture when they think of Gympie. It was completed in 1939 in a stripped-classical style, replacing a 19th-century predecessor, and is still in use by the Gympie Regional Council.

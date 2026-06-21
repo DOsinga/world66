@@ -7,6 +7,7 @@ tags:
 snippet: "Twin-peaked sacred mountain with panoramic Kanto Plain views"
 latitude: 36.2253
 longitude: 140.1065
+score: 8.8
 ---
 
 At 877 metres, Mount Tsukuba is modest by Japanese standards but famous out of all proportion to its height. It has been celebrated in poetry since the Man'yoshu anthology of the eighth century, and on clear days the summit delivers a wide panorama of the Kanto Plain with Mount Fuji visible to the southwest. The mountain has two peaks — Nantai-san (male peak, 871m) and Nyotai-san (female peak, 877m) — with the Tsukuba-san Shrine Okumiya sitting between them.

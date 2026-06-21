@@ -13,6 +13,7 @@ tags:
 - museum
 title: Roman Villa of Can Llauder
 type: poi
+score: 8.7
 ---
 
 The Roman Villa of Can Llauder is one of the best-preserved Roman sites in Catalonia. The villa dates from the first century AD and was the centre of a prosperous agricultural estate — the Roman town of Iluro (modern Mataró) was the administrative heart of the Maresme coast, and wealthy Romans built extensively here.

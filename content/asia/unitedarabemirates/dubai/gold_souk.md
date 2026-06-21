@@ -8,6 +8,7 @@ tags:
 - deira
 title: Gold Souk
 type: poi
+score: 8.0
 ---
 
 Dubai's Gold Souk in Deira is one of the largest gold markets in the world, with around 380 retailers selling everything from 18-carat Indian-style jewellery to heavy 22-carat Gulf pieces. The covered arcade runs for several hundred metres, and even without buying anything, the sheer quantity of gold on display — tens of thousands of items in window after window — is remarkable.

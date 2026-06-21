@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.6080
 longitude: 114.4820
+score: 7.0
 ---
 
 The Handan Museum is the primary institution for the city's archaeological collections and offers free admission. Its holdings cover the full span of Handan's long history, from Neolithic ceramics through Zhao-era bronzes, Han dynasty artefacts, and later periods. The Zhao kingdom material — bronze weapons, horse fittings, coins, and ritual vessels from the Warring States period — is the centrepiece, and the quality of the collection reflects how important Handan was as a capital city for more than a century.

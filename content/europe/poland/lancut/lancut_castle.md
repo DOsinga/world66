@@ -13,6 +13,7 @@ story: When Alfred Potocki fled before the Soviet advance in 1944, he loaded two
   silver, porcelain — and shipped them west. He left behind everything that was too
   large or heavy to move, which still amounts to one of the richest palace interiors
   in Europe.
+score: 9.4
 ---
 
 Łańcut Castle is one of the great aristocratic palaces of Central Europe, and the miracle is that so much of it survived. Built in the early 17th century by the Lubomirski family and expanded through the 18th and 19th centuries by the Potockis, the castle passed through three centuries of Polish noble life — wars, partitions, and two world wars — and came out the other end with a substantial part of its original furnishings and decorations intact.

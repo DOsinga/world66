@@ -15,6 +15,7 @@ story: >
   the screen built — giving each party their own section of the building.
 sources:
   - https://en.wikipedia.org/wiki/Dunster_Priory
+score: 8.2
 ---
 
 The parish church occupies the site of a Benedictine priory founded around 1100, and parts of the original Norman structure survive in the walls. The building was substantially rebuilt in the 15th century when the town was prosperous from the wool trade, and the result is a large and well-proportioned church — bigger than you would expect in a village this size.

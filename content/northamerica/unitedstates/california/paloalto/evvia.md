@@ -8,6 +8,7 @@ tags:
   - restaurant
 address: 420 Emerson Street
 snippet: "Long-running Greek taverna and Palo Alto power-lunch favourite"
+score: 7.2
 ---
 
 A serious Greek taverna a block off University Avenue, run since 1995 by the same family behind

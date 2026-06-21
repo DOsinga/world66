@@ -9,6 +9,7 @@ tags:
 latitude: 50.3666
 longitude: 7.6233
 story: "The French blew up the original castle in 1801 after a year-long siege. When the Prussians took the Rhineland in 1815 they spent the next twenty years building the largest fortress in Europe on the same spot — a deliberate insult to the French, who had to look at it across the river for the next century."
+score: 9.2
 ---
 
 The vast Prussian fortress on a 118-metre rock cliff above the Rhine is the largest preserved fortification in Europe. Nineteenth-century gun emplacements, parade grounds, casemates, and the State Museum of Koblenz fill a complex that takes most of an afternoon to explore properly.

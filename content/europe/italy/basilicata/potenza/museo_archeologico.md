@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The 'Dinos of Roccanova' — large bronze-decorated vessels from the 4th-century BC indigenous Italic culture of Basilicata — were rediscovered only in the 1980s during a routine roadworks excavation. Several are now the centrepiece of the collection."
+score: 8.2
 ---
 
 The regional archaeological museum, named after Dinu Adamesteanu, is the single best reason to spend an extra hour in Potenza. Spread across several galleries, it covers the prehistoric, Greek-colonial, and Roman archaeology of Basilicata — a region whose pre-Roman cultures (Lucanians, Enotrians) are barely known outside specialist circles.

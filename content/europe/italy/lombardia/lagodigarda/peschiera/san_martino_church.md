@@ -8,6 +8,7 @@ tags:
 latitude: 45.4406
 longitude: 10.6915
 sources: []
+score: 5.2
 ---
 
 The Church of San Martino, on Piazza Ferdinando di Savoia in the centre of the old town, is Peschiera's parish church. The current building dates from the 18th century, replacing a medieval church that was demolished during the Venetian fortification works. Inside, the high altar is decorated with frescoes attributed to the school of Tiepolo, and the nave holds several paintings from the same period.

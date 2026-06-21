@@ -5,6 +5,7 @@ tags: [things_to_do, market]
 snippet: Working fishing harbour below the fort, lively in late afternoon
 latitude: 4.7958
 longitude: -1.9464
+score: 7.6
 ---
 
 The natural harbour below Fort Metal Cross is the centre of village life. Wooden fishing canoes painted in primary colours are pulled up on the sand or moored offshore; in the late afternoon and early evening they return with the day's catch.

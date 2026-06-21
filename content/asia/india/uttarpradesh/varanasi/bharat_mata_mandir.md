@@ -14,6 +14,7 @@ story: >
   It was the first temple in India dedicated to the nation rather than to a deity.
 sources:
   - https://en.wikipedia.org/wiki/Bharat_Mata_Mandir
+score: 6.5
 ---
 
 Bharat Mata Mandir (Mother India Temple) is one of the more unusual religious buildings in Varanasi and in India. Inaugurated by Mahatma Gandhi in 1936 during the independence movement, it contains no statues of gods — instead, the sanctum holds a large marble relief map of undivided India, complete with mountains, rivers, and plains, built to an accurate topographic scale. Devotion is directed to the nation itself.

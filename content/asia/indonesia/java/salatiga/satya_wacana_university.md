@@ -10,6 +10,7 @@ title: Satya Wacana Christian University
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Satya_Wacana_Christian_University
+score: 5.2
 ---
 
 Satya Wacana Christian University (Universitas Kristen Satya Wacana, UKSW) is one of the most respected private universities in Indonesia, with roots in the Dutch missionary educational tradition of the colonial era. The campus is well-maintained and set in a quiet part of northern Salatiga. The university draws students from across the Indonesian archipelago and from internationally, giving the city a cosmopolitan character unusual for a town of its size.

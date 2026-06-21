@@ -14,6 +14,7 @@ story: >
   being sent to St. Mary's Industrial School for Boys at age seven, where he was
   taught baseball by a monk named Brother Matthias. He later credited Matthias with
   being the greatest man he ever knew.
+score: 6.8
 ---
 
 The Babe Ruth Birthplace Museum is a small but well-done museum in the actual rowhouse where Ruth was born in 1895, two blocks from Camden Yards. The museum covers his Baltimore childhood, his career with the Red Sox and Yankees, and his place in baseball history. The connection between the man and the city is often overlooked — Ruth spent the most formative years of his life in Baltimore before Boston bought his contract.

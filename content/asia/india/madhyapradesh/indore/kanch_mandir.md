@@ -14,6 +14,7 @@ story: >
   from Belgium and Germany — a decision that shocked contemporaries who expected stone or
   marble in a place of worship. The effect, especially in candlelight, is like being inside
   a kaleidoscope.
+score: 7.7
 ---
 
 Kanch Mandir (the Glass Temple) is one of the most unusual religious buildings in central India, a Jain temple built in the early 20th century and entirely encased in coloured mirror glass — floor, ceiling, columns, walls, and even the steps. The mirrors are in rich jewel tones of blue, green, red, and gold, and when the interior is lit the effect is dazzling, almost overwhelming.

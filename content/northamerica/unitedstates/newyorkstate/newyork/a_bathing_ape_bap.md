@@ -9,6 +9,7 @@ tags:
 title: A Bathing Ape (Bape)
 type: poi
 url: www.bapestas.net
+score: 4.8
 ---
 
 A Bathing Ape (Bape) sells kick arse streetgear out of an unassuming minimalist space between Prince and Spring Streets. This Tokyo label, with a cult following back home, features street style hoodies, hats, t-shirts, sweaters, and jackets as well as wild retro-style sneakers in neon colors you just won't find anywhere else in the world -- well, except Tokyo.

@@ -6,6 +6,7 @@ longitude: 57.4983
 tags:
   - bars_and_cafes
   - bar
+score: 4.2
 ---
 
 The Keg and Marlin is the long-running pub at Caudan Waterfront, a mock-British boozer that is the closest Port Louis gets to an after-work scene. Expats, embassy staff, and visiting yacht crews mix with locals who like the live music nights and the harbour-side terrace.

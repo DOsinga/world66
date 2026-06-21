@@ -5,6 +5,7 @@ snippet: Top of the unfinished Duomo Nuovo, one of the best views in Siena
 tags: [things_to_do, sight]
 latitude: 43.3177
 longitude: 11.3293
+score: 8.6
 ---
 
 In the 14th century the Sienese began an enormous new cathedral, of which the existing Duomo was meant to be only the transept. The Black Death of 1348 and structural problems killed the project; what stands today is the unfinished façade and right aisle.

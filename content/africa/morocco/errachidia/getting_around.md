@@ -1,26 +1,8 @@
 ---
-title: "Getting Around"
+title: Getting Around
 type: section
-address: "36 Aoufous - ErrachidiaB.P."
-email: " mhamdimohamed@yahoo.fr"
-phone: "+212 61 53 31 93/+212 61 83 51 51/Fax:21255571720"
-url: "www.errachidia.org"
 ---
 
-Go by camel back, bus, car, taxi or jeep.
+Errachidia is small enough to cross on foot in fifteen minutes. Petit taxis cruise the main avenue and the train station for short hops — flag one down or pick one up at the central square.
 
-### [Land Rover Rentals](/africa/morocco/errachidia/getting_around/land_rover_rentals)
-
-"Mhamdi Moha and Brothers" provide one of the best means of transportation for travelling around and that is a Land Rover (4X4). They also organize camps with Berber tents. They have a wonderful photo album to prove the beauty that can be seen-
-
-
-
-[[rate it]](/africa/morocco/errachidia/getting_around/land_rover_rentals)
-
-tel: +212 61 53 31 93/+212 61 83 51 51/Fax:21255571720
-
-url: [www.errachidia.org](http://www.errachidia.org/tourisme/moha.php)
-
-address: 36 Aoufous - ErrachidiaB.P.
-
-email:
+For the surrounding region, the bus and grand taxi stations are close to the centre. Shared grand taxis are the most flexible way to reach Erfoud, Rissani, Goulmima, or the Source Bleue de Meski. For the dunes at Merzouga or longer desert excursions, several local operators in town run 4x4 trips — Place Hassan II is the main agency strip.

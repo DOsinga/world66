@@ -15,6 +15,7 @@ story: >
   twentieth century, the wheat crop collapsed, and the mill closed within a
   generation. Its colour and setting outlasted its commercial life by more
   than a hundred years.
+score: 8.8
 ---
 
 Alley Spring sits at the bottom of a wooded bowl twelve miles west of Eminence, and the deep blue pool with the bright red mill rising behind it is one of the signature images of the Missouri Ozarks. The spring pushes out around 81 million gallons of cold water a day, enough to drive the mill's turbine year-round before it closed in the 1920s.

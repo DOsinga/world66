@@ -8,6 +8,7 @@ tags:
 latitude: 36.7350
 longitude: -4.0971
 snippet: "Two kilometres of grey-gold sand, the town's defining feature"
+score: 6.7
 ---
 
 Torre del Mar's beach runs for about two kilometres along the full length of the town, backed by the Paseo Marítimo. It is wide — 50 to 80 metres of grey-gold sand — with calm, clear water sheltered from Atlantic swells by the headlands to the west. The beach is well maintained, with lifeguards in summer, and has pedalo and sunbed hire along most of its length.

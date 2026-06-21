@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: DiR
 type: poi
+score: 2.3
 ---
 
 Barcelona's main gym chain, with locations across the city. The flagship in Horta-Guinardó is the largest: over 3,000 square metres with a pool, three saunas, two steam rooms, a squash court, and a bar-restaurant. A day pass runs around €11.

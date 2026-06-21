@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 39.76417
 longitude: -84.18500
+score: 5.9
 ---
 
 Day Air Ballpark is the home of the Dayton Dragons, the Single-A affiliate of the Cincinnati Reds, and one of the most popular minor league baseball venues in the country. The Dragons set a professional sports record for consecutive sellouts — over 800 games — a run that lasted from 2000 until COVID stopped play in 2020.

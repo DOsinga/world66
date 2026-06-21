@@ -9,6 +9,7 @@ latitude: 7.7810
 longitude: 4.5540
 sources:
   - https://en.wikipedia.org/wiki/Susanne_Wenger
+score: 8.2
 ---
 
 The Adunni Olorisha Trust was established to preserve the work and legacy of Suzanne Wenger, the Austrian artist who became a Yoruba priestess and spent five decades creating and restoring the Sacred Grove's artworks. Wenger was known locally as Adunni Olorisha — "the one who treasures the gods" — and her adopted home and studio in the city centre is now a museum and cultural foundation.

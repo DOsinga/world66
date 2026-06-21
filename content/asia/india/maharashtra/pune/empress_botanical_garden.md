@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.0
 ---
 
 A 39-acre garden in the cantonment, established under the British in 1830 and named for Queen Victoria after she was declared Empress of India in 1877. The garden is run today by the Agri-Horticultural Society of Western India and is one of the calmer green spaces in central Pune.

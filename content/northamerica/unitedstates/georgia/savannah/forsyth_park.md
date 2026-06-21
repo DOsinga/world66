@@ -10,6 +10,7 @@ tags:
 - park
 title: Forsyth Park
 type: poi
+score: 8.4
 ---
 
 Forsyth Park anchors the southern end of Savannah's historic district — a broad, shaded 30-acre park that locals treat as an outdoor living room. The centrepiece is the ornate white cast-iron fountain, installed in 1858 and immediately recognisable as Savannah's signature image. Live oaks border the paths, their branches spread wide and draped in Spanish moss.

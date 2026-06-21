@@ -10,6 +10,7 @@ latitude: 29.96167
 longitude: -90.07139
 story: >
   Every Sunday during the French colonial period, enslaved people from across New Orleans were permitted to gather here to trade, socialise, and make music. Witnesses described drums, banjos, singing, and dancing in African styles — documented as early as 1743. Nowhere else in North America was this legally allowed. The music made at Congo Square on those Sundays is the direct ancestor of jazz.
+score: 8.2
 ---
 
 Congo Square, within Louis Armstrong Park on the edge of Tremé, is one of the most historically significant sites in American music. During the French and Spanish colonial periods, enslaved Africans gathered here on Sundays to maintain the musical and cultural traditions of West Africa — drumming, singing, dancing in styles that had no parallel elsewhere in North America, where similar gatherings were suppressed. The result, over generations, was a fusion of African rhythmic traditions with European harmonics and American experience that became jazz.

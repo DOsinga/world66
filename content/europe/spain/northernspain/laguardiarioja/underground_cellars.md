@@ -13,6 +13,7 @@ story: >
   old town — some houses have private cellar entrances directly from the kitchen, and at the
   height of the phylloxera crisis in the late nineteenth century, families essentially lived
   above their only remaining liquid asset.
+score: 8.4
 ---
 
 Laguardia sits on a hollowed foundation. The entire medieval town is underlain by a labyrinth of wine cellars carved from the soft rock beneath the streets, some dating back to the thirteenth century. Many are still in use by local families and small producers. Several are open for guided visits, offering a chance to see the vaulted chambers, old oak barrels, and the ventilation shafts that regulate temperature year-round.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.6541
 longitude: 116.9920
+score: 8.2
 ---
 
 The network of alleys behind Furong Street, running south toward the old city wall area, contains some of the best-preserved hutong-style streetscape in Jinan. Spring water channels run between the walls, disappearing into drains and reappearing in pools; old stone bridges cross the channels at intervals; courtyard houses face the narrow streets with wooden doors and carved lintels.

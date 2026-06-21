@@ -10,6 +10,7 @@ tags:
   - sight
   - architecture
 snippet: "Modernista boulevard — Tarragona's main artery, lined with palm trees, cafés, and Catalan Art Nouveau buildings"
+score: 7.5
 ---
 
 Tarragona's main artery, a wide tree-lined boulevard running from the railway station to the **Balcó del Mediterrani** at the cliff edge. The Rambla is the city's social spine — locals do their evening *paseo* up and down it, the cafés along both sides fill from early afternoon, and the centre walkway is paved in patterned tiles in the style of Barcelona's Las Ramblas.

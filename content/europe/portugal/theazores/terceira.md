@@ -1,59 +1,24 @@
 ---
 done:
   location_cleanup: 2026-04-06
-latitude: 38.721165
+  location_enrich: '2026-06-04'
+image: terceira.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Algar_do_Carvao,_isla_de_Terceira,_Azores,_Portugal,_2020-07-25,_DD_68-70_HDR.jpg
+latitude: 38.7207
 loc_type: city
-longitude: -27.217638
+longitude: -27.22
 score: 0.65
+sources:
+- https://en.wikipedia.org/wiki/Terceira_Island
+- https://en.wikipedia.org/wiki/Angra_do_Hero%C3%ADsmo
 title: Terceira
 type: location
 ---
 
-Travel Guide
+Terceira is the third-largest island of the Azores and, in many ways, the most layered. Its capital, [Angra do Heroísmo](/europe/portugal/theazores/angra_do_heroismo), is a UNESCO World Heritage city — the streets of 15th and 16th century merchant houses, convents, and fortresses were designated in 1983, making Angra one of the earliest World Heritage cities on Atlantic soil. The island itself is a volcanic plateau ringed by dramatic sea cliffs, with a green interior punctuated by calderas, lava caves, and pasture.
 
-Terceira Island is located approximately 90 miles off Sao Miguel and 66 miles off Faial, and has a surface area of 148 sq. miles (382 km2). The international airport, located in "Lajes", about 2 miles from the city of "Praia da Vitoria", serves both civilian and military needs, and includes both the Military Command for the Azores as well as an important American Air Force Base. Terceira is the second most populated Azorean island with 58000 inhabitants.
+Terceira sits at a crossroads: it has an international airport with direct connections to Lisbon, Boston, and Toronto, making it a more accessible first entry point to the Azores than São Miguel. The American military has maintained a base at Lajes since World War II, which gives the island a subtly different cultural character from the other islands.
 
-**
-
-Panoramic View**
-
-The municipal seat is located in "Angra do Heroismo", where the The Pacos do Concelho" (City Hall), a majestic construction of the 19th century, is an important example of the rich patrimony of Angra.
-
-After a violent earthquaque in 1980 and the subsequent reconstruction of the city, a large portion of Angra's historical center has been classified Public Interest, and is included in the UNESCO's list of World Patrimony since 1986.
-Angra has one of the best public libraries and archives in the country which also retains some important private art collections.
-
-**
-
-Terceira Island**
-
-The network of streets of a town that is a monument in itself; Angra do Heroísmo was entitled as world-wide patrimony city. The colourful "impérios" or chapels that bear witness to popular devotion. The walls of a castle that was a royal prison. The constant presence of history. The gentle ondulation of a green countryside. The white triangle of the typical chimneys. Sides of the attractive and colourful prism that is Terceira.
-
-**
-Some of the places to visit**
-
-"Monte Brasil", classified as Protected Landscape, provides a recreational area and resting place as well as a fantastic view over the ocean and the city.
-
-The Sao Joao Baptista do Monte Brasil Fort, is a large, fortified wall 2.5 miles long.
-
-The Angra do Heroi­smo Museum, is located in the old Convent of St. Francis and is adjoined to the "Nossa Senhora da Guia" Church (Our Lady of Guidance).
-
-The "Imperios"(religious monuments) are all over the island and are considered interesting due to their coloured facade
-
-The "Algar do Carvao" is famous for its' grottoes that reach a depth of approximately 328 feet (100 meters). These spectacular grottoes contain stalactites, stalagmites and an interior lake. Near the "Algar" the "Enxofre, agua" and "Cabrito" Caves and the "Balcoes, Agulhas" and "Natal" Grottoes, are of special interest especially to scientists.
-
-"Praia da Vitoria" is a young city with one of the most inviting beaches of the Azores. The architectonic patrimony is concentrated in the churches and chapels.
-
-In "Biscoitos" you can visit the only wine museum in the Azores archipelago. This museum, inaugurated in 1990, illustrates the process of traditional wine making in the archipelago.
-
-**
-Some of local Festivities**
-
-"Sao Joaninas" (24th of June is the highest point of the festival though the celebrations take usually 10 days), the popular marches are the most important activity of the celebrations. The tauromathic fair is inserted in the Sao Joaninas.
-
-"Tourada a Corda" (Running of the Bulls) is another traditional activity all over the island. It consists in leaving the bull in the streets, tied with a rope, some men challenge the bull while other control the bull with the rope. There are touradas on a daily basis (sometimes 2 and 3 in one day). The season runs from May 1 to September 30.
-
-"Festas of Praia da Vitoria" (includes a gastronomical fair, with small restaurants from the whole of Portugal and some international as well)- second week of August.
-
-"Angrajazz" (jazz Festival in Angra do Heroí­smo: first weekend of October.
-
-"Ramo Grande Festival" (world music): End of October/beginning of November.
+Beyond Angra, the island rewards exploration. The [Algar do Carvão](/europe/portugal/theazores/terceira/algar_do_carvao) is a lava tube open to the public — one of the few in the world accessible on foot. The [Monte Brasil](/europe/portugal/theazores/terceira/monte_brasil) peninsula forms a natural headland above Angra with views across the Atlantic. And the tourada à corda — the Azorean style of bullfighting, where the bull is held on a rope by men in traditional costume rather than killed — runs from May to September and is as much theatre as sport.

@@ -10,6 +10,7 @@ tags:
 - sights
 title: The University
 type: poi
+score: 6.2
 ---
 
 The Universidad de Murcia's La Merced campus occupies a former convent beside the Iglesia de la Merced. The highlight is the beautiful Renaissance-style patio, open to visitors. Worth a quick stop if you are walking through the old town.

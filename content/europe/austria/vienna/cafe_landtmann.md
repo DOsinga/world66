@@ -6,6 +6,7 @@ longitude: 16.3608
 tags:
   - bars_and_cafes
   - cafe
+score: 7.7
 ---
 
 A grand 1873 coffeehouse next to the Burgtheater on the Ringstrasse, Café Landtmann was a favourite of Freud, Mahler, and most of the city's politicians (whose offices in the Rathaus are five minutes' walk away). The chandeliers, marble, and red velvet seats are exactly what people picture when they say 'Viennese coffeehouse.'

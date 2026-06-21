@@ -8,6 +8,7 @@ tags:
   - vieux_nice
 latitude: 43.6960
 longitude: 7.2750
+score: 7.4
 ---
 
 The Chapelle de la Miséricorde is considered one of the finest baroque interiors in the south of France, though it is small enough to be overlooked by visitors hurrying through Cours Saleya. Built in the 1740s for the Brotherhood of the Black Penitents, it has an oval plan, galleries supported by slender columns, and a ceiling fresco of extraordinary virtuosity — all achieved in a space the size of a large drawing room.

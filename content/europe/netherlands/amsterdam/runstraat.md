@@ -7,9 +7,9 @@ longitude: 4.8839
 snippet: Antique shops and boutiques in the Negen Straatjes canal district
 tags:
 - negen_straatjes
-- canal_ring
 title: Runstraat
 type: poi
+score: 6.8
 ---
 
 One of the nine cross-streets that give the neighbourhood its name — a compact run of antique shops, specialist bookshops, and boutiques in narrow 17th-century buildings. The Negen Straatjes work best by wandering without a plan; Runstraat is a good street to start on.

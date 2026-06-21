@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Jidir Duzu — literally the 'plain of racing' — was the traditional venue for Karabakh horse competitions, and the breed was once considered among the finest in the Caucasus. Azerbaijan revived the races on the plain in 2021 as a symbolic statement after the war."
+score: 9.3
 ---
 
 The Jidir Plain is a broad grassy plateau on the southern lip of the Dashalti gorge, just outside the old town walls. The views from the edge — straight down a sheer 400-metre limestone cliff into the river canyon — are the best in Shusha, and on a clear day you can see across into the mountains of Karabakh.

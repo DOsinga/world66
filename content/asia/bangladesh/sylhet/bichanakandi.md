@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.1900
 longitude: 91.8800
+score: 4.3
 ---
 
 Bichanakandi is another of the Sylhet day trips that exists because of the geology of the border: a river runs out of the Indian hills into Bangladesh through a wide stony bed, the water cold and clear, with green hills rising on the Indian side. Small boats run upriver from the put-in to the boulder fields near the border, where visitors wade among the stones in shallow rapids.

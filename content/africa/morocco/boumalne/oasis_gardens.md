@@ -8,6 +8,7 @@ tags:
 - nature
 title: Boumalne Oasis
 type: poi
+score: 7.0
 ---
 
 Below the new town of Boumalne, on the floor of the Dadès valley, lies the patchwork of date palms, fig trees, almond groves, and small vegetable plots that have supported life here for centuries. The oasis is fed by a complex network of khettara (underground channels) and seguia (surface canals), an irrigation system inherited from medieval Berber agriculture and still maintained by the families who own the plots.

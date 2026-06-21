@@ -8,6 +8,7 @@ latitude: 40.9500
 longitude: 121.3500
 story: >
   Bijia Mountain — "Brush Holder Mountain" — takes its name from the distinctive double-peak silhouette that resembles the ceramic stand used to hold calligraphy brushes. The peak rises directly from the sea, accessible via a causeway that floods at high tide, which means the timing of your visit matters as much as the decision to make it.
+score: 7.2
 ---
 
 Bijia Mountain is a coastal landmark south of Jinzhou where a rocky headland rises from the Bohai Sea, accessible at low tide via a stone causeway and surrounded by water at high tide. The mountain offers hiking trails with sea views and has enough distinctive rock formations — sea arches, eroded pillars, and tide pools — to make the climb worthwhile even in winter.

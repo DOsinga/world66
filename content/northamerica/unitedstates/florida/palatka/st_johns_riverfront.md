@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.6463
 longitude: -81.6228
+score: 6.0
 ---
 
 The St. Johns River at Palatka is wide, slow, and genuinely beautiful — one of the few rivers in North America that flows north. At Riverfront Park, a fishing pier juts out over the dark tannin-stained water and the views downriver toward the Memorial Bridge are peaceful in the early morning. The river here teems with largemouth bass, crappie, catfish, and bluegill, and the shallow grass beds upstream and down are productive for serious bass anglers.

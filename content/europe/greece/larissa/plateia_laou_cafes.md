@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 39.6375
 longitude: 22.4175
+score: 5.8
 ---
 
 The ring of outdoor cafes around Plateia Laou is the social centre of Larissa. Greek coffee culture is serious here — a frappe or a proper espresso comes with a glass of water and the expectation that you will stay as long as you like. The square-facing places are lively from early morning through late evening. During the summer months the outdoor seating expands to cover most of the square.

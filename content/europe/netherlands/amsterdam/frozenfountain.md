@@ -6,9 +6,9 @@ snippet: Curated Dutch design shop on the Prinsengracht
 tags:
 - shopping
 - design
-- canal_ring
 title: Frozen Fountain
 type: poi
+score: 6.2
 ---
 
 A long-established design shop on the Prinsengracht specializing in contemporary Dutch furniture and home accessories. Frozen Fountain represents independent designers and stocks pieces you won't find in chain stores — think sculptural lighting, handmade ceramics, and bold textiles. Not cheap, but worth browsing even if you're just looking. They carry some smaller items that work as distinctive gifts or souvenirs.

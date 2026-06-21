@@ -14,6 +14,7 @@ story: >
   panels are from the 14th to 17th centuries. The combination of age, colour, and
   scriptural narrative is extraordinary, visible to visitors who circumnambulate the
   outer precinct without entering.
+score: 8.7
 ---
 
 The ancient Shiva temple that crowns the Thekkinkadu Maidan hillock is one of the oldest in Kerala, dating in its current form to at least the early medieval period. The temple's architecture is classic Kerala style — steeply pitched tiled roofs, carved wooden screens, concentric enclosures — and its traditions are among the most conservative in the state. The temple complex covers a significant area of the hillock and the outer walls are accessible for circumambulation.

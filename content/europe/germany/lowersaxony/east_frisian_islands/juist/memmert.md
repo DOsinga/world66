@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 7.9
 ---
 
 Memmert is a tiny, uninhabited island visible from the western tip of Juist, lying about eight kilometres to the south-southwest in the Wadden Sea. It is a strict nature reserve — a single warden lives on the island during the breeding season — and has been protected since 1907, one of the earliest official bird reserves in Germany.

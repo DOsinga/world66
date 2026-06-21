@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wine_country
+score: 7.2
 ---
 
 Wilson Creek is the most-visited winery in the valley and the place most likely to be crowded on a weekend. It owes much of that traffic to its almond champagne — a sweet sparkling wine that has become the unofficial Temecula souvenir.

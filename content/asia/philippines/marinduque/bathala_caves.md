@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.45
 longitude: 121.84
+score: 7.4
 ---
 
 The Bathala Caves are a series of limestone chambers a few kilometres from Boac, worth visiting for the formations and the sense of exploring something that gets relatively few tourists. The caves contain stalactites and stalagmites, and some of the chambers are large enough to walk through comfortably. Local guides are available at the entrance and are worth hiring — the paths inside are unlit and the guides know the best routes through the system.

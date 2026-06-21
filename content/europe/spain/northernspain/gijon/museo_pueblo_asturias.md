@@ -8,6 +8,7 @@ tags:
   - culture
 latitude: 43.538
 longitude: -5.635
+score: 7.8
 ---
 
 The Museum of the Asturian People is an open-air ethnographic museum occupying a large park in the Somió neighbourhood east of central Gijón. Its collection consists of authentic rural buildings — granaries, farmhouses, mills, a forge, a chapel — transported from around Asturias and reassembled on the site, forming a landscape of traditional architecture that illustrates how the region's rural population lived from the 16th century through to the mid-20th. The hórreo (the raised grain store on stone pillars that dots every Asturian farm) appears in multiple variations, and the interiors are furnished and equipped to show working life.

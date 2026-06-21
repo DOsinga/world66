@@ -8,6 +8,7 @@ latitude: 63.1144
 longitude: 7.6631
 sources:
   - https://en.wikipedia.org/wiki/Stavnes_Lighthouse
+score: 6.5
 ---
 
 Stavnes Lighthouse (Stavneset fyr) stands on the coast of Averøy island, roughly 8 kilometres southwest of central Kristiansund. It marks the approach to the inner waterway and has been guiding ships into the Kristiansund harbour since the nineteenth century. The setting is characteristically west Norwegian — a low headland of smooth granite swept by Atlantic wind, with the sea visible in three directions and the town's islands visible to the northeast.

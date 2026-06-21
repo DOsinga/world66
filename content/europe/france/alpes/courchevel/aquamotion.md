@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.4093
 longitude: 6.6457
+score: 6.7
 ---
 
 Aquamotion is the largest alpine water and spa complex in Europe, opened in 2015 between Courchevel 1650 and Courchevel Village. It has indoor and outdoor heated pools, a wave pool, water slides, a surf simulator, a climbing wall, and a serious spa with steam rooms, saunas, and treatments.

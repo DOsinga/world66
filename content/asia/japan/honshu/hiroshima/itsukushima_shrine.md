@@ -15,6 +15,7 @@ story: >
   stalls are considered messengers of the gods.
 sources:
   - https://en.wikipedia.org/wiki/Itsukushima
+score: 9.2
 ---
 
 Built on wooden piers out over the tidal waters of Hiroshima Bay, Itsukushima Shrine appears to float at high tide — a deliberate illusion maintained since the original shrine was founded in 593 CE. The vermilion *torii* gate standing in the sea is one of Japan's most photographed images, and with good reason. At low tide you can walk out to its base.

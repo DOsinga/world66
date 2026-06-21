@@ -10,6 +10,7 @@ story: >
   The Naganathaswamy Temple is dedicated to Shiva in his serpent-lord form — Naga, the cosmic serpent — which is unusually prominent in this coastal stretch of Tamil Nadu. The Cauvery delta has a long tradition of naga worship, connected to the serpent's role in Hindu cosmology as the guardian of water sources and the depths of the earth.
 sources:
   - https://en.wikipedia.org/wiki/Nagore_Naganathaswamy_Temple
+score: 6.2
 ---
 
 The Naganathaswamy Temple is an ancient Shaiva temple in Nagore, dedicated to Shiva as the Lord of Serpents. The complex is smaller than the dargah but has a long history and a fine gopuram (gateway tower) that marks the entrance. The tank in front of the temple is used for ritual bathing on auspicious occasions.

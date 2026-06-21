@@ -6,6 +6,7 @@ tags:
   - sight
 title: Port El Kantaoui
 type: poi
+score: 5.6
 ---
 
 Port El Kantaoui is a purpose-built resort and marina about 10 kilometres north of Sousse, constructed from scratch in the 1970s in a vaguely Andalusian-Arabic style. It is the main concentration of upmarket hotels in the Sousse area and has a pleasant marina where yachts are moored alongside tourist restaurants and boutique shops. The beach is long, sandy, and well-maintained.

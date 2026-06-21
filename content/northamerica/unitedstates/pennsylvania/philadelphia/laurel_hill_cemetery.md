@@ -8,6 +8,7 @@ latitude: 39.9812
 longitude: -75.1707
 snippet: "A National Historic Landmark Victorian cemetery on a bluff above the Schuylkill — gorgeous funerary architecture and surprising history"
 story: "Rocky Balboa's fictional wife Adrian is buried here — the headstone was placed as a tribute by fans after the films. The cemetery takes it in good humor."
+score: 8.3
 ---
 
 Laurel Hill Cemetery opened in 1836 on a bluff above the Schuylkill River and quickly became the most fashionable place to be buried in Philadelphia. The result, nearly two centuries later, is one of the great repositories of Victorian funerary architecture in America — a National Historic Landmark where the monuments to captains of industry, Civil War generals, and prominent Philadelphia families compete in ambition if not in taste. The views of the river and Fairmount Park from the ridge are genuinely beautiful.

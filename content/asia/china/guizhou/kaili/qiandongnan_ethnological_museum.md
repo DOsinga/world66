@@ -8,6 +8,7 @@ latitude: 26.5828
 longitude: 107.9755
 story: >
   The silver jewellery in the Miao collection represents not just ornament but stored wealth — families have traditionally kept their savings in the form of silver headdresses and necklaces rather than in banks. A single elaborate festival headdress can weigh several kilograms and represent the accumulated savings of multiple generations. The largest pieces in the museum collection would have been worn once or twice in a lifetime, at major festivals or marriage ceremonies.
+score: 8.2
 ---
 
 The Qiandongnan Prefecture Ethnological Museum is the best single introduction to the minority cultures of the region, covering the material life of some twenty ethnic groups through several thousand artefacts. The silver jewellery collection — Miao filigree work, Dong silver ornaments, headdresses and breastplates from festival costumes — is extraordinary in scale and craftsmanship, and puts the decorative traditions you'll encounter in the villages into historical and cultural context.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Petrolia Discovery
 type: poi
+score: 7.5
 ---
 
 Petrolia Discovery is a living-history site on the southern edge of town, on the grounds of what was once a working oil field. Reconstructed 19th-century drilling rigs, a boiler house, and a sample of pumpjacks show how the early industry worked.

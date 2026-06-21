@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.3
 ---
 
 Chipiona's main parish church sits one block back from the seafront in the heart of the old town. The building is sixteenth-century at its core, with later baroque additions — a heavy tower, a tiled dome, a Mudéjar-influenced wooden ceiling in the central nave. The interior is plain by Andalucían standards: the centrepiece is a polychrome wooden statue of the Virgin attributed to the seventeenth-century school of Pedro Roldán.

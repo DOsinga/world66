@@ -14,6 +14,7 @@ story: >
   zone runs across northern Norway; Bodø sits within it. On strong geomagnetic nights 
   the display can be visible even in the southern sky from cities at much lower 
   latitudes, but from Bodø you see it directly overhead.
+score: 7.2
 ---
 
 Bodø lies within the auroral zone, the band of latitudes where the northern lights appear most regularly. The viewing season runs from late September through March — you need darkness, which the midnight sun season eliminates. The best conditions are clear, cold nights with low geomagnetic activity — counterintuitively, extremely active nights can produce displays that are too diffuse and rapidly moving to see clearly. The Norwegian meteorological service (yr.no) includes aurora forecasts; the Space Weather Prediction Center in the US publishes the Kp index, which is the number to watch.

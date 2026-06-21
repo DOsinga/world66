@@ -7,6 +7,7 @@ tags:
 latitude: 35.9069
 longitude: 14.5123
 snippet: Redeveloped peninsula at the tip of Sliema, with fort remnants, shopping, and harbour views
+score: 6.6
 ---
 
 The northern tip of Sliema, Tigné Point is a peninsula that was home to a British military fort until the 1970s. The fort — a circular structure designed by the British in the early 19th century — has been partly preserved and incorporated into a modern development of apartments, a shopping mall, and restaurants. It is a slightly strange hybrid, but the setting is genuinely spectacular: water on three sides, direct views across to Valletta and St Julian's.

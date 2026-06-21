@@ -7,6 +7,7 @@ tags:
 latitude: 38.7331
 longitude: 1.4169
 snippet: "Ancient salt pans in the north of the island, now a natural park and important birdwatching site"
+score: 7.9
 ---
 
 The salt pans at the northern end of Formentera are part of the Ses Salines Natural Park, a protected area that extends across the water to include the southern tip of Ibiza and the channel between the two islands. Salt has been harvested here since Roman times, and the shallow, mineral-rich water of the pans draws birds that you will not easily see elsewhere in the Balearics. Flamingos are the headliners — small flocks are present through much of the year, feeding in the shallows in their characteristically awkward way. Herons, egrets, and wading birds are reliable; osprey appears in migration season.

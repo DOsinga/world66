@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -39.1500
 longitude: -71.8167
+score: 7.4
 ---
 
 Lago Caburgua is a smaller, quieter alternative to Lago Villarrica, sitting about 24 kilometres northeast of Pucón in a sheltered valley. The water is extraordinarily clear and warm — warmer than Villarrica because it is shallower — and the white sand beaches on the southern shore are among the most attractive in the Lake District.

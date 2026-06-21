@@ -17,6 +17,7 @@ story: >
   in Russian medieval art.
 sources:
   - https://en.wikipedia.org/wiki/Church_of_the_Transfiguration_on_Ilyina_Street
+score: 9.0
 ---
 
 The Church of the Transfiguration on Ilyina Street is a modest 14th-century white-stone church that contains something extraordinary: the only surviving frescoes painted by Theophanes the Greek, one of the greatest artists of the Byzantine world. Theophanes came to Novgorod around 1370 and painted several churches here; this is the only one where his work has survived. The church was heavily damaged in World War II but has been carefully restored.

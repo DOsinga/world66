@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 49.8712
 longitude: 8.6555
+score: 6.2
 ---
 
 Zum Goldenen Engel is a traditional Hessian Wirtshaus near the market square, the place to come for regional cooking: Handkäse mit Musik (the pungent local sour-milk cheese served with vinegar-dressed onions — an acquired taste), Frankfurter Würstchen, and the apple-wine-braised pork dishes that define Hessian pub food. The interior is old-fashioned in a good way, with wooden booths and a clientele that mixes students with local regulars.

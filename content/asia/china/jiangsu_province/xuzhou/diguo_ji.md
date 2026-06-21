@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 34.2600
 longitude: 117.2100
+score: 6.3
 ---
 
 Diguo ji is the dish that defines Xuzhou's culinary character. A whole chicken (or large pieces) is braised hard with dried red chillies, star anise, doubanjiang (broad bean paste), and dark soy sauce in a flat-bottomed earthenware pot over direct flame. As the liquid reduces and intensifies, dough rounds — thick discs of unleavened bread — are stood upright around the pot's rim, propped against the chicken, where they steam and absorb the sauce from below.

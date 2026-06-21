@@ -9,6 +9,7 @@ tags:
 - seafood
 title: Kinabuch's Bar and Grill
 type: poi
+score: 5.9
 ---
 
 Kinabuch's is a long-running Puerto Princesa institution on Rizal Avenue, popular with both locals and travellers. The menu leans heavily on Palawan seafood — grilled fish, prawns, and squid — alongside tamilok for the adventurous. The crocodile sisig, made from farmed crocodile meat, is a local talking point: the texture is somewhere between chicken and fish, and the flavour is mild enough to work in the calamansi-and-onion preparation.

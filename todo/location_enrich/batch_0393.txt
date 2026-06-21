@@ -1,5 +1,0 @@
-asia/india/bihar/patna
-europe/greece/prefecture_of_serres/serres
-europe/faroeislands/suuroy/vgur
-europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bournemouth
-europe/france/centre/loirevalley/loches

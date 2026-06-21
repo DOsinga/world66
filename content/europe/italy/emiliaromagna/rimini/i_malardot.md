@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.9839
 longitude: 12.4128
+score: 6.4
 ---
 
 An authentic Romagnola osteria in Torriana, a hillside village around twenty kilometres inland from Rimini. The kitchen is famous for its homemade pasta — try the tortelloni stuffed with chickpea in rosemary sauce, or the ravioli with artichoke and Fossa cheese.

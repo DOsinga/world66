@@ -8,6 +8,7 @@ tags:
 - neighbourhood
 type: poi
 snippet: The regenerated old port, redesigned by Renzo Piano for Expo 1992
+score: 6.8
 ---
 
 The old port of Genoa was derelict for decades before architect Renzo Piano transformed it for the 1992 World Expo. The result is a large waterfront complex that contains the aquarium, the Neptune galleon, a science museum, an IMAX cinema, the Bigo (a distinctive crane-shaped structure with a panoramic lift), and several restaurants and bars. Piano, who grew up watching ships being loaded on these same docks, understood the industrial heritage of the port and kept much of the original warehouse and dock architecture intact.

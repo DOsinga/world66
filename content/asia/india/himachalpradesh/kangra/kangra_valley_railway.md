@@ -8,6 +8,7 @@ latitude: 32.0851
 longitude: 76.2625
 story: >
   The railway was built between 1926 and 1929 specifically to serve the pilgrimage traffic to Kangra and Jwalamukhi. At 164 km, it is one of the longest narrow-gauge railways in India. The line has 971 bridges and crosses 2 tunnels in its journey from the plains to Jogindernagar.
+score: 7.4
 ---
 
 The Kangra Valley Railway is a narrow-gauge line running 164 km from Pathankot on the plains to Jogindernagar in the mountains, passing through Kangra town roughly in the middle of its journey. The route crosses the foothills of the Himalayas, with the Dhauladhar range as a constant backdrop, and is widely regarded as one of the most scenic rail journeys in India.

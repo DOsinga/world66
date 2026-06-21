@@ -7,6 +7,7 @@ tags:
 - bar
 title: Zelda's
 type: poi
+score: 5.7
 ---
 
 Kind of kitschy, this interesting bar on Church Street in the Church-Wellesley Village — Toronto's LGBTQ+ neighbourhood — has been a fixture since the 1980s. It draws a mixed crowd and is known for themed nights on weekends in summer.

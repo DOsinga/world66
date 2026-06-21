@@ -1,5 +1,0 @@
-asia/philippines/corregidor
-northamerica/unitedstates/ohio/kent
-asia/vietnam/cuchi
-northamerica/belize/san_pedro
-africa/kenya/centralhighlands/isiolo

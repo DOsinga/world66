@@ -15,6 +15,7 @@ story: >
   the 1980s the caravans were a thousand camels strong. Today's are
   smaller — sometimes only a few dozen animals — but still genuinely
   walking, still navigating by the stars, still trading in the cones.
+score: 9.0
 ---
 
 The Azalai is not an attraction in the usual sense — there is no schedule, no ticket, and the caravans are working journeys, not performances. But if you are in Bilma during the season (roughly October to January) and you ask around, you will probably see one: a long line of camels on the eastern edge of town loading salt at the pans, with Tuareg drivers in indigo veils unhurriedly checking ropes and water skins.

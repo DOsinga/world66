@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -4.0022
 longitude: -79.2033
+score: 7.7
 ---
 
 Loja's central market is a lively and unpretentious place to eat. The ground floor is the food section — women behind steaming pots of caldo de gallina (chicken broth) and seco de carne (braised beef with rice) serve breakfast and lunch to a mostly local crowd. The market also stocks excellent tropical fruit from the lower valleys and potatoes and grains from the highlands above.

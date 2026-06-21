@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.0948
 longitude: 93.6310
+score: 6.2
 ---
 
 The Itafort Buddhist Temple, identifiable by its vivid yellow roof, is one of Itanagar's most visible landmarks and reflects the Tibetan Buddhist cultural current that flows through much of Arunachal Pradesh. The temple complex includes a large prayer hall decorated with thangka paintings and butter lamps, and a row of spinning prayer wheels along the entrance path.

@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-02'
 image: ocracokeisland.jpg
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Cape_Hatteras_086.JPG
@@ -8,6 +9,8 @@ latitude: 35.127959
 loc_type: city
 longitude: -75.922081
 score: 0.55
+sources:
+- https://en.wikipedia.org/wiki/Ocracoke_Island
 title: Ocracoke Island
 type: location
 ---

@@ -6,6 +6,7 @@ longitude: -85.5510
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 Scattered across Ometepe, especially on the slopes of [Maderas](/northamerica/nicaragua/lakenicaragua/maderas_volcano), are hundreds of pre-Columbian petroglyphs — spirals, faces, sun discs and stylised animals carved into volcanic boulders. They were made by the island's pre-Hispanic inhabitants between roughly 300 BC and 1500 AD, who called the place Ometepetl ("two mountains") in Nahuatl. The largest concentrations are around Magdalena, El Porvenir and the trail up to the Maderas crater lake.

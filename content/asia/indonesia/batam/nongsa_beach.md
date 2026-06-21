@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 1.1667
 longitude: 104.1167
+score: 7.3
 ---
 
 The best beaches on Batam are concentrated along the Nongsa coastline in the island's northeast, where several resorts maintain private stretches of sand facing Singapore across the Strait. The water is calm and clear compared to the industrial coast near Nagoya. Turi Beach Resort and Nongsa Point Marina Resort are the main anchors here, both offering day-pass arrangements that give access to their beach facilities, pool, and water sports equipment.

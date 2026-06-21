@@ -11,6 +11,7 @@ story: >
   contains some of Greenland's oldest exposed rock, over three billion years old, formed before complex
   life existed on earth. The sharp, dark peaks ringing the fjord are among the most ancient landscapes
   on the planet's surface.
+score: 8.8
 ---
 
 The mountains surrounding Tasiilaq offer some of the most dramatic hiking in the Arctic. Routes range from easy walks above the town to multi-day traverses of the icecap. The most popular summer hike climbs to the plateau above the fjord for panoramic views over the bay, the town's colored houses, and on clear days the Greenland icecap to the west.

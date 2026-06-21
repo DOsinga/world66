@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: The Great Divide
 type: poi
+score: 6.2
 ---
 
 The Continental Divide marks the line where water flows either west to the Pacific or east to the Atlantic. At this roadside stop on the Trans-Canada Highway, you can watch a small creek split in two directions — one branch heading for the Pacific, the other for Hudson Bay and ultimately the Atlantic.

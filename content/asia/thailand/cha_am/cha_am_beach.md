@@ -13,6 +13,7 @@ story: >
   town to its handful of expat residents and budget travellers during the week.
 sources:
   - https://en.wikipedia.org/wiki/Cha-am_district
+score: 6.6
 ---
 
 A long, wide beach of grey-brown sand backed by casuarina trees and a road lined with seafood restaurants, deckchair rental stalls, and the occasional jet-ski tout. The water is calm and clean enough for swimming, though not the transparent turquoise of the gulf islands further south.

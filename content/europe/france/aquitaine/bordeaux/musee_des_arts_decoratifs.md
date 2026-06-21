@@ -7,6 +7,7 @@ tags:
 latitude: 44.8397
 longitude: -0.5793
 snippet: Decorative arts from the Middle Ages to today in an 18th-century hôtel particulier
+score: 7.5
 ---
 
 The Musée des Arts Décoratifs et du Design occupies the Hôtel de Lalande, a fine 18th-century townhouse near the cathedral. The collection covers decorative arts from medieval silverware through faience, furniture, and metalwork to 20th-century design — a wide range presented in period rooms that work well with the building.

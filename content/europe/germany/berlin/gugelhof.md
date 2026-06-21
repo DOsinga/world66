@@ -11,6 +11,7 @@ tags:
 - prenzlauerberg
 title: Gugelhof
 type: poi
+score: 6.5
 ---
 
 A Prenzlauer Berg fixture on Kollwitzplatz, Gugelhof serves cuisine from the border region where Germany, France, and Switzerland meet -- think Flammkuchen, Rösti, and Alsatian tarte flambée alongside heartier German dishes. The terrace fills up fast in summer, looking out onto one of the neighbourhood's liveliest squares. Open daily from 10am to 1am, with meals served until 11:30pm.

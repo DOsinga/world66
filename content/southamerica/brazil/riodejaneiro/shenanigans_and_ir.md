@@ -11,6 +11,7 @@ tags:
 - bar
 title: Shenanigan's Irish Pub
 type: poi
+score: 3.5
 ---
 
 The most popular expat pub in Ipanema. Always crowded, with pool tables, a small balcony, decent steaks and plenty of international beers. A good place to meet other travellers. Open until 2-3 am most nights.

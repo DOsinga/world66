@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 44.7815
 longitude: 128.4502
+score: 5.9
 ---
 
 In summer the Yabuli ski slopes become hiking territory, with the resort's lift infrastructure either operating in limited capacity or shut down entirely. The trails that follow the ski runs upward through the Zhangguangcai Range offer long views over forested ridges and occasional glimpses of the Songhua River valley far below. The Korean pine forest is at its most atmospheric in late July and August, when the undergrowth is thick and the high-altitude air is noticeably cooler than the plains.

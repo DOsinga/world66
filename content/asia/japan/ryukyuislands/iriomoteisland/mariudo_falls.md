@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.3897
 longitude: 123.7958
+score: 7.9
 ---
 
 Mariudo is the more dramatic of the two famous waterfalls on the Urauchi River — a two-tiered cascade about 16 metres high that drops into a wide circular pool the colour of weak tea. A wooden viewing platform is set into the jungle slope opposite the falls.

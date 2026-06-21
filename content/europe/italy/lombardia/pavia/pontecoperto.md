@@ -12,6 +12,7 @@ story: "The original covered bridge at this location was built in 1351 and stood
   — a Pavia peculiarity — was also reconstructed."
 snippet: The covered medieval bridge over the Ticino, rebuilt after wartime bombing
 type: poi
+score: 8.2
 ---
 
 The Ponte Coperto is Pavia's most photographed sight: a covered stone bridge spanning the Ticino, with a small chapel in the centre and the Romanesque church of Santa Maria in Betlem visible at the far bank. The views from the bridge — upstream to the Apennines on a clear day, downstream to where the Ticino meets the Po — are among the best in the city.

@@ -6,6 +6,7 @@ tags:
 - sight
 title: Yi Peng Lantern Festival
 type: poi
+score: 8.8
 ---
 
 Yi Peng is Chiang Mai's most spectacular annual event, held during the full moon of the second month of the Lanna calendar — usually in November, coinciding with the national Loi Krathong festival. Thousands of paper lanterns (khom loi) are released simultaneously into the night sky, turning the darkness above the city into a slowly ascending galaxy of orange lights.

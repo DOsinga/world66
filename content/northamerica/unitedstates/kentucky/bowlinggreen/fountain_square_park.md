@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.9926
 longitude: -86.4428
+score: 5.9
 ---
 
 The central square of downtown Bowling Green, Fountain Square is the city's civic heart: a small park with a fountain, the Warren County Courthouse on one side and the Capitol Arts Center on another. It's the right place to get a feel for the scale and character of the city — neither impressive nor depressing, just a functional mid-sized American downtown that has held its identity through the decades of suburban sprawl.

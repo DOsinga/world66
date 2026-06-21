@@ -14,6 +14,7 @@ tags:
 - altstadt
 title: St Peter's Abbey and Cemetery
 type: poi
+score: 8.8
 ---
 
 **St Peter's Abbey** (Stift St Peter) was founded around 696 CE by St Rupert, the patron saint of Salzburg, and may be the oldest continuously occupied monastery in the German-speaking world. The Romanesque church was converted to baroque in the 18th century, and both the monastic cloisters and the famous library (containing over 100,000 volumes, some of them 9th-century manuscripts) are still in daily use by the Benedictine community.

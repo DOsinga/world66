@@ -5,6 +5,7 @@ latitude: 49.378
 longitude: -121.465
 snippet: "The confluence of the Coquihalla and Fraser rivers offers serious salmon and white sturgeon fishing on one of BC's great rivers"
 tags: [things_to_do, nature]
+score: 7.8
 ---
 
 Hope sits at the point where the Coquihalla River meets the Fraser, and the water around that confluence is productive fishing water. The Fraser through here holds chinook, sockeye, pink, and coho salmon depending on the run, along with white sturgeon — a species that can exceed three metres in length and has been in this river since before the dinosaurs disappeared. Sturgeon fishing on the Fraser is catch-and-release only, but it is the kind of fishing that gets talked about for years.

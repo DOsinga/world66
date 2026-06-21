@@ -8,6 +8,7 @@ tags:
   - zeeheldenkwartier
   - restaurant
 neighbourhood: Zeeheldenkwartier
+score: 5.9
 ---
 
 A long-standing neighbourhood bistro on the Piet Heinstraat in the Zeeheldenkwartier, doing classic French-Dutch cooking — good steak, seasonal vegetables, proper sauces — in a small room with bare tables and no pretension. It has been here for years and the locals keep coming back. The menu changes with the season. Book ahead, as the room is small and fills up.

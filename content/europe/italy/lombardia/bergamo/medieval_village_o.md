@@ -7,6 +7,7 @@ tags:
 title: Medieval Village of Oneta & Cornello dei Tasso
 type: poi
 snippet: "Two medieval villages tied to Harlequin and the origins of the postal service"
+score: 7.6
 ---
 
 Two tiny medieval villages in the Brembana Valley, each with a surprising claim to fame. **Oneta**, near San Giovanni Bianco, is home to the Casa di Arlecchino -- the supposed birthplace of the Harlequin character from the commedia dell'arte. The village itself is a well-preserved cluster of stone farmhouses, barns, and narrow lanes. Visits by reservation only (tel. 0345.43262, hours 10-12 and 15-18). Nearby, the Taverna di Arlecchino serves typical local dishes (tel. 0345.42458).

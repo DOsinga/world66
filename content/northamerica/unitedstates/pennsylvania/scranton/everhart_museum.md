@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.4194
 longitude: -75.6500
+score: 6.7
 ---
 
 The Everhart Museum sits in Nay Aug Park, north of downtown — a small but eclectic collection covering natural history, American folk art, and a surprisingly good set of European and American paintings. It was founded in 1908 by a local doctor, and the collection still reflects his interests: a mounted dodo skeleton, Tiffany glass, John James Audubon prints, and a roomful of Dutch Old Masters.

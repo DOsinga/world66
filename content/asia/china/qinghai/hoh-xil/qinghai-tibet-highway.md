@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.6000
 longitude: 91.5000
+score: 7.1
 ---
 
 The Qinghai-Tibet Highway (National Route 109) runs for over 1,900 kilometres from Xining to Lhasa and crosses the eastern edge of Hoh Xil at altitudes consistently above 4,500 metres. This section of the highway — between Golmud in Qinghai and Amdo County in Tibet — is one of the most dramatic drives in China, across a landscape of extraordinary emptiness: flat plateau, distant snow peaks, and a sky that seems larger than anywhere else on earth.

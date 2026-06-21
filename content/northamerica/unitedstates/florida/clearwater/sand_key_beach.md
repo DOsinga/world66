@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beaches
   - sight
+score: 7.5
 ---
 
 Sand Key Park sits on a barrier island just south of Clearwater Pass, offering 65 acres of beach and parkland that feel noticeably calmer than the main Clearwater Beach strip. The sand is the same fine white quartz, the water just as clear, but there are no jet skis, no parasail operators, and far fewer people. It is the beach locals go to when they want to actually relax.

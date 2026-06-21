@@ -6,6 +6,7 @@ tags: [things_to_do, sight, monument]
 latitude: 43.3456
 longitude: 17.8014
 story: "The complex was designed by the Belgrade architect Bogdan Bogdanović — better known for the Jasenovac flower memorial — as a stylised cosmic landscape, with the symbolic graves of partisans arranged like stars."
+score: 8.0
 ---
 
 On a hillside above western Mostar, the Partisan Memorial Cemetery is one of the most striking and least visited sights in Bosnia. Designed in 1965 by the Belgrade architect and theorist Bogdan Bogdanović, it commemorates around 700 Mostar partisans who died fighting the Axis in the Second World War. The terraces, walkways, and stone "graves" form a deliberately abstract landscape, more sculpture than cemetery.

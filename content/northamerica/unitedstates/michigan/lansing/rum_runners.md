@@ -10,6 +10,7 @@ tags:
 title: Rum Runners
 type: poi
 url: www.rumrunnersusa.com
+score: 5.1
 ---
 
 A dueling piano bar across from Lugnuts Stadium. The performers take requests and the audience participation makes for a high-energy evening. Drink specials nightly.

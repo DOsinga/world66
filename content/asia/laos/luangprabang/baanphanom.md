@@ -9,6 +9,7 @@ tags:
 - aroundluangprabang
 title: Baan Phanom
 type: poi
+score: 6.7
 ---
 
 Baan Phanom is a weavers' village a few kilometres east of Luang Prabang. The Lu people here are skilled cotton and silk weavers, and visitors can watch the process and buy cloth directly from the makers. It is an easy bicycle ride from the old town.

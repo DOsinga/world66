@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - sight
+score: 7.1
 ---
 
 The main square on the eastern side of the old town is named for Joan of Arc, with the inevitable equestrian statue at its centre. Most of the time it is a quiet open space lined with plane trees and a couple of cafés.

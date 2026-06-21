@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 48.9000
 longitude: 5.3500
 snippet: "The 'Sacred Way' — Verdun's lifeline road during the 1916 battle"
+score: 7.8
 ---
 
 The 75-kilometre stretch of country road between Bar-le-Duc and Verdun was the only supply line into the besieged town during the Battle of Verdun. Trucks ran along it bumper-to-bumper, day and night, for ten months — at the height of the battle, one passed every 14 seconds in each direction. Soldiers nicknamed it the Sacred Way; it was given that name officially in 1923.

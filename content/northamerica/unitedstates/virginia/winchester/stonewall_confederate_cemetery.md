@@ -8,6 +8,7 @@ tags:
   - sight
   - history
 snippet: Final resting place of 829 Confederate soldiers, adjoining Mount Hebron Cemetery on the eastern edge of Old Town.
+score: 5.3
 ---
 
 The Stonewall Confederate Cemetery lies adjacent to Mount Hebron Cemetery on the east side of Winchester, and contains the remains of 829 Confederate soldiers who died in the city's many engagements or in the military hospitals that Winchester operated throughout the war. The cemetery was established by the Ladies Confederate Memorial Association in the 1860s, a pattern repeated across the South as women's organizations took on the work of burying and commemorating the dead that state and federal governments were not willing to fund.

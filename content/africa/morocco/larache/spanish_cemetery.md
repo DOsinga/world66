@@ -8,6 +8,7 @@ latitude: 35.1872
 longitude: -6.1468
 story: >
   Jean Genet spent his last years in Larache and asked to be buried here among the Spanish dead. He died in Paris in April 1986 and was brought back to the town he had adopted. His grave, marked by a simple white stone, receives a steady trickle of literary pilgrims — a small but persistent reminder that this overlooked Moroccan town meant something to one of the 20th century's most transgressive writers.
+score: 7.0
 ---
 
 On the southern edge of town, the Spanish Cemetery holds the graves of the Spanish colonists who stayed and died in Larache during the protectorate years and after. The cemetery is calm and well-kept, with whitewashed walls and rows of modest headstones shaded by trees.

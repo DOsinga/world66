@@ -6,6 +6,7 @@ longitude: 57.5042
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 Marie Reine de la Paix is an open-air shrine cut into the side of Signal Mountain, above the southern edge of the city. A series of broad stone terraces climbs up to a marble statue of the Virgin, with views over Port Louis and the harbour from each level.

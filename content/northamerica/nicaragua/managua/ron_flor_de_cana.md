@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 12.1364
 longitude: -86.2514
+score: 7.0
 ---
 
 Flor de Caña is one of Central America's most respected rums, produced at the Compañía Licorera de Nicaragua in Chichigalpa, about two hours northwest of Managua. The distillery has been operating since 1890 and produces a range of aged rums — from the four-year blanco to the 25-year Gran Reserva — that compete seriously with Caribbean rums for international awards.

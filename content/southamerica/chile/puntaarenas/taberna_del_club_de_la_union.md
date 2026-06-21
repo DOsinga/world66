@@ -6,6 +6,7 @@ longitude: -70.9100
 tags:
   - bars_and_cafes
   - bar
+score: 6.6
 ---
 
 In the brick-vaulted cellars beneath the **Palacio Sara Braun** on the Plaza, this is the most atmospheric bar in southern Patagonia. The ceilings are low, the walls hung with old photographs of the sheep barons and their staff, and the long bar runs along one side of a narrow tunnel of a room.

@@ -9,6 +9,7 @@ tags:
 - mountain
 title: Kniebis
 type: poi
+score: 6.7
 ---
 
 Kniebis is a small village strung along the B28 at 935 metres, marking the high point of the road between Freudenstadt and the Rhine valley. The setting is austere — exposed moorland and pine, with views west on clear days to the Vosges. It has been a small spa and a winter sports outpost since the late 19th century; today a couple of modest hotels, a small Heimatmuseum, and a network of trails are the main offering.

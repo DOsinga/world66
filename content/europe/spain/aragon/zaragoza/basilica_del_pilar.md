@@ -14,6 +14,7 @@ story: >
   Marian shrine in Christendom, predating even the Assumption. Whether or not you credit
   the legend, the pillar itself is still there inside the church, and pilgrims queue
   to touch it through a silver casing.
+score: 8.7
 ---
 
 The Basílica de Nuestra Señora del Pilar is Zaragoza's most important building and one of the great pilgrimage churches of Spain. Built in the 17th and 18th centuries on a site associated with a legendary apparition of the Virgin Mary, it dominates the Plaza del Pilar with its enormous Baroque bulk — eleven domes, four towers, and a facade that stretches along the Ebro riverfront for nearly 150 metres.

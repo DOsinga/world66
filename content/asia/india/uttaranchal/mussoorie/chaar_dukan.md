@@ -7,6 +7,7 @@ tags:
 latitude: 30.471
 longitude: 78.104
 snippet: Four small restaurants at the top of Landour — the best breakfast spot in Mussoorie
+score: 7.5
 ---
 
 Chaar Dukan — literally "four shops" — is a cluster of small restaurants and tea stalls at a crossroads near the top of Landour, well above the main town bustle. The setting is the main reason to come: wooden benches, valley views, cool air, and the village character of Landour rather than the tourist strip of The Mall.

@@ -12,6 +12,7 @@ tags:
 - sights
 title: La Casa Mila
 type: poi
+score: 9.1
 ---
 
 La Casa Mila, nicknamed La Pedrera ("The Quarry") for its rough-hewn stone facade, is the last major residential building Gaudí designed. Built between 1905 and 1910, it wraps around Passeig de Gràcia with rippling balconies and an organic roofline that looks like nothing else on the boulevard.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Sanglokh Optical Observatory
 type: poi
+score: 6.6
 ---
 
 Above Nurek on the Sanglokh ridge sits the Sanglokh Optical-Electronic Observatory, a Soviet-built facility designed in the 1980s to track satellites and observe deep space. The high altitude and dry, clear air made it one of the best optical observation sites in the USSR. The complex is now operated by Russian and Tajik authorities.

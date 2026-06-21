@@ -7,6 +7,7 @@ tags:
 latitude: 43.7935
 longitude: 7.6048
 snippet: Medieval old town of stepped lanes, Romanesque churches and market squares
+score: 8.0
 ---
 
 Ventimiglia's old town occupies a rocky promontory above the mouth of the Roja river, separated from the modern town by the river itself. Getting there means crossing one of the old bridges and climbing — the streets are narrow, steep, and in places stepped, lined with tall medieval houses in terracotta and ochre. It is genuinely quiet up here: few tourists make the effort, and the daily life you encounter feels lived-in rather than performed.

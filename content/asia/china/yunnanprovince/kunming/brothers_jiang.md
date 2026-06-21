@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - noodles
+score: 5.8
 ---
 
 The best-known crossing-the-bridge noodle chain in Kunming, Brothers Jiang has dozens of branches scattered across the city, with the most accessible just off Jinbi Square and on Wenlin Street. The format is the same everywhere: pick a set, pay at the counter, take a numbered token to a table, and a tray arrives with the broth, the raw ingredients, and a basket of rice noodles to add in order.

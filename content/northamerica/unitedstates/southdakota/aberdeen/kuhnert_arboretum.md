@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.3
 ---
 
 A 19-acre arboretum on the southern edge of town, Kuhnert has well-labelled tree collections, prairie restoration plots, and a network of easy walking paths. It is one of the few places in Aberdeen where you can see what the local landscape looked like before the plough — patches of native tallgrass prairie that flower in midsummer.

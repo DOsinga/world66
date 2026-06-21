@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -26.2022
 longitude: 28.0369
+score: 7.1
 ---
 
 Newtown is a cultural precinct in the western CBD, built around a cluster of institutions that survived and in some cases defined the apartheid era. The [Market Theatre](/africa/southafrica/johannesburg/market_theatre) is its centrepiece — South Africa's most historically significant venue for drama, where banned and controversial work was staged when it could not be shown elsewhere. The Museum Africa (the city's main history museum, housed in a former fruit market) and the Sci-Bono Discovery Centre occupy nearby buildings.

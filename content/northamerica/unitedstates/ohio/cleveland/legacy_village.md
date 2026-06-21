@@ -12,6 +12,7 @@ tags:
 title: Legacy Village
 type: poi
 url: www.legacy-village.com
+score: 4.3
 ---
 
 An attractive main-street shopping center across from Beachwood Place, focused on furniture, housewares, and dining. Joseph-Beth bookstore, Crate and Barrel, Restoration Hardware, and Arhaus Furniture are the anchors.

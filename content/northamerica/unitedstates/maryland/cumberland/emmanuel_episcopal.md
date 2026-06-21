@@ -9,6 +9,7 @@ tags:
   - church
   - historic
 snippet: "Gothic Revival church built on the site of Fort Cumberland."
+score: 6.8
 ---
 
 Emmanuel Episcopal stands on the hill at the centre of Cumberland — the same hill where Fort Cumberland once stood. The current Gothic Revival church was completed in 1851 in a sober brownstone, with a tall spire that still anchors the city skyline. Earthworks from the old fort, including a section of trench, can still be seen on the surrounding lawn.

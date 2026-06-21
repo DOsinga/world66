@@ -8,6 +8,7 @@ tags:
 title: Aussie Cafe and Resto
 type: poi
 url: aussiecafe.multiply.com
+score: 3.8
 ---
 
 This is a new restaurant located at the heart of Alabang, Muntinlupa. Known for its Chef Bernie's Mouthwatering Ribs, good Australian Coffee, and steaks...this Restaurant has a wide array of food items that you can choose from...all at reasonable prices. The location itself is suited for quite, peaceful breakfast, lunch, or dinner.

@@ -16,6 +16,7 @@ tags:
 - sight
 - architecture
 - downhill
+score: 7.9
 ---
 
 High Bridge spans the River Witham at the foot of Lincoln High Street and is the oldest bridge in Britain still carrying buildings on its span — a 12th-century stone arch with a 16th-century half-timbered house perched on top. The bridge is a structural curiosity (and a tight squeeze for pedestrians on a busy market day) and the half-timbered house above it has been a Stokes tea room since the 1930s.

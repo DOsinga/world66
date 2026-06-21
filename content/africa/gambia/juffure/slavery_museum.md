@@ -7,6 +7,7 @@ tags:
 latitude: 13.4138
 longitude: -16.3754
 sources: []
+score: 7.8
 ---
 
 The National Museum of Albreda and Juffure, in the neighbouring village of Albreda about a kilometre from Juffure, is housed in the restored Maurel Frères building — an old French trading post from the late 18th century. The exhibits cover the history of the Atlantic slave trade in the Gambia, the Mandinka kingdoms that controlled the river before Europeans arrived, and the village's connection to Alex Haley's research.

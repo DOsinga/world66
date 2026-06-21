@@ -10,6 +10,7 @@ tags:
 title: Lehde Open-Air Museum
 type: poi
 snippet: "Boat-access-only Sorbian farmsteads in the Spreewald canals"
+score: 8.0
 ---
 
 The village of Lehde sits a short boat ride from Lübbenau and has no road access at all. The Freilandmuseum (open-air museum) preserves several original Sorbian farmsteads from the 18th and 19th centuries: thatched barns, small vegetable plots, and the stilt granaries built to stay dry above the seasonal floods. It is one of the best places in Germany to see how Slavic rural life looked before industrialisation swept it away.

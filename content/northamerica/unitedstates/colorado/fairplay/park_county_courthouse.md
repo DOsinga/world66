@@ -9,6 +9,7 @@ latitude: 39.2256
 longitude: -106.0017
 sources:
   - https://en.wikipedia.org/wiki/Park_County_Courthouse_and_Jail
+score: 6.1
 ---
 
 The 1874 Park County Courthouse and Jail on Front Street is listed on the National Register of Historic Places and is one of the oldest functioning courthouses in Colorado. The brick building has a frontier simplicity that fits well with the surrounding town — no grand columns or civic pretension, just a sturdy two-storey structure that has outlasted the mining boom that built Fairplay.

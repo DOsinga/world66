@@ -7,6 +7,7 @@ tags:
 - museum
 title: Pars Museum
 type: poi
+score: 7.7
 ---
 
 The Pars Museum occupies the Kolah Farangi — the "European Hat" — an octagonal pavilion built by Karim Khan in the 1760s as the centrepiece of his private Nazar Garden. The little building has eight sides, painted plaster vaulting, and walls covered in detailed Zand-era frescoes showing scenes of court life, hunting, and battles.

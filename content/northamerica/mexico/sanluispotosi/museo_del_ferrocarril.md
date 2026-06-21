@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 22.1542
 longitude: -100.9785
+score: 7.2
 ---
 
 The Railway Museum occupies the old San Luis Potosí railway station and its surrounding yards, a sprawling complex that at its peak connected the city to Mexico City, Tampico, Laredo, and the northern mining districts. The collection includes restored steam locomotives, passenger carriages from the Porfiriato era, dining cars, and a variety of railway equipment.

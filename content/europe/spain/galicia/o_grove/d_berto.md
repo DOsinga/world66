@@ -11,6 +11,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "O Grove's seafood temple — straightforward grilled and steamed shellfish at the absolute peak of quality"
+score: 8.7
 ---
 
 The most serious seafood restaurant in O Grove and one of the great seafood restaurants of Spain. The dining room is unfussy — white tablecloths, polite service, a long display of the day's catch on ice at the entrance — and the cooking is the same: nothing complicated, just the best shellfish you can buy on the Ría de Arousa, steamed or grilled to the second. The percebes are unmatched.

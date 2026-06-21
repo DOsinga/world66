@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.5200
 longitude: -109.7200
+score: 9.1
 ---
 
 Cedar Mesa is a high sandstone plateau west of Blanding, cut by a series of canyons that shelter one of the highest concentrations of Ancestral Puebloan ruins anywhere in the Southwest. The sites range from single granaries perched on ledges to multi-room cliff dwellings tucked under sandstone overhangs; the most significant are found in Grand Gulch and its tributaries. The BLM estimates there are more than 500 recorded sites in the area, and surveys continue to find new ones.

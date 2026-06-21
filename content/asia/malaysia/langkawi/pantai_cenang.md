@@ -9,6 +9,7 @@ tags:
 - neighbourhood
 title: Pantai Cenang
 type: poi
+score: 7.3
 ---
 
 Langkawi's main tourist strip: two kilometres of white sand backed by a single road lined with bars, cheap food, dive shops, and budget hotels. Not for a quiet retreat but excellent for eating and drinking. The sunset from the beach is dependable.

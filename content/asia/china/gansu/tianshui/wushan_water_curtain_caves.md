@@ -14,6 +14,7 @@ story: >
   itself a political statement. The spring that seeps from the cliff face and falls as
   a curtain of water in front of the Buddha gave the site its name, and the effect —
   water running down the carved face — is intentional and theatrical.
+score: 8.5
 ---
 
 The Wushan Water Curtain Caves are about 90 kilometres northwest of Tianshui and are among the least-visited significant Buddhist cave sites in Gansu. The main feature is a 30-metre cliff-carved Buddha accompanied by smaller figures, all dating from the fifth and sixth centuries, set in a dramatic location where a natural spring creates a curtain of water across the rock face. The combination of religious art, natural phenomenon, and remote setting is unusual even by the standards of Chinese cave sites.

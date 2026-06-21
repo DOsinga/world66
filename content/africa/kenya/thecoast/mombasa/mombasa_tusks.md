@@ -8,6 +8,7 @@ story: "The tusks were put up in 1952 for the visit of the then-Princess Elizabe
 tags:
 - things_to_do
 - sight
+score: 5.4
 ---
 
 The four giant aluminium tusks that arch over Moi Avenue in pairs are the most photographed thing in Mombasa, and easily the strangest piece of public sculpture on the Kenyan coast. They were erected in 1952 to commemorate Princess Elizabeth's visit, and have stood there ever since — first painted white, now polished aluminium. Pass under them in a tuk-tuk on the way into town and the city announces itself.

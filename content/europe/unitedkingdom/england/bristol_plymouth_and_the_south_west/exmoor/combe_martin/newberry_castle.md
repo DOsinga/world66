@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Newberry Castle
 type: poi
+score: 6.0
 ---
 
 Newberry Castle is the surviving earthwork of an Iron Age hillfort on Newberry Hill above Combe Martin — a roughly circular bank-and-ditch enclosure at 110 metres above sea level, hidden in undergrowth. There is no castle in the masonry sense and no visitor centre; it is a quiet, contour-mapped lump in the landscape best appreciated for its commanding position over the valley.

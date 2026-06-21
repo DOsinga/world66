@@ -6,6 +6,7 @@ longitude: -62.7894
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 A large swathe of tropical rainforest covering the central mountains of St. Kitts and protected as the second national park in the country (after Brimstone Hill). The terrain ranges from cloud forest on the upper slopes of Mount Liamuiga down through dry-tropical woodland on the lower hills.

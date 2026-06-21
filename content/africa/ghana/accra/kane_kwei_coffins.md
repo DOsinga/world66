@@ -9,6 +9,7 @@ latitude: 5.5495
 longitude: -0.2220
 snippet: "Workshop making the Ga tradition's famous carved coffins shaped as planes, fish, and more"
 story: "The fantasy coffin tradition of the Ga people involves burying the dead in elaborate carved and painted coffins shaped to represent something meaningful about the deceased's life: a fish for a fisherman, a Mercedes for a wealthy businessman, a cocoa pod for a farmer, a mobile phone for the modern Ghanaian. The Kane Kwei workshop, founded in the 1950s by master craftsman Seth Kane Kwei, is where the tradition was codified."
+score: 8.3
 ---
 
 The workshop in Teshie, southeast Accra, is where Ghana's most distinctive art form has its roots. Founder Seth Kane Kwei began making shaped coffins for his own family in the 1950s — a fantasy coffin for a chief who had never flown but dreamed of aeroplanes, a cocoa pod for a farmer — and the tradition spread across the Ga community. Now run by Kane Kwei's grandson Paa Joe, the workshop still takes commissions from families across Ghana and from collectors worldwide. Examples have been acquired by the British Museum, the Smithsonian, and major contemporary art institutions.

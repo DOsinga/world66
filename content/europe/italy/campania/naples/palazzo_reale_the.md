@@ -15,6 +15,7 @@ tags:
 - palace
 title: Palazzo Reale
 type: poi
+score: 7.3
 ---
 
 The Royal Palace, built by Domenico Fontana in 1600, fronts the grand Piazza del Plebiscito. Eight niches in the facade contain statues of Naples' most important monarchs. Inside, a museum occupies the royal apartments: 30 rooms with original furnishings, tapestries, and a royal chapel. The domed church of San Francesco di Paola across the piazza is free to enter.

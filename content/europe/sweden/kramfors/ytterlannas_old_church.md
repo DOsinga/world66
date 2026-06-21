@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 63.0064
 longitude: 17.7075
+score: 8.6
 ---
 
 About ten kilometres north of Kramfors stands one of the most complete medieval churches in northern Sweden. Ytterlännäs gamla kyrka was built in the 13th century and survives almost untouched, with stone walls, a wooden vault, and an extensive cycle of late-15th-century murals that cover almost every interior surface — saints, biblical scenes, devils, and folk-art motifs side by side.

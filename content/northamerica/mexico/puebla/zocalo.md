@@ -10,6 +10,7 @@ longitude: -98.1981
 snippet: "One of Mexico's finest colonial central plazas, flanked by the cathedral and its tallest bell towers"
 story: >
   Puebla's Zócalo has no permanent market stalls, unlike many Mexican plazas — an unusual distinction that gives it an open, ceremonial character. The cathedral's twin towers are the tallest in Mexico at 69 metres, visible from far outside the city.
+score: 8.4
 ---
 
 The Zócalo is the heart of Puebla's historic centre and one of the finest central plazas in Mexico. Ringed by colonial arcades (portales) sheltering cafes, restaurants, and shops, the square feels genuinely alive at all hours: shoe-shiners, vendors, families on benches, and the perpetual soundtrack of pigeons and street musicians.

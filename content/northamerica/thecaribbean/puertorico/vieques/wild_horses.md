@@ -10,6 +10,7 @@ latitude: 18.1167
 longitude: -65.45
 story: >
   No one is certain when the horses arrived — most likely brought by Spanish settlers in the seventeenth or eighteenth century — but they have run wild on Vieques for at least two hundred years. Population estimates vary between 1,500 and 3,000 on an island of around 9,000 people. They are not strictly feral livestock under Puerto Rican law, which has complicated every attempt to manage the herd, and they remain one of the island's defining sights.
+score: 7.2
 ---
 
 You will see them before you have unpacked your bag: small, sturdy horses grazing on the verge of the main road, drinking from puddles, occasionally trotting in single file down the centre of a residential street. They are the descendants of Spanish horses left behind centuries ago and have lived wild on the island ever since, with no natural predators and almost no fences.

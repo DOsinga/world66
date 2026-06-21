@@ -8,6 +8,7 @@ tags:
 - sight
 title: Encounter Zone
 type: poi
+score: 3.5
 ---
 
 An entertainment centre inside the Wafi Mall with a mix of rides, simulators, and attractions aimed at families and children. Features include a roller coaster simulator, 3-D cinema, and a Crystal Maze-style challenge area.

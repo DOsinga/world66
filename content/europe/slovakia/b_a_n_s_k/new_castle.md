@@ -15,6 +15,7 @@ story: >
   current restoration was completed relatively recently.
 sources:
   - https://en.wikipedia.org/wiki/Nov%C3%BD_z%C3%A1mok
+score: 7.4
 ---
 
 The New Castle — Nový zámok — stands on the hill opposite the Old Castle, the two fortifications forming a defensive bracket around the old town. Built in 1571 at the height of the Ottoman threat to central Slovakia, it is a four-story Renaissance tower with corner turrets, designed purely for military observation and defense rather than as a residence. It is smaller and more austere than the Old Castle.

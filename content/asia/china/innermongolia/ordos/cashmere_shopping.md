@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 39.8230
 longitude: 109.9800
+score: 5.7
 ---
 
 Ordos is where the Erdos cashmere brand originates, and the city's shops and factory outlets sell cashmere products at prices well below what you find in Beijing or Shanghai. The Erdos Group, founded in 1979, is one of China's largest cashmere processors, and its flagship outlet stores in Dongsheng offer the full range of the brand's products — scarves, sweaters, blankets, and accessories — at factory-adjacent prices. End-of-season sales can bring additional discounts of 30–50 percent.

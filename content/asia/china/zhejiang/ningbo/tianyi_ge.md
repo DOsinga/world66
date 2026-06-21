@@ -9,6 +9,7 @@ latitude: 29.8726
 longitude: 121.5355
 story: >
   The pavilion's name — Tianyi, meaning "Heaven is One" — comes from a line in the ancient text *Yijing* that associates water with the number one. Fan Qin named his library accordingly because water is the antidote to fire, and fire was a library's greatest enemy. He also constructed drainage channels and firebreaks around the building, and the combination of name and engineering worked: the collection survived four hundred and fifty years.
+score: 9.4
 ---
 
 TianYi Pavilion is the oldest surviving private library in China, built in 1561 by Fan Qin, a Ming dynasty official, to house his collection of over seventy thousand volumes. The two-storey wooden building is constructed with an unusual double-roof design that allows air circulation while protecting the collection from damp; drainage channels run under the floors; and the surrounding garden is planted with camphor trees, whose essential oils deter insects. These precautions kept the books intact for centuries while libraries around China burned or rotted.

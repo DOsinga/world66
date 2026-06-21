@@ -15,6 +15,7 @@ story: >
   residence. The castle was heavily damaged in a fire in 1812 and never fully
   rebuilt, leaving the ruined towers and walls that make it photogenic today.
   The eagles were a later addition — the falconry shows began in the 1970s.
+score: 7.9
 ---
 
 Landskron Castle is a ruined medieval hill fortress northeast of Villach, sitting atop a prominent ridge with sweeping views over the city and the Ossiacher See below. The castle dates from the 12th century and passed through multiple owners before a fire in the early 19th century left it as the romantically crumbled ruin visible today. The grounds are open to visitors and the walk up from the car park takes about 20 minutes through shaded forest.

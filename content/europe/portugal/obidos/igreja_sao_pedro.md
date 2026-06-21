@@ -6,6 +6,7 @@ longitude: -9.1576
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 The Igreja de São Pedro is a smaller church than Santa Maria but holds the tomb of **Josefa de Óbidos**, the most celebrated of the town's residents and one of the few notable Portuguese women painters of the 17th century. Her tombstone is set into the floor near the high altar.

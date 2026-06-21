@@ -4,7 +4,8 @@ type: poi
 tags: [eating_out, food]
 latitude: 41.14600
 longitude: -8.61100
-story: The Portuguese claim 365 ways to cook bacalhau — one for every day of the year — and the number is often challenged but never fully disproved. Porto's most beloved preparation, Bacalhau à Gomes de Sá, was invented in the city by a merchant named José Luís Gomes de Sá Jr. in the early 19th century. The recipe — salt cod, potatoes, onion, eggs, olives — is as straightforward as the man's intentions: sustaining, affordable, and good enough to eat every week.
+story: "The Portuguese claim 365 ways to cook bacalhau — one for every day of the year — and the number is often challenged but never fully disproved. Porto's most beloved preparation, Bacalhau à Gomes de Sá, was invented in the city by a merchant named José Luís Gomes de Sá Jr. in the early 19th century. The recipe — salt cod, potatoes, onion, eggs, olives — is as straightforward as the man's intentions: sustaining, affordable, and good enough to eat every week."
+score: 7.4
 ---
 
 Portugal consumes more salt cod per capita than any other country in the world, and Porto is the place where that relationship is most visible. The dried and salted cod stacked in wooden crates at the Mercado do Bolhão, the bacalhau preparations that appear on every menu, the specialist shops devoted entirely to different grades of fish — this is a culture that treats salt cod not as a nostalgic specialty but as a weekly staple.

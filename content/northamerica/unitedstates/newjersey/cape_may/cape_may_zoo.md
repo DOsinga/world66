@@ -6,6 +6,7 @@ longitude: -74.8244
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 A free, surprisingly well-run zoo about 15 minutes north of Cape May, in Cape May Court House. It holds around 550 animals across roughly 200 species — lions, snow leopards, giraffes, ring-tailed lemurs, a small reptile house — laid out along a 2.5 mile loop through pine and oak woodland.

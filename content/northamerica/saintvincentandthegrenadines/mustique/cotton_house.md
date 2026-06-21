@@ -14,6 +14,7 @@ story: >
   it into a boutique hotel in the early 1970s. Messel spent his final
   years on Mustique, and the island owes much of its distinctive
   architectural character to his sensibility.
+score: 6.9
 ---
 
 The Cotton House is the only hotel on Mustique — and using the word "hotel" requires qualification, because it operates more like an intimate private house with a small number of well-appointed rooms and suites spread across a restored eighteenth-century plantation building and nearby cottages.

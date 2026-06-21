@@ -8,6 +8,7 @@ tags:
 latitude: 12.1444
 longitude: -68.2656
 snippet: "Pastel waterfront capital"
+score: 6.8
 ---
 
 Kralendijk — pronounced *krah-len-dike* and locally just **Playa** — is Bonaire's capital and only real town. The historic centre runs for about four blocks along Kaya Grandi and the waterfront promenade, lined with yellow, blue, and rose-pink buildings in the Dutch Caribbean style. Cruise ship days, when one or two megaships dock at the central pier, are loud and crowded; the rest of the time the town is one of the quietest island capitals in the Caribbean.

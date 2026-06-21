@@ -7,6 +7,7 @@ tags:
 latitude: 51.3128
 longitude: 9.4881
 story: "The Brothers Grimm lived in Kassel from 1798 until 1830, working as librarians at the elector's court. Their first edition of the *Children's and Household Tales* (1812-15) was assembled largely here, often from oral sources who came knocking on their door. Several of those original informants — including Dorothea Viehmann — are buried in Kassel cemeteries."
+score: 8.5
 ---
 
 **GRIMMWELT** is a modern museum dedicated to the work of the Brothers Grimm, who spent decades in Kassel collecting the folk tales that became the most translated German book after Luther's Bible. The building, opened in 2015, sits on a hillside terrace above the city and the architecture itself — a zigzagging white concrete structure — is striking.

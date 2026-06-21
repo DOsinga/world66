@@ -14,6 +14,7 @@ story: >
   reconstruction that followed, beginning in the 1980s, has been so thorough that the complex
   now looks much as it did before, a reminder of both the destruction and the resilience
   of the institution.
+score: 9.6
 ---
 
 Labrang Monastery, founded in 1709 by the first Jamyang Zhépa, is one of the six great monasteries of the Gelukpa school of Tibetan Buddhism — the tradition of the Dalai Lama. The complex spreads along the valley floor below the town, its golden roofs and whitewashed walls enclosing assembly halls, debating courtyards, chapels, and a printing house. Six colleges operate within the walls, covering philosophy, medicine, tantra, and astrology, and the monastery remains a functioning centre of learning.

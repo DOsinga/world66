@@ -12,6 +12,7 @@ story: >
   renovation personally, and the result was widely condemned as extravagant even
   by imperial standards — which, given what imperial standards included, was
   saying something.
+score: 8.0
 ---
 
 Ding Dongling is Empress Dowager Cixi's mausoleum, and it makes a statement. The Long'en Hall — the main offering hall — is constructed from rare nanmu hardwood and covered inside with gilded decorations: gold-leaf dragons, painted ceilings, carved phoenixes, and walls of elaborate relief. Phoenix imagery appears throughout, symbolising female power. The contrast with the more austere mausoleums elsewhere in the complex is deliberate: Cixi spent decades accumulating the resources to build herself something that would outlast every criticism of her reign.

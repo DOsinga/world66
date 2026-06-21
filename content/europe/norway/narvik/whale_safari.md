@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - wildlife
 snippet: Late-autumn boat trips into the fjords to find pods of orcas hunting Atlantic herring
+score: 7.8
 ---
 
 From late October to mid-January, vast schools of overwintering Atlantic herring pour into the Ofotfjord and the smaller fjords around Narvik. Pods of **killer whales** follow them in, joined by humpbacks, fin whales, and the occasional sperm whale. The result is one of the most reliable cold-water cetacean encounters in the world, and the centre of Norway's whale-watching industry has gradually shifted east from Tromsø to Narvik as the herring have moved.

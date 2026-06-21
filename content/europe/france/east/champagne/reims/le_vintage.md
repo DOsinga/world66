@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 49.2575
 longitude: 4.0335
+score: 7.1
 ---
 
 Le Vintage is a champagne bar on the Place d'Erlon that specialises in grower-producer champagnes — those made by small independent vignerons rather than the great houses. The selection changes seasonally and covers the full spectrum from blanc de blancs to récoltant-manipulant rosés that you will rarely find outside the region.

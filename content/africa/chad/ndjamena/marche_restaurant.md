@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 12.116
 longitude: 15.045
+score: 5.9
 ---
 
 The streets around the Grand Marché have the cheapest and most authentic food in N'Djamena. Small restaurants and food stalls set up from midday and serve the market traders, transport workers, and everyone else who does not have time for a sit-down meal. The staple is boule — a firm millet or sorghum porridge eaten with the right hand, accompanied by a sauce of groundnuts, okra, or dried fish. Grilled brochettes of beef or goat come off charcoal grills on every other corner.

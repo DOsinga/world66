@@ -8,6 +8,7 @@ tags:
 neighbourhood: City Centre
 latitude: 43.5896
 longitude: -79.6462
+score: 6.9
 ---
 
 The Living Arts Centre is the city's main performing arts venue, a 1997 complex with three theatres, a series of artist studios, and a wide public foyer. Most touring music and theatre that reaches Mississauga ends up here, along with the Mississauga Symphony Orchestra.

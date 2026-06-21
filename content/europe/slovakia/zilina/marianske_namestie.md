@@ -9,6 +9,7 @@ latitude: 49.2228
 longitude: 18.7400
 story: >
   The square was shaped by a devastating fire in 1886 that destroyed much of the original medieval town. The rebuilding created the uniform Neo-Renaissance style you see today — but the arcades themselves date from the 16th century, when Žilina was a prosperous trading town and the arcaded walkways were added to shelter market-goers from the Carpathian weather.
+score: 8.0
 ---
 
 Mariánske námestie is the heart of Žilina's old town — an arcaded Renaissance square dating from the 16th century that is one of the finest in the region. The uniform three-storey arcade that lines three sides of the square was built after a major fire and gives the space a satisfying architectural coherence that many Slovak market towns lack.

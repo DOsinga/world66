@@ -7,6 +7,7 @@ snippet: Geneva's cultural centre, with the Grand Théâtre, Conservatoire, and 
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 Place Neuve is the formal public square at the edge of the Vieille Ville, enclosed by three of Geneva's most important cultural institutions: the Grand Théâtre (the opera house), the Conservatoire de Musique, and the Musée Rath. The equestrian statue of General Henri Dufour — the first commander of the Swiss federal army and co-founder of the Red Cross — stands at the centre.

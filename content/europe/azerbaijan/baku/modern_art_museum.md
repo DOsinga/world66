@@ -6,6 +6,7 @@ longitude: 49.8419
 tags:
   - things_to_do
   - museum
+score: 7.0
 ---
 
 The Museum of Modern Art opened in 2009 in a striking, white-walled building near the central park, designed by Jean Nouvel. The collection covers Azerbaijani art from the 1960s onwards — Soviet-era avant-garde, neo-primitivism, contemporary work — with roughly eight hundred pieces by around fifty artists, mostly drawn from a single private collection.

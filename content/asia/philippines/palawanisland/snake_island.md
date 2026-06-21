@@ -6,6 +6,7 @@ longitude: 119.3580
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 **Snake Island** is named not for its fauna but for its shape — at low tide a long, curving sandbar emerges from the sea to link two small islets, making an "S" of perfectly white sand. At high tide most of the bar disappears underwater. The viewpoint on the larger island, reached by a steep ten-minute scramble, gives the best overall view of the Bacuit Archipelago.

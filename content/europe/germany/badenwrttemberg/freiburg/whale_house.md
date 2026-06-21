@@ -9,6 +9,7 @@ snippet: "Late Gothic merchant's house where Erasmus once lived"
 latitude: 47.99641
 longitude: 7.85065
 story: "The Dutch humanist Erasmus of Rotterdam lived in the Whale House for two years after fleeing the Reformation in Basel in 1529. Four centuries later, Dario Argento used the building's striking oriel window as the entrance to the witches' dance academy in his 1977 horror film Suspiria."
+score: 7.8
 ---
 
 The Whale House — Haus zum Walfisch — is a late-Gothic merchant's house on Franziskanerstrasse, easily spotted by its richly carved oriel window jutting out above the street. The house was built around 1516 for Jakob Villinger, treasurer of Emperor Maximilian I, who never lived there himself but rented it out.

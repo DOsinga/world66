@@ -7,6 +7,7 @@ snippet: "British-style pub on King Talal Street, popular with expats"
 tags:
 - bars_and_cafes
 - bar
+score: 4.4
 ---
 
 A small British-style pub a few streets back from the corniche, the Rovers Return is a long-running expat hangout and one of the cheaper places to drink in Aqaba. The interior is a copy of the standard British pub template — dark wood, low lighting, beer taps along one wall — with the addition of large screens for international football. The food is pub food: chips, burgers, all-day breakfast.

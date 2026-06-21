@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - diving
   - sight
+score: 8.1
 ---
 
 Cayo Largo sits on the edge of a long, healthy coral reef — the southern barrier of the Canarreos Archipelago — and is one of the better places to dive in the Caribbean. The reef wall drops off close to shore, giving easy access to drop-offs, swim-throughs, and a number of small wrecks. Visibility is regularly 25 to 30 metres.

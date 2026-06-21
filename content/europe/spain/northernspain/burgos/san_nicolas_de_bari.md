@@ -12,6 +12,7 @@ story: >
   complexity — saints, angels, scenes from the life of St Nicholas, and a
   crowd of donors kneeling at the base. Pilgrims on the Camino pass directly
   in front of it on their way out of Burgos.
+score: 7.9
 ---
 
 San Nicolás de Barí sits immediately behind and uphill from the cathedral, and its famous stone retablo — altarpiece — is one of the great works of Gothic sculpture in Spain. The church is small and the retablo fills the entire east wall, demanding the visitor's full attention for at least twenty minutes to begin to absorb its detail. The central scene shows St Nicholas enthroned, surrounded by episodes from his life. The carving of individual faces in the crowd scenes is extraordinarily fine.

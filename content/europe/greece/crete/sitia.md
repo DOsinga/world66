@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+  location_enrich: '2026-06-03'
 image: sitia.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Kreta_sitia_hafen.jpg
@@ -12,6 +13,6 @@ title: Sitia
 type: location
 ---
 
-Sitia is a small port town on the far eastern end of Crete, less visited than the island's western resorts and all the more pleasant for it. The waterfront promenade is lined with tavernas and kafeneions where locals actually outnumber tourists for much of the year. The town has a relaxed, unfussy character — good seafood, ordinary prices, and no particular agenda beyond being a agreeable place to stop.
+Sitia is a small port town on the far eastern end of Crete, less visited than the island's western resorts and all the more pleasant for it. The [waterfront promenade](/europe/greece/crete/sitia/sitia_waterfront) is lined with tavernas and kafeneions where locals actually outnumber tourists for much of the year. The town has a relaxed, unfussy character — good seafood, ordinary prices, and no particular agenda beyond being a agreeable place to stop. The Venetian [Kazarma fortress](/europe/greece/crete/sitia/kazarma_fortress) on the hill above and the small but exceptional [Archaeological Museum](/europe/greece/crete/sitia/archaeological_museum) are the two things to see in town itself.
 
-The main draw in the area is Vai, about 24 km to the northeast, where Europe's only wild date palm forest backs onto a fine sandy beach. It gets busy in summer but is genuinely beautiful, especially early or late in the day. The Minoan palace at Kato Zakros, a 45-minute drive south, is one of the four major Minoan palaces on Crete and far less crowded than Knossos. Sitia itself is the logical base for exploring this quiet corner of Crete.
+The main draw in the area is [Vai](/europe/greece/crete/sitia/vai_beach), about 24 km to the northeast, where Europe's only wild date palm forest backs onto a fine sandy beach. It gets busy in summer but is genuinely beautiful, especially early or late in the day. The Minoan palace at [Kato Zakros](/europe/greece/crete/sitia/kato_zakros), a 45-minute drive south, is one of the four major Minoan palaces on Crete and far less crowded than Knossos. The fortified [Toplou Monastery](/europe/greece/crete/sitia/toplou_monastery) sits on the way to Vai and is worth the stop. Sitia itself is the logical base for exploring this quiet corner of Crete.

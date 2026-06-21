@@ -8,6 +8,7 @@ latitude: 49.1332
 longitude: -123.1234
 story: >
   The International Buddhist Temple was built to resemble the Temple of Heaven in Beijing, with traditional Chinese imperial architecture that looks completely at odds with its Richmond suburban setting. It opened in 1983, making it one of the earliest large Chinese Buddhist temples in North America. The monks conduct daily ceremonies open to visitors.
+score: 7.4
 ---
 
 The International Buddhist Temple in south Richmond is one of the largest Chinese Buddhist temples in North America, built in traditional imperial Chinese style — curved yellow roofs, red columns, stone lions at the gate — in what is otherwise a quiet suburban neighbourhood. The contrast is striking.

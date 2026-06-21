@@ -11,6 +11,7 @@ tags:
 - church
 title: Duomo
 type: poi
+score: 8.5
 ---
 
 The cathedral was completed in 1670, designed by Giuseppe Zimbalo, the leading architect of the ornate Lecce Baroque style. The interior mostly dates from the 18th century. The adjoining bell tower stands 70 metres tall and is one of the most recognisable silhouettes in the city. The piazza around it is one of the finest enclosed squares in southern Italy.

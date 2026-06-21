@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Sixteen_Mile_Creek_(Halton_Region)
 story: >
   The creek's name has nothing to do with its length — it refers to its distance from the original survey baseline at Burlington Bay. Early surveyors named all the watercourses this way, so you find Twelve Mile Creek, Fourteen Mile Creek, and so on along the Lake Ontario shore. Sixteen Mile Creek is actually one of the longer ones, running about 60 km from its headwaters in the Niagara Escarpment.
+score: 7.4
 ---
 
 Sixteen Mile Creek cuts through Oakville in a deep wooded ravine, creating a green corridor that feels surprisingly wild given the suburban surroundings. The trail system along the creek is one of the best reasons to spend time in Oakville — well-maintained paths follow both banks through mature forest, with the lower section near the lake passing under old road bridges and through narrow sections of the valley.

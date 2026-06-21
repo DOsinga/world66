@@ -15,6 +15,7 @@ story: >
   entirely to serve the slow boat trade. In the 1990s the journey was genuinely
   rough; today it is a managed tourist experience, but the river and the scenery
   remain spectacular.
+score: 8.7
 ---
 
 The slow boat journey from Huay Xai to Luang Prabang takes two days and is one of the classic Southeast Asian trips. Boats leave from the pier below town each morning and travel downstream on the Mekong, passing limestone cliffs, jungle-covered hills, and small villages along both banks. The first night is spent at Pak Beng, roughly halfway; the second day brings you into Luang Prabang in the late afternoon.

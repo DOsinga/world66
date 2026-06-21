@@ -14,6 +14,7 @@ story: >
   The original fountain was built by local residents as a tribute. The current version
   dates from a 1929 restoration. It sits in a small park in a mountain valley accessible
   only by a narrow winding road — which adds to the charm.
+score: 7.1
 ---
 
 Andrew's Geyser is a small but genuinely delightful fountain situated in a wooded valley a few miles from Old Fort on the old railroad right-of-way. A column of water shoots upward from the ground into a stone basin, powered by spring pressure — no pump required. The setting is peaceful and slightly eccentric: a Victorian memorial to railroad engineering, tucked into the Blue Ridge woods.

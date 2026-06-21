@@ -8,6 +8,7 @@ tags:
 snippet: Last surviving city gate, painted with a Marian icon
 latitude: 53.7775
 longitude: 20.4775
+score: 6.7
 ---
 
 The Wysoka Brama, or High Gate, is the only one of three medieval city gates still standing. The fourteenth-century brick arch is decorated on its outer face with a large painted image of the Virgin Mary of the Gate of Dawn, copied in 1898 from the famous Vilnius shrine, and is one of the most photographed corners of Olsztyn.

@@ -7,6 +7,7 @@ snippet: "Forested mountain rising behind the city, with hiking trails and a med
 tags:
 - things_to_do
 - sight
+score: 8.3
 ---
 
 Medvednica — literally "Bear Mountain" — rises directly behind Zagreb to a peak of 1,033 metres at Sljeme. The whole massif is a protected nature park: dense beech and oak forests, a network of marked hiking trails, several mountain huts (*planinarski dom*) serving hearty Croatian food, and the medieval fortress of Medvedgrad ("Bear Town") on a southern outcrop with sweeping views over the city.

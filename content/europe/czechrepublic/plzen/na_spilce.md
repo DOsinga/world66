@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 49.7467
 longitude: 13.3875
+score: 6.9
 ---
 
 Na Spilce is the restaurant and pub on the grounds of the Pilsner Urquell Brewery, and it is the best place in the world to drink Pilsner Urquell. The vast hall — it seats over 700 people — was built in 1929 in a Functionalist style and was the fermentation cellar (hence the name: "spilka" means fermenting cellar). It has been a restaurant since the 1970s.

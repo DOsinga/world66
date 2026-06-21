@@ -10,6 +10,7 @@ tags:
   - museum
   - university_district
 story: "The Center holds the entire archives of Ansel Adams, who personally helped found it in 1975 alongside the University of Arizona. The collection has since grown to over five million objects — negatives, prints, contact sheets — by more than 2,200 photographers, the largest such archive anywhere."
+score: 8.5
 ---
 
 The Center for Creative Photography is one of the great photography archives in the world, housed in a low concrete building on the University of Arizona campus. The vault holds the original prints and negatives of Ansel Adams, Edward Weston, Garry Winogrand, W. Eugene Smith, and many others.

@@ -9,6 +9,7 @@ tags:
 - wildlife
 title: Lion Country Safari
 type: poi
+score: 7.6
 ---
 
 Lion Country Safari is a 320-acre wildlife park 30 minutes west of central West Palm Beach where you drive your own car through fenced sections holding lions, white rhinos, zebras, giraffes, ostriches, and a small herd of African elephants. The drive takes about 90 minutes if you take your time. A walk-through "Safari World" section adds a small zoo and several enclosures of monkeys and reptiles.

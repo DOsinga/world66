@@ -15,6 +15,7 @@ story: >
   Inca ruler Huayna Capac — the Franciscans built it here deliberately, to
   establish Christian dominance over the most symbolically important ground
   in the old Inca city.
+score: 9.5
 ---
 
 The Basilica and Convent of San Francisco is the largest and most important colonial complex in Quito — a vast ensemble of church, convent, cloisters, and plazas that covers several city blocks on the western side of the Historic Centre. Construction began in 1535 and continued for over a century, which is why the complex shows a range of architectural styles from early Spanish Renaissance through Mudéjar to Baroque.

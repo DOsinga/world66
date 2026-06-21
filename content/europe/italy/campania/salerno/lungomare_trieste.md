@@ -14,6 +14,7 @@ story: >
   the most generous promenades in southern Italy, wide enough to hold the
   evening passeggiata of an entire city — which it still does, every night
   regardless of season.
+score: 7.8
 ---
 
 The Lungomare Trieste is Salerno's grand waterfront promenade, stretching for several kilometres along the edge of the Gulf of Salerno from the old port to the newer eastern districts. Palm-lined and wide, it is the place where the city exhales at the end of the day: families, couples, elderly men playing cards, teenagers on scooters, gelato vendors. The view across the gulf at sunset — when the water catches the light and the mountains above Amalfi glow on the horizon — is one of the most genuinely beautiful urban vistas in Campania.

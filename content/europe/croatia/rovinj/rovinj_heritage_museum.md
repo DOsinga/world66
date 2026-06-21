@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Town museum with archaeology, art, and a fine collection of Baroque and Impressionist paintings"
+score: 7.3
 ---
 
 The Rovinj Heritage Museum (Zavičajni muzej) is housed in a Baroque palace on the main town square. Its permanent collection covers the archaeology of the wider Rovinj area — finds from Bronze Age sites including Monkodonja — alongside ethnographic material on traditional fishing, boat-building, and local crafts.

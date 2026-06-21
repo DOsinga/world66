@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 26.1455
 longitude: 91.7715
+score: 5.1
 ---
 
 A long-running multi-cuisine restaurant on G.S. Road in Six Mile that has earned a quiet reputation among Guwahati's middle class for solid food across north Indian, Chinese and continental menus. The Chinese dishes — particularly the Manchurian and chow mein varieties — are the better picks, reflecting the strong Indo-Chinese hybrid cooking of the northeast.

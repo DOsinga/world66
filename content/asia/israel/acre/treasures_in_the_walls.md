@@ -7,6 +7,7 @@ tags:
 - museum
 type: poi
 snippet: Small ethnographic museum about Acre's Ottoman-era history and inhabitants
+score: 6.8
 ---
 
 A compact museum installed in part of the old city walls, telling the social history of Acre through objects, documents, and reconstructions of daily life during the Ottoman period. It covers the city's diverse communities — Arab Muslims, Christians, Jews — and the trade networks that made Acre one of the most important ports in the eastern Mediterranean.

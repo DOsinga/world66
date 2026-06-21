@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.2540
 longitude: 35.9550
+score: 8.8
 ---
 
 Notre Dame de Qannoubine (or Kannoubine) is the spiritual heart of the Maronite Church. From the late fifteenth century until 1823 it was the seat of the Maronite patriarchs, and twenty-four of them are buried here. The monastery is cut directly into the cliff and built out of it, an organic-looking warren of chapels, cells and terraces.

@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: -0.5800
 longitude: -80.1500
+score: 6.6
 ---
 
 The lower Río Chone and its estuary tributaries are fringed with extensive mangrove forest, one of the significant coastal wetland systems in Manabí province. The mangroves here support frigate birds, herons, egrets, and various migratory species, as well as the shrimp and crab fisheries that are a significant part of the local economy. Boat access is the only way to see the interior of the mangrove network — locally arranged trips with fishermen from the communities along the lower river are the practical option.

@@ -8,6 +8,7 @@ tags:
 - day_trips
 title: Medjugorje
 type: poi
+score: 6.4
 ---
 
 Medjugorje is a small town in Bosnia and Herzegovina, about two and a half hours from Dubrovnik, that became one of the world's most visited Catholic pilgrimage sites after six local teenagers reported apparitions of the Virgin Mary in 1981. The Vatican has never formally confirmed the apparitions, but more than 30 million pilgrims have visited since.

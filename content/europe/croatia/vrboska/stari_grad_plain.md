@@ -7,6 +7,7 @@ tags:
 latitude: 43.1817
 longitude: 16.6386
 story: "The field system on the Stari Grad Plain was laid out by Greek colonists around 384 BC and has been farmed continuously ever since. The boundaries, irrigation channels, and field sizes remain essentially unchanged from the ancient survey — making this one of the best-preserved examples of ancient Greek land organisation anywhere in the Mediterranean."
+score: 8.7
 ---
 
 The Stari Grad Plain (Starogradsko polje) is a UNESCO World Heritage Site that stretches across the interior of Hvar island, roughly 2.5 kilometres west of Vrboska. It is an agricultural landscape established by Greek colonists in the 4th century BC and continuously cultivated for over 2,400 years. The stone walls, olive groves, vineyards, and irrigation channels you see today occupy the same plots that ancient surveyors divided using their standard unit of measurement.

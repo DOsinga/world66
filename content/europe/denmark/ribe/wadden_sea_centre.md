@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The current Wadden Sea Centre building, designed by Danish architect Dorte Mandrup and clad in thatched reed in a striking modern fold, opened in 2017 and won the Mies van der Rohe European architecture prize in 2019."
+score: 8.6
 ---
 
 About 10 km west of Ribe at Vester Vedsted, the **Wadden Sea Centre** (Vadehavscentret) is the visitor centre for the Danish part of the UNESCO-listed **Wadden Sea** — the enormous tidal flat ecosystem stretching down the coast from Denmark through Germany to the Netherlands. The exhibitions cover the migratory bird populations that use the flats as a stopover, the tidal ecology, and the human history of the area.

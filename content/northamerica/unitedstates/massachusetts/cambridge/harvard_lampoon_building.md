@@ -10,6 +10,7 @@ latitude: 42.3714
 longitude: -71.1159
 story: >
   The Lampoon is the world's longest-running humor magazine, founded in 1876. Its alumni include Conan O'Brien, Greg Daniels, and several Saturday Night Live writers. The building is privately owned by the magazine, and the Lampoon's relationship with the Harvard Crimson (the student newspaper) has involved decades of pranks — including the Lampoon once "stealing" the Crimson's printing press.
+score: 5.8
 ---
 
 The Harvard Lampoon Building is a small Flemish-style red-brick tower that sits on a triangular lot at the intersection of Bow and Mount Auburn Streets, looking like a small castle inexplicably dropped into a Cambridge neighbourhood. It was designed in 1909 by Edmund Wheelwright and bears an unmistakable resemblance to a face — two round windows for eyes, a door in the shape of an open mouth, a pointed cap on top.

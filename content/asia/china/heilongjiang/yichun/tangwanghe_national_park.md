@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 48.0667
 longitude: 129.4833
+score: 8.2
 ---
 
 Tangwanghe National Forest Park, about 130 kilometres northeast of Yichun city, is a well-preserved section of the Lesser Khingan Range with old-growth Korean pine, spruce, and fir forest. The park has hiking trails, a scenic river valley, and the kind of undisturbed boreal forest ecology that is increasingly rare in this part of China. The Tangwang River runs through the park and the valley it has cut through the hills gives excellent walking terrain.

@@ -10,6 +10,7 @@ tags:
 snippet: Montreal's performing arts complex and the heart of the Quartier des spectacles
 sources:
   - https://en.wikipedia.org/wiki/Place_des_Arts
+score: 7.9
 ---
 
 Place des Arts is Montreal's main performing arts complex — a cluster of five concert halls and theatres built between 1963 and 1992 around a large public esplanade in the heart of downtown. The Salle Wilfrid-Pelletier is the main hall, home to the Montreal Symphony Orchestra and the Opéra de Montréal. The smaller Théâtre Jean-Duceppe and Cinquième Salle host theatre, dance, and contemporary performance. The complex is connected underground to the Montreal Museum of Contemporary Art (Musée d'art contemporain de Montréal, MAC).

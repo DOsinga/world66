@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 18.4578
 longitude: -69.3042
+score: 5.8
 ---
 
 The restaurants along the Malecón serve straightforward Dominican seafood — grilled fish, shrimp in garlic butter, conch fritters, and whole lobster in season — at prices that reflect the fact that this is a working Dominican city, not a resort. Look for places with full tables and active kitchens; the quality tracks with the local clientele, not the tourist prices.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 37.1270
 longitude: -7.6500
+score: 5.1
 ---
 
 The Tavira Inn Jazz Bar is one of the few late-evening spots in central Tavira with live music. The bar is small and informal, with local and occasional visiting musicians playing most evenings from around 9pm. The repertoire is predominantly jazz and bossa nova, which suits the warm evenings and river-town atmosphere well.

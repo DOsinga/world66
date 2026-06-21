@@ -8,6 +8,7 @@ tags:
   - climbing
 title: Meteora Rock Climbing
 type: poi
+score: 8.3
 ---
 
 The same sandstone pillars that drew Byzantine monks now draw climbers from across Europe. The Meteora offers hundreds of established routes across the main rocks, ranging from moderate sport climbing to serious traditional multi-pitch routes on the big walls. The rock is a conglomerate — a mass of rounded river pebbles compressed into stone — which gives it an unusual texture and demands precise footwork.

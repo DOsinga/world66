@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Formal park linking the palace, cathedral, and railway station
+score: 6.8
 ---
 
 Kongens Have was laid out in the early 18th century as the formal garden of Odense Palace and has gradually become the city's central green space. Long straight gravel paths cross between rows of clipped lime trees, with a fountain in the middle and benches along the edges. Outside the palace the park is otherwise unfenced and used as a thoroughfare between the railway station and the old town.

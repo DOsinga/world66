@@ -5,6 +5,7 @@ snippet: Smaller, community-run reserve at slightly higher elevation than Montev
 tags: [things_to_do, sight, nature_reserve, wildlife]
 latitude: 10.3338
 longitude: -84.8136
+score: 8.3
 ---
 
 Five kilometres north of Santa Elena town, this 310-hectare reserve sits higher than Monteverde itself — around 1,700 metres — and the forest is correspondingly mistier and damper. It is run by the Santa Elena High School as a community project, and the entrance fees fund local education.

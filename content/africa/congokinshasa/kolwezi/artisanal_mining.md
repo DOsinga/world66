@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The hand-dug mines that supply roughly a fifth of the world's cobalt
+score: 7.8
 ---
 
 A significant share of the cobalt mined in and around Kolwezi comes from **creuseurs** — artisanal diggers, often working with no more than a chisel, a head torch, and a sack — operating in pits and tunnels scattered across the periphery of the industrial concessions. The scenes have become familiar through journalism and supply-chain audits: men, women and sometimes children breaking ore by hand, with industrial mines visible in the distance.

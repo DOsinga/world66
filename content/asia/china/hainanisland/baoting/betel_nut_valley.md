@@ -12,6 +12,7 @@ story: >
   has almost entirely died out. The last generation of tattooed Li women are now elderly.
   Betel Nut Valley is one of the few places where they can be met and their craft
   traditions — weaving, brocade, batik — observed firsthand.
+score: 6.5
 ---
 
 Betel Nut Valley (Binglanggu) is an ethnic cultural park built around a Li and Miao village setting, offering demonstrations of traditional crafts, music, fire-walking, and the weaving traditions for which the Li are known. It is more commercially staged than authentic village encounters you might find inland, but the scale of what is preserved here — Li brocade weaving on backstrap looms, traditional costume, the architecture of Li thatched houses — is genuinely extensive, and the setting among the hills and bamboo groves is handsome.

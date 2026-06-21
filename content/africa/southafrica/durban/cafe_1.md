@@ -9,6 +9,7 @@ latitude: -29.8669
 longitude: 30.9954
 address: "1299 Umbilo Road"
 story: "The Britannia opened in 1879 as a temperance hotel. The temperance pledge did not survive long, but the building did. Its curry kitchen has been running, in some form, since the early 20th century."
+score: 7.7
 ---
 
 The Britannia Hotel on Umbilo Road is an unreconstructed Indian-Durban institution — a slightly weatherbeaten Victorian pile with peeling paint outside and queues out the door at lunchtime. The reason is the mutton curry, widely held to be the best in Durban: deeply spiced, fall-off-the-bone, served with rice and roti for less than R100.

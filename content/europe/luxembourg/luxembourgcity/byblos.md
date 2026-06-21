@@ -12,6 +12,7 @@ neighbourhood: Ville Haute
 title: Byblos
 type: poi
 url: www.byblos.lu
+score: 5.6
 ---
 
 A well-regarded club near the city centre with a pool table in the basement and a sound system that covers disco to funk. The entry fee comes with drink credits, which takes some of the sting out of Luxembourg's bar prices.

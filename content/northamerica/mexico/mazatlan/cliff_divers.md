@@ -9,6 +9,7 @@ tags:
   - olas_altas
 neighbourhood: Olas Altas
 snippet: "Local divers leap from a 14-metre rocky outcrop above the Pacific surf"
+score: 7.4
 ---
 
 A short walk north along the Malecon from Olas Altas you come to a rocky outcrop called El Clavadista. Local divers climb to a platform about 14 metres up and wait — for the right moment, for the right wave, for a tip — and then jump. They time the leap so they hit deep water as a wave breaks below.

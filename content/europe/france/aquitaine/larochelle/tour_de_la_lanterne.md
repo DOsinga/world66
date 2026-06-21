@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 46.1582
 longitude: -1.1530
+score: 8.3
 ---
 
 The Tour de la Lanterne is the third of La Rochelle's harbour towers, built at the end of the 15th century as a lighthouse, prison, and refuge for the watchmen of the port. The slim, octagonal spire and pointed roof give it a more fairy-tale shape than its squat older neighbours.

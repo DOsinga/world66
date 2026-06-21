@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Biete_Maryam
 story: >
   Biete Maryam contains some of the oldest surviving wall paintings in Ethiopia, executed in an earthy palette of ochre, red, and white. One panel depicts the legend of King Lalibela's legendary birth: a swarm of bees is said to have settled on the infant and not stung him — an omen interpreted by his mother as a sign of future greatness. The Amharic word for bee, lalibela, became his name and later the town's.
+score: 8.9
 ---
 
 Biete Maryam — the House of Mary — is one of the most ornate of the Lalibela churches and one of the most important sites of Marian devotion in Ethiopia. It is carved from the same volcanic tufa as the other churches but distinguished by remarkably detailed exterior carvings: blind windows with intricate geometric patterns, a carved Axumite frieze, and windows in the shape of the Ethiopian cross.

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: Feria 16 de Julio
 type: poi
+score: 8.7
 ---
 
 The Feria 16 de Julio spreads across the streets around Avenida 16 de Julio in El Alto every Thursday and Sunday morning, and it keeps spreading until it is difficult to say exactly where it ends. Estimates of its size vary — some sections claim it covers four square kilometres at peak, others say six — but the useful figure is that you can walk for two hours and not see the same product category twice. One block sells second-hand car parts laid out on blankets. The next sells live chickens. Then bootleg software, then traditional weavings, then pirated DVDs, then heaps of dried herbs and roots for Aymara ritual medicine, then someone's old kitchen appliances. The market has its own internal logic, but it takes time to see it.

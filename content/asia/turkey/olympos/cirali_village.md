@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Slow-paced village above Olympos beach, deliberately undeveloped"
+score: 6.2
 ---
 
 Çıralı is the village immediately north of the Olympos ruins, set on the same long pebble beach

@@ -8,6 +8,7 @@ latitude: 47.9963
 longitude: -4.1023
 sources:
   - https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Quimper
+score: 7.4
 ---
 
 The Musée des Beaux-Arts occupies a handsome building on the Place Saint-Corentin, right next to the cathedral. It holds a substantial collection spanning Flemish masters, French 17th- and 18th-century works, and a particularly strong selection of paintings from the Pont-Aven School — the movement centred on Gauguin and his circle, who worked in Brittany in the 1880s and 1890s.

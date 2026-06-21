@@ -8,6 +8,7 @@ tags:
 - sight
 title: Bongoyo Island
 type: poi
+score: 8.5
 ---
 
 A flat coral island in the marine reserve north of the city, half an hour by speedboat from the Msasani Slipway. The west-facing beach is short but spectacular — soft white sand, palm shade, and clear water over a fringing reef that is easy to snorkel even at high tide. A handful of low-impact bandas and a single restaurant under the trees keep things simple; you bring your towel, you rent a mask, you order grilled fish and chips when you arrive.

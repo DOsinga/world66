@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Uganda Wildlife Education Centre
 type: poi
+score: 7.3
 ---
 
 Formerly known as Entebbe Zoo, the Uganda Wildlife Education Centre sits on the shores of Lake Victoria and serves primarily as a sanctuary for animals rescued from the illegal wildlife trade. Chimpanzees, lions, rhinos, and crocodiles are all here, and you can watch feedings at scheduled times.

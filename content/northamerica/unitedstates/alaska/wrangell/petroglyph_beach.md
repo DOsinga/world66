@@ -9,6 +9,7 @@ latitude: 56.4818
 longitude: -132.3832
 story: >
   The petroglyphs at Wrangell Beach are estimated to be between 1,000 and 8,000 years old — the research has not been precise enough to narrow the range. They predate the Tlingit occupation of the area, which means archaeologists cannot say with certainty who made them or why. The spiral, mask, and fish motifs appear on the rock just above the tideline, placed where they would be seen from boats arriving at this natural landing spot on the coast.
+score: 8.1
 ---
 
 Petroglyph Beach holds the highest concentration of ancient rock carvings in Southeast Alaska, with around fifty petroglyphs scattered across the tidal zone north of town, a short walk from the ferry terminal along Evergreen Avenue. The carvings — faces, spirals, killer whales, and abstract forms — appear at their clearest at low tide, when the wet rock makes the incised lines more visible. You can visit independently at any time; there is no fence or fee.

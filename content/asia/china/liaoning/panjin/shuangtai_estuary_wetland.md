@@ -8,6 +8,7 @@ latitude: 40.9000
 longitude: 121.7500
 story: >
   The Shuangtai Estuary is on the East Asian–Australasian Flyway, one of the world's most significant bird migration routes connecting Siberia and Alaska to Australia and New Zealand. Over three hundred species have been recorded here, including globally threatened species that funnel through the delta during spring and autumn migration. The wetland is one of the most important staging grounds for red-crowned cranes outside their breeding grounds.
+score: 8.1
 ---
 
 The Shuangtai Estuary Wetland Nature Reserve surrounds the Red Beach and constitutes one of China's most significant wetland habitats. The Liaohe River delta's combination of reeds, mudflats, and shallow coastal waters creates ideal conditions for migratory waterbirds, and during spring (April to May) and autumn (September to October) the reserve fills with species that are rarely seen elsewhere in China.

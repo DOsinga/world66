@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -22.2975
 longitude: -42.9685
+score: 5.4
 ---
 
 The Praça Olímpica is the civic and commercial heart of Teresópolis, a pleasant square surrounded by restaurants, cafes, and small shops. The name recalls the town's long association with elite sport — the Brazilian national football team trains at the nearby Granja Comary facility, and various Olympic preparation centres operate in the area, taking advantage of the cool mountain climate for altitude training.

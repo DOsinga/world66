@@ -6,6 +6,7 @@ longitude: 24.2863
 tags:
   - things_to_do
   - sight
+score: 8.8
 ---
 
 The theatre is on the north side of the site, built into the lower slope of the acropolis hill. It was originally Greek (4th century BC, the time of Philip II) and was remodelled twice — once by the Romans, who added the stage building, the wild-beast pits, and the upper seating tiers, and once for use as a venue for chariot races. Most of what you see today is the Roman version, partly restored in the 1960s.

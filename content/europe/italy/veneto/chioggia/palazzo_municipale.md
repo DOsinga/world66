@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.220036
 longitude: 12.279287
+score: 5.9
 ---
 
 The Palazzo Municipale, Chioggia's town hall, sits on the Corso del Popolo just north of the Basilica di San Giacomo. The current building is mid-19th century, in a sober neoclassical style with a long colonnaded ground floor that gives the corso some of its character. Earlier versions of the building, going back to the 13th century, stood on the same spot.

@@ -8,6 +8,7 @@ tags:
 - seafood
 title: Sam's Chowder House
 type: poi
+score: 6.5
 ---
 
 Perched on the rocks at the south end of Pillar Point Harbor, Sam's is the obvious tourist anchor — a big bi-level dining room with a massive heated deck overlooking the boats and, beyond them, the Mavericks break. The lobster roll, a Maine-style cold-claw-meat-on-a-brioche-bun version, is the dish that put the place on the map and is consistently rated one of the best on the West Coast.

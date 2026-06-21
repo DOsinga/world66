@@ -7,6 +7,7 @@ tags:
 - sight
 title: Colonial Waterfront
 type: poi
+score: 7.7
 ---
 
 New Amsterdam's waterfront retains some of the best-preserved examples of Berbice-style colonial wooden architecture in Guyana. The characteristic buildings — raised on stilts, with jalousie shutters, fretwork trim, and pitched roofs — were built by the Dutch and later British colonial administration and the plantocracy they served. Many have been lost over the decades, but enough survive to give a sense of what the colonial capital once looked like.

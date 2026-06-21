@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 52.6301
 longitude: 1.2954
+score: 8.4
 ---
 
 The Museum of Norwich at the Bridewell tells the history of Norwich as a trading and manufacturing city, housed in a 14th-century merchant's house that was later used as a prison for women and vagrants (a "bridewell" — a term for a house of correction). The building itself is one of the oldest surviving flint houses in the city.

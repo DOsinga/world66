@@ -2,26 +2,27 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
+  location_enrich: '2026-06-03'
   poi_cleanup: '2026-04-21'
+image: pretoria.jpg
+image_attribution: Mister P. Nissen
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Pretoria_Union_Buildings_in_2023.jpg
 latitude: -25.745928
+loc_type: city
 longitude: 28.18791
 score: 0.5
+sources:
+- https://en.wikipedia.org/wiki/Pretoria
+- https://en.wikipedia.org/wiki/Union_Buildings
 title: Pretoria
 type: location
-loc_type: city
 ---
 
-Pretoria is the capital of South Africa. Located just a few kilomets north of [Johannesburg](/africa/southafrica/johannesburg) it is an attractive city - but it doen't have the big city atmosphere of Jo'burg. 
+Pretoria is the executive capital of South Africa, the seat of the presidency and the administration, set in the highveld 50 km north of [Johannesburg](/africa/southafrica/johannesburg). It is a quieter, more formal city than Jo’burg — administrative rather than commercial — and more pleasant to navigate, with wide avenues and a compact historic centre around [Church Square](/africa/southafrica/pretoria/church_square).
 
+The city is famous for its **jacaranda trees** — over 70,000 of them line the streets and bloom purple every October and November. In full bloom, the tree-lined avenues and the gardens of the [Union Buildings](/africa/southafrica/pretoria/union_buildings) are genuinely spectacular. The Union Buildings themselves are one of Herbert Baker’s masterpieces: a sandstone neoclassical complex on a hill above the city, with a nine-metre bronze statue of Nelson Mandela in the gardens.
 
- Situated in the centre of the city, the Church Square is the focal point of the administrative capital of South Africa. The large open space, formed part if the original survey of Pretoria by Andries Francios du Toit, whose map bears the date 2 March 1859.
+The history on display in Pretoria is complex and worth engaging with. The [Voortrekker Monument](/africa/southafrica/pretoria/voortrekker_monument) south of the centre is the most powerful monument to Afrikaner identity anywhere. Directly opposite it on the adjacent hill, [Freedom Park](/africa/southafrica/pretoria/freedom_park) is the post-apartheid counter-memorial, built to commemorate those the old monument ignored. Visiting both on the same afternoon is one of the more instructive experiences South Africa offers.
 
-
- 
- The name derives from the fact that Reverent Dirk van der Hoff established a congregation there in 1854. After Pretoria had became the seat of the Transvaal government in 1860 important Government buildings were erected round the square such as the government Building, often refferd to as the ‘Raadzaal’ and the Palace of Justice opposite. Today there are a lot of restaurants and shops in the area.
-
-
- A short walk from Church Square, you find the Kruger House. The residence of President Paul Kruger has been turned into a museum and national monument and is worth a visit. 
-
-
- Another major attraction is the Zoological gardens. Since its inception in 1899 it has grown to such an extent that today it enjoys world-wide recognition. Not only is it the largest zoo in South Africa but one of the ten best in the world. More that one million people visit it every year.
+The historic city centre holds [Melrose House](/africa/southafrica/pretoria/melrose_house) — where the treaty ending the Anglo-Boer War was signed — the [Kruger House Museum](/africa/southafrica/pretoria/kruger_house), and the [National Zoological Gardens](/africa/southafrica/pretoria/national_zoological_gardens), one of the best zoos in Africa. The [Pretoria National Botanical Garden](/africa/southafrica/pretoria/pretoria_botanical_garden) out in Brummeria is a good half-day out of the city centre.

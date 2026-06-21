@@ -12,6 +12,7 @@ story: >
   footprints preserved in the limestone were discovered in the 1930s and date to the Cretaceous
   period, roughly 100 million years ago. They were made on what was then a coastal flat — the
   Caucasus mountains did not yet exist.
+score: 7.1
 ---
 
 Sataplia, 9 km west of Kutaisi, combines three unusual things in one small park: a karst cave system, a patch of original Colchic subtropical forest, and an exposed limestone surface bearing well-preserved dinosaur footprints. The cave is illuminated and tours are available; it is not as spectacular as the Prometheus Caves further into Imereti, but it is much closer to the city and can be visited in a half-day.

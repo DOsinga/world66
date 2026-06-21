@@ -6,6 +6,7 @@ latitude: 29.0167
 longitude: -112.4167
 story: >
   Isla Tiburón — Shark Island — was home to the Comcáac (Seri) people for thousands of years before the Mexican government expelled them in the 1960s, ostensibly to create a biosphere reserve. They fought back legally and won: since 1978 the island has been recognized as Seri territory, and only Seri guides may escort visitors onto it.
+score: 8.6
 ---
 
 Isla Tiburón is the largest island in Mexico and one of the most dramatic landscapes in the Sea of Cortez. Covering about 1,200 square kilometres of rugged Sonoran Desert — mountains, arroyos, dry washes, and coastline — it sits just across the Canal del Infiernillo from Kino Nuevo and is entirely off-limits without a Seri guide and permit.

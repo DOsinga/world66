@@ -14,6 +14,7 @@ story: >
   country for centuries — preserved in part because the city's medieval shrunken
   footprint left it on the periphery. This is why it survives in better condition
   than almost anything comparable in Rome itself.
+score: 9.2
 ---
 
 The Arch of Trajan stands at the edge of Benevento's old centre and is arguably the best-preserved triumphal arch in the Roman world. Built in 114 AD to celebrate the Via Traiana — the road Trajan had constructed to improve the Appian Way's route to Brindisi — it is 15 metres high and almost completely intact. Unlike Rome's surviving arches, which lost much of their carved marble to medieval builders, Benevento's arch kept its full complement of sculptural reliefs.

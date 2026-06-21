@@ -13,7 +13,7 @@ quick_facts:
   Drives On: Left
   Islands: "17,000+"
   Languages Spoken: "700+"
-score: 0.42
+score: 0.90
 title: Indonesia
 type: location
 loc_type: country

@@ -10,6 +10,7 @@ longitude: 9.8206
 snippet: "Medieval castle overlooking Bludenz old town, now used for events"
 story: >
   The castle changed hands repeatedly through the Middle Ages before the bishops of Chur took possession in the 15th century. The name Gayenhofen — derived from an old German word for a fortified estate — predates the current building, which was substantially rebuilt after a fire in the 17th century.
+score: 6.6
 ---
 
 Schloss Gayenhofen sits on a low ridge above the old town, close enough to walk to but elevated enough to give the roofline of Bludenz a proper backdrop. The castle dates in its earliest form to the 13th century, though what stands today is largely a post-medieval reconstruction. It is not a museum — the interior is used for civic functions and private events — but the exterior and the small square in front of it are freely accessible.

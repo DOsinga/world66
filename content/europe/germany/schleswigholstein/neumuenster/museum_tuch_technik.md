@@ -9,6 +9,7 @@ longitude: 9.9882
 story: "The building itself is a former cloth factory — the Museum Tuch + Technik is housed in the original mill complex on Kleinflecken, Neumünster's oldest square. You can trace the entire story of cloth production from hand looms to industrial power looms under the same roof where the work actually happened."
 sources:
   - https://en.wikipedia.org/wiki/Neum%C3%BCnster
+score: 7.4
 ---
 
 The Museum Tuch + Technik (Cloth and Technology Museum) is Neumünster's most distinctive attraction — a hands-on museum covering the history of cloth-making from the Iron Age to the present day, housed in a former textile factory. The collection traces the development of the industry from medieval hand-weaving through the mechanisation that turned Neumünster into a significant manufacturing centre in the 19th and 20th centuries.

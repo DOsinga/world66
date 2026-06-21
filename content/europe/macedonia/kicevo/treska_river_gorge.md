@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.5000
 longitude: 21.0500
+score: 7.4
 ---
 
 The Treska River cuts through a dramatic limestone gorge as it flows east from the Kičevo valley towards the Vardar. The canyon walls rise steeply above the water, and the road that follows the river offers some of the most striking scenery in the region. Downstream, the gorge opens near the Matka Canyon, which is accessible from Skopje and considered one of Macedonia's natural highlights.

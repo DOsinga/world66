@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
 story: "The refuge was created in 1985, the same year United Fruit pulled out of Golfito — partly to compensate the local economy with a protected nature reserve, partly because the steep ridge directly behind the town was the main source of drinking water and could no longer be allowed to be cleared."
+score: 8.1
 ---
 
 A 2,800-hectare reserve covering the steep, forested ridge that rises directly behind Golfito town. The refuge protects one of the wettest stretches of Pacific lowland rainforest in Central America, with rainfall exceeding 5 metres a year and a bird list of over 230 species.

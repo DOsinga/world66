@@ -6,6 +6,7 @@ longitude: -50.8483
 tags:
   - things_to_do
   - sight
+score: 6.0
 ---
 
 Snowland, opened in 2013 on the road between Gramado and Canela, is South America's first indoor snow park. The temperature is kept around -6 °C and the slopes are covered in genuine machine-made snow. You can ski, snowboard, sled, ice-skate, and ride a chairlift inside an enormous refrigerated dome.

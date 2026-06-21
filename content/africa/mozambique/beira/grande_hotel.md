@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: Abandoned colonial luxury hotel, once Africa's largest, now home to thousands of squatters
 story: "Built in 1955, the Grande Hotel had 350 rooms, an Olympic swimming pool, and a private jet strip. It went bankrupt after a few years, and during the civil war the building was taken over by refugees. Today around 3,500 people live in the shell, with no running water, no electricity, and a community structure of corridor-by-corridor leaders."
+score: 8.4
 ---
 
 A modernist concrete monster of a hotel at the south end of Beira, built in 1955 as the most luxurious in Africa and bankrupted within a decade by its own absurd ambition. During the Mozambican civil war the empty building filled with refugees, and it has been a vertical squatter settlement ever since — around 3,500 people, three or four families per former hotel room, sharing washing lines strung across what was once the ballroom.

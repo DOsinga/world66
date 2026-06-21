@@ -6,6 +6,7 @@ longitude: -66.8920
 tags:
   - things_to_do
   - sight
+score: 8.8
 ---
 
 The cable car from Maripérez climbs in two long stages from the city floor at 1,000 metres to the summit of the Ávila at 2,100 metres, in about fifteen minutes. The system was built in 1956 under the Pérez Jiménez government as a transport link to the Hotel Humboldt at the top; closed for nearly two decades after a fire in the 1970s, it was finally reopened in 1999 and has run more or less continuously since.

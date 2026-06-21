@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 1.4017
 longitude: 110.3192
+score: 8.3
 ---
 
 A rainforest reserve about 20 km south of Kuching, run as an orangutan rehabilitation centre since 1975. Around 25 semi-wild orangutans live in the surrounding forest, and twice a day (around 9 am and 3 pm) the rangers put out a feeding platform of bananas and coconuts to which any orangutans choosing to come down for a free meal will gather.

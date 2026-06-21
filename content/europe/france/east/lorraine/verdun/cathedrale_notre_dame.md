@@ -9,6 +9,7 @@ tags:
 - landmark
 story: "The cathedral was consecrated in 1147, but its origins lie in a basilica founded in the 4th century — making it one of the oldest Christian sites in northeastern France. The mixed Romanesque crypt and Gothic upper church reflect a thousand years of expansion, with severe damage in 1916 and 1944 followed by careful restorations."
 snippet: "Romanesque-Gothic cathedral on the highest point of the old town"
+score: 7.6
 ---
 
 The Cathédrale Notre-Dame stands on the highest point of the old town, a Romanesque foundation later overlaid with Gothic and Baroque additions. The two western towers, the Romanesque crypt, and the Baroque baldachin over the high altar are the highlights.

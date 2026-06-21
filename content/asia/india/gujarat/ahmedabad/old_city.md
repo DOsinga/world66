@@ -7,6 +7,7 @@ tags:
 latitude: 23.0249
 longitude: 72.5866
 snippet: "UNESCO World Heritage walled city"
+score: 8.8
 ---
 
 The walled city of Ahmedabad, founded by Sultan Ahmad Shah in 1411, is a dense, organic tangle of narrow lanes, monumental mosques, and small enclosed neighbourhoods called **pols** — each pol traditionally housing a single caste, trade, or community, with a single gated entrance that could be locked at night.

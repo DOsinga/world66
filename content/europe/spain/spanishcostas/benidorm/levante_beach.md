@@ -7,6 +7,7 @@ tags:
 - sight
 title: Levante Beach
 type: poi
+score: 6.9
 ---
 
 Levante is the more active and more densely developed of Benidorm's two main beaches, running for just over 2 km along the eastern arc of the bay. The sand is fine and golden, the water clear, and the beach is equipped with full services: sunbeds and umbrellas for rent, lifeguards, showers, and a line of chiringuitos (beach bars) along the promenade.

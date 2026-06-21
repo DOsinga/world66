@@ -9,6 +9,7 @@ latitude: 32.5308
 longitude: -117.0355
 snippet: "Tijuana's Art Deco jai alai palace, now a concert venue."
 story: "The Palacio Jai Alai opened in 1947 and became one of the great sporting spectacles of the border region. Jai alai — the Basque ball sport played at terrifying speeds in a three-walled court — was enormously popular with American visitors who bet on the results. The palace packed crowds of thousands until the game's American popularity declined in the 1990s. After closing, the Art Deco building stood empty for years before being repurposed as a live music venue. The fronton (playing court) still exists inside, now serving as a concert floor."
+score: 7.0
 ---
 
 The former Palacio Jai Alai is one of the most striking buildings on Avenida Revolución — a 1940s Art Deco structure with a distinctive facade that once held one of the most elaborate sporting venues on the Pacific coast.

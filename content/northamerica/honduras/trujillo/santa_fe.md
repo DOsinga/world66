@@ -7,6 +7,7 @@ snippet: "Garifuna fishing village ten kilometres west, with the best beach in t
 tags:
 - things_to_do
 - sight
+score: 7.2
 ---
 
 Santa Fe is the most accessible of the Garifuna villages along this stretch of coast — a community of Black Caribs descended from West African and Carib ancestors who were exiled to Honduras from Saint Vincent by the British in 1797. The village is small, friendly, and entirely Garifuna in language, culture, and cuisine. The beach is wide, clean, and quieter than Trujillo's main strip.

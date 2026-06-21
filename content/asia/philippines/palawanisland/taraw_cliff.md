@@ -6,6 +6,7 @@ longitude: 119.3950
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 **Taraw Cliff** is the limestone peak that rises 200 metres directly behind El Nido town, with the best view of the Bacuit Archipelago you can get without flying. The classic Filipino scramble — straight up the cliff in flip-flops with a teenage guide — was banned after several fatal falls. There is now a regulated, harnessed climb that local cooperatives run on a fixed schedule.

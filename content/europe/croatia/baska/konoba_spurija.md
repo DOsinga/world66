@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 5.9
 ---
 
 A small, family-run konoba on a side street off the main beach promenade, serving the kind of grilled fish and seafood pasta you'd hope to find on the Adriatic. The blackboard menu changes with what's been landed; the lobster spaghetti is a standout when it appears.

@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 story: "Cane Garden Bay produced the rum that pirates anchored offshore to load before sailing on. The Callwood family has been distilling here since the early 1700s on the same hillside above the beach — making it among the oldest continuously operating rum distilleries in the western hemisphere. The original copper still is still in use."
+score: 8.4
 ---
 
 Cane Garden Bay is the showpiece beach of Tortola — a long crescent of white sand on the north-west coast, sheltered by green hills and lined with palms. The water is calm and clean and the swimming is straightforward. A row of beach bars sits just back from the sand, busiest in the evenings when the day-charter yachts come in to anchor for sundowners.

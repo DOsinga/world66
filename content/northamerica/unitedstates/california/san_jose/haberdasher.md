@@ -7,6 +7,7 @@ tags:
 latitude: 37.3322
 longitude: -121.8924
 sources: []
+score: 6.9
 ---
 
 Haberdasher is a speakeasy-style cocktail bar tucked behind an unmarked door on South First Street downtown. The drinks lean classic — Manhattans, Old Fashioneds, French 75s — but the bar takes seasonal ingredients seriously and the menu rotates regularly. The room is dark, the booths are deep, and conversations stay civilised.

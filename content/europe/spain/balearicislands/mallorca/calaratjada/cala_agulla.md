@@ -14,6 +14,7 @@ story: >
   bus, which keeps car traffic out entirely.
 sources:
   - https://en.wikipedia.org/wiki/Cala_Agulla
+score: 7.8
 ---
 
 Cala Agulla is a long arc of pale sand about 2 km north of Cala Ratjada, enclosed by rocky headlands and backed by wind-shaped stone pines and low dunes. It's one of the finest beaches in northeast Mallorca — wide, clean, and not overbuilt, thanks to the protected status of the surrounding land.

@@ -8,6 +8,7 @@ tags:
 latitude: 36.6274
 longitude: -4.5183
 story: "The site at Cortijo del Tajo includes remains from the Paleolithic through to the Roman period, making it one of the longest-occupied sites in the Málaga area. Roman-era finds include mosaics and the foundations of a substantial villa, suggesting the fertile valley here was cultivated continuously for thousands of years."
+score: 6.8
 ---
 
 Cortijo del Tajo is an archaeological site on the western outskirts of Torremolinos where Roman, pre-Roman, and Neolithic remains have been found. It sits in a small valley that has clearly supported human habitation for millennia, and the accumulated layers of settlement make it interesting even for visitors with only a passing interest in archaeology.

@@ -8,6 +8,7 @@ latitude: 44.4479
 longitude: 8.3941
 sources:
   - https://en.wikipedia.org/wiki/Giusvalla
+score: 6.1
 ---
 
 The parish church of San Matteo is the spiritual centre of Giusvalla, a modest but well-preserved Ligurian village church whose origins reach back to the medieval period. Its most notable surviving feature is a holy-water stoup carved in the thirteenth century — a simple stone font, plain by the standards of larger churches but remarkable for having survived intact in a village of this size. It is one of the oldest dateable objects in the comune.

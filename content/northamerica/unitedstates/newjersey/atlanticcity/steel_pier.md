@@ -7,6 +7,7 @@ tags:
 latitude: 39.3575
 longitude: -74.419
 snippet: "Classic amusement pier with a 67-metre Ferris wheel projecting over the Atlantic"
+score: 5.9
 ---
 
 The Steel Pier is one of the oldest continuously operating amusement piers in the United States. The original structure opened in 1898 and became famous in the mid-20th century for hosting big-band performances and, for several decades, a diving horse — an act in which a horse and rider plunged from a 20-metre platform into a pool of water, which drew enormous crowds and is now remembered mainly with disbelief. The current pier, rebuilt in 1993 after fire damage, is more conventional: a 300-metre platform extending over the Atlantic with a mix of carnival rides, arcade games, and food stalls.

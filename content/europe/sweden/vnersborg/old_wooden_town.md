@@ -9,6 +9,7 @@ tags:
 - neighbourhood
 title: Old Wooden Town Centre
 type: poi
+score: 7.5
 ---
 
 The surviving grid of wooden townhouses in central Vänersborg is one of the better-preserved examples in Sweden of the 18th and 19th-century building type that once characterised all Swedish market towns. Most comparable towns lost their wooden centres to fires, redevelopment, or postwar modernisation; Vänersborg kept a substantial core of these low, painted timber houses, and the result is streets with a genuinely consistent historical character.

@@ -7,6 +7,10 @@ title: Lebanon
 type: location
 score: 0.32
 loc_type: city
+image: lebanon.jpg
+image_source: https://www.flickr.com/photos/53136684@N00/49976417528
+image_license: CC BY-SA 2.0
+image_attribution: deldevries on Flickr
 ---
 
 Lebanon is the seat of Boone County, about 20 miles northwest of [Indianapolis](/northamerica/unitedstates/indiana/indianapolis) in central [Indiana](/northamerica/unitedstates/indiana). The town of about 14,000 was named for a grove of hickory trees that reminded its pioneer founders of the biblical cedars of Lebanon.

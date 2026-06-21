@@ -17,6 +17,7 @@ story: >
   the mission and the logistical challenges of early colonial New Zealand.
 sources:
   - https://en.wikipedia.org/wiki/Stone_Store
+score: 8.8
 ---
 
 The Stone Store is the oldest undamaged stone building in New Zealand, a two-storey Georgian warehouse built between 1832 and 1836 by the Church Missionary Society. It sits at the edge of the Kerikeri Basin beside the mission's landing place on the river, and its solid basalt walls give it a permanence that belies the uncertainty of the colonial era in which it was built.

@@ -1,5 +1,0 @@
-australiaandpacific/australia/newsouthwales/newcastle
-europe/ireland/tullamore
-europe/germany/bavaria/wurzburg
-europe/unitedkingdom/england/birmingham_and_west_midlands/worcester
-europe/norway/rros

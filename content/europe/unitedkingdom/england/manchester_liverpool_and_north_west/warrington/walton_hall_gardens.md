@@ -7,6 +7,7 @@ tags:
 address: "Walton Lea Road, Higher Walton, Warrington WA4 6SN"
 latitude: 53.3597
 longitude: -2.6014
+score: 6.8
 ---
 
 A Victorian country estate a few kilometres south of the town centre, now a public park and gardens run by the local council. The hall itself sits on an island in a lake and houses a heritage centre with displays on the history of the Warrington area. The surrounding grounds include formal gardens, a children's zoo with small animals, a miniature railway, and extensive parkland popular with walkers and families.

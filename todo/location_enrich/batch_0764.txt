@@ -1,5 +1,0 @@
-asia/srilanka/pinnawela
-europe/azerbaijan/naxcivan/batabat
-asia/turkey/hisaronu
-europe/greece/crete/hersonnissos
-asia/india/goa/tiracol

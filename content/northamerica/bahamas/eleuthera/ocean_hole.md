@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Ocean Hole was sounded to over 600 feet by the US Navy and never fully bottomed out. It is connected to the sea by underground passages — fish caught here include reef species you would normally see only on the open Atlantic side of the island."
+score: 7.1
 ---
 
 A round inland blue hole on the edge of Rock Sound village, the Ocean Hole is essentially a vertical-sided sinkhole connected to the open sea by a flooded cave system. The water is clear, deep, and full of yellowtail snapper, sergeant majors, and the occasional tarpon.

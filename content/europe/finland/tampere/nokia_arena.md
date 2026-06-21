@@ -7,6 +7,7 @@ tags:
   - venue
 latitude: 61.5114
 longitude: 23.7799
+score: 5.8
 ---
 
 Nokia Arena, opened in 2022, is the newest and largest indoor arena in Finland, with a capacity of around 15,000 for concerts. It sits on the north shore of Lake Näsijärvi adjacent to Särkänniemi and hosts ice hockey (both Tappara and Ilves play home games here), concerts, and major events. The arena has done much to establish Tampere as a destination for international tours that previously stopped only in Helsinki.

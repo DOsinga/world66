@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 6.7083
 longitude: 100.1417
+score: 7.4
 ---
 
 Thale Ban National Park covers 196 square kilometres of rainforest along the Thai-Malaysian border, about 40 km northeast of Satun town. It is one of the least-visited national parks in southern Thailand — there are no major resorts and no convenient transport links — but its forests are excellent, with gibbons, hornbills, barking deer, and the occasional leopard among the wildlife. The canopy is dominated by towering dipterocarps, and the understorey is dense and dark.

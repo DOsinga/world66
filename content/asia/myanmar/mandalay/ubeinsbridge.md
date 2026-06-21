@@ -9,6 +9,7 @@ tags:
 - architecture
 title: U Bein Bridge
 type: poi
+score: 8.9
 ---
 
 The world's longest teak bridge, stretching 1.2 kilometres across the shallow Taungthaman Lake near Amarapura. Built around 1850 from wood salvaged when the royal capital moved to Mandalay, U Bein Bridge is still in daily use by monks, farmers, and fishermen.

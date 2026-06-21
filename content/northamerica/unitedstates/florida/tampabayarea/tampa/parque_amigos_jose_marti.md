@@ -11,6 +11,7 @@ neighbourhood: Ybor City
 snippet: A tiny park in Ybor City that legally belongs to the Republic of Cuba — the only Cuban sovereign territory in the US
 story: >
   José Martí visited Tampa in 1891 to rally the Cuban exile community and raise funds for the Cuban independence movement. He gave a speech on the very spot where this park now stands, under a ceiba tree that became a symbol of Cuban resistance. The Republic of Cuba later acquired title to the land in 1956 as a tribute to Martí's connection to Tampa — making this tiny triangle of grass technically Cuban sovereign territory on American soil.
+score: 6.2
 ---
 
 Parque Amigos de José Martí is a small triangle of land in Ybor City that has an extraordinary legal status: it is owned by the Republic of Cuba. The park was established in 1956 to commemorate José Martí's visits to Tampa in 1891 and 1892, during which the poet and Cuban independence leader gave fundraising speeches to the large Cuban exile community in Ybor City.

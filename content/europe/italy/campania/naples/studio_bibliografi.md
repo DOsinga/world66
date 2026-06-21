@@ -10,6 +10,7 @@ tags:
 title: Studio Bibliografico Iavarone
 type: poi
 url: www.studioiavarone.it
+score: 5.6
 ---
 
 Specialist bookshop dealing in antique books, art books, and illustrated books. Two locations — Naples (Via Lepanto) and Bergamo. Good source for old maps and prints of southern Italy.

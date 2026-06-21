@@ -11,6 +11,7 @@ story: >
   prison and lynched them on the Plaats outside. Johan de Witt had been the most
   powerful man in the Dutch Republic. The mob partially cannibalised the bodies.
   The episode remains one of the most notorious events in Dutch history.
+score: 8.1
 ---
 
 A medieval gatehouse that served as a prison for seven centuries, now a museum of crime and punishment. The Gevangenpoort dates from the 14th century and held prisoners until 1828 — including political prisoners, debtors, and those awaiting torture or execution. The guided tour walks you through the cells, the interrogation room, and a collection of instruments of punishment that leaves little to the imagination.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 30.1825
 longitude: 71.431666
+score: 5.8
 ---
 
 The **Cathedral of the Holy Redeemer** is the main Roman Catholic church of Multan and the seat of the Catholic Diocese of Multan, in the Cantonment area west of the walled city. It is a modest mid-twentieth-century building in a stripped Gothic style, with a tall central nave and a brick bell-tower, surrounded by a school, a convent and a small cemetery.

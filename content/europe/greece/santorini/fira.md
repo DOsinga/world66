@@ -8,6 +8,7 @@ tags:
 latitude: 36.4168
 longitude: 25.4315
 snippet: The island's capital perched on the caldera rim, with the best museums and nightlife
+score: 8.3
 ---
 
 Fira is the island's capital and its liveliest town. It sits on the caldera rim about midway along the crescent, with the same vertiginous cliff-edge position as Oia but considerably more going on — shops, restaurants, bars, and the island's two best museums are all here. The main square and the lanes running off it towards the caldera edge are the centre of activity.

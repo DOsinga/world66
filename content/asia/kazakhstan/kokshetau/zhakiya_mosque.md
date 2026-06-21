@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Zhakiya_Kazhi_Mosque
 story: >
   The mosque was built between 1893 and 1894 through donations from the Tatar community and the broader population of Kokshetau — a remarkable act of collective religious construction in a tsarist-era frontier town. It survived the Soviet period by being converted to secular uses, and was returned to its religious function after Kazakh independence in 1991.
+score: 6.6
 ---
 
 The Zhakiya Kazhi Mosque in the city centre is the oldest mosque in Kokshetau, built in 1893–1894 during the tsarist period by the Tatar community and local population. The building survived the Soviet era and has been restored since independence as an active place of worship. It is a modest but handsome structure that reflects the Central Asian Islamic architecture of the late 19th century, distinct from both the grander Ottoman-influenced mosques of the west and the newer Saudi-funded constructions that dominate many Central Asian cities today.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.6680
 longitude: 117.0000
+score: 6.8
 ---
 
 The Jinan Intangible Cultural Heritage Exhibition Hall covers the traditional crafts, performing arts, and folk practices of Jinan and the surrounding region. Exhibits include demonstrations of traditional shadow puppetry, Lu embroidery, paper-cutting, and the distinctive Shandong clapper opera (bangzi) that was one of the dominant theatrical forms in northern China before cinema and television arrived.

@@ -8,6 +8,7 @@ latitude: 50.0333
 longitude: 6.0375
 sources:
   - https://en.wikipedia.org/wiki/Munshausen
+score: 5.7
 ---
 
 The village church in Munshausen is dedicated to St. Hubert, the patron saint of hunters — an apt choice for a village deep in the Ardennes hunting forests. The building dates from the 13th century, though it has been modified over the centuries in the way most small rural churches in the region have been, with later additions sitting alongside the oldest stonework.

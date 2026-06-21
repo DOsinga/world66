@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 38.5262
 longitude: 68.5390
+score: 7.4
 ---
 
 The caravanserai at the foot of the fortress hill once served traders moving between Bukhara and the Pamir foothills. The squat brick building, with its central courtyard and ring of rooms, would have offered shelter, fodder for animals, and a place to do business.

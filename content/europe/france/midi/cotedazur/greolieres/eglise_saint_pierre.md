@@ -8,6 +8,7 @@ latitude: 43.7967
 longitude: 6.9442
 sources:
   - https://en.wikipedia.org/wiki/Gr%C3%A9oli%C3%A8res
+score: 6.7
 ---
 
 The church of Saint-Pierre stands at the heart of the village and is one of the better-preserved Romanesque buildings in the Alpes-Maritimes hinterland. Its origins go back to the 12th century, though the interior has been modified repeatedly. The bell tower is the most distinctive exterior feature, visible from the road below as you approach.

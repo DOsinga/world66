@@ -9,6 +9,7 @@ tags:
 - eating_out
 - restaurant
 - old_town
+score: 7.1
 ---
 
 Forodhani sits on the rooftop of an Old Town building directly opposite the entrance to Fort Jesus, with a wide terrace looking down on the dhow harbour. The menu is unfussy coastal Swahili — coconut fish curry, prawns, grilled snapper, biryani — and the cold beer arrives in good time. The best table is by the railing at sunset, when the call to prayer drifts up from the mosques and dhows ride at anchor on the slack tide. Cash only on smaller bills.

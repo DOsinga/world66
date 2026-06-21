@@ -6,6 +6,7 @@ longitude: 23.4674
 tags:
   - things_to_do
   - museum
+score: 8.2
 ---
 
 The Historical Archives Museum occupies a handsome 19th-century stone mansion on the east side of the harbour and houses Hydra's collection of maritime documents, ship models, paintings, weapons, and the personal effects of the island's revolutionary leaders. The collection is far more substantial than the modest building suggests — Hydra played an outsize role in the 1821 War of Independence, and the museum's archive of ships' logs, letters, and Ottoman-era trade documents is a serious historical resource.

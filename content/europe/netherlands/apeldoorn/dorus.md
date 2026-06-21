@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Dorus
 type: poi
+score: 4.9
 ---
 
 A neighborhood bar on the edge of the Beekpark area in central Apeldoorn. Dorus keeps things simple: a decent beer selection, friendly service, and a terrace that fills up on sunny afternoons. It is a good place to stop after a walk through the park or a visit to the nearby Orpheus theater. The atmosphere is relaxed and local rather than touristy, which is exactly what you want when you are winding down in a Dutch provincial town.

@@ -8,6 +8,7 @@ tags:
 latitude: 42.0500
 longitude: 27.7000
 snippet: "Bulgaria's largest nature park, covering dense oak forest and coastline"
+score: 7.8
 ---
 
 Strandzha Nature Park — Bulgaria's largest protected area — surrounds Primorsko on three sides. The park covers oak and hornbeam forests descending to the Black Sea coast, with rivers running through deep valleys and the Turkish border cutting through the forest to the south. It is one of the few remaining areas of primary deciduous forest in Europe, and the birdlife is exceptional: over 250 species have been recorded, including Egyptian vulture, lesser spotted eagle, and several owl species.

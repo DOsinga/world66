@@ -8,6 +8,7 @@ latitude: 42.6371
 longitude: 24.3581
 story: >
   This humpback stone bridge is where the April Uprising effectively began on 20 April 1876. The revolutionary Todor Kableshkov and his armed band crossed it on their way to the centre of town, exchanging fire with Ottoman soldiers in the first armed clash of the rebellion. The bridge survived; the uprising did not, but Bulgaria's independence followed two years later through Russian military intervention.
+score: 8.3
 ---
 
 The stone humpback bridge over the Topolnitsa river is one of the most photographed spots in Koprivshtitsa, and for good reason — framed by old willows and with painted houses rising on both banks, it is exactly what the town looks like in your imagination before you arrive. It is also genuinely historic.

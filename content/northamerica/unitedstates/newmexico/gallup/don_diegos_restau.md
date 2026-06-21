@@ -11,6 +11,7 @@ tags:
 - eating_out
 title: Don Diego's Restaurant & Bar
 type: poi
+score: 4.8
 ---
 
 One of many Mexican restaurants in Gallup. Steak, shrimp, and Mexican standards. Bar service as well. Right on Route 66.

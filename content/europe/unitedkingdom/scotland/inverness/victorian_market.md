@@ -10,6 +10,7 @@ title: Victorian Market
 type: poi
 story: >
   The Victorian Market opened in 1870 and was the first covered market in the north of Scotland. Its glazed roof and cast-iron structure have been carefully preserved, and it remains a working market with independent traders — one of the few Victorian market halls in Scotland still operating in its original function.
+score: 6.6
 ---
 
 The Victorian Market runs through the heart of Inverness city centre, connecting Academy Street to Church Street via an arcade of independent shops beneath an ornate glazed roof. It's an atmospheric space, particularly on a rainy Highland day when the light filters down through the ironwork.

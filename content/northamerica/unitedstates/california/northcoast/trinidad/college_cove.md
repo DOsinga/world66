@@ -8,6 +8,7 @@ tags:
 title: College Cove
 type: poi
 snippet: "Secluded beach north of the headland, reached by a short trail through coastal forest"
+score: 7.5
 ---
 
 College Cove is a small, sheltered beach on the north side of Trinidad Head, reached by a trail from the state beach parking area. The cove is backed by steep cliffs hung with five-finger ferns and small waterfalls in winter, and protected enough that the swell is gentler than on the exposed state beach. It is one of the more private beaches on this stretch of the Humboldt coast, partly because the trail deters casual visitors.

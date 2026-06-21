@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 44.0128
 longitude: 4.4204
+score: 8.5
 ---
 
 The Place aux Herbes is the main square and the social centre of Uzès — a long, slightly irregular rectangle lined with stone arcades on two sides, with plane trees overhead and café tables spilling out underneath. It is the kind of square that makes you understand why the French built towns this way: sheltered from both sun and rain, open enough to breathe, enclosed enough to feel contained. Come here first thing in the morning for coffee, and again in the evening for a drink, and the square will feel like a completely different place each time.

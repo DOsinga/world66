@@ -9,6 +9,7 @@ tags:
   - family
 latitude: 63.1937
 longitude: 14.581
+score: 5.8
 ---
 
 Frösö Zoo (Frösö Djurpark) on the island of Frösön is Sweden's northernmost zoo and focuses on the animals of the northern regions — a specialisation that makes it more interesting than a generic zoo, since the animals are largely suited to the climate and the landscape matches their natural habitat. The collection includes Scandinavian wolf, lynx, wolverine, arctic fox, and moose, along with Eurasian brown bear, Siberian tigers, and snow leopards.

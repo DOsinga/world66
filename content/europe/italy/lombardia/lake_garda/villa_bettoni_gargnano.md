@@ -9,6 +9,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Villa_Bettoni
   - https://en.wikipedia.org/wiki/Gargnano
+score: 7.3
 ---
 
 Gargnano is one of the quieter and more beautiful towns on the western shore — smaller and less touristic than Salò or Gardone, with a historic lemon grove (limonaia) and a lovely Franciscan cloister near the church of San Francesco. The cloister columns are carved with lemon trees, a charming reminder of when citrus cultivation was the economic mainstay of the western shore.

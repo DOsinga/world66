@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Al-Khamis Mosque
 type: poi
+score: 8.1
 ---
 
 The twin minarets of Al-Khamis Mosque are visible from far along Sheikh Salman Road. It is considered one of the oldest Islamic sites in the Gulf — foundations may date to 692 AD, though an inscription found on site suggests an 11th-century origin. The mosque was rebuilt in the 14th and 15th centuries, when the distinctive minarets were added. A partial restoration has stabilized the structure, and the ruins are open to visitors.

@@ -12,6 +12,7 @@ story: >
   civic generosity in an era when agricultural land in the Central Valley was extraordinarily
   valuable. The valley oaks in the park are among the largest surviving examples in the
   San Joaquin Valley — some are estimated to be several hundred years old.
+score: 7.6
 ---
 
 One of the largest valley oak groves in California, Mooney Grove Park sits on the southern edge of Visalia along Mooney Boulevard. The park's ancient oaks — gnarled, spreading trees that can reach 20 metres tall — create a canopy that makes it one of the most pleasant outdoor spaces in the Central Valley. It's a good picnic destination, with barbecue facilities, a small lake, and the Tulare County Museum on the grounds.

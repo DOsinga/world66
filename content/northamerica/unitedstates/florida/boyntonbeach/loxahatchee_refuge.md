@@ -14,6 +14,7 @@ story: >
   but inside those boundaries the ecosystem still functions: alligators, river
   otters, wood storks, and snail kites all find refuge here that they cannot find
   in the surrounding suburbs.
+score: 8.5
 ---
 
 One of the largest national wildlife refuges in the eastern United States, Loxahatchee protects 145,000 acres of the northern Everglades — the only remaining piece of what was once a continuous wetland system. The refuge is primarily sawgrass marsh and wet prairie, with tree islands of cypress and pop ash rising above the water. Alligators are abundant and visible from the levee paths; the birding is exceptional year-round but best between October and April when wading birds and migratory species are present in large numbers.

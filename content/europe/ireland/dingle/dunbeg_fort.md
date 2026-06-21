@@ -6,6 +6,7 @@ longitude: -10.4086
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 Dunbeg is a small promontory fort dug into a cliff edge above the Atlantic, about 8 km west of Dingle on the Slea Head Drive. Built over several phases between the 6th and 11th centuries, the fort consists of an earthen rampart, a stone wall pierced by a tunnel-like passage, and a single drystone clochán (beehive hut) inside. The site is small enough to walk round in twenty minutes and dramatic enough to be on every coach itinerary.

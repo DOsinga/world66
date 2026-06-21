@@ -9,6 +9,7 @@ latitude: 57.8132
 longitude: 28.3185
 story: >
   During the 1581 siege by Stefan Batory's forces, the Pokrovskaya Tower was partially destroyed by Polish sappers who tunnelled beneath it and detonated an explosive charge. The defenders repaired it under fire and the tower held. An icon of the Intercession of the Virgin, for which the tower is named, was credited with the miraculous defence of the city.
+score: 7.6
 ---
 
 The Pokrovskaya Tower is the largest surviving tower in Pskov's outer ring of fortifications, and was reputedly the largest single fortification structure in Northern Europe when it was completed in the early 16th century. At 40 metres tall and with walls several metres thick, it formed the southwestern anchor of the city's defensive perimeter.

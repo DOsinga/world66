@@ -14,6 +14,7 @@ story: >
   cathedral himself, quarrying stone from the Kim Son area and using Vietnamese architectural
   principles for a building that was technically a Catholic church. When he died in 1899 the
   cathedral was essentially complete. He is buried beneath the bell tower.
+score: 8.3
 ---
 
 Phat Diem Cathedral stands about 30 kilometres south of Ninh Binh near the coast, and is one of the most architecturally remarkable churches in Southeast Asia. Built between 1875 and 1899 from locally quarried stone, the complex is designed in a hybrid style that fuses Vietnamese temple architecture — curved roofs, carved wooden pillars, stone dragons — with the layout and liturgical function of a Catholic cathedral.

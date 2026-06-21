@@ -7,6 +7,7 @@ tags:
 address: "Zona 13, Guatemala City"
 latitude: 14.5873
 longitude: -90.5162
+score: 6.2
 ---
 
 La Aurora Zoo, in Zona 13 near the airport, is one of the better zoological parks in Central America. The collection focuses on species native to Guatemala and the wider Americas: jaguars, pumas, tapirs, spider monkeys, quetzals (the national bird), and a variety of tropical birds. There is also an African section with elephants and giraffes, which feels incongruous but keeps the children happy.

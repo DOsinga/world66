@@ -7,6 +7,7 @@ tags:
 - museum
 title: Chao Sam Phraya National Museum
 type: poi
+score: 8.2
 ---
 
 Ayutthaya's main museum, on Rochana Road opposite the city wall. The collection spans centuries of Ayutthayan art: bronze Buddha images, gold jewellery, carved panels, and ceramics recovered from the ruins. The highlight is the Thai Pavilion, which contains relics and royal objects over 500 years old.

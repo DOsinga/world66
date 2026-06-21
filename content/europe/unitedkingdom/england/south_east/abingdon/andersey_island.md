@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 51.6670
 longitude: -1.2700
+score: 6.5
 ---
 
 Andersey Island is the 273-acre flood meadow south-east of Abingdon Bridge, formed where the Thames splits into two channels around a long oval of low-lying grass. It is one of the few accessible river-island meadows on the upper Thames and is grazed by cattle in summer.

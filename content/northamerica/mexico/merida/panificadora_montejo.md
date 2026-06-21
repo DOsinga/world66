@@ -8,6 +8,7 @@ tags:
 latitude: 20.9680
 longitude: -89.6245
 snippet: Mérida's neighbourhood bakeries and breakfast counter restaurants open at dawn
+score: 6.5
 ---
 
 Mérida takes breakfast seriously and its panaderías — neighbourhood bakeries producing bolillos, pan dulce, and the Yucatecan specialty pan de cazón (a layered tortilla, shark, and black bean preparation) — are worth seeking out in the early morning. Many open by 6am and are busy from first light. The best are on the streets just off the main market district, on Calles 65 and 67, where small bakeries have been in business for decades and the bread comes out of wood-fired ovens.

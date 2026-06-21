@@ -7,6 +7,7 @@ tags:
 latitude: 35.7128
 longitude: -83.5130
 snippet: "Gatlinburg's beloved breakfast institution since 1961"
+score: 7.1
 ---
 
 The Pancake Pantry has been serving breakfast on the main strip since 1961, which by Gatlinburg standards makes it practically ancient. The menu runs to some two dozen pancake varieties — wild blueberry, sweet potato, Austrian apple, buttermilk — plus eggs, country ham, and the kind of large American breakfast that sets you up for a full day on mountain trails. The coffee is reliable, the service is practiced and efficient, and the food consistently delivers what it promises.

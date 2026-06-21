@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 42.2874
 longitude: 12.4106
+score: 8.0
 ---
 
 Inside the Forte Sangallo, the Museo Archeologico dell'Agro Falisco holds one of the best collections of Faliscan material in existence. The Faliscans were not Etruscans, though they lived alongside them — their language was closer to Latin, their culture a hybrid of Italic and Etruscan influences, and their city of Falerii Veteres occupied the very plateau on which Civita Castellana now stands. The museum presents the arc of Faliscan civilisation from the Iron Age through to the Roman conquest of 241 BC, with particular strength in pottery: the Faliscan red-figure ware here is outstanding, running from local imitations of Attic originals to a fully independent Faliscan style.

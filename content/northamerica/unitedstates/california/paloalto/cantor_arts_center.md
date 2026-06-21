@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Free university museum with the largest Rodin collection outside Paris"
+score: 8.7
 ---
 
 Stanford's main art museum, free and surprisingly comprehensive — over 38,000 works covering 5,000

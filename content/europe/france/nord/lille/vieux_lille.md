@@ -7,6 +7,7 @@ tags:
 latitude: 50.641
 longitude: 3.062
 snippet: The restored Flemish old quarter — red brick, stepped gables, cobbled lanes, and the best restaurants
+score: 8.9
 ---
 
 Vieux-Lille is the historic core north of the Grand'Place: a compact grid of 17th- and 18th-century Flemish townhouses in terracotta brick with stepped gables, small courtyards, and cobbled streets lined with the best independent shops and restaurants in the city. It looks, at first glance, more like Bruges or Ghent than anywhere in France — the architecture reflects Lille's Flemish and Spanish Netherlands history far more than its subsequent three and a half centuries as a French city.

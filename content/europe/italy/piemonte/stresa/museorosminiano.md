@@ -11,6 +11,7 @@ tags:
 - museum
 title: Museo Rosminiano
 type: poi
+score: 4.8
 ---
 
 A small museum dedicated to the philosopher and theologian Antonio Rosmini, housed in the Villa Ducale where he lived and died in 1855. The collection includes personal effects, manuscripts, and documents tracing his life and work.

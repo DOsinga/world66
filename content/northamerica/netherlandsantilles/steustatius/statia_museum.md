@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 17.4833
 longitude: -62.9833
+score: 7.6
 ---
 
 The St Eustatius Historical Foundation Museum (STIMOC) is housed in the 18th-century Simon Doncker House in upper Oranjestad. The building itself is one of the best-preserved colonial merchant houses in the Dutch Caribbean — a solid stone structure with period rooms showing how a prosperous Statian merchant family would have lived at the height of the island's commercial glory.

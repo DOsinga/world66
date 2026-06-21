@@ -13,6 +13,7 @@ story: >
   befriended Matisse in Paris in the early 20th century and bought systematically
   from him for decades. Etta and Claribel Cone's entire collection was bequeathed
   to the museum on the condition that Baltimore be "a hospitable place for art."
+score: 9.1
 ---
 
 The Baltimore Museum of Art has one of the finest collections in the United States and is entirely free — a fact that deserves emphasis, because the quality here would justify a substantial admission fee. The Cone Collection alone — Matisse, Picasso, Cézanne, Renoir, and Gauguin assembled by two prescient Baltimore sisters in the early 20th century — would be the centrepiece of most paid museums.

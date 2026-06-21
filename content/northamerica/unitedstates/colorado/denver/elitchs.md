@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do]
 latitude: 39.7457
 longitude: -105.0099
+score: 4.8
 ---
 
 Founded in 1890 (one of the oldest continuously operating amusement parks in the US), Elitch Gardens moved from its original Highlands site to a downtown riverside location in 1995. The current park has the obligatory roller coasters (Mind Eraser, Twister II, Sidewinder) plus an attached water park (Island Kingdom) for summer.

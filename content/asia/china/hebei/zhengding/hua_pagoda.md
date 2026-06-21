@@ -13,6 +13,7 @@ story: >
   less like a pagoda than a three-dimensional mandala. No other pagoda in
   northern China uses this approach, which appears to have been a deliberate
   local experiment in translating Buddhist cosmology into architecture.
+score: 8.2
 ---
 
 The Hua Pagoda, standing within the Guanghui Temple grounds, is the strangest of Zhengding's four pagodas — and, to many visitors, the most memorable. Its lower section is entirely covered in sculptural relief: elephants bearing small pagodas on their backs, seated Buddhas, mythical guardian figures, decorative animals, and layers of geometric ornament that cover every surface. The effect is more sculptural than architectural, and it looks nothing like conventional Chinese pagoda design.

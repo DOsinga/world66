@@ -6,6 +6,7 @@ longitude: 25.8200
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 Eru Bay is the wide, shallow bay west of the Käsmu peninsula — a long curve of pine-fringed coast with very gradual sand bottom, looking south to the village of Vergi. A small fishing harbour at Vergi, the only village on the bay's southern shore, has a couple of seasonal cafés and a wooden pier popular at sunset.

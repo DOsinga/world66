@@ -8,6 +8,7 @@ tags:
 latitude: -1.8282
 longitude: -80.7529
 snippet: "The main beach, wide and sandy, with beachfront bars and surf shops"
+score: 7.7
 ---
 
 The beach at Montañita stretches north from La Punta for about a kilometre, wide and sandy with clean water. The southern section near the point is where the surf happens; the northern part is calmer and better for swimming. At weekends the beach fills with day-trippers from Guayaquil, and the vendors, music, and general noise make it a party beach as much as a surf beach.

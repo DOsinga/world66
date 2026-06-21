@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.3617
 longitude: -71.1042
+score: 7.4
 ---
 
 The path along the Cambridge side of the Charles River is one of the most pleasant urban walks in greater Boston. The route runs from the BU Bridge in the west past MIT and through the parkland opposite the Esplanade, with views across to the Boston skyline. On summer weekends it fills with joggers, cyclists, families, and students in kayaks renting from the boathouse near MIT.

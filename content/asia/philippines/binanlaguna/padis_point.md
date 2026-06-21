@@ -7,6 +7,7 @@ tags:
 latitude: 14.341
 longitude: 121.084
 snippet: "Lively bar with regular events, competitions, and a loyalty points system on drinks"
+score: 5.5
 ---
 
 Padi's Point runs itself like a neighbourhood institution rather than just a bar — there are regular events, drinking competitions, and a loyalty points system that rewards repeat customers. It is the kind of place that builds a crowd of regulars who know the staff by name and the menu by heart, and that energy is noticeable from the moment you walk in. On busier nights, competitions and promotions add a game-show quality to the proceedings that either appeals to you or it doesn't; most people find it good fun after the first round.

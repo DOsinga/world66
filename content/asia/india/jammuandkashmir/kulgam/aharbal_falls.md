@@ -8,6 +8,7 @@ tags:
 title: Aharbal Falls
 type: poi
 story: "The falls drop the entire flow of the river Veshaw down a 25-metre cliff in a single cataract. Local Pahari belief held the pool at the base to be home to a water demon; British colonial officers preferred to read out poetry by the mist. Both habits have died out, but the spray still soaks anyone who gets close to the rocks."
+score: 8.2
 ---
 
 About 30 kilometres west of Kulgam town, the river Veshaw plunges off a cliff in a single 25-metre cataract called Aharbal. The English nicknamed it the Niagara of Kashmir — pleasingly ridiculous, given the scale gap, but accurate to the impression the falls make in person. The drop is sheer, the noise huge, the spray drifts a hundred metres downstream.

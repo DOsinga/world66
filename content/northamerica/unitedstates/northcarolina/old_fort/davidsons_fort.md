@@ -16,6 +16,7 @@ story: >
   musket fire.
 sources:
   - https://en.wikipedia.org/wiki/Davidson%27s_Fort
+score: 7.8
 ---
 
 Davidson's Fort Historic Park preserves the site of a Revolutionary War-era frontier stockade built in 1776 to protect settlers from Cherokee raids. The original fort was one of several built across western North Carolina during the same years the colonists were fighting the British — settlers here were fighting on two fronts simultaneously. The reconstructed fort gives a real sense of the scale and construction of these early defensive works: wooden palisades, corner bastions, a small blockhouse.

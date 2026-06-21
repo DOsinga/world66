@@ -8,6 +8,7 @@ latitude: 51.6784
 longitude: 8.3553
 sources:
   - https://www.sauerland.com/Sauerland/Geschichten/Tourentipp-Mit-dem-Kanu-durch-den-Gruenen-Winkel-Lippstadts
+score: 6.9
 ---
 
 The Grüner Winkel — Green Corner — is Lippstadt's riverside parkland in the heart of the old town, where several branches of the Lippe converge among willows and water meadows. Walking and cycling paths thread through the area, and two canoe hire companies (Gamann Kanus and Kanutouren Deppe) operate from the landing point at the park's edge, offering tours along the Lippe that pass under old stone bridges and past the Stiftsruine walls.

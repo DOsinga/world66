@@ -6,6 +6,7 @@ longitude: 76.8269
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 Mata Mansa Devi is one of the principal Shakti temples of North India, sitting on a hill in Panchkula just across the Haryana border from Chandigarh. Pilgrims come year-round but the great rush is during the twice-yearly Navratri festival, when half a million visitors can pass through in a single week.

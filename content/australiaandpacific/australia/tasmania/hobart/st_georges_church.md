@@ -12,6 +12,7 @@ tags:
   - architecture
   - battery_point
 snippet: "1838 sandstone church on the highest point of Battery Point — historically a beacon for sailors entering the harbour"
+score: 7.7
 ---
 
 A handsome Greek Revival sandstone church on the highest point of Battery Point, designed by James Blackburn and completed in 1838. The bell tower, added in 1847, was specifically built tall enough to function as a daylight navigation marker for ships entering Sullivans Cove — the church was a working **landmark for sailors** long before it became a tourist sight. The interior is light, plain, and Georgian, with a triple-decker pulpit and box pews surviving from the 1840s.

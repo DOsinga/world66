@@ -6,6 +6,7 @@ tags:
 - sight
 title: Aalst Belfry
 type: poi
+score: 7.5
 ---
 
 The Belfry on the corner of the Schepenhuis is the visual signature of the Grote Markt — a slim, brick-and-stone tower with a carillon of 52 bells. It dates to the 15th century and was rebuilt and adjusted several times after fires.

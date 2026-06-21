@@ -15,6 +15,7 @@ story: >
   expected to speak only their tongue's language within its walls. When
   the Knights left in 1522, the Ottoman garrison simply moved into the same
   buildings and used them as stables.
+score: 8.9
 ---
 
 The Street of the Knights — Ippoton in Greek — runs in a straight line from the Hospital of the Knights up to the Palace of the Grand Master, and it looks almost exactly as it did in the fifteenth century. The Italians restored it early in the twentieth century, removing later additions and returning the facades to something close to their original form. Whether you consider this conservation or confection depends on your disposition, but the result is one of the most complete stretches of late-medieval urban fabric anywhere in Europe.

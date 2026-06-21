@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "George Lucas filmed Luke Skywalker's home interiors here in 1976 for the original Star Wars. He came back in 2000 for Attack of the Clones and the production crew repainted the props that the hotel had quietly preserved for two decades. The original Lars homestead pieces — the table, the moisture vaporators — are still in the lower courtyards."
+score: 7.4
 ---
 
 A working hotel built into a series of interconnected craters of the Matmata troglodyte type. The five pit courtyards have been lightly knocked through and now serve as bar, restaurant, and accommodation. Even if you do not stay, you can walk through the courtyards during the day for a small fee (or buy a coffee at the bar and get the same access).

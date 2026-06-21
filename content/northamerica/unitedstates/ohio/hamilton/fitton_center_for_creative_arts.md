@@ -9,6 +9,7 @@ latitude: 39.3995
 longitude: -84.5613
 story: >
   The Fitton Center was established in 1993 in a renovated 1905 building on the Great Miami River. Named after a local family that donated $1 million to launch the institution, it has become the cultural anchor for downtown Hamilton's revival — hosting everything from national touring theater productions to local school programs.
+score: 6.3
 ---
 
 The Fitton Center is Hamilton's arts hub, a multi-discipline venue occupying a renovated building overlooking the Great Miami River. The facility runs rotating art exhibitions, hosts live theater and music performances, and operates extensive studio and classroom programs. The gallery spaces show local and regional artists alongside more established names.

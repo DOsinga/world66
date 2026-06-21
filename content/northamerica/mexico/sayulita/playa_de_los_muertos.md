@@ -14,6 +14,7 @@ story: >
   maintained with flowers and painted in bright colors; the surfer community has
   added decorated boards to some of the markers, a detail that makes the
   cemetery worth a short detour before you head down to the sand.
+score: 7.0
 ---
 
 Playa de los Muertos is the most accessible alternative to Sayulita's main beach, a ten-minute walk south around the headland past the cemetery. It's smaller, quieter, and entirely without services — no rental chairs, no vendors, no surf schools. What it has is rock-edged clear water, fewer people, and the kind of peaceful isolation that's surprisingly hard to find this close to a busy town.

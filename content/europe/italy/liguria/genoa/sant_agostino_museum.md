@@ -7,6 +7,7 @@ tags:
 - museum
 type: poi
 snippet: Fragments of medieval Genoese sculpture in a Gothic convent complex
+score: 7.8
 ---
 
 The museum of medieval and baroque sculpture occupies the cloister and church of the former Augustinian convent of Sant'Agostino, a Gothic complex dating from the 13th century. The collection is focused on stone: architectural fragments, sarcophagi, capitals, and decorative elements saved from the demolitions and reconfigurations of Genoa's many churches over the centuries.

@@ -7,6 +7,7 @@ tags:
   - historic_site
 latitude: 36.1300
 longitude: 114.3400
+score: 7.2
 ---
 
 Huanbei, discovered in 1999 on the northern edge of modern Anyang, is a Bronze Age city that predates the Yinxu capital and was only occupied for a few generations before being abandoned — probably after a fire — around 1300 BCE. The site is remarkable for the survival of its city wall outlines and the remains of a large palatial complex, including a building that at roughly 10,000 square metres was one of the largest timber-framed structures ever built in ancient China. Excavations have confirmed that Huanbei was a fully planned urban centre, laid out on a grid, with a central palace district surrounded by residential and craft production areas.

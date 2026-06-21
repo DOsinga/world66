@@ -10,6 +10,7 @@ tags:
 - cafe
 title: Gallery Cafe
 type: poi
+score: 5.8
 ---
 
 Good Thai food in a unique setting -- four floors of Asian and modern art. The Tom Yam Kung soup comes recommended. A nice spot for lunch or dinner when you want something a bit more atmospheric.

@@ -7,6 +7,7 @@ tags:
 latitude: -31.4614
 longitude: 152.9326
 snippet: A long, exposed surf beach running south to Tacking Point, rarely crowded and popular with surfers
+score: 6.9
 ---
 
 Lighthouse Beach is the longest and most exposed of Port Macquarie's beaches, running for about 2 kilometres from Shelly Beach south to the headland below Tacking Point Lighthouse. It faces the open ocean and receives a heavier swell than the more sheltered beaches to the north, making it the best option for surfing in the area.

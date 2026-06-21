@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Guru Nanak Vaishnav Dhaba
 type: poi
+score: 5.4
 ---
 
 A no-frills Punjabi dhaba serving generous portions of dal, roti, and sabzi at low prices. Popular with locals for a quick, filling meal. No branches elsewhere despite what imitators may claim.

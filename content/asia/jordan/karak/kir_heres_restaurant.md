@@ -7,6 +7,7 @@ snippet: Long-running restaurant near the castle entrance with classic Jordanian
 tags:
   - eating_out
   - restaurant
+score: 5.2
 ---
 
 Kir Heres sits just below the castle gate and has been feeding tour groups and independent travellers for years. The menu is reliable Jordanian: mansaf on Fridays, mezze platters with hummus and mutabbal, grilled lamb chops, and fresh bread from a wood oven. Service is efficient if a little rushed at peak times.

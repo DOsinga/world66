@@ -15,6 +15,7 @@ story: >
   Tibetan community outside Tibet itself. The dozens of monasteries (gompas) that ring the
   stupa were mostly built by these refugees; today Boudha is the most important centre of
   Tibetan Buddhism outside the Tibetan plateau.
+score: 9.3
 ---
 
 Boudhanath is one of the largest Buddhist stupas in the world, a massive white dome some 36 metres high topped by a gilded tower bearing the same all-seeing eyes as Swayambhunath. It sits at the centre of its own neighbourhood — Boudha — about 6 km east of the city centre, ringed by Tibetan monasteries, shops selling butter lamps and prayer flags, and a circumambulation path (kora) that locals walk in the early morning and evening.

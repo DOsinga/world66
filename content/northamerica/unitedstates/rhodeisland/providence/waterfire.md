@@ -12,6 +12,7 @@ story: >
   expanded it into a recurring series. The event has since drawn over ten
   million visitors and inspired WaterFire installations in cities from Wichita
   to Venice, Italy.
+score: 8.0
 ---
 
 On selected evenings from spring through autumn, nearly a hundred bonfires are lit on iron braziers anchored in the Providence, Woonasquatucket, and Moshassuck rivers as they converge in the heart of downtown. Gondoliers paddle among the flames while ambient and world music plays from speakers along both banks. The effect — fire on dark water, the smell of cedar smoke, the reflection in the river — is genuinely strange and beautiful, and it's free.

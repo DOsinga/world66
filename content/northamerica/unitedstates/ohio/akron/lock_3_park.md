@@ -8,6 +8,7 @@ tags:
 latitude: 41.0820
 longitude: -81.5183
 address: 200 South Main Street
+score: 5.9
 ---
 
 Lock 3 is the riverside park and amphitheatre built around a restored section of the Ohio & Erie Canal, right downtown. The lock itself — number three of seventeen between Akron and Cleveland — is preserved with stone walls and gates intact, and a small interpretive area explains how the canal made Akron the centre of the Ohio rubber industry.

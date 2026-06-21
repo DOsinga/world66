@@ -7,6 +7,7 @@ tags:
 latitude: 22.6912
 longitude: 120.2925
 snippet: Taiwan's largest Confucius temple, set on the northern shore of Lotus Pond
+score: 7.7
 ---
 
 The largest Confucius temple in Taiwan, built in the early 1970s in a faithful copy of the layout used at the original Confucius temple in Qufu, China. The grand red-and-yellow buildings sit on the northern shore of Lotus Pond, with a wide pavement courtyard and ceremonial gates.

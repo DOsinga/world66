@@ -10,6 +10,7 @@ tags:
 - downtown_phoenix
 title: Orpheum Theatre
 type: poi
+score: 8.1
 ---
 
 The Orpheum opened in 1929 as a vaudeville and movie palace and is the only surviving theatre of its era in Phoenix. The exterior is Spanish Colonial Revival, but the interior is full-blown atmospheric: a Mediterranean courtyard with painted balconies, a starlit ceiling that sees the dawn break before each show, and a working pipe organ. After decades of decline it was rescued, restored to its 1929 colour scheme, and reopened in 1997.

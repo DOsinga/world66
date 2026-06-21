@@ -8,6 +8,7 @@ latitude: 32.6218
 longitude: 108.8910
 story: >
   The Ankang Dam that created Yinghu Lake was built in the 1970s — a project that flooded the lower Han River valley and submerged several villages and historical sites. The local saying is that when water levels drop in dry seasons, the foundations of the old town appear above the surface, a ghost city visible for a few weeks before the water rises again.
+score: 6.2
 ---
 
 Yinghu Lake is the large reservoir created by the Ankang Dam on the Han River, stretching west from the city through a series of mountain-framed bays and inlets. The lake covers about 77 square kilometres and is the main scenic asset of the Ankang area, with boat trips, lakeside restaurants, and walking paths along the western shore. The surrounding mountains provide a backdrop of forested ridges and red-sandstone cliffs.

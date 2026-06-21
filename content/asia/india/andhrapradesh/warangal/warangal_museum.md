@@ -7,6 +7,7 @@ tags:
 latitude: 17.990961
 longitude: 79.588481
 story: Many of the carvings in the Warangal Museum were recovered from collapsed or vandalized sections of Warangal Fort — sculptures that were buried for centuries and excavated during conservation work. Without the museum, these pieces would be scattered or lost; with it, visitors can see the sculptural vocabulary of Kakatiya art at close range before heading out to the monuments themselves.
+score: 6.7
 ---
 
 The Warangal Museum, operated by the Archaeological Survey of India, displays sculptures, inscriptions, and architectural fragments recovered from Warangal Fort and the surrounding Kakatiya sites. The collection gives a concentrated introduction to Kakatiya art before heading out to the monuments — many of the pieces are small enough to examine closely in a way that the installed carvings at the Thousand Pillar Temple or the Fort gateways do not allow.

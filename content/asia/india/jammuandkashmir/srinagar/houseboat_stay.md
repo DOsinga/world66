@@ -17,6 +17,7 @@ story: >
   and the kind of Victorian drawing room furniture that was fashionable in British
   households. By the 1920s staying on a Kashmiri houseboat was considered one of
   the great experiences of the empire.
+score: 8.5
 ---
 
 Staying on a houseboat moored in Dal Lake is the defining Srinagar experience and has been since the British colonial period. The boats range from very basic (a bedroom and a small sitting area, shared bathroom, and a cook who does three meals) to genuinely luxurious (multiple bedrooms with carved walnut panelling, antique furniture, proper kitchen, and dedicated shikara). The Heritage category boats, licensed by the tourism department, are the most regulated and generally most reliable in quality.

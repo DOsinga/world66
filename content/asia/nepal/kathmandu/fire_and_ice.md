@@ -8,6 +8,7 @@ tags:
 latitude: 27.7150
 longitude: 85.3140
 address: Sanchaya Kosh Building, Thamel
+score: 5.3
 ---
 
 Fire and Ice has been the most consistent Italian restaurant in Kathmandu for many years, an Italian-run establishment serving wood-fired pizza and pasta that genuinely competes with what you would find in a European city. It is something of a Kathmandu institution — trekkers who have been dreaming of pizza for three weeks make a direct line here on return from the mountains.

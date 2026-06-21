@@ -5,10 +5,11 @@ latitude: 30.472
 longitude: -8.8766
 snippet: Taroudant's unhurried main square lined with cafe terraces
 tags:
-- history
-- viewpoint
+- things_to_do
+- sight
 title: Place Assarag
 type: poi
+score: 6.8
 ---
 
 The main square and the social heart of Taroudant. Café terraces line the square and fill up in the evenings when locals come out to sit and watch. It's a good place to orientate yourself when you arrive — the medina radiates from here, and the souk entrances are a short walk away.

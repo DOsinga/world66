@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The vast stone plateau stretching west toward the Mauritanian border
+score: 7.4
 ---
 
 The Hammada du Draa is the rocky plateau that fills most of Tindouf wilaya — a flat, ochre-and-black stone surface scoured of sand, broken only by the occasional shallow wadi and the tracks of the trans-Saharan trade. It is one of the bleakest landscapes in the Sahara, and one of the most beautiful, with horizons of unbroken stone running to a clean line against the sky. There is almost no vegetation. Daytime temperatures in summer push past 50°C; winter nights regularly drop below freezing.

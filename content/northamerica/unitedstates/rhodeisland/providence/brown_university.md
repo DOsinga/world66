@@ -13,6 +13,7 @@ story: >
   the New Curriculum, eliminating all general education requirements so students
   can design their own courses of study entirely — still considered radical by
   most universities.
+score: 8.8
 ---
 
 Brown University occupies the top of College Hill, its main green and surrounding streets forming one of the most pleasant university walks in New England. University Hall dates to 1770 and was used as a barracks and hospital during the Revolutionary War. The John Hay Library holds an unusual collection including Abraham Lincoln's letters and early science fiction manuscripts. Manning Chapel is a handsome Federal Revival building worth a look.

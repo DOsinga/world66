@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Sindh Assembly Building
 type: poi
+score: 7.5
 ---
 The Sindh Assembly Building anchors the civic heart of Saddar with the self-assurance of an institution that knows it has been here since before Pakistan existed. Completed in 1938, the structure blends classical colonial proportions with Mughal detailing — arched colonnades, a symmetrical facade, and a scale intended to project permanence. It remains the seat of the provincial legislature and is a working government building, so access to the interior is restricted, but the exterior and the surrounding gardens reward a short detour.
 

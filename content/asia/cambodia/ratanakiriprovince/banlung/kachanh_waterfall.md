@@ -6,6 +6,7 @@ longitude: 106.9833
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 About 6 km south of Ban Lung, **Ka Chanh** (sometimes spelled Kachang) is a wider, lower waterfall than Cha Ung — a curtain of water dropping perhaps 10 metres over a flat basalt ledge. The pool below is good for swimming and the surrounding forest gives plenty of shade for a picnic.

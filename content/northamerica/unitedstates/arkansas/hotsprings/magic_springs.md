@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Combined amusement and water park on the east edge of town"
+score: 5.4
 ---
 
 A combined amusement and water park on the east side of Hot Springs, with around 15 mechanical rides

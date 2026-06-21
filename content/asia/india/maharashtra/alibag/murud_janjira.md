@@ -12,6 +12,7 @@ story: >
   the British, not by the Portuguese, not by Kanhoji Angre himself, who besieged it repeatedly 
   and failed every time. Its name is a corruption of the Arabic "Jazira," meaning island, and 
   its Siddi rulers — East African Muslims who had served the Mughals — held it for over 300 years.
+score: 8.8
 ---
 
 The most impressive fort on the Konkan coast sits on a basalt rock island about half a kilometre offshore from the village of Murud, roughly 55 km south of Alibag. Janjira is massive — its walls rise 20 metres above the sea and once enclosed 22 bastions, a freshwater lake, and the palace and mosque of the Siddis, the Abyssinian Muslim rulers who held the fort from the 17th century.

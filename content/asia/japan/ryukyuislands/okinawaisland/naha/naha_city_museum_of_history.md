@@ -8,6 +8,7 @@ latitude: 26.21378
 longitude: 127.67925
 sources:
   - https://en.wikipedia.org/wiki/Naha_City_Museum_of_History
+score: 7.4
 ---
 
 The Naha City Museum of History, located in the Palette Kumoji complex in the city centre, tells the story of Naha from prehistoric settlement through the Ryukyu Kingdom period to the present day. The collection is well organized and relatively compact — you can cover it properly in ninety minutes.

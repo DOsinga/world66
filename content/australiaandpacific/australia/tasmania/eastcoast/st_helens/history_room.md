@@ -6,6 +6,7 @@ longitude: 148.2450
 tags:
   - things_to_do
   - museum
+score: 5.8
 ---
 
 A small volunteer-run local-history museum in the town's old library building on Cecilia Street, with displays on the tin-mining boom of the 1870s, the Chinese miners who worked the streams, the fishing fleet, and the recent mountain-bike-led revival.

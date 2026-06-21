@@ -12,6 +12,7 @@ story: >
   porcelain for court use. The bold black-and-white painted decoration on Cizhou
   pieces influenced ceramic traditions across East Asia and, through export trade,
   reached as far as Japan and Southeast Asia, where the style was studied and imitated.
+score: 7.5
 ---
 
 The Cizhou Ceramics Museum in Ci County (Cixian), south of Handan, is dedicated to one of the most important northern Chinese ceramic traditions. Cizhou ware is characterised by its bold painted decoration — black or brown slips applied over a white ground, with images of plants, birds, figures, and calligraphy — and by its thoroughly functional character. These were not delicate objects for aristocratic display; they were storage jars, pillows, wine vessels, and everyday bowls made to be used.

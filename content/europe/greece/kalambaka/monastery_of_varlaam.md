@@ -15,6 +15,7 @@ tags:
   - monastery
 title: Monastery of Varlaam
 type: poi
+score: 9.0
 ---
 
 Founded in 1541, the Monastery of Varlaam is the second largest in Meteora and widely regarded as having the most beautiful frescoes in the complex. The church of All Saints contains 16th-century paintings by the Theban artist Frangos Katelanos, whose bold colours and expressive figures represent the peak of Macedonian Renaissance painting in Greece.

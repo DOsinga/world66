@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - friulian
+score: 6.9
 ---
 
 Address: Viale Tricesimo 276. A long-running family restaurant on the northern edge of town that traditionalists swear by for *prosciutto di San Daniele*, hand-cut to order, and a serious *bollito misto* trolley in winter. The dining room is formal — white tablecloths, suited waiters — but the food is unmistakably regional.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.7350
 longitude: -105.4200
+score: 6.6
 ---
 
 The approach to Black Hawk via Colorado Highway 6 through Clear Creek Canyon is one of the most dramatic drives in the Front Range. The road follows the creek bed through sheer granite walls for about 15 kilometres from Golden, climbing steeply and winding through tunnels blasted from the rock in the early 20th century. The canyon walls rise hundreds of metres on either side, and in spring the creek runs white with snowmelt.

@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Hot Springs Cove is British Columbia's only natural hot springs accessible from the coast, and its remoteness is part of the appeal. Geothermal water emerges at 50°C from cracks in the rock, flows down a short cascade, and cools through a series of tidal pools to a temperature you can actually sit in. The pools are tidal — at high tide they're swamped by the ocean. Getting the timing right is part of the experience.
+score: 8.4
 ---
 
 A natural geothermal spring on a remote stretch of Vancouver Island coastline, accessible from Tofino only by floatplane (25 minutes) or water taxi (about 90 minutes) through the islands and inlets of Clayoquot Sound. The journey is part of the experience — the Sound is strikingly beautiful, with forested islands, seabird colonies, and frequent marine mammal sightings.

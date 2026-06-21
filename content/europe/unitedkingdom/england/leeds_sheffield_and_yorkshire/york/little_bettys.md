@@ -7,6 +7,7 @@ tags:
 title: Little Bettys
 type: poi
 snippet: "The smaller, quieter Stonegate sibling of Bettys on St Helen's Square, often with shorter queues"
+score: 6.5
 ---
 
 Little Bettys on Stonegate serves the same menu as the main Bettys a few streets away — fat rascals, Yorkshire curd tart, proper tea — in a smaller and quieter space. The building is narrow and tall, and the café winds up several floors. It lacks the grand period interior of the St Helen's Square branch, but it also tends to have shorter queues and a more relaxed atmosphere.

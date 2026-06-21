@@ -10,6 +10,7 @@ longitude: 11.6346
 address: Regierungsstraße 4-6, 39104 Magdeburg
 opening_hours: Tue-Sun 10:00-17:00
 snippet: 11th-century Romanesque cloister, now a museum and concert venue
+score: 8.3
 ---
 
 The Monastery of Our Lady is Magdeburg's second major medieval monument — a Romanesque complex founded in the 11th century, about two centuries before the current cathedral. Unlike the cathedral, which remained an active church, the monastery was secularized in the 16th century and has been used for various cultural purposes ever since. Today it serves as a museum of sculpture and a concert hall.

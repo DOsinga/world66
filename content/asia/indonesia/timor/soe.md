@@ -11,6 +11,7 @@ story: >
   unusually so for an Indonesian town at this latitude. Dutch colonial administrators used it
   as a retreat from Kupang's heat, and the upland setting has kept it somewhat more prosperous
   and densely settled than the lowland interior.
+score: 7.3
 ---
 
 Soe is the main town of the interior highlands, about 110 kilometres east of Kupang. It functions as a market hub for the surrounding traditional villages and is the best base for exploring the traditional Timorese interior. The morning market is one of the most vivid in Nusa Tenggara — vendors come from scattered villages to trade ikat textiles, betel nut, local vegetables, and livestock.

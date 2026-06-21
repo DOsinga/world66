@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 6.0
 ---
 
 Akshi is 5 km south of Alibaug and the quietest of the easily accessible beaches. The sand is a clean white, the slope is gentle, and the scrub forest behind it is almost untouched. Local fishermen pull in their boats here in the early morning.

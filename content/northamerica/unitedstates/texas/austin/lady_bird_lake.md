@@ -9,6 +9,7 @@ latitude: 30.2545
 longitude: -97.7513
 story: >
   Lady Bird Lake was created in 1960 by damming the Colorado River, and was renamed in honour of First Lady Lady Bird Johnson in 2007, three months before her death. Johnson was a passionate conservationist who spearheaded the Highway Beautification Act of 1965 — which planted wildflowers along American highways — and the lake renaming reflected Austin's appreciation of her environmental legacy.
+score: 9.0
 ---
 
 Lady Bird Lake is the green heart of Austin — a reservoir on the Colorado River that bisects downtown, flanked by 10 miles of hike-and-bike trails on both banks. The trail, connecting Zilker Park in the west to Pleasant Valley Road in the east, is the most-used park amenity in the city, drawing runners, cyclists, kayakers, and dog-walkers throughout the day.

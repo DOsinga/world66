@@ -8,6 +8,7 @@ tags:
 title: Klek Peninsula
 type: poi
 story: "Although the peninsula juts off the Bosnian coast at Neum, almost all of it is administered by Croatia — the result of a centuries-old border drawn up by Venice and the Ottomans in 1699 and never fully tidied since."
+score: 7.1
 ---
 
 The peninsula that gives the village its name is a long, low spit of Mediterranean scrub reaching out into the Adriatic. Walking the rough coast path takes you past pine, juniper, and rosemary, with the sea on both sides and views back to the karst mountains of the mainland. There are a few rocky coves along the way where you can drop in for a swim away from the small village beach.

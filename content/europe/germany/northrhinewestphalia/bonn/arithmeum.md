@@ -11,6 +11,7 @@ tags:
 - museum
 title: Arithmeum
 type: poi
+score: 6.1
 ---
 
 A quirky museum tracing the history of computing, from early arithmetic books and cogwheel calculating machines to logic chips and computer-generated art. Housed in a university building near the Hofgarten. Open Tuesday to Sunday.

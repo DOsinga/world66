@@ -7,6 +7,7 @@ tags:
   - eating_out
   - diner
 snippet: A classic American streamlined diner that has been feeding Winchester since the 1940s, with booths, counter stools, and no pretensions.
+score: 7.0
 ---
 
 The Triangle Diner on N. Loudoun Street is the kind of place that exists in fewer and fewer American cities: a proper streamlined diner in a stainless-steel and porcelain-enamel building, still serving the food it always served in the space it always occupied. The diner dates to the 1940s and has changed remarkably little in the intervening decades. The menu runs to eggs and pancakes in the morning and burgers, sandwiches, and hot plates through the afternoon.

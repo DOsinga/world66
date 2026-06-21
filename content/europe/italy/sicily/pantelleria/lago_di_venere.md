@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The lake fills a maar — a flat-bottomed volcanic crater formed by a single explosive steam eruption. Hot springs still bubble up through its bed, and the alkaline mud around the shore is so famously curative that Pantesi farmers have always sworn it heals scratches on their hands at the end of the grape harvest."
+score: 9.2
 ---
 
 The Lago di Venere ("Lake of Venus") fills a flat-bottomed volcanic crater on the north side of the island, surrounded by green hills that come as a slight shock after so much black lava. The water is alkaline and warm, fed by hot springs from below, and the muddy banks are slathered on by visitors as a free spa treatment.

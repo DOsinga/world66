@@ -10,6 +10,7 @@ tags:
 - museum
 title: Arizona Capitol Museum
 type: poi
+score: 6.8
 ---
 
 The Arizona Capitol Museum is housed in the original 1900 capitol building, topped with 15 tons of copper. Inside you will find a wide variety of exhibits, including a large tribute to the USS Arizona sunk at Pearl Harbor, with artifacts from survivors. Group tours should be arranged in advance. A gift shop sells local items, and paintings by artist Lon Megargee are on display.

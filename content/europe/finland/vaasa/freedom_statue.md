@@ -10,6 +10,7 @@ story: >
   held by Red forces. The freedom statue commemorates that wartime role — and the
   victory of the Whites that followed. Like all monuments to civil wars, it marks
   a wound as much as a triumph, and Finns have a complicated relationship with it.
+score: 5.6
 ---
 
 The Freedom Statue stands on the main square in the centre of Vaasa, marking the city's role as the capital of White Finland during the 1918 Civil War. The statue was erected to honour the White victory — a fact that remains politically charged in Finland, where the civil war left deep scars that took decades to openly acknowledge.

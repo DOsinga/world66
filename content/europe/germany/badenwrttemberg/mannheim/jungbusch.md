@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 49.4948
 longitude: 8.4658
+score: 7.8
 ---
 
 Jungbusch is Mannheim's most interesting neighbourhood — a former working port area along the northern bank of the harbour that has reinvented itself as the city's cultural and nightlife district. The transformation over the past two decades has been typical of European post-industrial waterfront areas: warehouses converted to studios, bars opened in former workshops, and an arts scene moving in before rents rose.

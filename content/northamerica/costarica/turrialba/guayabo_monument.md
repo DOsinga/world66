@@ -13,6 +13,7 @@ tags:
   - sight
 title: Guayabo National Monument
 type: poi
+score: 8.7
 ---
 
 Costa Rica's most significant pre-Columbian archaeological site, 19 km north of Turrialba. The site preserves stone causeways, circular foundations, petroglyphs, and an elaborate gravity-fed aqueduct system, all within a cloud forest reserve. The civilization that built it, which may have housed up to 10,000 people at its peak, abandoned the site around 1400 CE for reasons still unknown. Allow two to three hours; the trails are well-maintained and the setting — dense forest, birds, silence — is as appealing as the archaeology.

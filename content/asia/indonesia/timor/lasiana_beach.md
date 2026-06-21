@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -10.1328
 longitude: 123.6408
+score: 6.4
 ---
 
 Lasiana Beach is the most accessible stretch of coast near Kupang, about eight kilometres northeast of the city centre. It is a long curve of white sand backed by lontar palms and casuarinas, with calm water most of the year. Weekends bring Kupang families out in force — there is a festive, relaxed atmosphere with food stalls, music, and children in the water. Weekday mornings are quieter.

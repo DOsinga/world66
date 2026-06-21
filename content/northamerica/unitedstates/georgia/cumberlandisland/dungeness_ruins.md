@@ -10,6 +10,7 @@ longitude: -81.4572
 snippet: The haunting remains of a Carnegie mansion, burned in 1959 and now reclaimed by subtropical vegetation
 story: >
   The mansion was destroyed in a fire in 1959, reportedly set deliberately by locals who resented the Carnegie family's control of the island. Whether or not the cause was arson, the ruins have been left as they fell — roofless brick walls, chimneys standing in a garden of Spanish moss and palmetto. Nature has been reclaiming the site for 65 years, and the result is one of the more evocative historical ruins in the American South.
+score: 8.9
 ---
 
 The Dungeness ruins sit at the southern tip of Cumberland Island, a short walk north from the ferry dock. The Carnegie family built their main mansion here in 1884 — a 59-room Queen Anne structure that served as the family's winter retreat. It burned in 1959, and what remains are the brick walls, chimneys, and the formal garden that once surrounded it, now half-consumed by subtropical vegetation.

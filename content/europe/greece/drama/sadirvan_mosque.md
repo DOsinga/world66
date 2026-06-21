@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 41.1514
 longitude: 24.1483
+score: 6.1
 ---
 
 The Sadirvan Mosque takes its name from the şadırvan, the ritual ablution fountain that once stood in its courtyard. It is one of two surviving Ottoman mosques in Drama's centre — the other being the Arap Mosque nearby — and dates from the period when Drama was a reasonably prosperous market town in the Ottoman province of Macedonia.

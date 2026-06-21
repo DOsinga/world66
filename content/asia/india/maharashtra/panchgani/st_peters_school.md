@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: Heritage boarding school that has shaped Panchgani's identity since 1902
 story: "When the British wanted boarding schools in a healthy climate they came to Panchgani, and at one point the small town housed more than thirty of them. Several still operate — St Peter's, Kimmins, Sanjeevan, the New Era — and their old buildings, all stone walls, gabled roofs and wide verandas, give the town centre much of its character."
+score: 6.9
 ---
 
 St Peter's School, founded in 1902, is the oldest and best-known of Panchgani's surviving boarding schools and a recognisable presence in the centre of town. Its sloping red-tiled roofs, stone walls and long verandas are pure Anglo-Indian institutional architecture, and the campus is still a working school catering to children from across India.

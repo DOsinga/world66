@@ -10,6 +10,7 @@ tags:
 latitude: 36.3269
 longitude: -119.6461
 address: "113 Court St., Hanford 93230"
+score: 5.8
 ---
 
 The 1898 Kings County jail was decommissioned long ago and now houses La Bastille, a steak-and-seafood restaurant whose private dining rooms occupy the original cell blocks. The thick stone walls keep things cool in summer and the bars are still on the windows. Service is old-fashioned American — booths, dim lighting, and an aged whiskey selection.

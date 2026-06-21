@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.4824
 longitude: 11.9712
+score: 6.0
 ---
 
 The Stadthaus on the Marktplatz is what Halle uses today as a civic ceremonial building; the original Rathaus that stood here was destroyed in World War II. The current building is a careful 1950s reconstruction in late-Gothic style, with stepped gables and decorative tracery on the windows.

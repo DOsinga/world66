@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.4480
 longitude: -71.5970
+score: 6.3
 ---
 
 Nashoba Valley is a small ski area on the same property as the winery, with about 15 trails and a vertical drop of 240 feet — modest by any measure, but perfectly suited to beginners and families who want to learn to ski within easy reach of Boston. The mountain gets natural snow augmented by snowmaking, and operates from late November through March when conditions allow.

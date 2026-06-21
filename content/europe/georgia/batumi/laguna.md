@@ -8,6 +8,7 @@ tags:
 - food
 title: Laguna Restaurant
 type: poi
+score: 5.8
 ---
 
 Laguna is one of the better fish restaurants on the boulevard — a glassed-in pavilion looking out at the sea, with white tablecloths and a wood-fired grill. The menu is whatever has come off the boats that morning: Black Sea mullet, anchovy, mackerel, sea bass, and the occasional sturgeon. Order it grilled with a herb butter and a Mtsvane white wine from the western Georgian wine list.

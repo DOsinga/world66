@@ -11,6 +11,7 @@ story: >
   Atlanterhavsparken is one of the largest saltwater aquariums in Europe, holding over 70 tanks with species from the Norwegian coast and North Atlantic. The main attraction is a vast open-top tank where Atlantic halibut — some well over a metre long — and wolf fish circle alongside smaller species. Feeding sessions with a diver draw a crowd.
 sources:
   - https://en.wikipedia.org/wiki/Atlanterhavsparken
+score: 7.4
 ---
 
 The Atlantic Sea Park sits on the western tip of the island of Tueneset, looking directly out to the open sea. It is an aquarium and marine park focused on Norwegian and North Atlantic species, which means you see what actually lives in the cold waters off this coast rather than tropical fish brought from elsewhere.

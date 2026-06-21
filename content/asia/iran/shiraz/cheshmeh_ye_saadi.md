@@ -7,6 +7,7 @@ tags:
 - sight
 title: Cheshmeh-ye Saadi
 type: poi
+score: 5.8
 ---
 
 The Spring of Saadi is a clear pool fed by an underground stream, in a stone-lined chamber a short walk from the Tomb of Saadi. The water is full of large fish, and the chamber sits half underground, its steps leading down into the cool dark. The pool has been a destination for visitors since at least the Qajar period.

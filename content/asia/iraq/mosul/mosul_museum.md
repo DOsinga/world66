@@ -12,6 +12,7 @@ story: >
   at the time was that museum staff had secretly removed many of the most
   important originals before ISIS arrived, storing them in Baghdad — so
   some of what was destroyed were high-quality replicas.
+score: 7.9
 ---
 
 The Mosul Museum is the second-largest in Iraq after the National Museum in Baghdad, with collections spanning Assyrian, Hellenistic, Parthian, and Islamic periods. The building was looted and badly damaged during the ISIS occupation, and the video of the deliberate destruction broadcast in 2015 became one of the defining images of the conflict. Restoration work, supported by the Iraqi government and international organisations including the Smithsonian, has been ongoing since 2017.

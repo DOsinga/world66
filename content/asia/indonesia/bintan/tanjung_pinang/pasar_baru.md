@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - sight
+score: 7.4
 ---
 
 Pasar Baru is the central market of Tanjung Pinang and the best place in the city to understand what is traded, grown, caught, and eaten in the Riau Islands. The wet market section operates from before dawn until mid-morning, when fishing boats arrive with the night's catch — you will see species here that never appear on a menu, hauled in and cleaned at speed by vendors who have been doing this since childhood.

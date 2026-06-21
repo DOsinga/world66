@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "Planted in 1875 from saplings imported from California, the tree reached over 40 metres and was Vitoria's tallest living thing for a century. It was declared a unique natural monument by the regional government before storm damage in the 2010s required its removal."
+score: 5.1
 ---
 
 The remains of the great sequoia stand at the corner of the Parque del Prado, with an explanatory plaque. While the tree was felled after structural damage made it unsafe, a cross-section of the trunk and several saplings raised from its seed have been preserved on site.

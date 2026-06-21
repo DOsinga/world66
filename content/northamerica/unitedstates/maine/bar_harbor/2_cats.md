@@ -8,6 +8,7 @@ tags:
 latitude: 44.3856
 longitude: -68.2120
 address: "130 Cottage Street, Bar Harbor"
+score: 6.7
 ---
 
 A long-running breakfast and brunch spot a short walk from downtown, with a deep porch and a small garden out the back. The menu leans American — buttermilk pancakes, eggs Benedict, French toast — and the homemade biscuits with strawberry butter are the thing to order.

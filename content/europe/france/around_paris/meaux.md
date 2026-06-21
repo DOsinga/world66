@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+  location_enrich: '2026-06-02'
 latitude: 48.958271
 longitude: 2.877354
 score: 0.43
@@ -11,6 +12,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Meaux_140708_01.jpg
 image_license: Public domain
 image_attribution: Vassil
 loc_type: city
+sources:
+  - https://en.wikipedia.org/wiki/Meaux
+  - https://en.wikipedia.org/wiki/Meaux_Cathedral
 ---
 
 Meaux stands on the River Marne in the Seine-et-Marne department, about fifty kilometers east of Paris — close enough for a comfortable day trip yet far enough to feel like genuine provincial France. The city's skyline is dominated by the Cathedral of Saint-Étienne, a Gothic masterpiece begun in the twelfth century and worked on for nearly four hundred years. Its west façade, with its trio of doorways and delicate stonework, rewards slow looking. The interior is particularly fine: soaring nave, superb medieval stained glass, and a serenity that is all the more striking for the building's size.

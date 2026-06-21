@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 42.4892
 longitude: -8.8471
 story: The Gran Hotel La Toja was built in 1907, making it one of the oldest spa hotels in Galicia. The thermal spring it was built around had been known to local fishermen for decades — legend credits its discovery to a sick donkey left on the island to die that returned home completely recovered after drinking the spring water. The hotel was for decades the preserve of the Spanish upper class; the royal family maintained a private suite here well into the 20th century.
+score: 6.4
 ---
 
 The Gran Hotel La Toja is a vast Belle Époque hotel that occupies the southern end of the island, its ornate facade completely at odds with the surrounding pine forest and fishing ría. Built in 1907 to exploit the island's thermal springs, it became one of the fashionable resorts of early 20th-century Spain — the kind of place where politicians, industrialists, and the royal family came to take the waters and be seen doing so.

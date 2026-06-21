@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.0391
 longitude: 109.1247
+score: 8.4
 ---
 
 Weizhou Island's coral reefs are the healthiest remaining in the northern South China Sea, protected by the island's relative isolation from industrial development on the Guangxi coast. The warm water of the Gulf of Tonkin (sea temperature 24–28°C from April through November) supports hard coral formations accessible from shore at several points around the island's southern and eastern coasts. Green sea turtles nest on the beaches in summer and are visible in the water year-round.

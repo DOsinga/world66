@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 33.1290
 longitude: -107.2542
+score: 6.6
 ---
 
 The historic downtown along Broadway and Main Street has quietly assembled one of the more interesting small-town art scenes in New Mexico. A mix of galleries, studios, and quirky shops occupies the old commercial buildings near the hot springs district, and several artists have made T or C their permanent base precisely because it is inexpensive and genuinely odd.

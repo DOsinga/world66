@@ -14,6 +14,7 @@ story: >
   are equally expressive. Nearby, the "Sleeping Cat" (Nemuri-Neko) carved above a gate is
   considered one of the masterpieces of Japanese woodcarving — a small sleeping cat that, according
   to legend, represents an era of such peace that even the predator could sleep.
+score: 9.7
 ---
 
 Tōshōgū is Japan's most ornate shrine complex, built between 1634 and 1636 on the forested slopes above Nikkō town to enshrine Tokugawa Ieyasu, the founder of the Edo shogunate. It's a shock after the restraint of most Japanese architecture: every gate, pillar, beam, and bracket is covered in gilded lacquer, vivid colour, and intricate carvings of mythological creatures, plants, and animals. Over 15,000 artisans worked on it, and the result is overwhelming.

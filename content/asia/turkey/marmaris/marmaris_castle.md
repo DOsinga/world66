@@ -9,6 +9,7 @@ tags:
   - museum
   - historic
 story: "Suleiman the Magnificent rebuilt the castle in 1522 as the marshalling point for his fleet on the way to take Rhodes from the Knights Hospitaller. Two hundred thousand soldiers and sailors gathered in the bay; the campaign succeeded; and from then on the Eastern Mediterranean was effectively an Ottoman lake."
+score: 7.0
 ---
 
 A small Ottoman castle on the hilltop above the old town, rebuilt by Suleiman the Magnificent in 1522 on top of an older Byzantine fortress, with seven rooms now housing the Marmaris Archaeological Museum. The collection is modest — amphorae from local shipwrecks, Hellenistic and Roman finds from the surrounding peninsula, an exhibit on the bay's history as a Mediterranean naval staging post — but enough for a slow hour.

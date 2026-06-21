@@ -14,6 +14,7 @@ story: >
   looking down at the constellations from outside the celestial sphere. Art historians point
   out that this is probably a medieval tradition that was simply continued, not an intentional
   statement. Either way, Orion's belt runs the wrong way.
+score: 9.2
 ---
 
 Grand Central Terminal, at 42nd Street and Park Avenue in Midtown, is the finest Beaux-Arts interior in New York and one of the most beautiful public spaces in America. The main concourse, 47 metres high, lit by three arched windows and the teal ceiling painted with the winter constellations, is extraordinary at any time of day — but particularly in the morning when shafts of light cut through the dust from the high windows.

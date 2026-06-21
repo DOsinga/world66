@@ -7,6 +7,7 @@ tags:
 latitude: 59.1576
 longitude: -3.1213
 snippet: "Iron Age broch on the west coast of Rousay"
+score: 7.9
 ---
 
 Built on a small headland overlooking the Eynhallow Sound, Midhowe Broch is one of the best-preserved brochs in Orkney. The double-walled tower stands more than four metres high, and the surrounding ruins of outbuildings give a clear sense of the broch as a fortified farmstead in the centuries before and after the Roman invasion of southern Britain.

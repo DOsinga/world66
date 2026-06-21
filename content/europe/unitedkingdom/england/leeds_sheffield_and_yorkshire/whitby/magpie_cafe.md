@@ -5,6 +5,7 @@ snippet: Whitby's most famous fish-and-chip restaurant, in a black-and-white tim
 tags: [eating_out, restaurant, fish_and_chips]
 latitude: 54.4892
 longitude: -0.6149
+score: 6.6
 ---
 
 The Magpie has been serving fish and chips on Pier Road since 1939 and regularly tops "best chippy in Britain" lists. The white-and-black timbered house is unmissable along the West Side harbour front. Cod, haddock, monkfish, plaice and skate all come out of the kitchen, fried in beef dripping in the traditional Yorkshire style.

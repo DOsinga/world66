@@ -10,6 +10,7 @@ latitude: 33.0908
 longitude: 75.3264
 sources:
   - https://en.wikipedia.org/wiki/Patnitop
+score: 7.1
 ---
 
 Patnitop sits at the centre of a network of forest trails through deodar and pine. The most popular walk is to [Nathatop](/asia/india/jammuandkashmir/patnitop/nathatop), 3 km uphill through the forest, gaining around 700 metres in elevation. The trail is clear and well-walked; allow two hours up and ninety minutes down.

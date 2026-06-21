@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.4467
 longitude: 25.3278
+score: 6.7
 ---
 
 A preserved 19th-century merchant's house in Mykonos Town, maintained and operated as a small museum by the local folk art society. The house belonged to Lena Skrivanou, a merchant's wife, and has been left in the style of the late 1800s: furniture, textiles, kitchen equipment, and personal objects arranged as if the family had just stepped out. It gives a vivid picture of what a prosperous Mykonian household looked like before tourism changed everything.

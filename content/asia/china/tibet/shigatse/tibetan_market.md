@@ -7,6 +7,7 @@ tags:
   - shopping
 latitude: 29.1073
 longitude: 86.8762
+score: 5.9
 ---
 
 The Tibetan market in Shigatse's old quarter is one of the best places in Tibet to buy traditional goods — turquoise and coral jewellery, prayer flags, brass butter lamps, singing bowls, thangka paintings, and hand-woven woollen goods. The vendors are mostly Tibetan traders who come from surrounding areas, and the prices are more negotiable and generally lower than in Lhasa's tourist shops.

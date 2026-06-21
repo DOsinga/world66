@@ -9,6 +9,7 @@ latitude: 38.0944
 longitude: -122.2703
 story: >
   The chapel's Tiffany windows were donated by naval officers' widows and families in memory of men lost at sea. The collection grew over several decades, until the chapel had accumulated more Tiffany glass than almost any other single building in the western United States. Tiffany Studios produced the windows at their height between the 1890s and 1910s, and the quality here is exceptional.
+score: 8.4
 ---
 
 St. Peter's Chapel on Mare Island is a small 1901 wood-frame church with an extraordinary interior: 27 Tiffany stained glass windows, making it one of the most significant collections of Tiffany glass on the West Coast. The windows were donated over many years by naval families as memorials to officers who died in service.

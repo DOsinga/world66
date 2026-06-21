@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -28.7511
 longitude: 24.7694
+score: 6.9
 ---
 
 The Honoured Dead Memorial commemorates the British and civilian dead of the Siege of Kimberley in 1899–1900. The monument is large and sober, set in well-maintained gardens, and beside it stands one of the more extraordinary objects in South African military history: Long Cecil, a cannon built from scratch during the siege itself.

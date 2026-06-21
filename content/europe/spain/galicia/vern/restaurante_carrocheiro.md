@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Restaurante O Carrocheiro
 type: poi
+score: 5.2
 ---
 
 A traditional Galician family restaurant in the old town of Verín, with a dining room of dark wood and stone walls and a kitchen built around a wood-fired grill. Grilled meats are the speciality — solomillo, chuletón, and seasonal game (wild boar, venison) when the local hunting season is on. The fish, brought in from the Atlantic coast, is also reliable, and the rice with seafood is a regular Friday dish.

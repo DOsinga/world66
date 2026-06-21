@@ -6,6 +6,7 @@ longitude: -82.5536
 tags:
   - things_to_do
   - museum
+score: 6.7
 ---
 
 The Asheville Pinball Museum is a single admission price (currently around $15) and unlimited play on more than seventy working machines. Most of them are pinball, ranging from a 1948 *Joker* to current-production tables; there is also a back room of vintage video games. Everything is set to free play.

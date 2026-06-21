@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Two centuries of Gurkha regimental history, told in their own home town
+score: 7.1
 ---
 
 The hills around Pokhara are the traditional Gurung and Magar recruiting ground for the Gurkha regiments, who have fought in every major British conflict since 1815 and now also serve in the Indian and Nepalese armies. This small but unusually well-presented museum lays out the history with uniforms, weapons (including a wall of kukri knives), photographs and personal effects.

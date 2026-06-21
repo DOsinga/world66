@@ -9,6 +9,7 @@ tags:
 title: Posepilten
 type: poi
 url: www.posepilten.no
+score: 5.4
 ---
 
 A lively corner restaurant at Prinsens gate and Dronningens gate, known for mixing Turkish, Bosnian, Greek, and Norwegian dishes on the same menu. It has a reputation as Trondheim's literary café, and live music appears now and then.

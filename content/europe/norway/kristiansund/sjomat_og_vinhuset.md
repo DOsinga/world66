@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 63.1104
 longitude: 7.7279
+score: 5.8
 ---
 
 Sjømat og Vinhuset (Seafood and Wine House) is a straightforward recommendation for anyone who wants good fish and a decent wine list in the same room. The menu changes with the season and the catch but consistently features cod, monkfish, and various shellfish from the surrounding waters. The wine selection is better than average for a town this size.

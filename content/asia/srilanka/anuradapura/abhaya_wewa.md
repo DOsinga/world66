@@ -7,6 +7,7 @@ tags:
   - sight
 title: Abhaya Wewa
 type: poi
+score: 7.4
 ---
 
 Built by King Pandukabhaya in the 4th century BC, Abhaya Wewa (sometimes called Basawakkulama) is reckoned to be the oldest artificial reservoir in Sri Lanka. It is far smaller than Tissa Wewa but sits in the centre of the sacred city, used for ritual bathing as well as irrigation.

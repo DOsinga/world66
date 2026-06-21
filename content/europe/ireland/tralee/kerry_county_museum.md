@@ -13,6 +13,7 @@ story: >
   D'Esterre in a duel fought over an insult to the citizens of Dublin.
   O'Connell reportedly wore a black glove on his right hand for the rest of
   his life in penance.
+score: 8.3
 ---
 
 The Kerry County Museum occupies the Ashe Memorial Hall, a grand Neo-Georgian building on Denny Street built in 1928. The collection covers Kerry's history from the Stone Age through the early medieval golden age — when Kerry monasteries were among the most important in Ireland — through the Famine, and into the 20th century.

@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 7.8
 ---
 
 Zeerovers ("Sea Robbers") is arguably the best meal you can get in the Oranjestad area — certainly the most authentic. A fishing cooperative at Bucuti on the south coast, a short drive from the city centre, it sells freshly caught fish deep-fried to order and served with hot sauce and cold beer at plastic tables. The clientele is overwhelmingly local, and the prices are among the lowest you will find on the island.

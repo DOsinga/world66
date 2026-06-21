@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - culture
 - nightlife
+score: 7.4
 ---
 
 The Centre Culturel Franco-Nigérien on Boulevard de la République is one of the more reliably active cultural venues in the Sahel. Funded by the French government and Nigerien partners, it runs a consistent programme of film screenings (often Francophone African cinema), live music, theatre, and occasional exhibitions. Check what is on — the programme changes weekly and the quality varies, but when something is running it is usually worth attending.

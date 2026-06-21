@@ -14,6 +14,7 @@ story: >
   it was installed just five years after the city was recaptured from the Anabaptists who
   had banned all music and ornamentation. The clock said, in stone and bronze: the church
   is back.
+score: 8.8
 ---
 
 The Dom is the largest and most important building in Münster — a Gothic cathedral of serious scale, its twin west towers (57 and 55 metres) visible from much of the city centre. Construction of the current structure began in 1225 and the building was consecrated in 1264, though the facade with its remarkable porch has older Romanesque elements incorporated from the earlier cathedral that preceded it.

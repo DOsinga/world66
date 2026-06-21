@@ -13,6 +13,7 @@ story: >
 tags:
 - eating_out
 - restaurant
+score: 7.9
 ---
 
 Aanaar is the restaurant of the Hotel Kultahovi and the reason a small surge of food-led travellers reach Inari each year. The kitchen, run for many years by Markus Sämpi, builds tasting menus entirely from the larder of the Inari region: reindeer (every cut, dried, smoked, slow-cooked), arctic char from the lake, wild willow grouse, cloudberries, lichen, wild herbs. The cooking is technically polished but never showy; the ingredient is always the point.

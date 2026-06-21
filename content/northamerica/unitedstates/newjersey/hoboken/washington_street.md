@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 40.7416
 longitude: -74.0305
+score: 8.4
 ---
 
 Washington Street is Hoboken's spine — fourteen blocks running north from the Terminal, lined with bars, restaurants, boutiques, brownstones, and the occasional grand colonial-revival church. It is where the city does most of its evening living, and where every visit to Hoboken should at least pass through.

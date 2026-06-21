@@ -7,6 +7,7 @@ tags:
 latitude: 13.0635
 longitude: 80.2374
 snippet: "The place to eat chettinad cuisine — arguably the most complex cooking style in India."
+score: 6.9
 ---
 
 Karaikudi specialises in the cuisine of the Chettiar merchant community from the Chettinad region of Tamil Nadu — a cooking style built around an extraordinary array of spices, many of them used nowhere else in Indian cooking. Kalpasi (stone flower), marathi mokku (dried pods), and star anise go into dishes alongside the more familiar chillies, coriander, and cumin.

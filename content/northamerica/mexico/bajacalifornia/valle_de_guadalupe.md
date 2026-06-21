@@ -13,6 +13,7 @@ story: >
   They planted some of the valley's first vineyards and left a community that
   persisted for decades. The Rusa de Guadalupe winery, among others, traces its
   origins to this unlikely settlement.
+score: 7.9
 ---
 
 The Valle de Guadalupe is a wine-producing valley about 30 kilometres north-east of Ensenada, in a semi-arid landscape of olive trees and vineyards. It is Mexico's most important wine region — which surprises visitors who don't expect serious wine from Baja — and over the past two decades has attracted a cluster of innovative restaurants and small wineries that have made it a genuine food-and-wine destination.

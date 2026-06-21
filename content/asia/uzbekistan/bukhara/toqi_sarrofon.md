@@ -6,6 +6,7 @@ latitude: 39.77265
 longitude: 64.41859
 story: >
   Bukhara's trading domes were built at crossroads in the 16th century so that merchants could set up stalls beneath them, sheltered from both sun and rain, while caravans streamed past. Each dome specialised in a different trade: Toqi Telpak Furushon was the hat-sellers' dome, Toqi Sarrofon was for money changers, and Tim Abdullah Khan was the jewellery market. The system effectively turned the city's street intersections into permanent covered bazaars — an elegant solution to the problem of Silk Road commerce.
+score: 7.9
 ---
 
 Three medieval trading domes punctuate the bazaar district between the Po-i-Kalyan complex and the Lab-i-Hauz pool: Toqi Telpak Furushon, Toqi Sarrofon, and the nearby Tim Abdullah Khan. All three were built in the late 16th century under Abdullah Khan II of the Shaybanid dynasty and are among the best-preserved examples of Central Asian commercial architecture. They function as markets today, selling carpets, ceramics, silk, and souvenirs, exactly as they have for four centuries.

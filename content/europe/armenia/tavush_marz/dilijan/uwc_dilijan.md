@@ -11,6 +11,7 @@ story: >
   UWC Dilijan was founded in 2014 as a project championed partly by Ruben Vardanyan, the Russian-Armenian philanthropist who later gave up his Russian citizenship and moved to Nagorno-Karabakh. The school became a kind of symbol of Armenian intellectual ambition — a world-class institution built in a small provincial town, betting that talent could be trained anywhere.
 sources:
   - https://en.wikipedia.org/wiki/UWC_Dilijan
+score: 5.5
 ---
 
 UWC Dilijan is a branch of the United World Colleges movement, opened in 2014 in a purpose-built campus on the hillside above Dilijan. The buildings are striking — a series of slate-roofed structures that take their architectural cues from the local vernacular while meeting a thoroughly international standard. The campus draws students from over 90 countries on scholarship, making Dilijan home to a surprisingly cosmopolitan community for a town of its size.

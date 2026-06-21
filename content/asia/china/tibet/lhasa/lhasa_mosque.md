@@ -8,6 +8,7 @@ tags:
 - historical_site
 title: Lhasa Great Mosque
 type: poi
+score: 7.2
 ---
 
 A few minutes east of the Jokhang, in the small Muslim quarter known as Wapaling, stands the Lhasa Great Mosque — a green-domed building serving the city's community of Tibetan Muslims, the Khache. These are descendants of Kashmiri and Ladakhi traders who began settling in Lhasa from the 17th century onwards under the patronage of the fifth Dalai Lama, who granted them the land for a mosque and a graveyard.

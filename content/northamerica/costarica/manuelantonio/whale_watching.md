@@ -7,6 +7,7 @@ tags:
   - water_sports
 latitude: 9.3500
 longitude: -84.1800
+score: 7.7
 ---
 
 The waters off Manuel Antonio are in the Eastern Tropical Pacific, a migratory corridor for several whale species. Humpback whales are present almost year-round — Costa Rica has one of the longest humpback whale seasons in the world, with both northern and southern hemisphere populations passing through at different times. Blue and sperm whales have also been recorded offshore.

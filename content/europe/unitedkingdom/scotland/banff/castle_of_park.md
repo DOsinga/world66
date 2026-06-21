@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Castle of Park
 type: poi
+score: 7.8
 ---
 
 Castle of Park is a well-preserved 16th-century tower house set in rolling Aberdeenshire countryside about 10 miles south of Banff, near the village of Cornhill. Built around 1536, it's a classic example of Scottish baronial architecture — a compact but imposing structure of harled rubble stone with a projecting stair tower.

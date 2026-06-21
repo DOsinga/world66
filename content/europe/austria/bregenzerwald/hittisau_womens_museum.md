@@ -7,6 +7,7 @@ tags:
 latitude: 47.4564
 longitude: 9.9614
 snippet: Austria's only museum dedicated to women's history and culture, in the village of Hittisau
+score: 7.3
 ---
 
 The Frauenmuseum Hittisau (Women's Museum) in the village of Hittisau is the only museum in Austria dedicated entirely to women's history and experience. Founded in 2000, it presents changing exhibitions on themes of gender, history, art, and culture, with a particular emphasis on the lives of women in the alpine region. The museum has developed an international reputation despite — or perhaps because of — its remote location in a small Bregenzerwald village.

@@ -11,6 +11,7 @@ tags:
 title: Pavelló Mies van der Rohe
 type: poi
 url: www.miesbcn.com
+score: 8.9
 ---
 
 Ludwig Mies van der Rohe designed this pavilion for the 1929 Barcelona International Exhibition, and it changed architecture forever. The building was dismantled after the fair but reconstructed on its original site in 1986 — a rare case where a temporary structure was so influential it had to be brought back.

@@ -6,6 +6,7 @@ latitude: 34.1540
 longitude: -119.2220
 story: >
   The La Jenelle was a 12,500-ton ocean liner that capsized on 16 October 1971 while being towed from Santa Barbara. The ship was being relocated for use as a floating hotel and casino — a plan that ended badly when strong currents got the better of the tow. Salvage proved uneconomical, so much of the hull was removed and used as breakwater material at Hollywood Beach.
+score: 6.8
 ---
 
 At the southern end of Hollywood Beach, the Oxnard breakwater incorporates a peculiar secret: rusted metal protruding from the concrete is the remains of the ocean liner La Jenelle, a 12,500-ton vessel that capsized offshore in 1971. The ship was being towed to a new life as a floating hotel when the operation went wrong, and the hulk was eventually used as raw material for the harbor infrastructure.

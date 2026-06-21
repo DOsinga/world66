@@ -7,6 +7,7 @@ tags:
 latitude: 46.8456
 longitude: 9.3342
 snippet: Ruined medieval castle in the forest above Flims, with views over the valley
+score: 5.9
 ---
 
 Belmont Castle is a ruined medieval tower on the forested hillside above Flims, about an hour's walk from the village. The walls have crumbled to varying heights but the setting is excellent — the castle occupies a spur overlooking the Rhine valley and Flims below. The walk up through the forest is quiet and pleasant.

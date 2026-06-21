@@ -10,6 +10,7 @@ tags:
 latitude: 6.1256
 longitude: 1.2254
 story: "By the 1970s the most successful Nana Benz controlled the Togolese imports of Dutch wax fabric and reportedly contributed around 40% of national tax revenue. They were nicknamed Nana Benz because they were the first private citizens in Togo to drive Mercedes-Benz cars."
+score: 8.7
 ---
 
 The Grand Marché is the commercial heart of Lomé, a vast multi-storey market that has been the city's economic engine for most of a century. It is run predominantly by the famous **Nana Benz** — the market women who built fortunes trading Dutch wax-print textiles in the 1960s and 1970s, becoming one of the most powerful business communities in West Africa.

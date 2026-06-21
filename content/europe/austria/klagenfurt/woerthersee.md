@@ -9,6 +9,7 @@ tags:
   - nature
   - swimming
 story: "The Wörthersee is one of the warmest alpine lakes in Europe — water temperatures regularly hit 25°C in July and August thanks to a quirk of its geography, with shallow basins at each end and a long, sheltered axis facing the summer sun. Locals say you can swim until October."
+score: 7.9
 ---
 
 Just west of the city, the Wörthersee is a long, narrow alpine lake set in a green basin between the Karawanken to the south and the Sau Alps to the north. Sixteen kilometres long and remarkably warm by Austrian standards — water temperatures in July and August often reach 25°C — it is the centre of Carinthian summer life.

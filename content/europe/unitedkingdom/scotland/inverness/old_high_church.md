@@ -9,6 +9,7 @@ title: Old High Church
 type: poi
 story: >
   After the Battle of Culloden in 1746, Jacobite prisoners were brought to the Old High Church kirkyard and shot. Some were executed on the spot; others were held in the church itself before being transported or hanged. The kirkyard contains gravestones pockmarked with musket ball holes from these executions, still visible today.
+score: 7.2
 ---
 
 Old High St Stephen's stands on a promontory above the River Ness, on a site that has been a place of Christian worship since at least the sixth century. The present building dates largely from the eighteenth and nineteenth centuries, but the tower is much older — possibly fourteenth century. It is the oldest church in continuous use in Inverness.

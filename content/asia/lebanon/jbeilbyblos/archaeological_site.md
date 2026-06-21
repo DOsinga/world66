@@ -11,6 +11,7 @@ story: "The most important discovery made here was the Sarcophagus of Ahiram, un
 sources:
   - https://en.wikipedia.org/wiki/Byblos
   - https://en.wikipedia.org/wiki/Bronze_Age_necropolis_of_Byblos
+score: 9.7
 ---
 
 The Byblos Archaeological Site is one of the most layered in the Middle East — a UNESCO World Heritage site where excavations have uncovered continuous occupation spanning more than 9,000 years. The visible remains cover a remarkable chronological range: Neolithic and Chalcolithic settlements at the base of the tells, Bronze Age temples and the royal necropolis from the 3rd and 2nd millennia BC, Phoenician and Persian period structures, a Hellenistic colonnaded street, and Roman temples and fortifications.

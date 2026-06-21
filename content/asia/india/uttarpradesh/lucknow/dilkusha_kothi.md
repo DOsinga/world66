@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 26.8233
 longitude: 80.9522
+score: 7.5
 ---
 
 Dilkusha Kothi — "heart's delight" — is a Nawabi-era hunting lodge built around 1800 in a deliberate imitation of Seaton Delaval Hall in Northumberland. The architect, Major Gore Ouseley, used English Baroque proportions and a portico of giant Doric columns on a building that today stands as a romantic three-storey ruin in a quiet riverside park.

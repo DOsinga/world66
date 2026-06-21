@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Garrison_Historic_Area
 story: >
   The Garrison racecourse, still used for horse racing today, was originally laid out inside the military parade ground in the 18th century. British soldiers needed exercise and the horses needed exercise — and the officers needed entertainment. It is one of the oldest continuously used racecourses in the Western Hemisphere.
+score: 8.5
 ---
 
 The Garrison Historic Area is a 17-hectare complex of British colonial military buildings south of the city centre, inscribed on the UNESCO World Heritage List as part of the Historic Bridgetown site. The red-brick barrack buildings, guardhouses, and fortifications were built between the 1780s and 1850s to protect what was then the most important British naval base in the Caribbean.

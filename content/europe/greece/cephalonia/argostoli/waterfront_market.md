@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 38.1720
 longitude: 20.4890
+score: 6.1
 ---
 
 Every morning, local farmers from across Cephalonia set up stalls along the Argostoli waterfront esplanade, selling vegetables, fruit, honey, olive oil, local cheese, and bottles of Robola wine. The market breaks up by mid-morning, so arrive early. This is where you see Argostoli functioning as a working capital rather than a tourist town: farmers who've driven down from hillside villages, fishermen selling the night's catch, and locals arguing good-naturedly over tomato prices.

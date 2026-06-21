@@ -8,6 +8,7 @@ tags:
   - monastery
 title: Monastery of Saint Stephen
 type: poi
+score: 8.2
 ---
 
 The Monastery of Saint Stephen is the easiest to reach of the six active Meteora monasteries — you cross a short bridge rather than climbing hundreds of steps. Like Rousanou, it is now a convent. The community of nuns has built an impressive museum holding Byzantine icons, gold-embroidered vestments, and illuminated manuscripts, making it the best museum experience in the Meteora complex.

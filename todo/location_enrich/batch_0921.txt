@@ -1,5 +1,0 @@
-southamerica/peru/moray
-europe/hungary/miskolc
-australiaandpacific/australia/victoria/yea
-asia/nepal/panauti
-asia/southkorea/dae_gu

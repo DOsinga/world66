@@ -6,8 +6,10 @@ opening_hours: Mon-Fri 10am-8pm, Sat 9:30am-4pm
 snippet: French women's fashion chain on the Ku'damm
 tags:
 - shopping
+- charlottenburg
 title: Kookai
 type: poi
+score: 4.4
 ---
 
 French women's fashion label with affordable, trend-led clothing. The Charlottenburg branch sits on the Kurfürstendamm, convenient if you're already shopping the western end of the strip. The range leans young and casual, with new stock arriving frequently.

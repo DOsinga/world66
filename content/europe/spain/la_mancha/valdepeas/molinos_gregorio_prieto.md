@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Valdepe%C3%B1as
 story: >
   Cervantes never named the exact location of Don Quixote's windmill battle, and several towns in La Mancha have pressed their claim ever since. The scholar consensus places the most famous episode somewhere in the Campo de Criptana or Consuegra area, but Valdepeñas — like most of La Mancha — has windmills that look exactly as Cervantes described them. Whether these are the ones or not is, perhaps, beside the point.
+score: 7.0
 ---
 
 The Parque de los Molinos, named after the Valdepeñas-born painter Gregorio Prieto, sits on the low ridge south-west of town. Three restored La Mancha windmills stand here in the classic pose — whitewashed towers, wooden sails turning in the wind when conditions allow — with views across the plain that explain exactly why Cervantes set his novel in this landscape.

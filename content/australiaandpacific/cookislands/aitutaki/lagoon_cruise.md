@@ -6,6 +6,7 @@ tags:
 latitude: -18.888
 longitude: -159.783
 story: "The lagoon is so shallow in parts — one to two metres — that the water colour grades from near-white in the shallows to deep turquoise further out. From the air it looks almost unreal, a palette of blues and greens in a triangle of coral. From a boat on the surface, the effect is if anything more striking: you can see straight to the sandy bottom twenty metres away."
+score: 9.4
 ---
 
 The full-day lagoon cruise is the thing most people come to Aitutaki to do, and it delivers. A boat — typically holding a dozen or so passengers — spends the day working its way around the lagoon, stopping at snorkelling spots with abundant coral and fish, pulling up to motu beaches, and eventually delivering everyone to One Foot Island for a couple of hours before heading home. Lunch is a BBQ cooked on a sandbank: grilled fish, chicken, salads, and enough food that you'll be glad you swam beforehand.

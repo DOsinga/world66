@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Jal Mahal
 type: poi
+score: 6.1
 ---
 
 This 18th-century pleasure palace sits in the middle of Man Sagar Lake on the road to Amber Fort. You cannot enter the building, but it makes for a wonderful photo stop, especially at sunset when the surrounding Aravalli hills are reflected in the water.

@@ -8,6 +8,7 @@ latitude: 7.6667
 longitude: 36.8333
 sources:
   - https://en.wikipedia.org/wiki/Jimma
+score: 5.5
 ---
 
 Standing in the centre of Jimma, the Coffee Pot Monument is the city's most recognisable symbol — a large sculptural coffee jebena (the traditional clay pot used in the Ethiopian coffee ceremony) that announces Jimma's claim to be the birthplace of coffee. It is the first thing most visitors photograph and the natural meeting point in town.

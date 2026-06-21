@@ -5,6 +5,7 @@ snippet: "The grand boulevard Maximilian built to connect his castle to the city
 tags: [things_to_do, sight]
 latitude: 19.4248
 longitude: -99.1632
+score: 8.0
 ---
 
 The Paseo de la Reforma is the city's grand boulevard, a tree-lined diagonal slash through the modern centre. The Emperor Maximilian commissioned it in 1864 — modelled on the Champs-Élysées and the Vienna Ringstrasse — to give him a fast carriage route from Chapultepec Castle to the National Palace at the Zócalo. After his execution and the restoration of the Republic, President Juárez kept the road and renamed it Reforma.

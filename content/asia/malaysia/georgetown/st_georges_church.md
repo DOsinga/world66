@@ -9,6 +9,7 @@ tags:
 - sight
 - church
 - architecture
+score: 6.9
 ---
 
 St. George's Church on Lebuh Farquhar is the oldest Anglican church in Southeast Asia, completed in 1818 to designs by the East India Company engineer Captain Robert Smith. The simple Georgian-style building — white columns, a pedimented portico, a small steeple — was paid for in part by the founders of the Penang colony and built by convict labour, like much of the early British infrastructure on the island.

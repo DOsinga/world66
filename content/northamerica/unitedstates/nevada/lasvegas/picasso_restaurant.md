@@ -11,6 +11,7 @@ tags:
 - center_strip
 story: >
   Steve Wynn personally bought around two dozen original Picassos to hang on the walls of this restaurant when the Bellagio opened in 1998. Several remained in place after Wynn sold the property to MGM. The art alone, by some estimates, has appreciated to more than the value of the entire dining room.
+score: 8.0
 ---
 
 Picasso opened with the Bellagio in 1998 and remains one of the longest-running fine-dining rooms on the Strip. The walls are hung with original Picassos owned by the resort; the floor is Picasso-inspired mosaic. Chef Julian Serrano's French-Mediterranean tasting menus blend tradition with seasonal Mediterranean produce and game.

@@ -6,6 +6,7 @@ longitude: 16.5907
 tags:
   - things_to_do
   - sight
+score: 5.7
 ---
 
 The Boating Lake, on the city's northwestern edge, is Szombathely's summer escape — a long artificial lake with rowing boats, a small swimming area, lakeside cafés, and footpaths through the woods around it.

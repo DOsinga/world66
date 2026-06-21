@@ -16,6 +16,7 @@ story: >
   insured for millions.
 sources:
   - https://en.wikipedia.org/wiki/Burlingame_Museum_of_Pez_Memorabilia
+score: 6.2
 ---
 
 The Burlingame Museum of Pez Memorabilia is exactly what it sounds like — a small, lovingly maintained collection of Pez candy dispensers displayed in a storefront on California Drive, around the corner from the Caltrain station. Gary Doss opened it in 1999 after his private collection outgrew his house.

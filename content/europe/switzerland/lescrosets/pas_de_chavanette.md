@@ -8,6 +8,7 @@ tags:
   - sight
   - skiing
 story: "The Swiss Wall is officially a black run, but its 76 percent gradient at the top and the size of its moguls put it beyond what most black-piste skiers actually want to attempt. The chairlift back up runs alongside the slope, giving anyone who chickens out a free ride down — and a view of those who didn't."
+score: 8.2
 ---
 
 The Pas de Chavanette, universally known as the Swiss Wall, is the most notorious piste in the Portes du Soleil and arguably the most photographed black run in the Alps. It drops from the ridge between Switzerland and France down towards Avoriaz, beginning with a near-vertical face of huge bumps before settling into a long mogul field below.

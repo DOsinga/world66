@@ -6,6 +6,7 @@ longitude: -80.8060
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 Big Otter Creek runs around 100 kilometres from the Norfolk Sand Plain through forest and farmland and empties into Lake Erie at Port Burwell harbour. The lower stretch — from the village of Vienna down to the lake — is a quiet, tannin-brown river running between low banks of willow and silver maple, popular for canoeing, kayaking, and small-boat fishing.

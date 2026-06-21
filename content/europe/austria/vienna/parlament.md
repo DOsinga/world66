@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 Theophil Hansen's 1883 Parliament building is the most theatrical of the Ringstrasse public buildings — a vast Greek Revival temple complete with a statue of Pallas Athene in front, in deliberate homage to the cradle of democracy. The interior was extensively renovated between 2017 and 2022.

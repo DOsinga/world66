@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 5.0833
 longitude: -1.3492
+score: 8.0
 ---
 
 The fishing harbour below Elmina Castle is one of the most photogenic spots in Ghana. Hundreds of brightly painted wooden pirogues crowd the Benya lagoon at all hours, with the white walls of the castle rising above them. The boats are painted in vivid colours — often representing the colours of a football club or a particular religious affiliation — and the scene changes dramatically through the day.

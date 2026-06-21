@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 snippet: Historic 1942 depot — terminus for the Alaska Railroad to Fairbanks and Seward
+score: 7.3
 ---
 
 The historic terminus of the Alaska Railroad, built in 1942 in a low Art Moderne style. The depot still operates as a working passenger station — trains leave daily in summer for Seward (south) and Talkeetna and Fairbanks (north), running through scenery you cannot see any other way. A short stretch of the original 1923 narrow-gauge line is preserved alongside the building.

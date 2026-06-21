@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 38.4608
 longitude: 20.5750
+score: 6.8
 ---
 
 Tassia is the most celebrated restaurant in Fiskardo, run for decades by Tassia Dendrinou, who combines Greek culinary tradition with something more personal — the restaurant grew from a recipe book she wrote about the local kitchen. The setting on the harbour is unremarkable by itself, but the quality of the cooking is consistently high: whole grilled fish, pasta with local seafood, and lamb with herbs from the hills.

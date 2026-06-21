@@ -13,6 +13,7 @@ story: >
   put down in the Silvassa community over four centuries of Portuguese presence.
   The annual feast of Our Lady of Piety, held in late October, still draws
   worshippers from across the territory.
+score: 6.4
 ---
 
 The Church of Our Lady of Piety is one of the most visible reminders of Silvassa's Portuguese colonial past, built in 1889 and still an active place of worship today. The white facade with its arched portico sits just opposite the Tribal Cultural Museum in the centre of town, and the contrast between the two institutions — one preserving indigenous culture, the other a legacy of four centuries of colonial rule — is rather pointed.

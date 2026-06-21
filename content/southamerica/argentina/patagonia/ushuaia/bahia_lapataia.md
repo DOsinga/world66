@@ -8,6 +8,7 @@ latitude: -54.8647
 longitude: -68.5503
 story: >
   The road ends here at the southernmost point you can drive to in the Western Hemisphere. A simple post in the ground marks the terminus of Route 3, which began in Buenos Aires, 3,079 kilometres away — a fact that gives the view its peculiar weight.
+score: 7.4
 ---
 
 Bahía Lapataia is the end of the road — literally. A small bay on the Beagle Channel inside Tierra del Fuego National Park, it marks where Route 3 terminates at the southernmost driveable point in the Americas. The setting is austere and beautiful: a narrow cove flanked by subantarctic forest, the channel stretching south toward the Chilean islands and, beyond them, Antarctica.

@@ -5,6 +5,7 @@ snippet: Main shopping street climbing north from the Campo
 tags: [things_to_do, sight, neighbourhood]
 latitude: 43.3197
 longitude: 11.3317
+score: 7.4
 ---
 
 One of the two great commercial streets of medieval Siena, named for the moneychangers' tables (banchi) once set out along it. It climbs gently north from the Croce del Travaglio at the top of the Campo to Piazza Salimbeni and on towards Porta Camollia.

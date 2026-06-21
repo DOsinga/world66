@@ -9,6 +9,7 @@ tags:
 latitude: 34.0155
 longitude: -118.4967
 snippet: "A 1929 Art Deco skyscraper — Santa Monica's most distinctive piece of downtown architecture"
+score: 6.4
 ---
 
 The Clock Tower Building at 225 Santa Monica Boulevard was built between 1929 and 1930 in the Art Deco style, and its stepped silhouette and clock tower remain the most distinctive element of the downtown skyline. At the time of construction it was one of the tallest buildings in Santa Monica — an unusual presence in a city that was mostly low-rise beach development.

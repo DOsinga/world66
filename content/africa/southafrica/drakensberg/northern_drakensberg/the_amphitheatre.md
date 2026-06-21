@@ -10,6 +10,7 @@ latitude: -28.7581
 longitude: 28.9631
 story: >
   The Amphitheatre is a sheer basalt wall five kilometres wide and over 500 metres high, forming the headwall of the Tugela River gorge. It was first climbed by Europeans in 1910; the chain ladders that now allow ordinary hikers to ascend the escarpment were installed much later. On a clear day from the top, you can see more than 100 kilometres across the Lesotho plateau and, on the other side, the plains of KwaZulu-Natal stretching toward the Indian Ocean.
+score: 9.7
 ---
 
 The Amphitheatre is the defining landmark of the Northern Drakensberg — a vast semicircular cliff face above Royal Natal National Park that rises sheer from the valley floor. It is one of the great mountain views in Africa, best seen at dawn when the pale grey wall catches the first light and the Tugela River glitters far below.

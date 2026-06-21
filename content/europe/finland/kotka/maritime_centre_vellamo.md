@@ -8,6 +8,7 @@ latitude: 60.4727
 longitude: 26.9449
 story: >
   The building's wave-like form was designed by Finnish architect Ilmari Lahdelma, who took the shape of a ship's hull rising from the water as his central concept. The structure won the Finnish State Architecture Award in 2008. The interior continues the nautical theme: exhibitions are arranged around a central "keel" that runs the length of the building.
+score: 8.9
 ---
 
 The Maritime Centre Vellamo is the most architecturally interesting building in Kotka — a swooping, wave-shaped structure on the Kantasatama waterfront that houses the Maritime Museum of Finland, the Kymenlaakso Regional Museum, and the Coast Guard Museum. Three institutions under one dramatic roof make this a full half-day.

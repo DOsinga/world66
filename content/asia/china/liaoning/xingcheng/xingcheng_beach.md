@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.5800
 longitude: 120.7600
+score: 6.4
 ---
 
 The beach south of Xingcheng city is a long strip of fine sand along the Liaodong Bay, with Juhua Island visible offshore on clear days. It is the most developed beach in western Liaoning and attracts substantial summer crowds — primarily from Shenyang and the surrounding industrial cities — but outside July and August it is a very different experience: empty sand, mild temperatures, and the particular quiet of a Chinese resort town out of season.

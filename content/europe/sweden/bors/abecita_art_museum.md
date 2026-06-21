@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - art
+score: 7.6
 ---
 
 The Abecita Konstmuseum is a privately founded museum of modern art housed, like everything good in Borås, in a converted old industrial building — in this case the former Abecita corset factory, just south of the city centre. The collection focuses on pop art and photography: original works by Andy Warhol, Roy Lichtenstein, Robert Rauschenberg, and a deep collection of 20th-century photography including Robert Mapplethorpe.

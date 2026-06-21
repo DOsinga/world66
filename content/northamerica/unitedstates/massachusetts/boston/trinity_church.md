@@ -12,6 +12,7 @@ tags:
 title: Trinity Church
 type: poi
 url: trinitychurchboston.org
+score: 9.0
 ---
 
 The American Institute of Architects has voted Trinity Church one of the ten most significant buildings in the United States more or less continuously since the survey began. Completed in 1877 to H. H. Richardson's design, it launched the architectural style that bears his name — Richardsonian Romanesque — and inspired three generations of American civic buildings.

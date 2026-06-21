@@ -6,6 +6,7 @@ tags:
 - bar
 title: Wawee Coffee
 type: poi
+score: 5.1
 ---
 
 Wawee Coffee is Chiang Mai's best-known local coffee chain, using beans grown in the mountains of Chiang Rai and Chiang Mai provinces. The flagship branch near the old city moat has a shaded terrace that's popular with students and laptop workers in the mornings.

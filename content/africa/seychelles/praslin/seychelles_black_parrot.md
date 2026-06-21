@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, wildlife, nature, outdoor]
 latitude: -4.3350
 longitude: 55.7300
+score: 7.9
 ---
 
 The Seychelles black parrot (Coracopsis barklyi) exists only on Praslin. It is not actually black — adults are dark brown with a slightly paler face and a reddish bill — but the name has stuck since the early naturalists. The bird feeds almost entirely on the fruit of the coco de mer palm, which ties its entire existence to the Vallée de Mai and the surrounding palm forest. Around 600 individuals remain.

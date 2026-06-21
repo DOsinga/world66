@@ -12,6 +12,7 @@ story: >
   great 15th-century ruler — was betrothed to his wife Maria Voichița in one
   of the monastery's chambers, making this one of the few sites in Moldova
   directly associated with the country's most revered historical figure.
+score: 8.4
 ---
 
 The Church of the Dormition of the Mother of God is the largest and most impressive space in the Tipova complex — a basilica-style chamber cut directly into the limestone cliff face, with plastered and painted walls, a vaulted ceiling, and a carved rock altar. The church is believed to date from the 14th or 15th century in its present form, though the site was in use centuries earlier. Natural light enters through openings in the cliff, and the effect inside is calm and otherworldly.

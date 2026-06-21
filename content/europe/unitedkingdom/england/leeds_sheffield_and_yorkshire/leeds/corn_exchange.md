@@ -14,6 +14,7 @@ story: >
   radical for its time, spanning the trading floor without any internal supports. Brodrick
   designed it so that merchants could check grain samples in natural light from the 48
   windows set into the dome.
+score: 8.5
 ---
 
 The Leeds Corn Exchange is a Victorian masterpiece — a vast elliptical domed building that once served as the city's grain market and now houses independent shops and cafes. The dome, completed in 1864, is one of the finest examples of Victorian commercial architecture in England. Stand at the centre of the trading floor and look up at the rings of arched windows set into the roof.

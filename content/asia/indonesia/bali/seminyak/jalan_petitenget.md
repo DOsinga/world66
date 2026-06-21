@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - sight
+score: 6.6
 ---
 
 Jalan Petitenget is Seminyak's other main artery — running north from Eat Street toward Kerobokan and Canggu. The lower stretch is lined with high-end boutiques, fashion ateliers, and big-name restaurants; the further north you go, the more it becomes mid-tier guesthouses and small Balinese warungs.

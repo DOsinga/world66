@@ -13,6 +13,7 @@ story: >
   Jubilee of Sultan Abdul Hamid II — but it was also positioned so that visiting
   dignitaries, including Kaiser Wilhelm II, would see it prominently from the sea.
   The Kaiser had visited Acre in 1898 and the Ottomans were keen to impress.
+score: 7.2
 ---
 
 The largest caravanserai in Israel, dating from the late 18th century. It was built by Ahmad Pasha al-Jazzar using columns from Roman Caesarea — "Khan el-Umdan" means "khan of the columns," and the ancient granite and marble pillars that line the ground floor make the derivation immediately obvious.

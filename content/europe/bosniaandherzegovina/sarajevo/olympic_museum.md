@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - historic
+score: 7.0
 ---
 
 The 1984 Winter Olympics was the defining international event of socialist Yugoslavia's final decade, and the Olympic Museum near the city centre documents it with considerable pride and some nostalgia. The exhibition covers the preparations, the events, and the aftermath — including the destruction of the Olympic venues during the siege.

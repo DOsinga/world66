@@ -6,6 +6,7 @@ longitude: -88.2057
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 An incongruous corner of the colonial centre: a 19th-century house decorated with Chinese motifs — round moon-windows, painted dragons, and tile detail in red and gold — built or remodelled by a small Chinese trading community that settled in Yucatán in the late 1800s as henequen labour and shopkeepers. It now stands quietly behind a closed gate on a residential side street, photogenic but no longer in use.

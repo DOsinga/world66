@@ -14,6 +14,7 @@ story: >
   could visit the market from above — out of the direct sight of those who resented her status
   and power. Whether or not the story is literally true, the walkway is one of the most
   distinctive architectural features in Minas Gerais.
+score: 7.8
 ---
 
 The Mercado Municipal is a two-storey colonial market building dating from 1835, distinctive for the covered wooden corridor that bridges across an alley between its two wings at upper-floor level. The market is still in partial use, with stalls selling fruit, vegetables, regional sweets, and craft items on the ground floor.

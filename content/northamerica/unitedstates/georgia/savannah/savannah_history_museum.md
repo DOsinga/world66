@@ -10,6 +10,7 @@ tags:
 - museum
 title: Savannah History Museum
 type: poi
+score: 7.2
 ---
 
 Housed in the old Central of Georgia Railway shed, the Savannah History Museum covers the city's history from Oglethorpe's 1733 founding through the Civil War and into the 20th century. The building itself is part of the exhibit — the train shed is enormous and atmospheric, with locomotives and rolling stock on display alongside the historical material.

@@ -9,6 +9,7 @@ story: >
   Several Thai kings carved their initials into the rocks beside Than Sadet — including
   Rama V, Rama VII, and Rama IX — making this the only waterfall in Thailand with
   dedicated royal protection. The engravings are still visible in the stone.
+score: 7.9
 ---
 
 Than Sadet is the most historically significant waterfall on Koh Phangan, set in a national park covering the island's northeastern interior. The waterfall cascades over a series of smooth rock shelves before meeting the Than Sadet River, which flows to a quiet beach on the east coast. The park entrance fee is 100 baht.

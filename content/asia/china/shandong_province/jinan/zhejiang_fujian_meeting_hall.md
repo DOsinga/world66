@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 36.6627
 longitude: 117.0250
+score: 8.0
 ---
 
 The Zhejiang-Fujian Meeting Hall (Zhemin Huiguan) is one of the best-preserved Qing Dynasty guild halls in Jinan — a building where merchants from Zhejiang and Fujian provinces met, did business, celebrated festivals, and maintained their regional identity in what was effectively a foreign city. Guild halls of this type served as community centers, business exchanges, and theaters for the merchant communities that operated along the canal trade routes.

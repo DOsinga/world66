@@ -12,6 +12,7 @@ story: >
   — a fitting monument for a man who loved orchids and whose funeral in 1980 was
   attended by more heads of state than any event in history to that point. Four kings,
   31 presidents, and 22 prime ministers came to pay their respects.
+score: 8.8
 ---
 
 The Museum of Yugoslavia in New Belgrade is one of the most important museums in the Balkans for understanding 20th-century European history. The complex includes several buildings covering the social, political, and cultural history of the Yugoslav federation from 1918 to 1991, and the collection of personal items, propaganda posters, state gifts to Tito, and documentary footage is extraordinary.

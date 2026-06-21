@@ -6,6 +6,7 @@ tags:
 - bars_and_cafes
 title: Garden Bistro
 type: poi
+score: 5.7
 ---
 
 An open-air bar-restaurant on the Msasani Peninsula that mixes Indian food with a soundtrack swinging between African, Indian and Western. Outdoor dancing under the trees, and the kitchen stays open until the small hours. A reliable place to start a long night.

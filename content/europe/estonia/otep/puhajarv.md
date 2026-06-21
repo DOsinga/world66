@@ -8,6 +8,7 @@ tags:
   - sight
   - swimming
 story: "Pühajärv — the Holy Lake — got its name from a Setu legend that says the lake fills five hollows that were once the graves of five sons killed in battle. The Dalai Lama visited in 1991 and reportedly blessed the water; a small commemorative plaque stands by the shore. Estonians have a quiet, half-serious habit of treating its water as therapeutic."
+score: 8.1
 ---
 
 Pühajärv lies about 3 km south of Otepää, a long, narrow lake with five small islands and a wooded shore. A path runs almost the whole way round (about 12 km) and is one of the best walks in southern Estonia, particularly in autumn when the birch and aspen turn yellow.

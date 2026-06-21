@@ -8,6 +8,7 @@ tags:
 latitude: 54.2444
 longitude: -6.9583
 snippet: "19th-century Gothic Revival cathedral on a hill overlooking the town"
+score: 7.2
 ---
 
 The towering Gothic Revival cathedral that dominates the southern skyline of Monaghan. Designed by JJ McCarthy — the same architect responsible for many of Ireland's grandest 19th-century Catholic churches — it was begun in 1861 and consecrated in 1892, a long and expensive project funded almost entirely by parish subscriptions in the wake of Catholic Emancipation.

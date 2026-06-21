@@ -13,6 +13,7 @@ story: >
   demolished as Sana'a expanded in the 20th century. Bab al-Yemen survived because it
   was the busiest, the natural entry from the south — the road that came up from Aden
   and the coast. Camel caravans were still arriving through the arch into the 1960s.
+score: 8.9
 ---
 
 The Bab al-Yemen ("Yemen Gate") is the great southern entry to the walled old city — a stone-built arch with arrow-loops and a small mosque set above it, opening onto the main square of the medieval quarter. The current structure dates from the Ottoman period, but a gate has stood here for at least a thousand years and probably much longer.

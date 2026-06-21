@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: "Memorabilia from the Recanati-born tenor who rivalled Caruso"
+score: 6.2
 ---
 
 Beniamino Gigli (1890–1957), born to a cobbler's family in Recanati, became one of the great tenors of the first half of the twentieth century — a singer often spoken of as Caruso's natural successor, with a particular gift for the bel canto repertoire and a singing voice that recordings still convey with something close to the original force. The small museum in his name preserves a substantial collection of his memorabilia: stage costumes, contracts, signed photographs from leading opera houses, programmes, and a continuous loop of his most famous recordings.

@@ -6,6 +6,7 @@ longitude: 44.4001
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 Adjacent to the Great Mosque of Kufa, this small but elegant shrine contains the tomb of Muslim ibn Aqeel, cousin and emissary of Imam Husayn, who was sent to Kufa in 680 to rally support before the battle of Karbala. He was betrayed and executed by the local governor, an event remembered every year during the Shia mourning of Muharram.

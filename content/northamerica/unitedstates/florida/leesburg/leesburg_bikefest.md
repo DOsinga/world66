@@ -12,6 +12,7 @@ story: >
   three-day rally drawing over 300,000 riders — making it larger than many
   motorcycle rallies that have been running far longer. The city's downtown
   Main Street effectively transforms into a festival ground for the entire weekend.
+score: 5.9
 ---
 
 Each April, Leesburg hosts Bikefest — three days of motorcycle culture that draws over 300,000 riders from across the southeastern United States and beyond, filling the downtown streets with bikes, music, and vendors. The scale is genuinely impressive: live bands on multiple stages, bike shows and custom competitions, stunt exhibitions, tattoo contests, food courts, and demo rides.

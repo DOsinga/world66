@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.3736
 longitude: 16.8075
+score: 8.1
 ---
 
 The best collection of artefacts from the ancient Greek city of Metapontion, housed in a purpose-built museum in the town of Metaponto, two kilometres from the beach. The displays cover the full arc of the city's history from its foundation by Greek colonists in the seventh century BC through its decline after the Roman conquest, with pottery, votive objects, jewellery, and architectural fragments excavated from the site.

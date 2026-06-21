@@ -8,6 +8,7 @@ latitude: 43.8806
 longitude: 11.0965
 story: >
   Antonio Mattei opened this shop in 1858 and established the definitive recipe for cantucci di Prato — the dry, twice-baked almond biscuits now sold all over Italy under the name "biscotti." The blue bags from this shop are the original. Every other Italian version is an imitation.
+score: 6.7
 ---
 
 The Pasticceria Mattei is a Prato institution and the original source of what the rest of the world calls "biscotti." The proper Pratese name is cantucci, and the definitive version — dry, crunchy, full of whole almonds, meant to be dunked in vin santo — has been made to the same recipe here since 1858. The little blue paper bag is unmistakable.

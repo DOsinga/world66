@@ -8,6 +8,7 @@ tags:
 title: Boschbad
 type: poi
 url: https://www.boschbad.nl
+score: 5.9
 ---
 
 An outdoor lido tucked into Berg en Bos park, surrounded by trees rather than concrete. Boschbad has been open since the 1930s and retains a pleasantly old-fashioned feel — a large main pool, a paddling area for children, and plenty of lawn for lying in the sun after a swim. Open in summer only (roughly June through August). Unusually quiet for a city lido on weekday mornings.

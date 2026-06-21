@@ -11,6 +11,7 @@ tags:
 - museum
 title: Northern Life Museum
 type: poi
+score: 6.9
 ---
 
 The Northern Life Museum is the second-largest museum in the Northwest Territories, chronicling the history and culture of the region from Indigenous Dene and Métis traditions through the fur trade era and into the twentieth century. The collection covers everyday life in the sub-Arctic — tools, clothing, photographs, and the stories of the people who lived and worked along the Slave River. A good first stop before heading into Wood Buffalo National Park, giving context to the landscape you are about to explore.

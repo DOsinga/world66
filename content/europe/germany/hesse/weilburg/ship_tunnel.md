@@ -17,6 +17,7 @@ story: >
   same rock formation.
 sources:
   - https://en.wikipedia.org/wiki/Weilburg
+score: 8.0
 ---
 
 The Weilburg Ship Tunnel was bored through the sandstone ridge beneath the old town in the 1840s to allow boats on the Lahn to bypass the tight river loop around which the town is built. Germany's only ship tunnel, it runs just over 200 metres through the rock and saved river traffic from a considerable detour around the meander. It is still navigable today for small pleasure craft and canoes, and the experience of paddling through it is genuinely memorable.

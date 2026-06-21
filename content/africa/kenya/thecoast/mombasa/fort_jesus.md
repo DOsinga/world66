@@ -11,6 +11,7 @@ tags:
 - museum
 - old_town
 - unesco
+score: 9.2
 ---
 
 Fort Jesus is the heaviest piece of history on the East African coast — a stone bastion thrown up at the southern end of Mombasa Island in 1593, designed by the Italian architect Giovanni Battista Cairati on a plan shaped like a human body. The Portuguese built it to control the spice route between the Red Sea and Goa, and the next two centuries of Indian Ocean history can be read in its walls: Portuguese coats of arms cut into the gateway, Arab graffiti scratched into the inner rooms, British colonial cells repurposed into a museum.

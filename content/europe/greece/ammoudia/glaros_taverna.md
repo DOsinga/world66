@@ -6,6 +6,7 @@ longitude: 20.4836
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 O Glaros — the Seagull — is the long-running taverna on the Ammoudia harbour. Tables sit on a paved terrace right above the river boats, with a clear view across to the reedbeds opposite. The menu is short and local: grilled eel from the Acheron, sardines, sea bass roasted whole, and a serviceable Greek salad.

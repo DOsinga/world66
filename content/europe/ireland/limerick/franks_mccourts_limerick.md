@@ -6,6 +6,7 @@ longitude: -8.6189
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 Frank McCourt's *Angela's Ashes* (1996) won the Pulitzer Prize and made the Limerick of the 1930s and 1940s — wet, hungry, and unforgiving — known to readers worldwide. The book is not loved by everyone in the city, but its locations are easy to walk. The Roden Lane lanes of his childhood (now demolished) ran below today's Hartstonge Street; Leamy's National School, where he was a pupil, still stands on Hartstonge Street and now houses the Frank McCourt Museum (open by arrangement).

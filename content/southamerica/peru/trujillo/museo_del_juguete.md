@@ -8,6 +8,7 @@ latitude: -8.1108
 longitude: -79.0299
 story: >
   The oldest toy in the collection is a pre-Inca ceramic whistle in the shape of an animal, nearly two thousand years old — proof that the impulse to make children's playthings is at least as old as Peruvian civilization itself. Alongside it sit lead soldiers from the 19th century, tin windup cars from the 1950s, and terrifying porcelain dolls from various colonial eras.
+score: 6.6
 ---
 
 Peru's only toy museum is an eccentric delight in central Trujillo. The collection spans pre-Inca ceramic toys through colonial-era dolls to 20th-century tin and plastic playthings, all housed in a colonial mansion on Jiron Independencia. It was assembled by local artist and collector Gerardo Chávez over several decades.

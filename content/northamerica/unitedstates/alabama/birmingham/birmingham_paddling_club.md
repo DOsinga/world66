@@ -5,6 +5,7 @@ tags:
 - things_to_do
 title: Birmingham Museum District
 type: poi
+score: 7.4
 ---
 
 The block around the Birmingham Civil Rights Institute on 6th Avenue North has become a de facto museum district. Within 200 meters of each other you'll find the Civil Rights Institute, the 16th Street Baptist Church, Kelly Ingram Park, the Carver Theatre (now the Alabama Jazz Hall of Fame), and the Birmingham Public Library — all anchored by Linn Park to the north and the Civil Rights District to the south.

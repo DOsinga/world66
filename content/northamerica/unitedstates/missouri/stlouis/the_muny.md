@@ -7,6 +7,7 @@ tags:
 - forest_park
 latitude: 38.6386
 longitude: -90.2748
+score: 7.0
 ---
 
 The Muny — short for the Municipal Opera — is the largest and oldest open-air theatre in the United States, seating 11,000 under the stars on the western side of Forest Park. It has run a summer season of musicals every year since 1919 and is one of the most cherished institutions in St Louis.

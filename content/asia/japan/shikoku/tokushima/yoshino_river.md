@@ -7,6 +7,7 @@ tags:
 - sight
 title: Yoshino River
 type: poi
+score: 6.4
 ---
 
 The 194-km Yoshino is Shikoku's longest river, draining the central mountains and entering the Inland Sea just north of Tokushima. Within the city limits it is a vast, slow-moving channel crossed by half a dozen bridges; cyclists use the levee path on the south bank for unbroken kilometres of car-free riding.

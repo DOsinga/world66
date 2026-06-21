@@ -8,6 +8,7 @@ latitude: 39.9499
 longitude: -75.1719
 snippet: "Philadelphia's magnificent cabinet of medical oddities — not for the squeamish, unforgettable for everyone else"
 story: "The museum holds a slice of Albert Einstein's brain, preserved by the pathologist who performed his autopsy and kept it for decades without permission. It also contains the joined liver of the original Siamese twins Chang and Eng Bunker."
+score: 9.1
 ---
 
 The Mütter Museum at the College of Physicians of Philadelphia is unlike any other museum in the country. Founded in 1858 with a collection of medical specimens donated by Dr. Thomas Dent Mütter, it occupies a beautiful Victorian hall lined with glass cases containing skulls, preserved organs, skeletal specimens, and medical instruments that tell the story of how medicine understood — and misunderstood — the human body. The 139 skulls in the Hyrtl Skull Collection, each with a handwritten biography of its former owner, are quietly devastating.

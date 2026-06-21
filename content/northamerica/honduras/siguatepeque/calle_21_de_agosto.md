@@ -9,6 +9,7 @@ latitude: 14.5886
 longitude: -87.8320
 sources:
   - https://en.wikipedia.org/wiki/Siguatepeque
+score: 6.6
 ---
 
 Calle 21 de Agosto — universally called "Veinte-uno" — is the main street of Siguatepeque, and it tells you more about the town than any postcard would. Running through the centre past comedores, shoe shops, hardware stores, pharmacies and mobile phone stalls, it is a working Honduran high street in the best sense: purposeful, a little noisy, and entirely genuine.

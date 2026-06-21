@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - park
+score: 7.3
 ---
 
 Planten un Blomen — Plants and Flowers, in Low German — is a 47-hectare central park strung along the old bastion ramparts on the western edge of the inner city. It includes one of Europe's largest Japanese gardens (designed by Yoshikuni Araki in 1988, with a tea house overlooking a koi pond), an apothecary garden, a tropical greenhouse and the Wallanlagen lake.

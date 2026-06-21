@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.9718
 longitude: 15.7315
+score: 8.0
 ---
 
 Cala Jannita — known locally as the Spiaggia Nera or Black Beach — takes its name from the dark volcanic sand that distinguishes it from the lighter pebble beaches elsewhere along the coast. The beach sits in a small cove flanked by cliffs, accessible by a steep path from the road or by boat. The dark sand absorbs heat and holds it well into the evening, making this a good spot for late-afternoon swimming when the water is warmest.

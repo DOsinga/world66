@@ -8,6 +8,7 @@ tags:
 - seafood
 title: Barbara's Fishtrap
 type: poi
+score: 7.4
 ---
 
 Older, smaller, and arguably better than its much busier neighbour Sam's, Barbara's Fishtrap is a low wooden shack literally hanging over the water on the pier at Pillar Point Harbor. The room seats maybe forty, the décor is fishing nets and beach photos, and the menu is short: fish and chips, fried clams, calamari, crab cakes, fish tacos.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Dhule District Museum
 type: poi
+score: 6.4
 ---
 
 The Dhule District Museum covers the archaeology, history, and cultural heritage of the Khandesh region, of which Dhule is the principal city. The collection includes artifacts recovered from local excavations — stone tools, pottery, and coins spanning prehistoric through Maratha-era periods — alongside exhibits on traditional crafts, textiles, and the natural history of the district.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.6
 ---
 
 The Lower Govhar Agha Mosque is the smaller sibling of the upper mosque, a few hundred metres downhill. It was also commissioned by Govhar Agha and designed by Karbalayi Safikhan Karabakhi, with a single minaret and a more modest prayer hall.

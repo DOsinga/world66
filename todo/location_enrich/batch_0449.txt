@@ -1,5 +1,0 @@
-northamerica/unitedstates/florida/big_pine_key
-europe/france/alpes/stetienne
-europe/unitedkingdom/scotland/callander
-northamerica/unitedstates/southcarolina/greenville
-europe/italy/lazio/viterbo

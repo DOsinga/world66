@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 39.9942
 longitude: 15.7218
+score: 8.4
 ---
 
 The medieval borgo of Maratea sits high on the hillside above the sea, a tight cluster of stone lanes, arched passageways, and small piazzas that has changed remarkably little in character since the Middle Ages. The village is almost traffic-free — cars are left at the edge and the borgo is best explored on foot, getting pleasantly lost in the narrow caruggi.

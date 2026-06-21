@@ -9,6 +9,7 @@ latitude: 16.0300
 longitude: -22.7200
 sources:
   - https://en.wikipedia.org/wiki/Boa_Vista,_Cape_Verde
+score: 8.8
 ---
 
 Between June and October, loggerhead sea turtles (Caretta caretta) come ashore at night to nest on Boa Vista's eastern beaches — particularly around Praia de Santa Mónica and the beaches south of Sal Rei. Boa Vista is one of the most important loggerhead nesting sites in the entire Atlantic, with hundreds of nests recorded each season.

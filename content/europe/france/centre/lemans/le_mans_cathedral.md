@@ -15,6 +15,7 @@ story: >
   even Chartres. The building was constructed in stages over six centuries, so
   you can walk along the nave and watch the architecture shift from heavy
   Romanesque to soaring Gothic as you move east toward the choir.
+score: 9.1
 ---
 
 The Cathédrale Saint-Julien du Mans is one of the great underrated churches of France. It occupies the highest point of the old city, visible for miles, and its exterior flying buttresses — one of the most elaborate systems in the country — give it a bristling, almost skeletal silhouette from the south and east.

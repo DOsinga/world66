@@ -7,6 +7,7 @@ tags:
 latitude: 8.4850
 longitude: 4.5200
 snippet: "One of Nigeria's leading federal universities, established 1975"
+score: 5.8
 ---
 
 The University of Ilorin, established in 1975 and one of the first generation of federal universities created after Nigeria's civil war, is a significant presence in the city. The campus is large and relatively green for the region, spread across a substantial area southwest of the city centre. It has consistently ranked among Nigeria's top universities.

@@ -14,6 +14,7 @@ story: >
   reliquary now displayed in a small museum at the base. The discovery anchored
   Na Dun on the map of seventh- to ninth-century Mon-Dvaravati sites that
   also includes Si Thep and Nakhon Pathom.
+score: 8.3
 ---
 
 About 65 kilometres south of Mahasarakham, the modern chedi of Phra That Na Dun rises over what archaeologists believe was a major Dvaravati-period reliquary deposit. The chedi itself is recent — built in the 1980s after the silver reliquary was discovered, plastered white and gilt, vaguely Lao in profile — but the site is genuinely old: surface finds and excavations have established that there was a substantial Mon-Dvaravati town here between the seventh and ninth centuries, contemporary with Si Thep and Nakhon Pathom.

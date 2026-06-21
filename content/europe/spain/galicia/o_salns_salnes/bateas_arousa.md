@@ -8,6 +8,7 @@ tags:
 latitude: 42.5500
 longitude: -8.8500
 story: "Galicia produces around 95% of Spain's farmed mussels and is the largest producer in Europe — most of the catch comes from the bateas of the Ría de Arousa. The rafts hang ropes thirty metres into the water; a single batea can yield up to seventy tonnes of mussels a year."
+score: 7.2
 ---
 
 From a hill above the ría, the surface of the water looks broken up by a flotilla of black rectangles. These are the bateas — anchored wooden rafts, each about twenty metres square, from which mussels and oysters grow on hanging ropes. The Ría de Arousa has the largest concentration of bateas anywhere in Europe, several thousand of them, and shellfish farming is the comarca's other great export besides Albariño.

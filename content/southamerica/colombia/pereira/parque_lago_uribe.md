@@ -5,6 +5,7 @@ tags: [things_to_do, park]
 snippet: Small downtown lake park with a famous bandshell
 latitude: 4.8137
 longitude: -75.6976
+score: 5.4
 ---
 
 A small landscaped park around an ornamental lake in central Pereira, two blocks east of Plaza de Bolivar. Locals call it simply El Lago. The bandshell in the centre dates from the early twentieth century and is still used for occasional open-air concerts.

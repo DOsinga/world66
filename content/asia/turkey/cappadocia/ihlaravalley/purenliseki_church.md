@@ -6,6 +6,7 @@ longitude: 34.2912
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 A smaller, less-visited church on the main path. Its frescoes are simpler than the showpieces nearby but include a fine Crucifixion and a Last Supper, and the absence of crowds makes it an easy stop.

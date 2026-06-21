@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.3
 ---
 
 Windsor Bridge spans the Thames between Windsor and Eton — a low cast-iron and granite arch bridge built in 1822 to replace a string of medieval timber bridges that had been on the site for at least 800 years. It is pedestrianised, with restaurants, a pub, and a small fleet of pleasure boats moored alongside.

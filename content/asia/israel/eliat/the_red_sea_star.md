@@ -9,6 +9,7 @@ tags:
 - eating_out
 title: The Red Sea Star
 type: poi
+score: 6.2
 ---
 
 The Red Sea Star is one of Eilat's most unusual dining experiences — a restaurant built partly underwater, with large windows looking out onto the coral reef. The interior is decorated with marine-themed design, and the views of fish drifting past your table are genuinely striking, especially after dark when the lights attract more sea life. The food leans Mediterranean and seafood, decent but secondary to the spectacle. It sits on the southern promenade near the Le Meridien hotel. Worth booking ahead, particularly for a window table.

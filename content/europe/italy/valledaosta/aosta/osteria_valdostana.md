@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 45.7368
 longitude: 7.3195
+score: 5.6
 ---
 
 The Osteria Valdostana style of restaurant — a small, simply furnished room with a short menu that changes by season — represents the best approach to eating in Aosta. The kitchen follows what is available locally: in the mountain valleys, that means Fontina cheese in various guises, cured meats from the valley's small producers, polenta prepared from local corn, and braised meats that have been slow-cooked long enough to handle the altitude-chilled appetite.

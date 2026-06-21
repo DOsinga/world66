@@ -7,6 +7,7 @@ tags:
 - sight
 title: Zinat-al-Molk House
 type: poi
+score: 7.4
 ---
 
 The Zinat-al-Molk house is the andaruni — the women's quarters — of the Qavam family compound, connected by an underground passage to the more public Qavam House (Naranjestan) across the alley. The architecture is similar: a central courtyard with a small pool, deep iwans on the long sides, and rooms decorated with mirror work and Qajar-era painted plaster.

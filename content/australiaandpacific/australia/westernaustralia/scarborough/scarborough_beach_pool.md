@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 6.9
 ---
 
 The Scarborough Beach Pool is an outdoor 50-metre lap pool sitting right on the foreshore, only a few metres from the Indian Ocean. It is the rare Perth pool with an actual ocean view from the lanes, and on a windy or jellyfish-prone day it is a better option than the surf next door.

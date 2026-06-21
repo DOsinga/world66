@@ -14,6 +14,7 @@ story: >
   greedy fool who gets what he deserves. The Plzeň puppet tradition fed into what became one of
   the country's most-loved art forms, with Czech puppeteers earning a UNESCO Intangible Cultural
   Heritage designation in 2016.
+score: 6.4
 ---
 
 The Museum of Puppet Cultures (Muzeum loutkářských kultur) in Plzeň is one of only a few museums in the world dedicated entirely to the art of puppetry. The collection spans Central European marionettes, shadow puppets from Southeast Asia, Bunraku figures from Japan, and a strong Czech section tracing the development of domestic puppet theatre from the Baroque period to the present.

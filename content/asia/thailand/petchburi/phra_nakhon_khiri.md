@@ -15,6 +15,7 @@ story: >
   predict a solar eclipse in 1868 -- inviting foreign dignitaries to watch. His
   calculations proved correct to the minute, though he contracted malaria at the
   event and died two months later.
+score: 9.1
 ---
 
 Phra Nakhon Khiri -- known locally as Khao Wang, "Palace Hill" -- is the city's defining landmark. King Rama IV built his royal summer retreat here in 1860, spreading the compound across three linked hilltops. The result is an extraordinary mix of Thai, Western neoclassical, and Chinese architectural styles, with royal audience halls, Buddhist temples, a white chedi visible from across the city, and a private observatory.

@@ -8,6 +8,7 @@ latitude: 41.6800
 longitude: 126.0800
 story: >
   Baijifeng's forests are one of the most intact examples of the temperate mixed forest that once covered much of Manchuria — a zone of Korean pine, Manchurian walnut, and wild ginseng that sustained both the ecosystems and the traditional economy of the region for millennia. The park's near-total forest coverage (98.7 percent) reflects how thoroughly this landscape escaped the agricultural and industrial pressures that cleared most of northeastern China's lowland forests in the twentieth century.
+score: 7.5
 ---
 
 Baijifeng National Forest Park lies about twenty-five kilometres southeast of Tonghua and reaches the highest peak in the immediate area at 1,318 metres. The park has near-complete forest coverage with significant populations of native medicinal plants including wild ginseng, and the forest ecology is a genuine draw for those interested in the natural history of the Changbai mountain system.

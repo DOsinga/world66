@@ -7,6 +7,7 @@ tags:
 - museum
 title: Pacific Aviation Museum
 type: poi
+score: 8.0
 ---
 
 The Pacific Aviation Museum is housed in two hangars on Ford Island that were actually bombed during the Japanese attack on Pearl Harbor on 7 December 1941. Bullet holes are still visible in the concrete floors. The museum covers WWII Pacific air power on both sides, with a collection of restored aircraft including a Japanese Zero, a Curtiss P-40 Warhawk, and several carrier planes.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.6281
 longitude: 58.5678
+score: 5.9
 ---
 
 Port Sultan Qaboos, adjacent to Muttrah, was Oman's main commercial port for decades before container traffic moved to larger modern facilities. The port's waterfront has been redeveloped into a marina and mixed-use area, with cruise ships now docking here when they call at Muscat. The setting retains a maritime character — the working infrastructure of cranes and warehouses is still visible alongside the marina berths — and the views back toward the Muttrah corniche and the mountains behind are among the better harbour panoramas in the city.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.9940
 longitude: -4.1050
+score: 7.8
 ---
 
 Quimper has been producing its distinctive hand-painted faïence pottery since the late 17th century, and this museum, housed in the old Henriot factory, tells the full story. The collection spans three centuries of production, from the earliest pieces — heavily influenced by Rouen and Nevers styles — through the development of the characteristic Breton peasant figures and floral motifs that made Quimper pottery famous across Europe.

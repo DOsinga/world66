@@ -12,6 +12,7 @@ story: >
   over a Bronze Age site. The contemporary art exhibitions and the ancient ruins 
   occupy the same hillside, separated only by a garden path — an arrangement that 
   seems very Amman.
+score: 8.3
 ---
 
 Darat al-Funun — "House of the Arts" in Arabic — is a contemporary art centre spread across a series of converted 1920s stone villas on the slopes of Jabal al-Luweibdeh. Founded in 1988 by the Khalid Shoman Foundation, it shows contemporary Arab art through changing exhibitions, residencies, and public programmes, and has a library and archive of over 12,000 books on Arab art and culture.

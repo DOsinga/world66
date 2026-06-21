@@ -11,6 +11,7 @@ tags:
 title: Harry's New York Bar
 type: poi
 url: www.harrysbar.fr
+score: 7.3
 ---
 
 Harry's Bar is one of the great historic bars of Europe, open since 1911 and claiming credit for inventing the Bloody Mary, the Sidecar, and the French 75. The low-ceilinged panelled interior — university pennants, dark wood, an American-style long bar — is exactly what it looks like in photographs, and that is the point.

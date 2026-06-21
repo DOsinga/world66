@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "The town's central square, with the medieval Torre del Borgo and Palazzo Comunale"
+score: 7.6
 ---
 
 The Piazza Leopardi is the formal centre of Recanati, named (of course) for the poet whose statue stands at its middle. The square is ringed by some of the town's most important buildings: the medieval **Torre del Borgo**, a stone tower 36 metres high that has stood here since the thirteenth century; the seventeenth-century **Palazzo Comunale**, still the town hall; and the church of **San Domenico** with its frescoes by Lorenzo Lotto.

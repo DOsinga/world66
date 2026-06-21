@@ -6,6 +6,7 @@ latitude: 32.6467
 longitude: -16.8986
 story: >
   In October 1916, German U-boats surfaced in Funchal Bay and shelled the city, sinking vessels in the harbor and killing civilians onshore. It was one of the few direct attacks on Portuguese territory during the First World War. The Fort of São Tiago — already three centuries old — was too obsolete to respond.
+score: 7.3
 ---
 
 The Fort of São Tiago stands at the eastern end of the Zona Velha, where it has guarded the harbor since the early 17th century. Its thick yellow walls and round towers have been restored and today the interior houses the Contemporary Art Museum of Funchal, with a permanent collection of 20th-century Portuguese work. But the fort itself is the main attraction.

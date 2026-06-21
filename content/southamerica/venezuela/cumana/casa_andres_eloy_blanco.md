@@ -7,6 +7,7 @@ tags:
   - museum
 title: Casa Natal de Andrés Eloy Blanco
 type: poi
+score: 7.6
 ---
 
 Andrés Eloy Blanco, born in this modest house in 1896, is one of Venezuela's most loved poets and the author of "Píntame angelitos negros" — a poem set to music that became a hit across the Spanish-speaking world. He was also a politician, a journalist, and a leader of the Acción Democrática party who died in Mexican exile.

@@ -13,6 +13,7 @@ story: >
   a different Sufi order whose founder is venerated within. Walking the main street, you
   pass four in a single block — a density of sacred geography that reflects Linxia's
   unique history as a centre of competing and overlapping Islamic traditions.
+score: 8.8
 ---
 
 The cluster of gong bei mausoleums along Linxia's main street is one of the most unusual streetscapes in northwestern China. These domed shrines, belonging to different Sufi orders — Naqshbandiyya, Qadiriyya, Kubrawiyya, and others — stand within metres of each other, each marking the burial place of an order's founding teacher. They range from simple whitewashed domes to elaborate multi-storey structures with tiled interiors.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 22.1497
 longitude: -100.9769
+score: 6.1
 ---
 
 La Virgen is one of the best-known bars in the centro histórico — a wide, dimly lit room with eclectic decoration, live music several nights a week, and a long list of mezcals and craft beers. The atmosphere is younger and louder than the old cantinas but the drinks are good and the music leans toward traditional Mexican styles: norteño, son, and the occasional huapango, which is the musical tradition of the Huasteca region that surrounds the state.

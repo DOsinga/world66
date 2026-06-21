@@ -1,10 +1,13 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-02'
 latitude: 20.8306
 loc_type: city
 longitude: -156.9029
 score: 0.63
+sources:
+- https://en.wikipedia.org/wiki/L%C4%81na%27i
 title: Lanai
 type: location
 ---

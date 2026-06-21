@@ -8,6 +8,7 @@ latitude: 26.0900
 longitude: 105.7200
 story: >
   The Dragon Palace caves were largely unknown outside the local Buyi community until a geological survey in the 1980s mapped the full extent of the underground river system. Local people had been using the cave entrance as a water source for centuries and had their own name for it, but the full 15-kilometre passage was not documented until the survey team followed it by boat.
+score: 7.2
 ---
 
 Longgong — Dragon Palace — is a cave system 15 kilometres from Huangguoshu, near the town of Anshun. The tour runs by flat-bottomed boat through 15 kilometres of underground river, navigating chambers of stalactites and stalagmites lit from below to emphasise their scale. The largest chambers are cathedral-sized; the lowest sections require the boat to pass through passages barely taller than a standing passenger.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Senshukaku-teien
 type: poi
+score: 6.8
 ---
 
 The lords of Tokushima's private garden, laid out in the early 17th century as a kaiyu-shiki (strolling-style) garden. A central pond is fed by spring water and circled by a path with deliberately staged viewpoints — borrowed scenery from Mount Bizan to the south, a small artificial waterfall at the back, and a teahouse at one corner where you can stop for matcha.

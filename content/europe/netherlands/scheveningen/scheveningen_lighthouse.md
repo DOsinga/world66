@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Scheveningen Lighthouse
 type: poi
+score: 6.3
 ---
 
 The Scheveningen Lighthouse is the red-and-white-striped tower at the southern end of the boulevard, built in 1875 by Quirinus Harder and one of the earliest cast-iron lighthouses in the Netherlands. It is 48 metres high and still in operational use; its flash is visible from 29 nautical miles out.

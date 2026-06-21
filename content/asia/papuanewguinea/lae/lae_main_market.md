@@ -10,6 +10,7 @@ story: >
   Lae's market is widely regarded as the best food market in Papua New Guinea. The Morobe
   Province produces some of the country's finest taro, bananas, sweet potatoes, and yams,
   and the market also receives produce trucked down from the Highlands along the highway.
+score: 7.2
 ---
 
 The Lae Main Market is loud, crowded, and genuinely worth a visit. It sits in the centre of town and draws vendors from across the Morobe Province and the Highlands, making it one of the most diverse produce markets in the country. Piles of taro, sweet potato, yams, bananas, and seasonal tropical fruit fill the stalls, along with betel nut, smoked fish, and cooked food.

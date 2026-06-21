@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - innere_stadt
+score: 6.7
 ---
 
 Vienna's first municipal park, opened in 1862 on the line of the demolished city wall, with the Wien river flowing through the middle. Statues of composers cluster along the paths — the gilded Johann Strauss memorial under his stone arch is one of the most photographed sights in the city.

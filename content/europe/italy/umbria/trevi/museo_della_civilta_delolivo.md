@@ -8,6 +8,7 @@ latitude: 42.8771
 longitude: 12.7474
 story: >
   The olive groves around Trevi are among the oldest continuously cultivated in Umbria. Some trees in the valley are believed to be over a thousand years old, their gnarled trunks wider than a person's arm span.
+score: 7.1
 ---
 
 Housed inside the Complesso Museale di San Francesco, this museum traces the history of olive cultivation in the Valle Umbra — which has been going on here for at least two thousand years. The exhibits cover the full cycle from grove to press to lamp: Roman-era pressing equipment, the carved wooden tools of the 17th century, and the chemistry of extra-virgin oil production.

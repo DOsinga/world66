@@ -6,6 +6,7 @@ longitude: -74.9244
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The Cape May MAC runs narrated trolley tours that loop through the historic district several times a day. The 45-minute version covers the highlights — Hughes Street, the Pink House, the Mainstay Inn, Congress Hall — with commentary on the Victorian architecture and the fire of 1878 that wiped out the old town and forced the rebuild that gave Cape May its current character.

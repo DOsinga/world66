@@ -9,6 +9,7 @@ latitude: 51.423
 longitude: -1.848
 story: >
   The avenue originally ran for about 2.4 kilometres from Avebury to a smaller stone circle known as The Sanctuary on Overton Hill — a processional route used for ceremonies. William Stukeley counted over 100 pairs of stones still standing in the 1720s; today fewer than 30 pairs survive, the rest having been broken up by farmers or buried and lost. The stones are arranged in pairs that alternate between tall and narrow shapes, possibly representing male and female.
+score: 8.4
 ---
 
 The West Kennet Avenue is a double row of standing stones that once connected Avebury to The Sanctuary circle on Overton Hill, nearly 2.5 kilometres to the south-east. Walking the avenue today — past the restored stretches of stone pairs flanking a farm track — gives a sense of what the complete processional route must have been like.

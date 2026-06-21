@@ -6,6 +6,7 @@ longitude: 11.2611
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 A few kilometres west of Tanumshede, on a slope above farmland, lies Greby — the largest Iron Age grave field in Bohuslän. Around 200 mounds and stone settings cluster across a low ridge, dating from around 200 to 600 AD. Many of the stones are still upright; some form complete rectangular settings.

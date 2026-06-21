@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.4939
 longitude: 35.5467
+score: 6.6
 ---
 
 The Byzantine-era synagogue at Kibbutz Hamadia, just northeast of Beit Shean, preserves a well-decorated mosaic floor from roughly the 5th and 6th centuries CE. The building went through multiple phases of construction and renovation, and the floor shows artistic influences common to Jewish synagogues across Byzantine-period Palestine: geometric patterns, menorahs, and inscriptions.

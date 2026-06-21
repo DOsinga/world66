@@ -9,6 +9,7 @@ tags:
   - volcano
   - hiking
 story: "Cerro Negro is the youngest volcano in Central America — it erupted out of a flat cornfield in April 1850 and has since stacked itself up to 728 metres in around twenty eruptions, the most recent in 1999. The black slope on the leeward side is loose enough to sled down at speed; the world record on a thin plywood board is over 90 km/h."
+score: 8.8
 ---
 
 Cerro Negro is the headline reason most travellers stop near La Paz Centro: a steep, jet-black cinder cone rising abruptly out of the flat Maribios plain, and one of very few volcanoes in the world set up for tourist "volcano boarding". The hike to the rim takes about 45 minutes from the access road, and the loose ash slope on the back side lets you slide down in a few minutes flat — sitting on a reinforced plywood toboggan, kitted out in goggles and an orange jumpsuit, often hitting 50-60 km/h.

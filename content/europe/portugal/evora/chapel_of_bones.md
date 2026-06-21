@@ -16,6 +16,7 @@ story: >
   intention was explicitly memento mori: a visual reminder, carved in human
   remains, that life is temporary. Two mummified bodies, reportedly a man and a
   child, hang from the wall near the entrance.
+score: 8.4
 ---
 
 The Chapel of Bones inside the Igreja de São Francisco is Évora's most famous and most unsettling sight. The walls, columns, and ceiling of the small chapel are completely covered with human bones and skulls — arranged into decorative patterns using the remains of approximately 5,000 people. The effect is simultaneously beautiful and deeply disturbing, which is precisely what the 16th-century Franciscan monks intended.

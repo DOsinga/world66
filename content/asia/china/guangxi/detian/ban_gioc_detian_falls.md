@@ -13,6 +13,7 @@ story: >
   the guides on the other side. The two countries administer their respective
   sections of the scenic area independently, charge separate entry fees, and
   do not currently allow crossing between sides at the waterfall itself.
+score: 8.9
 ---
 
 The Ban Gioc–Detian Falls drop over a series of broad limestone terraces into a wide pool, with the falls spanning roughly 200 metres at their widest. The cascade drops in stages rather than a single plunge, which means the whole width is visible at once from the viewing area on the Chinese bank — a spectacular wall of white water in the wet season, a more delicate spread of channels in the dry months. The surrounding landscape of karst peaks, bamboo groves, and rice paddies makes the approach as beautiful as the destination.

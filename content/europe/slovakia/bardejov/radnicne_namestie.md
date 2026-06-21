@@ -13,6 +13,7 @@ story: >
   and owned by local families. Despite its UNESCO inscription, it attracts a
   fraction of the visitors that Český Krumlov or Telč receive, which makes the
   atmosphere on a summer evening genuinely pleasant rather than performative.
+score: 8.8
 ---
 
 The Town Square of Bardejov is a large, rectangular medieval marketplace ringed on three sides by 46 pastel-coloured burgher houses, each with its own distinctive gable and many decorated with elaborate stone carvings above the entrance portal. The square was laid out in the 13th century and has changed surprisingly little since — it is one of the reasons UNESCO listed the old town in 2000 as one of Central Europe's finest examples of a medieval planned town.

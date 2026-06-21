@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Disney's mainland China resort, opened 2016 — biggest castle in the system"
+score: 7.0
 ---
 
 Disney's mainland China resort opened in 2016 on a vast site in eastern Pudong. The Enchanted Storybook Castle is the largest in the Disney parks, and the layout has a few attractions you cannot find elsewhere: the **TRON Lightcycle Power Run** rollercoaster, the **Pirates of the Caribbean** boat ride (longer and wetter than the original), and a **Soaring Over the Horizon** simulator that has since been copied elsewhere.

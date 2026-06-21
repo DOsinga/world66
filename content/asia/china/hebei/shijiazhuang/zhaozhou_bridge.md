@@ -14,6 +14,7 @@ story: >
   finally studied it in the twentieth century, they identified the structural
   principle and used it in their own work. The engineer Li Chun, who designed it,
   is one of the few pre-modern Chinese engineers known by name.
+score: 8.5
 ---
 
 The Zhaozhou Bridge (officially the Anji Bridge) in Zhao County, 52 kilometres southeast of Shijiazhuang, is not just the oldest surviving bridge in China — it is the oldest open-spandrel segmental arch bridge in the world. Built between 595 and 605 during the Sui dynasty by the engineer Li Chun, it crosses the Xiaohe River in a single 37-metre span using a segmented arch that distributes weight so efficiently that the bridge has survived, with periodic repairs, for nearly 1,400 years.

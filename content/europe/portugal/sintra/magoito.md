@@ -6,6 +6,7 @@ tags:
 - beaches
 title: Magoito
 type: poi
+score: 6.7
 ---
 
 Magoito is a broad, wind-swept beach backed by sandstone cliffs about 15 minutes' drive west of Sintra. It feels wilder and less developed than the better-known beaches at Azenhas do Mar or Praia Grande nearby. The sand is wide at low tide, the surf is strong, and the cliffs give the whole place a slightly dramatic feel.

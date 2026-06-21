@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.2677
 longitude: 82.9993
+score: 7.8
 ---
 
 Banaras Hindu University is one of the largest residential universities in Asia, founded in 1916 by Madan Mohan Malaviya. Its campus is a city within a city — vast, green, and architecturally distinguished. The New Vishwanath Temple on the campus (often called the Birla Temple, funded by the Birla family) is a towering white marble temple modelled on the original Kashi Vishwanath and open to all visitors regardless of religion — a deliberate and unusual policy in a city where most major temples restrict non-Hindu entry.

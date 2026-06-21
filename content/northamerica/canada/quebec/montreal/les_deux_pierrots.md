@@ -10,6 +10,7 @@ tags:
 title: Les Deux Pierrots
 type: poi
 url: www.lespierrots.com
+score: 6.8
 ---
 
 A pub in Old Montréal with live folk and Québécois music Thursday to Saturday. The atmosphere is genuinely festive — everyone ends up singing and clapping whether or not they understand the French. Long communal tables, cold beer and an eclectic mix of locals and tourists. One of the few spots in Old Montréal that doesn't feel put-on.

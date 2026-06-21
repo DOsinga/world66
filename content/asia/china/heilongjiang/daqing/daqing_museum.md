@@ -12,6 +12,7 @@ story: >
   the same geological period — the late Pleistocene — which means that under
   the Songhua-Liao Plain, within a few metres of each other, lie the remains
   of ice-age megafauna and the energy reserves that powered 20th-century China.
+score: 7.6
 ---
 
 The Daqing Museum holds one of the most significant Quaternary fossil collections in China, with over 100,000 specimens accumulated from excavations across the Songhua-Liao Plain. The centrepiece exhibits are two near-complete mammoth skeletons — among the best-preserved in northeast Asia — along with woolly rhinoceros remains, giant deer, and other Pleistocene megafauna that inhabited this area until roughly 10,000 years ago.

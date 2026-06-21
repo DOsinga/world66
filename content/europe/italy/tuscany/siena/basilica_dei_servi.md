@@ -5,6 +5,7 @@ snippet: Quiet basilica with panoramic terrace and important early Sienese paint
 tags: [things_to_do, sight, church]
 latitude: 43.3138
 longitude: 11.3372
+score: 7.9
 ---
 
 A 13th-century church on the eastern side of the old city, in a quiet corner most visitors never reach. The terrace outside gives one of the best views in Siena — across to the Duomo, the Torre del Mangia, and the rolling hills beyond.

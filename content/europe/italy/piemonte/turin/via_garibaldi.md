@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.0731
 longitude: 7.6803
+score: 7.2
 ---
 
 Europe's longest pedestrianised street, runs almost a kilometre from Piazza Castello to Piazza Statuto along the line of the original Roman decumanus. The shops here are mid-market — Italian high-street chains, eyewear and shoe stores, gelaterias, plus a couple of historic bookshops and stationers.

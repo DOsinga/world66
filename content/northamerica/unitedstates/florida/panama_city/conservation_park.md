@@ -6,6 +6,7 @@ longitude: -85.8500
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 Conservation Park, on the western side of Panama City Beach about 30 minutes from downtown, protects 2,900 acres of pine flatwoods and cypress wetlands with 12 marked walking and cycling trails ranging from half a mile to over 11 miles. The boardwalks across the wetland sections are flat and shaded, with chances to see alligators, river otters, and the occasional black bear.

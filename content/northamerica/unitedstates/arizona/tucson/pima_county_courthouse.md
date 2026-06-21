@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
   - downtown
+score: 7.8
 ---
 
 The 1929 Pima County Courthouse is one of the most photographed buildings in Tucson — a pink-stuccoed, tile-domed Spanish Colonial Revival pile in the centre of downtown. The bright blue and yellow ceramic-tiled dome and the inner courtyard are a striking mix of Moorish, Mexican, and Mission revival influences.

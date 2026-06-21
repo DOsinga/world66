@@ -13,6 +13,7 @@ tags:
 title: The Mapparium
 type: poi
 url: www.marybakereddylibrary.org
+score: 8.0
 ---
 
 One of Boston's most stunning architectural settings. The Mary Baker Eddy Library features the world-famous Mapparium, a three-story stained-glass globe that lets you walk across a glass bridge spanning the inside of the earth. The acoustics are remarkable -- stand at one end, speak in a whisper, and hear your voice amplified across the room. Well worth a visit.

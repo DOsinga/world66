@@ -6,6 +6,7 @@ tags:
 - day_trips
 title: Sabará day trip
 type: poi
+score: 7.7
 ---
 
 Sabará is the easiest of the colonial Minas Gerais towns to reach from Belo Horizonte: only about 20 km east, accessible by city bus. It is smaller and quieter than Ouro Preto, but its three baroque churches are among the most important in the state — particularly the Igreja de Nossa Senhora do Ó, which has a Chinese-influenced interior of red, gold, and black lacquer painting that is unique in colonial Brazil.

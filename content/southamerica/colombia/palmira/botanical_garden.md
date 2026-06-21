@@ -14,6 +14,7 @@ story: >
   garden was established in 1983 on land donated by a local hacienda and has grown to
   include one of the most comprehensive orchid collections in Colombia, with over
   1,000 registered species.
+score: 7.8
 ---
 
 The Jardín Botánico de Cali — despite its name, located in Palmira, not Cali — is the main reason to stop here. Spread across a large flat site with established tropical trees, the garden has a strong collection of native Colombian flora including palms, heliconias, bromeliads, and one of the best orchid sections in the country, with over 1,000 species. The orchid pavilion is the highlight, particularly between November and January when the largest number of species are in bloom.

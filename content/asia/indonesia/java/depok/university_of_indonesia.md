@@ -9,6 +9,7 @@ tags:
 - university
 title: University of Indonesia
 type: poi
+score: 7.4
 ---
 
 The Universitas Indonesia (UI) campus in Depok is one of the most distinctive in Southeast Asia: a 320-hectare park containing eight artificial lakes, dense secondary forest, and a sprinkle of academic buildings in modernist Javanese style. The signature building is the Central Library, a hollow-ziggurat in concrete and glass on the eastern shore of Kenanga Lake, which holds 1.5 million volumes and has free wifi for visitors.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.84917
 longitude: -84.61889
+score: 6.9
 ---
 
 Mackinac Island's lilac bushes — planted by 19th-century settlers from seeds brought from France — now number in the hundreds and cover much of the island. Every June, when they bloom simultaneously, the scent carries all the way to the ferry dock. The ten-day Lilac Festival has been running since 1949 and includes a horse-drawn carriage parade down Main Street, a ten-kilometre road race, and various events centred on the blooming season.

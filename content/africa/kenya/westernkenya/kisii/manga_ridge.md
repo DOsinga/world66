@@ -6,6 +6,7 @@ longitude: 34.78
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 The Manga Ridge runs along the northern edge of the Gusii Highlands a few kilometres north of Kisii, rising to about 2,000 m. From the top there is a sweeping view south across the densely cultivated hills towards Tanzania, and on a clear day west to the haze of Lake Victoria.

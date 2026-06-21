@@ -7,6 +7,7 @@ tags:
 - sight
 title: Báb's House (site)
 type: poi
+score: 4.5
 ---
 
 In May 1844, the young merchant Sayyid Ali Muhammad declared himself the Báb — the "Gate" of a new religious dispensation — at a house in central Shiraz. The Bahá'í faith dates its founding from that moment. The house became the most important pilgrimage site for early Bahá'ís and was visited by believers from around the world.

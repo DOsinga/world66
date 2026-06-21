@@ -8,6 +8,7 @@ tags:
 latitude: 7.8858
 longitude: 98.3907
 snippet: The old-town restaurant that made Phuket's Baba cuisine famous, in a restored shophouse
+score: 7.2
 ---
 
 One Chun (the name means "Monday" in Thai) is the best-known restaurant in Phuket's old town and one of the places credited with bringing Baba cuisine — the food of the Peranakan Chinese community — to wider attention. The menu focuses on dishes that evolved in Phuket's Chinese community: coconut crab curry (one of the restaurant's signatures), Mee Hokkien noodles, kua kling (dry southern curry), and stir-fried dishes that combine Thai aromatics with Chinese technique.

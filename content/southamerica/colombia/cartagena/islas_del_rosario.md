@@ -9,6 +9,7 @@ tags:
 title: Islas del Rosario
 type: poi
 story: The Islas del Rosario archipelago sits on one of the healthiest coral reef systems in the Caribbean, within a national park (Parque Nacional Natural Corales del Rosario y San Bernardo) that protects the reef from development. The islands were historically the escape of Cartagena's elite — wealthy families built private houses on the larger islands — but today the main islands are served by tour boats and the beaches are accessible to anyone who makes the 45-minute crossing.
+score: 8.0
 ---
 
 The Islas del Rosario are a group of 27 small coral islands about 45km southwest of Cartagena, surrounded by clear warm water and living coral reef. The national park status means development is limited, and the snorkelling and diving around the islands is some of the best available on Colombia's Caribbean coast.

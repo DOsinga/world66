@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature]
 latitude: 50.1879
 longitude: -5.5474
 story: The capstone of Zennor Quoit — a single granite slab weighing around 12.5 tonnes — collapsed from its supporting stones sometime between 1770 and 1865 and now rests at an angle, giving the chamber a half-ruined, windswept quality that suits the moorland setting perfectly.
+score: 8.1
 ---
 
 Zennor Quoit is a Neolithic chambered tomb on the open moorland about a mile east of the village, dating to between 2500 and 1500 BC. It is one of the finest megalithic monuments in Cornwall: a portal dolmen with a massive granite capstone resting on upright stones, large enough to have served as a communal burial chamber. The setting, on exposed moorland with views in every direction, gives it a presence that more accessible ancient monuments often lack.

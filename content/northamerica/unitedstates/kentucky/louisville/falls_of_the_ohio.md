@@ -10,6 +10,7 @@ story: >
   The fossil beds exposed at the Falls of the Ohio are from the Devonian period, roughly 390 million years ago, and represent one of the largest naturally exposed Devonian fossil beds in the world. Lewis and Clark stopped here in 1803, before setting off down the Ohio on their way to the Missouri River and the Pacific. Clark lived across the river in Clarksville for most of his life after the expedition.
 sources:
   - https://en.wikipedia.org/wiki/Falls_of_the_Ohio_State_Park
+score: 9.0
 ---
 
 The Falls of the Ohio State Park sits on the Indiana side of the river, but it is so closely tied to Louisville's history that it belongs in any account of the city. The "falls" are actually a series of rapids formed by a rocky limestone ledge — just a two-foot drop at normal water levels, but enough of a barrier to stop river traffic and create the portage point around which Louisville was built in 1778.

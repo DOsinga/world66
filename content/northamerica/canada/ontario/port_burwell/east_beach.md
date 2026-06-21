@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 6.4
 ---
 
 The town's public beach sits at the south end of Robinson Street, a few minutes' walk from the lighthouse. It is shorter and less wild than the Provincial Park beach across the creek, but more convenient if you are staying in town: pavilion, washrooms, picnic tables, and a small playground are right behind the sand.

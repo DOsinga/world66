@@ -10,6 +10,7 @@ tags:
 - schanzenviertel
 neighbourhood: Schanzenviertel
 address: Lagerstrasse 28b
+score: 6.6
 ---
 
 Altes Mädchen ("Old Girl"), in the converted Schanzenhöfe brewery buildings on the edge of the Schanzenviertel, is a large beer hall and craft-beer brewery run by Ratsherrn, the city's most respected modern brewer. About sixty taps cover Ratsherrn's own beers and a rotating list of international guests; long communal tables fill the high-ceilinged hall.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Tree-lined river walk south of the centre, with a footpath all the way to the Funen Village
+score: 7.0
 ---
 
 Odense Å threads south through the city, between the centre and the Funen Village, with a continuous riverside path that runs for nearly 10 km. The middle stretch through Munke Mose is the best — a long, gentle, willow-shaded park where rowing boats can be hired in summer and the river is wide enough for ducks and swans.

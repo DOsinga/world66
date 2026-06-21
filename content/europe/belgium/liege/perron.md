@@ -9,6 +9,7 @@ longitude: 5.5757
 snippet: Symbol of Liège's civic freedoms, standing on the Place du Marché since 1697
 story: >
   The Perron has been the symbol of Liège's independence since the Middle Ages — when a city was granted the right to hold markets and govern itself, it received a perron, a stone pillar placed in the main square. When Charles the Bold of Burgundy captured Liège in 1468, he had the perron removed as an act of deliberate humiliation. When the city's freedoms were restored, rebuilding it was one of the first priorities. The Three Graces on top of the present column carry a pine cone — an ancient symbol of fertility and plenty.
+score: 6.8
 ---
 
 The Perron stands on the Place du Marché in the heart of Liège's old city, an elaborate fountain topped by a column and the Three Graces clutching a pine cone. It has been the symbol of the city's civic liberties since the Middle Ages, when the right to erect a perron in the main square was the mark of a free commune.

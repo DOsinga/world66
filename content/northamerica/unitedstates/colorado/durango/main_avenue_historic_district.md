@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.6
 ---
 
 The 34-acre downtown core, listed on the National Register of Historic Places, is one of the best-preserved Victorian commercial districts in the western United States. The brick storefronts, cast-iron columns, and pressed-tin ceilings date from the 1880s and 1890s, when the railroad made Durango a regional supply hub.

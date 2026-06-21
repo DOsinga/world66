@@ -9,6 +9,7 @@ tags:
   - nature
   - anillo_verde
 story: "Salburua was drained in the 19th century for farming and remained dry agricultural land until the late 1990s, when the city deliberately restored the wetland — and the storks, herons, and a Iberian deer population promptly returned."
+score: 8.3
 ---
 
 A large restored wetland on the eastern edge of the city, part of the Anillo Verde and a major bird stop on the Atlantic flyway. Wooden walkways and hides let you observe storks, herons, harriers, and a population of European deer reintroduced as part of the restoration.

@@ -9,6 +9,7 @@ latitude: 51.7508
 longitude: -1.2481
 story: >
   The Oxford Botanic Garden is the oldest botanic garden in Britain, founded in 1621. Philip Pullman chose it as the location for the bittersweet final scene of His Dark Materials — the bench where Lyra and Will agree to sit at the same moment in their separate worlds. Visitors who know the books still seek out the bench by the river wall where the scene is set.
+score: 7.9
 ---
 
 The Oxford Botanic Garden on Rose Lane, just across the High Street from Magdalen College, is the oldest botanic garden in Britain, established in 1621 on the site of an old Jewish cemetery. It occupies a walled garden beside the River Cherwell, with glasshouses containing tropical, desert, and aquatic plants, and formal outdoor beds arranged by plant families, regions, and uses. Over 5,000 species grow in what is a relatively compact space.

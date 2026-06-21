@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 36.6640
 longitude: 116.9960
+score: 6.5
 ---
 
 Jinan had a small Jewish community in the early twentieth century — traders, professionals, and a handful of families connected to the foreign commercial settlement — who built a synagogue in the German quarter near the old station. The building survives, repurposed but intact, and is one of the more unexpected survivals in the colonial quarter. A small plaque records its history.

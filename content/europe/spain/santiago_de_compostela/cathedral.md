@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Santiago_de_Compostela_Cathedral
 story: >
   Master Mateo, the architect responsible for completing the cathedral in 1211, carved a self-portrait into the base of his own masterpiece — the Pórtico de la Gloria. The kneeling figure faces the altar, forever gazing at the work he created. Students of the University of Santiago de Compostela traditionally knock their heads three times against the statue before exams, believing it transfers some of Mateo's genius. The practice has left the marble noticeably worn.
+score: 10.0
 ---
 
 The Cathedral of Santiago de Compostela has drawn pilgrims from across Europe for over a thousand years. Construction began in 1075 on the site believed to hold the tomb of the Apostle Saint James, and the building accumulated layers over the centuries — Romanesque nave, Gothic chapels, and the exuberant twin-towered Baroque facade that now faces the Praza do Obradoiro, added in the 18th century by Fernando de Casas Novoa.

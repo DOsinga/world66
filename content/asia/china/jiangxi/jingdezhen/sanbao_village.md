@@ -6,6 +6,7 @@ latitude: 29.2450
 longitude: 117.1900
 story: >
   The American ceramic artist Jack Troy visited Sanbao in the 1990s and helped establish it as an international ceramic arts village, one of the first in China designed to attract foreign artists specifically. Since then hundreds of international ceramicists have done residencies here — the village has a cosmopolitan feel unusual in rural Jiangxi, with studio conversations taking place in Chinese, English, Japanese, and Korean.
+score: 8.0
 ---
 
 Sanbao Village (三宝村) sits in a quiet valley about eight kilometres south of Jingdezhen's city centre, where bamboo and rice paddies surround a scatter of studios, workshops, and galleries converted from old rural buildings. It is quieter and more intimate than Taoxichuan — less urban, with a pace that suits extended exploration rather than a quick walk-through.

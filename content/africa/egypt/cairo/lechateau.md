@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Le Chateau
 type: poi
+score: 4.2
 ---
 
 Continental menu in a formal setting. Smart-casual dress is expected and the service is attentive. One of Cairo's more traditional European-style restaurants.

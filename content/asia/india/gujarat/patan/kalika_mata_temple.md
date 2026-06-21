@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.8475
 longitude: 72.1220
+score: 5.1
 ---
 
 Patan's main Hindu shrine to the goddess Kalika sits in the old town and is busiest during the Navratri festival in October, when it becomes a focal point for nine nights of dancing and devotion. The temple is otherwise a modest brick-and-marble structure but is one of the oldest continuously active places of worship in the town, with origins traced back to the Solanki period.

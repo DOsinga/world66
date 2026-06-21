@@ -10,6 +10,7 @@ tags:
 - rafting
 - day_trip
 snippet: A scenic and quietly powerful river flowing out of the southern Appalachians, with class I–II floats and excellent trout fishing
+score: 7.4
 ---
 
 While the Ocoee gets the whitewater headlines, the **Hiwassee River** north of Cleveland is the gentler, prettier of the two. It tumbles out of the Cherokee National Forest at Apalachia Powerhouse and runs through a deep wooded gorge to the town of Reliance, then opens out into trout-stocked tailwater below the dam. The 5-mile section above Reliance is one of the most popular **tubing and Class I-II canoe floats** in the southeast.

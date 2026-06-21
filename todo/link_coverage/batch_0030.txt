@@ -1,0 +1,5 @@
+asia/philippines/pangasinan
+asia/philippines/southern_leyte/bontoc
+asia/philippines/southern_leyte/stbernard
+asia/southkorea/gyeongju
+asia/srilanka/hikkaduwa

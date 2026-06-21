@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.3905
 longitude: -3.2096
+score: 7.1
 ---
 
 The Church of Santa María la Mayor is one of the two main medieval churches of Alcázar de San Juan, built in the late Gothic style in the 16th century. It stands in the old centre of town, its stone tower rising above the low surrounding buildings. The interior contains a notable main altarpiece from the early 17th century and some Baroque funerary sculpture.

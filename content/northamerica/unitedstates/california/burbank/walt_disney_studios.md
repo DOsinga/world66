@@ -14,6 +14,7 @@ story: >
   up the pediment of the building — a postmodern joke that Disney has
   maintained with complete commitment for over 30 years. From the street,
   the effect is both absurd and strangely wonderful.
+score: 5.8
 ---
 
 Walt Disney's Burbank campus has been the creative heart of the studio since 1940, when Disney moved here from his original Los Angeles location. The main campus on Alameda Avenue is not open to public tours, but the surrounding streets offer worthwhile views of the distinctive buildings, including the celebrated Team Disney Burbank building where the Seven Dwarfs hold up the roofline.

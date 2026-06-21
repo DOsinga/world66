@@ -7,6 +7,7 @@ tags:
 - restaurant
 latitude: 51.8802
 longitude: -9.5840
+score: 6.5
 ---
 
 Tucked into a narrow laneway off Henry Street, the Mews has the feel of a private supper club. The dining room seats fewer than thirty across two small rooms, with rough stone walls, candle-light, and an open hatch through to the kitchen. The menu is short — five or six starters, the same number of mains — and changes every week or two.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight, history]
 latitude: 35.633
 longitude: -99.717
 story: The debate over whether to call this a battle or a massacre has never been resolved. Black Kettle had attended peace conferences and flew both a U.S. flag and a white flag above his tipi — yet on the morning of November 27, 1868, in temperatures of around -25°F, Custer's 7th Cavalry opened fire on the sleeping village. Custer's orders were to kill all warriors and take women and children captive. Black Kettle and his wife were shot trying to escape across the Washita River.
+score: 7.6
 ---
 
 On November 27, 1868, Lt. Col. George Armstrong Custer led a dawn assault on the Southern Cheyenne village of Peace Chief Black Kettle on the banks of the Washita River in what is now Roger Mills County. The attack came in the middle of winter, with the temperature well below freezing, and the village's occupants were asleep when the cavalry charged from four directions simultaneously at first light. Custer reported killing 103 warriors; later estimates put the figure much lower, with many of the dead being women, children, and elderly. Around fifty-three women and children were taken prisoner. Black Kettle, who had survived the Sand Creek Massacre four years earlier and had spent the intervening years trying to maintain peaceful relations with the U.S. government, was killed along with his wife as they attempted to cross the river on horseback.

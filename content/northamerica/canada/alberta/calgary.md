@@ -2,17 +2,18 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+  location_enrich: '2026-06-02'
   poi_cleanup: '2026-04-20'
 image: calgary.jpg
 image_attribution: Chris Woodrich
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Amphitheatre,_Mount_Royal_University,_Calgary,_Alberta,_2025-07-11_02.jpg
 latitude: 51.045606
+loc_type: city
 longitude: -114.057541
 score: 0.51
 title: Calgary
 type: location
-loc_type: city
 ---
 
 Calgary sits where the prairies meet the foothills of the Canadian Rockies, with the Bow River running through a downtown of glass towers and pedestrian bridges. It is a prosperous, outdoorsy city — the oil industry wealth shows, but so does the proximity to the mountains. Banff National Park is ninety minutes west; the ski fields of Lake Louise and Sunshine Village are similarly close. The city is younger and more spread out than most Canadian cities of its size, and the pace is unhurried.

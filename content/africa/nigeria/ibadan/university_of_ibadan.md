@@ -13,6 +13,7 @@ story: >
   1986 — the first African to do so. Soyinka wrote extensively about his
   time in Ibadan, and the university remains embedded in his work and
   autobiographies. The campus has barely changed from the era he describes.
+score: 7.9
 ---
 
 The University of Ibadan is Nigeria's oldest university, founded in 1948 on a sprawling campus of colonial-era buildings surrounded by tropical gardens. It has produced an extraordinary roll call of African intellectuals, including Nobel laureate Wole Soyinka, and remains one of the most important academic institutions in West Africa.

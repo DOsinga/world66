@@ -14,6 +14,7 @@ story: >
   beneath a simple marble slab. The inscription reads, in Latin: "Here lies the invincible
   William the Conqueror, Duke of Normandy and King of England, Founder of this House, who
   died in the year 1087."
+score: 8.5
 ---
 
 The great abbey church that William the Conqueror founded in 1063 as penance for his marriage to his cousin Matilda — the Pope had declared the union uncanonical — is one of the finest examples of Norman Romanesque architecture in France. The twin-towered west facade, completed in stages over the 11th and 12th centuries, is austere and powerful in a way that Gothic cathedrals rarely are.

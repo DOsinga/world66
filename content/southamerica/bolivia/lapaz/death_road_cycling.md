@@ -9,6 +9,7 @@ tags:
 - nature
 title: Death Road Cycling
 type: poi
+score: 8.1
 ---
 
 The North Yungas Road runs 64 kilometres from the high altiplano down through cloud forest to the subtropical valley town of Coroico, dropping 3,500 metres in the process. When it was the only road connecting La Paz to the Yungas lowlands, trucks and buses shared a single-lane track cut into vertical cliffsides with no guardrails and regular patches of fog. Vehicles went over the edge with some regularity. Since a new, safer road was completed in 2006, the old route carries almost no vehicle traffic and has become one of the most popular adventure tourism activities in Bolivia.

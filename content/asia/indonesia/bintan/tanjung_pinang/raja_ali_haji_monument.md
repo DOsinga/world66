@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic
+score: 6.9
 ---
 
 Raja Ali Haji (1809–1873) was a Riau Malay scholar, poet, and grammarian who wrote *Gurindam Dua Belas* (Twelve Stanzas of Moral Guidance) and the *Bustanul Katibin* — considered the first systematic grammar of the Malay language. He was declared a National Hero of Indonesia in 2004, and his grave on Penyengat Island has become something of a pilgrimage site for those interested in Malay literature, linguistics, and cultural history.

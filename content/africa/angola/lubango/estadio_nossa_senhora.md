@@ -6,6 +6,7 @@ longitude: 13.4706
 tags:
   - things_to_do
   - sport
+score: 5.6
 ---
 
 The Estádio Nossa Senhora do Monte is the largest stadium in Huíla province and serves as the main venue for football in Lubango. The city has a genuine football culture, and when a major match is on, you will know about it from the noise well before you arrive. Recreativo do Libolo occasionally plays southern fixtures here, and provincial and local league matches draw enthusiastic crowds who make up in noise what they might lack in numbers.

@@ -10,6 +10,7 @@ address: C Scheme, Jaipur
 opening_hours: 9:00-17:00 daily
 snippet: Royal cremation ground with carved marble cenotaphs of Jaipur's maharajas
 story: "The cenotaph of Maharaja Sawai Jai Singh II, founder of Jaipur, is the grandest in the complex — it took years to build and its marble canopy (chhatri) is supported by twenty carved pillars. Only Jai Singh's cenotaph is built from marble; all others are of sandstone, reflecting his unique status as the city's creator."
+score: 7.2
 ---
 
 Gaitore Ki Chhatriyan is the royal cremation ground of Jaipur's maharajas — a walled garden filled with ornate marble and sandstone cenotaphs (chhatris) commemorating the rulers of the city from Sawai Jai Singh II (founder of Jaipur, died 1743) onwards. It is one of the most beautiful and atmospheric spots in the city, and almost always quiet.

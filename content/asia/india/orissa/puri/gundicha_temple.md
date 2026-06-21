@@ -8,6 +8,7 @@ story: "During Rath Yatra, Jagannath, Balabhadra, and Subhadra leave the main te
   — an event so significant that the priests ritually \"wash\" the deities, after
   which they \"fall ill\" for two weeks before the procession, during which no offerings
   are accepted at the main temple and the doors remain shut to all pilgrims."
+score: 7.5
 ---
 
 About 3 kilometres north of the Jagannath Temple along the wide ceremonial road known as Bada Danda (Grand Road) stands the Gundicha Temple — the garden house, or summer palace, of Lord Jagannath. During ordinary times it sits quiet and almost empty within its walled garden, a smaller and less dramatic structure than the main temple, but one of enormous ritual significance. This is the destination of the Rath Yatra procession: the three great chariots travel here each year, the deities reside for a week, and then the reverse procession (Bahuda Yatra) brings them home. In the theology of the temple, Gundicha is where Jagannath goes to rest and visit his aunt.

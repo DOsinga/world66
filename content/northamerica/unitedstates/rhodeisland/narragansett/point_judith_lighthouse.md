@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Point Judith Lighthouse
 type: poi
+score: 7.2
 ---
 
 Point Judith Lighthouse marks the western entrance to Narragansett Bay from the south, a working U.S. Coast Guard station built in its current octagonal stone form in 1857. The tower itself is closed to the public — the surrounding base is active — but the grounds are open during daylight hours and the view from the fence line takes in the open Atlantic, Block Island on the horizon, and the cluster of fishing boats coming in and out of the Galilee channel a mile up the coast.

@@ -13,6 +13,7 @@ story: >
   leaves of exceptional quality. Most of the world's finest Havana cigars use Vuelta
   Abajo tobacco from this region, though the actual rolling of premium cigars happens
   in Havana's factories.
+score: 9.1
 ---
 
 The valley's tobacco farms are one of the genuine highlights of a visit. Several farms welcome visitors for free or a small donation, showing you the process from curing shed to hand-rolled cigar. The curing barns — wooden structures with slatted walls full of drying leaves — are a distinctive feature of the landscape. Inside, the smell of tobacco is overwhelming and extraordinary.

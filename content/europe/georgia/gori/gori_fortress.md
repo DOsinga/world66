@@ -9,6 +9,7 @@ longitude: 44.1081
 snippet: Medieval hilltop citadel above Gori with commanding views over the Shida Kartli valley
 story: >
   Pompey the Great is said to have besieged and captured the hilltop fortress at Gori in 65 BC during his campaign through the Caucasus. Whether or not the Roman general actually stood on this particular hill, the site has been occupied and contested for over two thousand years — by Seleucid Greeks, Romans, Armenians, Arabs, Mongols, Persians, and eventually Russians. The current medieval walls are the work of several centuries of Georgian kings.
+score: 7.2
 ---
 
 Gori Fortress (Goris-Tsikhe) occupies a rocky hill rising dramatically above the city, visible from everywhere in town. The walls date mainly from the medieval period, rebuilt and reinforced across several centuries as Gori's strategic position in the Shida Kartli valley made it perpetually worth fighting over. The climb to the top is steep but short, and the views from the ramparts are excellent — the Liakhvi River valley, the surrounding mountains, and, on clear days, the peaks of the Greater Caucasus range to the north.

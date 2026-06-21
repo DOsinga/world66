@@ -7,6 +7,7 @@ tags:
 latitude: 28.4800
 longitude: -17.8400
 snippet: Active salt pans at the southern tip of La Palma, between two volcanic craters, working since the 1980s
+score: 7.4
 ---
 
 At La Palma's southern tip, the Fuencaliente Saltworks occupy a narrow strip of coastline between two volcanic craters — one from 1677 and one from 1971 — and the sea. The location is visually dramatic: black lava fields above, the salt pans below in geometric white squares, the Atlantic beyond. Pink flamingos and wading birds stop here on migration, attracted by the brine.

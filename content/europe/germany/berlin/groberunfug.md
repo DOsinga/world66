@@ -9,6 +9,7 @@ tags:
 - berlinmitte
 title: Grober Unfug
 type: poi
+score: 6.4
 ---
 
 Berlin's go-to comic shop, with a huge selection and witty accessories. Changing exhibitions by well-known artists on the walls. Also a branch at Zossener Strasse 32-33 in Kreuzberg.

@@ -7,6 +7,7 @@ tags:
 snippet: The slow brown river that loops along the eastern side of town
 latitude: 23.4080
 longitude: 88.5040
+score: 5.6
 ---
 
 The Jalangi is a tributary of the Bhagirathi that meanders through Nadia district before joining the larger river near Nabadwip. In Krishnanagar it forms a long shallow curve along the eastern side of town, and locals walk its banks in the cool of the evening, particularly the stretch close to Ghurni.

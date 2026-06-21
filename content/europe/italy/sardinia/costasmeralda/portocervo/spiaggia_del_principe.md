@@ -5,6 +5,7 @@ latitude: 41.0892
 longitude: 9.5615
 tags:
   - beaches
+score: 8.5
 ---
 
 Spiaggia del Principe — "the Prince's Beach" — takes its name from the Aga Khan IV, who is said to have considered it his favourite stretch of the coast he developed. It is a curved bay of pale pink-tinged sand backed by granite outcrops and macchia, with shallow turquoise water and almost no built infrastructure beyond a single small kiosk. There are no hotels in sight from the beach, which is part of its appeal.

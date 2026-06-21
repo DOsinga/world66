@@ -13,6 +13,7 @@ story: >
   bearing the church's name that the owner removed all signage. Asked what he was
   supposed to call it, the bishop replied: "I don't know — a question mark?" The
   name stuck.
+score: 7.3
 ---
 
 Znak Pitanja — the Question Mark — is believed to be the oldest restaurant in Belgrade, having operated on this site since 1823. The interior is a wood-panelled, low-ceilinged room that looks authentically old, and the menu is traditional Serbian: bean soup, grilled meats, roast lamb, burek, and a reliable house wine. The prices are moderate and the atmosphere is genuine rather than performed.

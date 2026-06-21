@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Coolidge Park
 type: poi
+score: 6.4
 ---
 
 A riverfront park at the North Shore end of the Walnut Street Bridge. The centerpiece is a hand-carved carousel made by local artisans at the nearby Herschell carousel workshop. The park has a large interactive fountain that children flock to in summer, open green space, and good views back across the river to downtown. A natural starting point for exploring the North Shore.

@@ -6,6 +6,7 @@ longitude: -118.2208
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 A long, narrow warm-water lake about 20 km east of Grand Forks on Highway 3. The water is reputedly the warmest swimming lake in British Columbia, and the small resort village at its southern end is a popular weekend destination for Kootenay families.

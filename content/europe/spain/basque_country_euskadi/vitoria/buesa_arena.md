@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - sport
+score: 7.1
 ---
 
 The home of Saski Baskonia, Vitoria's basketball club and one of the founding teams of the EuroLeague. The 15,000-seat arena, opened in 2008, also hosts concerts, conferences, and the city's New Year's Eve celebration.

@@ -8,6 +8,7 @@ latitude: 26.9232
 longitude: 75.8228
 address: Bapu Bazar, Pink City, Jaipur
 snippet: The old city's main shopping street for textiles, mojari shoes, and block-printed fabrics
+score: 6.3
 ---
 
 Bapu Bazaar is the principal shopping street of Jaipur's old city — a long, busy road lined with shops selling textiles, block-printed fabrics, leather mojari shoes, lace, brassware, and craft goods. It runs parallel to the city's main road inside the pink walls and is the place to shop if you want variety in one stretch.

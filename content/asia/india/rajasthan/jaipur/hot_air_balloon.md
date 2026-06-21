@@ -7,6 +7,7 @@ tags:
 latitude: 26.9855
 longitude: 75.8513
 snippet: Dawn balloon flights over Amber Fort and the Aravalli hills
+score: 6.8
 ---
 
 Hot air balloon flights from the Jaipur area — typically launching from near Amber Fort — are one of the best ways to see the forts, villages, and desert landscape from above. Flights launch at dawn to take advantage of stable air, usually lasting 45 minutes to an hour, and on clear days you can see Amber Fort, Jaigarh, the long defensive walls snaking along the Aravalli ridge, and the pink expanse of Jaipur spreading out beyond.

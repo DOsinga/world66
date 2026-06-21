@@ -5,6 +5,7 @@ tags: [eating_out, restaurant]
 snippet: "A Medan institution since 1934, with Indonesian and Dutch-colonial food and a famous ice cream parlour"
 latitude: 3.5853
 longitude: 98.6799
+score: 6.9
 ---
 
 Tip Top Restaurant opened in 1934 and is one of the oldest continuously operating restaurants in Sumatra. The Dutch colonial interior — ceiling fans, rattan chairs, white tablecloths — has been maintained with a certain deliberate nostalgia. The menu covers Indonesian standards alongside a few Dutch-influenced dishes, but the real draw is the ice cream parlour and bakery at the front, which turns out excellent cakes and ice cream in an era-appropriate setting.

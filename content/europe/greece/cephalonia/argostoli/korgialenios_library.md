@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 38.1768
 longitude: 20.4868
+score: 6.3
 ---
 
 The Korgialenios Library and History Museum occupies part of a building funded by the wealthy local Korgialenios family, whose philanthropy shaped Argostoli's cultural life in the late 19th and early 20th centuries. The history and folklore museum wing holds a collection of local paintings, traditional costumes, engravings, and photographs — including images of pre-earthquake Argostoli that show what the town looked like before 1953 levelled it.

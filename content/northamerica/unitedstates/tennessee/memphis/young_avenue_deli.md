@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - midtown
   - bar
+score: 6.3
 ---
 
 Young Avenue Deli sits at the heart of the Cooper-Young neighborhood, serving as the area's living room for over two decades. The bar is large by Cooper-Young standards, with a sizable outdoor patio that fills up on warm evenings, a rotating selection of draft beers that skews local and regional, and a kitchen that produces better-than-bar food — the fried pickles and the burgers are both worth ordering. Live music several nights a week, ranging from local acts to touring bands.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 31.3430
 longitude: 118.3540
+score: 7.2
 ---
 
 Hand-pulled shrimp noodles (虾子面) are Wuhu's most distinctive food contribution — thin wheat noodles served in a shrimp-based broth garnished with dried river shrimp that give the soup an intense umami depth. The dish has become an identity marker for the city, and locals are particular about the quality of the shrimp: the best versions use small dried Yangtze shrimp whose flavor is concentrated and complex in a way that the larger farmed shrimp common elsewhere cannot match.

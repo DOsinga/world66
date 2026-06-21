@@ -8,6 +8,7 @@ tags:
 latitude: 30.1842
 longitude: -95.4958
 story: "Dosey Doe has hosted Americana acts for decades — this is the venue where Texas singer-songwriters play when they're not headlining the big room. The intimate setting and good acoustics make for a much better live music experience than most venues three times its size."
+score: 6.8
 ---
 
 A live music venue and restaurant in The Woodlands with a focus on Americana, country, blues, and singer-songwriter acts. The main performance space is a converted barn that holds several hundred people, with good sight lines and decent sound. Shows run most weekends.

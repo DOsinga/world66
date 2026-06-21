@@ -8,6 +8,7 @@ latitude: 27.8421
 longitude: 113.1869
 story: >
   Longshan Temple is associated with the Zen Buddhist tradition and claims a foundation during the Tang dynasty, though the current buildings date from successive Ming and Qing reconstructions. The temple's name — Dragon Mountain — refers to the hill on which it stands, which the local geomantic tradition identifies as the tail of a dragon whose body extends beneath the city. Dragon associations with water sources were common in Chinese temple siting, and Zhuzhou's position on the Xiang River made dragon symbolism particularly appropriate.
+score: 6.5
 ---
 
 Longshan Temple stands on a hill in the eastern part of central Zhuzhou, a Buddhist complex with a Tang-dynasty founding tradition and Ming-dynasty construction. The main hall contains large bronze Buddhist figures and an active community of monks; incense smoke and the sound of chanting give the temple an atmosphere that contrasts usefully with the secular commemorative landscape of the Shennongcheng area.

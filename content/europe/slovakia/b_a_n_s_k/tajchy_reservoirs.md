@@ -15,6 +15,7 @@ story: >
   mines for over a century before steam power made it obsolete.
 sources:
   - https://en.wikipedia.org/wiki/Tajchy
+score: 8.1
 ---
 
 The tajchy — artificial water reservoirs built to support the mining industry — are one of the most unusual features of the Banská Štiavnica landscape. Scattered across the Štiavnica Hills in a broad arc around the town, they were built between the sixteenth and eighteenth centuries as part of an ingenious hydraulic system designed to manage water levels in the mines. Today they look simply like pleasant mountain lakes, attracting hikers, swimmers, and picnickers who may not realize they are walking around a feat of early modern engineering.

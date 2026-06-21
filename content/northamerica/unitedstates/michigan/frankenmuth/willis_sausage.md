@@ -7,6 +7,7 @@ tags:
   - eating_out
   - shopping
 address: 316 S Main St
+score: 6.1
 ---
 
 A small German butcher and smokehouse on Main Street, in business since 1958. The smoked meats — bratwurst, blutwurst, leberkäse, Bauernschinken — are made on the premises and sold from the counter in vacuum packs to take away. Sausages range from European-traditional to American-mall sweet, with samples freely offered.

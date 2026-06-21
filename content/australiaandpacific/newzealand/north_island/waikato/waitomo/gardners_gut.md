@@ -9,6 +9,7 @@ latitude: -38.2644
 longitude: 175.0751
 sources:
   - https://en.wikipedia.org/wiki/Gardner%27s_Gut
+score: 7.8
 ---
 
 Gardner's Gut is an extensive cave system south of the main Waitomo visitor area, less commercialized than the flagship attractions and accessible only on guided tours for serious cavers. The system connects underground with several other Waitomo cave networks and includes a significant underground river section.

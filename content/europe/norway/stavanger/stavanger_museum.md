@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 58.9647
 longitude: 5.7331
+score: 6.3
 ---
 
 The main natural and cultural history museum in Stavanger, established in 1877 and housed in a handsome building near the city park. The collections cover local natural history — Rogaland's geology, wildlife, and landscape — alongside cultural history from the Viking era through the industrial period. Rotating exhibitions supplement the permanent displays.

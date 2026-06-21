@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 51.8758
 longitude: -9.5595
+score: 7.8
 ---
 
 The Sheen river drops over a long staircase of rock just before it reaches Kenmare Bay, and the falls have been a beauty spot since Victorian times. The water is brown with peat, the rocks are slick with moss, and after rain the noise is impressive. A path along the bank from the bridge gives good views without going onto private hotel land.

@@ -6,6 +6,7 @@ longitude: 153.0918
 tags:
   - eating_out
   - restaurant
+score: 6.0
 ---
 
 Bistro C is the Hastings Street restaurant with the best position in Noosa: a wide deck directly above Main Beach, with the headland visible to the east and palm trees framing the view. It has been operating in the same spot for over twenty years, which on Hastings Street counts as institutional.

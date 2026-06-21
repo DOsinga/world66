@@ -6,6 +6,7 @@ latitude: 14.8453
 longitude: -91.5183
 story: >
   The park was originally designed in the neoclassical style during the coffee boom of the late 19th century, when Quetzaltenango briefly contemplated becoming the capital of an independent state called Los Altos. The Arco del Sexto Estado at the park's entrance commemorates that short-lived secession of 1838-1840. The city's neoclassical buildings — the Teatro Municipal, the Municipal Theatre, the Cathedral — were built to project the ambitions of a city that saw itself as a rival to Guatemala City.
+score: 8.1
 ---
 
 The central park of Quetzaltenango is one of the finest public squares in Central America, surrounded by the grand neoclassical buildings that reflect the city's coffee-boom prosperity. The Cathedral of the Diocese faces the main plaza, with busts of local scholars lining the portico of the Municipal Theatre opposite. The Casa de Cultura de Occidente on the south side houses a regional history museum with pre-Columbian ceramics, jade, and indigenous textiles — modest but worth an hour.

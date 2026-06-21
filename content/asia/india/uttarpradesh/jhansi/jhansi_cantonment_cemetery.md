@@ -10,6 +10,7 @@ story: >
   Among the graves in the cantonment cemetery are those of British soldiers killed in the 1857 siege — the same siege that ended with Rani Lakshmibai escaping over the fort wall. The stones are matter-of-fact: name, regiment, date. Several are dated April 1858, the month of the assault. Walking between the fort and the cemetery in an afternoon gives the revolt a human scale it rarely has in textbooks.
 sources:
   - https://en.wikipedia.org/wiki/Jhansi_Cantonment_Cemetery
+score: 7.2
 ---
 
 The Jhansi Cantonment Cemetery is one of the best-preserved colonial burial grounds in Uttar Pradesh. It sits in the cantonment area south of the old city, and contains graves of British soldiers and civilians spanning from the early 19th century through the colonial period. Many of the older stones date to the 1857 uprising and its immediate aftermath.

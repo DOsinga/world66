@@ -8,6 +8,7 @@ tags:
 address: 501 Atlantic Blvd, Atlantic Beach, FL
 latitude: 30.3319
 longitude: -81.3936
+score: 7.6
 ---
 
 Café Eleven is the best small music venue in the beaches area, a 300-capacity room in Atlantic Beach that books a mix of touring indie and folk acts, local bands, and the occasional major name doing an intimate show. The room has good acoustics, decent beer, and a sightline from virtually every point that makes it easy to see the stage.

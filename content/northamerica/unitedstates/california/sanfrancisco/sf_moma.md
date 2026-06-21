@@ -10,6 +10,7 @@ tags:
 title: SFMOMA
 type: poi
 url: www.sfmoma.org
+score: 8.9
 ---
 
 The San Francisco Museum of Modern Art reopened in 2016 after a major expansion that tripled its gallery space, making it one of the largest modern art museums in the country. The collection spans painting, sculpture, photography, and new media, with strong holdings in postwar American art.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 10.7866
 longitude: 79.1325
+score: 6.6
 ---
 
 The fortified walls and moat that surround the old city of Thanjavur are remnants of successive military engineering — begun under the Nayaka governors, reinforced by the Maratha rulers, and partially modified under British administration. The most intact stretches of the fort wall run along the western and southern sides of the old town, enclosing the Brihadisvara Temple and the Royal Palace within the same fortified precinct.

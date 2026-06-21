@@ -7,6 +7,7 @@ tags:
 - airport
 title: Jérémie Airport
 type: poi
+score: 2.0
 ---
 
 Jérémie Airport (JEE) is a small single-runway airport about 6 km west of town. Sunrise Airways operates short scheduled flights from Port-au-Prince — the trip is around 30 minutes in the air and saves a long, uncertain road journey.

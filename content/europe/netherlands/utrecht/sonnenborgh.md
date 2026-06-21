@@ -6,6 +6,7 @@ longitude: 5.1275
 tags:
 - things_to_do
 - museum
+score: 7.6
 ---
 
 An astronomy museum and working observatory built into a 16th-century bastion of Utrecht's old city walls. The combination is unexpected and charming: medieval brick fortifications housing telescopes, planetarium shows, and exhibitions about the universe. The bastion itself, one of the few surviving sections of the old defences, sits on the bank of the Singel moat.

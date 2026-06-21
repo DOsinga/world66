@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - bar
   - downtown
+score: 6.9
 ---
 
 Club Congress sits inside the Hotel Congress and is the best small live music venue in town — touring indie acts plus the city's own bands. Capacity is around 400, the floor is low, the booth lighting is moody, and the bar runs strong drinks.

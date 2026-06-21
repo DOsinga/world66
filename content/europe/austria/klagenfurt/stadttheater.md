@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
   - theatre
+score: 7.0
 ---
 
 Klagenfurt's city theatre is a handsome Jugendstil building, opened in 1910 and designed by Fellner and Helmer — the great Viennese theatre architects who built playhouses in Vienna, Prague, Odessa and a dozen other cities of the old Habsburg empire. The white-and-gold auditorium has been carefully restored.

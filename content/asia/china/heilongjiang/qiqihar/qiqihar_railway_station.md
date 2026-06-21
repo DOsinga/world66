@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 47.3372
 longitude: 123.9883
+score: 6.4
 ---
 
 Qiqihar's main railway station building dates from the Chinese Eastern Railway era of the early 20th century, and while the surrounding infrastructure has been thoroughly modernised, the original station structure retains a faded elegance that is recognisably Russian-influenced. The broad overhanging eaves, the proportions of the facade, and the general air of having been designed by engineers who expected an important future for this junction city are all characteristic of the CER's institutional architecture.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.0902
 longitude: 74.8391
+score: 8.4
 ---
 
 The path up Shankaracharya Hill, the 243 steps from the vehicle checkpoint to the temple at the summit, is one of the better short climbs available from the city. The steps are well-maintained stone, shaded for much of the way by trees, and the ascent takes 15 to 25 minutes depending on pace. Along the way, the city progressively reveals itself — the lake appears first at a gap in the trees, then the whole of central Srinagar comes into view, and finally from the summit the panorama extends to the Pir Panjal range to the south and the high peaks around Gulmarg visible on clear days.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A 50-metre slot canyon running invisibly through the middle of Pokhara
+score: 7.3
 ---
 
 One of Pokhara's stranger geological features: the Seti Gandaki river runs straight through the centre of the city, but is largely invisible — it has carved a narrow gorge so deep and so steep that you can stand on a bridge in **Mahendrapul** and barely see the water 50 metres below. The river is fed by Annapurna glaciers and carries fine grey silt that gives it the "white" name (seti = white in Nepali).

@@ -7,6 +7,7 @@ tags:
   - theatre
 latitude: 54.600
 longitude: -7.302
+score: 5.8
 ---
 
 The Strule Arts Centre is the cultural hub of Omagh and the surrounding area, a modern venue beside the Strule river with a 390-seat theatre, a cinema, an exhibition gallery, and a café. The programme covers touring theatre productions, local amateur performances, film screenings, and visual art exhibitions throughout the year.

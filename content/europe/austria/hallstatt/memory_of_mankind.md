@@ -12,6 +12,7 @@ story: >
   civilisation for tens of thousands of years. The salt seal that has
   preserved Bronze Age wooden tools is the only material humans currently
   know that can guarantee survival on geological timescales.
+score: 7.9
 ---
 
 Memory of Mankind is one of those quietly remarkable projects that hardly anyone visits but that captures the essence of Hallstatt's relationship with deep time. Founded by ceramicist Martin Kunze in 2012, it is an archive of fired-clay tablets storing texts, images, and personal stories chosen by contributors, deposited in a sealed chamber inside the salt mine.

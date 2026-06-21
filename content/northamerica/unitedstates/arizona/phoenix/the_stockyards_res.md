@@ -9,6 +9,7 @@ tags:
 - bar
 title: The Stockyards Restaurant & 1889 Saloon
 type: poi
+score: 6.4
 ---
 
 The Stockyards Restaurant & 1889 Saloon is the perfect place to go for a delicious dinner as well as a favorite cocktail. In terms of Phoenix restaurants, The Stockyards Restaurant & 1889 Saloon definitely ranks among the top places to eat and drink. Offering up delicious steaks, The Stockyards Restaurant & 1889 Saloon comes from a history of Old West charm. With its saloon style atmosphere, the restaurant is unique in both its decor and traditional approach to service. The steakhouse has been around for over 50 years and prides itself in its service as well as its focus on making and serving premiere steak.

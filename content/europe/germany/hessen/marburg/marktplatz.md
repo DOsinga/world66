@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 50.8083
 longitude: 8.7718
+score: 7.9
 ---
 
 The Marktplatz is the social heart of the old town and the best place to get a sense of Marburg's character. The square is surrounded by half-timbered buildings and dominated by the 16th-century Rathaus (town hall) with its staircase tower. The weekly market fills the square on Wednesdays and Saturdays, with farmers and food vendors from the surrounding Lahntal region.

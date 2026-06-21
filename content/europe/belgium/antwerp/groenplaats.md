@@ -8,6 +8,7 @@ tags:
 - square
 title: Groenplaats
 type: poi
+score: 6.8
 ---
 
 A large pedestrianised square between the Grote Markt and the Meir, ringed by café terraces and dominated by a 19th-century bronze statue of Rubens standing on a plinth in the centre. The square was built over the cathedral's old cemetery — the name means "Green Square" — and the Cathedral of Our Lady backs directly onto its northern edge.

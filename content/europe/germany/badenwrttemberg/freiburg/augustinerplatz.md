@@ -7,6 +7,7 @@ tags:
 snippet: "The most relaxed square in town, full of students on summer evenings"
 latitude: 47.99416
 longitude: 7.85219
+score: 7.5
 ---
 
 The Augustinerplatz, in front of the [Augustiner Museum](/europe/germany/badenwrttemberg/freiburg/augustiner_museum), is the place where Freiburg's students go to sit out summer evenings. The square slopes down from west to east, with broad sandstone steps that double as informal seating, and a couple of bars on the western edge that sell beer to take outside.

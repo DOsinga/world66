@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - food
+score: 4.8
 ---
 
 Krispy Kreme was founded in Winston-Salem in 1937 by Vernon Rudolph, who began selling hand-cut yeast doughnuts to local groceries from a leased space in the Old Salem area. Within a few years the original storefront moved to Stratford Road, where the now-iconic "Hot Doughnuts Now" neon sign was first lit.

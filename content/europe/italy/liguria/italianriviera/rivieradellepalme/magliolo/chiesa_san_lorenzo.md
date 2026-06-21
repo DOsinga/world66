@@ -6,6 +6,7 @@ longitude: 8.2500
 tags:
   - things_to_do
   - sight
+score: 6.0
 ---
 
 The parish church on the main square of Magliolo dates back to at least the medieval period, when the village was a possession of the bishops of Albenga. The current building has been rebuilt several times; the bell tower is the oldest visible element, with stone courses suggesting Romanesque foundations.

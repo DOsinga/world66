@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.8940
 longitude: -24.9790
+score: 6.4
 ---
 
 Praia de Laginha is the main city beach of Mindelo, a crescent of dark sand a short walk from the town centre along the Avenida Marginal waterfront. It is not the island's finest swimming beach — the water can be rough and the currents tricky — but it is the most accessible for those staying in Mindelo and the most animated in the late afternoon when the town comes down to watch the sunset and play football.

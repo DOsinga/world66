@@ -9,6 +9,7 @@ longitude: 88.6108
 sources:
   - https://en.wikipedia.org/wiki/Do-drul_Chorten
 story: "The stupa was built in 1945 by Trulshik Rinpoche as a symbol of peace after World War II. It contains holy relics and a complete set of religious texts. The 108 prayer wheels surrounding the base are considered especially powerful — circumambulating the stupa and spinning each wheel is believed to generate the merit of reading all the scriptures they contain."
+score: 7.7
 ---
 
 The Do-drul Chorten is one of the most significant stupas in Sikkim, a gleaming white dome in the heart of Gangtok topped by a golden spire. Built in 1945, it stands in the grounds of the Nyingma monastery complex and is surrounded by 108 prayer wheels — a sacred number in Tibetan Buddhism — that devotees spin as they walk the circumambulation path around the stupa.

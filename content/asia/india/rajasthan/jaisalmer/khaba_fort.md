@@ -7,6 +7,7 @@ tags:
 - sight
 title: Khaba Fort
 type: poi
+score: 6.7
 ---
 
 Khaba Fort is a ruined desert stronghold about 40 kilometres southwest of Jaisalmer, near the abandoned Paliwal village of Khaba. The fort itself is partially restored and open to visitors; from its ramparts you get long views across the flat desert terrain and, on clear days, can see dunes on the horizon. A small museum inside has modest displays on Paliwal Brahmin culture and the history of the fort.

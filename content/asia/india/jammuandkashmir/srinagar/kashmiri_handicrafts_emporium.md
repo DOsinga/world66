@@ -7,6 +7,7 @@ tags:
 latitude: 34.0850
 longitude: 74.7983
 address: "Residency Road, Srinagar"
+score: 6.9
 ---
 
 The government-run arts emporium on Residency Road is the most reliable single stop for Kashmiri handicrafts, particularly useful as a first purchase or as a reference point for quality and pricing. The stock covers the full range of Kashmiri crafts — pashmina shawls, silk and wool carpets, papier-mâché, crewel embroidery, walnut woodwork, and copper items — and carries a Government of India quality certification that provides some protection against the widespread adulteration problem in the pashmina trade.

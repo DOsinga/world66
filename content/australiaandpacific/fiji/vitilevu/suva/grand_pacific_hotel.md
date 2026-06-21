@@ -10,6 +10,7 @@ tags:
   - nasese
 neighbourhood: Nasese
 story: "Somerset Maugham wrote part of the South Seas stories that became The Trembling of a Leaf in the GPH's bar in 1916 — the hotel's pre-war guest book also lists Queen Elizabeth II, the Duke of Edinburgh, and the Queen of Tonga."
+score: 8.1
 ---
 
 The white colonial pile on the seafront opposite Albert Park, built in 1914 by the Union Steam Ship Company to receive passengers off the Pacific liners. The wide verandas, high-ceilinged lobby, and curved staircase are the most photographed pieces of colonial architecture in Fiji.

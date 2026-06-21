@@ -6,6 +6,7 @@ longitude: 49.8367
 tags:
   - things_to_do
   - museum
+score: 8.6
 ---
 
 The National Museum of History occupies the former mansion of Haji Zeynalabdin Tagiyev, one of the great Baku oil barons of the late nineteenth century. The building is reason enough to visit — three floors of opulent Belle Époque interiors, painted ceilings, parquet floors, and a small ballroom that has been kept exactly as it was when the oil money first started rolling in.

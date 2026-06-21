@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.6620
 longitude: -70.0740
+score: 6.9
 ---
 
 Bank Street Beach sits right at the edge of Harwich Port village, a short walk from the main street. The beach faces Nantucket Sound, so the water is calmer and noticeably warmer than on the Cape's north shore — good for swimming, particularly with children. The sand is soft and the beach fills up on summer afternoons but never reaches the crowds of the big resort beaches at Hyannis.

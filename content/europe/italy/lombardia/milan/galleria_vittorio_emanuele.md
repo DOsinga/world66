@@ -1,15 +1,17 @@
 ---
-title: "Galleria Vittorio Emanuele II"
-type: poi
-address: "Piazza del Duomo, 20121 Milan"
-admission: "Free"
+address: Piazza del Duomo, 20121 Milan
+admission: Free
 latitude: 45.4655
 longitude: 9.1906
+score: 7.9
 snippet: Italy's oldest active shopping gallery under a soaring iron-and-glass dome
 tags:
-  - things_to_do
-  - sight
-  - architecture
+- things_to_do
+- sight
+- architecture
+- centro_storico
+title: Galleria Vittorio Emanuele II
+type: poi
 ---
 
 Italy's oldest active shopping gallery, opened in 1877, connecting Piazza del Duomo to Piazza della Scala. The iron-and-glass arcade is one of the finest examples of 19th-century architecture in Italy — four storeys of mosaic floors, painted vaults, and a central octagon under a glass dome. The luxury shops and cafés are expensive, but walking through costs nothing.

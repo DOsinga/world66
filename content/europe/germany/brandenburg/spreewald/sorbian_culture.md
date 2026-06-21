@@ -8,6 +8,7 @@ latitude: 51.8700
 longitude: 13.9400
 story: >
   The Sorbs have maintained their language despite centuries of pressure to assimilate. During the Nazi period, Sorbian-language publications were banned and Sorbian place names replaced with German ones. The language survived through family transmission — today around 20,000 people still speak it, and it is taught in local schools.
+score: 7.2
 ---
 
 The Sorbs are a Slavic minority who have lived in the Spreewald and surrounding Lusatia for over a thousand years. Their culture is most visible in the village of Lehde and in the towns and villages around Cottbus in the south. Bilingual signs (German and Lower Sorbian) appear throughout the region, and Easter is the time when the most distinctive local tradition comes alive: the decoration of Ostereier (Easter eggs) in elaborate geometric patterns.

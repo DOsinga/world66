@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 22.2610
 longitude: 113.5510
+score: 7.8
 ---
 
 The outer islands of the Zhuhai archipelago retain working fishing village character that the manicured waterfront of the main city does not have. Several of these villages — Guishan Island, Dong'ao Island, and the communities on Wanshan Archipelago — have restaurants that serve the catch of the day cooked immediately, with minimal processing between the boat and the table. The grilled oysters and steamed crabs are the things to eat, prepared in styles that are Cantonese in technique but specific to the flavour of South China Sea shellfish.

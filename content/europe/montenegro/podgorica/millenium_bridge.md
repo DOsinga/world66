@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 42.4452
 longitude: 19.2581
+score: 6.0
 ---
 
 The Millennium Bridge is Podgorica's most photogenic modern landmark — a cable-stayed bridge spanning the Morača river, opened in 2005. The main pylon rises 75 metres above the road surface, making it visible from much of the city. At night the bridge is lit in colour and reflects off the river below.

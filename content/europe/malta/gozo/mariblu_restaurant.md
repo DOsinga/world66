@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Mariblu Restaurant & Pizzeria
 type: poi
+score: 4.3
 ---
 
 A family-run restaurant in Xewkija specialising in traditional Gozitan home cooking: rabbit in wine and garlic, stuffed aubergines, local fish soup, and gbejniet cheese pies. The food is prepared slowly in the old style and it is worth calling ahead to ask about the week's menu. The restaurant also serves pizza and has outdoor seating by a pool.

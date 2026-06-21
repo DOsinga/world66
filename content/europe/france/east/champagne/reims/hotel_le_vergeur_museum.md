@@ -12,6 +12,7 @@ story: >
   their ornamental stonework — doorways, window surrounds, carved fragments —
   was rescued and built into the garden walls. The result is a patchwork of
   architectural memory that nowhere else in the city could match.
+score: 7.9
 ---
 
 The Hôtel le Vergeur is a Gothic and Renaissance mansion on the Place du Forum, one of the few historic houses in Reims to have survived the First World War. It now houses a museum of the history of Reims, with notable holdings including a complete set of Dürer's Apocalypse engravings — one of only a handful of complete sets anywhere in the world.

@@ -12,6 +12,7 @@ tags:
 - sight
 title: Pangri Zampa Monastery
 type: poi
+score: 7.0
 ---
 
 A small 16th-century monastery on the northern outskirts of Thimphu, a few kilometres past Dechen Phodrang. The two white towers of Pangri Zampa are among the most photographed buildings in the area. The monastery is the official residence of Bhutan's royal astrologers and is a working religious institution — the atmosphere is quieter and less touristy than the main sites. The surrounding landscape — open fields, river, forested hills — is some of the most pleasant close to the city.

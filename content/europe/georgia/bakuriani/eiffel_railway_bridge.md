@@ -12,6 +12,7 @@ story: >
   Romanov commissioned Alexandre Gustave Eiffel — fresh from completing the Eiffel Tower — to
   design a bridge over the Tsemistskali River. The prefabricated ironwork was shipped to the
   Caucasus and assembled in 1902, and the bridge still carries trains today.
+score: 5.8
 ---
 
 On the narrow-gauge railway journey up from [Borjomi](/europe/georgia/borjomi) to Bakuriani, the train crosses a slender iron bridge over the Tsemistskali River gorge that was designed by Alexandre Gustave Eiffel and installed in 1902. The bridge is an unexpected piece of engineering history in a remote Georgian valley.

@@ -6,6 +6,7 @@ longitude: 23.3289
 tags:
   - bars_and_cafes
   - bar
+score: 6.7
 ---
 
 A cocktail bar in a renovated nineteenth-century house in the centre, with a courtyard garden that fills on summer evenings. The drinks list moves between classics done properly and contemporary work using Bulgarian distillates — rakia, rose-petal liqueurs, mountain herbs.

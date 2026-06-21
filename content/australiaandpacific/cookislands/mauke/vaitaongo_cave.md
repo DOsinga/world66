@@ -8,6 +8,7 @@ tags:
 - sight
 title: Vaitaongo Cave
 type: poi
+score: 8.1
 ---
 
 A short walk from Ngatiarua village, Vai Tango is the most-visited of Mauke's karst caves. A steep descent through a hole in the makatea opens into a cathedral-sized chamber with stalactites and a deep, cold pool of fresh water at the bottom. Bring a torch and reef shoes — the floor is slippery — and swim across the pool to a hidden side chamber.

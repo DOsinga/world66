@@ -9,6 +9,7 @@ latitude: -39.93920
 longitude: 175.04920
 story: >
   The Cemetery Circuit is named for the old Wanganui cemetery that sits inside one of the circuit's loops — riders effectively race around graves. It is classified as a street circuit because it uses public roads, closed for the event. The combination of the narrow streets, the steep climb up Cemetery Hill, and the cemetery itself makes it one of the most atmospheric motorcycle races in the world.
+score: 6.4
 ---
 
 The Cemetery Circuit is a temporary motorcycle street circuit in Wanganui that hosts the Wanganui Motorcycle Road Races each Boxing Day. The circuit winds through the old town cemetery on a loop of narrow residential streets — one of the few active racing circuits in the world where the course includes a graveyard.

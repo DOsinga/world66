@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.2403
 longitude: 36.0027
+score: 6.3
 ---
 
 Bekaa Kafra is a small village about 2 km south of Bcharre, and at around 1,750 m it claims the title of highest village in the Middle East. It is also the birthplace of Saint Charbel Makhlouf, the nineteenth-century Maronite monk and hermit who is one of the most venerated figures of the Lebanese church.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Lumut Waterfront
 type: poi
+score: 5.8
 ---
 
 Lumut is a small coastal town about 10km from Sitiawan and the embarkation point for Pangkor Island. The waterfront promenade runs along the strait between the mainland and the island, with views across to Pangkor's forested hills. Seafront cafes and restaurants make it a pleasant place to spend an afternoon before or after catching the ferry.

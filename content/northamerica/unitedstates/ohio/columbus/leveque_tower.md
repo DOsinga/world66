@@ -9,6 +9,7 @@ longitude: -83.0021
 snippet: "Columbus's most distinctive skyscraper — an Art Deco tower with Moorish ornamental details"
 sources:
   - https://en.wikipedia.org/wiki/LeVeque_Tower
+score: 7.1
 ---
 
 The LeVeque Tower is Columbus's most recognisable building, a 47-story Art Deco skyscraper from 1927 that dominates the downtown skyline with its octagonal crown and distinctive copper ornamentation. When it was built it was the tallest building in the world outside New York and Chicago — a reflection of how prosperous Columbus was in the 1920s.

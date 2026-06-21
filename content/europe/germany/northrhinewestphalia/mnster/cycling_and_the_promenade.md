@@ -13,6 +13,7 @@ story: >
   anywhere in Germany. The city's flatness and the grid of dedicated cycling paths make it
   genuinely pleasant: you can cycle from the station to the cathedral in ten minutes without
   once feeling threatened by traffic.
+score: 8.5
 ---
 
 Cycling is not just a transport option in Münster — it is the defining culture of the place. The Promenade, a 4.5-kilometre ring of tree-lined boulevard built on the old city walls and fortifications in the early 19th century, encircles the old town and is one of the great urban cycling routes in Germany. It is flat, wide, tree-shaded, and free of cars. A circuit takes about 20 minutes at a gentle pace, longer if you stop at the benches.

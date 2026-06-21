@@ -10,6 +10,7 @@ tags:
 - art_deco
 title: Casa Casuarina
 type: poi
+score: 6.7
 ---
 
 The ornate Mediterranean Revival mansion on Ocean Drive, modelled after the Alcázar de Colón in Santo Domingo, was built in 1930 and became internationally known as the Versace Mansion after fashion designer Gianni Versace bought it in 1992. Versace spent $33 million renovating and expanding the property, adding a south wing, a mosaic-tiled swimming pool lined with 24-karat gold, and lush gardens hidden behind the coral rock facade.

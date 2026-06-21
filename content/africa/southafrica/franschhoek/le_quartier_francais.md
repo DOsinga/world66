@@ -8,6 +8,7 @@ latitude: -33.91269
 longitude: 19.12090
 address: 16 Huguenot Road, Franschhoek 7690
 snippet: Long regarded as one of the finest restaurants in South Africa, combining Cape and Winelands produce with refined technique
+score: 7.8
 ---
 
 Le Quartier Français occupies a historic Cape Dutch building on Huguenot Road and has been at the centre of Franschhoek's food reputation since the 1990s. The restaurant's kitchen has been associated with some of South Africa's most prominent chefs, and its approach — precise technique applied to local and seasonal ingredients — helped establish the Winelands as a serious food destination.

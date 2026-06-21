@@ -9,6 +9,7 @@ latitude: -31.4198
 longitude: 152.9048
 address: 61 Billabong Drive, Port Macquarie NSW 2444
 snippet: Wildlife park with native Australian animals and free-roaming wallabies, wombats, and reptiles
+score: 6.4
 ---
 
 Billabong Zoo is a privately run wildlife park that focuses on native Australian species — kangaroos, wallabies, wombats, echidnas, dingoes, reptiles, and birds. The attraction for families is the chance to move among semi-tame animals: kangaroos and wallabies roam freely through much of the park and will approach visitors looking for food.

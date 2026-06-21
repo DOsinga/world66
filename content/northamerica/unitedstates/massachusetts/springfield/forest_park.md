@@ -12,6 +12,7 @@ story: >
   land specifically to prevent it from being developed and gave it to the city
   in 1884. The park's 735 acres make it the largest park in New England outside
   Boston and the third largest in Massachusetts overall.
+score: 6.6
 ---
 
 Forest Park is the green lung of Springfield — 735 acres of parkland on the southern edge of the city, with walking trails, a small zoo (the Forest Park Zoo, claimed to be one of the oldest in the country), picnic areas, and a pond. The Barney Mausoleum, an imposing structure visible from the main park road, marks the resting place of the land's original donor.

@@ -7,6 +7,7 @@ tags:
 - bar
 title: Diskothek Martinique
 type: poi
+score: 5.7
 ---
 
 The Martinique is a survivor: a 1970s discotheque on the eastern edge of Freudenstadt with a hydraulic dance floor that genuinely rises and falls during the night. Mirrored ceilings, the original Tropical-bar fittings, and a clientele that ranges from teenagers to nostalgic locals in their sixties make it the strangest place to be at midnight in the Northern Black Forest.

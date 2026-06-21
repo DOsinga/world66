@@ -6,6 +6,7 @@ tags:
 - sight
 title: Eastern Mennonite University
 type: poi
+score: 6.0
 ---
 
 Eastern Mennonite University is a small Mennonite liberal arts university on the northern edge of Harrisonburg, with around 2,000 students. It was founded in 1917 by the Mennonite Church and remains rooted in Mennonite values — service, peace, and community — while operating as a fully accredited liberal arts institution.

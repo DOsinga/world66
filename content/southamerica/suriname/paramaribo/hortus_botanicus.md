@@ -8,6 +8,7 @@ tags:
   - nature
 latitude: 5.8350
 longitude: -55.1700
+score: 5.7
 ---
 
 The Hortus Botanicus at the edge of Paramaribo includes a botanical garden and a small zoo with representatives of Surinamese wildlife. The garden section contains tropical trees and plants labelled with their scientific and local names — a useful primer for the rainforest botany you will encounter if you venture into the interior. The zoo has caimans, capybaras, ocelots, and various birds, though the facilities are modest.

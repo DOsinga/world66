@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 snippet: The medieval market square at the heart of the old town
+score: 7.8
 ---
 
 The Marktplatz is the starting point for any exploration of Wernigerode. The square is dominated by the Rathaus and surrounded by a collection of half-timbered merchants' houses in various colours and styles. On market days (Tuesday and Friday mornings), stalls selling local produce, sausage, and Harz honey fill the square. The Christmas market held here in December is one of the larger ones in Saxony-Anhalt.

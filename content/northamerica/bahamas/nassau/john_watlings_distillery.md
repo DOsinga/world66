@@ -7,6 +7,7 @@ tags:
   - downtown
 latitude: 25.0742
 longitude: -77.3475
+score: 7.8
 ---
 
 A small rum distillery in the restored 18th-century **Buena Vista Estate** house, a few blocks south of Bay Street. The distillery is named after John Watling, the English pirate captain who reputedly ran the Bahamas in the 1670s. They make a respectable range of pot-still rums in a corner of the property.

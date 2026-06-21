@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Glouton
 type: poi
+score: 6.8
 ---
 
 Glouton is the leading upscale restaurant in Belo Horizonte — a small, deliberately stripped-back room in Lourdes where chef Leo Paixão cooks a modern Brazilian menu that draws on Minas Gerais ingredients but pushes them into less familiar territory. The tasting menu changes constantly; the wine list leans Brazilian and South American.

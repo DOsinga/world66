@@ -7,6 +7,7 @@ tags:
 - bar
 type: poi
 snippet: The best concentration of bars in the old city, for aperitivo and late nights
+score: 5.8
 ---
 
 The bars around Piazza delle Erbe are the best place to experience Genoese nightlife. Tables fill from around 6pm for aperitivo — a spritz or local vermouth with snacks — and the crowd stays until well past midnight. Bibo Bar, Zeta Bar, and Bar Berto are longtime fixtures; none of them is particularly large, and all of them are perpetually full at weekends.

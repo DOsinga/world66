@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -41.8167
 longitude: 172.8500
+score: 8.2
 ---
 
 Nelson Lakes National Park occupies the northern tip of the Southern Alps, about 90 minutes south of Nelson, and presents a very different face from the coastal parks to the north. This is beech forest and alpine terrain — glacial lakes framed by mountains, with the bushy shores giving way quickly to open tussock and eventually permanent snow. Lake Rotoiti and Lake Rotoroa are the centres of the park, both accessible by road from the small settlement of St Arnaud.

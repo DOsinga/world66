@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 27.7980
 longitude: 114.9200
+score: 6.7
 ---
 
 The West Jiangxi War Resistance Museum documents the Xinyu region's experience of the Second Sino-Japanese War (1937–1945), a period in which the area saw significant military activity as Japanese forces pushed into Jiangxi from the north and east. The museum covers the specific battles fought in the region, the civilian experience of occupation and resistance, and the local figures who organized resistance operations.

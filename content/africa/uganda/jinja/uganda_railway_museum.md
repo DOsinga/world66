@@ -15,6 +15,7 @@ story: >
   live in Jinja today.
 sources:
   - https://en.wikipedia.org/wiki/Uganda_Railway_Museum
+score: 7.1
 ---
 
 The Uganda Railway Museum occupies the old Jinja railway station on the Jinja–Iganga highway, preserving steam locomotives and rolling stock from the colonial-era railway that once linked the town to Kampala and the coast. The collection is small but genuine — rusting engines, original signals, and period photographs that tell the story of how the railway transformed Uganda's economy in the early twentieth century.

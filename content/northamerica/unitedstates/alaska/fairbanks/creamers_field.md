@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 64.8569
 longitude: -147.7275
+score: 8.3
 ---
 
 Creamer's Field is a 2,000-acre migratory waterfowl refuge right in the middle of Fairbanks, occupying the site of a former dairy farm. Every spring and fall, thousands of sandhill cranes, Canada geese, and ducks stop here during their migration along the Tanana Valley flyway. In late April and early May, the fields fill with cranes — tall, elegant birds performing their hopping courtship dances.

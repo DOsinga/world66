@@ -7,6 +7,7 @@ tags:
 title: Helmsley
 type: poi
 snippet: "A market town on the edge of the North York Moors with a Norman castle, good food shops, and Rievaulx Abbey nearby"
+score: 8.2
 ---
 
 Helmsley is a handsome market town about 25 miles north of York on the southern edge of the North York Moors, and makes an excellent day trip combining a market town, a ruined castle, and one of England's finest abbeys. The town's market square is surrounded by independent shops, butchers, and a particularly good deli; the weekly Friday market has been held here since the 12th century. Helmsley Castle, an English Heritage property, is a substantial Norman keep with good displays on the Duncombe family who owned it through the post-medieval period.

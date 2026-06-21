@@ -15,6 +15,7 @@ story: >
   Cook Islands pearl exports. Cyclone Martin in November 1997 devastated the industry — waves
   swept across the low islets, destroying farms and killing more than a dozen people. The farms
   slowly rebuilt, though they never fully returned to pre-cyclone levels.
+score: 9.0
 ---
 
 Manihiki produces some of the finest cultured black pearls in the world. The lagoon floor is covered with oyster baskets and lines suspended at depth, tended by local divers who have refined the seeding and harvesting techniques over generations. Pearl farming is the economic backbone of the atoll — without it, there would be almost no cash income on Manihiki at all.

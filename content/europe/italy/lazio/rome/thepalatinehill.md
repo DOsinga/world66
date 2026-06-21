@@ -13,6 +13,7 @@ tags:
 - palace
 title: Palatine Hill
 type: poi
+score: 9.0
 ---
 
 The hill where Rome was legendarily founded, and the site of the successive imperial palaces whose ruins now cover most of its surface. Augustus built his modest house here near what was believed to be Romulus's hut; later emperors expanded on an ever-grander scale. The excavated ruins of several palaces, their rooms of marble and painted stucco now mostly open to the sky, spread across the hilltop.

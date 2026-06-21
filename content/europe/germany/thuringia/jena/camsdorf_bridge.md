@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.9285
 longitude: 11.5958
+score: 6.8
 ---
 
 The Camsdorf Bridge is the oldest stone arch bridge in Jena, crossing the Saale between the city centre and the suburb of Wenigenjena. It dates from the fourteenth century in its original form, though it has been modified and widened several times since. The bridge is now pedestrian and cycle only, which makes it a pleasant crossing and a good starting point for the riverside walks on both banks.

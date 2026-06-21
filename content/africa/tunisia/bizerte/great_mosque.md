@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 37.2766
 longitude: 9.8738
+score: 7.1
 ---
 
 The Great Mosque (*al-jami' al-kabir*) is the principal Friday mosque of the old city, built in 1652 by the Ottoman governor Hammouda Pasha al-Mouradi. The building sits at the heart of the medina, a few minutes' walk inland from the old port, and is recognisable by its square octagonal minaret with a small balcony halfway up — the standard Ottoman Tunisian style.

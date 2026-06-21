@@ -11,6 +11,7 @@ story: >
   On 4 April 1858, British forces breached the fort's walls after a two-week siege. Rani Lakshmibai, refusing to surrender, leapt from Khanderao Gate on horseback with her young son tied to her back. She made it to Kalpi, 60 kilometres away, and fought on for another two months before dying in battle at Gwalior. The spot from which she jumped is marked; stand there and look down at the drop, and the story stops being legend and becomes real.
 sources:
   - https://en.wikipedia.org/wiki/Jhansi_Fort
+score: 8.6
 ---
 
 Jhansi Fort stands on Bangra Hill, a granite outcrop that makes it visible from almost anywhere in the city. Virsingh Deo of Orchha built it in 1613, and it passed through Mughal, Maratha, and eventually British hands before becoming the stage for one of the most celebrated episodes in Indian history. The fort is substantial — roughly 3 kilometres of perimeter wall — with ten gates, a handful of temples inside, and the massive Kadak Bijli cannon still aimed at where the British lines once were.

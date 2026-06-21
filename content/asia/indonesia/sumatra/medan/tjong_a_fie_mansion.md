@@ -10,6 +10,7 @@ story: >
   one of the wealthiest men in Southeast Asia, controlling much of the city's land and
   the Medan-Belawan railway. He built this mansion in 1900 and maintained Chinese, Malay,
   and Dutch social circles simultaneously — a remarkable feat in colonial Sumatra.
+score: 8.3
 ---
 
 The Tjong A Fie Mansion is the most impressive private house in Medan — a large Sino-Portuguese two-storey building on Jalan Ahmad Yani, built in 1900 for Tjong A Fie, the Hakka Chinese merchant who became the most powerful man in colonial Medan. The building's interior is remarkably well-preserved: carved wooden screens, Delft tile floors, European furniture, and family portraits record the life of a man who moved comfortably between Chinese, Malay, and Dutch worlds.

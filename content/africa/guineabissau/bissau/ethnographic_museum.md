@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 11.85686
 longitude: -15.61081
+score: 7.6
 ---
 
 The National Ethnographic Museum (Museu Nacional de Etnografia) is Guinea-Bissau's main museum, housed in a former colonial villa on the western side of the city. The collection covers the country's extraordinary ethnic diversity — Guinea-Bissau has more than twenty distinct ethnic groups, each with its own traditions, crafts, and religious practices. Exhibits include masks, musical instruments, textiles, agricultural tools, and objects related to traditional animist ceremonies.

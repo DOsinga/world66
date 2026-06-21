@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.87333
 longitude: -159.45417
+score: 8.4
 ---
 
 Poipū Beach Park is consistently rated among the best beaches in the United States, and the accolades are justified: calm water on one side of a tombolo (a sand bar connecting the shore to a small rocky island) provides safe swimming even for children, while the more exposed side has waves suitable for beginning surfers. The water is warm, clear, and reliably sunny — the south shore of Kauai gets significantly less rain than the famous wet north coast.

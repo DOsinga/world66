@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Rocky reef shore with live coral accessible to snorkellers"
+score: 7.1
 ---
 
 On the south and southwest side of the island, the shoreline gives way to exposed reef and live coral formations visible from the surface. This is where the serious snorkelling happens. The coral is not spectacularly diverse by Red Sea or Maldivian standards, but it is genuine and worth the visit — colourful fish, sea urchins, and the occasional ray.

@@ -7,6 +7,7 @@ tags:
 title: Liaqat Bagh
 type: poi
 story: "On 16 October 1951, Pakistan's first prime minister Liaquat Ali Khan was shot dead while addressing a public meeting in what was then called Company Bagh. The assassin was killed immediately by police, and the circumstances of the killing were never properly investigated. Fifty-six years later, on 27 December 2007, former prime minister Benazir Bhutto was assassinated at the same park after a campaign rally. She had returned to Pakistan to contest elections after years in exile. A suicide bomber attacked her motorcade as she left; she died shortly after. The park was renamed Liaqat Bagh in honour of the first assassination, and the site of the second is marked by a small memorial. Two of the most consequential political killings in Pakistani history, the same patch of grass."
+score: 6.7
 ---
 Liaqat Bagh is a public park in central Rawalpindi, and it looks the part: trees, benches, families taking the evening air. What it does not look like is what it is — the location of two separate prime ministerial assassinations, fifty-six years apart, making it one of the most politically significant pieces of public space in South Asia.
 

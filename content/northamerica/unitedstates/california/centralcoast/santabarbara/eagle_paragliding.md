@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sport
 url: "www.eagleparagliding.com"
+score: 6.6
 ---
 
 Eagle Paragliding flies tandem and runs lessons from **Elings Park** above Santa Barbara — a hill that catches a reliable afternoon thermal coming off the Pacific. Tandem flights last about 20 minutes; multi-day pilot certification courses take you from first ground handling to your first solo.

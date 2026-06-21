@@ -10,6 +10,7 @@ tags:
 title: Camp John Hay
 type: poi
 url: campjohnhay.ph
+score: 7.8
 ---
 
 Camp John Hay sits on a thickly forested ridge above the southeastern edge of Baguio, on what was for nearly a century an American R&R base for soldiers and their families serving in the Philippines. Established in 1903 and named for John Hay, the Secretary of State who negotiated the cession of the islands from Spain, the camp was returned to the Philippines in 1991 and is now a mixed-use forest park with a golf course, hotels, log cabins, and walking trails through the pines.

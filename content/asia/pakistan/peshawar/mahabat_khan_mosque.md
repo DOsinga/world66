@@ -7,6 +7,7 @@ tags:
 snippet: "17th-century Mughal mosque with painted interiors — the finest in the city"
 latitude: 34.0089
 longitude: 71.5728
+score: 8.8
 ---
 
 Built in the mid-17th century by the governor Mahabat Khan during the reign of Aurangzeb, this is the most beautiful mosque in Peshawar and one of the finest Mughal mosques anywhere in Pakistan. The prayer hall is fronted by a large arcaded courtyard. The interior walls and ceiling carry delicate frescoes and painted floral patterns — unusually elaborate for a mosque, and partly repainted during the Sikh occupation of the city in the 19th century.

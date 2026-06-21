@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 7.5121
 longitude: -12.6069
+score: 7.8
 ---
 
 The mangrove forests and tidal mudflats around Sherbro Island support an exceptional diversity of waterbirds. The island sits at an important junction on the West African migration route, and during the dry season the mudflats fill with waders, herons, and shorebirds that have come from as far as Northern Europe. White-backed night herons, African fish eagles, and various kingfisher species are resident year-round. The migratory species include Eurasian curlews, grey plovers, and black-tailed godwits.

@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Koshari El Tahrir
 type: poi
+score: 5.8
 ---
 
 Koshari is Egypt's national dish: a layered bowl of rice, macaroni, lentils, fried onions, and tomato sauce spiked with cumin and vinegar. It sounds improbable but tastes magnificent, and Koshari El Tahrir is one of the most popular chains in the Greater Cairo area. Loud, busy, tiled, and utterly no-frills: you point at the size of bowl you want, it arrives in ninety seconds, and you eat standing or at a plastic counter.

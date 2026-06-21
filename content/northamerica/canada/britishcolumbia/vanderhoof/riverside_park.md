@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.6
 ---
 
 Riverside Park sits on the south bank of the Nechako, a few minutes' walk north of the highway. There is a grass field, picnic shelters, a boat launch, and a paved path along the river that connects to the bird sanctuary trail. In summer locals swim from the gravel bars; in winter the river ice draws skaters when the wind keeps the snow off it.

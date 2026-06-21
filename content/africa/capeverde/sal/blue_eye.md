@@ -11,6 +11,7 @@ story: >
   is at the right angle — typically late morning on sunny days. Too cloudy
   or too late in the afternoon and the famous "eye" is just a dark hole.
   Tour operators usually time visits accordingly.
+score: 7.5
 ---
 
 Buracona, on the northwest coast of Sal near the village of Santa Maria da Espargos, is a volcanic rock formation where the sea has carved a tunnel through the lava. At the right time of day, sunlight enters the tunnel from below the waterline and illuminates the pool at the far end with a vivid, luminous blue — the "Blue Eye." The effect is striking when conditions cooperate.

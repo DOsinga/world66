@@ -8,6 +8,7 @@ latitude: 44.2524
 longitude: 9.4049
 sources:
   - https://en.wikipedia.org/wiki/Punta_Manara
+score: 8.2
 ---
 
 Punta Manara is the southern tip of the promontory between Sestri Levante and Riva Trigoso, reached by a pleasant coastal walk of about 45 minutes from the Baia delle Favole. The path winds through Mediterranean scrub — cistus, rosemary, and wild thyme — with views of the open sea and back toward the Cinque Terre on clear days.

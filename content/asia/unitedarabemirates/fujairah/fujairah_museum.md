@@ -13,6 +13,7 @@ story: >
   after the death of the Prophet Muhammad when several Arabian tribes attempted
   to break away from the nascent caliphate. The battlefield is just up the road,
   and the museum puts the artefacts in context.
+score: 7.1
 ---
 
 Fujairah Museum stands near the fort in the old part of the city and holds the emirate's main collection of archaeological finds and historical objects. The displays cover pre-Islamic Arabia through the Islamic period, with particular depth on the Bronze Age sites that dot the Fujairah landscape — Khor Kalba, Qidfa, and the finds from the ancient cemetery at Qusaydah. Weapons, pottery, jewellery, and incense burners make up much of the collection, alongside a heritage section on traditional Fujairah life: fishing, pearl diving, and falconry.

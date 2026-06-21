@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
   - sight
+score: 8.5
 ---
 
 The High Court was the first of the Capitol Complex buildings to be completed, finished in 1955. Le Corbusier raised the courtrooms on a deep portico and painted the three structural piers in bold green, yellow and red, an unexpectedly playful gesture at the front of a building dedicated to judicial gravity.

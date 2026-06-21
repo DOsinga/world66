@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 30.197777
 longitude: 71.474166
+score: 5.7
 ---
 
 The **Ibn-e-Qasim Bagh Stadium** — also known as the **Qila Kohna Qasim Bagh Stadium** — sits inside the old Multan Fort mound, on what was once the central parade ground of the citadel. It is the city's main athletics and football venue, with a 35,000-seat capacity and an unusual location: from the upper tier of seats you can look across the pitch and see the tiled dome of Shah Rukn-e-Alam rising directly behind the goal.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, sport]
 latitude: -36.3770
 longitude: 145.4079
+score: 6.6
 ---
 
 Deakin Reserve is the main sports ground for the Goulburn Valley — a large turf oval used for cricket and Australian Rules Football. The Greater Shepparton Football Netball Club plays here, and the ground hosts some high-level regional cricket during summer.

@@ -8,6 +8,7 @@ latitude: 37.1125
 longitude: 79.9067
 story: >
   Among the museum's most remarkable holdings are mummies from the desert sites — naturally preserved by the Taklamakan's extreme aridity — including the famous Niya mummies. Their features and the textiles buried with them reveal a population that was neither Chinese nor Turkic, connected instead to the Tocharian peoples whose language has been deciphered from birchbark manuscripts found in the same desert.
+score: 8.8
 ---
 
 The Hotan Cultural Museum is the best place to understand what this city was before the Islamic conversion of the 10th century swept away the Buddhist civilisation that had thrived here for centuries. The collection draws on excavations at the lost cities buried in the Taklamakan — Niya, Dandan Oilik, Rawak — sites that were rediscovered by European explorers in the late 19th century and subsequently excavated by Aurel Stein and others, much of whose finds went to London and Delhi.

@@ -14,6 +14,7 @@ story: >
   one of the dishes Chileans associate most strongly with their national food culture.
 sources:
   - https://en.wikipedia.org/wiki/Chill%C3%A1n
+score: 7.8
 ---
 
 The Feria de Chillán is one of the largest and best outdoor markets in central Chile. Spread across several blocks in the city centre, it operates daily and sells everything from fresh produce and meat to leather goods, woven textiles, ceramics, and household tools. The market has a more working character than most tourist markets — the vendors are there for local customers, not for visitors — which is exactly what makes it worth visiting.

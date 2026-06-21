@@ -15,6 +15,7 @@ story: >
   part retreat. He wrote several books here, but Ben-Hur — which he had largely drafted before
   the building was finished — became the best-selling novel of the 19th century and was adapted
   into film multiple times, including the famous 1959 Charlton Heston version.
+score: 8.4
 ---
 
 Lew Wallace was one of the more improbable figures of 19th-century American life: a Union general who served at Shiloh, the first governor of New Mexico Territory, ambassador to the Ottoman Empire, and author of *Ben-Hur: A Tale of the Christ*, which was for decades the best-selling novel ever written in the United States. He lived in Crawfordsville most of his life, and his study — a fantastical Romanesque building he designed himself and spent a decade building — still stands next to his house on a quiet residential block.

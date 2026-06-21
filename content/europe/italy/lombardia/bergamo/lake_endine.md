@@ -9,6 +9,7 @@ tags:
 - day_trips
 title: Lake Endine
 type: poi
+score: 6.5
 ---
 
 A small, quiet lake in the Val Cavallina, about 40 minutes by bus from Bergamo. Lake Endine gets a fraction of the visitors that Como or Garda attract, which is exactly its appeal. The mountains reflect cleanly in the water, and the surrounding villages feel genuinely unhurried.

@@ -14,6 +14,7 @@ story: >
   acoustic environment that matched its ambitions.
 sources:
   - https://en.wikipedia.org/wiki/Winspear_Centre
+score: 7.0
 ---
 
 The Francis Winspear Centre for Music is Edmonton's major performing arts venue and home to the Edmonton Symphony Orchestra. The hall seats 1,932 and was designed specifically for orchestral performance — the acoustics are widely regarded as among the best in Canada. The organ, the Davis Concert Organ, has 6,889 pipes and is one of the largest concert organs in the world.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.2835
 longitude: -8.6098
+score: 5.9
 ---
 
 The parish church of Santiago de Redondela stands at the heart of the old town, a solid baroque structure that anchors the historic centre. As a stop on the Camino Portugués, the church holds particular significance for pilgrims — the shell motif appears throughout the building, and a stone marker in the square outside notes the distance to Santiago de Compostela. The church itself is relatively plain by Galician baroque standards, but the square around it is a good place to sit and watch the morning pilgrims pass.

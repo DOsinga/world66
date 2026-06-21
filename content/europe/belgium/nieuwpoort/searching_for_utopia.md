@@ -9,6 +9,7 @@ latitude: 51.1486
 longitude: 2.7400
 story: >
   The Belgian artist Jean-Michel Folon designed the bronze in 2002 — a small human figure riding the back of a vast, hopeful sea turtle. After his death in 2005 the family donated it to Nieuwpoort, where it has become an unexpected landmark on the Belgian coast.
+score: 6.9
 ---
 
 A four-metre-long bronze sea turtle, its head and shell glinting in the sun, with a small reclining figure riding it. The sculpture sits on a low rise in the dunes near the marina, looking north over the sea. It is one of those works that genuinely justifies the short detour: the scale, the polished metal, and the slightly absurd dignity of the rider make it strangely affecting.

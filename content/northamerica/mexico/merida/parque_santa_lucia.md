@@ -8,6 +8,7 @@ tags:
 latitude: 20.9703
 longitude: -89.6233
 snippet: Shaded park with Thursday evening serenades and Sunday artisan market
+score: 7.8
 ---
 
 Parque Santa Lucía, a few blocks north of the Plaza Mayor on Calle 60, is one of the most pleasant public spaces in the city. The park occupies a shaded square that has been a neighbourhood gathering point since the colonial era — it was originally an area where travellers arriving from the interior would rest their horses. The surrounding arcades have cafes and restaurants that spill onto the pavement, making it a good place to sit in the evenings when the heat has eased.

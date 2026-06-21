@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.2053
 longitude: 3.2242
+score: 7.7
 ---
 
 The short canal boat tours that depart from several landing stages around the city centre are one of Bruges's most popular activities, and for good reason — the view of the historic buildings from water level is quite different from the street view, and the low bridges, stone quays, and overhanging willows make for an atmospheric half-hour. Tours run continuously throughout the day and take about 30 minutes; no booking required, just join the queue.

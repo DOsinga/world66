@@ -13,6 +13,7 @@ story: >
   World War were reinterred here from a cemetery in Vimy Ridge, France. The
   ceremony was watched live by millions and became one of the most watched
   broadcasts in Canadian television history.
+score: 6.6
 ---
 
 The National War Memorial stands at Confederation Square, at the foot of Parliament Hill, and has been the emotional heart of Ottawa since its unveiling in 1939. The tall granite arch is surmounted by bronze allegorical figures representing peace and freedom, with a procession of twenty-two bronze soldiers, sailors and nurses marching through the arch beneath them. The monument is rarely quiet: at its base sits the Tomb of the Unknown Soldier, with a perpetual honour guard during daylight hours.

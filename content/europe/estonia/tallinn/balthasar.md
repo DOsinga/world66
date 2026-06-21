@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Balthasar
 type: poi
+score: 6.6
 ---
 
 A garlic restaurant on Town Hall Square — every dish has garlic in it, including the desserts. A Tallinn institution and a reliably fun Old Town dinner, especially in its medieval-styled first-floor dining room.

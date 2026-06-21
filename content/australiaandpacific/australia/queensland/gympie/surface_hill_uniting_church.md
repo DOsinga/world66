@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.1
 ---
 
 A pretty 1880s sandstone church on Channon Street, originally Presbyterian and now part of the Uniting Church. It sits on a low hill above the western end of the town centre and is one of the best Gothic Revival buildings in the region.

@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 5.9
 ---
 
 A large, glassy seafood restaurant on Beach Road, the Patong branch of a Bangkok institution. Tanks at the entrance show off live grouper, lobster, mangrove crabs, and tiger prawns, all priced by weight; pick what you want and choose how to have it cooked — steamed with garlic and ginger, grilled with chilli sauce, or fried whole in a tamarind glaze.

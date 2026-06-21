@@ -14,6 +14,7 @@ story: >
   rang the alarm and woke the sleeping villagers. The octopus still appears in
   Tellaro's coat of arms, a piece of heraldry you are unlikely to encounter anywhere
   else in Italy.
+score: 8.4
 ---
 
 Tellaro sits on a narrow cliff about 5 km south of Lerici, perched above the sea in a way that makes it look as if it grew from the rock itself. The village has no through road — you park at the edge and walk in. The cluster of coloured houses, the church at the cliff's lip, and the total absence of anything commercial combine to make it one of the more photogenic villages on the Ligurian coast.

@@ -1,17 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-  location_enrich: '2026-05-29'
+  location_enrich: '2026-06-02'
+image: scottsbluff.jpg
+image_attribution: Podruznik at English Wikipedia
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Covered_Wagon_In_Scotts_Bluff_National_Monument,_Nebraska.jpg
 latitude: 41.855579
 loc_type: city
 longitude: -103.70883
 score: 0.38
 title: Scotts Bluff
 type: location
-image: scottsbluff.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Covered_Wagon_In_Scotts_Bluff_National_Monument,_Nebraska.jpg
-image_license: Public domain
-image_attribution: Podruznik at English Wikipedia
 ---
 
 Scotts Bluff sits in the western Nebraska Panhandle on the North Platte River, best known for the dramatic sandstone formation that towers 800 feet above the valley and gave both the city and the national monument their names. The bluff was one of the most recognisable landmarks on the 19th-century emigrant trails — the Oregon, California, and Mormon trails all converged here, passing through [Mitchell Pass](/northamerica/unitedstates/nebraska/scottsbluff/mitchell_pass) in its shadow.

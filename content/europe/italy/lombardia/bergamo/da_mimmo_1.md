@@ -10,6 +10,7 @@ tags:
 title: Da Mimmo
 type: poi
 url: www.ristorantemimmo.com
+score: 5.7
 ---
 
 Pizza and beer or regular restaurant with a white table cloth and an outdoor garden patio for the summer. In the Upper Town.

@@ -12,6 +12,7 @@ story: >
   being developed. When President Roosevelt asked to name it after Kent, Kent insisted it be
   named after his friend John Muir instead. Muir wrote back: "This is the best tree-lover's
   monument that could possibly be found."
+score: 9.0
 ---
 
 Muir Woods National Monument preserves one of the last remaining old-growth coastal redwood forests in the San Francisco Bay Area, and it is extraordinarily beautiful. The ancient trees rise 200-plus feet from a cool, dim forest floor; Cathedral Grove has specimens over a thousand years old. The main valley trail is flat, easy walking, and can be done in about an hour, though side trails climb steeply into the surrounding hills.

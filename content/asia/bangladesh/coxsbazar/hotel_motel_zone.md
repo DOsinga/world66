@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Hotel Motel Zone
 type: poi
+score: 4.4
 ---
 
 The Hotel Motel Zone is the spine of Cox's Bazar tourism — a strip of hotels, restaurants, souvenir shops, and beach access points running along the coast road south of the town centre toward Kolatoli. Most visitors to Cox's Bazar stay somewhere in this zone.

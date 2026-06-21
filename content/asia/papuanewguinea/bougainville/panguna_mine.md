@@ -9,6 +9,7 @@ longitude: 155.4950
 story: "The Panguna mine was, at its peak, one of the largest open-pit copper mines in the world, generating around 45% of Papua New Guinea's national export revenue. When the Bougainville Revolutionary Army began sabotaging its operations in 1988 — angered by environmental destruction and the inequitable distribution of royalties — the PNG government responded with military force, triggering a war that killed more than 15,000 people and lasted a decade."
 sources:
   - https://en.wikipedia.org/wiki/Panguna_mine
+score: 8.2
 ---
 
 The Panguna Mine sits in the mountains of central Bougainville, about 60 km south of Buka. Opened in 1972 by Bougainville Copper Limited (a subsidiary of Rio Tinto), it was one of the largest copper operations on earth, with an estimated reserve of 5.3 billion tonnes of ore also containing nearly 20 million ounces of gold. At its peak it generated close to half of Papua New Guinea's total export earnings.

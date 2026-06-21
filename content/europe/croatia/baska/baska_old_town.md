@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.4
 ---
 
 The compact old town climbs the slope behind the beach in a tangle of narrow stone streets, with whitewashed houses and the occasional shaded courtyard. The Church of the Holy Trinity (Sveta Trojica), the main parish church, sits at the upper end and is open most mornings; it has a baroque interior and a small treasury.

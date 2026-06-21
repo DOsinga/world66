@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 12.4200
 longitude: -16.4000
+score: 8.4
 ---
 
 The Casamance is Diola country, and the region's traditional villages — connected by sandy paths through forest and paddy field — are one of the most rewarding things to explore here. Unlike the Muslim-majority north of Senegal, the Diola have maintained a strong animist tradition alongside Christianity and Islam, and many rituals of the rice-farming cycle are still observed.

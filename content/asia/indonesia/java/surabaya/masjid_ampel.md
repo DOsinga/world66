@@ -12,6 +12,7 @@ story: >
   from across the archipelago come to pray here. The surrounding Arab quarter has been a trading
   hub since at least the 14th century, when Arab merchants first settled along this stretch of the
   Mas River.
+score: 8.2
 ---
 
 Masjid Ampel is the oldest mosque in Surabaya and one of the most important Islamic sites in East Java. It stands at the heart of the Arab quarter — Kampung Arab — reached through a covered bazaar on Jalan Ampel Suci that sells prayer beads, perfume, batik, and dates.

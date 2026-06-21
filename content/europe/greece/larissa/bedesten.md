@@ -9,6 +9,7 @@ latitude: 39.6415
 longitude: 22.4158
 sources:
   - https://en.wikipedia.org/wiki/Bedesten_of_Larissa
+score: 7.2
 ---
 
 The bedesten (from the Turkish word for a covered market building) in Larissa is an Ottoman-era enclosed commercial structure, one of the few remaining examples of this building type in Greece. Bedestenlar were the anchors of Ottoman commercial life — secure, covered arcades where merchants stored and sold valuable goods, from textiles to spices to metalwork. The Larissa bedesten dates from the 17th century, when the city was a major trading hub on the route between Istanbul and western Greece.

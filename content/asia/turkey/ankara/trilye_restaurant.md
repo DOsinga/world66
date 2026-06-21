@@ -14,6 +14,7 @@ tags:
 title: Trilye Restaurant
 type: poi
 url: www.trilye.com.tr
+score: 5.8
 ---
 
 A renowned fine-dining seafood restaurant in the Gaziosmanpasa district. The owner is known for inventive dishes — octopus with damson plum and fish with sesame are signatures. The mezes are excellent, and a palate-cleansing interlude is served between the mezes and the main course. Valet parking available; reservations required one to two days in advance. Expect to spend US$40 and up per person.

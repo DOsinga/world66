@@ -10,6 +10,7 @@ latitude: 43.615
 longitude: -116.2014
 story: >
   The Egyptian opened in 1927, part of the wave of Egyptian Revival architecture that swept the United States after the discovery of Tutankhamun's tomb in 1922. Boise's version is one of the best-preserved in the country: the original terracotta facade, hieroglyphic friezes, and atmospheric organ are all intact. The Egyptian has operated as a cinema nearly continuously for nearly a century.
+score: 7.2
 ---
 
 The Egyptian Theatre on Main Street is Boise's finest piece of period architecture. Built in 1927 in the Egyptian Revival style — a national craze sparked by Howard Carter's discovery of Tutankhamun's tomb — it retains its original terra-cotta facade with hieroglyphic friezes, winged scarabs, and a marquee that has been unchanged in its basic form since the 1920s.

@@ -9,6 +9,7 @@ latitude: 44.2930
 longitude: 8.4050
 sources:
   - https://en.wikipedia.org/wiki/Quiliano
+score: 6.4
 ---
 
 At the entrance to the Quiliano valley, the church of San Pietro a Carpignana stands with its 15th-century campanile, preserving original Romanesque stonework beneath later additions. The combination of Romanesque structure and Renaissance tower is characteristic of the smaller Ligurian churches that never had the funds for a complete rebuild.

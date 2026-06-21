@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - restaurant
   - bar
+score: 5.8
 ---
 
 Eel River Brewing in Fortuna is the country's first certified organic brewery, founded in 1995. The taproom and grill on Stewart Street is a long, dim wooden room with a smoking grill out the back, a row of taps along the bar, and a beer garden under big trees that fills up on summer evenings.

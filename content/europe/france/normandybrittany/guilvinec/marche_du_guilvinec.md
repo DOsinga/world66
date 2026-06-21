@@ -7,6 +7,7 @@ tags:
 latitude: 47.7990
 longitude: -4.2845
 snippet: 'Twice-weekly market on Tuesday and Sunday mornings with fresh seafood, Breton cheese, cider, and local produce.'
+score: 6.5
 ---
 
 The Guilvinec market runs every Tuesday and Sunday morning from 9am to around 1pm, and it is one of the bigger markets in Pays Bigouden. In summer the stalls spread along Rue de la Marine in the centre of town; in winter things contract to Place de l'Eglise, but the quality stays the same. Fish and shellfish are the obvious draw, sold by fishermen's wives and local poissoniers who know exactly which boat landed what.

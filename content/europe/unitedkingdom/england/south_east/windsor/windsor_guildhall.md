@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The columns inside the Guildhall don't quite touch the ceiling. The town council insisted that Sir Christopher Wren add support pillars when he designed the building in 1689; Wren, certain that the floor above could span unsupported, complied — but left a deliberate gap between the new columns and the ceiling to prove he had been right."
+score: 6.7
 ---
 
 Windsor Guildhall, on the High Street opposite the castle, is the historic town hall of Windsor — a brick-and-Portland-stone building completed in 1689 to designs probably by Sir Christopher Wren. The ground floor is an open arcade where markets were once held; the council chamber and assembly rooms are upstairs.

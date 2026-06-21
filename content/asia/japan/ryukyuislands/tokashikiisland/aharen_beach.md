@@ -11,6 +11,7 @@ story: >
   Aharen Beach is a main reason why. Japanese marine biologists have
   documented over 200 species of coral in the waters around the Keramas —
   more diversity than almost anywhere in Japan.
+score: 8.3
 ---
 
 Aharen Beach is the social hub of Tokashiki Island — a crescent of white sand on the south coast, sheltered by a headland and backed by the small village of Aharen. The water is exceptionally clear, with extensive reef just offshore; you can snorkel from the beach without a boat.

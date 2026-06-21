@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.1269
 longitude: 15.0792
+score: 4.9
 ---
 
 Chad's parliament building occupies a prominent position on one of the main avenues east of the city centre. The structure dates from the colonial period, and despite subsequent renovations and additions it retains some of the civic ambition of the late French administration. The building is not open to visitors, but the exterior and the surrounding tree-lined avenue are worth seeing as a piece of the city's official geography.

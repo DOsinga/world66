@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.9680
 longitude: -122.5110
+score: 7.8
 ---
 
 The Museum of International Propaganda is a free and genuinely fascinating collection built from one couple's decades-long obsession with state-sponsored persuasion. The exhibit covers Soviet socialist realism, Nazi Germany, Maoist China, and Cold War America in equal measure, showing how different ideological regimes used art, posters, and imagery to shape public consciousness.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.8850
 longitude: -4.0600
+score: 8.1
 ---
 
 The Barranco de los Cazadores — the Gorge of the Hunters — cuts through the limestone massif of the Sierra de Tejeda just above Canillas de Aceituno and offers one of the most dramatic walks in the Axarquía. The trail follows a seasonal stream into a narrowing canyon where the walls close in to form shaded passages, and the route involves some easy scrambling over boulders and stream crossings.

@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Lokalität Spätschicht
 type: poi
+score: 5.4
 ---
 
 A strange and memorable blend of tavern, smithy, and metalworking shop, decorated in 1920s industrial style. In summer there's a beer garden with 60 seats. One of the more characterful places to eat and drink in Halle.

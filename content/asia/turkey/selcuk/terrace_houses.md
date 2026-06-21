@@ -6,6 +6,7 @@ longitude: 27.3417
 tags:
   - things_to_do
   - sight
+score: 9.0
 ---
 
 The Terrace Houses are a separately ticketed section of the Ephesus archaeological site, enclosed under a modern protective roof on the south side of Curetes Street. Seven Roman houses — built into the hillside in terraced rows from the 1st century BC through the 3rd century AD — preserve frescoed walls, mosaic floors, marble inlay, and even some original wooden door fragments.

@@ -8,6 +8,7 @@ title: Oregon Dunes National Recreation Area
 type: poi
 story: >
   The Oregon Dunes inspired Frank Herbert's 1965 novel Dune — the author visited the coast repeatedly while writing, and the specific combination of wind, sand, and the tension between open desert and encroaching forest shaped his imaginary desert planet. Herbert published a 1957 article on the dunes for a travel magazine that never ran; he kept expanding it until it became a novel.
+score: 8.3
 ---
 
 The Oregon Dunes stretch for 40 miles along the coast from Florence to Coos Bay, forming the largest expanse of temperate coastal sand dunes in the world. The southernmost section, nearest Coos Bay, is accessible from the Horsfall and Spinreel areas just north of town. The dunes reach heights of 500 feet in places, and the scale is genuinely disorienting — you crest a ridge expecting to see the ocean and find another ridge of sand beyond it.

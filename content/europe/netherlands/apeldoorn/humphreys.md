@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Humphrey's
 type: poi
+score: 4.3
 ---
 
 Part of the nationwide Humphrey's restaurant chain, this branch sits on Apeldoorn's main shopping street. The menu runs to internationally-flavoured dishes -- salads, pastas, steaks -- in a contemporary dining-room setting. It's a reliable if unsurprising option for lunch or dinner while exploring the town centre.

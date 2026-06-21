@@ -8,6 +8,7 @@ latitude: 38.1636
 longitude: -92.7189
 sources:
   - https://en.wikipedia.org/wiki/Party_Cove
+score: 5.7
 ---
 
 Anderson Hollow Cove, at the zero-mile marker on the lake's main channel, has been gathering boaters since the 1950s and is now known as Party Cove — one of the most famous boat-up gathering spots in the United States. On summer weekends, hundreds of boats raft together in the cove; people swim between them, music plays from every direction, and the scene builds through the afternoon.

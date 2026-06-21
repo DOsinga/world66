@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 50.8266
 longitude: -0.1726
+score: 6.8
 ---
 
 Hove is technically a separate town — Brighton and Hove together form the city — but it functions as Brighton's western neighbour, quieter and more residential, with long avenues of Regency and Victorian terraces and a seafront that gets progressively less crowded as you walk west from the Palace Pier. The "I live in Hove, actually" joke about residents who technically live in Brighton has become a local cliché, which tells you something about the neighbourhood's self-image.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: City park with the 1939 archway, a small zoo, swimming pool and golf course
+score: 5.8
 ---
 
 Hillcrest Park, on the eastern edge of town, is the largest public green space in Clovis and a good place to walk in the cooler hours of the day. The 1939–40 stone archway over the entrance road, built with Works Progress Administration money, is on the National Register and is a fine piece of New Deal architecture.

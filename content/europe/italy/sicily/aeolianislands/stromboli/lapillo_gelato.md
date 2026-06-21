@@ -6,6 +6,7 @@ longitude: 15.2326
 tags:
   - eating_out
   - restaurant
+score: 4.8
 ---
 
 Lapillo, just off the small piazza by the church, makes the best gelato on the island. The flavours rotate with what is in season — ricotta and pistacchio of Bronte are reliable, the granita of mulberry or almond is excellent on a hot afternoon.

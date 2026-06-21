@@ -6,6 +6,7 @@ longitude: -65.3167
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 About 10 km north of Humahuaca, the pre-Inca terraces and stone foundations of Coctaca cover some 40 hectares — one of the largest archaeological sites in the Argentine northwest. The terraces were used for agriculture and the rectangular enclosures probably for storage and seasonal habitation. The site has been only lightly excavated and is essentially open: there is no ticket office most days, just a track in from the village of Coctaca.

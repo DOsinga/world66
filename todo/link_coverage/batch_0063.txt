@@ -1,0 +1,5 @@
+europe/slovakia/piestany
+europe/slovakia/presov
+europe/slovenia/jesenice
+europe/slovenia/kranjska_gora
+europe/slovenia/skofjaloka

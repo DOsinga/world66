@@ -6,6 +6,7 @@ tags: [things_to_do, church]
 address: "Kossuth Lajos utca"
 latitude: 47.6650
 longitude: 19.0758
+score: 6.7
 ---
 
 Officially the Church of Saint Michael the Archangel, the Požarevac Church takes its more common name from the Serbian town of Požarevac, the place of origin of the refugees who built it in 1763. It is the smallest and southernmost of Szentendre's Serbian churches.

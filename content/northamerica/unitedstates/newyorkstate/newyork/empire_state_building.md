@@ -13,6 +13,7 @@ story: >
   It was built during the Great Depression, and for much of the 1930s it stood substantially
   empty: "The Empty State Building," New Yorkers called it. The antenna at the top was
   originally designed as a mooring mast for transatlantic airships. It was used exactly once.
+score: 8.9
 ---
 
 The Empire State Building has been the most recognisable building in New York for almost a century, though it was surpassed in height by the World Trade Center in 1972 and by the new One World Trade in 2014. At 443 metres to the tip of the antenna, it remains the tallest building in Manhattan. The Art Deco lobby alone is worth visiting; the observation decks on the 86th and 102nd floors offer some of the best elevated views of the city available.

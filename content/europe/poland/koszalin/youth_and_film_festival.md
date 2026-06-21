@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.19092
 longitude: 16.17707
+score: 6.9
 ---
 
 Koszalin hosts one of Poland's most significant film festivals — the "Youth and Film" festival, held annually since 1973. It is Poland's oldest showcase for films by young and emerging directors, and its alumni list is extraordinary: Krzysztof Kieślowski and Krzysztof Zanussi both had their early work screened here, and the festival has consistently identified talent before the wider world noticed. It takes place in May and draws industry professionals, students, and film enthusiasts from across Poland.

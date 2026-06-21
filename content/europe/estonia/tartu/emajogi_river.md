@@ -6,6 +6,7 @@ tags:
 - park
 title: Emajõgi River and Riverside Walk
 type: poi
+score: 8.1
 ---
 
 The Emajõgi (Mother River) runs through the center of Tartu, and the riverside walk on both banks is the city's most pleasant outdoor space. The stretch from the old town bridge north toward Supilinn passes parks, boat landings, and the Tartu Art Museum building. In summer, open-air cafés set up along the bank and a small beach appears near the Kaarsild bridge.

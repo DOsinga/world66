@@ -6,6 +6,7 @@ longitude: 34.1024
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 The Salgir is Crimea's longest river — rising in the Crimean mountains and flowing through Simferopol on its way to the Sea of Azov. Its embankment through the city is the most agreeable stretch of green space in town: cottonwood-shaded paths, benches, a few cafés on the upper bank, and footbridges crossing back and forth.

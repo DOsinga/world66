@@ -5,6 +5,7 @@ tags:
   - shopping
 latitude: 35.1771
 longitude: 136.8928
+score: 7.2
 ---
 
 Endoji is an old-school covered shopping arcade running for several hundred metres west of the Horikawa river, a five-minute walk from Shikemichi. The arcade is anchored on the north by Enmasu Shrine and on the south by Nagoya's oldest sweet shop — an unbroken commercial strip that has been here in some form since the 17th century.

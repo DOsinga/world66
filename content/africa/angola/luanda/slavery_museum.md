@@ -12,6 +12,7 @@ story: >
   in the Atlantic slave trade. The colonial chapel that now houses this museum was where
   the enslaved were baptised before being loaded onto ships: a last Christian sacrament
   before the Middle Passage.
+score: 8.6
 ---
 
 The Museu Nacional da Escravatura (National Slavery Museum) is one of the most significant and sobering museums in Angola. It occupies a 17th-century colonial chapel at Morro da Cruz, about 18 km south of the city centre, where enslaved Africans were baptised before being shipped across the Atlantic. The building itself is quietly powerful: small, plain, perched on a barren hill above the sea.

@@ -11,6 +11,7 @@ story: >
   The Rheinsberg plant was the first nuclear power station in East Germany, starting operation in 1966 and shut down in 1990 after reunification. Its distinctive Soviet-era design, now frozen in time, makes it one of the most evocative industrial heritage sites in Brandenburg.
 sources:
   - https://en.wikipedia.org/wiki/Rheinsberg_Nuclear_Power_Plant
+score: 8.2
 ---
 
 About 5 km north of town, the decommissioned Kernkraftwerk Rheinsberg is an unexpected attraction — one of the few places where you can walk through the control room of an intact Cold War-era nuclear reactor. The plant operated from 1966 to 1990 as East Germany's first nuclear power station, and its decommissioning is still ongoing. Guided tours (available on selected dates; advance booking required) take you through the turbine hall, the reactor containment area, and the original control panels, which look exactly as they did in the 1980s.

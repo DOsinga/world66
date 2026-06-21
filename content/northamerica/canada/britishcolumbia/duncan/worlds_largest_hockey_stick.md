@@ -7,6 +7,7 @@ tags:
   - curiosity
 latitude: 48.7819
 longitude: -123.728
+score: 4.7
 ---
 
 Mounted on the side of the Cowichan Community Centre on Trunk Road, Duncan's giant hockey stick and puck are a mandatory stop for anyone compiling a collection of Canada's roadside superlatives. The stick, made of Douglas fir, measures 62.48 metres (205 feet) and weighs 28 tonnes. It was built for Expo 86 in Vancouver and moved to Duncan in 1988.

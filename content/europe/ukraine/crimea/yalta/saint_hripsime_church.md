@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, church]
 latitude: 44.501094
 longitude: 34.165334
+score: 6.1
 ---
 
 This compact Armenian Apostolic church in the center of Yalta is dedicated to Saint Hripsime, an early Christian martyr. The current building dates from 1916 and replaced an earlier structure on the same site. Armenia has a long history in Crimea — Armenian merchants and traders settled along the Black Sea coast from the medieval period, and Yalta's Armenian community was substantial by the 19th century.

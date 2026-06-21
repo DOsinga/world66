@@ -8,6 +8,7 @@ latitude: 34.5435
 longitude: -112.459
 sources:
   - https://en.wikipedia.org/wiki/Museum_of_Indigenous_People
+score: 7.3
 ---
 
 Formerly known as the Smoki Museum, this small institution holds a substantial collection of Native American artifacts from across North America, with particular depth in items from Arizona's Indigenous cultures — Navajo, Hopi, Yavapai, and others. The collection spans pottery, baskets, textiles, kachina dolls, and jewelry, much of it gathered in the early 20th century.

@@ -13,6 +13,7 @@ story: >
   in Lyon) to the Roman Senate, arguing that Gauls should be allowed to become
   senators. The speech is a remarkable piece of political rhetoric and was found
   in 1528 by a Lyon craftsman who stumbled on them while digging in his garden.
+score: 8.7
 ---
 
 Built into the Fourvière hillside in the 1970s by the architect Bernard Zehrfuss, the Gallo-Roman Museum is an architectural feat as well as a cultural one — five concrete levels spiral down through the hill, lit from above, with the Roman theatre visible through windows at the lower levels. The collection is one of the finest provincial Roman museums in France.

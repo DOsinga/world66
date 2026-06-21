@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Birmingham Zoo
 type: poi
+score: 6.6
 ---
 
 The Birmingham Zoo sits on 122 acres in the Southside neighborhood adjacent to the Botanical Gardens. It holds around 950 animals across 230 species, with noteworthy exhibits for African savanna animals, sea lions, and the new tiger exhibit. The zoo has invested heavily in enrichment programs for its great apes.

@@ -3,11 +3,12 @@ title: "Beaches"
 type: section
 ---
 
-Paphos beaches in the south coast seem quite different from those in the west. In the south they invariably have wave breakers and thus have been relatively tamed while those in the west are characterised by rougher seas. From all these beaches I would recommend Coral beach in the west as being a good all round package, well organised, wide sandy and not so rough. Kotchas is very interesting as a rougher setting and a good spot to sun bathe.
+Paphos itself is not a great beach town — the seafront below Kato Paphos is rocky in places, and the public beach east of the harbour is functional rather than beautiful. For real swimming, head out of town.
 
-The coast of Akamas peninsula in the north west is a lot more interesting.
+**[Coral Bay](/asia/cyprus/paphos/coral_bay)**, 10 kilometres north, is the headline beach — a wide crescent of sand with calm shelving water and a strip of beach bars behind. It gets crowded in summer.
 
-For in depth information on Paphos beaches, as well as other naturespots such as walking trails, dams and wetlands, etc I would invite you to explore www.natureofcyprus.org .
+**Geroskipou municipal beach**, just east of the town, has dark sand and gentler waves, broken up by groynes; pleasant, but lined with hotels.
 
-**Contributors**
-May 01, 2008
+**Lara Bay**, an hour north on the Akamas peninsula, is wild and undeveloped — green turtles nest here. A 4x4 is useful for the final stretch of dirt road.
+
+Further on, the coves around the **Baths of Aphrodite** and the rough sea cliffs of the western Akamas are the most spectacular, but you have to work for them: walking trails, no facilities.

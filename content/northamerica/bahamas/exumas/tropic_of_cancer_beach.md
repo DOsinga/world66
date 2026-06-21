@@ -9,6 +9,7 @@ tags:
 - beach
 title: Tropic of Cancer Beach
 type: poi
+score: 8.6
 ---
 
 The best beach in the Exumas and one of the best in the Bahamas. A mile-long arc of white sand on the south coast of Little Exuma, backed by low dunes and facing a sheltered bay. The water is shallow, calm, and an almost unreal shade of turquoise. Offshore, small islands like Turtle Island break the waves and keep things gentle.

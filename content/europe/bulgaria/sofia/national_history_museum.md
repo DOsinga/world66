@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The museum was originally housed in the Palace of Justice in the centre. In 2000 it was moved to the former Boyana Residence — a Communist-era estate built for Todor Zhivkov, the long-time party leader, used until 1989 for state ceremonies and once for the visit of the Queen of England. The Thracian treasures now glow in display cases where Zhivkov entertained ambassadors."
+score: 8.4
 ---
 
 The richest museum in Bulgaria, holding more than 650,000 objects covering everything from Thracian gold to twentieth-century state regalia. The Panagyurishte and Rogozen treasures — fourth-century BC ceremonial gold and silver — are the headlines. Medieval crowns, weapons, costumes, and ecclesiastical art fill the rest.

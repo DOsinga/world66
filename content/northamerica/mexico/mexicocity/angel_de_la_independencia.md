@@ -5,6 +5,7 @@ snippet: "Gilded victory column at the heart of the Paseo de la Reforma"
 tags: [things_to_do, sight]
 latitude: 19.4270
 longitude: -99.1677
+score: 6.8
 ---
 
 A 36-metre marble column topped by a gilded bronze Victory holding a laurel wreath stands in the centre of one of the busiest roundabouts on the Paseo de la Reforma. Commissioned by President Porfirio Díaz for the 1910 centenary of Mexican independence, El Ángel has become the de facto national monument — the place Mexicans gather to celebrate football victories, mark protests, and ring in the new year.

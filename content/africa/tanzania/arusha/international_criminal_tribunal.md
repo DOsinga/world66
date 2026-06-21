@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/International_Criminal_Tribunal_for_Rwanda
 story: >
   The ICTR was the first international tribunal since Nuremberg to hand down convictions for genocide. Its 1998 conviction of Jean-Paul Akayesu was also the first time rape was recognised by an international court as an act of genocide — a landmark ruling that permanently altered international humanitarian law.
+score: 7.1
 ---
 
 The International Criminal Tribunal for Rwanda operated in Arusha from 1994 to 2015, when its residual mechanism took over. Based at a purpose-built complex on the outskirts of the city, it prosecuted the architects of the 1994 Rwandan genocide — the mass murder of approximately 800,000 Tutsi and moderate Hutu in 100 days. Over its two decades, the ICTR indicted 93 individuals, completing proceedings against 80.

@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Summerfest
 story: >
   Summerfest holds the Guinness World Record as the world's largest music festival. It runs for 11 days across late June and early July on the lakefront grounds and typically attracts around 800,000 attendees. The festival started in 1968 as mayor Henry Maier's attempt to improve Milwaukee's image after race riots the previous year; it has been running every year since, save for 2020 and the COVID cancellation of 2021.
+score: 7.8
 ---
 
 Summerfest is the event that puts Milwaukee on the map internationally — an 11-day music marathon on the Lake Michigan shoreline in late June and early July that holds the Guinness World Record as the world's largest music festival. Across more than a dozen stages, over 800 acts perform everything from headlining rock and country to folk, jazz and hip-hop. Daily admission is reasonable by festival standards; multi-day passes represent good value.

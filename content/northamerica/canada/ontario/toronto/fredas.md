@@ -10,6 +10,7 @@ tags:
 title: Freda's
 type: poi
 url: www.fredas.com
+score: 2.0
 ---
 
 Freda's offers a unique shopping experience unlike any other boutique.

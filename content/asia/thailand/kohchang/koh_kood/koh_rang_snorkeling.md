@@ -8,6 +8,7 @@ tags:
   - sight
   - snorkeling
   - diving
+score: 8.8
 ---
 
 A scatter of small uninhabited islands roughly 40 km northwest of Koh Kood, inside the Mu Ko Chang National Marine Park. The reefs around Koh Rang, Koh Yak and Koh Wai are the best snorkelling and diving in this part of the Gulf — soft corals, sea fans, the occasional reef shark and a reliable cast of parrotfish, batfish and barracuda.

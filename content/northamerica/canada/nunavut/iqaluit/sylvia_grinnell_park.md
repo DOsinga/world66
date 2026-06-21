@@ -11,6 +11,7 @@ story: >
   The park contains Dorset and Thule archaeological sites — stone tent rings, food caches, and sod house ruins that document thousands of years of human occupation before European contact. The Dorset people, who preceded the Thule (ancestral Inuit), left behind distinctive small carvings that are among the most striking examples of Arctic art. Walking past these sites with the same view of the river that their makers had is one of those moments where the past and present collapse together.
 sources:
   - https://en.wikipedia.org/wiki/Sylvia_Grinnell_Territorial_Park
+score: 8.1
 ---
 
 Sylvia Grinnell Territorial Park occupies 148 hectares on the western edge of Iqaluit, an easy 30-minute walk from the city centre. The park centres on the Sylvia Grinnell River, which drops over a series of rocky falls visible from a viewing platform 55 metres above the water. The river supports a strong run of Arctic char, and fishing is permitted with a licence.

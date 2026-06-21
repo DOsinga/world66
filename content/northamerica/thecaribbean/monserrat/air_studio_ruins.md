@@ -14,6 +14,7 @@ story: >-
   Low for Zero*, and at least two dozen other major records. The studio was
   damaged by Hurricane Hugo in 1989 and abandoned; the volcano eruptions a
   few years later closed off the site permanently.
+score: 7.7
 ---
 
 AIR Montserrat was the Caribbean recording studio George Martin opened on the slopes above the Belham Valley in 1979. For ten years it was one of the most prestigious recording studios in the world — a converted plantation house turned into a state-of-the-art rock studio, with cottages for visiting musicians and an open-air mixing deck looking out across the sea. Then Hurricane Hugo destroyed the buildings in September 1989, the studio closed, and the volcano eruptions from 1995 onwards put the site inside the exclusion zone.

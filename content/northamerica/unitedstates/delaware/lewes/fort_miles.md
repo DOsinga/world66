@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
   - history
+score: 7.8
 ---
 
 Fort Miles is the partly-restored Second World War coastal artillery installation inside Cape Henlopen State Park. Built starting in 1941, it housed sixteen-inch guns capable of reaching enemy ships nearly thirty miles out into the Atlantic. The site is now a museum: barracks, plotting rooms, a restored gun battery, and one of the original sixteen-inch guns (recovered from a battleship and moved to the site for display) sit among the pines just behind the dunes.

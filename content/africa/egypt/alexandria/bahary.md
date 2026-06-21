@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 31.2056
 longitude: 29.8814
+score: 8.4
 ---
 
 The old fishing quarter at the western end of the corniche, between the Eastern Harbour and the open sea. Bahary preserves more of working-class Alexandrian life than any other downtown district — narrow alleys, old courtyard houses, small mosques, the fish market, and traditional fishing boats still hauled up on the seawall.

@@ -13,6 +13,7 @@ story: >
   visitors walk on today. The producers built it to last because they knew
   there would be eight films, then preserved it intact when filming wrapped
   because Warner Bros. could already see what the studio tour was going to be.
+score: 8.8
 ---
 
 The studio sits 3 miles north of central Watford in the village of Leavesden, in a complex built for assembling Halifax bombers during the Second World War and converted to film production in the 1990s. The "Making of Harry Potter" tour opened in 2012 and has run continuously since, with new additions (the Forbidden Forest, Platform 9¾, Gringotts) added every few years.

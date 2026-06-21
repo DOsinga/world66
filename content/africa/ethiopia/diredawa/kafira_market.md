@@ -8,6 +8,7 @@ tags:
   - shopping
   - market
   - megala
+score: 7.3
 ---
 
 Dire Dawa's main open market, sprawling across several blocks of the Megala. The Saturday market is the largest in eastern Ethiopia — sellers come down from Harar and across from the Somali border to trade fruit, vegetables, charcoal, plastics, fabric, electronics smuggled from Djibouti, and, throughout the morning, fresh chat bundled in green banana leaves.

@@ -9,6 +9,7 @@ snippet: "Gdynia's main commercial street — the spine of the 1920s-30s moderni
 latitude: 54.5180
 longitude: 18.5380
 story: "The whole of central Gdynia was laid out between 1920 and 1939 on what had been a fishing village of 1,300 people. The polish state was poor, but architects like Stanisław Ziołowski and Marian Lalewicz built apartment buildings here in a stripped-down Bauhaus-influenced style that has no equivalent in any other Polish city — Gdynia is on the UNESCO tentative list for this reason."
+score: 7.4
 ---
 
 Świętojańska is the long pedestrian-friendly commercial street that runs inland from the Southern Pier into the heart of Gdynia. It is the spine of the original 1920s plan: trams in the middle (now gone, but the alignment remains), apartment buildings on either side, ground-floor shops, café terraces in summer.

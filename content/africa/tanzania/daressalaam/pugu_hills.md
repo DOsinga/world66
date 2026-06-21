@@ -8,6 +8,7 @@ tags:
 - park
 title: Pugu Hills
 type: poi
+score: 7.2
 ---
 
 Pugu Forest Reserve covers a low ridge of coastal hill forest about half an hour southwest of central Dar — close enough for a half-day trip and remote enough to feel like proper countryside. The reserve protects one of the last fragments of original coastal forest in the region, with several hundred bird species, blue monkeys, and a few elusive antelope.

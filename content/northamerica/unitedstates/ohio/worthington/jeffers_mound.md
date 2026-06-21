@@ -15,6 +15,7 @@ story: >
   river valleys — some of the largest prehistoric earthworks in North America.
   Most have been ploughed under, quarried, or built over. Jeffers Mound survived
   because it was incorporated into a private estate and later donated to the city.
+score: 6.8
 ---
 
 On the western edge of Worthington, close to the Olentangy River, Jeffers Mound is a Hopewell tradition burial mound dating to roughly 100 BCE–500 CE. It is one of the few surviving examples of Hopewell earthworks in the Columbus metropolitan area — a reminder that the landscape of central Ohio was substantially shaped by Indigenous peoples long before European settlement.

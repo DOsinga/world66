@@ -8,6 +8,7 @@ latitude: 27.9100
 longitude: 108.6800
 story: >
   The Guizhou snub-nosed monkey (Rhinopithecus brelichi) exists nowhere else on earth. Population surveys in the early 2000s estimated fewer than 800 individuals; subsequent conservation work has brought numbers up, but the species remains critically endangered. The monkeys are arboreal, living in the upper canopy of the cloud forest, and are rarely visible from the hiking paths. The knowledge that they are up there, moving through the same mist that covers the forest, gives the lower slopes a quality they would otherwise lack.
+score: 8.6
 ---
 
 Below the summit pinnacles, the forest of Fanjingshan descends through distinct altitude bands: red fir and birch at the upper elevations, transitioning to subtropical mixed forest with an extraordinary density of species as you drop below the treeline. The mountain is one of the most biodiverse temperate forest environments in Asia — over 2,000 vascular plant species, including the Fanjingshan fir found nowhere else, and animal life from the Guizhou snub-nosed monkey in the canopy to salamanders and invertebrates in the stream systems.

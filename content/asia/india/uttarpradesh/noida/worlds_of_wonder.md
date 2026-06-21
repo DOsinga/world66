@@ -6,6 +6,7 @@ longitude: 77.323589
 tags:
   - things_to_do
   - sight
+score: 5.7
 ---
 
 Worlds of Wonder is a combined amusement and water park in Sector 38A, one of the largest in the NCR and the kind of place locals visit primarily to escape Delhi summer heat. The water side has wave pools, slides and a lazy river; the dry side has roller coasters, drop towers and a Ferris wheel with views across Noida. It is loud, hot and busy, but children love it.

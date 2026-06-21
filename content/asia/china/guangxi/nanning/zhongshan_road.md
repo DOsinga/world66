@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 22.8168
 longitude: 108.3049
+score: 7.2
 ---
 
 Zhongshan Road is Nanning's oldest commercial street and the city's most concentrated stretch of street food after dark. The road and its neighbouring alleys run through Xingning District, and the covered night market section fills with vendors selling the full range of Nanning's snack culture: laoyoufen (rice noodles in fermented-bamboo broth), barbecued skewers of everything from quail eggs to pig intestine, steamed sticky rice parcels, and the sour-sweet drinks made from tamarind and sour plum that are peculiar to the Guangxi lowlands.

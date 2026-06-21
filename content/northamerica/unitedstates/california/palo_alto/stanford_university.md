@@ -11,6 +11,7 @@ story: >
   When Jane and Leland Stanford founded the university in 1885 in memory of their son, who had died at 15, they hired Frederick Law Olmsted — the designer of Central Park — to lay out the campus. Olmsted proposed a loose grid of sandstone arcades connected by palm-lined avenues, all oriented to frame views of the foothills. The main Quad, completed in 1891, follows his plan almost exactly.
 sources:
   - https://en.wikipedia.org/wiki/Stanford_University
+score: 9.2
 ---
 
 Stanford's campus is one of the most beautiful in the United States — 8,000 acres of sandstone arcades, terracotta rooftops, eucalyptus groves, and open hills. It is freely accessible to the public on foot or by bicycle, and a walk from the main Oval along Palm Drive to the Inner Quad gives a reasonable impression of the scale and character of the place in an hour.

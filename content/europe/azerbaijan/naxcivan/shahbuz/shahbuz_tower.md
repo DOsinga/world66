@@ -9,6 +9,7 @@ latitude: 39.407
 longitude: 45.574
 story: >
   The Shahbuz Tower gave the district its name — or rather, the mountain gave both the tower and the district their name. "Shahbuz" is thought to derive from the Persian for "royal falcon," the bird that was a symbol of royalty across the medieval Islamic world. A tower named for a falcon, on a mountain named for a falcon, in a district that took the same name: the etymology ran deep in this part of the Caucasus.
+score: 7.2
 ---
 
 The Shahbuz Tower is a medieval watchtower built at the beginning of the first millennium CE, perched on high ground near Shahbuz settlement. It is the archaeological monument that gave the district its name and has been registered as a heritage site since 1990.

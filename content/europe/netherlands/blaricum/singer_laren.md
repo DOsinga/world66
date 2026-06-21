@@ -16,6 +16,7 @@ tags:
 - art
 title: Singer Laren
 type: poi
+score: 7.9
 ---
 
 Singer Laren is a museum and concert hall in neighbouring Laren, about 5 km from Blaricum by bike along cycle paths through the Gooi heathland. Founded by American philanthropists William and Anna Singer, the museum specialises in 19th-century Dutch painting — particularly the Hague School and Amsterdam Impressionists — and holds one of the finest collections of its kind in the Netherlands.

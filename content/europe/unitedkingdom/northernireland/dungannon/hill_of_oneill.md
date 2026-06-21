@@ -8,6 +8,7 @@ story: When Hugh O'Neill burnt his own fortress in 1602 before retreating from E
 tags:
 - things_to_do
 - sight
+score: 8.3
 ---
 
 The Hill of the O'Neill — the high point Dungannon was built around — was for over four hundred years the seat of the O'Neill kings of Tír Eoghain. The wooden fort that stood here was the political centre of Gaelic Ulster, and at its inauguration stone every new chieftain was proclaimed.

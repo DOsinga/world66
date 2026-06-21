@@ -6,6 +6,7 @@ longitude: -83.5310
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 The Maumee River runs through downtown Toledo, and after decades of being treated as a working barge corridor the city has slowly built a riverfront promenade — Promenade Park on the west bank, the International Park on the east bank, and a 1925 truss-and-cable bridge (the Anthony Wayne Bridge) that holds the whole panorama together.

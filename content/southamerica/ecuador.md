@@ -15,7 +15,7 @@ image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Hanne
   class="new" title="User:Hannelore Hopfe (page does not exist)">Hannelore Hopfe</a>
 done:
   country_cleanup: 2026-03-29
-score: 0.67
+score: 0.79
 loc_type: country
 ---
 

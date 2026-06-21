@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: 3,285-metre volcanic peak with a small crater lake on its flank
+score: 7.1
 ---
 
 Samsari is the second-highest peak of the Javakheti plateau, rising 3,285 metres over the Samsari Range north of Akhalkalaki. The walk up the southern flank is gentler than Didi Abuli — long, but on grass rather than scree — and rewards you with a crescent crater rim and a small alpine lake nestled below.

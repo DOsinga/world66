@@ -8,6 +8,7 @@ tags:
 - neighbourhood
 title: Yanahuara
 type: poi
+score: 7.0
 ---
 
 Yanahuara sits on the slope across the Rio Chili from the colonial centre — a leafy residential district that for centuries was a separate village serving the agricultural plots of the irrigated valley. It now feels distinctly more upmarket than the centre, with quiet residential streets, a small colonial-era plaza, and many of the city's better restaurants. The crossing of the Puente Grau is a five-minute walk; the climb up to the Yanahuara mirador is steeper than it looks.

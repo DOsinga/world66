@@ -10,6 +10,7 @@ tags:
 - festivals
 title: Carnival
 type: poi
+score: 9.5
 ---
 
 Trinidad Carnival is one of the greatest street festivals in the world and the model for every Caribbean carnival that came after it. Celebrations build through January and February with calypso tents, soca fetes, and steel pan competitions, then explode in the two days before Ash Wednesday.

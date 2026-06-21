@@ -14,6 +14,7 @@ story: >
   collection focuses on international and Australian art from 1960 onwards,
   with a particular strength in Asia-Pacific art — a reflection of Brisbane's
   geographic position and the gallery's ambition to become a regional hub.
+score: 8.8
 ---
 
 The Gallery of Modern Art — GOMA — sits in the South Bank Cultural Precinct and is one of the best reasons to spend a day south of the river. The permanent collection is free to enter and covers international and Australian art from the 1960s onwards, with a strong emphasis on Asia-Pacific artists who are underrepresented in most Western galleries. The building itself is impressive: a vast glass-and-brick structure with a children's art centre, a cinema, and a waterfront restaurant.

@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 6.1
 ---
 
 A long-established fish restaurant on the small Foša harbour just outside the Land Gate, with a terrace overlooking the boats and the city walls. The menu is classic Dalmatian — whole grilled fish, scampi buzara, octopus salad, black risotto — done well and at a price.

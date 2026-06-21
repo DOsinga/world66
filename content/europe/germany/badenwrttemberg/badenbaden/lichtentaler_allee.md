@@ -7,6 +7,7 @@ tags:
 latitude: 48.7597
 longitude: 8.2387
 story: "Margrave Augusta planted exotic trees from across the world here in the 19th century — sequoias, ginkgos, tulip trees — many of which have grown into the giants you see today. The avenue inspired Brahms, who walked it daily during the summers he composed at his nearby house."
+score: 8.3
 ---
 
 The **Lichtentaler Allee** is the elegant riverside promenade that runs for three kilometres along the Oosbach river from the centre of town out to the Lichtenthal Abbey. It was laid out in the 18th and 19th centuries as the social spine of the spa season — a place to walk, be seen, and gossip — and remains one of the most graceful urban walks in Germany.

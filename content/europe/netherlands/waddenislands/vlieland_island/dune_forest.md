@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "Pine and birch plantation south of the village, full of marked walking trails"
 latitude: 53.2880
 longitude: 5.0500
+score: 6.5
 ---
 
 The forest south and west of Oost-Vlieland is the largest stand of woodland on the Dutch Wadden islands — Austrian and Scots pine planted in the 19th century to stabilise the dunes after centuries of livestock grazing left them bare. Today it is a tranquil, sandy-floored wood threaded with marked walking trails of varying lengths.

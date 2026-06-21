@@ -14,7 +14,7 @@ quick_facts:
   Rumi's Birthplace: Balkh
 done:
   country_cleanup: 2026-03-30
-score: 0.1
+score: 0.25
 loc_type: country
 ---
 

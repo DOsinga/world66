@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Yeak Laom is one of the world's most perfectly round volcanic crater lakes — almost exactly 700 metres across and an estimated 50 metres deep. The local Tampuan people believe the lake is the home of a guardian spirit and managed it as a community-owned reserve long before the government took an interest. They still collect the modest entrance fee."
+score: 6.6
 ---
 
 Five kilometres east of Ban Lung, **Yeak Laom** is a perfectly circular crater lake nearly a kilometre wide, ringed by tall jungle and filled with strikingly clear, jade-green water — the result of being fed entirely by rain and underground springs, with no streams running in or out. There are three small wooden swimming jetties around the rim and a footpath that circles the whole lake in about 90 minutes through deep shade.

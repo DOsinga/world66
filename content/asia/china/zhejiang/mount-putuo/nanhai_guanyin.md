@@ -8,6 +8,7 @@ latitude: 30.0097
 longitude: 122.3850
 story: >
   The 33-metre bronze Guanyin statue took six years to build and was completed in 1997. Each digit on the statue's twelve hands is a full metre long, and the total weight of the bronze exceeds seventy tonnes. The number 33 was chosen deliberately: Buddhist tradition holds that Guanyin can appear in 33 different forms to help those in need.
+score: 7.8
 ---
 
 The Nanhai Guanyin statue stands at the island's southern tip on a three-level platform with the sea on three sides, and at 33 metres it is visible from the ferry approach to the island. The bronze figure depicts Guanyin in a standing pose with multiple arms, robed and holding a lotus, and the scale is impressive enough to justify the walk from the main temple area.

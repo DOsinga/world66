@@ -7,6 +7,7 @@ tags:
   - architecture
 title: Château de Saint-Aignan
 type: poi
+score: 6.9
 ---
 
 The château of St. Aignan sits at the top of the hill above the collegiate church, its Renaissance facades and medieval towers visible from the Cher valley below. The building is privately occupied and not open to visitors — it has been in the same family for generations — but the terrace in front of the gates is public and offers one of the finest panoramas in the southern Loire: the town tumbling down the hill, the Cher winding through its flat valley, and vineyards extending to the horizon.

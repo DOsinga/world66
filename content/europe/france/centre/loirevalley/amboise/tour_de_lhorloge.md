@@ -8,6 +8,7 @@ tags:
 latitude: 47.4128
 longitude: 0.9827
 snippet: 14th-century clock tower marking the entrance to the old town
+score: 6.8
 ---
 
 A 14th-century fortified gate tower that once marked the main entrance to the walled town of Amboise. The Tour de l'Horloge (Clock Tower) stands at the junction of the main streets below the chateau, its clock face visible from the square where the market spills out on Fridays and Sundays.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 41.5500
 longitude: 111.5000
+score: 7.8
 ---
 
 Gegentela, further from Hohhot than Xilamuren and with fewer organised tours, is the better choice if you want grassland that feels less rehearsed. The camps here are smaller, the infrastructure thinner, and the surrounding landscape less groomed for tourism — which is exactly the point. Mongolian herding families operate some of the camps directly and the hospitality is less scripted than at the larger Xilamuren sites.

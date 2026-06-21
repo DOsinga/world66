@@ -8,6 +8,7 @@ latitude: 35.1230
 longitude: 110.9810
 story: >
   Guan Yu, the Red-Faced Warrior, is one of the most widely worshipped figures in Chinese folk religion — venerated simultaneously as a god of war, a god of wealth, a protector of police and criminals, a patron of brotherhoods, and a deity of righteousness. The vast range of his worshippers, who include everyone from businessmen to triads, reflects an interesting ambiguity in what "righteousness" and "loyalty" mean to different people. His birthplace in the Jiezhou area is the justification for the grandest of the hundreds of temples dedicated to him across China.
+score: 8.1
 ---
 
 The Guandi Temple at Jiezhou, about 20 km north of Yuncheng, is the grandest of the hundreds of temples to Guan Yu across China — a Ming and Qing complex of considerable scale that celebrates the birthplace of the deified Three Kingdoms general. The site draws pilgrims year-round, from individual worshippers burning incense to organised groups from business associations and fraternal organisations who maintain a particular devotion to Guan Yu as a patron deity.

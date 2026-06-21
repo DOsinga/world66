@@ -9,6 +9,7 @@ longitude: 21.823
 snippet: Greece's best-kept alpine secret, above 2,000m on Mount Tymfristos
 story: >
   Mount Tymfristos, at 2,315 metres, was known to the ancient Greeks as Tymphrestos and formed the northern boundary of Aetolia. During the Second World War the surrounding Agrafa range became a stronghold of the Greek resistance precisely because its remoteness made it ungovernable — neither the Axis occupiers nor later the Nationalists ever fully controlled the high valleys.
+score: 7.2
 ---
 
 Velouchi is the ski resort serving Karpenisi, set on the slopes of Mount Tymfristos at around 1,700 to 2,100 metres above sea level. It offers around fifteen runs, a gondola and several lifts, ski school, and rental equipment — a fully functioning winter sports destination that most non-Greek visitors have never heard of. The season typically runs from late December to late March, depending on snowfall.

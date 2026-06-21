@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 50.224722
 longitude: 12.875000
+score: 7.6
 ---
 
 Built in 1898 for the Russian aristocrats and wealthy Russians who came to take the waters at Karlovy Vary — at one point a substantial portion of the spa town's high-season visitors were Russian — the Church of Saints Peter and Paul rises above the western bank of the Teplá with three golden onion domes that feel startlingly out of place among the Central European Baroque and neo-Classical architecture surrounding it. The effect is entirely intentional and rather splendid.

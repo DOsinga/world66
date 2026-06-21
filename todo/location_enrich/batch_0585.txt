@@ -1,5 +1,0 @@
-southamerica/venezuela/chichiriviche
-northamerica/unitedstates/michigan/flint
-northamerica/unitedstates/ohio/chillicothe
-asia/kyrgyzstan/bishkek
-europe/poland/wroclaw

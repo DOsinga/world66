@@ -12,6 +12,7 @@ story: >
   system that collected rainwater from the surrounding rooftops and streets. It was
   the town's main water supply through the medieval period, and a source of persistent
   disputes between wealthy families who sought to control access to it.
+score: 8.8
 ---
 
 The triangular Piazza della Cisterna is the lower of the two linked squares at the heart of San Gimignano, and the more atmospheric of the pair. Towers lean in from three sides, the paving stones are worn smooth by centuries of foot traffic, and the 13th-century well sits in the middle like the axle around which the whole town revolves. It's the natural place to stop and get your bearings when you first arrive.

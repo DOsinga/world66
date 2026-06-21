@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Alte Feste
 type: poi
+score: 6.6
 ---
 
 The Old Fortress, started in 1890 by the German colonial Schutztruppe, is the oldest surviving building in Windhoek. The whitewashed walls, tower, and parade ground look more Moorish than Prussian and form a pleasant contrast to the modern Independence Memorial Museum next door.

@@ -8,6 +8,7 @@ tags:
   - sight
   - temple
 snippet: A second island temple on the Tra Pang Ngoen pond, west of Wat Mahathat.
+score: 7.2
 ---
 
 Wat Traphang Ngoen, "Temple of the Silver Pond", is the western counterpart to Wat Sa Si: a slender lotus-bud chedi on a square base, set on its own islet in a rectangular pond, reached by a wooden bridge. It is smaller and quieter than the more famous Wat Sa Si but the architectural form is essentially identical, and the temple is particularly atmospheric at sunset, when the chedi's silhouette catches the last light over the western rampart.

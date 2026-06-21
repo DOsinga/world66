@@ -8,6 +8,7 @@ tags:
   - sight
   - temple
   - hindu
+score: 6.0
 ---
 
 A more modest cousin of the great Puri shrine, Rourkela's Jagannath Temple in Sector 5 is the centre of the city's religious life. It follows the Kalinga architectural style typical of Odisha, with a tall *deul* tower rising above the sanctum, and houses images of Jagannath, Balabhadra, and Subhadra carved from neem wood.

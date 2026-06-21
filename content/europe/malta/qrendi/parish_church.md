@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.8
 ---
 
 The parish church of Qrendi stands in the small square at the centre of the village, its honey-coloured baroque facade lit dramatically at night. The current building dates from the late seventeenth century and is dedicated, like many Maltese parish churches, to the Assumption of the Virgin — celebrated with a large village feast in mid-August.

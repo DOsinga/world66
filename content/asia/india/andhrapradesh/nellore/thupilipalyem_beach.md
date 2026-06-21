@@ -8,6 +8,7 @@ tags:
 - beach
 title: Thupilipalyem Beach
 type: poi
+score: 6.1
 ---
 
 About 12 km from Vakadu, this beach stands out for its tree-lined setting and boating facilities. Surrounded by greenery, it's more pleasant than the exposed stretches elsewhere along this coast. Regular APSRTC buses run from Kota.

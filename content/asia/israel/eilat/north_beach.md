@@ -6,6 +6,7 @@ longitude: 34.9520
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 The main strip of hotels, restaurants, and bars along Eilat's central waterfront, running from the marina northward. The promenade is lively most evenings with Israeli holiday crowds and is the social heart of the city after dark. Cafes and kiosks line the walkway; the beach itself is clean but crowded during the Israeli holiday periods (Passover, Sukkot, and summer).

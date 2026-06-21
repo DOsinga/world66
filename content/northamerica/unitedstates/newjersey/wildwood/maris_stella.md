@@ -6,6 +6,7 @@ longitude: -74.8195
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 Mari's Stella on Atlantic Avenue is the kind of red-sauce family restaurant Wildwood does well — checked tablecloths, generous portions, and a menu that has not changed much in decades. Veal parmigiana, eggplant rollatini, and the linguine with white clam sauce are reliable. Bring a bottle of wine; the corkage is reasonable.

@@ -7,6 +7,7 @@ tags:
   - skiing
 latitude: 39.2640
 longitude: -120.1250
+score: 6.5
 ---
 
 Northstar California is one of the largest ski resorts in the Lake Tahoe area, located about 10 kilometres south of Truckee off Highway 267. The resort has around 3,000 acres of skiable terrain, 100+ trails, and a well-developed village at the base with restaurants, shops, and ice skating. It is family-friendly and less frenetic than Palisades Tahoe (formerly Squaw Valley), with groomed runs that suit intermediate skiers well and a terrain park that attracts snowboarders.

@@ -7,6 +7,7 @@ tags:
 title: Church of Our Lady of Immaculate Conception
 type: poi
 story: "Seria's Catholic church stands as a quiet reminder that the oil industry brought a diverse workforce to Brunei — British expatriates, Filipino contract workers, and others whose presence the country's Islamic identity tends to overshadow. The church was established to serve the non-Muslim oil workers and their families, and its congregation today is predominantly Filipino."
+score: 7.7
 ---
 
 The Roman Catholic church in Seria is a modest white building on the edge of the oil town's residential area, serving the small but longstanding non-Muslim community that the petroleum industry brought to this corner of Brunei. It is not architecturally remarkable, but it is an interesting counterpoint to Seria's overwhelmingly Malay and Islamic public character — a reminder that this planned company town once housed a genuinely international community.

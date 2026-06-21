@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - manor_house
+score: 6.7
 ---
 
 Three kilometres northeast of Sakskøbing, Berritzgaard is among the best-preserved Renaissance manor houses on Lolland. The red-brick main building was raised in the 1580s by Eiler Grubbe, royal chancellor under Frederik II, and retains its original moated layout with stepped gables and small corner turrets.

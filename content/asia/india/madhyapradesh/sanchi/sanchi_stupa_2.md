@@ -9,6 +9,7 @@ longitude: 77.73
 story: "Stupa No. 2 holds the relics of ten Buddhist teachers from the 3rd and 2nd centuries BC, identified by inscriptions on the relic caskets found inside during excavations by Alexander Cunningham in 1851. This makes it one of the oldest datable Buddhist reliquaries anywhere in the world."
 sources:
   - https://en.wikipedia.org/wiki/Sanchi_Stupa_No._2
+score: 7.8
 ---
 
 Stupa No. 2 stands partway down the hill from the main complex, reached by a path that continues west from the Great Stupa. Slightly smaller than Stupa No. 1, it lacks the carved gateways but compensates with an elaborate carved stone balustrade (vedika) running around its base. The medallions on the balustrade depict half-human, half-animal figures, floral patterns, elephants, and riders — an exuberant and less decorous visual world than the more formally composed scenes on the Great Stupa's gateways.

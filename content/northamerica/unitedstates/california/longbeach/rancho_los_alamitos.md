@@ -10,6 +10,7 @@ tags:
 - sight
 title: Rancho Los Alamitos
 type: poi
+score: 7.6
 ---
 
 A historic ranch and garden dating back to the early days of Southern California. The adobe buildings, barns, and beautifully maintained gardens offer a glimpse of rancho-era life. Free guided tours on Wednesday through Sunday.

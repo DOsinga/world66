@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The 5.5-metre kouros that dominates the new wing is the largest surviving statue of its kind from the archaic period anywhere in Greece. It was carved around 580 BC and found, broken in two pieces, on the road to the Heraion in 1980. The head and torso turned up in different digs years apart."
+score: 8.6
 ---
 
 The archaeological museum in Vathy is in two buildings either side of a small garden. The new wing, purpose-built to fit the giant kouros of Samos, is dominated by that one statue: 5.5 metres of marble youth with one foot forward, looking past you to the rear wall. It is impossible to take in from close up.

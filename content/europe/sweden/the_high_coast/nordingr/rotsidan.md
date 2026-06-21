@@ -9,6 +9,7 @@ tags:
   - swimming
   - nature
 story: "The land along this coast is still rising at about 8 mm a year as it rebounds from the weight of the Ice Age glaciers — the highest documented rate of post-glacial uplift on earth, and the reason the High Coast is a UNESCO World Heritage Site."
+score: 8.4
 ---
 
 A four-kilometre stretch of polished red rapakivi granite running flat into the Bothnian Sea, Rotsidan is the most photographed shoreline on the High Coast. Centuries of waves and ice have polished the rock smooth, and on a sunny day in summer you can walk barefoot for kilometres, swim from the warm slabs into the cold sea, and find a sheltered cove for a picnic.

@@ -8,6 +8,7 @@ longitude: 75.7767
 tags:
 - things_to_do
 - sight
+score: 7.8
 ---
 
 The Muchundi Mosque (Muccunti Palli) in Kuttichira is even older than the more famous Mishkal nearby — a 13th-century timber building of two storeys with a steeply pitched tile roof, carved wooden pillars and broad pinjara screens at the upper windows.

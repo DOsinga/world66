@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.3880
 longitude: -4.2850
+score: 6.8
 ---
 
 Comillas' main beach is a handsome crescent of golden sand below the old town, roughly 500 metres long and backed by low dunes and green hillsides. The water here is the Atlantic-facing Cantabrian Sea — cool even in August, clear when the weather is settled, and prone to waves that make it popular with bodyboarders. There are lifeguards in summer. The beach has a couple of beach bars at either end that serve cold drinks and sandwiches.

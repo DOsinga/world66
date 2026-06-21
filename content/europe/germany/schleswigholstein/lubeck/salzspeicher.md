@@ -8,6 +8,7 @@ story: The six stepped-gable warehouses appear in the 1922 silent film Nosferatu
 tags:
 - things_to_do
 - sight
+score: 7.5
 ---
 
 The Salzspeicher are six brick warehouses standing in a line along the bank of the Trave just upstream of the Holstentor. They were built between 1579 and 1745 to store the salt that arrived by barge from Lüneburg via the Stecknitz Canal — the salt was Lübeck's most important export, traded onward to Scandinavia where it was used to preserve herring.

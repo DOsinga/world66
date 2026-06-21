@@ -5,6 +5,7 @@ tags:
 - things_to_do
 title: Vanemuine Theatre
 type: poi
+score: 7.8
 ---
 
 The Vanemuine is Estonia's oldest theatre and one of its most important cultural institutions. Founded in 1865 — when Estonia was still part of the Russian Empire — the theatre was the first to perform plays in the Estonian language and has been central to Estonian cultural identity ever since. The current building dates from 1967; a smaller adjoining stage hosts chamber and experimental productions.

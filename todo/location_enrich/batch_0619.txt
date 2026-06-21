@@ -1,5 +1,0 @@
-asia/indonesia/nias/gununsitoli
-europe/greece/skiathos
-asia/turkey/cappadocia/goreme
-northamerica/unitedstates/wyoming/star_valley_afton
-northamerica/unitedstates/newyorkstate/hudson

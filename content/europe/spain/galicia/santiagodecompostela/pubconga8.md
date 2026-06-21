@@ -11,6 +11,7 @@ tags:
 - bars_and_cafes
 title: Pub Conga 8
 type: poi
+score: 4.9
 ---
 
 Salsa bar with dancing from 10pm. A good spot if you want to dance rather than just drink.

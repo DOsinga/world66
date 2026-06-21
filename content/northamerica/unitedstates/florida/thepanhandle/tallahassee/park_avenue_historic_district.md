@@ -7,6 +7,7 @@ latitude: 30.4428
 longitude: -84.2828
 story: >
   The Columns, at the corner of Adams Street and Park Avenue, was built in 1830 and is the oldest building in Tallahassee still standing on its original site. It survived the Civil War because Union troops used it as headquarters. The Greek Revival style, with its massive white columns, defined the aspirations of early Florida's planter class.
+score: 7.9
 ---
 
 Park Avenue is Tallahassee's oldest and most architecturally distinguished street, lined with antebellum mansions, churches, and live oak trees that create a canopy over the road. The 1979-listed historic district stretches for several blocks east of the capitol complex and contains some of the finest 19th-century architecture in northern Florida.

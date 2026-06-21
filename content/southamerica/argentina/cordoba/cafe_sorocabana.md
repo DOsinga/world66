@@ -8,6 +8,7 @@ tags:
 latitude: 31.4163
 longitude: -64.1837
 neighbourhood: Centro
+score: 7.2
 ---
 
 A historic cafe on the corner of Plaza San Martín, with mosaic floors, marble tables, and waiters who have been there longer than most of the customers. The coffee is fine — but the place is really about the location and the parade of city life through the windows.

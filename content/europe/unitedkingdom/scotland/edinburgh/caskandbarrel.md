@@ -12,6 +12,7 @@ tags:
 - bar
 title: Cask and Barrel
 type: poi
+score: 6.7
 ---
 
 A spacious traditional pub at the top of Broughton Street with one of the best cask-ale selections in the New Town. Big horseshoe bar, plenty of seating, sport on the screens — busy without being a scrum.

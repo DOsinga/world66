@@ -9,6 +9,7 @@ tags:
 - sight
 title: City of the Dead
 type: poi
+score: 8.7
 ---
 
 This vast necropolis on Cairo's eastern edge -- officially the Qarafa cemetery -- stretches for kilometres and contains some of the city's most elaborate funerary architecture, including the mausoleums of Mamluk sultans. A large population has long made their homes here among the tombs, creating a unique neighbourhood where the living and the dead coexist.

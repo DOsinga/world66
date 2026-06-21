@@ -7,6 +7,7 @@ tags:
   - garden
 latitude: 64.8561
 longitude: -147.8589
+score: 6.8
 ---
 
 The Georgeson Botanical Garden sits on the University of Alaska Fairbanks campus and proves that serious gardening is possible at 65 degrees north. During the long summer days, plants here grow at astonishing rates — the near-continuous sunlight from May through August produces cabbages the size of armchairs and dahlias taller than most visitors.

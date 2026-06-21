@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 42.2667
 longitude: 2.9638
+score: 6.4
 ---
 
 Figueres's Rambla is a broad pedestrianised boulevard lined with plane trees, cafes, and market stalls — a smaller, quieter version of the famous Barcelona promenade. The local market takes place here several days a week, and the central terrace cafes are where the town eats breakfast and drinks after dinner.

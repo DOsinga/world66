@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The tower was built in 2014–2017 to test magnetically-levitated elevators that can run sideways as well as up and down. To dampen the building's natural sway in the wind, a 240-tonne pendulum hangs from the top — itself doubling as a counterweight in the experiments."
+score: 7.4
 ---
 
 The thyssenkrupp test tower is a 246-metre concrete cylinder on the plateau above the old town, used by the company to test its next generation of elevators. It is the tallest building in Baden-Württemberg and impossible to miss from anywhere in the area.

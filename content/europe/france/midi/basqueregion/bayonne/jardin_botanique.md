@@ -9,6 +9,7 @@ latitude: 43.4923
 longitude: -1.4793
 sources:
   - https://en.wikipedia.org/wiki/Jardin_botanique_de_Bayonne
+score: 5.8
 ---
 
 The Jardin Botanique de Bayonne, also known as the Jardin des Remparts, is a small but well-maintained botanical garden set against the old city ramparts, just southwest of the cathedral. It contains around 1,000 plant species and is particularly pleasant in spring when the borders are at their best.

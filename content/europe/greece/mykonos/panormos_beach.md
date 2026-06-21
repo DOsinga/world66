@@ -5,6 +5,7 @@ tags:
   - beaches
 latitude: 37.4810
 longitude: 25.3773
+score: 6.6
 ---
 
 One of the most beautiful and least-developed beaches on Mykonos, Panormos faces northeast on the island's north coast and is partly sheltered from the meltemi wind. The water is clear and deep blue, the beach is sandy with some pebble sections, and the hillside backdrop is dry and rocky in the classic Cycladic style. A small taverna operates in season at the northern end.

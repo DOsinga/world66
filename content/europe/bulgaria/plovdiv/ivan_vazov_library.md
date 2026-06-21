@@ -8,6 +8,7 @@ story: >
   Ivan Vazov, after whom the library is named, is Bulgaria's national writer — the author of Under the Yoke (1894), the canonical novel of the Bulgarian national liberation struggle. Vazov was born in Sopot, near Plovdiv, and spent significant periods of his life in the city. The library's collection includes one of the largest archives of Bulgarian historical documents and first editions.
 sources:
   - https://en.wikipedia.org/wiki/Ivan_Vazov_National_Library
+score: 5.8
 ---
 
 The Ivan Vazov National Library is one of the most important research libraries in Bulgaria, holding over 2.5 million items including manuscripts, maps, periodicals, and books in Bulgarian and other Balkan languages. The building — a solid, somewhat austere institutional structure — is less interesting than what it contains.

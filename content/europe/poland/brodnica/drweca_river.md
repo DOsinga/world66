@@ -6,6 +6,7 @@ longitude: 19.398
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 The Drwęca winds through Brodnica beneath the castle ruins and is the reason the Teutonic Knights chose to fortify the place. It is one of the great canoeing rivers of Poland — slow but never sluggish, lined with reed beds, alder and old riparian forest, and clean enough to support sea trout and otters.

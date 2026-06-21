@@ -8,6 +8,7 @@ tags:
   - market
 latitude: -6.4395
 longitude: 38.9060
+score: 7.2
 ---
 
 The fish market on the beach in the centre of the old town is the most reliable bit of theatre in Bagamoyo. The dhows come in at dawn — outriggers, dugouts, and full-size Lamu-style dhows — and the catch is auctioned on the sand within an hour, often by a single auctioneer working through one species after another while the crowd presses around him.

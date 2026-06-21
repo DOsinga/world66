@@ -8,6 +8,7 @@ latitude: 35.2793
 longitude: -120.6593
 address: 1121 Broad Street, San Luis Obispo, CA 93401
 url: bigskycafe.com
+score: 6.8
 ---
 
 Big Sky Cafe has been a SLO institution since 1994, occupying a warm, high-ceilinged space on Broad Street a few blocks from the Mission. The menu is eclectic in a way that works — influences from across California and Mexico without losing coherence — with a strong emphasis on local and organic sourcing. Breakfast and brunch are the standout meals.

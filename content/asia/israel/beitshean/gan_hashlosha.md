@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 32.5056
 longitude: 35.4478
+score: 8.2
 ---
 
 Gan HaShlosha — universally known by its Arabic name Sakhne, meaning "the hot pool" — is one of the most visited natural parks in Israel, and for good reason. Natural springs feed a series of shallow pools and channels at a constant 28°C year-round, running through dense plantings of eucalyptus and date palm beside the Amal Stream.

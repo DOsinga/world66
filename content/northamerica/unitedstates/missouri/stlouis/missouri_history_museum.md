@@ -8,6 +8,7 @@ tags:
 - forest_park
 latitude: 38.6473
 longitude: -90.2845
+score: 7.1
 ---
 
 The Missouri History Museum occupies a Beaux-Arts building at the north end of Forest Park, built in 1913 as a memorial to Thomas Jefferson and funded entirely by surplus from the 1904 World's Fair. The permanent collection covers the history of St Louis and Missouri — the Lewis and Clark expedition, the World's Fair itself, the city's industrial peak, and the civil-rights history of north St Louis.

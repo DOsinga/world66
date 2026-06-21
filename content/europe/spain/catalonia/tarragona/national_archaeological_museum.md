@@ -10,6 +10,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Best Roman archaeological collection in Catalonia — exceptional mosaics from Tarraco's wealthy villas"
+score: 8.2
 ---
 
 The most important Roman archaeology museum in Catalonia, in a Neoclassical 1850 building on the Plaça del Rei in the heart of the old town. The collection is built around finds from the Roman city: marble portrait busts of emperors and citizens, fine bronzes, glass, ceramics, an unusual collection of inscribed marble tablets, and — the highlight — a series of **mosaic floors** lifted from the Roman villas of the Tarraco hinterland. The 2nd-century **Mosaic of the Medusa** is the most famous, but the **fish mosaic** from a coastal villa is the most charming.

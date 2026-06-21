@@ -14,6 +14,7 @@ tags:
 - architecture
 title: Basílica de Suyapa
 type: poi
+score: 7.3
 ---
 
 The Basílica de Suyapa, about 5 km east of the historic centre, is the most important Catholic pilgrimage site in Central America. It houses the tiny Virgin of Suyapa, a 7 cm carved cedar figure discovered in 1747 that has accumulated a extraordinary reputation for miracles among Hondurans and Central Americans.

@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 43.9101
 longitude: 8.0804
+score: 5.8
 ---
 
 The Civic Museum occupies the 19th-century Villa Ardissone in the centre of Diano Marina and holds a collection of pre-Roman and Roman artefacts found in the surrounding area. The finds document a settlement history that stretches back to the Ligurian tribes and through the Roman period, when this coastal strip was an important trading route between Gaul and Italy.

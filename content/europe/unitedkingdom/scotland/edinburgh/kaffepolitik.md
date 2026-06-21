@@ -9,7 +9,6 @@ tags:
 - bars_and_cafes
 - bar
 - cafe
-- newtown
 title: Kaffe Politik
 type: poi
 ---

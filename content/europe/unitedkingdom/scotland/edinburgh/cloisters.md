@@ -10,7 +10,7 @@ snippet: No-nonsense cask ale pub in a converted parsonage
 tags:
 - bars_and_cafes
 - bar
-- newtown
+- grassmarket_nb
 title: Cloisters
 type: poi
 ---

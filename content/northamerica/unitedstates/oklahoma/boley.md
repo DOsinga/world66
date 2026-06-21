@@ -9,6 +9,8 @@ latitude: 35.493489
 loc_type: city
 longitude: -96.483611
 score: 0.19
+snippet: Central Oklahoma town founded as an all-Black community, with a nationally
+  significant historic district.
 title: Boley
 type: location
 ---

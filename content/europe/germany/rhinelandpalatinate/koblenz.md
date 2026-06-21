@@ -10,6 +10,8 @@ latitude: 50.353328
 loc_type: city
 longitude: 7.594395
 score: 0.53
+snippet: Rhine city at the Deutsches Eck, where the Moselle meets the Rhine below
+  Ehrenbreitstein Fortress.
 title: Koblenz
 type: location
 ---

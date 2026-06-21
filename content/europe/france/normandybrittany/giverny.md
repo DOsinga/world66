@@ -10,6 +10,8 @@ latitude: 49.076619
 loc_type: city
 longitude: 1.529028
 score: 0.6
+snippet: Normandy village where Claude Monet lived, painted, and designed his famous
+  gardens.
 title: Giverny
 type: location
 ---

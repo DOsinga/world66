@@ -9,6 +9,8 @@ latitude: 51.182557
 loc_type: city
 longitude: -3.330433
 score: 0.4
+snippet: Small Somerset harbour town at Exmoor's edge, linked to Saxon maritime history
+  and Coleridge's Ancient Mariner.
 title: Watchet
 type: location
 ---

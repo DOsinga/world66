@@ -10,6 +10,8 @@ latitude: 36.8747
 loc_type: city
 longitude: -94.8774
 score: 0.24
+snippet: Northeastern Oklahoma Route 66 town with Indigenous history and several tribal
+  headquarters in Ottawa County.
 title: Miami
 type: location
 ---

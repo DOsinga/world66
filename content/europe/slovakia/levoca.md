@@ -12,6 +12,8 @@ latitude: 49.025087
 loc_type: city
 longitude: 20.58871
 score: 0.47
+snippet: Walled Slovak medieval town with Renaissance houses and St James church's
+  carved wooden altar.
 title: Levoca
 type: location
 ---

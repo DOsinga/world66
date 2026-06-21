@@ -5,6 +5,8 @@ latitude: 44.25
 loc_type: region
 longitude: 9.95
 score: 0.54
+snippet: Hilly northern Tuscan region of medieval villages, chestnut forests, castles,
+  and Ligurian-Emilian food traditions.
 title: Lunigiana
 type: location
 ---

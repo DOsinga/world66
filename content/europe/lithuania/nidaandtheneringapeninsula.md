@@ -1,9 +1,11 @@
 ---
+latitude: 55.3046
+loc_type: region
+longitude: 21.0065
+snippet: Lithuanian Curonian Spit destination, known for Nida, forested dunes, lagoon
+  shore, and shifting sand landscapes.
 title: Nida and the Neringa Peninsula
 type: location
-loc_type: region
-latitude: 55.3046
-longitude: 21.0065
 ---
 
 The Curonian Spit is one of the most extraordinary landscapes in northern Europe: a thin ribbon of sand, forested dunes, and lagoon shore stretching 98 kilometres from Lithuania down into the Kaliningrad region of Russia. The Lithuanian portion — known as Neringa — is a UNESCO World Heritage Site, and Nida, at its southern end, is the main destination on the peninsula.

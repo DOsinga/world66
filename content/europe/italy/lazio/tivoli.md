@@ -12,6 +12,7 @@ latitude: 41.960922
 loc_type: city
 longitude: 12.798884
 score: 0.58
+snippet: Hill town east of Rome, famed for Hadrian's Villa and Renaissance water gardens.
 title: Tivoli
 type: location
 ---

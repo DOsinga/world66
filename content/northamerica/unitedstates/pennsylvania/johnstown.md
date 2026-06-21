@@ -3,13 +3,15 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-05'
 image: johnstown.jpg
-image_source: https://www.flickr.com/photos/16069488@N00/10860852496
-image_license: CC BY-SA 2.0
 image_attribution: string_bass_dave on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/16069488@N00/10860852496
 latitude: 40.326741
 loc_type: city
 longitude: -78.92197
 score: 0.27
+snippet: Conemaugh Valley city east of Pittsburgh, best known for the catastrophic
+  Johnstown Flood of 1889.
 title: Johnstown
 type: location
 ---

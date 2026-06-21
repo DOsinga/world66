@@ -6,6 +6,8 @@ latitude: 45.83972
 loc_type: city
 longitude: 8.754134
 score: 0.45
+snippet: Lombard city of villas and parks below the Sacro Monte di Varese pilgrimage
+  route.
 title: Varese
 type: location
 ---

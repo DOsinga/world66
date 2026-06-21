@@ -10,6 +10,7 @@ latitude: 31.9151
 loc_type: city
 longitude: 35.7539
 score: 0.4
+snippet: Wadi Seer village west of Amman, known for the Hellenistic palace Qasr al-Abd.
 title: Iraq al-Amir
 type: location
 ---

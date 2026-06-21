@@ -5,6 +5,8 @@ latitude: -36.8667
 loc_type: region
 longitude: 174.7624
 score: 0.69
+snippet: North Island region spanning harbours, Auckland city, Waitakere bushland,
+  and the islands of the Hauraki Gulf.
 title: Auckland Region
 type: location
 ---

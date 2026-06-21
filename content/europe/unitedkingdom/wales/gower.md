@@ -8,6 +8,8 @@ latitude: 51.5756
 loc_type: region
 longitude: -4.1503
 score: 0.56
+snippet: Welsh peninsula west of Swansea, known for dramatic cliffs, sandy bays, and
+  farmland.
 title: Gower
 type: location
 ---

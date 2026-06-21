@@ -5,6 +5,8 @@ latitude: 42.965916
 loc_type: region
 longitude: 12.490236
 score: 0.67
+snippet: Landlocked central Italian region of medieval hill towns, Romanesque churches,
+  and olive groves.
 title: Umbria
 type: location
 ---

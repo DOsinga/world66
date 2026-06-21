@@ -9,6 +9,8 @@ latitude: 42.699398
 loc_type: city
 longitude: 9.450919
 score: 0.53
+snippet: Corsica's main port, a Genoese-built city with an Italianate old harbour
+  and citadel quarter.
 title: Bastia
 type: location
 ---

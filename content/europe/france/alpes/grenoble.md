@@ -12,6 +12,8 @@ latitude: 45.1885
 loc_type: city
 longitude: 5.7245
 score: 0.53
+snippet: Alpine French city at the Drac and Isère confluence, framed by three mountain
+  ranges.
 title: Grenoble
 type: location
 ---

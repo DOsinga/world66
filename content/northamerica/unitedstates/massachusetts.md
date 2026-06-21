@@ -1,16 +1,18 @@
 ---
 done:
   location_cleanup: 2026-04-04
+image: massachusetts.jpg
+image_attribution: Ajay Suresh from New York, NY, USA
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Boston_-Massachusetts_State_House_(48718911666).jpg
 latitude: 42.4072
+loc_type: region
 longitude: -71.3824
+score: 0.49
+snippet: Compact New England state with Revolutionary history, Boston, Cape Cod, island
+  beaches, and the Berkshire hills.
 title: Massachusetts
 type: location
-score: 0.49
-image: massachusetts.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Boston_-Massachusetts_State_House_(48718911666).jpg
-image_license: CC BY 2.0
-image_attribution: Ajay Suresh from New York, NY, USA
-loc_type: region
 ---
 
 Massachusetts packs an outsized amount of American history, natural beauty, and cultural life into a small state. The Pilgrims landed at [Plymouth](/northamerica/unitedstates/massachusetts/plymouth) in 1620, the American Revolution started in [Lexington](/northamerica/unitedstates/massachusetts/lexington) and [Concord](/northamerica/unitedstates/massachusetts/concord), and [Boston](/northamerica/unitedstates/massachusetts/boston) remains one of the most historically rich cities in the country.

@@ -10,6 +10,8 @@ latitude: 20.2513
 loc_type: city
 longitude: 105.9745
 score: 0.56
+snippet: Northern Vietnamese province of limestone karst towers, river caves, rice
+  paddies, and temples.
 title: Ninh Binh
 type: location
 ---

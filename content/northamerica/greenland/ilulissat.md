@@ -9,6 +9,7 @@ latitude: 69.219713
 loc_type: city
 longitude: -51.098638
 score: 0.6
+snippet: Greenland town on Disko Bay, gateway to the UNESCO-listed Ilulissat Icefjord.
 sources:
 - https://en.wikipedia.org/wiki/Ilulissat
 - https://en.wikipedia.org/wiki/Ilulissat_Icefjord

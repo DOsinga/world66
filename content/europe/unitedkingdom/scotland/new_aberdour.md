@@ -10,6 +10,8 @@ latitude: 57.658793
 loc_type: city
 longitude: -2.195062
 score: 0.3
+snippet: Aberdeenshire coastal village with a sheltered beach, red sandstone cliffs,
+  and Dundarg Castle ruins.
 title: New Aberdour
 type: location
 ---

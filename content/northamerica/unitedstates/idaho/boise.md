@@ -9,6 +9,8 @@ latitude: 43.6166
 loc_type: city
 longitude: -116.2009
 score: 0.39
+snippet: Idaho's capital where high desert meets foothills, with a river greenbelt
+  and prominent Basque heritage.
 title: Boise
 type: location
 ---

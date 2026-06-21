@@ -10,6 +10,8 @@ latitude: 45.634292
 loc_type: city
 longitude: -73.836238
 score: 0.29
+snippet: North Shore Montreal city with a historic college and access to Laurentian
+  cycling routes.
 title: Sainte-Therese
 type: location
 ---

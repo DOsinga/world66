@@ -9,6 +9,7 @@ latitude: 10.092182
 loc_type: city
 longitude: 99.839536
 score: 0.63
+snippet: Small Gulf of Thailand island known for accessible coral reefs and dive schools.
 title: Koh Tao
 type: location
 ---

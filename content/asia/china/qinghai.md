@@ -2,6 +2,8 @@
 latitude: 36.0
 loc_type: region
 longitude: 98.0
+snippet: High Tibetan Plateau province known for thin air, vast landscapes, and Qinghai
+  Lake, China's largest lake.
 sources:
 - https://en.wikivoyage.org/wiki/Qinghai
 title: Qinghai Province

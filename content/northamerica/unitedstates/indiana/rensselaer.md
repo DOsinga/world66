@@ -10,6 +10,8 @@ latitude: 40.9367
 loc_type: city
 longitude: -87.1508
 score: 0.25
+snippet: Small Iroquois River city between Indianapolis and Chicago, with a courthouse
+  square and Amtrak depot.
 title: Rensselaer
 type: location
 ---

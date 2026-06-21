@@ -11,6 +11,8 @@ latitude: 38.835545
 loc_type: city
 longitude: -9.352237
 score: 0.7
+snippet: Portuguese hill town of royal palaces and misty forests, 40 minutes by train
+  from Lisbon.
 title: Sintra
 type: location
 ---

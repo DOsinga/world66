@@ -10,6 +10,8 @@ latitude: 46.882097
 loc_type: city
 longitude: 17.438962
 score: 0.42
+snippet: Hungarian town above a flooded karst cave, where visitors row beneath the
+  old centre.
 title: Tapolca
 type: location
 ---

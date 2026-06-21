@@ -10,6 +10,8 @@ latitude: 53.868402
 loc_type: city
 longitude: -1.902046
 score: 0.31
+snippet: West Yorkshire mill town at the Worth and Aire rivers, gateway to Brontë
+  moors by steam railway.
 title: Keighley
 type: location
 ---

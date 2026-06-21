@@ -6,6 +6,8 @@ latitude: 19.787
 loc_type: city
 longitude: -70.632
 score: 0.41
+snippet: Quiet Dominican beach east of Puerto Plata, with coconut palms and a rougher
+  feel than the resort strips.
 title: Playa Bergantin
 type: location
 ---

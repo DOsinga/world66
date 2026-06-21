@@ -10,6 +10,8 @@ latitude: 53.20146
 loc_type: city
 longitude: -6.110505
 score: 0.43
+snippet: Seaside Wicklow town below Bray Head, linked to Dublin by DART and a cliff
+  path to Greystones.
 title: Bray
 type: location
 ---

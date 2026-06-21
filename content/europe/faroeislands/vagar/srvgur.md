@@ -9,6 +9,8 @@ latitude: 62.070745
 loc_type: city
 longitude: -7.306047
 score: 0.5
+snippet: Faroese village on Vágar, beside the airport, Mykines ferry, and trails toward
+  lake-above-the-sea views.
 sources:
 - https://en.wikipedia.org/wiki/S%C3%B8rv%C3%A1gur
 - https://en.wikipedia.org/wiki/S%C3%B8rv%C3%A1gsvatn

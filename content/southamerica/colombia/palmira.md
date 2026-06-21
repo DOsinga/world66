@@ -7,11 +7,13 @@ image_attribution: Joomla!Day Colombia
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Alcald%C3%ADa_de_Palmira,_Valle_del_Cauca.jpg
 latitude: 3.530837
+loc_type: city
 longitude: -76.298805
+score: 0.29
+snippet: Valle del Cauca city in sugar-cane country, known as Colombia's agricultural
+  capital.
 title: Palmira
 type: location
-score: 0.29
-loc_type: city
 ---
 
 Palmira is a mid-sized city in the Valle del Cauca, just 25 km south of [Cali](/southamerica/colombia/cali) and easily reached by frequent buses. Known as the agricultural capital of Colombia, it sits in the heart of sugar cane country — the flat, fertile valley floor stretches out to the Andes on both sides.

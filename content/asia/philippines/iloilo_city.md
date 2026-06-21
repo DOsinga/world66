@@ -9,6 +9,8 @@ latitude: 10.7202
 loc_type: city
 longitude: 122.5621
 score: 0.43
+snippet: Western Visayas port city where Spanish-era districts, ancestral houses,
+  and Ilonggo cooking carry strong local identity.
 title: Iloilo City
 type: location
 ---

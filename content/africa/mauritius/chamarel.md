@@ -9,6 +9,8 @@ latitude: -20.425307
 loc_type: city
 longitude: 57.391271
 score: 0.54
+snippet: Mauritian mountain village known for the Seven Coloured Earth and waterfall
+  in the island's lush southwest.
 title: Chamarel
 type: location
 ---

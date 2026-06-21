@@ -1,20 +1,22 @@
 ---
 done:
   link_coverage: '2026-06-07'
+image: pointeapitre.jpg
+image_attribution: Aristoi
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Ancien_h%C3%B4tel_de_ville_de_Pointe-%C3%A0-Pitre_01.JPG
 latitude: 16.2411
 loc_type: city
 longitude: -61.5331
+score: 0.45
+snippet: Guadeloupe's busy commercial city, a Creole-French ferry hub between Grande-Terre
+  and Basse-Terre.
 sources:
 - https://en.wikipedia.org/wiki/Pointe-%C3%A0-Pitre
 - https://pointeapitre.net/fr/explorer-la-ville/46-musee-saint-john-perse
 - https://en.guadeloupe-tourisme.com/222/place-de-la-victoire-pointeapitre/
 title: Pointe-à-Pitre
 type: location
-image: pointeapitre.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Ancien_h%C3%B4tel_de_ville_de_Pointe-%C3%A0-Pitre_01.JPG
-image_license: CC BY-SA 3.0
-image_attribution: Aristoi
-score: 0.45
 ---
 
 Pointe-à-Pitre is Guadeloupe's commercial pulse: loud, practical, Creole-French, and far more urban than the beach towns along Grande-Terre's south coast. It sits near the narrow join between Grande-Terre and Basse-Terre, which makes it the natural ferry hub for the outer islands and the place where travellers come to shop, transfer, eat, and get their bearings.

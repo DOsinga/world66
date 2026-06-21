@@ -10,6 +10,8 @@ latitude: 46.523027
 loc_type: city
 longitude: 18.982504
 score: 0.38
+snippet: Hungarian paprika town on the Danube plain, equally known for bright floral
+  folk embroidery.
 title: Kalocsa
 type: location
 ---

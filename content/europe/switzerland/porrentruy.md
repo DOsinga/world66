@@ -10,6 +10,8 @@ latitude: 47.4171
 loc_type: city
 longitude: 7.0761
 score: 0.38
+snippet: Jura town in the Ajoie plain, watched over by the Prince-Bishops' Château
+  de Porrentruy.
 title: Porrentruy
 type: location
 ---

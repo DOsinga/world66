@@ -12,6 +12,8 @@ latitude: 45.503182
 loc_type: city
 longitude: -73.569806
 score: 0.6
+snippet: French-speaking island city on the St. Lawrence, mixing old stone streets
+  with terrasses and winter underground life.
 title: Montreal
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: -44.6942
 loc_type: city
 longitude: 169.1365
 score: 0.62
+snippet: Lakeside Otago resort town below alpine peaks, quieter than Queenstown but
+  close to ski fields and trails.
 title: Wanaka
 type: location
 ---

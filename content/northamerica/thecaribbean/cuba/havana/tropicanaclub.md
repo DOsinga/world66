@@ -1,6 +1,6 @@
 ---
-latitude: 23.0911
-longitude: -82.3894
+latitude: 23.099
+longitude: -82.417
 score: 7.1
 story: 'The Tropicana opened in 1939 in what were then the suburbs of Havana — its
   open-air design was possible because the Cuban climate allowed performances under

@@ -1,6 +1,6 @@
 ---
-latitude: 23.143
-longitude: -82.381
+latitude: 23.1429
+longitude: -82.3789
 score: 7.8
 story: 'In December 1946 the Hotel Nacional hosted what became known as the Havana
   Conference — a meeting of American Mafia bosses organised by Lucky Luciano and attended

@@ -1,7 +1,7 @@
 ---
 address: Empedrado No. 207, corner of San Ignacio, Old Havana
-latitude: 23.1401
-longitude: -82.351
+latitude: 23.1408
+longitude: -82.3523
 score: 8.0
 snippet: Hemingway's legendary mojito bar near Havana Cathedral, its walls plastered
   in decades of visitors' signatures — still the benchmark for the classic Cuban cocktail.

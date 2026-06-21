@@ -10,6 +10,8 @@ latitude: 28.4004
 loc_type: city
 longitude: -14.0049
 score: 0.57
+snippet: Canary Island of volcanic near-desert, constant wind, and some of Spain's
+  broadest beaches.
 title: Fuerteventura
 type: location
 ---

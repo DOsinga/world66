@@ -12,6 +12,8 @@ latitude: 43.949249
 loc_type: city
 longitude: 4.805901
 score: 0.61
+snippet: Papal city on the Rhône, enclosed by medieval walls and dominated by the
+  Palais des Papes.
 title: Avignon
 type: location
 ---

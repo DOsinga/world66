@@ -5,6 +5,8 @@ latitude: 21.522462
 loc_type: city
 longitude: 70.460207
 score: 0.4
+snippet: Gujarati city at Mount Girnar's foot, with fortress ruins and access to Asiatic
+  lion country.
 title: Junagadh
 type: location
 ---

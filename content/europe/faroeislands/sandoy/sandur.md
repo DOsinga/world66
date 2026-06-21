@@ -10,6 +10,8 @@ latitude: 61.8348
 loc_type: city
 longitude: -6.8176
 score: 0.42
+snippet: Pastoral Sandoy village where Faroese art, old houses, and walking trails
+  meet a sheltered fjord.
 title: Sandur
 type: location
 ---

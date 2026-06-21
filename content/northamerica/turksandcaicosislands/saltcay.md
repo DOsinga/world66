@@ -6,6 +6,8 @@ latitude: 21.333
 loc_type: city
 longitude: -71.2
 score: 0.49
+snippet: Tiny Turks and Caicos island where old salt salinas and windmill ruins shape
+  the landscape.
 title: Salt Cay
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 54.902662
 loc_type: city
 longitude: 8.331149
 score: 0.47
+snippet: North Sea island of dunes, thatched villages, and beach culture shaped by
+  Hamburg wealth.
 title: Sylt
 type: location
 ---

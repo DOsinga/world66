@@ -6,6 +6,8 @@ latitude: 42.441524
 loc_type: city
 longitude: 19.262108
 score: 0.39
+snippet: Montenegrin capital rebuilt in Yugoslav style, with Ottoman traces beside
+  the Morača River.
 title: Podgorica
 type: location
 ---

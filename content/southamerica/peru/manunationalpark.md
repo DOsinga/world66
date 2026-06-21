@@ -1,10 +1,12 @@
 ---
-title: Manu National Park
-type: location
-loc_type: feature
 latitude: -12.0
+loc_type: feature
 longitude: -71.5
 score: 0.56
+snippet: Peruvian Amazon reserve spanning cloud forest to lowland rainforest, with
+  exceptional bird and mammal diversity.
+title: Manu National Park
+type: location
 ---
 
 Manu National Park is one of the most biodiverse places on earth — a vast protected area in the Amazon basin of southeastern Peru that covers over 1.7 million hectares across the full altitudinal range from Andean cloud forest to lowland rainforest. The UNESCO World Heritage site contains more species of birds than all of Europe combined, and its mammal, reptile, and plant diversity is similarly staggering. Jaguars, giant otters, tapirs, harpy eagles, and hundreds of parrot species live here. The oxbow lakes along the Manu River, where black caimans bask in the shallows and macaws flock to clay licks in the thousands, are among the most extraordinary wildlife spectacles in South America.

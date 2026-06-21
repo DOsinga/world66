@@ -11,6 +11,8 @@ latitude: 50.776351
 loc_type: city
 longitude: 6.083862
 score: 0.51
+snippet: German border city of hot springs and Charlemagne's cathedral, once capital
+  of his empire.
 title: Aachen
 type: location
 ---

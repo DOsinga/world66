@@ -10,6 +10,8 @@ latitude: 45.815
 loc_type: city
 longitude: 15.9819
 score: 0.54
+snippet: Croatian capital with Austro-Hungarian boulevards, café culture, and a medieval
+  Upper Town.
 title: Zagreb
 type: location
 ---

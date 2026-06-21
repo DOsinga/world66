@@ -9,6 +9,8 @@ latitude: 15.8356
 loc_type: city
 longitude: -87.9506
 score: 0.28
+snippet: Working Caribbean port whose cargo waterfront gives way to Omoa's colonial
+  fortress and beaches.
 title: Puerto Cortés
 type: location
 ---

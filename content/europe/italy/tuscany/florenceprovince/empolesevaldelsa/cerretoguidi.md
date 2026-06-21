@@ -1,16 +1,18 @@
 ---
-title: Cerreto Guidi
-type: location
-latitude: 43.7667
-longitude: 10.8833
-loc_type: city
 done:
   location_enrich: '2026-06-01'
+latitude: 43.7667
+loc_type: city
+longitude: 10.8833
+score: 0.41
+snippet: Tuscan hill town where a Medici hunting villa anchors vineyards and Padule
+  di Fucecchio views.
 sources:
 - https://en.wikipedia.org/wiki/Cerreto_Guidi
 - https://en.wikipedia.org/wiki/Isabella_de%27_Medici
 - https://en.wikipedia.org/wiki/Medici_villas
-score: 0.41
+title: Cerreto Guidi
+type: location
 ---
 
 Cerreto Guidi is a quiet Tuscan hill town with an outsized historical legacy: its Medici hunting villa, commissioned by Cosimo I in the sixteenth century, is one of the UNESCO-listed Medici Villas and now houses a museum dedicated to Isabella de' Medici, the brilliant and tragic daughter who died here in 1576. That story alone makes Cerreto Guidi worth visiting, but the town offers more than a single landmark. Perched between the Montalbano hills to the east and the vast Padule di Fucecchio wetlands to the west, it sits in a landscape of vineyards and olive groves that has changed remarkably little over the centuries.

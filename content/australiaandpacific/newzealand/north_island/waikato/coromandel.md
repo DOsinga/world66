@@ -4,11 +4,13 @@ done:
   location_cleanup: '2026-04-07'
   poi_cleanup: '2026-04-19'
 latitude: -36.760161
+loc_type: region
 longitude: 175.497274
 score: 0.59
+snippet: Bush-covered New Zealand peninsula where volcanic hills drop to beaches,
+  coves, and kauri forest.
 title: Coromandel
 type: location
-loc_type: region
 ---
 
 The **Coromandel Peninsula** juts out into the Hauraki Gulf east of Auckland, close enough to see from the city on a clear day yet unmistakably its own place. Jagged volcanic hills covered in native bush run down the spine of the peninsula, dropping to a coastline of sandy beaches, sheltered coves, and rocky headlands. It's 90 minutes from New Zealand's largest city, but it feels considerably further away.

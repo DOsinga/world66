@@ -10,6 +10,8 @@ latitude: 53.798182
 loc_type: city
 longitude: 21.577246
 score: 0.42
+snippet: Masurian lake town on a narrow isthmus between sailing waters and forested
+  trails.
 title: Mikolajki
 type: location
 ---

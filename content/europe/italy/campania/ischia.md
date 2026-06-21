@@ -10,6 +10,8 @@ latitude: 40.734205
 loc_type: region
 longitude: 13.947125
 score: 0.7
+snippet: Bay of Naples island defined by thermal springs, beaches, and an extinct
+  volcano.
 title: Ischia
 type: location
 ---

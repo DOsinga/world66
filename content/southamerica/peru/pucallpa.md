@@ -10,6 +10,8 @@ latitude: -8.382074
 loc_type: city
 longitude: -74.538751
 score: 0.31
+snippet: Ucayali River jungle city and gateway to Shipibo communities around Lago
+  Yarinacocha.
 title: Pucallpa
 type: location
 ---

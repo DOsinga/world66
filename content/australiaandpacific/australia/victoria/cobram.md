@@ -10,6 +10,8 @@ latitude: -35.9198
 loc_type: city
 longitude: 145.6484
 score: 0.28
+snippet: Murray River town known for sandy inland beaches, red gum shade, and fruit-growing
+  country.
 title: Cobram
 type: location
 ---

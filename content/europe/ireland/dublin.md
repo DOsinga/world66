@@ -23,11 +23,6 @@ The literary heritage is everywhere. **Davy Byrne's** on Duke Street — where L
 
 And the **pubs**. **The Stag's Head**, **Mulligan's** (the 18th-century pub Bloom drinks in), **The Long Hall**, **Kehoe's**, and **Grogan's** are all pubs of real character that have resisted over-modernisation. **Temple Bar** is the tourist-heavy music quarter — loud, crowded, and expensive, but the traditional music sessions are the real thing. Pubs are still social hubs here in a way they no longer are in most of Britain.
 
-Dublin's neighbourhoods add texture. The Georgian squares south of the centre — Merrion, Fitzwilliam — are among the finest streets of 18th-century architecture in Europe. The **Docklands** has been transformed into a modern riverside district. Further out, coastal villages like [Dún Laoghaire](/europe/ireland/southcountykillineydalkeydunlaoghaire), Dalkey, and Howth are reachable in 30 minutes on the DART train and give you sea air and cliff walks on the doorstep of the city.
+Dublin's neighbourhoods add texture. The Georgian squares south of the centre — Merrion, Fitzwilliam — are among the finest streets of 18th-century architecture in Europe. The **Docklands** has been transformed into a modern riverside district. Further out, coastal villages like Dún Laoghaire, Dalkey, and Howth are reachable in 30 minutes on the DART train and give you sea air and cliff walks on the doorstep of the city.
 
 Summers are mild but rarely warm; rain is never far away. Bring a waterproof coat.
-
-## Destinations in Dublin
-
-- [Skerries](/europe/ireland/skerries)
-- [South County (Killiney / Dalkey / Dún Laoghaire)](/europe/ireland/southcountykillineydalkeydunlaoghaire)

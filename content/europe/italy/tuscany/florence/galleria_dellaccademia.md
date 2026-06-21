@@ -6,15 +6,16 @@ done:
 latitude: 43.7769
 longitude: 11.2587
 opening_hours: Tue–Sun 08:15–18:50; closed Mon
+score: 8.8
 snippet: Home to Michelangelo's original David
 tags:
 - 3 Days in Florence
 - things_to_do
 - museum
+- san_marco
 title: Galleria dell'Accademia
 type: poi
 url: www.galleriaaccademiafirenze.it
-score: 8.8
 ---
 
 Home to Michelangelo's original David — the marble colossus completed in 1504, 5.17 metres tall, displayed in the museum's purpose-built Tribune since 1873. The work repays extended looking: the oversized hands and head, intended to be viewed from below, and the coiled tension of the body are more powerful in person than any reproduction suggests.

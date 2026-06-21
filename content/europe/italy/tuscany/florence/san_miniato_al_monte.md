@@ -4,15 +4,16 @@ admission: Free
 latitude: 43.7598
 longitude: 11.2647
 opening_hours: Mon–Sat 08:00–19:30; Sun 08:30–19:30
-snippet: "Romanesque basilica above Florence with Gregorian vespers at sunset"
+score: 9.1
+snippet: Romanesque basilica above Florence with Gregorian vespers at sunset
 tags:
 - 3 Days in Florence
 - things_to_do
 - church
 - square
+- oltrarno
 title: San Miniato al Monte
 type: poi
-score: 9.1
 ---
 
 An 11th-century Romanesque basilica above Piazzale Michelangelo, often missed by visitors who stop at the terrace below. The green-and-white marble facade, geometric inlaid floors, and golden mosaic apse are among the finest medieval interiors in Tuscany. The resident Benedictine monks sing Gregorian vespers daily at around 17:30 — attending is free and one of the most unexpectedly moving experiences the city offers.

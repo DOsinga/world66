@@ -1,19 +1,22 @@
 ---
 latitude: 53.338916
 longitude: -6.249344
-snippet: Dublin's finest Georgian square — Oscar Wilde's childhood home on the north side
+score: 8.3
+snippet: Dublin's finest Georgian square — Oscar Wilde's childhood home on the north
+  side
+story: 'The statue of Oscar Wilde reclining on a rock in the northwest corner of the
+  park was installed in 1997 and is about as irreverent as public sculpture gets —
+  he is dressed in a smoking jacket, languidly draped, and coloured in vivid greens
+  and pinks. Wilde grew up at No. 1 Merrion Square, visible from the statue''s eyeline.
+
+  '
 tags:
 - things_to_do
 - sight
 - neighbourhood
+- georgian_dublin
 title: Merrion Square
 type: poi
-story: >
-  The statue of Oscar Wilde reclining on a rock in the northwest corner of the park
-  was installed in 1997 and is about as irreverent as public sculpture gets — he is
-  dressed in a smoking jacket, languidly draped, and coloured in vivid greens and
-  pinks. Wilde grew up at No. 1 Merrion Square, visible from the statue's eyeline.
-score: 8.3
 ---
 
 Merrion Square is the finest of Dublin's Georgian squares and one of the best-preserved 18th-century streetscapes in Europe. The four sides of the square are lined with terraces of brick townhouses built between the 1760s and the 1830s, each with the distinctive Dublin hallmarks: wide door fanlights, decorative ironwork, and colourful front doors.

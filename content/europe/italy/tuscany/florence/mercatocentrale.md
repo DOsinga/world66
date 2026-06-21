@@ -4,13 +4,14 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 43.7751
 longitude: 11.2524
+score: 7.1
 snippet: Historic iron-and-glass market hall with gourmet food floor
 tags:
 - things_to_do
 - market
+- san_lorenzo_quarter
 title: Mercato Centrale
 type: poi
-score: 7.1
 ---
 
 Florence's main market, housed in a fine late 19th-century steel and glass building near the San Lorenzo complex. The ground floor sells fresh meat, fish, cheese, and produce. The upper floor was transformed into a gourmet food hall where you can eat well at reasonable prices from multiple vendors. Busy from morning until evening on weekdays.

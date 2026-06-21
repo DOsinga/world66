@@ -9,6 +9,8 @@ latitude: 6.486906
 loc_type: city
 longitude: 99.304808
 score: 0.51
+snippet: Andaman marine park of jungle islands, mangrove creeks, prison ruins, and
+  lightly developed beaches
 title: Tarutao
 type: location
 ---

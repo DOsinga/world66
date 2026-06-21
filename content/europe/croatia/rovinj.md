@@ -10,6 +10,8 @@ latitude: 45.080741
 loc_type: city
 longitude: 13.641728
 score: 0.65
+snippet: Venetian Istrian harbour town of steep cobbled lanes, crowned by St. Euphemia
+  above the Adriatic
 title: Rovinj
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 4.937154
 loc_type: city
 longitude: -52.325874
 score: 0.35
+snippet: French Guiana capital where a tropical Atlantic island city keeps French
+  streets, palms, and markets
 title: Cayenne
 type: location
 ---

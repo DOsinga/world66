@@ -10,6 +10,8 @@ latitude: 1.6139
 loc_type: city
 longitude: 7.4057
 score: 0.48
+snippet: Small São Tomé and Príncipe island of rainforest, endemic birds, and slow
+  Atlantic village life
 sources:
 - https://en.wikipedia.org/wiki/Pr%C3%ADncipe
 - https://en.wikipedia.org/wiki/Island_of_Pr%C3%ADncipe_Biosphere_Reserve

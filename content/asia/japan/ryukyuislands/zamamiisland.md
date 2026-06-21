@@ -9,6 +9,8 @@ latitude: 26.235
 loc_type: city
 longitude: 127.3019
 score: 0.57
+snippet: Kerama island near Okinawa, with clear coral water, winter whales, and turtle
+  beaches
 title: Zamami Island
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 65.706497
 loc_type: city
 longitude: -21.669196
 score: 0.4
+snippet: Westfjords fishing village on Steingrímsfjörður, known for Icelandic sorcery
+  history and Strandir coast access
 title: Holmavik
 type: location
 ---

@@ -1,17 +1,19 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-  poi_cleanup: '2026-04-21'
   location_enrich: '2026-06-04'
-latitude: 32.71742
-longitude: -117.162772
-score: 0.61
-title: San Diego
-type: location
-loc_type: city
+  poi_cleanup: '2026-04-21'
 image: sandiego.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:La_Jolla_Shores_view_(cropped).jpg
+latitude: 32.71742
+loc_type: city
+longitude: -117.162772
+score: 0.61
+snippet: Southern California border city built around Pacific beaches, Balboa Park,
+  and a relaxed outdoor climate
+title: San Diego
+type: location
 ---
 
 San Diego sits at the southwestern corner of the continental United States, against the Mexican border, and benefits from one of the most agreeable climates in the country — high 60s to mid 70s most of the year, long stretches without rain, and a Pacific that's swimmable from June through October. The city is more relaxed than [Los Angeles](/northamerica/unitedstates/california/losangeles), more compact than San Francisco, and built almost entirely around the outdoors.

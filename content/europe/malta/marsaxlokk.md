@@ -10,6 +10,8 @@ latitude: 35.841766
 loc_type: city
 longitude: 14.544835
 score: 0.5
+snippet: Maltese fishing village on a sheltered bay, lined with painted luzzu boats
+  and seafood stalls
 title: Marsaxlokk
 type: location
 ---

@@ -5,9 +5,11 @@ done:
 latitude: 21.8
 loc_type: city
 longitude: -71.75
+score: 0.49
+snippet: Largest Turks and Caicos island, with limestone coves, caves, and a quieter
+  pre-resort Caribbean feel
 title: Middle Caicos
 type: location
-score: 0.49
 ---
 
 Middle Caicos is the largest island in the Turks and Caicos but one of the least developed. Connected to [North Caicos](/northamerica/turksandcaicosislands/northcaicos) by a causeway, it has fewer than 300 residents and no resorts — just a handful of small guesthouses and rental cottages.

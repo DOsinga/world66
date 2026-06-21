@@ -11,6 +11,8 @@ latitude: 36.758389
 loc_type: city
 longitude: -5.366074
 score: 0.52
+snippet: White Andalusian mountain village in a rainy sierra of Spanish fir forest
+  and limestone trails
 title: Grazalema
 type: location
 ---

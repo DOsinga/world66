@@ -10,6 +10,8 @@ latitude: 43.3601
 loc_type: city
 longitude: -80.3123
 score: 0.3
+snippet: Waterloo Region city where Galt, Preston, and Hespeler meet along the Grand
+  and Speed rivers
 title: Cambridge
 type: location
 ---

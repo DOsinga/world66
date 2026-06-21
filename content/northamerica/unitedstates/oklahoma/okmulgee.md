@@ -10,6 +10,8 @@ latitude: 35.667708
 loc_type: city
 longitude: -95.969012
 score: 0.24
+snippet: Oklahoma city and Muscogee Nation capital centred on Creek history and a
+  preserved council house.
 title: Okmulgee
 type: location
 ---

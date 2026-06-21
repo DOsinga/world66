@@ -11,6 +11,8 @@ latitude: 17.017495
 loc_type: city
 longitude: 54.101092
 score: 0.5
+snippet: Dhofar coastal city transformed by the khareef monsoon into Oman's greenest
+  landscape.
 title: Salalah
 type: location
 ---

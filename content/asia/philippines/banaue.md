@@ -9,6 +9,8 @@ latitude: 16.9118
 loc_type: city
 longitude: 121.0614
 score: 0.56
+snippet: Ifugao mountain town serving as the gateway to northern Luzon's sculpted
+  rice terraces.
 title: Banaue
 type: location
 ---

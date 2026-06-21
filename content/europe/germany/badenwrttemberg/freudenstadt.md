@@ -12,6 +12,8 @@ latitude: 48.4638
 loc_type: city
 longitude: 8.4112
 score: 0.42
+snippet: Black Forest spa town built around Germany's largest enclosed market square
+  and Renaissance arcades.
 title: Freudenstadt
 type: location
 ---

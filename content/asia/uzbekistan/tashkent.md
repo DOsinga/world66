@@ -10,6 +10,8 @@ latitude: 41.3123
 loc_type: city
 longitude: 69.2787
 score: 0.45
+snippet: Uzbek capital rebuilt with Soviet boulevards, decorated metro stations, and
+  pockets of Silk Road history.
 title: Tashkent
 type: location
 ---

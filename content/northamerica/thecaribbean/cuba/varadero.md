@@ -10,6 +10,8 @@ latitude: 23.1568
 loc_type: city
 longitude: -81.2511
 score: 0.55
+snippet: Cuban beach resort peninsula lined with white sand between the Straits of
+  Florida and Bahía de Cárdenas.
 title: Varadero
 type: location
 ---

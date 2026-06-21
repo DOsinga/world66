@@ -12,6 +12,8 @@ latitude: 40.9369
 loc_type: city
 longitude: 24.4123
 score: 0.5
+snippet: Eastern Macedonian port city layered with Ottoman houses, aqueduct arches,
+  and Aegean harbour views.
 title: Kavala
 type: location
 ---

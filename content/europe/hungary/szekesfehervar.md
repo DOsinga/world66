@@ -10,6 +10,8 @@ latitude: 47.191017
 loc_type: city
 longitude: 18.410811
 score: 0.4
+snippet: Medieval Hungarian coronation city with baroque streets wrapped around royal
+  basilica ruins.
 title: Székesfehérvár
 type: location
 ---

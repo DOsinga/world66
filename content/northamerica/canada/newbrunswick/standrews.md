@@ -10,6 +10,8 @@ latitude: 45.0737
 loc_type: city
 longitude: -67.0528
 score: 0.41
+snippet: Bay of Fundy seaside town with Loyalist streets, pre-1880 buildings, and
+  Passamaquoddy Bay views.
 title: St. Andrews
 type: location
 ---

@@ -8,16 +8,18 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Jean-Pol_GRANDMONT
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Spa_So1JPG.jpg
 latitude: 50.640281
+loc_type: country
 longitude: 4.666715
 quick_facts:
-  Population: "11.7 million"
+  Beer Varieties: Over 1,500 distinct beers
   Currency: Euro (€)
-  Beer Varieties: "Over 1,500 distinct beers"
-  Official Languages: "3 — Dutch, French, and German"
+  Official Languages: 3 — Dutch, French, and German
+  Population: 11.7 million
 score: 0.75
+snippet: Compact northwestern European country of medieval cities, beer traditions,
+  linguistic borders, and dense railway links.
 title: Belgium
 type: location
-loc_type: country
 ---
 
 Belgium is a small, densely packed country in north-western Europe, squeezed between France, the Netherlands, Germany, and Luxembourg. It is easy to underestimate — it gets overlooked by travellers heading to Paris or Amsterdam — but it is one of the most rewarding destinations on the continent.

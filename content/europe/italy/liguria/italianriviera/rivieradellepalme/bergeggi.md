@@ -9,6 +9,8 @@ latitude: 44.249735
 loc_type: city
 longitude: 8.443353
 score: 0.47
+snippet: Ligurian coastal village above a marine reserve, offshore islet, and Neolithic
+  sea cave.
 title: Bergeggi
 type: location
 ---

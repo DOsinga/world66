@@ -12,6 +12,7 @@ longitude: 17.6658
 score: 0.42
 title: Travnik
 type: location
+snippet: "Central Bosnian town of Ottoman viziers, with a fortress, coloured mosque, and Ivo Andrić connections."
 ---
 
 Travnik is a small, walkable town in central Bosnia that served as the seat of the Ottoman viziers for 150 years — making it, for a time, the most important town in Bosnia after [Sarajevo](/europe/bosniaandherzegovina/sarajevo). It is the birthplace of Ivo Andrić, the Nobel Prize-winning author of *The Bridge on the Drina* and *Travnik Chronicles*, and his former home is now a museum.

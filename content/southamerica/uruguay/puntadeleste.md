@@ -12,6 +12,7 @@ longitude: -54.944
 score: 0.54
 title: Punta del Este
 type: location
+snippet: "Uruguayan beach resort on a peninsula where the Río de la Plata meets the Atlantic."
 ---
 
 Punta del Este is South America's most glamorous beach resort — a narrow peninsula jutting into the Atlantic where the Rio de la Plata meets the ocean. It has two very different coastlines: the sheltered bay side, calm and good for families, and the open ocean side, where waves roll in hard and the beautiful people go to be seen.

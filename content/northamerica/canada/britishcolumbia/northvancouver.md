@@ -12,6 +12,7 @@ longitude: -123.073792
 score: 0.46
 title: North Vancouver
 type: location
+snippet: "North Shore city backed by the Coast Mountains, with suspension bridges, forest parks, and SeaBus access."
 ---
 
 North Vancouver sits on the north shore of Burrard Inlet, about 8 km from downtown [Vancouver](/northamerica/canada/britishcolumbia/vancouver) and backed by the Coast Mountains. Access is via the Lions Gate Bridge, the Second Narrows Bridge, or the [SeaBus](/northamerica/canada/britishcolumbia/northvancouver/seabus) passenger ferry from Waterfront Station — which is itself a pleasant crossing with views of the harbour and skyline.

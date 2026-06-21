@@ -12,6 +12,7 @@ longitude: 2.489021
 score: 0.42
 title: Olot
 type: location
+snippet: Catalan volcanic town on the Garrotxa plateau, surrounded by extinct cones and lava-field beech forests.
 ---
 
 Olot is not an obvious volcanic landscape. The volcanoes are extinct — the youngest erupted around 11,000 years ago — and the Garrotxa plateau is deeply green, densely forested, and thoroughly farmed. But the shapes of the land give it away: smooth, symmetrical cones rising from the valley floors, craters filled with beech or oak, lava fields that created soils of unusual fertility. The [Zona Volcànica de la Garrotxa](/europe/spain/catalonia/olot/zona_volcanica_garrotxa) contains more than forty volcanic cones and twenty-eight documented lava flows, making it the best-preserved volcanic landscape in the Iberian Peninsula, and walking through it in autumn, when the beeches turn, is an experience that stays with visitors long after they have left.

@@ -14,6 +14,7 @@ sources:
 - https://en.wikipedia.org/wiki/Oskemen
 title: Ust-Kamenogorsk
 type: location
+snippet: Industrial city in eastern Kazakhstan at the Irtysh-Ulba confluence, backed by Altai foothills.
 ---
 
 Ust-Kamenogorsk — or Oskemen in Kazakh — is the capital of the East Kazakhstan Region and the industrial heart of eastern Kazakhstan. The city sits at exactly the 50th parallel, at the confluence of the Irtysh and Ulba rivers, in a landscape that transitions from steppe to the foothills of the Altai Mountains. It was founded as a Russian military fort in 1720 and later grew into one of the Soviet Union's most important metallurgical centres, processing the zinc, lead, and copper ore from the surrounding mines.

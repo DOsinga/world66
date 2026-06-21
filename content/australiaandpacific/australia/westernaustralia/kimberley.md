@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Kimberley_(Western_Australia)
 title: Kimberley
 type: location
+snippet: Remote Western Australian region of ancient red-rock gorges, cattle stations, and wet-season floodplains.
 ---
 
 The Kimberley occupies the remote northwest corner of Western Australia — a region the size of California with a population of around 40,000 people. It is one of the most geologically ancient landscapes on earth: the eroded remnants of a billion-year-old plateau, carved by rivers, cracked by heat, and shaped into gorges, ranges, and floodplains that look like nothing else on the continent. In the wet season (November to March) the rivers flood the valleys and the land goes green; in the dry (April to October) the red rock reasserts itself and the waterholes shrink, concentrating wildlife around the remaining water.

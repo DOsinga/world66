@@ -8,6 +8,7 @@ longitude: 47.430826
 score: 0.09
 title: Galkayo
 type: location
+snippet: Divided central Somali city straddling Puntland and Galmudug, shaped by livestock trade and clan politics.
 ---
 
 Galkayo is a divided city straddling the administrative boundary between Puntland in the north and the Galmudug region in the south. The two halves operate under different administrations and have at times been separated by checkpoints and inter-clan tension. The northern, Puntland-administered half is the more stable side.

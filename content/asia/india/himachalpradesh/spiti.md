@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Spiti_Valley
 title: Spiti Valley
 type: location
+snippet: Trans-Himalayan cold-desert valley of Buddhist villages, cliff monasteries, and stark mineral-coloured mountains.
 ---
 
 Spiti Valley is one of the most dramatic landscapes in India — a cold desert plateau at 3,800 to 4,500 metres in the Trans-Himalayan zone of Himachal Pradesh, enclosed by stark brown mountains streaked with mineral colours and bisected by the turquoise Spiti River. This is India at its most remote and most spectacular: the landscape looks more like Tibet than anything else in the Subcontinent, which makes sense since it was part of the Tibetan Kingdom until the 16th century. The population is small, Buddhist, and deeply traditional, and the villages cling to cliff faces and river bends in ways that seem almost implausible from a distance.

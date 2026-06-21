@@ -13,6 +13,7 @@ longitude: -6.910923
 score: 0.53
 title: Ouarzazate
 type: location
+snippet: Pre-Saharan Moroccan hub where desert kasbahs and film-studio sets frame routes toward the dunes.
 ---
 
 Ouarzazate sits at 1,160 metres in the pre-Saharan south of Morocco, where the High Atlas mountains give way to the arid steppe and eventually to the Sahara. It is the main town and transport hub of the region — the departure point for the Draa Valley, the Dades and Todra gorges, and the great sand dunes near Merzouga. The Moroccan government developed it in the 1980s as a planned tourism centre, giving it wide boulevards and a regional airport, but the town itself is quieter and more relaxed than its outsized infrastructure suggests.

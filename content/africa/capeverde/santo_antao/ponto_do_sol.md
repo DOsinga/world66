@@ -12,6 +12,7 @@ longitude: -25.0929
 score: 0.43
 title: Ponta do Sol
 type: location
+snippet: Cape Verdean fishing town wedged between Santo Antão's green mountains and the Atlantic.
 ---
 
 Ponta do Sol is the northernmost town on Santo Antão and one of the most atmospheric spots in Cape Verde. It sits wedged between steep green mountains and the Atlantic, at the mouth of a dramatic river valley. The setting is extraordinary — dark volcanic cliffs, terraced hillsides, and a small cluster of pastel-coloured colonial buildings along the waterfront.

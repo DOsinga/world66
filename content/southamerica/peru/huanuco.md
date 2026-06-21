@@ -8,6 +8,8 @@ latitude: -9.9306
 loc_type: city
 longitude: -76.2422
 score: 0.37
+snippet: Andean valley city known for Kotosh's ancient crossed-hands temple and a
+  mild agricultural setting.
 title: Huánuco
 type: location
 ---

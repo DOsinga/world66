@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-04'
+image: lubumbashi.jpg
+image_attribution: Oasisk.
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Downtown_Lubumbashi,_Democratic_Republic_of_the_Congo_-_20061130.jpg
 latitude: -11.6647
 loc_type: city
 longitude: 27.4794
 score: 0.23
+snippet: Katanga mining city near Zambia, with copper wealth, colonial avenues, and
+  a southern African feel.
 title: Lubumbashi
 type: location
-image: lubumbashi.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Downtown_Lubumbashi,_Democratic_Republic_of_the_Congo_-_20061130.jpg
-image_license: CC BY 2.5
-image_attribution: Oasisk.
 ---
 
 Located some 1,500 km southeast of [Kinshasa](/africa/congokinshasa/kinshasa), Lubumbashi is the DRC's second city and the capital of the copper-rich Katanga region. It sits close to the [Zambian](/africa/zambia) border, and in many ways feels closer to southern Africa than to the rest of the Congo. The city is relatively compact, with tree-lined avenues, colonial-era buildings, and a more orderly feel than the capital.

@@ -6,6 +6,8 @@ latitude: 40.352445
 loc_type: city
 longitude: 45.127131
 score: 0.36
+snippet: Armenian lake region surrounding high-altitude Lake Sevan, with beaches,
+  monasteries, and cold turquoise water.
 title: Gegharkunik Marz
 type: location
 ---

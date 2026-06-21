@@ -10,6 +10,8 @@ latitude: -26.0003
 loc_type: city
 longitude: 27.5478
 score: 0.41
+snippet: Gauteng mountain town in the ancient Magaliesberg range, popular for weekends
+  outside Johannesburg.
 title: Magaliesburg
 type: location
 ---

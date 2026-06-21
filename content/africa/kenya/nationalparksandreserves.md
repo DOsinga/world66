@@ -1,9 +1,11 @@
 ---
+latitude: -1.0
+loc_type: region
+longitude: 37.0
+snippet: Kenyan wildlife region linking savannah, moorland, and coast through parks
+  such as Masai Mara and Amboseli.
 title: National Parks and Reserves
 type: location
-loc_type: region
-latitude: -1.0
-longitude: 37.0
 ---
 
 Kenya's network of national parks and game reserves is one of the finest in Africa, encompassing habitats from alpine moorland to open savannah to tropical coast. The parks protect an extraordinary diversity of wildlife, and several are synonymous with the best wildlife viewing in the world.

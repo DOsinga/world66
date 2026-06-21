@@ -1,17 +1,19 @@
 ---
-title: Hamilton
-type: location
-latitude: 32.2935
-longitude: -64.7842
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-06-04'
-score: 0.56
-loc_type: city
 image: hamilton_capital.jpg
-image_source: https://www.flickr.com/photos/29561984@N06/3267120142
-image_license: CC BY-SA 2.0
 image_attribution: Vernaccia on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/29561984@N06/3267120142
+latitude: 32.2935
+loc_type: city
+longitude: -64.7842
+score: 0.56
+snippet: Tiny Bermudian capital on Hamilton Harbour, centred on Front Street's shops,
+  banks, and cruise docks.
+title: Hamilton
+type: location
 ---
 
 Hamilton is the capital and commercial centre of Bermuda, with a population of around 1,000 in the city proper — making it one of the smallest capitals in the world by population, though much of the island's working population passes through daily. [Front Street](/northamerica/bermuda/hamilton_capital/front_street) runs along the harbour and is the main commercial strip: department stores, duty-free shops, banks, and the visitors bureau. Cruise ships dock directly on Front Street, making the city immediately accessible from the pier.

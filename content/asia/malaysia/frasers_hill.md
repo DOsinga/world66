@@ -10,6 +10,8 @@ latitude: 3.713048
 loc_type: city
 longitude: 101.736557
 score: 0.45
+snippet: Quiet Pahang hill station with cool montane forest and some of Peninsular
+  Malaysia's richest birdlife.
 title: Fraser's Hill
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 42.8666
 loc_type: feature
 longitude: 19.6981
 score: 0.44
+snippet: Northern Montenegro mountain massif of rounded volcanic peaks, glacial lakes,
+  and Biogradska Gora forest.
 title: Bjelasica
 type: location
 ---

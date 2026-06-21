@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-02'
+image: kalbarri.jpg
+image_attribution: W. Bulach
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:00_1777_Kalbarri_National_Park_in_Western_Australia_-_K%C3%BCste.jpg
 latitude: -27.710999
 loc_type: city
 longitude: 114.163816
 score: 0.47
+snippet: Small Western Australia river town beside Murchison gorges and red sandstone
+  cliffs on the Indian Ocean.
 title: Kalbarri
 type: location
-image: kalbarri.jpg
-image_source: https://commons.wikimedia.org/wiki/File:00_1777_Kalbarri_National_Park_in_Western_Australia_-_K%C3%BCste.jpg
-image_license: CC BY-SA 4.0
-image_attribution: W. Bulach
 ---
 
 Kalbarri sits at the mouth of the Murchison River, 570 kilometres north of [Perth](/australiaandpacific/australia/westernaustralia/perth) and about 170 kilometres north of [Geraldton](/australiaandpacific/australia/westernaustralia/geraldton). It is a small town — fishing boats, a pub, a few supermarkets — but the surrounding landscape is extraordinary. The Murchison River has carved a series of dramatic gorges through Kalbarri National Park, and the coastline to the south is a succession of red sandstone cliffs plunging into the Indian Ocean.

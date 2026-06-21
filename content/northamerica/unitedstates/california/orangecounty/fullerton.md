@@ -10,6 +10,8 @@ latitude: 33.8708
 loc_type: city
 longitude: -117.9294
 score: 0.28
+snippet: Orange County college city with a historic downtown, music scene, and Cal
+  State campus.
 title: Fullerton
 type: location
 ---

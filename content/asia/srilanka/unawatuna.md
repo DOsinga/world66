@@ -12,6 +12,8 @@ latitude: 6.0202
 loc_type: city
 longitude: 80.2475
 score: 0.57
+snippet: Southern Sri Lankan beach village wrapped around a reef-sheltered bay near
+  Galle.
 title: Unawatuna
 type: location
 ---

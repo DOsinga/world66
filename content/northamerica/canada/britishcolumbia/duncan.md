@@ -10,6 +10,8 @@ latitude: 48.7787
 loc_type: city
 longitude: -123.708
 score: 0.35
+snippet: Cowichan Valley town on Vancouver Island known for First Nations totem poles
+  and nearby wineries.
 title: Duncan
 type: location
 ---

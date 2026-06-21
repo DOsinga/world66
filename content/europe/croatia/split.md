@@ -11,6 +11,8 @@ latitude: 43.511638
 loc_type: city
 longitude: 16.439966
 score: 0.71
+snippet: Dalmatian port city grown through the inhabited Roman walls of Diocletian's
+  Palace.
 title: Split
 type: location
 ---

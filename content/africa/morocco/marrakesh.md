@@ -11,6 +11,8 @@ latitude: 31.625826
 loc_type: city
 longitude: -7.989161
 score: 0.71
+snippet: Moroccan imperial city of ochre medina walls, Jemaa el-Fna theatre, and Atlas
+  Mountain backdrops.
 title: Marrakesh
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: -41.271085
 loc_type: city
 longitude: 173.283676
 score: 0.53
+snippet: Sunny South Island city where coastal plains meet three national parks at
+  the top of New Zealand.
 title: Nelson
 type: location
 ---

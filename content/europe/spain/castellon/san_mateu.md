@@ -10,6 +10,8 @@ latitude: 40.465033
 loc_type: city
 longitude: 0.179319
 score: 0.34
+snippet: Medieval Valencian town whose Gothic church and arcaded Plaça Major recall
+  the Order of Montesa.
 title: Sant Mateu
 type: location
 ---

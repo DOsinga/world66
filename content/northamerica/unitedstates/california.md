@@ -9,6 +9,8 @@ latitude: 36.701463
 loc_type: region
 longitude: -118.755997
 score: 0.55
+snippet: Vast Pacific state spanning redwood coast, desert basins, Sierra peaks, and
+  the cities of Los Angeles and San Francisco.
 title: California
 type: location
 ---

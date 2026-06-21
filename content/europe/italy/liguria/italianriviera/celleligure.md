@@ -9,6 +9,8 @@ latitude: 44.3463
 loc_type: city
 longitude: 8.5444
 score: 0.48
+snippet: Small Ligurian beach resort with a rare sandy bay between Cape Celle and
+  Cape Olmo.
 title: Celle Ligure
 type: location
 ---

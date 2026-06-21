@@ -10,6 +10,8 @@ latitude: -6.138795
 loc_type: city
 longitude: 12.369014
 score: 0.2
+snippet: Northern Angolan city where the Congo River meets the Atlantic, dominated
+  by the Kwanda oil base.
 title: Soyo
 type: location
 ---

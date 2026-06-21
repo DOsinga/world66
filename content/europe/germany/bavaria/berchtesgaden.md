@@ -9,6 +9,8 @@ latitude: 47.633022
 loc_type: city
 longitude: 13.002005
 score: 0.58
+snippet: Bavarian Alpine market town surrounded by peaks and protected national parkland
+  near Austria.
 title: Berchtesgaden
 type: location
 ---

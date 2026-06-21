@@ -10,6 +10,8 @@ latitude: 47.8695
 loc_type: city
 longitude: 12.6485
 score: 0.39
+snippet: Southeastern Bavarian city with a broad medieval Stadtplatz and ties to Pope
+  Benedict XVI.
 title: Traunstein
 type: location
 ---

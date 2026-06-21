@@ -11,6 +11,8 @@ latitude: 33.594514
 loc_type: city
 longitude: -7.620028
 score: 0.51
+snippet: Moroccan commercial capital where Mauresque Art Deco gives the downtown its
+  strongest identity.
 title: Casablanca
 type: location
 ---

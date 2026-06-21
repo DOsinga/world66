@@ -10,6 +10,8 @@ latitude: 54.248558
 loc_type: city
 longitude: -6.968885
 score: 0.35
+snippet: Compact Irish market town near the Northern Ireland border, centred on a
+  diamond-shaped Ulster square.
 title: Monaghan
 type: location
 ---

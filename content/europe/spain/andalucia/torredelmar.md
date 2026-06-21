@@ -8,6 +8,7 @@ latitude: 36.7414
 loc_type: city
 longitude: -4.0946
 score: 0.45
+snippet: Unpretentious Costa del Sol beach resort at the mouth of the Vélez river.
 title: Torre del Mar
 type: location
 ---

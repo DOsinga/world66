@@ -6,6 +6,8 @@ latitude: 38.572332
 loc_type: city
 longitude: -94.878648
 score: 0.22
+snippet: Small Kansas county seat built around Park Square and a Romanesque Revival
+  courthouse.
 title: Paola
 type: location
 ---

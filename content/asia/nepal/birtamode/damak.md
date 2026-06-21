@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-17'
+image: damak.jpg
+image_attribution: Hari gurung77
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Damak_bazar.jpg
 latitude: 26.670146
 loc_type: city
 longitude: 87.680101
 score: 0.26
+snippet: Eastern Nepal town beside the Ratuwa river, surrounded by tea gardens near
+  the Indian border.
 title: Damak
 type: location
-image: damak.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Damak_bazar.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Hari gurung77
 ---
 
 Damak is a small town in the Jhapa district of eastern Nepal, about 50 km west of the Indian border crossing at Kakarvitta. The town straddles the Ratuwa river and is surrounded by [tea gardens](/asia/nepal/birtamode/damak/tea_gardens) — the area around Damak is part of Nepal's modest tea-growing belt, and you can walk through the plantations.

@@ -10,6 +10,7 @@ latitude: 35.8875
 loc_type: city
 longitude: 14.5167
 score: 0.5
+snippet: Tiny Maltese harbour city on a narrow Grand Harbour peninsula facing Valletta.
 title: Senglea
 type: location
 ---

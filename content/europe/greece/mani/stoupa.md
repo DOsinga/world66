@@ -9,6 +9,8 @@ latitude: 36.8468
 loc_type: city
 longitude: 22.2647
 score: 0.53
+snippet: Small beach village on the Outer Mani coast, set around two sheltered Peloponnese
+  bays.
 title: Stoupa
 type: location
 ---

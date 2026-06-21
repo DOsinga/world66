@@ -9,6 +9,7 @@ latitude: -34.0357
 loc_type: city
 longitude: 23.0485
 score: 0.54
+snippet: Garden Route lagoon town guarded by sandstone heads and known for oysters.
 sources:
 - https://en.wikipedia.org/wiki/Knysna
 title: Knysna

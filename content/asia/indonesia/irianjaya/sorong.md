@@ -10,6 +10,8 @@ latitude: -0.8634
 loc_type: city
 longitude: 131.2545
 score: 0.33
+snippet: Papuan port city at the Bird's Head Peninsula, used as the gateway to Raja
+  Ampat.
 title: Sorong
 type: location
 ---

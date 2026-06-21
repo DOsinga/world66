@@ -5,6 +5,8 @@ latitude: 40.6394
 loc_type: region
 longitude: 15.805
 score: 0.52
+snippet: Mountainous southern Italian region between Puglia and Calabria, anchored
+  by Matera's ancient cave districts.
 title: Basilicata
 type: location
 ---

@@ -12,6 +12,8 @@ image: fort_thompson.jpg
 image_source: https://commons.wikimedia.org/wiki/File:USACE_Fort_Thompson_Big_Bend_Dam.jpg
 image_license: Public domain
 image_attribution: Harry Weddington, U.S. Army Corps of Engineers
+snippet: Missouri River reservation town beside Big Bend Dam, Lake Sharpe, and ancient
+  Fort Thompson Mounds.
 ---
 
 Fort Thompson sits along the banks of the Missouri River near [Big Bend Dam](/northamerica/unitedstates/southdakota/fort_thompson/big_bend_dam), in the middle of the Crow Creek Sioux Reservation in central South Dakota. It is one of the poorest counties in the nation, but what the area lacks in wealth it makes up for in stark beauty: wide sky, open hills, and the blue expanse of [Lake Sharpe](/northamerica/unitedstates/southdakota/fort_thompson/lake_sharpe) — the reservoir the dam created — stretching north toward Pierre.

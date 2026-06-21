@@ -14,6 +14,8 @@ sources:
 title: Robertsport
 type: location
 score: 0.27
+snippet: Liberian coastal town between Lake Piso and the Atlantic, known for surf
+  breaks and Cape Mount views.
 ---
 
 *Africa > [Liberia](/africa/liberia) > Robertsport*

@@ -14,6 +14,8 @@ sources:
 title: Grand Etang Forest Reserve
 type: location
 score: 0.48
+snippet: Grenadian cloud-forest reserve around a volcanic crater lake, with wet trails
+  and Mona monkeys.
 ---
 
 Grand Etang Forest Reserve covers the mountainous interior of Grenada — about 1,500 hectares of cloud forest, elfin woodland and rainforest centred on the [Grand Etang Lake](/northamerica/thecaribbean/grenada/grandetangforestreserve/grand_etang_lake), a 13-hectare crater lake filling the cone of an extinct volcano at 530 metres above sea level. The reserve is the only major piece of upland Caribbean forest most visitors to Grenada will ever set foot in, and the main road from St George's to Grenville crosses it at the rim of the crater.

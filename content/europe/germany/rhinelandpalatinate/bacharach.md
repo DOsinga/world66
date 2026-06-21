@@ -14,6 +14,8 @@ sources:
 - https://en.wikipedia.org/wiki/Stahleck_Castle
 title: Bacharach
 type: location
+snippet: Medieval Rhine Gorge wine town packed between Riesling vineyards, half-timbered
+  lanes, and Stahleck Castle.
 ---
 
 Bacharach is one of the best-preserved medieval towns in the Rhine Gorge, a UNESCO World Heritage stretch between Rüdesheim and Koblenz. The town sits in a slight recess carved into the steep vineyard slopes — its name likely derives from the Latin for Bacchus's altar — and the setting is among the most romantic on the river.

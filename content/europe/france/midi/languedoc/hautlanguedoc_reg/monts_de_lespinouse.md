@@ -7,6 +7,8 @@ title: Monts de l'Espinouse
 type: location
 score: 0.44
 loc_type: feature
+snippet: Rugged Haut-Languedoc mountain plateau of chestnut forest, moorland ridges,
+  and views toward the Mediterranean.
 ---
 
 The Monts de l'Espinouse form the most dramatic part of the Parc Naturel Régional du Haut-Languedoc, rising sharply from the garrigue plains to form a brooding limestone plateau. The scenery is rougher and wilder than the wine country to the south — all chestnut forest, moor, and wind-scoured ridge.

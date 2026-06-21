@@ -10,6 +10,8 @@ latitude: 3.187426
 loc_type: city
 longitude: 113.04728
 score: 0.3
+snippet: Industrial Sarawak coastal town built on LNG, used as the jump-off for Similajau
+  National Park.
 title: Bintulu
 type: location
 ---

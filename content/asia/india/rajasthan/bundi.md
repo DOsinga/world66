@@ -10,6 +10,8 @@ latitude: 25.4368
 loc_type: city
 longitude: 75.7361
 score: 0.53
+snippet: Small Rajasthani town of step-wells, murals, and lanes below star-shaped
+  Taragarh Fort.
 title: Bundi
 type: location
 ---

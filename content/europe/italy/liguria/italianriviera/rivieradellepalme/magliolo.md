@@ -10,6 +10,8 @@ latitude: 44.1915
 loc_type: city
 longitude: 8.2504
 score: 0.36
+snippet: Quiet Ligurian village inland from Pietra Ligure, known for rural hills and
+  sport-climbing crags.
 title: Magliolo
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 18.5566
 loc_type: city
 longitude: -99.6053
 score: 0.55
+snippet: Steep Guerrero silver town of whitewashed lanes, terracotta roofs, and Santa
+  Prisca's baroque church.
 title: Taxco
 type: location
 ---

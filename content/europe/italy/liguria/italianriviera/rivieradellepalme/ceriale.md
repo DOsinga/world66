@@ -10,6 +10,8 @@ latitude: 44.091629
 loc_type: city
 longitude: 8.223251
 score: 0.42
+snippet: Western Ligurian beach town watched by a sixteenth-century Bastione and backed
+  by green valleys.
 title: Ceriale
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 42.1982
 loc_type: city
 longitude: 2.1933
 score: 0.45
+snippet: Catalan Pyrenean foothills town centred on Santa Maria de Ripoll's Romanesque
+  portal.
 title: Ripoll
 type: location
 ---

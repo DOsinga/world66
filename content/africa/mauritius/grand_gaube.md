@@ -10,6 +10,8 @@ latitude: -20.0144
 loc_type: city
 longitude: 57.6608
 score: 0.53
+snippet: Northeast Mauritius fishing village with a sheltered lagoon, working harbour,
+  and offshore island views.
 title: Grand Gaube
 type: location
 ---

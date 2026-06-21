@@ -12,6 +12,7 @@ longitude: 8.72915
 score: 0.44
 title: Winterthur
 type: location
+snippet: "Former Swiss industrial city with a compact old town and an unusually rich concentration of art museums."
 ---
 
 Winterthur is Switzerland's sixth-largest city and, improbably for a former industrial town, one of the country's best destinations for art. The Oskar Reinhart collections alone — split between a hillside villa and a museum in town — hold works by Cranach, El Greco, Renoir, Cézanne, and van Gogh. Add the Fotomuseum, the Kunstmuseum, and the Gewerbemuseum (design museum) and you have a concentration of galleries that rivals cities many times its size.

@@ -18,6 +18,7 @@ title: Pakistan
 type: location
 score: 0.64
 loc_type: country
+snippet: "Mountainous South Asian country where Karakoram peaks, Indus ruins, and Arabian Sea coast shape a long history."
 ---
 
 *Asia > Pakistan*

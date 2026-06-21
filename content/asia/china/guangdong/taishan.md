@@ -13,6 +13,7 @@ sources:
 title: Taishan
 type: location
 score: 0.32
+snippet: "Guangdong county-level city known as a major ancestral homeland of Chinese communities in North America."
 ---
 
 Taishan has a stronger claim than any other city in China to be considered the ancestral home of Chinese America. For most of the nineteenth and early twentieth centuries, the majority of Chinese immigrants to the United States and Canada came from this one county-level city in southwestern Guangdong — at the peak, estimates suggest that over seventy percent of all overseas Chinese in North America were Taishanese. The laundries, restaurants, and railroad gangs of nineteenth-century America were largely run by people from these villages. Before the 1980s, Taishanese was the predominant Chinese language in North American Chinatowns — not Cantonese, not Mandarin, but the specific dialect of this one place.

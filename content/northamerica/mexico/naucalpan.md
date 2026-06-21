@@ -10,6 +10,8 @@ latitude: 19.478836
 loc_type: city
 longitude: -99.232799
 score: 0.24
+snippet: Mexico City satellite municipality with Barragán's Torres de Satélite and
+  hillside urban sprawl.
 sources:
 - https://en.wikipedia.org/wiki/Naucalpan
 - https://en.wikipedia.org/wiki/Torres_de_Sat%C3%A9lite

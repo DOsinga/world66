@@ -10,6 +10,8 @@ latitude: 43.181718
 loc_type: city
 longitude: 16.671232
 score: 0.52
+snippet: Small Hvar inlet village where stone bridges and a fortified church frame
+  a quieter island harbour.
 title: Vrboska
 type: location
 ---

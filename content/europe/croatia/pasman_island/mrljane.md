@@ -10,6 +10,8 @@ latitude: 43.966521
 loc_type: city
 longitude: 15.356302
 score: 0.4
+snippet: Small Pašman fishing village with clear channel waters, sandy beaches, and
+  a navigator tradition.
 title: Mrljane
 type: location
 ---

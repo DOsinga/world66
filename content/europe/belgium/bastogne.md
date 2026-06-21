@@ -6,6 +6,8 @@ latitude: 50.00231
 loc_type: city
 longitude: 5.717339
 score: 0.44
+snippet: Ardennes town defined by the Battle of the Bulge and surrounded by forested
+  cycling country.
 sources:
 - https://en.wikipedia.org/wiki/Bastogne
 - https://en.wikipedia.org/wiki/Battle_of_the_Bulge

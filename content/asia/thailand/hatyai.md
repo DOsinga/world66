@@ -6,6 +6,8 @@ latitude: 7.007464
 loc_type: city
 longitude: 100.468989
 score: 0.42
+snippet: Southern Thai commercial hub near Malaysia, where Thai, Chinese, and Malay
+  food cultures overlap.
 title: Hat Yai
 type: location
 ---

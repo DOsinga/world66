@@ -11,6 +11,8 @@ latitude: 32.222876
 loc_type: city
 longitude: -110.974847
 score: 0.48
+snippet: Sonoran Desert university city ringed by mountains, saguaro forests, and
+  Mexican-influenced food culture.
 title: Tucson
 type: location
 ---

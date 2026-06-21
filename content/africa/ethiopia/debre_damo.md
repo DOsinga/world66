@@ -10,6 +10,8 @@ latitude: 14.3731
 loc_type: city
 longitude: 39.2893
 score: 0.29
+snippet: Flat-topped Tigray mountain crowned by an ancient monastery reached by a
+  leather rope climb.
 title: Debre Damo
 type: location
 ---

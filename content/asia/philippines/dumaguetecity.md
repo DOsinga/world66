@@ -9,6 +9,8 @@ latitude: 9.305478
 loc_type: city
 longitude: 123.308045
 score: 0.44
+snippet: Negros Oriental university city with a seafront promenade and easy access
+  to Apo Island reefs.
 title: Dumaguete City
 type: location
 ---

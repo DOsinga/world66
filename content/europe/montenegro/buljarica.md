@@ -9,6 +9,8 @@ latitude: 42.182802
 loc_type: city
 longitude: 18.979156
 score: 0.44
+snippet: Quiet Montenegrin coastal village with a long pebble beach backed by marsh,
+  olive groves, and mountains.
 title: Buljarica
 type: location
 ---

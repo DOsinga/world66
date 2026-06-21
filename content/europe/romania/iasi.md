@@ -7,6 +7,8 @@ latitude: 47.16156
 loc_type: city
 longitude: 27.583781
 score: 0.42
+snippet: Moldavian university city and cultural capital, centred on palaces, monasteries,
+  and carved stone churches.
 sources:
 - https://en.wikipedia.org/wiki/Ia%C8%99i
 title: Iași

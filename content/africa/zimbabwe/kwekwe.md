@@ -10,6 +10,8 @@ latitude: -18.9281
 loc_type: city
 longitude: 29.8149
 score: 0.22
+snippet: Zimbabwean mining and steel town midway between Harare and Bulawayo, rooted
+  in gold history.
 title: Kwekwe
 type: location
 ---

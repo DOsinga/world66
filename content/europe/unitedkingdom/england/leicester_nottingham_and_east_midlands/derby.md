@@ -10,6 +10,8 @@ latitude: 52.923301
 loc_type: city
 longitude: -1.476549
 score: 0.37
+snippet: Derwent Valley city with early factory history, Rolls-Royce engineering,
+  and a strong Industrial Revolution claim
 sources:
 - https://en.wikipedia.org/wiki/Derby
 - https://en.wikipedia.org/wiki/Derwent_Valley_Mills

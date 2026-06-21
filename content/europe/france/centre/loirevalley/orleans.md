@@ -9,6 +9,8 @@ latitude: 47.902734
 loc_type: city
 longitude: 1.908607
 score: 0.49
+snippet: Loire city shaped by Joan of Arc, with a Gothic cathedral and rebuilt old
+  town
 title: Orleans
 type: location
 ---

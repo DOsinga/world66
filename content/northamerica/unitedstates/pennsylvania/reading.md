@@ -6,6 +6,8 @@ latitude: 40.3353
 loc_type: city
 longitude: -75.9279
 score: 0.28
+snippet: Schuylkill Valley city with a working-class core and a red Japanese-style
+  pagoda above Mount Penn
 title: Reading
 type: location
 ---

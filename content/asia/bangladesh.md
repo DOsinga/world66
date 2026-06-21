@@ -8,16 +8,18 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Nahid.rajbd" class
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Kamaruzzaman_Chattar_at_Rajshahi_Rail_Gate_07.jpg
 latitude: 23.684994
+loc_type: country
 longitude: 90.356331
 quick_facts:
-  Population: "170 million"
+  Cox's Bazar Beach: 120 km long
   Drives On: Left
-  Pop. Density: "1,265/km²"
-  Cox's Bazar Beach: "120 km long"
+  Pop. Density: 1,265/km²
+  Population: 170 million
+score: 0.51
+snippet: River-delta country between India, Myanmar, and the Bay of Bengal, dense
+  with waterways and warmth
 title: Bangladesh
 type: location
-score: 0.51
-loc_type: country
 ---
 
 Bangladesh is one of the most densely populated countries on earth, a watery delta nation squeezed between India on three sides and Myanmar to the southeast, with the Bay of Bengal opening to the south. It is not an easy country to travel — the infrastructure is rough, traffic is chaotic, and the heat and humidity in summer are genuinely punishing — but travelers who come here find something they rarely expected: warmth, generosity, and landscapes of extraordinary beauty.

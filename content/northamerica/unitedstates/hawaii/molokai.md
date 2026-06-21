@@ -5,6 +5,8 @@ latitude: 21.1345
 loc_type: region
 longitude: -157.0072
 score: 0.55
+snippet: Least-developed major Hawaiian island, with towering north-shore sea cliffs
+  and strong native Hawaiian roots
 title: Molokai
 type: location
 ---

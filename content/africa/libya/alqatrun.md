@@ -9,6 +9,8 @@ latitude: 24.935154
 loc_type: city
 longitude: 14.617331
 score: 0.13
+snippet: Fezzan oasis near Libya's southern borders, historically a desert transit
+  point toward Niger and Chad
 title: Al Qatrun
 type: location
 ---

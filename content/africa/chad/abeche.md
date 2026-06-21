@@ -10,6 +10,8 @@ latitude: 13.8292
 loc_type: city
 longitude: 20.8324
 score: 0.17
+snippet: Eastern Chadian city and former Ouaddai capital, with old souqs and routes
+  toward the Ennedi
 title: Abeche
 type: location
 ---

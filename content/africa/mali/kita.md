@@ -10,6 +10,8 @@ latitude: 13.207
 loc_type: city
 longitude: -9.3886
 score: 0.17
+snippet: Malinké town between Kayes and Bamako, set below the granite inselberg of
+  Kita-Kourou
 title: Kita
 type: location
 ---

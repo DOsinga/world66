@@ -10,6 +10,8 @@ latitude: 21.6206
 loc_type: city
 longitude: -81.5461
 score: 0.55
+snippet: Small Cuban resort island off the southern coast, defined by white beaches,
+  reefs, and clear shallow water
 title: Cayo Largo
 type: location
 ---

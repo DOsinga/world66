@@ -11,6 +11,8 @@ latitude: 66.502554
 loc_type: city
 longitude: 25.730391
 score: 0.57
+snippet: Finnish Lapland capital on the Arctic Circle, rebuilt after 1944 and shaped
+  by Alvar Aalto
 title: Rovaniemi
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 36.622115
 loc_type: city
 longitude: 29.115338
 score: 0.6
+snippet: Turquoise Coast harbour town below Lycian rock tombs, with gulets, markets,
+  and islands offshore
 title: Fethiye
 type: location
 ---

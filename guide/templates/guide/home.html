@@ -73,10 +73,10 @@
 {% if cities_json %}
 <div class="wide-block home-cities-section">
   <h2 class="home-section-label">Around the world in in-depth destination guides</h2>
-  <p class="home-section-sub">Our top 1,000 destinations — <a href="/search">search all 20,000 →</a></p>
+  <p class="home-section-sub">{{ featured_city_count }} featured destination guides — <a href="/search">search all {{ search_page_count }} pages →</a></p>
   <div class="home-city-map-wrap">
     <div id="city-map"></div>
-    <div id="city-card-panel" class="home-city-card-panel pos-bl"></div>
+    <div id="city-card-panel" class="home-city-card-panel"></div>
     <button id="map-mode-btn" class="map-mode-btn">Explore the map</button>
   </div>
 </div>
@@ -103,47 +103,150 @@
     subdomains: 'abcd', maxZoom: 19
   }).addTo(map);
 
-  var CORNERS = ['bl', 'br', 'tr', 'tl'];
-  var cornerIdx = 0;
   var panel = document.getElementById('city-card-panel');
   var dotActive = { radius: 7, fillColor: '#b8532b', color: '#fff', weight: 2, fillOpacity: 0.95 };
   var currentMarker = null;
+  var preloadCache = {};
+
+  function escapeHtml(value) {
+    var div = document.createElement('div');
+    div.textContent = value || '';
+    return div.innerHTML;
+  }
+
+  function preloadImage(src, done) {
+    if (!src || preloadCache[src]) {
+      done();
+      return;
+    }
+    var img = new Image();
+    var finished = false;
+    function finish() {
+      if (finished) return;
+      finished = true;
+      preloadCache[src] = true;
+      done();
+    }
+    img.onload = finish;
+    img.onerror = finish;
+    img.src = src;
+    setTimeout(finish, 1800);
+  }
+
+  function overlapsMarker(left, top, width, height, point) {
+    var markerPad = 18;
+    return left < point.x + markerPad &&
+           left + width > point.x - markerPad &&
+           top < point.y + markerPad &&
+           top + height > point.y - markerPad;
+  }
+
+  function overlapsRect(left, top, width, height, rect, wrapRect) {
+    if (!rect) return false;
+    var x1 = rect.left - wrapRect.left - 8;
+    var y1 = rect.top - wrapRect.top - 8;
+    var x2 = rect.right - wrapRect.left + 8;
+    var y2 = rect.bottom - wrapRect.top + 8;
+    return left < x2 && left + width > x1 && top < y2 && top + height > y1;
+  }
+
+  function positionCard(city) {
+    var wrap = document.querySelector('.home-city-map-wrap');
+    if (!wrap) return;
+    var point = map.latLngToContainerPoint([city.lat, city.lng]);
+    var width = panel.offsetWidth;
+    var height = panel.offsetHeight;
+    var gap = 22;
+    var pad = 16;
+    var wrapRect = wrap.getBoundingClientRect();
+    var modeBtnRect = modeBtn ? modeBtn.getBoundingClientRect() : null;
+    var candidates = [
+      { left: point.x + gap, top: point.y - height / 2 },
+      { left: point.x - width - gap, top: point.y - height / 2 },
+      { left: point.x - width / 2, top: point.y + gap },
+      { left: point.x - width / 2, top: point.y - height - gap },
+      { left: point.x + gap, top: point.y + gap },
+      { left: point.x - width - gap, top: point.y + gap },
+      { left: point.x + gap, top: point.y - height - gap },
+      { left: point.x - width - gap, top: point.y - height - gap }
+    ];
+
+    function choosePosition(minLeft, maxLeft, minTop, maxTop) {
+      var best = null;
+      candidates.forEach(function(candidate) {
+        var left = Math.max(minLeft, Math.min(candidate.left, maxLeft));
+        var top = Math.max(minTop, Math.min(candidate.top, maxTop));
+        var dx = (left + width / 2) - point.x;
+        var dy = (top + height / 2) - point.y;
+        var overlaps = overlapsMarker(left, top, width, height, point);
+        var buttonOverlap = overlapsRect(left, top, width, height, modeBtnRect, wrapRect);
+        var score = Math.sqrt(dx * dx + dy * dy) + (overlaps ? 10000 : 0) + (buttonOverlap ? 5000 : 0);
+        if (!best || score < best.score) {
+          best = { left: left, top: top, score: score, overlaps: overlaps };
+        }
+      });
+      return best;
+    }
+
+    var best = choosePosition(
+      pad,
+      wrap.clientWidth - width - pad,
+      pad,
+      wrap.clientHeight - height - pad
+    );
+
+    if (best && best.overlaps) {
+      best = choosePosition(
+        pad - wrapRect.left,
+        window.innerWidth - wrapRect.left - width - pad,
+        -height - gap,
+        wrap.clientHeight + gap
+      );
+    }
+
+    if (!best) return;
+    panel.style.left = Math.round(best.left) + 'px';
+    panel.style.top = Math.round(best.top) + 'px';
+  }
+
+  function openCard(city) {
+    if (currentMarker) { map.removeLayer(currentMarker); currentMarker = null; }
+    currentMarker = L.circleMarker([city.lat, city.lng], dotActive).addTo(map);
+    var snippet = city.snippet ? '<p class="city-card-snippet">' + escapeHtml(city.snippet) + '</p>' : '';
+    // Set non-active state + new content, then double-rAF to ensure the browser
+    // commits opacity:0 before we add 'active' and start the fade-in transition.
+    panel.className = 'home-city-card-panel';
+    panel.innerHTML =
+      '<a href="' + encodeURI(city.url) + '" class="city-card-link" aria-label="Explore ' + escapeHtml(city.title) + '">' +
+        '<div class="city-card-photo">' +
+          '<img src="' + encodeURI(city.image) + '" alt="' + escapeHtml(city.title) + '" loading="lazy">' +
+          '<div class="city-card-photo-shade"></div>' +
+          '<div class="city-card-title-block">' +
+            '<div class="city-card-name">' + escapeHtml(city.title) + '</div>' +
+            '<div class="city-card-country">' + escapeHtml(city.country || '') + '</div>' +
+          '</div>' +
+        '</div>' +
+        '<div class="city-card-body">' + snippet + '</div>' +
+	      '</a>';
+    requestAnimationFrame(function() {
+      positionCard(city);
+      requestAnimationFrame(function() {
+        panel.classList.add('active');
+      });
+    });
+  }
+
+  map.dragging.disable();
 
   function closeCard() {
     panel.classList.remove('active');
     if (currentMarker) { map.removeLayer(currentMarker); currentMarker = null; }
   }
 
-  function openCard(city) {
-    if (currentMarker) { map.removeLayer(currentMarker); currentMarker = null; }
-    currentMarker = L.circleMarker([city.lat, city.lng], dotActive).addTo(map);
-    var corner = CORNERS[cornerIdx % CORNERS.length];
-    cornerIdx++;
-    // Set non-active state + new content, then double-rAF to ensure the browser
-    // commits opacity:0 before we add 'active' and start the fade-in transition.
-    panel.className = 'home-city-card-panel pos-' + corner;
-    panel.innerHTML =
-      '<button class="city-card-close" aria-label="Close">&times;</button>' +
-      '<div class="city-card-photo"><img src="' + city.image + '" alt="' + city.title + '" loading="lazy"></div>' +
-      '<div class="city-card-body">' +
-        '<div class="city-card-name">' + city.title + '</div>' +
-        '<div class="city-card-country">' + (city.country || '') + '</div>' +
-        '<a href="' + city.url + '" class="city-card-link">Explore →</a>' +
-      '</div>';
-    requestAnimationFrame(function() {
-      requestAnimationFrame(function() {
-        panel.classList.add('active');
-        panel.querySelector('.city-card-close').onclick = function() { closeCard(); if (!isExploring) pauseCycle(10000); };
-      });
-    });
-  }
-
-  // Explore mode
   var exploreLayer = L.layerGroup().addTo(map);
   var isExploring = false;
   var modeBtn = document.getElementById('map-mode-btn');
   var dot = { radius: 5, fillColor: '#b8532b', color: '#fff', weight: 1.5, fillOpacity: 0.85 };
-  map.dragging.disable();
 
   function updateExploreDots() {
     exploreLayer.clearLayers();
@@ -159,7 +262,7 @@
   function enterExploreMode() {
     if (isExploring) return;
     isExploring = true;
-    clearTimeout(cycleTimer); userPaused = true; clearTimeout(pauseTimer);
+    clearTimeout(cycleTimer);
     closeCard();
     map.dragging.enable();
     map.flyTo([curLat, curLng], 5, { duration: 1.2 });
@@ -171,10 +274,10 @@
     if (!isExploring) return;
     isExploring = false;
     exploreLayer.clearLayers();
+    closeCard();
     map.dragging.disable();
     map.flyTo([20, 10], 2, { duration: 1.2 });
     modeBtn.textContent = 'Explore the map';
-    userPaused = false;
     scheduleNext(1400);
   }
 
@@ -183,7 +286,7 @@
   };
 
   map.on('moveend', function() { if (isExploring) updateExploreDots(); });
-  map.on('click', function() { closeCard(); });
+  map.on('click', function() { if (isExploring) closeCard(); });
 
   var cycleCities = cities.filter(function(c) { return c.score >= 0.70; });
   // Shuffle
@@ -204,15 +307,9 @@
     if (found) break;
   }
 
-  var cycleIdx = 0, cycleTimer = null, pauseTimer = null, userPaused = false, cycleStarted = false;
+  var cycleIdx = 0, cycleTimer = null, cycleStarted = false;
   var MIN_JUMP_M = 900000, MAX_JUMP_M = 5000000;
   var prevLat = null, prevLng = null;
-
-  function pauseCycle(ms) {
-    userPaused = true;
-    clearTimeout(pauseTimer);
-    pauseTimer = setTimeout(function() { userPaused = false; }, ms);
-  }
 
   // Normalize longitude difference to [-180, 180] to handle the dateline correctly
   function dlng(from, to) { var d = to - from; while (d > 180) d -= 360; while (d < -180) d += 360; return d; }
@@ -255,10 +352,13 @@
   function scheduleNext(delay) {
     clearTimeout(cycleTimer);
     cycleTimer = setTimeout(function() {
-      if (userPaused || !cycleCities.length) { scheduleNext(500); return; }
+      if (!cycleCities.length) { scheduleNext(500); return; }
       var picked = pickNext();
-      openCard(picked.city);
-      scheduleNext(3500);
+      preloadImage(picked.city.image, function() {
+        if (isExploring) return;
+        openCard(picked.city);
+        scheduleNext(4300);
+      });
     }, delay || 0);
   }
 

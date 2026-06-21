@@ -10,6 +10,8 @@ latitude: -33.4449
 loc_type: city
 longitude: -71.6925
 score: 0.44
+snippet: Small Chilean coastal village known for Pablo Neruda's idiosyncratic seaside
+  house and rocky Pacific shoreline.
 title: Isla Negra
 type: location
 ---

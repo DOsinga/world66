@@ -1,12 +1,14 @@
 ---
-title: Garden Route
-type: location
-latitude: -33.959721
-longitude: 22.458715
 done:
   location_cleanup: 2026-04-06
-score: 0.71
+latitude: -33.959721
 loc_type: region
+longitude: 22.458715
+score: 0.71
+snippet: South African coastal route of seaside towns, indigenous forests, lakes,
+  mountains, and golden beaches.
+title: Garden Route
+type: location
 ---
 
 Scattered along the Garden Route, fashionable seaside resorts abound, attracting jet-setters from around the globe. On a less affluent scale, tine coastal villages appeal especially to outdoor people who enjoy an unstructured holiday agenda. Mountains crowd close to a shoreline dotted with beaches and bays, and vividly coloured wild flowers delight the eye.

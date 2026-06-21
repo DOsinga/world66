@@ -2,18 +2,20 @@
 country: Indonesia
 done:
   lp_coverage: '2026-06-05'
+image: giliislands.jpg
+image_attribution: Vyacheslav Argenberg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Beach_on_the_island,_Tropical_cyclone,_Gili_Meno_Island,_Indonesia.jpg
 latitude: -8.35
 loc_type: feature
 longitude: 116.06
+score: 0.6
+snippet: Three coral-fringed Lombok islands known for beaches, diving, and a complete
+  absence of motorised vehicles.
 sources:
 - https://en.wikipedia.org/wiki/Gili_Islands
 title: Gili Islands
 type: location
-image: giliislands.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Beach_on_the_island,_Tropical_cyclone,_Gili_Meno_Island,_Indonesia.jpg
-image_license: CC BY 4.0
-image_attribution: Vyacheslav Argenberg
-score: 0.6
 ---
 
 Three small coral-fringed islands off the northwest coast of [Lombok](/asia/indonesia/lombok) — Gili Trawangan, Gili Meno, and Gili Air — have become among the most visited destinations in Indonesia, and they've earned it. The Gilis have no motorised vehicles of any kind; the only transport is horse-drawn cidomo carts and bicycles. The result is a rare kind of quiet that you don't find on neighbouring [Bali](/asia/indonesia/bali), even as the restaurants and beach bars stay open until dawn.

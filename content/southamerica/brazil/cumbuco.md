@@ -6,6 +6,8 @@ latitude: -3.6259
 loc_type: city
 longitude: -38.7256
 score: 0.43
+snippet: Fishing village north of Fortaleza, known for kitesurfing, sand dunes, and
+  Lagoa de Cauipe.
 title: Cumbuco
 type: location
 ---

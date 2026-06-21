@@ -9,6 +9,8 @@ latitude: 42.548974
 loc_type: city
 longitude: -70.878188
 score: 0.35
+snippet: Historic North Shore city by Beverly Harbor, associated with early naval
+  history and Cabot Street theatres.
 title: Beverly
 type: location
 ---

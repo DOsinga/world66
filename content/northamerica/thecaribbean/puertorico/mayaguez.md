@@ -8,13 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Statues_in_Mayag%C3%BCez,_
 latitude: 18.2011
 loc_type: city
 longitude: -67.1397
+score: 0.39
+snippet: West-coast Puerto Rican city known for its university, port history, coffee
+  trade, and Plaza Colón.
 sources:
 - https://en.wikipedia.org/wiki/Mayag%C3%BCez,_Puerto_Rico
 - https://en.wikipedia.org/wiki/Teatro_Yag%C3%BCez
 - https://en.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_Cervecera_de_Puerto_Rico
 title: Mayagüez
 type: location
-score: 0.39
 ---
 
 Mayagüez sits on Puerto Rico's west coast, the largest city on that side of the island and the unofficial capital of the region known as Porta del Sol. It is a university town, a port town, and historically the heart of Puerto Rico's coffee and rum trade. Locals call it the *Sultana del Oeste* — the Sultana of the West — and they are not modest about its place in the island's culture.

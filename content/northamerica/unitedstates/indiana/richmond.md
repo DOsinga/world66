@@ -6,6 +6,8 @@ latitude: 39.8289
 loc_type: city
 longitude: -84.8902
 score: 0.27
+snippet: Eastern Indiana city on the old National Road, known for Underground Railroad
+  and early jazz history.
 title: Richmond
 type: location
 ---

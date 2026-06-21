@@ -8,6 +8,8 @@ latitude: 39.905714
 loc_type: city
 longitude: 116.391297
 score: 0.71
+snippet: China's northern capital, centred on imperial landmarks including the Forbidden
+  City, Temple of Heaven, and Summer Palace.
 sources:
 - https://en.wikivoyage.org/wiki/Beijing
 title: Beijing

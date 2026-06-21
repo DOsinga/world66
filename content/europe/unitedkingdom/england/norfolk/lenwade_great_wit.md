@@ -10,6 +10,8 @@ latitude: 52.7224
 loc_type: city
 longitude: 1.1039
 score: 0.25
+snippet: Norfolk hamlet near Great Witchingham, known for Dinosaur Adventure and River
+  Wensum walks
 title: Lenwade
 type: location
 ---

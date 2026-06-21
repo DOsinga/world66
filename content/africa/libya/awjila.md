@@ -10,6 +10,8 @@ latitude: 29.1081
 loc_type: city
 longitude: 21.2869
 score: 0.14
+snippet: Historic Saharan oasis town on old caravan routes, with Amazigh language
+  and palm groves
 title: Awjila
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 41.407791
 loc_type: city
 longitude: 43.485427
 score: 0.31
+snippet: Southern Georgian plateau city near the Armenian border, useful as a transit
+  hub
 title: Akhalkalaki
 type: location
 ---

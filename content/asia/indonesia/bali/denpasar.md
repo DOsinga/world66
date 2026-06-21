@@ -9,6 +9,8 @@ latitude: -8.652497
 loc_type: city
 longitude: 115.219117
 score: 0.57
+snippet: Busy Balinese capital with the island's strongest museums and modern cultural
+  institutions
 title: Denpasar
 type: location
 ---

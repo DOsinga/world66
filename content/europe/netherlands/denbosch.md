@@ -10,6 +10,8 @@ latitude: 51.6889
 loc_type: city
 longitude: 5.3031
 score: 0.46
+snippet: Southern Dutch city of Brabant Gothic architecture, underground canals, and
+  Hieronymus Bosch heritage
 title: Den Bosch
 type: location
 ---

@@ -10,6 +10,7 @@ latitude: 22.7546
 loc_type: city
 longitude: 77.7198
 score: 0.27
+snippet: Narmada River town and gateway to Satpura National Park's quieter tiger country
 title: Hoshangabad
 type: location
 ---

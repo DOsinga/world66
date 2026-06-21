@@ -10,6 +10,8 @@ latitude: 61.4033
 loc_type: city
 longitude: -6.7117
 score: 0.39
+snippet: Southernmost Faroese village below Beinisvørð sea cliff, with Atlantic views
+  and poet heritage
 title: Sumba
 type: location
 ---

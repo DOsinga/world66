@@ -10,6 +10,8 @@ latitude: 23.408668
 loc_type: city
 longitude: 88.365799
 score: 0.32
+snippet: Bengali pilgrimage city on the Bhagirathi, revered as Chaitanya Mahaprabhu's
+  Vaishnava birthplace
 title: Nabadwip
 type: location
 ---

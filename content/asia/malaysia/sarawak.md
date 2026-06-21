@@ -10,6 +10,8 @@ latitude: 2.502385
 loc_type: city
 longitude: 112.954728
 score: 0.48
+snippet: Bornean Malaysian state of rainforest, longhouse cultures, orangutans, and
+  immense limestone cave systems
 title: Sarawak
 type: location
 ---

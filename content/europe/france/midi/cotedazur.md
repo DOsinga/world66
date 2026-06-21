@@ -1,16 +1,18 @@
 ---
-title: Cote d'Azur
-type: location
-latitude: 43.426417
-longitude: 6.722662
 done:
   location_cleanup: 2026-04-05
-score: 0.82
 image: cotedazur.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Agay_vu_du_Dramont.JPG
-image_license: CC BY-SA 3.0
 image_attribution: Frédéric Ducarme
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Agay_vu_du_Dramont.JPG
+latitude: 43.426417
 loc_type: region
+longitude: 6.722662
+score: 0.82
+snippet: Mediterranean coast region of blue sea, resort cities, and hill villages
+  below the Maritime Alps
+title: Cote d'Azur
+type: location
 ---
 
 The Côte d'Azur earns its name the moment you arrive. The light is different here — sharper, more Mediterranean — and the sea really is that shade of blue. It stretches from the Italian border past Nice, Cannes, and Toulon to Marseille in the west, covering some 200 kilometres of coastline backed by the Maritime Alps and the Var hills.

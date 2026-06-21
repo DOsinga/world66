@@ -11,6 +11,8 @@ latitude: 51.88969
 loc_type: city
 longitude: 0.899465
 score: 0.38
+snippet: Historic Essex town built over Roman Camulodunum, with Norman castle and
+  surviving city walls
 title: Colchester
 type: location
 ---

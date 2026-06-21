@@ -6,6 +6,8 @@ latitude: 51.4513
 loc_type: city
 longitude: 6.6284
 score: 0.3
+snippet: Ruhr-edge town known for experimental jazz, a moated castle, and post-industrial
+  Rhine views
 sources:
 - https://en.wikipedia.org/wiki/Moers
 - https://en.wikipedia.org/wiki/Moers_Festival

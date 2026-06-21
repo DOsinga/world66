@@ -11,6 +11,7 @@ latitude: 52.281452
 loc_type: city
 longitude: -1.581574
 score: 0.41
+snippet: West Midlands town dominated by a medieval castle above the River Avon
 title: Warwick
 type: location
 ---

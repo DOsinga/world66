@@ -6,6 +6,7 @@ latitude: 51.685783
 loc_type: city
 longitude: -0.033
 score: 0.24
+snippet: Commuter town north of London, named for a surviving medieval Eleanor Cross
 title: Waltham Cross
 type: location
 ---

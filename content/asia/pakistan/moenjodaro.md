@@ -10,6 +10,8 @@ latitude: 27.3217
 loc_type: city
 longitude: 68.1366
 score: 0.39
+snippet: Indus Valley archaeological city with brick streets, ancient drainage, and
+  the monumental Great Bath.
 title: Moenjodaro
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 40.182573
 loc_type: city
 longitude: 29.067504
 score: 0.51
+snippet: First Ottoman capital, anchored by early imperial mosques, silk bazaars,
+  and Iznik tilework.
 sources:
 - https://en.wikipedia.org/wiki/Bursa
 - https://en.wikipedia.org/wiki/Green_Mosque,_Bursa

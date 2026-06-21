@@ -9,12 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Annapurna_Massif_Panorama.
 latitude: 28.5955
 loc_type: feature
 longitude: 83.8201
+score: 0.74
+snippet: Himalayan trekking region around the Annapurna massif, spanning subtropical
+  valleys and high desert plateau.
 sources:
 - https://en.wikipedia.org/wiki/Annapurna_Conservation_Area
 - https://en.wikipedia.org/wiki/Annapurna_Circuit
 title: Annapurna Region
 type: location
-score: 0.74
 ---
 
 The Annapurna region is Nepal's most visited trekking destination — and for good reason. Centred on the Annapurna massif, which includes Annapurna I (8,091m), the tenth-highest peak on earth and the first 8,000-metre peak ever climbed, the area encompasses a huge sweep of terrain from subtropical river valleys to high-altitude desert plateau. The [Annapurna Conservation Area](/asia/nepal/annapurna/annapurna_conservation_area), at 7,629 square kilometres, is the largest protected area in Nepal and one of the most species-rich in the Himalayas.

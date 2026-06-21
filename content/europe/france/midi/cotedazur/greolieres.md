@@ -8,6 +8,8 @@ latitude: 43.795181
 loc_type: city
 longitude: 6.943595
 score: 0.41
+snippet: Alpes-Maritimes hilltop village between Riviera and mountains, with stone
+  lanes and a nearby ski station.
 title: Gréolières
 type: location
 ---

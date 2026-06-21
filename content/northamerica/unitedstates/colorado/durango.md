@@ -10,6 +10,8 @@ latitude: 37.276948
 loc_type: city
 longitude: -107.8766
 score: 0.5
+snippet: Southwest Colorado mountain town in the Animas River Valley, framed by the
+  San Juan Mountains.
 title: Durango
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: -35.255009
 loc_type: city
 longitude: 174.162673
 score: 0.6
+snippet: Subtropical Northland bay of 144 islands, warm sheltered water, and Waitangi
+  history.
 title: Bay of Islands
 type: location
 ---

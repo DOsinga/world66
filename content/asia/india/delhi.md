@@ -11,6 +11,8 @@ latitude: 28.613895
 loc_type: city
 longitude: 77.209006
 score: 0.49
+snippet: Indian capital and layered megacity where Sultanate, Mughal, British, and
+  modern Delhi overlap.
 title: Delhi
 type: location
 ---

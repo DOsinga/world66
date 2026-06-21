@@ -5,9 +5,11 @@ done:
 latitude: 21.5
 loc_type: city
 longitude: -71.52
+score: 0.45
+snippet: Windswept Turks and Caicos fishing island where conch and lobster still shape
+  Cockburn Harbour.
 title: South Caicos
 type: location
-score: 0.45
 ---
 
 South Caicos is the fishing capital of the Turks and Caicos — a small, windswept island where the economy still revolves around conch and lobster rather than tourism. The main settlement, [Cockburn Harbour](/northamerica/turksandcaicosislands/southcaicos/cockburn_harbour), has a quiet, working-harbour feel that is rare in the modern Caribbean.

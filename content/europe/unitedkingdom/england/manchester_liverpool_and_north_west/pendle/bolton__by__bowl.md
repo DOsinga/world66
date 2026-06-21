@@ -6,6 +6,8 @@ latitude: 53.961827
 loc_type: city
 longitude: -2.346525
 score: 0.35
+snippet: Quiet Ribble Valley village on the Forest of Bowland fringe, centred on a
+  green and medieval church.
 title: Bolton-by-Bowland
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 40.7794
 loc_type: city
 longitude: 21.4075
 score: 0.39
+snippet: Northwestern Greek city near the Prespa Lakes, surrounded by rugged mountains
+  and forested valleys.
 title: Florina
 type: location
 ---

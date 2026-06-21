@@ -8,11 +8,12 @@ image_source: https://commons.wikimedia.org/wiki/File:Piles_of_Salt_Salar_de_Uyu
 latitude: -20.4628
 loc_type: city
 longitude: -66.8239
+score: 0.63
+snippet: Dusty Bolivian Altiplano railway town on the edge of the Salar de Uyuni.
 sources:
 - https://en.wikipedia.org/wiki/Uyuni
 title: Uyuni
 type: location
-score: 0.63
 ---
 
 Uyuni is a small, dusty railway town on the Altiplano of southwest Bolivia, sitting at 3,670 metres on the edge of the great salt flat that bears its name. Almost everyone who comes here is on their way to or from the [Salar de Uyuni](/southamerica/bolivia/salar_of_uyuni), and the town has organised itself accordingly — every other building on the main street is a tour agency, a pizza joint, or a hostel.

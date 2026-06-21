@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Abel_Tasman,_Aotearoa.jpg
 latitude: -40.9
 loc_type: feature
 longitude: 172.971
+score: 0.66
+snippet: Coastal New Zealand national park of golden beaches, granite headlands, and
+  water-taxi trails.
 sources:
 - https://en.wikipedia.org/wiki/Abel_Tasman_National_Park
 title: Abel Tasman National Park
 type: location
-score: 0.66
 ---
 
 Abel Tasman is New Zealand's smallest national park and consistently its most visited — a sixty-kilometre coastline of golden-sand beaches, granite headlands, and clear turquoise water at the northwestern tip of the South Island. There are no roads inside the park; you arrive by walking in from [Marahau](/australiaandpacific/newzealand/marahau) at the southern end or [Totaranui](/australiaandpacific/newzealand/abeltasmannationalpark/totaranui) at the northern end, by sea kayak, or by water taxi from Kaiteriteri.

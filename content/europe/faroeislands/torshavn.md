@@ -10,6 +10,8 @@ latitude: 62.01014
 loc_type: city
 longitude: -6.771571
 score: 0.55
+snippet: Tiny Faroese capital on Streymoy, with turf-roofed Tinganes and a working
+  North Atlantic harbour.
 title: Tórshavn
 type: location
 ---

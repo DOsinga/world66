@@ -10,6 +10,8 @@ latitude: 47.0709
 loc_type: city
 longitude: 15.4383
 score: 0.59
+snippet: Austrian university city with a walkable old town, Schlossberg clock tower,
+  and historic armoury.
 title: Graz
 type: location
 ---

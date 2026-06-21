@@ -5,6 +5,8 @@ latitude: 62.298151
 loc_type: region
 longitude: -6.74299
 score: 0.61
+snippet: Narrow Faroese island ridge of east-coast villages, road tunnels, and the
+  Kallur lighthouse hike.
 title: Kalsoy
 type: location
 ---

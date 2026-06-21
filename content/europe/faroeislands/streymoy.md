@@ -8,6 +8,8 @@ latitude: 62.1237
 loc_type: region
 longitude: -7.0159
 score: 0.59
+snippet: Largest Faroese island, anchored by Tórshavn and threaded with fjords, cliffs,
+  and old villages.
 title: Streymoy
 type: location
 ---

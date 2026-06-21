@@ -9,6 +9,8 @@ latitude: 12.619598
 loc_type: city
 longitude: 80.19365
 score: 0.53
+snippet: Tamil Nadu coastal village of Pallava rock-cut temples and an easy beach
+  atmosphere.
 title: Mahabalipuram
 type: location
 ---

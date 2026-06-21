@@ -10,6 +10,8 @@ latitude: 49.038913
 loc_type: city
 longitude: 17.814835
 score: 0.34
+snippet: Moravian foothill town near Slovakia, watched over by Nový Světlov Chateau
+  and White Carpathian trails.
 title: Bojkovice
 type: location
 ---

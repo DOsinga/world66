@@ -10,6 +10,8 @@ latitude: 59.518844
 loc_type: city
 longitude: 25.272958
 score: 0.29
+snippet: Estonian coastal village on a pine-edged peninsula, known for quiet beach
+  and glacial dunes.
 title: Kaberneeme
 type: location
 ---

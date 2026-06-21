@@ -11,6 +11,8 @@ latitude: 33.559
 loc_type: city
 longitude: 133.5311
 score: 0.5
+snippet: Pacific-coast Shikoku city with Tosa spirit, an original castle, and lively
+  local markets.
 title: Kōchi
 type: location
 ---

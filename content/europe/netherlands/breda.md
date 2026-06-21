@@ -12,6 +12,8 @@ latitude: 51.5719
 loc_type: city
 longitude: 4.7683
 score: 0.45
+snippet: Southern Dutch student town of cafe terraces, Brabantine Gothic, and a relaxed
+  old centre.
 title: Breda
 type: location
 ---

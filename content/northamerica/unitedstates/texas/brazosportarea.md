@@ -10,6 +10,8 @@ latitude: 29.0458
 loc_type: city
 longitude: -95.3958
 score: 0.28
+snippet: Brazoria County Gulf Coast cluster with Surfside beaches, wetlands, and Houston's
+  closest ocean sand.
 title: Brazosport Area
 type: location
 ---

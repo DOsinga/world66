@@ -9,6 +9,8 @@ latitude: 12.7998
 loc_type: city
 longitude: 99.9662
 score: 0.45
+snippet: Quiet Thai beach town near Hua Hin, popular with Bangkok weekenders and weekday
+  idlers.
 title: Cha Am
 type: location
 ---

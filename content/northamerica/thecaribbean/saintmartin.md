@@ -11,6 +11,8 @@ latitude: 18.0731
 loc_type: city
 longitude: -63.0822
 score: 0.59
+snippet: French Caribbean half-island of beaches, Marigot markets, and easy border
+  crossings with Sint Maarten.
 title: Saint-Martin
 type: location
 ---

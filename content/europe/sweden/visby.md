@@ -11,6 +11,8 @@ latitude: 57.6379
 loc_type: city
 longitude: 18.298
 score: 0.58
+snippet: Walled medieval city on Gotland, ringed by limestone towers and roofless
+  Hanseatic church ruins.
 title: Visby
 type: location
 ---

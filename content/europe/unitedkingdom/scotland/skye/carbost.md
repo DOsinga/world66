@@ -9,6 +9,8 @@ latitude: 57.301539
 loc_type: city
 longitude: -6.353226
 score: 0.47
+snippet: Small Skye village on Loch Harport, known for Talisker whisky beneath the
+  Black Cuillin.
 title: Carbost
 type: location
 ---

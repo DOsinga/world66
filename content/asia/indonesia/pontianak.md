@@ -10,6 +10,8 @@ latitude: -0.02269
 loc_type: city
 longitude: 109.344749
 score: 0.35
+snippet: Equatorial Borneo river city where Kapuas waterfront kampungs meet West Kalimantan's
+  sultanate past.
 title: Pontianak
 type: location
 ---

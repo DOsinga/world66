@@ -10,6 +10,8 @@ latitude: 47.587686
 loc_type: city
 longitude: 1.333764
 score: 0.57
+snippet: Loire Valley city above the river, crowned by a royal château tied to France’s
+  Renaissance court.
 title: Blois
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 50.977797
 loc_type: city
 longitude: 11.028736
 score: 0.49
+snippet: Thuringian city with a largely preserved old town and the inhabited medieval
+  Krämerbrücke.
 title: Erfurt
 type: location
 ---

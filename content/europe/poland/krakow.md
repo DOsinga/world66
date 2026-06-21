@@ -10,6 +10,8 @@ latitude: 50.061947
 loc_type: city
 longitude: 19.936856
 score: 0.65
+snippet: Former Polish royal capital with an intact medieval Old Town, Wawel Castle,
+  and Kazimierz.
 title: Krakow
 type: location
 ---

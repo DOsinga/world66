@@ -10,6 +10,8 @@ latitude: 36.854808
 loc_type: city
 longitude: 10.330992
 score: 0.53
+snippet: Ancient coastal city near Tunis, layered with Punic ports, Roman ruins, and
+  centuries of Mediterranean history.
 title: Carthage
 type: location
 ---
